@@ -1,5 +1,4 @@
-"N°
-"	"types"	"traditions"	"title"	"subtitle"	"langCodes"	"creation_label"	"creation_norm"	"creationCentury_norm"	"copyYear_label"	"copyCentury_norm"	"actualCoutries"	"actualDistricts"	"institution"	"pressmark"
+"N°"	"types"	"traditions"	"title"	"subtitle"	"langCodes"	"creation_label"	"creation_norm"	"creationCentury_norm"	"copyYear_label"	"copyCentury_norm"	"actualCoutries"	"actualDistricts"	"institution"	"pressmark"
 20	"Juridiction gracieuse ecclésiastique"	"orig"	"Acte sous le sceau de l’officialité épiscopale de Beauvais"	"Une opération de remembrement : la vente  à l’abbaye Saint-Germer-de-Fly d’une terre tenue à champart"	"lat"	1248	1248	"XIII"			"France"	"Picardie"	"Bibliothèque nationale de France"	
 22	"Juridiction gracieuse ecclésiastique"	"orig"	"Acte sous le sceau de l’officialité épiscopale de Meaux"	"Une patiente politique d’acquisition : vente de terre aux cisterciens de Chaalis"	"lat"	1251	1251	"XIII"			"France"	"Ile-de-France"	"Bibliothèque nationale de France"	
 23	"Actes privés sous le sceau et/ou la signature de l’auteur"	"orig"	"Acte scellé par un chevalier (Multien)"	"Après le don : le chevalier Thomas d’Oissery s’engage, comme seigneur censuel, à garantir aux cisterciens de Chaalis des terres contestées"	"lat"	1261	1261	"XIII"			"France"	"Ile-de-France"	"Bibliothèque nationale de France"	
