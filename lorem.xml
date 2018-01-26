@@ -8,10 +8,10 @@
   TODO:
   * vérifier encodage + conversion UTF8
   * penser à gérer les identités :
-      &#171; => "« "
-      &#187; => " »"
-      &#x2019; => "’"
-      "&quot; => '"' -> ATTENTION SOUVENT UTILISÉ EN VALEUR D'ATTRIBUT…
+  &#171; => "« "
+  &#187; => " »"
+  &#x2019; => "’"
+  "&quot; => '"' -> ATTENTION SOUVENT UTILISÉ EN VALEUR D'ATTRIBUT…
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -52,24 +52,47 @@
     </profileDesc>
   </teiHeader>
   <facsimile>
-    <surface type="iiif-annotations">
+    <surface>
       <!-- Commentaire diplomatique, caractères externes -->
       <graphic url="20/faxexternes.jpg"/>
+      <!-- les zones pour le fac-similé interactif ??? -->
+      <surface xml:id="facsim-img">
+        <zone xml:id="facsim-img_1"  ulx="14" uly="16"  lrx="785" lry="37"/>
+        <zone xml:id="facsim-img_2"  ulx="13" uly="46"  lrx="779" lry="64"/>
+        <zone xml:id="facsim-img_3"  ulx="8"  uly="74"  lrx="800" lry="92"/>
+        <zone xml:id="facsim-img_4"  ulx="10" uly="102" lrx="805" lry="117"/>
+        <zone xml:id="facsim-img_5"  ulx="7"  uly="128" lrx="791" lry="145"/>
+        <zone xml:id="facsim-img_6"  ulx="14" uly="157" lrx="793" lry="176"/>
+        <zone xml:id="facsim-img_7"  ulx="12" uly="183" lrx="796" lry="196"/>
+        <zone xml:id="facsim-img_8"  ulx="14" uly="210" lrx="791" lry="228"/>
+        <zone xml:id="facsim-img_9"  ulx="12" uly="233" lrx="784" lry="256"/>
+        <zone xml:id="facsim-img_10" ulx="11" uly="261" lrx="792" lry="285"/>
+        <zone xml:id="facsim-img_11" ulx="9"  uly="291" lrx="790" lry="313"/>
+        <zone xml:id="facsim-img_12" ulx="8"  uly="324" lrx="790" lry="342"/>
+        <zone xml:id="facsim-img_13" ulx="5"  uly="348" lrx="785" lry="371"/>
+        <zone xml:id="facsim-img_14" ulx="10" uly="379" lrx="776" lry="400"/>
+        <zone xml:id="facsim-img_15" ulx="9"  uly="404" lrx="786" lry="431"/>
+        <zone xml:id="facsim-img_16" ulx="6"  uly="435" lrx="789" lry="455"/>
+        <zone xml:id="facsim-img_17" ulx="6"  uly="460" lrx="788" lry="488"/>
+        <zone xml:id="facsim-img_18" ulx="3"  uly="495" lrx="486" lry="513"/>
+      </surface>
       <!-- les ANNOTATIONS -->
-      <zone xml:id="a1"  style="circle" points="29,39,13">Initiale majuscule.</zone>
-      <zone xml:id="a2"  style="poly" points="229,36 239,32 244,34 249,36 251,40 250,43 248,47 242,50 234,50 231,44 230,41 233,34">Deux points juxtaposés.</zone>
-      <zone xml:id="a3"  style="circle" points="579,59,15">Tiret en fin de ligne, signalant une coupure de mot.</zone>
-      <zone xml:id="a4"  style="circle" points="410,117,8">Mots exponctués.</zone>
-      <zone xml:id="a5"  style="circle" points="342,95,11">i pointé par un trait oblique appuyé.</zone>
-      <zone xml:id="a6"  style="circle" points="392,558,40">Initiale majuscule.</zone>
-      <zone xml:id="a7"  style="poly" points="68,99 72,88 80,84 86,91 89,99 90,104 83,108 81,106 81,120 74,117">Initiale majuscule.</zone>
-      <zone xml:id="a8"  style="poly" points="15,280 20,276 32,271 46,271 60,271 76,272 92,270 106,270 120,273 129,277 133,285 121,289 126,287 116,292 123,289 111,296 95,299 72,299 47,297 26,293 16,288">Mots exponctués.</zone>
-      <zone xml:id="a9"  style="poly" points="770,501 785,504 792,523 789,555 782,566 776,574 770,580 760,586">Ponctuation assez sobre.</zone>
-      <zone xml:id="a10" style="poly" points="447,23 451,26 456,29 459,34 458,41 458,46 455,50 451,54 442,54 438,47 436,41 437,33 442,28 445,23">Initiale grossie.</zone>
-      <zone xml:id="a11" style="poly" points="546,181 550,180 555,178 562,178 565,177 570,177 578,179 583,181 585,186 585,189 583,193 581,195 578,197 574,198 567,199 562,198 555,199 549,198 547,195 543,191 542,186">s final étiré.</zone>
-      <zone xml:id="a12" style="poly" points="529,245 537,241 542,240 547,240 553,239 558,239 561,238 566,240 569,242 576,244 580,245 581,251 577,256 576,260 571,261 558,262 546,262 538,257 533,260 530,255" >Mots exponctués.</zone>
-      <zone xml:id="a13" style="poly" points="408,360 416,359 420,359 428,357 438,356 449,355 458,355 467,353 479,353 488,355 495,353 504,354 511,355 519,356 527,356 536,356 539,356 546,356 551,358 556,357 560,359 567,360 572,359 578,362 583,362 588,366 592,367 596,369 597,374 593,375 588,378 581,379 572,382 564,382 554,384 543,384 537,386 528,387 520,387 513,387 508,387 498,387 484,387 478,387 467,387 461,387 451,387 443,387 435,387 420,381 426,385 412,383 408,382 401,382 393,379 388,372 383,370 389,364 397,360">Traits allongés en fin de dernière ligne.</zone>
-      <zone xml:id="a14" style="circle" points="303,426,30">Double queue de parchemin.</zone>
+      <surface xml:id="iiif-annotations">
+        <zone xml:id="a1"  style="circle" points="29,39,13">Initiale majuscule.</zone>
+        <zone xml:id="a2"  style="poly" points="229,36 239,32 244,34 249,36 251,40 250,43 248,47 242,50 234,50 231,44 230,41 233,34">Deux points juxtaposés.</zone>
+        <zone xml:id="a3"  style="circle" points="579,59,15">Tiret en fin de ligne, signalant une coupure de mot.</zone>
+        <zone xml:id="a4"  style="circle" points="410,117,8">Mots exponctués.</zone>
+        <zone xml:id="a5"  style="circle" points="342,95,11">i pointé par un trait oblique appuyé.</zone>
+        <zone xml:id="a6"  style="circle" points="392,558,40">Initiale majuscule.</zone>
+        <zone xml:id="a7"  style="poly" points="68,99 72,88 80,84 86,91 89,99 90,104 83,108 81,106 81,120 74,117">Initiale majuscule.</zone>
+        <zone xml:id="a8"  style="poly" points="15,280 20,276 32,271 46,271 60,271 76,272 92,270 106,270 120,273 129,277 133,285 121,289 126,287 116,292 123,289 111,296 95,299 72,299 47,297 26,293 16,288">Mots exponctués.</zone>
+        <zone xml:id="a9"  style="poly" points="770,501 785,504 792,523 789,555 782,566 776,574 770,580 760,586">Ponctuation assez sobre.</zone>
+        <zone xml:id="a10" style="poly" points="447,23 451,26 456,29 459,34 458,41 458,46 455,50 451,54 442,54 438,47 436,41 437,33 442,28 445,23">Initiale grossie.</zone>
+        <zone xml:id="a11" style="poly" points="546,181 550,180 555,178 562,178 565,177 570,177 578,179 583,181 585,186 585,189 583,193 581,195 578,197 574,198 567,199 562,198 555,199 549,198 547,195 543,191 542,186">s final étiré.</zone>
+        <zone xml:id="a12" style="poly" points="529,245 537,241 542,240 547,240 553,239 558,239 561,238 566,240 569,242 576,244 580,245 581,251 577,256 576,260 571,261 558,262 546,262 538,257 533,260 530,255" >Mots exponctués.</zone>
+        <zone xml:id="a13" style="poly" points="408,360 416,359 420,359 428,357 438,356 449,355 458,355 467,353 479,353 488,355 495,353 504,354 511,355 519,356 527,356 536,356 539,356 546,356 551,358 556,357 560,359 567,360 572,359 578,362 583,362 588,366 592,367 596,369 597,374 593,375 588,378 581,379 572,382 564,382 554,384 543,384 537,386 528,387 520,387 513,387 508,387 498,387 484,387 478,387 467,387 461,387 451,387 443,387 435,387 420,381 426,385 412,383 408,382 401,382 393,379 388,372 383,370 389,364 397,360">Traits allongés en fin de dernière ligne.</zone>
+        <zone xml:id="a14" style="circle" points="303,426,30">Double queue de parchemin.</zone>
+      </surface>
     </surface>
   </facsimile>
   <text>
@@ -99,18 +122,7 @@
         </div>
         <div type="contenu-commentaire">
           <head>Parties du discours</head>
-          <p>
-            <seg xml:id="adresse_universelle">Omnibus presentes litteras inspecturis</seg>
-            <seg xml:id="suscription">officialis Belvacensis</seg>
-            <seg xml:id="salut">salutem in Domino.</seg>
-            <seg xml:id="notification_universelle">Noverint universi quod</seg>
-            <seg xml:id="corps">in nostra constituti presentia Ricardus dictus de <hi rend="i">Gres</hi> de Sancto Felice et Aya ejus uxor et Eufemia eorum filia recognoverunt se imperpetuum vendidisse pro communi eorum utilitate ac necessitate abbati et conventui Sancti Geremari Flaviacensis quamdam peciam terre sementis quam habebant ex caduco Asceline de <hi rend="i">Amuchi</hi>, matertere dicti Ricardi, circiter sex minas continentem, sitam ante mesum de <hi rend="i">Amuchi</hi> dictorum abbatis et conventus, quam ab eisdem abbate et conventu tenebant ad campipartem, pro centum et decem solidis parisiensium sibi a dictis abbate et conventu plene et integre persolutis, ut ipsi Ricardus, Aya ejus uxor et Eufemia eorum filia coram nobis recognoverunt ;</seg>
-            <seg xml:id="clause">fidem coram nobis prestantes corporalem predicti Ricardus, Aya ejus uxor et Eufemia eorum filia, non vi nec metu ad hoc inducte sed mera et spontanea voluntate sua, ut asserebant, quod ipsi decetero ratione cujuscumque juris, et maxime dicta Aya ratione dotis, in terra redicta vendita per se vel per alium nichil reclamabunt vel facient reclamari,</seg>
-            <seg xml:id="clause_garantie">sed super eadem terra vendita dictis abbati et conventui contra omnes legitimam portabunt garandiam ;</seg>
-            <seg xml:id="clause_renonciation">renuntiantes in hoc facto, fide data, excepcioni non numerate et non recepte pecunie et omnibus aliis excepcionibus et juris auxilio tam canonici quam civilis quod sibi contra presens instrumentum posset prodesse et dictis abbati et conventui prodesse [sic]</seg>
-            <seg xml:id="corroboration">In cujus rei testimonium, presentes litteras sigillo curie Belvacensis fecimus communiri.</seg>
-            <seg xml:id="date_temps">Actum anno Domini M° CC° XL° octavo, die lune post Jubilate.</seg>
-          </p>
+          <!-- TODO: construire la logique ptr -->
         </div>
         <div type="contenu-commentaire">
           <head>Interprétation</head>
@@ -130,38 +142,261 @@
       </div>
     </front>
     <body>
-      <!-- FAC-SIMILÉ INTERACTIF: IL S’AGIT PRESQUE D’ANNOTATION À NOUVEAU... -->
-      <div type="fac-simile" facs="fax.jpg">
-        <head>Fac-similé</head>
-        <p>
-          <seg facs="./14,16,785,37/full/0/fax.jpg">Om<expan>n</expan>ib<expan>us</expan> p<expan>re</expan>sentes litt<expan>er</expan>as insp<expan>e</expan>cturis, . . offic<expan>ialis</expan> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>. Nov<expan>er</expan>int univ<expan>er</expan>si q<expan>uo</expan>d</seg>
-          <seg facs="./13,46,779,64/full/0/fax.jpg">i<expan>n</expan> n<expan>ost</expan>ra constituti p<expan>re</expan>sentia Ricardus d<expan>i</expan>c<expan>t</expan>us de Gres de S<expan>an</expan>c<expan>t</expan>o Felice <expan>et</expan> Aya ejus uxor <expan>et</expan> Eufe-</seg>
-          <seg facs="./8,74,800,92/full/0/fax.jpg">-mia eor<expan>um</expan> filia recognov<expan>er</expan>unt se imp<expan>er</expan>petuum vendidisse p<expan>ro</expan> co<expan>m</expan>muni eor<expan>um</expan> utilitate ac neces-</seg>
-          <seg facs="./10,102,805,117/full/0/fax.jpg">-sitate abbati <expan>et</expan> conventui S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan> q<expan>u</expan>amdam peciam t<expan>er</expan>re s<expan>em</expan>entis q<expan>u</expan>am</seg>
-          <seg facs="./7,128,791,145/full/0/fax.jpg">h<expan>ab</expan>ebant ex caduco Asceline de Amuchi, matertere dicti Ricardi, circiter sex minas continen-</seg>
-          <seg facs="./14,157,793,176/full/0/fax.jpg">-tem, sitam ante mesum de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab eisdem abbate <expan>et</expan> <expan>con</expan>-</seg>
-          <seg facs="./12,183,796,196/full/0/fax.jpg">-ventu tenebant ad campipartem, pro centum et decem solidis parisiensium sibi a dictis abbate et <expan>con</expan>-</seg>
-          <seg facs="./14,210,791,228/full/0/fax.jpg">-ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia</seg>
-          <seg facs="./12,233,784,256/full/0/fax.jpg">coram nob<expan>is</expan> recognov<expan>er</expan>unt ; fidem coram nob<expan>is</expan> p<expan>re</expan>stantes corporalem p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus,</seg>
-          <seg facs="./11,261,792,285/full/0/fax.jpg">Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia, no<expan>n</expan> vi nec metu ad hoc inducte s<expan>ed</expan> mera <expan>et</expan> spon-</seg>
-          <seg facs="./9,291,790,313/full/0/fax.jpg">-tanea voluntate sua, ut asserebant, q<expan>uo</expan>d ip<expan>s</expan>i decet<expan>er</expan>o r<expan>ati</expan>one cuj<expan>us</expan>cu<expan>m</expan>q<expan>ue</expan> juris, <expan>et</expan> maxime d<expan>i</expan>c<expan>t</expan>a Aya</seg>
-          <seg facs="./8,324,790,342/full/0/fax.jpg">r<expan>ati</expan>one dotis, in t<expan>er</expan>ra p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>a vendita p<expan>er</expan> se v<expan>e</expan>l p<expan>er</expan> alium nichil reclamab<expan>un</expan>t v<expan>e</expan>l facient (reclama-</seg>
-          <seg facs="./5,348,785,371/full/0/fax.jpg">-bunt vel facie<expan>n</expan>t) reclamari, sed sup<expan>er</expan> eadem t<expan>er</expan>ra vendita d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui <expan>con</expan>tra</seg>
-          <seg facs="./10,379,776,400/full/0/fax.jpg">om<expan>ne</expan>s legitimam portabunt garandiam ; renuntiantes in hoc f<expan>a</expan>c<expan>t</expan>o, fide data, excepc<expan>i</expan>o<expan>n</expan>i</seg>
-          <seg facs="./9,404,786,431/full/0/fax.jpg">no<expan>n</expan> num<expan>er</expan>ate <expan>et</expan> no<expan>n</expan> recepte pecunie <expan>et</expan> om<expan>n</expan>ib<expan>us</expan> aliis excepc<expan>i</expan>o<expan>n</expan>ib<expan>us</expan> <expan>et</expan> juris auxilio tam cano<expan>n</expan>i-</seg>
-          <seg facs="./6,435,789,455/full/0/fax.jpg">-ci quam civilis q<expan>uo</expan>d s<expan>ib</expan>i cont<expan>r</expan>a p<expan>re</expan>sens instrum<expan>en</expan>tum posset p<expan>ro</expan>desse <expan>et</expan> d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui pro-</seg>
-          <seg facs="./6,460,788,488/full/0/fax.jpg">-desse. In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri. Act<expan>um</expan></seg>
-          <seg facs="./3,495,486,513/full/0/fax.jpg">anno D<expan>omi</expan>ni M° CC° XL° octavo, die lune post Jubilat<expan>e</expan>.</seg>
-        </p>
-        <liste>
-          <ptr id="trad1" target="#string-range(//div[@id='traduction'],1,96)"/>    
-          <ptr id="trad2" target="#string-range(//div[@id='traduction'],97,180)"/>
-          <ptr id="trad3" target="#string-range(//div[@id='traduction'],181,210)"/>
-        </liste>
+      <div xml:id="transcritpion_ptr" facs="fax.jpg">
+        <head>Transcription</head>
+        <p>Om<expan>n</expan>ib<expan>us</expan> p<expan>re</expan>sentes litt<expan>er</expan>as insp<expan>e</expan>cturis, . . <term target="#gl_1">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>. Nov<expan>er</expan>int univ<expan>er</expan>si q<expan>uo</expan>d i<expan>n</expan> n<expan>ost</expan>ra constituti p<expan>re</expan>sentia Ricardus d<expan>i</expan>c<expan>t</expan>us de <term target="#gl_2">Gres</term> de <term target="#gl_3">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia recognov<expan>er</expan>unt se imp<expan>er</expan>petuum vendidisse p<expan>ro</expan> co<expan>m</expan>muni eor<expan>um</expan> utilitate ac necessitate abbati <expan>et</expan> conventui <term target="#gl_4">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term> q<expan>u</expan>amdam peciam t<expan>er</expan>re s<expan>em</expan>entis q<expan>u</expan>am h<expan>ab</expan>ebant ex caduco Asceline de <term target="#gl_5">Amuchi</term>, <term target="#gl_6">matertere</term> dicti Ricardi, circiter sex <term target="#gl_7">minas</term> continentem, sitam ante <term target="#gl_8">mesum</term> de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term target="#gl_9">campipartem</term>, pro centum et decem <term target="#gl_10">solidis parisiensium</term> sibi a dictis abbate et <expan>con</expan>ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia coram nob<expan>is</expan> recognov<expan>er</expan>unt ; fidem coram nob<expan>is</expan> p<expan>re</expan>stantes <term target="#gl_11">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia, no<expan>n</expan> vi nec metu ad hoc inducte s<expan>ed</expan> mera <expan>et</expan> spontanea voluntate sua, ut asserebant, q<expan>uo</expan>d ip<expan>s</expan>i decet<expan>er</expan>o r<expan>ati</expan>one cuj<expan>us</expan>cu<expan>m</expan>q<expan>ue</expan> juris, <expan>et</expan> maxime d<expan>i</expan>c<expan>t</expan>a Aya r<expan>ati</expan>one dotis, in t<expan>er</expan>ra p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>a vendita p<expan>er</expan> se v<expan>e</expan>l p<expan>er</expan> alium nichil reclamab<expan>un</expan>t v<expan>e</expan>l facient reclamari, sed sup<expan>er</expan> eadem t<expan>er</expan>ra vendita d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui <expan>con</expan>tra om<expan>ne</expan>s legitimam portabunt garandiam ; renuntiantes in hoc f<expan>a</expan>c<expan>t</expan>o, fide data, excepc<expan>i</expan>o<expan>n</expan>i no<expan>n</expan> num<expan>er</expan>ate <expan>et</expan> no<expan>n</expan> recepte pecunie <expan>et</expan> om<expan>n</expan>ib<expan>us</expan> aliis excepc<expan>i</expan>o<expan>n</expan>ib<expan>us</expan> <expan>et</expan> juris auxilio tam cano<expan>n</expan>ici quam civilis q<expan>uo</expan>d s<expan>ib</expan>i cont<expan>r</expan>a p<expan>re</expan>sens instrum<expan>en</expan>tum posset p<expan>ro</expan>desse <expan>et</expan> d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui prodesse*. In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri. Act<expan>um</expan> annoD<expan>omi</expan>ni <term target="#gl_12">M° CC° XL°</term> octavo, die <term target="#gl_12">1248</term>, le <term target="#gl_13">lune post Jubilat<expan>e</expan></term>.</p>
       </div>
-      
+      <div xml:id="traduction_ptr">
+        <head>Traduction</head>
+        <p>A tous ceux qui verront les présentes lettres, . . <term target="#gl_1">l’official</term> de Beauvais, salut dans le Seigneur. Sachent tous que constitués en notre présence Richard dit de <term target="#gl_2">Grez</term>, de <term target="#gl_3">Saint-Félix</term>, Aye son épouse et Euphémie leur fille ont reconnu qu’ils ont vendu à perpétuité pour leur commune utilité et leur commun besoin à l’abbé et au convent de <term target="#gl_4">Saint-Germer de Fly</term> une pièce de terre arable qu’ils avaient de l’héritage d’Asceline d’<term target="#gl_5">Amuchy</term>, <term target="#gl_6">tante maternelle</term> dudit Richard, d’environ six <term target="#gl_7">éminées</term>, sise devant le <term target="#gl_8">metz</term> d’Amuchy qui appartient auxdits abbé et convent, et qu’ils tenaient à <term target="#gl_9">champart</term> des mêmes abbé et convent, pour cent dix <term target="#gl_10">sous de parisis</term> à eux par lesdits abbé et convent pleinement et entièrement versés, ainsi que lesdits Richard, Aye son épouse et Euphémie leur fille ont devant nous reconnu; prêtant devant nous foi <term target="#gl_11">corporelle</term> les susdits Richard, Aye son épouse et Euphémie leur fille, non poussées à cela par force ou crainte mais de leur pure et spontanée volonté, à ce qu’elles disaient, qu’à l’avenir à raison de quelque droit que ce soit, et spécialement ladite Aye à raison de sa dot, ni par eux ni par autre, ils ne feront ou feront faire querelle de la susdite vente de terre, mais que sur ladite vente de terre ils porteront à l’abbé et au convent garantie légitime contre tous ; renonçant en ce fait, par la foi qu’ils ont donnée, à l’exception d’argent non compté et non reçu, à toutes autres exceptions et à l’aide du droit tant canonique que civil qui pourrait, contre le présent instrument, leur servir et nuire auxdits abbé et convent. En témoignage de quoi, nous avons fait munir les présentes lettres du sceau de la cour de Beauvais. Fait l’an du Seigneur <term target="#gl_12">1248</term>, le <term target="#gl_13">lundi après Jubilate</term>.</p>
+      </div>
+      <!-- TODO: peut-on calculer les string-range() ? -->
+      <div type="pointeurs">
+        <!-- 1. FACSIMILE INTERACTIF -->
+        <div type="facsimileGrp">
+          <!-- définir les segments transcrits -->
+          <linkGrp xml:id="facsim-text">
+            <ptr xml:id="facsim-text_1" target="#string-range(//div[@xml:id='transcription_ptr'],1,96)"/>    
+            <ptr xml:id="facsim-text_2" target="#string-range(//div[@xml:id='transcription_ptr'],97,180)"/>
+            <ptr xml:id="facsim-text_3" target="#string-range(//div[@xml:id='transcription_ptr'],181,210)"/>
+          </linkGrp>
+          <!-- aligner les segments transcrits avec les zones de l’image -->
+          <linkGrp xml:id="facsim" domains="#facsim-img #facsim-text">
+            <link target="#facsim-text_1 #facsim-img_1"/>
+            <link target="#facsim-text_2 #facsim-img_2"/>
+            <link target="#facsim-text_3 #facsim-img_3"/>
+          </linkGrp>
+        </div>
+        <!-- 2. TRADUCTION -->
+        <div type="traductionGrp">
+          <!-- segmenter la transcription (en vue de l’alignement avec la traduction) -->
+          <linkGrp xml:id="src-text">
+            <ptr xml:id="src-text_1" target="#string-range(//div[@xml:id='transcription_ptr'],?,?)"/>    
+            <ptr xml:id="src-text_2" target="#string-range(//div[@xml:id='transcription_ptr'],?,?)"/>
+            <ptr xml:id="src-text_3" target="#string-range(//div[@xml:id='transcription_ptr'],?,?)"/>
+          </linkGrp>
+          <!-- segmenter la traduction (pour l’aligner avec la transcription) -->
+          <linkGrp xml:id="target-text">
+            <ptr xml:id="target-text_1" target="#string-range(//div[@xml:id='traduction_ptr'],?,?)"/>    
+            <ptr xml:id="target-text_2" target="#string-range(//div[@xml:id='traduction_ptr'],?,?)"/>
+            <ptr xml:id="target-text_3" target="#string-range(//div[@xml:id='traduction_ptr'],?,?)"/>
+          </linkGrp>
+          <!-- aligner les segments transcrits avec leur traduction -->
+          <linkGrp xml:id="traduction" domains="#src-text #target-text">
+            <link target="#src-text_1 #target-text_1"/>
+            <link target="#src-text_2 #target-text_2"/>
+            <link target="#src-text_3 #target-text_3"/>
+          </linkGrp>
+        </div>
+        <!-- 3. PARTIES DU DISCOURS -->
+        <div type="partGrp">  
+          <!-- délimiter les parties du discours -->
+          <linkGrp xml:id="part-text">
+            <ptr xml:id="part-text_1" target="#string-range(//div[@xml:id='transcription_ptr'],?,?)"/>    
+            <ptr xml:id="part-text_2" target="#string-range(//div[@xml:id='transcription_ptr'],?,?)"/>
+            <ptr xml:id="part-text_3" target="#string-range(//div[@xml:id='transcription_ptr'],?,?)"/>
+          </linkGrp>
+          <!-- enregistrer l’annotation (les commentaires attachés à chaque partie de discours -->
+          <note type="parts" xml:id="part_n1">Adresse universelle</note>
+          <note type="parts" xml:id="part_n2">Suscription. Noter une expression très dépersonnalisée, et la position de la suscription après l’adresse (par déférence)</note>
+          <note type="parts" xml:id="part_n3">Salut. Le couple adresse+salut dénote une rédaction coulée dans un moule épistolaire</note>
+          <!-- lier les parties du discours à leur annotation (commentaire) -->
+          <linkGrp xml:id="parts">
+            <link target="#part-text_1 #part_n1"/>
+            <link target="#part-text_2 #part_n2"/>
+            <link target="#part-text_3 #part_n3"/>
+          </linkGrp>
+        </div>
+      </div>
+      <div type="transcription_milestones" facs="fax.jpg">
+        <head>Transcription</head>
+        <p>
+          <milestone unit="parts" xml:id="adresse_universelle"/>
+          <milestone unit="line" corresp="#l1"/>
+          <milestone unit="src-alignment" xml:id="src1"/>
+          Om<expan>n</expan>ib<expan>us</expan> p<expan>re</expan>sentes litt<expan>er</expan>as insp<expan>e</expan>cturis,
+          <milestone unit="parts" xml:id="suscription"/>
+          <milestone unit="src-alignment" xml:id="src2"/>
+          <term target="#gl_1">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>,
+          <milestone unit="parts" xml:id="salut"/>
+          sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>.
+          <milestone unit="parts" xml:id="notification_universelle"/>
+          <milestone unit="src-alignment" xml:id="src3"/>
+          <milestone unit="src-alignment" xml:id="src4"/>
+          Nov<expan>er</expan>int univ<expan>er</expan>si q<expan>uo</expan>d
+          <milestone unit="parts" xml:id="corps"/>
+          <milestone unit="line" corresp="#l2"/>
+          i<expan>n</expan> n<expan>ost</expan>ra constituti p<expan>re</expan>sentia
+          <milestone unit="src-alignment" xml:id="src5"/>
+          Ricardus d<expan>i</expan>c<expan>t</expan>us de <term target="#gl_2">Gres</term> de <term target="#gl_3">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor
+          <milestone unit="src-alignment" xml:id="src6"/>
+          <expan>et</expan> Eufe-
+          <milestone unit="line" corresp="#l3"/>
+          -mia eor<expan>um</expan> filia recognov<expan>er</expan>unt se imp<expan>er</expan>petuum
+          <milestone unit="src-alignment" xml:id="src7"/>
+          vendidisse p<expan>ro</expan> co<expan>m</expan>muni eor<expan>um</expan> utilitate ac neces-
+          <milestone unit="line" corresp="#l4"/>
+          -sitate
+          <milestone unit="src-alignment" xml:id="src8"/>
+          abbati <expan>et</expan> conventui <term target="#gl_4">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term>
+          <milestone unit="src-alignment" xml:id="src9"/>
+          q<expan>u</expan>amdam peciam t<expan>er</expan>re s<expan>em</expan>entis q<expan>u</expan>am
+          <milestone unit="line" corresp="#l5"/>
+          h<expan>ab</expan>ebant ex
+          <milestone unit="src-alignment" xml:id="src10"/>
+          caduco Asceline de <term target="#gl_5">Amuchi</term>, <term target="#gl_6">matertere</term> dicti Ricardi,
+          <milestone unit="src-alignment" xml:id="src11"/>
+          circiter sex <term target="#gl_7">minas</term> continen-
+          <milestone unit="line" corresp="#l6"/>
+          -tem, sitam ante <term target="#gl_8">mesum</term>
+          <milestone unit="src-alignment" xml:id="src12"/>
+          de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab
+          <milestone unit="src-alignment" xml:id="src13"/>
+          eisdem abbate <expan>et</expan> <expan>con</expan>-
+          <milestone unit="line" corresp="#l7"/>
+          -ventu tenebant ad <term target="#gl_9">campipartem</term>,
+          <milestone unit="src-alignment" xml:id="src14"/>
+          <milestone unit="src-alignment" xml:id="src15"/>
+          pro centum et decem <term target="#gl_10">solidis parisiensium</term> sibi a dictis
+          <milestone unit="src-alignment" xml:id="src16"/>
+          abbate et <expan>con</expan>-
+          <milestone unit="line" corresp="#l8"/>
+          -ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i
+          <milestone unit="src-alignment" xml:id="src17"/>
+          Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia
+          <milestone unit="line" corresp="#l9"/>
+          coram
+          <milestone unit="src-alignment" xml:id="src18"/>
+          nob<expan>is</expan> recognov<expan>er</expan>unt ;
+          <milestone unit="parts" xml:id="clause"/>
+          fidem coram nob<expan>is</expan> p<expan>re</expan>stantes
+          <milestone unit="src-alignment" xml:id="src19"/>
+          <term target="#gl_11">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus,
+          <milestone unit="line" corresp="#l10"/>
+          Aya ejus uxor <expan>et</expan>
+          <milestone unit="src-alignment" xml:id="src20"/>
+          Eufemia eor<expan>um</expan> filia, no<expan>n</expan> vi nec metu ad hoc inducte
+          <milestone unit="src-alignment" xml:id="src21"/>
+          s<expan>ed</expan> mera <expan>et</expan> spon-
+          <milestone unit="line" corresp="#l11"/>
+          -tanea voluntate sua, ut asserebant,
+          <milestone unit="src-alignment" xml:id="src22"/>
+          q<expan>uo</expan>d ip<expan>s</expan>i decet<expan>er</expan>o r<expan>ati</expan>one cuj<expan>us</expan>cu<expan>m</expan>q<expan>ue</expan> juris, <expan>et</expan>
+          <milestone unit="src-alignment" xml:id="src23"/>
+          maxime d<expan>i</expan>c<expan>t</expan>a Aya
+          <milestone unit="line" corresp="#l12"/>
+          r<expan>ati</expan>one dotis, in t<expan>er</expan>ra p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>a vendita
+          <milestone unit="src-alignment" xml:id="src24"/>
+          p<expan>er</expan> se v<expan>e</expan>l p<expan>er</expan> alium nichil reclamab<expan>un</expan>t v<expan>e</expan>l facient
+          <milestone unit="src-alignment" xml:id="src25"/>
+          (reclama-
+          <milestone unit="line" corresp="#l13"/>
+          -bunt vel facie<expan>n</expan>t) reclamari,
+          <milestone unit="src-alignment" xml:id="src26"/>
+          <milestone unit="src-alignment" xml:id="src27"/>
+          <milestone unit="parts" xml:id="clause_garantie"/>
+          sed sup<expan>er</expan> eadem t<expan>er</expan>ra vendita d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui
+          <milestone unit="src-alignment" xml:id="src28"/>
+          <expan>con</expan>tra
+          <milestone unit="line" corresp="#l14"/>
+          om<expan>ne</expan>s legitimam portabunt garandiam ;
+          <milestone unit="parts" xml:id="clause_renonciation"/>
+          <milestone unit="src-alignment" xml:id="src29"/>
+          <milestone unit="src-alignment" xml:id="src30"/>
+          renuntiantes in hoc f<expan>a</expan>c<expan>t</expan>o, fide data, excepc<expan>i</expan>o<expan>n</expan>i
+          <milestone unit="line" corresp="#l15"/>
+          no<expan>n</expan>
+          <milestone unit="src-alignment" xml:id="src31"/>
+          num<expan>er</expan>ate <expan>et</expan> no<expan>n</expan> recepte pecunie <expan>et</expan> om<expan>n</expan>ib<expan>us</expan> aliis
+          <milestone unit="src-alignment" xml:id="src32"/>
+          excepc<expan>i</expan>o<expan>n</expan>ib<expan>us</expan> <expan>et</expan> juris auxilio tam cano<expan>n</expan>i-
+          <milestone unit="line" corresp="#l16"/>
+          -ci quam civilis
+          <milestone unit="src-alignment" xml:id="src33"/>
+          q<expan>uo</expan>d s<expan>ib</expan>i cont<expan>r</expan>a p<expan>re</expan>sens instrum<expan>en</expan>tum posset p<expan>ro</expan>desse
+          <milestone unit="src-alignment" xml:id="src34"/>
+          <expan>et</expan> d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui pro-
+          <milestone unit="line" corresp="#l17"/>
+          -desse.
+          <milestone unit="parts" xml:id="corroboration"/>
+          <milestone unit="src-alignment" xml:id="src35"/>
+          <milestone unit="src-alignment" xml:id="src36"/>
+          In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo
+          <milestone unit="src-alignment" xml:id="src37"/>
+          curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri.
+          <milestone unit="parts" xml:id="date_temps"/>
+          Act<expan>um</expan>
+          <milestone unit="line" corresp="#l18"/>
+          anno
+          <milestone unit="src-alignment" xml:id="src38"/>
+          D<expan>omi</expan>ni <term target="#gl_12">M° CC° XL°</term> octavo, die <term target="#gl_13">lune post Jubilat<expan>e</expan></term>.
+        </p>
+        <!-- alignement transcription / traduction -->
+        <liste>
+          <ptr xml:id="trad1" target="#string-range(//div[@id='traduction'],1,96)"/>    
+          <ptr xml:id="trad2" target="#string-range(//div[@id='traduction'],97,180)"/>
+          <ptr xml:id="trad3" target="#string-range(//div[@id='traduction'],181,210)"/>
+        </liste>
+        <liste>
+          <ptr xml:id="fs1" target="#string-range(//div[@id='traduction'],1,96)"/>    
+          <ptr xml:id="fs2" target="#string-range(//div[@id='traduction'],97,180)"/>
+          <ptr xml:id="fs3" target="#string-range(//div[@id='traduction'],181,210)"/>
+        </liste>
+        <linkGrp type="traduction" domains="#transcription #traduction">
+          <link target="#trad1 #transc1"/>
+          <link target="#trad2 #transc2"/>
+        </linkGrp>
+        <linkGrp type="facsim" domains="#transcription #traduction">
+          <link target="#l1 #fs1"/>
+          <link target="#l2 #fs2"/>
+        </linkGrp>
+      </div>
+      <div type="traduction" xml:id="traduction" xml:lang="fre">
+        <head>Traduction</head>
+        <p>
+          <milestone xml:id="fre_1" corresp="#src1"/>A tous ceux qui verront les présentes lettres,
+          <milestone xml:id="fre_2" corresp="#src2"/>. . <term target="#gl_1">l’official</term> de Beauvais, salut dans le Seigneur.
+          <milestone xml:id="fre_3" corresp="#src3"/>
+          <milestone xml:id="fre_4" corresp="#src4"/>Sachent tous que constitués en notre présence
+          <milestone xml:id="fre_5" corresp="#src5"/>Richard dit de <term target="#gl_2">Grez</term>, de <term target="#gl_3">Saint-Félix</term>, Aye son épouse
+          <milestone xml:id="fre_6" corresp="#src6"/>et Euphémie leur fille ont reconnu qu’ils ont vendu à
+          <milestone xml:id="fre_7" corresp="#src7"/>perpétuité pour leur commune utilité et leur commun
+          <milestone xml:id="fre_8" corresp="#src8"/>besoin à l’abbé et au convent de <term target="#gl_4">Saint-Germer de Fly</term>
+          <milestone xml:id="fre_9" corresp="#src9"/>une pièce de terre arable qu’ils avaient de l’héritage
+          <milestone xml:id="fre_10" corresp="#src10"/>d’Asceline d’<term target="#gl_5">Amuchy</term>, <term target="#gl_6">tante maternelle</term> dudit
+          <milestone xml:id="fre_11" corresp="#src11"/>Richard, d’environ six <term target="#gl_7">éminées</term>, sise devant le <term target="#gl_8">metz</term>
+          <milestone xml:id="fre_12" corresp="#src12"/>d’Amuchy qui appartient auxdits abbé et convent, et
+          <milestone xml:id="fre_13" corresp="#src13"/>qu’ils tenaient à <term target="#gl_9">champart</term> des mêmes abbé et convent,
+          <milestone xml:id="fre_14" corresp="#src14"/>
+          <milestone xml:id="fre_15" corresp="#src15"/>pour cent dix <term target="#gl_10">sous de parisis</term> à eux par lesdits abbé
+          <milestone xml:id="fre_16" corresp="#src16"/>et convent pleinement et entièrement versés, ainsi
+          <milestone xml:id="fre_17" corresp="#src17"/>que lesdits Richard, Aye son épouse et Euphémie leur
+          <milestone xml:id="fre_18" corresp="#src18"/>fille ont devant nous reconnu; prêtant devant nous foi
+          <milestone xml:id="fre_19" corresp="#src19"/><term target="#gl_11">corporelle</term> les susdits Richard, Aye son épouse et
+          <milestone xml:id="fre_20" corresp="#src20"/>Euphémie leur fille, non poussées à cela par force ou
+          <milestone xml:id="fre_21" corresp="#src21"/>crainte mais de leur pure et spontanée volonté, à ce
+          <milestone xml:id="fre_22" corresp="#src22"/>qu’elles disaient, qu’à l’avenir à raison de quelque droit
+          <milestone xml:id="fre_23" corresp="#src23"/>que ce soit, et spécialement ladite Aye à raison de sa
+          <milestone xml:id="fre_24" corresp="#src24"/>dot, ni par eux ni par autre, ils ne feront ou feront faire
+          <milestone xml:id="fre_25" corresp="#src25"/>querelle de la susdite vente de terre,
+          <milestone xml:id="fre_26" corresp="#src26"/>
+          <milestone xml:id="fre_27" corresp="#src27"/>mais que sur ladite vente de terre ils porteront à l’abbé
+          <milestone xml:id="fre_28" corresp="#src28"/>et au convent garantie légitime contre tous;
+          <milestone xml:id="fre_29" corresp="#src29"/>
+          <milestone xml:id="fre_30" corresp="#src30"/>renonçant en ce fait, par la foi qu’ils ont donnée, à
+          <milestone xml:id="fre_31" corresp="#src31"/>l’exception d’argent non compté et non reçu, à toutes
+          <milestone xml:id="fre_32" corresp="#src32"/>autres exceptions et à l’aide du droit tant canonique
+          <milestone xml:id="fre_33" corresp="#src33"/>que civil qui pourrait, contre le présent instrument, leur
+          <milestone xml:id="fre_34" corresp="#src34"/>servir et nuire auxdits abbé et convent.
+          <milestone xml:id="fre_35" corresp="#src35"/>
+          <milestone xml:id="fre_36" corresp="#src36"/>En témoignage de quoi, nous avons fait munir les
+          <milestone xml:id="fre_37" corresp="#src37"/>présentes lettres du sceau de la cour de Beauvais. Fait
+          <milestone xml:id="fre_38" corresp="#src37"/>l’an du Seigneur <term target="#gl_12">1248</term>, le <term target="#gl_13">lundi après Jubilate</term>.
+        </p>
+      </div>
       <!-- ON GÈRE L’ALIGNEMENT AVEC LA MISE EN VERS (<l/>) ON GARDE ? -->
       <!-- 1. solution historique Thélème -->
+      <!--
       <div type="transcription">
         <head>Texte</head>
         <div type="texte">
@@ -247,8 +482,11 @@
           <l>l’an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="« Jubilate » est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lundi après Jubilate</term>.</l>
         </div>
       </div>
+      -->
+      
       <!-- solution 2. Orthodoxie TEI: http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/SA.html#SACSAL -->
       <!-- plus robuste ; @xml:lang ; difficile de construire une interface (tei:linkGrp) ; comment exprimer les tei:lb ? -->
+      <!--
       <div type="transcriptionTEI">
         <head>Texte</head>
         <div type="texte" xml:id="transcription" xml:lang="lat">
@@ -378,7 +616,9 @@
           <link target="#lat_38 #fre_38"/>
         </linkGrp>
       </div>
+      -->
       <!-- solution 3. Conforme, pas vraiment dans l’esprit mais robuste (implémentation DB/back) -->
+      <!--
       <div type="transcriptionTable">
         <head>Texte</head>
         <table>
@@ -540,6 +780,7 @@
           </row>
         </table>
       </div>
+      -->
       <div type="notesList">
         <head>Notes</head>
         <note type="gloss" xml:id="gl_1">Juge en matière contentieuse et gracieuse, délégué de l’évêque.</note>
