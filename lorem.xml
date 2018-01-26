@@ -153,7 +153,13 @@
           <seg facs="./6,460,788,488/full/0/fax.jpg">-desse. In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri. Act<expan>um</expan></seg>
           <seg facs="./3,495,486,513/full/0/fax.jpg">anno D<expan>omi</expan>ni M° CC° XL° octavo, die lune post Jubilat<expan>e</expan>.</seg>
         </p>
+        <liste>
+          <ptr id="trad1" target="#string-range(//div[@id='traduction'],1,96)"/>    
+          <ptr id="trad2" target="#string-range(//div[@id='traduction'],97,180)"/>
+          <ptr id="trad3" target="#string-range(//div[@id='traduction'],181,210)"/>
+        </liste>
       </div>
+      
       <!-- ON GÈRE L’ALIGNEMENT AVEC LA MISE EN VERS (<l/>) ON GARDE ? -->
       <!-- 1. solution historique Thélème -->
       <div type="transcription">
