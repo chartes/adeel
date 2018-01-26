@@ -4,6 +4,15 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
   schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--
+  TODO:
+  * vérifier encodage + conversion UTF8
+  * penser à gérer les identités :
+      &#171; => "« "
+      &#187; => " »"
+      &#x2019; => "’"
+      "&quot; => '"' -> ATTENTION SOUVENT UTILISÉ EN VALEUR D'ATTRIBUT…
+-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -45,25 +54,6 @@
   <facsimile>
     <surface>
       <graphic url="fax.jpg"/>
-      <!-- les zones pour le fac-similé interactif ??? -->
-      <zone xml:id="l1"  ulx="14" uly="16"  lrx="785" lry="37"/>
-      <zone xml:id="l2"  ulx="13" uly="46"  lrx="779" lry="64"/>
-      <zone xml:id="l3"  ulx="8"  uly="74"  lrx="800" lry="92"/>
-      <zone xml:id="l4"  ulx="10" uly="102" lrx="805" lry="117"/>
-      <zone xml:id="l5"  ulx="7"  uly="128" lrx="791" lry="145"/>
-      <zone xml:id="l6"  ulx="14" uly="157" lrx="793" lry="176"/>
-      <zone xml:id="l7"  ulx="12" uly="183" lrx="796" lry="196"/>
-      <zone xml:id="l8"  ulx="14" uly="210" lrx="791" lry="228"/>
-      <zone xml:id="l9"  ulx="12" uly="233" lrx="784" lry="256"/>
-      <zone xml:id="l10" ulx="11" uly="261" lrx="792" lry="285"/>
-      <zone xml:id="l11" ulx="9"  uly="291" lrx="790" lry="313"/>
-      <zone xml:id="l12" ulx="8"  uly="324" lrx="790" lry="342"/>
-      <zone xml:id="l13" ulx="5"  uly="348" lrx="785" lry="371"/>
-      <zone xml:id="l14" ulx="10" uly="379" lrx="776" lry="400"/>
-      <zone xml:id="l15" ulx="9"  uly="404" lrx="786" lry="431"/>
-      <zone xml:id="l16" ulx="6"  uly="435" lrx="789" lry="455"/>
-      <zone xml:id="l17" ulx="6"  uly="460" lrx="788" lry="488"/>
-      <zone xml:id="l18" ulx="3"  uly="495" lrx="486" lry="513"/>
       <!-- les ANNOTATIONS -->
       <zone xml:id="a1"  style="circle" points="29,39,13">Initiale majuscule.</zone>
       <zone xml:id="a2"  style="poly" points="229,36 239,32 244,34 249,36 251,40 250,43 248,47 242,50 234,50 231,44 230,41 233,34">Deux points juxtaposés.</zone>
@@ -131,13 +121,12 @@
         </div>
         <div type="contenu-commentaire">
           <head>Parties du discours</head>
-          <!-- <div type="recommandation"> <p>Passer la souris sur le texte pour obtenir des commentaires de détail</p></div>  -->
           <p>
             <seg xml:id="adresse_universelle" style="color:#0000FF">Omnibus presentes litteras inspecturis<note corresp="#adresse_universelle" type="bulle">Adresse universelle</note></seg>
-            <seg xml:id="suscription" style="color:#FF0000">officialis Belvacensis<note corresp="#suscription" type="bulle">Suscription. Noter une expression très dépersonnalisée, et la position de la suscription après l&#x2019;adresse (par déférence)</note></seg>
+            <seg xml:id="suscription" style="color:#FF0000">officialis Belvacensis<note corresp="#suscription" type="bulle">Suscription. Noter une expression très dépersonnalisée, et la position de la suscription après l’adresse (par déférence)</note></seg>
             <seg xml:id="salut" style="color:#993399">salutem in Domino.<note corresp="#salut" type="bulle">Salut. Le couple adresse+salut dénote une rédaction coulée dans un moule épistolaire</note></seg>
             <seg xml:id="notification_universelle" style="color:#009966">Noverint universi quod<note corresp="#notification_universelle" type="bulle">Notification universelle</note></seg>
-            <seg xml:id="corps" style="color:#000099">in nostra constituti presentia Ricardus dictus de <hi rend="i">Gres</hi> de Sancto Felice et Aya ejus uxor et Eufemia eorum filia recognoverunt se imperpetuum vendidisse pro communi eorum utilitate ac necessitate abbati et conventui Sancti Geremari Flaviacensis quamdam peciam terre sementis quam habebant ex caduco Asceline de <hi rend="i">Amuchi</hi>, matertere dicti Ricardi, circiter sex minas continentem, sitam ante mesum de <hi rend="i">Amuchi</hi> dictorum abbatis et conventus, quam ab eisdem abbate et conventu tenebant ad campipartem, pro centum et decem solidis parisiensium sibi a dictis abbate et conventu plene et integre persolutis, ut ipsi Ricardus, Aya ejus uxor et Eufemia eorum filia coram nobis recognoverunt ;<note corresp="#corps" type="bulle">Corps de l&#x2019;acte. La distinction entre exposé et dispositif disparaît presque ici : l&#x2019;official dresse un procès-verbal, qui consigne la reconnaissance faite devant lui d&#x2019;une vente</note></seg>
+            <seg xml:id="corps" style="color:#000099">in nostra constituti presentia Ricardus dictus de <hi rend="i">Gres</hi> de Sancto Felice et Aya ejus uxor et Eufemia eorum filia recognoverunt se imperpetuum vendidisse pro communi eorum utilitate ac necessitate abbati et conventui Sancti Geremari Flaviacensis quamdam peciam terre sementis quam habebant ex caduco Asceline de <hi rend="i">Amuchi</hi>, matertere dicti Ricardi, circiter sex minas continentem, sitam ante mesum de <hi rend="i">Amuchi</hi> dictorum abbatis et conventus, quam ab eisdem abbate et conventu tenebant ad campipartem, pro centum et decem solidis parisiensium sibi a dictis abbate et conventu plene et integre persolutis, ut ipsi Ricardus, Aya ejus uxor et Eufemia eorum filia coram nobis recognoverunt ;<note corresp="#corps" type="bulle">Corps de l’acte. La distinction entre exposé et dispositif disparaît presque ici : l’official dresse un procès-verbal, qui consigne la reconnaissance faite devant lui d’une vente</note></seg>
             <seg xml:id="clause" style="color:#0099CC">fidem coram nobis prestantes corporalem predicti Ricardus, Aya ejus uxor et Eufemia eorum filia, non vi nec metu ad hoc inducte sed mera et spontanea voluntate sua, ut asserebant, quod ipsi decetero ratione cujuscumque juris, et maxime dicta Aya ratione dotis, in terra redicta vendita per se vel per alium nichil reclamabunt vel facient reclamari,<note corresp="#clause" type="bulle">Clause de promesse</note></seg>
             <seg xml:id="clause_garantie" style="color:#FF00FF">sed super eadem terra vendita dictis abbati et conventui contra omnes legitimam portabunt garandiam ;<note corresp="#clause_garantie" type="bulle">Clause de garantie</note></seg>
             <seg xml:id="clause_renonciation" style="color:#9900FF">renuntiantes in hoc facto, fide data, excepcioni non numerate et non recepte pecunie et omnibus aliis excepcionibus et juris auxilio tam canonici quam civilis quod sibi contra presens instrumentum posset prodesse et dictis abbati et conventui prodesse [sic]<note corresp="#clause_ renonciation" type="bulle">Clause de renonciation</note></seg>
@@ -207,7 +196,7 @@
           <l>de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab </l>
           <l>eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term n="Mode de tenure de la terre à part de fruits.">campipartem</term>,</l>
           <l/>
-          <l>pro centum et decem <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">solidis parisiensium</term> sibi a dictis </l>
+          <l>pro centum et decem <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc « de [deniers] parisis » (au génitif en latin).">solidis parisiensium</term> sibi a dictis </l>
           <l>abbate et <expan>con</expan>ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i</l>
           <l>Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia coram </l>
           <l>nob<expan>is</expan> recognov<expan>er</expan>unt ; fidem coram nob<expan>is</expan> p<expan>re</expan>stantes </l>
@@ -230,7 +219,7 @@
           <l/>
           <l>In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo</l>
           <l>curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri. Act<expan>um</expan> anno </l>
-          <l>D<expan>omi</expan>ni <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">M° CC° XL°</term> octavo, die <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&#171;Jubilate&#187; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lune post Jubilat<expan>e</expan></term>.</l>
+          <l>D<expan>omi</expan>ni <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">M° CC° XL°</term> octavo, die <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="« Jubilate » est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lune post Jubilat<expan>e</expan></term>.</l>
         </div>
         <div type="traduction">
           <head>Traduction</head>
@@ -248,7 +237,7 @@
           <l>d’Amuchy qui appartient auxdits abbé et convent, et </l>
           <l>qu’ils tenaient à <term n="Mode de tenure de la terre à part de fruits.">champart</term> des mêmes abbé et convent,</l>
           <l/>
-          <l>pour cent dix <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">sous de parisis</term> à eux par lesdits abbé</l>
+          <l>pour cent dix <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc « de [deniers] parisis » (au génitif en latin).">sous de parisis</term> à eux par lesdits abbé</l>
           <l>et convent pleinement et entièrement versés, ainsi</l>
           <l>que lesdits Richard, Aye son épouse et Euphémie leur</l>
           <l>fille ont devant nous reconnu; prêtant devant nous foi</l>
@@ -271,7 +260,7 @@
           <l/>
           <l>En témoignage de quoi, nous avons fait munir les</l>
           <l>présentes lettres du sceau de la cour de Beauvais. Fait</l>
-          <l>l’an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&quot;Jubilate&quot; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lundi après Jubilate</term>.</l>
+          <l>l’an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="« Jubilate » est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lundi après Jubilate</term>.</l>
         </div>
       </div>
       <!-- solution 2. Orthodoxie TEI: http://www.tei-c.org/release/doc/tei-p5-doc/fr/html/SA.html#SACSAL -->
@@ -282,24 +271,24 @@
           <head>Transcription</head>
           <p>
             <seg xml:id="lat_1">Om<expan>n</expan>ib<expan>us</expan> p<expan>re</expan>sentes litt<expan>er</expan>as insp<expan>e</expan>cturis, </seg>
-            <seg xml:id="lat_2">. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque.">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>.</seg>
+            <seg xml:id="lat_2">. . <term target="#gl_1">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>.</seg>
             <seg xml:id="lat_3"/>
             <seg xml:id="lat_4">Nov<expan>er</expan>int univ<expan>er</expan>si q<expan>uo</expan>d i<expan>n</expan> n<expan>ost</expan>ra constituti p<expan>re</expan>sentia</seg>
-            <seg xml:id="lat_5">Ricardus d<expan>i</expan>c<expan>t</expan>us de <term n="Oise, cant. Grandvilliers.">Gres</term> de <term n="Oise, cant. Mouy.">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor </seg>
+            <seg xml:id="lat_5">Ricardus d<expan>i</expan>c<expan>t</expan>us de <term target="#gl_2">Gres</term> de <term target="#gl_3">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor </seg>
             <seg xml:id="lat_6"><expan>et</expan> Eufemia eor<expan>um</expan> filia recognov<expan>er</expan>unt se imp<expan>er</expan>petuum </seg>
             <seg xml:id="lat_7">vendidisse p<expan>ro</expan> co<expan>m</expan>muni eor<expan>um</expan> utilitate ac necessitate </seg>
-            <seg xml:id="lat_8">abbati <expan>et</expan> conventui <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term></seg>
+            <seg xml:id="lat_8">abbati <expan>et</expan> conventui <term target="#gl_4">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term></seg>
             <seg xml:id="lat_9">q<expan>u</expan>amdam peciam t<expan>er</expan>re s<expan>em</expan>entis q<expan>u</expan>am h<expan>ab</expan>ebant ex </seg>
-            <seg xml:id="lat_10">caduco Asceline de <term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).">Amuchi</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).">matertere</term> dicti Ricardi, </seg>
-            <seg xml:id="lat_11">circiter sex <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).">minas</term> continentem, sitam ante <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.">mesum</term></seg>
+            <seg xml:id="lat_10">caduco Asceline de <term target="#gl_5">Amuchi</term>, <term target="#gl_6">matertere</term> dicti Ricardi, </seg>
+            <seg xml:id="lat_11">circiter sex <term target="#gl_7">minas</term> continentem, sitam ante <term target="#gl_8">mesum</term></seg>
             <seg xml:id="lat_12">de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab </seg>
-            <seg xml:id="lat_13">eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term n="Mode de tenure de la terre à part de fruits.">campipartem</term>,</seg>
+            <seg xml:id="lat_13">eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term target="#gl_9">campipartem</term>,</seg>
             <seg xml:id="lat_14"/>
-            <seg xml:id="lat_15">pro centum et decem <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">solidis parisiensium</term> sibi a dictis </seg>
+            <seg xml:id="lat_15">pro centum et decem <term target="#gl_10">solidis parisiensium</term> sibi a dictis </seg>
             <seg xml:id="lat_16">abbate et <expan>con</expan>ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i</seg>
             <seg xml:id="lat_17">Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia coram </seg>
             <seg xml:id="lat_18">nob<expan>is</expan> recognov<expan>er</expan>unt ; fidem coram nob<expan>is</expan> p<expan>re</expan>stantes </seg>
-            <seg xml:id="lat_19"><term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus, Aya ejus uxor <expan>et</expan></seg>
+            <seg xml:id="lat_19"><term target="#gl_11">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus, Aya ejus uxor <expan>et</expan></seg>
             <seg xml:id="lat_20">Eufemia eor<expan>um</expan> filia, no<expan>n</expan> vi nec metu ad hoc inducte</seg>
             <seg xml:id="lat_21">s<expan>ed</expan> mera <expan>et</expan> spontanea voluntate sua, ut asserebant,</seg>
             <seg xml:id="lat_22">q<expan>uo</expan>d ip<expan>s</expan>i decet<expan>er</expan>o r<expan>ati</expan>one cuj<expan>us</expan>cu<expan>m</expan>q<expan>ue</expan> juris, <expan>et</expan> </seg>
@@ -318,31 +307,31 @@
             <seg xml:id="lat_35"/>
             <seg xml:id="lat_36">In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo</seg>
             <seg xml:id="lat_37">curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri. Act<expan>um</expan> anno </seg>
-            <seg xml:id="lat_38">D<expan>omi</expan>ni <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">M° CC° XL°</term> octavo, die <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&#171;Jubilate&#187; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lune post Jubilat<expan>e</expan></term>.</seg>
+            <seg xml:id="lat_38">D<expan>omi</expan>ni <term target="#gl_12">M° CC° XL°</term> octavo, die <term target="#gl_12">1248</term>, le <term target="#gl_13">lune post Jubilat<expan>e</expan></term>.</seg>
           </p>
         </div>
         <div type="traduction" xml:id="traduction" xml:lang="fre">
           <head>Traduction</head>
           <p>
             <seg xml:id="fre_1">A tous ceux qui verront les présentes lettres,</seg>
-            <seg xml:id="fre_2">. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque.">l’official</term> de Beauvais, salut dans le Seigneur.</seg>
+            <seg xml:id="fre_2">. . <term target="#gl_1">l’official</term> de Beauvais, salut dans le Seigneur.</seg>
             <seg xml:id="fre_3"/>
             <seg xml:id="fre_4">Sachent tous que constitués en notre présence</seg>
-            <seg xml:id="fre_5">Richard dit de <term n="Oise, cant. Grandvilliers.">Grez</term>, de <term n="Oise, cant. Mouy.">Saint-Félix</term>, Aye son épouse</seg>
+            <seg xml:id="fre_5">Richard dit de <term target="#gl_2">Grez</term>, de <term target="#gl_3">Saint-Félix</term>, Aye son épouse</seg>
             <seg xml:id="fre_6">et Euphémie leur fille ont reconnu qu’ils ont vendu à</seg>
             <seg xml:id="fre_7">perpétuité pour leur commune utilité et leur commun</seg>
-            <seg xml:id="fre_8">besoin à l’abbé et au convent de <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).">Saint-Germer de Fly</term></seg>
+            <seg xml:id="fre_8">besoin à l’abbé et au convent de <term target="#gl_4">Saint-Germer de Fly</term></seg>
             <seg xml:id="fre_9">une pièce de terre arable qu’ils avaient de l’héritage</seg>
-            <seg xml:id="fre_10">d’Asceline d’<term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).">Amuchy</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).">tante maternelle</term> dudit</seg>
-            <seg xml:id="fre_11">Richard, d’environ six <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).">éminées</term>, sise devant le <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.">metz</term></seg>
+            <seg xml:id="fre_10">d’Asceline d’<term target="#gl_5">Amuchy</term>, <term target="#gl_6">tante maternelle</term> dudit</seg>
+            <seg xml:id="fre_11">Richard, d’environ six <term target="#gl_7">éminées</term>, sise devant le <term target="#gl_8">metz</term></seg>
             <seg xml:id="fre_12">d’Amuchy qui appartient auxdits abbé et convent, et </seg>
-            <seg xml:id="fre_13">qu’ils tenaient à <term n="Mode de tenure de la terre à part de fruits.">champart</term> des mêmes abbé et convent,</seg>
+            <seg xml:id="fre_13">qu’ils tenaient à <term target="#gl_9">champart</term> des mêmes abbé et convent,</seg>
             <seg xml:id="fre_14"/>
-            <seg xml:id="fre_15">pour cent dix <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">sous de parisis</term> à eux par lesdits abbé</seg>
+            <seg xml:id="fre_15">pour cent dix <term target="#gl_10">sous de parisis</term> à eux par lesdits abbé</seg>
             <seg xml:id="fre_16">et convent pleinement et entièrement versés, ainsi</seg>
             <seg xml:id="fre_17">que lesdits Richard, Aye son épouse et Euphémie leur</seg>
             <seg xml:id="fre_18">fille ont devant nous reconnu; prêtant devant nous foi</seg>
-            <seg xml:id="fre_19"><term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)">corporelle</term> les susdits Richard, Aye son épouse et</seg>
+            <seg xml:id="fre_19"><term target="#gl_11">corporelle</term> les susdits Richard, Aye son épouse et</seg>
             <seg xml:id="fre_20">Euphémie leur fille, non poussées à cela par force ou</seg>
             <seg xml:id="fre_21">crainte mais de leur pure et spontanée volonté, à ce</seg>
             <seg xml:id="fre_22">qu’elles disaient, qu’à l’avenir à raison de quelque droit</seg>
@@ -361,7 +350,7 @@
             <seg xml:id="fre_35"/>
             <seg xml:id="fre_36">En témoignage de quoi, nous avons fait munir les</seg>
             <seg xml:id="fre_37">présentes lettres du sceau de la cour de Beauvais. Fait</seg>
-            <seg xml:id="fre_38">l’an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&quot;Jubilate&quot; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lundi après Jubilate</term>.</seg>
+            <seg xml:id="fre_38">l’an du Seigneur <term target="#gl_12">1248</term>, le <term target="#gl_13">lundi après Jubilate</term>.</seg>
           </p>
         </div>
         <linkGrp type="alignment" domains="#transcription #traduction">
@@ -418,8 +407,8 @@
             <cell>A tous ceux qui verront les présentes lettres,</cell>
           </row>
           <row>
-            <cell>. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque.">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>.</cell>
-            <cell>. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque.">l’official</term> de Beauvais, salut dans le Seigneur.</cell>
+            <cell>. . <term target="#gl_1">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>.</cell>
+            <cell>. . <term target="#gl_1">l’official</term> de Beauvais, salut dans le Seigneur.</cell>
           </row>
           <row>
             <cell/>
@@ -430,8 +419,8 @@
             <cell>Sachent tous que constitués en notre présence</cell>
           </row>
           <row>
-            <cell>Ricardus d<expan>i</expan>c<expan>t</expan>us de <term n="Oise, cant. Grandvilliers.">Gres</term> de <term n="Oise, cant. Mouy.">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor </cell>
-            <cell>Richard dit de <term n="Oise, cant. Grandvilliers.">Grez</term>, de <term n="Oise, cant. Mouy.">Saint-Félix</term>, Aye son épouse</cell>
+            <cell>Ricardus d<expan>i</expan>c<expan>t</expan>us de <term target="#gl_2">Gres</term> de <term target="#gl_3">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor </cell>
+            <cell>Richard dit de <term target="#gl_2">Grez</term>, de <term target="#gl_3">Saint-Félix</term>, Aye son épouse</cell>
           </row>
           <row>
             <cell><expan>et</expan> Eufemia eor<expan>um</expan> filia recognov<expan>er</expan>unt se imp<expan>er</expan>petuum </cell>
@@ -442,36 +431,36 @@
             <cell>perpétuité pour leur commune utilité et leur commun</cell>
           </row>
           <row>
-            <cell>abbati <expan>et</expan> conventui <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term></cell>
-            <cell>besoin à l’abbé et au convent de <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).">Saint-Germer de Fly</term></cell>
+            <cell>abbati <expan>et</expan> conventui <term target="#gl_4">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term></cell>
+            <cell>besoin à l’abbé et au convent de <term target="#gl_4">Saint-Germer de Fly</term></cell>
           </row>
           <row>
             <cell>q<expan>u</expan>amdam peciam t<expan>er</expan>re s<expan>em</expan>entis q<expan>u</expan>am h<expan>ab</expan>ebant ex </cell>
             <cell>une pièce de terre arable qu’ils avaient de l’héritage</cell>
           </row>
           <row>
-            <cell>caduco Asceline de <term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).">Amuchi</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).">matertere</term> dicti Ricardi, </cell>
-            <cell>d’Asceline d’<term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).">Amuchy</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).">tante maternelle</term> dudit</cell>
+            <cell>caduco Asceline de <term target="#gl_5">Amuchi</term>, <term target="#gl_6">matertere</term> dicti Ricardi, </cell>
+            <cell>d’Asceline d’<term target="#gl_5">Amuchy</term>, <term target="#gl_6">tante maternelle</term> dudit</cell>
           </row>
           <row>
-            <cell>circiter sex <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).">minas</term> continentem, sitam ante <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.">mesum</term></cell>
-            <cell>Richard, d’environ six <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).">éminées</term>, sise devant le <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.">metz</term></cell>
+            <cell>circiter sex <term target="#gl_7">minas</term> continentem, sitam ante <term target="#gl_8">mesum</term></cell>
+            <cell>Richard, d’environ six <term target="#gl_7">éminées</term>, sise devant le <term target="#gl_8">metz</term></cell>
           </row>
           <row>
             <cell>de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab </cell>
             <cell>d’Amuchy qui appartient auxdits abbé et convent, et </cell>
           </row>
           <row>
-            <cell>eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term n="Mode de tenure de la terre à part de fruits.">campipartem</term>,</cell>
-            <cell>qu’ils tenaient à <term n="Mode de tenure de la terre à part de fruits.">champart</term> des mêmes abbé et convent,</cell>
+            <cell>eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term target="#gl_9">campipartem</term>,</cell>
+            <cell>qu’ils tenaient à <term target="#gl_9">champart</term> des mêmes abbé et convent,</cell>
           </row>
           <row>
             <cell/>
             <cell/>
           </row>
           <row>
-            <cell>pro centum et decem <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">solidis parisiensium</term> sibi a dictis </cell>
-            <cell>pour cent dix <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">sous de parisis</term> à eux par lesdits abbé</cell>
+            <cell>pro centum et decem <term target="#gl_10">solidis parisiensium</term> sibi a dictis </cell>
+            <cell>pour cent dix <term target="#gl_10">sous de parisis</term> à eux par lesdits abbé</cell>
           </row>
           <row>
             <cell>abbate et <expan>con</expan>ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i</cell>
@@ -486,8 +475,8 @@
             <cell>fille ont devant nous reconnu; prêtant devant nous foi</cell>
           </row>
           <row>
-            <cell><term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus, Aya ejus uxor <expan>et</expan></cell>
-            <cell><term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)">corporelle</term> les susdits Richard, Aye son épouse et</cell>
+            <cell><term target="#gl_11">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus, Aya ejus uxor <expan>et</expan></cell>
+            <cell><term target="#gl_11">corporelle</term> les susdits Richard, Aye son épouse et</cell>
           </row>
           <row>
             <cell>Eufemia eor<expan>um</expan> filia, no<expan>n</expan> vi nec metu ad hoc inducte</cell>
@@ -562,10 +551,26 @@
             <cell>présentes lettres du sceau de la cour de Beauvais. Fait</cell>
           </row>
           <row>
-            <cell>D<expan>omi</expan>ni <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">M° CC° XL°</term> octavo, die <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&#171;Jubilate&#187; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lune post Jubilat<expan>e</expan></term>.</cell>
-            <cell>l’an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&quot;Jubilate&quot; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lundi après Jubilate</term>.</cell>
+            <cell>D<expan>omi</expan>ni <term target="#gl_12">M° CC° XL°</term> octavo, die <term target="#gl_12">1248</term>, le <term target="#gl_13">lune post Jubilat<expan>e</expan></term>.</cell>
+            <cell>l’an du Seigneur <term target="#gl_12">1248</term>, le <term target="#gl_13">lundi après Jubilate</term>.</cell>
           </row>
         </table>
+      </div>
+      <div type="notesList">
+        <head>Notes</head>
+        <note type="gloss" xml:id="gl_1">Juge en matière contentieuse et gracieuse, délégué de l’évêque.</note>
+        <note type="gloss" xml:id="gl_2">Oise, cant. Grandvilliers</note>
+        <note type="gloss" xml:id="gl_3">Oise, cant. Mouy.</note>
+        <note type="gloss" xml:id="gl_4">Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).</note>
+        <note type="gloss" xml:id="gl_5">Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).</note>
+        <note type="gloss" xml:id="gl_6">Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).</note>
+        <note type="gloss" xml:id="gl_7">L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).</note>
+        <note type="gloss" xml:id="gl_8">L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.</note>
+        <note type="gloss" xml:id="gl_9">Mode de tenure de la terre à part de fruits.</note>
+        <note type="gloss" xml:id="gl_10">Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc « de [deniers] parisis » (au génitif en latin).</note>
+        <note type="gloss" xml:id="gl_11">La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)</note>
+        <note type="gloss" xml:id="gl_12">Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.</note>
+        <note type="gloss" xml:id="gl_13">« Jubilate » est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.</note>
       </div>
     </body>
   </text>
