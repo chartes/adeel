@@ -1,3 +1,4 @@
+INSERT INTO author (author_ref, author_name) VALUES ('http://data.bnf.fr/ark:/12148/cb11906612z', 'Olivier Guyotjeannin');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/3017382/republic-of-france.html', 'France');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/2510769/kingdom-of-spain.html', 'Espagne');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html', 'Angleterre');
@@ -543,16 +544,6 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
 )');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'langage_langcode_uindex', 'language', 25, 'CREATE UNIQUE INDEX langage_langcode_uindex ON "language" (lang_code)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'langage_lang_label_index', 'language', 26, 'CREATE INDEX langage_lang_label_index ON "language" (lang_label)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasLanguage', 'documentHasLanguage', 27, 'CREATE TABLE documentHasLanguage
-(
-    doc_id INTEGER,
-    lang_code TEXT,
-    CONSTRAINT documentHasLangage_doc_id_lang_code_pk PRIMARY KEY (doc_id, lang_code),
-    CONSTRAINT documentHasLangage_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasLangage_langage_lang_code_fk FOREIGN KEY (lang_code) REFERENCES language (lang_code)
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasLanguage_1', 'documentHasLanguage', 28, null);
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasLangage_doc_id_lang_code_uindex', 'documentHasLanguage', 29, 'CREATE UNIQUE INDEX documentHasLangage_doc_id_lang_code_uindex ON documentHasLanguage (doc_id, lang_code)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentFromCountry', 'documentFromCountry', 34, 'CREATE TABLE documentFromCountry
 (
     doc_id INTEGER NOT NULL,
@@ -591,19 +582,6 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_zone_facsimile_1', 'zone_facsimile', 43, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'zone_facsimile_zone_url_index', 'zone_facsimile', 44, 'CREATE INDEX zone_facsimile_zone_url_index ON zone_facsimile (zone_url)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'zone_facsimile_zone_id_zone_url_uindex', 'zone_facsimile', 45, 'CREATE UNIQUE INDEX zone_facsimile_zone_id_zone_url_uindex ON zone_facsimile (zone_id, zone_url)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasAuthor', 'documentHasAuthor', 57, 'CREATE TABLE documentHasAuthor
-(
-    doc_id INTEGER PRIMARY KEY,
-    author_id INTEGER,
-    CONSTRAINT documentHasAuthor_author_author_id_fk FOREIGN KEY (author_id) REFERENCES author (author_id),
-    CONSTRAINT documentHasAuthor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id)
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasAuthor_author_id_index', 'documentHasAuthor', 58, 'CREATE INDEX documentHasAuthor_author_id_index ON documentHasAuthor (author_id)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'author', 'author', 59, 'CREATE TABLE "author"
-(
-    author_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-    author_name TEXT NOT NULL
-)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'type_commentary', 'type_commentary', 47, 'CREATE TABLE "type_commentary"
 (
     type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
@@ -679,15 +657,6 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
 	pressmark TEXT,
   regest TEXT
 , date_cre INTEGER NULL, date_maj INTEGER NULL)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentFromDistrict', 'documentFromDistrict', 54, 'CREATE TABLE "documentFromDistrict"
-(
-    doc_id INTEGER,
-    district_id INTEGER,
-    CONSTRAINT documentFromDistrict_doc_id_district_id_pk PRIMARY KEY (doc_id, district_id),
-    CONSTRAINT documentFromDistrict_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id),
-    CONSTRAINT documentFromDistrict_district_district_id_fk FOREIGN KEY (district_id) REFERENCES district (district_id)
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentFromDistrict_1', 'documentFromDistrict', 69, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'district', 'district', 14, 'CREATE TABLE "district"
 (
     district_id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -696,8 +665,53 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
     CONSTRAINT district_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref)
 )');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'district_district_label_uindex', 'district', 62, 'CREATE UNIQUE INDEX district_district_label_uindex ON "district" (district_label)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'author', 'author', 49, 'CREATE TABLE author
+(
+    author_ref TEXT,
+    author_name TEXT PRIMARY KEY
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_author_1', 'author', 59, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'author_author_ref_uindex', 'author', 70, 'CREATE UNIQUE INDEX author_author_ref_uindex ON author (author_ref)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'author_author_name_index', 'author', 71, 'CREATE INDEX author_author_name_index ON author (author_name)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentLinkedToDocument', 'documentLinkedToDocument', 58, 'CREATE TABLE "documentLinkedToDocument"
+(
+    doc_id INTEGER NOT NULL,
+    linked_doc_id INTEGER NOT NULL,
+    CONSTRAINT documentLinkedToDocument_doc_id_linked_doc_id_pk PRIMARY KEY (doc_id, linked_doc_id),
+    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (linked_doc_id) REFERENCES document (doc_id) ON DELETE CASCADE
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentLinkedToDocument_1', 'documentLinkedToDocument', 73, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentLinkedToDocument_linked_doc_id_index', 'documentLinkedToDocument', 74, 'CREATE INDEX documentLinkedToDocument_linked_doc_id_index ON "documentLinkedToDocument" (linked_doc_id)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentFromDistrict', 'documentFromDistrict', 54, 'CREATE TABLE documentFromDistrict
+(
+    doc_id INTEGER,
+    district_id INTEGER,
+    CONSTRAINT documentFromDistrict_doc_id_district_id_pk PRIMARY KEY (doc_id, district_id),
+    CONSTRAINT documentFromDistrict_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentFromDistrict_district_district_id_fk FOREIGN KEY (district_id) REFERENCES district (district_id) ON DELETE CASCADE
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentFromDistrict_1', 'documentFromDistrict', 69, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasLanguage', 'documentHasLanguage', 27, 'CREATE TABLE documentHasLanguage
+(
+    doc_id INTEGER,
+    lang_code TEXT,
+    CONSTRAINT documentHasLangage_doc_id_lang_code_pk PRIMARY KEY (doc_id, lang_code),
+    CONSTRAINT documentHasLangage_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentHasLangage_langage_lang_code_fk FOREIGN KEY (lang_code) REFERENCES language (lang_code) ON DELETE CASCADE
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasLanguage_1', 'documentHasLanguage', 28, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasLangage_doc_id_lang_code_uindex', 'documentHasLanguage', 29, 'CREATE UNIQUE INDEX documentHasLangage_doc_id_lang_code_uindex ON documentHasLanguage (doc_id, lang_code)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasAuthor', 'documentHasAuthor', 57, 'CREATE TABLE documentHasAuthor
+(
+    doc_id INTEGER,
+    author_name TEXT,
+    CONSTRAINT documentHasAuthor_doc_id_author_name_pk PRIMARY KEY (doc_id, author_name),
+    CONSTRAINT documentHasAuthor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentHasAuthor_author_author_name_fk FOREIGN KEY (author_name) REFERENCES author (author_name)
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasAuthor_1', 'documentHasAuthor', 72, null);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('type_acte', 21);
-INSERT INTO sqlite_sequence (name, seq) VALUES ('author', 0);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('type_commentary', 6);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('traduction', 0);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('transcription', 0);
@@ -736,3 +750,21 @@ INSERT INTO type_commentary (type_id, type_label) VALUES (3, 'Juridique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (4, 'Paléographique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (5, 'Philologique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (6, 'Sigillographique');
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_1', 14, 16, 785, 37);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_2', 13, 46, 779, 64);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_3', 8, 74, 800, 92);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_4', 10, 102, 805, 117);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_5', 7, 128, 791, 145);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_6', 14, 157, 793, 176);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_7', 12, 183, 796, 196);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_8', 14, 210, 791, 228);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_9', 12, 233, 784, 256);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_10', 11, 261, 792, 285);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_11', 9, 291, 790, 313);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_12', 8, 324, 790, 342);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_13', 5, 348, 785, 371);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_14', 10, 379, 776, 400);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_15', 9, 404, 786, 431);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_16', 6, 435, 789, 455);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_17', 6, 460, 788, 488);
+INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_18', 3, 495, 486, 513);
