@@ -1,8 +1,56 @@
-INSERT INTO author (author_ref, author_name) VALUES ('http://data.bnf.fr/ark:/12148/cb11906612z', 'Olivier Guyotjeannin');
+CREATE TABLE alignement_image
+(
+    transcription_id integer,
+    zone_id integer,
+    type TEXT NOT NULL,
+    ptr_transcription_start integer,
+    ptr_transcription_end integer,
+    CONSTRAINT alignement_transcription_facsimile PRIMARY KEY (transcription_id, zone_id, type),
+    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
+    CONSTRAINT zone FOREIGN KEY (zone_id) REFERENCES image_zone (zone_id) ON DELETE CASCADE
+);
+CREATE TABLE alignment_translation
+(
+    transcription_id integer,
+    translation_id integer,
+    ptr_transcription_start integer NOT NULL,
+    ptr_transcription_end integer NOT NULL,
+    ptr_translation_start integer NOT NULL,
+    ptr_translation_end integer NOT NULL,
+    CONSTRAINT alignement_transcription_translation PRIMARY KEY (transcription_id, translation_id, ptr_transcription_start),
+    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
+    CONSTRAINT translation FOREIGN KEY (translation_id) REFERENCES translation (translation_id) ON DELETE CASCADE
+);
+CREATE UNIQUE INDEX alignment_translation_transcription_id_translation_id_ptr_transcription_start_uindex ON alignment_translation (transcription_id, translation_id, ptr_transcription_start);
+CREATE TABLE commentary
+(
+    doc_id INTEGER NOT NULL,
+    com_id INTEGER PRIMARY KEY,
+    type_id INTEGER NOT NULL,
+    content TEXT NOT NULL,
+    CONSTRAINT commentary_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id),
+    CONSTRAINT commentary_type_commentary_type_id_fk FOREIGN KEY (type_id) REFERENCES type_commentary (type_id)
+);
+CREATE UNIQUE INDEX commentary_type_id_uindex ON commentary (type_id);
+CREATE TABLE country
+(
+    country_ref TEXT PRIMARY KEY NOT NULL,
+    country_label TEXT NOT NULL
+);
+CREATE UNIQUE INDEX country_country_ref_uindex ON country (country_ref);
+CREATE UNIQUE INDEX country_country_label_uindex ON country (country_label);
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/3017382/republic-of-france.html', 'France');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/2510769/kingdom-of-spain.html', 'Espagne');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html', 'Angleterre');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/3077311/czechia.html', 'République tchèque');
+CREATE TABLE district
+(
+    district_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    district_label TEXT,
+    country_ref TEXT,
+    CONSTRAINT district_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref)
+);
+CREATE UNIQUE INDEX district_district_label_uindex ON district (district_label);
 INSERT INTO district (district_id, district_label, country_ref) VALUES (1, 'Picardie', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (2, 'Ile-de-France', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (3, 'Midi-Pyrénées', 'http://www.geonames.org/3017382/republic-of-france.html');
@@ -27,76 +75,101 @@ INSERT INTO district (district_id, district_label, country_ref) VALUES (21, 'Gra
 INSERT INTO district (district_id, district_label, country_ref) VALUES (22, 'Normandie', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (23, 'Auvergne', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (24, 'Jihomoravský kraj [Moravie du sud]', 'http://www.geonames.org/2510769/kingdom-of-spain.html');
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (20, 'Acte sous le sceau de l’officialité épiscopale de Beauvais', 'Une opération de remembrement : la vente à l’abbaye Saint-Germer-de-Fly d’une terre tenue à champart', 1248, '1248', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (22, 'Acte sous le sceau de l’officialité épiscopale de Meaux', 'Une patiente politique d’acquisition : vente de terre aux cisterciens de Chaalis', 1251, '1251', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (23, 'Acte scellé par un chevalier (Multien)', 'Après le don : le chevalier Thomas d’Oissery s’engage, comme seigneur censuel, à garantir aux cisterciens de Chaalis des terres contestées', 1261, '1261', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (24, 'Charte du roi de France Louis IX', 'L’accord du seigneur féodal : le roi, sur le chemin de la croisade, ratifie la vente à deux abbayes de Soissons d’un bois tenu de lui en arrière-fief', 1270, '1270', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (25, 'Mandement du roi de France Philippe V', 'Une seigneurie difficile à tenir : le roi fait ouvrir une instruction sur les droits du comte de Périgord dans la seigneurie de Caussade qu’il vient d’acquérir du souverain', 1317, '1317', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (26, 'Acte sous le sceau de la cour royale de Salins', 'La vente d’une vigne à Salins', 1296, '1296', null, null, 'cp', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (27, 'Chirographe co-scellé par les deux auteurs et par un cardinal-légat pontifical (Narbonnais)', 'Payer les fidélités au prix fort : Amaury de Montfort, comte de Toulouse, promet un château au vicomte de Narbonne', 1220, '1220', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (31, 'Mandement du dauphin de Viennois', 'L’apprentissage du pouvoir : commission du dauphin Louis (futur roi de France Louis XI) pour la prise de possession de seigneuries échangées', 1447, '1447', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (32, 'Acte de la comtesse de Boulogne', 'Entre époux et enfants : la comtesse Mahaut de Boulogne s’engage envers ses héritiers', 1242, '1242', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (33, 'Chirographe co-scellé par l’abbé de Moissac et le comte de Toulouse (Quercy)', 'L’hommage du comte : convention entre l’abbé de Moissac et Amaury de Montfort, comte de Toulouse', 1218, '1218', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (34, 'Acte notarié (Gévaudan)', 'Six ans de retard : certificat relatif au paiement d’arrérages d’une rente assignée sur un péage en Gévaudan', 1325, '1325', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (35, 'Acte sous le sceau de l’officialité épiscopale de Thérouanne', 'Quittance pour paiement de gages dus au titre de la guerre de Flandre', 1333, '1333', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (36, 'Notice sous un sceau consulaire (Limousin)', 'Au marché de Limoges : accord sur le cens à verser pour un étal de boucher', 1246, '1246', null, null, 'http://data.bnf.fr/ark:/12148/cb12118141m', 'H 8146', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (37, 'Acte scellé par un seigneur (Picardie)', 'Petits arrangements entre frères : Clarembaud, seigneur de Vendeuil, donne à son frère des rentes qu’il a rachetées à un bourgeois de Péronne', 1233, '1233', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (38, 'Acte du trésorier royal de la sénéchaussée de Toulouse', 'Solder l’armée d’occupation : certificat des versements faits et à faire à un capitaine de l’armée royale en Gascogne', 1304, '1304', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (39, 'Acte sous les sceaux de l’officialité archidiaconale de Verdun et d’un seigneur (Lorraine) ', 'Un montage féodal complexe : reprises et cessions d’un fief épiscopal en cascade', 1317, '1317', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (40, 'Attache de la Chambre des comptes et des généraux des finances pour l’exécution d’un acte du roi de France', 'Le laborieux paiement de la dot d’une fille de roi : Michèle de France reçoit, en l’attente du versement, les revenus des châtellenies de Péronne, Roye et Montdidier', 1418, '1418', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (41, 'Lettres pontificales sur fil de chanvre', 'Aux origines de la Sorbonne : le pape demande à l’évêque de Paris d’autoriser l’installation d’un oratoire dans le collège', 1268, '1268', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (42, 'Acte sous les sceaux du chapitre cathédral de Toulouse et de son prévôt', 'Procuration pour un concile provincial convoqué à Béziers', 1277, '1277', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (43, 'Acte du sénéchal royal de Saintonge-Angoumois', 'Des travaux qui traînent : mandement de faire procéder de toute urgence aux réparations du château de La Rochelle ordonnées par le roi', 1321, '1321', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (44, 'Acte du sénéchal royal de Carcassonne-Béziers', 'Veiller aux frontières : mandat d’avance de gages à la garnison du château de Caramany', 1342, '1342', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (45, 'Lettres pontificales sur fil de chanvre', 'Roi saint, sénéchal brigand ? Le pape mande au roi de France de faire restituer par son sénéchal de Beaucaire les biens de marchands génois qui se rendaient aux foires de Lagny en Champagne', 1245, '1245', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (46, 'Acte scellé par un particulier (Normandie)', 'Masure, courtil, prox. route royale : un acte de vente normand', 1253, '1253', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (47, 'Mandement du roi de Naples Robert, comte de Provence', 'Résistance à l’impôt : ordre de faire contribuer les récalcitrants au subside voté par la ville de Tarascon en échange de privilèges commerciaux', 1320, '1320', null, null, 'am_tarascon', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (48, 'Acte scellé par un notaire à titre personnel (Tarbes)', 'De notaire à notaire : procuration pour percevoir une somme due sur les caisses du roi en Bigorre', 1322, '1322', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (49, 'Lettres pontificales sur lacs de soie', 'Aux Mathurins de Paris : la protection pontificale', 1344, '1344', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (50, 'Lettres « de par le roi » du roi de France Jean le Bon', 'Père et fils : Jean le Bon impose au régent Charles, depuis Londres, le choix qu’il a fait d’un officier normand', 1357, '1357', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (51, 'Acte de l’évêque du Mans', 'Les garanties de l’écrit : le précautionneux montage d’une donation pieuse aux cisterciens de Savigny', 1180, '1180', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'L 969, n° 3', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (52, 'Charte du roi d’Angleterre Henri II, duc de Normandie', 'Une dotation royale : Henri II Plantagenet offre à Saint-Père de Chartres une rente annuelle de dix mille harengs en Normandie', 1172, '[1165-1172]', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (53, 'Diplôme du roi de France Louis VII', 'Le ventre de Paris : le roi accorde l’immunité à une maison avec four aux Champeaux', 1138, '1137-1138', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'K 23, n° 2', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (54, 'Notice monastique (Poitou)', 'Être le voisin de saint Maixent : dons et confirmations de dons à Saint-Maixent pour une entrée en religion', 1096, '1096', null, null, 'http://data.bnf.fr/ark:/12148/cb13197296q', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (55, 'Acte scellé par un seigneur (Dauphiné)', 'Une concession à la chartreuse de Berthaud', 1243, '1243', null, null, 'http://data.bnf.fr/ark:/12148/cb11864291k', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (58, 'Diplôme de l’empereur Frédéric II', 'Les ennemis de mes ennemis sont mes amis : Frédéric II investit Raimond VII de Toulouse du comté de Forcalquier dont il a prononcé la commise à l’encontre de Raimond Béranger V de Provence.', 1239, '1239', '[1240-1275 ca.]', 'XIII', 'http://data.bnf.fr/ark:/12148/cb11862272t', 'J 340, n° 21', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (59, 'Lettre de l’archevêque de Tyr', 'Une trop lourde charge : Gilles archevêque de Tyr annonce que le pape a refusé de le décharger de la prédication de la croisade', 1265, '1265', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (60, 'Acte laïc sous sceaux ecclésiastiques (Besançon, Dole et Rougemont)', 'Le testament d’un seigneur comtois', 1269, '1269', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', 'nouv. acq. fr. 8761', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (61, 'Lettre de l’archevêque de Narbonne à six abbés de son diocèse', 'Signez la pétition : lettre circulaire pour la rédaction de procurations appuyant des remontrances au roi de France', 1277, '1277', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (62, 'Acte sous le sceau de la cour royale de Salins', 'Constitution de rente sur une vigne proche de Salins', 1296, '1296', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (63, 'Acte notarié scellé d’un sceau épiscopal (Dauphiné)', 'Un hôte encombrant : l’évêque de Gap reconnaît avoir demandé gîte à la chartreuse de Durbon avant que son droit à l’exercer ait été reconnu', 1304, '1304', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (64, 'Acte scellé par un particulier (Rouergue)', 'Le notaire enquêteur : quittance de gages pour une enquête réalisée dans la sénéchaussée royale de Rouergue', 1340, '1340', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (65, 'Acte de Nunyo Sanche, seigneur de Roussillon', 'Compromis à la catalane : le roi d’Aragon Jacques Ier se voit reconnaître le droit de nommer un viguier à Majorque', 1240, '1240', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (66, 'Serment (Nîmes)', 'Tenir le château : serment de fidélité prêté pour le château de Bernis à la vicomtesse de Nîmes', 1159, '[1159]', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (67, 'Acte de Guillaume comte de Ponthieu (copie sous le sceau de la châtellenie d’Exmes, 1487)', 'La chaîne de la tradition : don du XIIe, copie du XVe', 1171, '[1157-1171]', '1487', 'XV', 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (68, 'Acte dressé par un prêtre (Roussillon)', 'Un accensement de vignes', 1116, '1116', null, null, 'http://data.bnf.fr/ark:/12148/cb118653855', 'B 63', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (69, 'Précepte du roi de France Charles le Chauve (copie de cartulaire, XIIe siècle)', 'Alimenter les fidélités : don de terres par Charles le Chauve à un fidèle bourguignon', 842, '842', '[1101-1200 ca.] ', 'XII', 'http://data.bnf.fr/ark:/12148/cb12068304t', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (70, 'Notice monastique (Val de Loire)', 'Le douaire d’une reine : don d’une forêt à Marmoutier par Bertrade, veuve du roi de France Philippe Ier', 1115, '1115', null, null, 'http://data.bnf.fr/ark:/12148/cb118714563', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (71, 'Acte de l’évêque d’Amiens en forme de chirographe', 'Répartir les profits du culte : accord entre patron et curé', 1199, '1199', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (72, 'Mandement de l’archevêque de Reims (vidimus contemporain sous le sceau de l’officialité archidiaconale de Reims)', 'L’appui du bras spirituel : l’archevêque enjoint d’aider à la levée d’une imposition par la commune de Reims', 1255, '1255', '1255', 'XIII', null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (73, 'Acte de l’administration royale (Paris)', 'Des payeurs récalcitrants : rapport d’un sergent du Châtelet aux Requêtes du Palais', 1375, '1375', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'S 952 n° 2', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (74, 'Acte d’Urraka, fille du roi de León et de Castille Alphonse VI', 'Un don royal à l’abbaye de Cluny : l’infante Urraka, dame de Galice, offre le monastère de Pombeiro', 1109, '1109', '[1109-1200 ca.]', 'XII', 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (75, 'Chirographe d’échevinage (Valenciennes)', 'Entre gens de bien et devant hommes d’honneur : la dotation des jeunes époux', 1430, '1430', null, null, 'http://data.bnf.fr/ark:/12148/cb11885523k', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (76, 'Lettre du comte de Savoie Amédée IV', 'Payez la dot ! Une relance pressante aux exécuteurs testamentaires du comte de Toulouse Raimond VII', 1251, '1251', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'J 310 n° 39', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (77, 'Lettres patentes sur double queue du roi de France Louis XI', 'Une Flandre souveraine : acte d’application du traité de Péronne', 1468, '1468', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (78, 'Acte sous le sceau du doyen de chrétienté de Verberie (diocèse Soissons)', 'Charité bien ordonnée : don et échange de terre d’un bourgeois de Compiègne aux cisterciens de Chaalis', 1239, '1239', null, null, 'cp_bigne', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (79, 'Acte co-scellé par le bailli royal du Cotentin et par un chevalier', 'Une rente sur un moulin : petits arrangements et grandes garanties en faveur des cisterciennes de Mortain', 1276, '1276', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (80, 'Acte scellé par un seigneur (Picardie)', 'Préparer le défrichement : accord entre l’abbaye de Prémontré et le seigneur de Ham sur le défrichement d’un bois', 1177, '1177', null, null, 'http://data.bnf.fr/ark:/12148/cb12006185c', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (81, 'Diplôme du roi de France Robert le Pieux (vidimus au Châtelet de Paris, 1279)', 'Fidèles et sanctuaires : confirmation par le roi de dons faits à l’abbaye Saint-Maur-des-Fossés à Evry et à Lisses', 999, '999', '1279', 'XIII', 'http://data.bnf.fr/ark:/12148/cb11862272t', 'S 1165 n° 13', null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (82, 'Acte sous le sceau du doyen du chapitre cathédral de Paris', 'Transactions immobilières et gestion des prébendes : accensement d’une maison par le chancelier de la cathédrale', 1192, '1192', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (83, 'Charte du roi d’Angleterre Henri II', 'Ordre princier, ordre cistercien : la régularisation de l’ermitage de Beaugerais, remis à l’abbaye cistercienne du Loroux', 1189, '[1177-1189]', null, null, 'http://data.bnf.fr/ark:/12148/cb118714563', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (84, 'Acte scellé par un bourgeois (Guyenne)', 'Parole de Gascons : une dette contractée à Londres et remboursable à Bordeaux', 1293, '1293', null, null, 'http://data.bnf.fr/ark:/12148/cb11865380f', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (85, 'Acte de justice seigneuriale (Normandie)', 'Aux plaids de la seigneurie : aveu et dénombrement de tenure', 1500, '1500', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (86, 'Acte sous le sceau de l’officialité épiscopale de Paris', 'Le prix de la maîtrise : une cave et un étal pour entrer en Boucherie', 1276, '1276', null, null, 'cp_meyer', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (87, 'Charte du roi d’Angleterre Jean sans Terre', 'Le roi et les ermites : les Grandmontains du Parc de Rouen', 1199, '1199', null, null, 'http://data.bnf.fr/ark:/12148/cb118714563', null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (88, 'Acte de l’archevêque de Sens', 'L’archevêque, les moines, la paroisse : concession d’autel à Saint-Germain-des-Prés', 1109, '1109', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (89, 'Acte du bailli royal de Bourges', 'Un trou dans la muraille : autorisation de percement accordée aux Templiers à Issoudun', 1298, '1298', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (90, 'Diplôme du roi de France Philippe Auguste', 'Partage de dépouilles normandes : un échange entre le roi et le comte Renaud de Boulogne', 1204, '1204', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (91, 'Acte scellé et signé par un chanoine, procureur d’abbaye (Perche)', 'Paris, rive droite : circulation d’une rente sur une maison en la Mortellerie, dans la censive de l’abbaye de Thiron', 1407, '1407', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (92, 'Attache de la Chambre des comptes et des trésoriers du roi de France', 'Ordres en cascade et médiations administratives : l’exécution d’une souffrance d’hommage pour un fief normand', 1413, '1413', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (93, 'Acte d’Eudes, sire de Bourbon, fils aîné du duc de Bourgogne ', 'Hériter des charges : Eudes de Bourbon reconnaît les dettes et legs des Châtillon', 1250, '1250', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (94, 'Acte scellé par un seigneur (Bourgogne)', 'Aux confins des principautés : reprise de fief et hommages liges en Bourgogne', 1265, '1265', null, null, null, null, null, null, null);
-INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution, pressmark, regest, date_cre, date_maj) VALUES (95, 'Lettres pontificales (copie contemporaine au registre pontifical)', 'Le pape, le roi, les moniales : confirmations de dons d’églises de Brno à des cisterciennes de Moravie', 1261, '1261', '1261', 'XIII', 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+CREATE TABLE document
+(
+    doc_id INTEGER PRIMARY KEY,
+    title TEXT,
+    subtitle TEXT,
+    creation INTEGER,
+    creation_lab TEXT,
+    copy_year TEXT,
+    copy_cent INTEGER,
+    institution_ref TEXT,
+    pressmark TEXT,
+    argument TEXT,
+    date_insert INTEGER,
+    date_update INTEGER,
+    CONSTRAINT document_institution_instit_ref_fk FOREIGN KEY (institution_ref) REFERENCES institution (instit_ref)
+);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (20, 'Acte sous le sceau de l’officialité épiscopale de Beauvais', 'Une opération de remembrement : la vente à l’abbaye Saint-Germer-de-Fly d’une terre tenue à champart', 1248, '1248', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (22, 'Acte sous le sceau de l’officialité épiscopale de Meaux', 'Une patiente politique d’acquisition : vente de terre aux cisterciens de Chaalis', 1251, '1251', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (23, 'Acte scellé par un chevalier (Multien)', 'Après le don : le chevalier Thomas d’Oissery s’engage, comme seigneur censuel, à garantir aux cisterciens de Chaalis des terres contestées', 1261, '1261', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (24, 'Charte du roi de France Louis IX', 'L’accord du seigneur féodal : le roi, sur le chemin de la croisade, ratifie la vente à deux abbayes de Soissons d’un bois tenu de lui en arrière-fief', 1270, '1270', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (25, 'Mandement du roi de France Philippe V', 'Une seigneurie difficile à tenir : le roi fait ouvrir une instruction sur les droits du comte de Périgord dans la seigneurie de Caussade qu’il vient d’acquérir du souverain', 1317, '1317', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (26, 'Acte sous le sceau de la cour royale de Salins', 'La vente d’une vigne à Salins', 1296, '1296', null, null, 'cp', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (27, 'Chirographe co-scellé par les deux auteurs et par un cardinal-légat pontifical (Narbonnais)', 'Payer les fidélités au prix fort : Amaury de Montfort, comte de Toulouse, promet un château au vicomte de Narbonne', 1220, '1220', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (31, 'Mandement du dauphin de Viennois', 'L’apprentissage du pouvoir : commission du dauphin Louis (futur roi de France Louis XI) pour la prise de possession de seigneuries échangées', 1447, '1447', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (32, 'Acte de la comtesse de Boulogne', 'Entre époux et enfants : la comtesse Mahaut de Boulogne s’engage envers ses héritiers', 1242, '1242', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (33, 'Chirographe co-scellé par l’abbé de Moissac et le comte de Toulouse (Quercy)', 'L’hommage du comte : convention entre l’abbé de Moissac et Amaury de Montfort, comte de Toulouse', 1218, '1218', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (34, 'Acte notarié (Gévaudan)', 'Six ans de retard : certificat relatif au paiement d’arrérages d’une rente assignée sur un péage en Gévaudan', 1325, '1325', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (35, 'Acte sous le sceau de l’officialité épiscopale de Thérouanne', 'Quittance pour paiement de gages dus au titre de la guerre de Flandre', 1333, '1333', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (36, 'Notice sous un sceau consulaire (Limousin)', 'Au marché de Limoges : accord sur le cens à verser pour un étal de boucher', 1246, '1246', null, null, 'http://data.bnf.fr/ark:/12148/cb12118141m', 'H 8146', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (37, 'Acte scellé par un seigneur (Picardie)', 'Petits arrangements entre frères : Clarembaud, seigneur de Vendeuil, donne à son frère des rentes qu’il a rachetées à un bourgeois de Péronne', 1233, '1233', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (38, 'Acte du trésorier royal de la sénéchaussée de Toulouse', 'Solder l’armée d’occupation : certificat des versements faits et à faire à un capitaine de l’armée royale en Gascogne', 1304, '1304', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (39, 'Acte sous les sceaux de l’officialité archidiaconale de Verdun et d’un seigneur (Lorraine) ', 'Un montage féodal complexe : reprises et cessions d’un fief épiscopal en cascade', 1317, '1317', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (40, 'Attache de la Chambre des comptes et des généraux des finances pour l’exécution d’un acte du roi de France', 'Le laborieux paiement de la dot d’une fille de roi : Michèle de France reçoit, en l’attente du versement, les revenus des châtellenies de Péronne, Roye et Montdidier', 1418, '1418', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (41, 'Lettres pontificales sur fil de chanvre', 'Aux origines de la Sorbonne : le pape demande à l’évêque de Paris d’autoriser l’installation d’un oratoire dans le collège', 1268, '1268', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (42, 'Acte sous les sceaux du chapitre cathédral de Toulouse et de son prévôt', 'Procuration pour un concile provincial convoqué à Béziers', 1277, '1277', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (43, 'Acte du sénéchal royal de Saintonge-Angoumois', 'Des travaux qui traînent : mandement de faire procéder de toute urgence aux réparations du château de La Rochelle ordonnées par le roi', 1321, '1321', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (44, 'Acte du sénéchal royal de Carcassonne-Béziers', 'Veiller aux frontières : mandat d’avance de gages à la garnison du château de Caramany', 1342, '1342', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (45, 'Lettres pontificales sur fil de chanvre', 'Roi saint, sénéchal brigand ? Le pape mande au roi de France de faire restituer par son sénéchal de Beaucaire les biens de marchands génois qui se rendaient aux foires de Lagny en Champagne', 1245, '1245', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (46, 'Acte scellé par un particulier (Normandie)', 'Masure, courtil, prox. route royale : un acte de vente normand', 1253, '1253', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (47, 'Mandement du roi de Naples Robert, comte de Provence', 'Résistance à l’impôt : ordre de faire contribuer les récalcitrants au subside voté par la ville de Tarascon en échange de privilèges commerciaux', 1320, '1320', null, null, 'am_tarascon', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (48, 'Acte scellé par un notaire à titre personnel (Tarbes)', 'De notaire à notaire : procuration pour percevoir une somme due sur les caisses du roi en Bigorre', 1322, '1322', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (49, 'Lettres pontificales sur lacs de soie', 'Aux Mathurins de Paris : la protection pontificale', 1344, '1344', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (50, 'Lettres « de par le roi » du roi de France Jean le Bon', 'Père et fils : Jean le Bon impose au régent Charles, depuis Londres, le choix qu’il a fait d’un officier normand', 1357, '1357', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (51, 'Acte de l’évêque du Mans', 'Les garanties de l’écrit : le précautionneux montage d’une donation pieuse aux cisterciens de Savigny', 1180, '1180', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'L 969, n° 3', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (52, 'Charte du roi d’Angleterre Henri II, duc de Normandie', 'Une dotation royale : Henri II Plantagenet offre à Saint-Père de Chartres une rente annuelle de dix mille harengs en Normandie', 1172, '[1165-1172]', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (53, 'Diplôme du roi de France Louis VII', 'Le ventre de Paris : le roi accorde l’immunité à une maison avec four aux Champeaux', 1138, '1137-1138', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'K 23, n° 2', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (54, 'Notice monastique (Poitou)', 'Être le voisin de saint Maixent : dons et confirmations de dons à Saint-Maixent pour une entrée en religion', 1096, '1096', null, null, 'http://data.bnf.fr/ark:/12148/cb13197296q', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (55, 'Acte scellé par un seigneur (Dauphiné)', 'Une concession à la chartreuse de Berthaud', 1243, '1243', null, null, 'http://data.bnf.fr/ark:/12148/cb11864291k', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (58, 'Diplôme de l’empereur Frédéric II', 'Les ennemis de mes ennemis sont mes amis : Frédéric II investit Raimond VII de Toulouse du comté de Forcalquier dont il a prononcé la commise à l’encontre de Raimond Béranger V de Provence.', 1239, '1239', '[1240-1275 ca.]', 13, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'J 340, n° 21', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (59, 'Lettre de l’archevêque de Tyr', 'Une trop lourde charge : Gilles archevêque de Tyr annonce que le pape a refusé de le décharger de la prédication de la croisade', 1265, '1265', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (60, 'Acte laïc sous sceaux ecclésiastiques (Besançon, Dole et Rougemont)', 'Le testament d’un seigneur comtois', 1269, '1269', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', 'nouv. acq. fr. 8761', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (61, 'Lettre de l’archevêque de Narbonne à six abbés de son diocèse', 'Signez la pétition : lettre circulaire pour la rédaction de procurations appuyant des remontrances au roi de France', 1277, '1277', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (62, 'Acte sous le sceau de la cour royale de Salins', 'Constitution de rente sur une vigne proche de Salins', 1296, '1296', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (63, 'Acte notarié scellé d’un sceau épiscopal (Dauphiné)', 'Un hôte encombrant : l’évêque de Gap reconnaît avoir demandé gîte à la chartreuse de Durbon avant que son droit à l’exercer ait été reconnu', 1304, '1304', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (64, 'Acte scellé par un particulier (Rouergue)', 'Le notaire enquêteur : quittance de gages pour une enquête réalisée dans la sénéchaussée royale de Rouergue', 1340, '1340', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (65, 'Acte de Nunyo Sanche, seigneur de Roussillon', 'Compromis à la catalane : le roi d’Aragon Jacques Ier se voit reconnaître le droit de nommer un viguier à Majorque', 1240, '1240', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (66, 'Serment (Nîmes)', 'Tenir le château : serment de fidélité prêté pour le château de Bernis à la vicomtesse de Nîmes', 1159, '[1159]', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (67, 'Acte de Guillaume comte de Ponthieu (copie sous le sceau de la châtellenie d’Exmes, 1487)', 'La chaîne de la tradition : don du XIIe, copie du XVe', 1171, '[1157-1171]', '1487', 15, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (68, 'Acte dressé par un prêtre (Roussillon)', 'Un accensement de vignes', 1116, '1116', null, null, 'http://data.bnf.fr/ark:/12148/cb118653855', 'B 63', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (69, 'Précepte du roi de France Charles le Chauve (copie de cartulaire, XIIe siècle)', 'Alimenter les fidélités : don de terres par Charles le Chauve à un fidèle bourguignon', 842, '842', '[1101-1200 ca.] ', 12, 'http://data.bnf.fr/ark:/12148/cb12068304t', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (70, 'Notice monastique (Val de Loire)', 'Le douaire d’une reine : don d’une forêt à Marmoutier par Bertrade, veuve du roi de France Philippe Ier', 1115, '1115', null, null, 'http://data.bnf.fr/ark:/12148/cb118714563', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (71, 'Acte de l’évêque d’Amiens en forme de chirographe', 'Répartir les profits du culte : accord entre patron et curé', 1199, '1199', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (72, 'Mandement de l’archevêque de Reims (vidimus contemporain sous le sceau de l’officialité archidiaconale de Reims)', 'L’appui du bras spirituel : l’archevêque enjoint d’aider à la levée d’une imposition par la commune de Reims', 1255, '1255', '1255', 13, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (73, 'Acte de l’administration royale (Paris)', 'Des payeurs récalcitrants : rapport d’un sergent du Châtelet aux Requêtes du Palais', 1375, '1375', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'S 952 n° 2', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (74, 'Acte d’Urraka, fille du roi de León et de Castille Alphonse VI', 'Un don royal à l’abbaye de Cluny : l’infante Urraka, dame de Galice, offre le monastère de Pombeiro', 1109, '1109', '[1109-1200 ca.]', 12, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (75, 'Chirographe d’échevinage (Valenciennes)', 'Entre gens de bien et devant hommes d’honneur : la dotation des jeunes époux', 1430, '1430', null, null, 'http://data.bnf.fr/ark:/12148/cb11885523k', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (76, 'Lettre du comte de Savoie Amédée IV', 'Payez la dot ! Une relance pressante aux exécuteurs testamentaires du comte de Toulouse Raimond VII', 1251, '1251', null, null, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'J 310 n° 39', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (77, 'Lettres patentes sur double queue du roi de France Louis XI', 'Une Flandre souveraine : acte d’application du traité de Péronne', 1468, '1468', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (78, 'Acte sous le sceau du doyen de chrétienté de Verberie (diocèse Soissons)', 'Charité bien ordonnée : don et échange de terre d’un bourgeois de Compiègne aux cisterciens de Chaalis', 1239, '1239', null, null, 'cp_bigne', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (79, 'Acte co-scellé par le bailli royal du Cotentin et par un chevalier', 'Une rente sur un moulin : petits arrangements et grandes garanties en faveur des cisterciennes de Mortain', 1276, '1276', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (80, 'Acte scellé par un seigneur (Picardie)', 'Préparer le défrichement : accord entre l’abbaye de Prémontré et le seigneur de Ham sur le défrichement d’un bois', 1177, '1177', null, null, 'http://data.bnf.fr/ark:/12148/cb12006185c', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (81, 'Diplôme du roi de France Robert le Pieux (vidimus au Châtelet de Paris, 1279)', 'Fidèles et sanctuaires : confirmation par le roi de dons faits à l’abbaye Saint-Maur-des-Fossés à Evry et à Lisses', 999, '999', '1279', 13, 'http://data.bnf.fr/ark:/12148/cb11862272t', 'S 1165 n° 13', null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (82, 'Acte sous le sceau du doyen du chapitre cathédral de Paris', 'Transactions immobilières et gestion des prébendes : accensement d’une maison par le chancelier de la cathédrale', 1192, '1192', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (83, 'Charte du roi d’Angleterre Henri II', 'Ordre princier, ordre cistercien : la régularisation de l’ermitage de Beaugerais, remis à l’abbaye cistercienne du Loroux', 1189, '[1177-1189]', null, null, 'http://data.bnf.fr/ark:/12148/cb118714563', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (84, 'Acte scellé par un bourgeois (Guyenne)', 'Parole de Gascons : une dette contractée à Londres et remboursable à Bordeaux', 1293, '1293', null, null, 'http://data.bnf.fr/ark:/12148/cb11865380f', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (85, 'Acte de justice seigneuriale (Normandie)', 'Aux plaids de la seigneurie : aveu et dénombrement de tenure', 1500, '1500', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (86, 'Acte sous le sceau de l’officialité épiscopale de Paris', 'Le prix de la maîtrise : une cave et un étal pour entrer en Boucherie', 1276, '1276', null, null, 'cp_meyer', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (87, 'Charte du roi d’Angleterre Jean sans Terre', 'Le roi et les ermites : les Grandmontains du Parc de Rouen', 1199, '1199', null, null, 'http://data.bnf.fr/ark:/12148/cb118714563', null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (88, 'Acte de l’archevêque de Sens', 'L’archevêque, les moines, la paroisse : concession d’autel à Saint-Germain-des-Prés', 1109, '1109', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (89, 'Acte du bailli royal de Bourges', 'Un trou dans la muraille : autorisation de percement accordée aux Templiers à Issoudun', 1298, '1298', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (90, 'Diplôme du roi de France Philippe Auguste', 'Partage de dépouilles normandes : un échange entre le roi et le comte Renaud de Boulogne', 1204, '1204', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (91, 'Acte scellé et signé par un chanoine, procureur d’abbaye (Perche)', 'Paris, rive droite : circulation d’une rente sur une maison en la Mortellerie, dans la censive de l’abbaye de Thiron', 1407, '1407', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (92, 'Attache de la Chambre des comptes et des trésoriers du roi de France', 'Ordres en cascade et médiations administratives : l’exécution d’une souffrance d’hommage pour un fief normand', 1413, '1413', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (93, 'Acte d’Eudes, sire de Bourbon, fils aîné du duc de Bourgogne ', 'Hériter des charges : Eudes de Bourbon reconnaît les dettes et legs des Châtillon', 1250, '1250', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (94, 'Acte scellé par un seigneur (Bourgogne)', 'Aux confins des principautés : reprise de fief et hommages liges en Bourgogne', 1265, '1265', null, null, null, null, null, null, null);
+INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (95, 'Lettres pontificales (copie contemporaine au registre pontifical)', 'Le pape, le roi, les moniales : confirmations de dons d’églises de Brno à des cisterciennes de Moravie', 1261, '1261', '1261', 13, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
+CREATE TABLE documentFromCountry
+(
+    doc_id INTEGER NOT NULL,
+    country_ref INTEGER NOT NULL,
+    CONSTRAINT documentFromCountry_doc_id_country_ref_pk PRIMARY KEY (doc_id, country_ref),
+    CONSTRAINT documentFromCountry_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentFromCountry_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref) ON DELETE CASCADE
+);
+CREATE UNIQUE INDEX documentFromCountry_doc_id_country_ref_uindex ON documentFromCountry (doc_id, country_ref);
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (20, 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (22, 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (23, 'http://www.geonames.org/3017382/republic-of-france.html');
@@ -170,6 +243,14 @@ INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (93, 'http://www.ge
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (94, 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (95, 'http://www.geonames.org/3077311/czechia.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (58, 'http://www.geonames.org/3017382/republic-of-france.html');
+CREATE TABLE documentFromDistrict
+(
+    doc_id INTEGER,
+    district_id INTEGER,
+    CONSTRAINT documentFromDistrict_doc_id_district_id_pk PRIMARY KEY (doc_id, district_id),
+    CONSTRAINT documentFromDistrict_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentFromDistrict_district_district_id_fk FOREIGN KEY (district_id) REFERENCES district (district_id) ON DELETE CASCADE
+);
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (20, 'Picardie');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (22, 'Ile-de-France');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (23, 'Ile-de-France');
@@ -245,6 +326,23 @@ INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (92, 'Normandie');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (93, 'Auvergne');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (94, 'Bourgogne');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (95, 'Jihomoravský kraj [Moravie du sud]');
+CREATE TABLE documentHasEditor
+(
+    doc_id INTEGER,
+    editor_name TEXT,
+    CONSTRAINT documentHasEditor_doc_id_author_name_pk PRIMARY KEY (doc_id, editor_name),
+    CONSTRAINT documentHasEditor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentHasEditor_editor_editor_name_fk FOREIGN KEY (editor_name) REFERENCES editor (editor_name)
+);
+CREATE TABLE documentHasLanguage
+(
+    doc_id INTEGER,
+    lang_code TEXT,
+    CONSTRAINT documentHasLangage_doc_id_lang_code_pk PRIMARY KEY (doc_id, lang_code),
+    CONSTRAINT documentHasLangage_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentHasLangage_langage_lang_code_fk FOREIGN KEY (lang_code) REFERENCES language (lang_code) ON DELETE CASCADE
+);
+CREATE UNIQUE INDEX documentHasLangage_doc_id_lang_code_uindex ON documentHasLanguage (doc_id, lang_code);
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (20, 'lat');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (22, 'lat');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (23, 'lat');
@@ -316,6 +414,15 @@ INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (94, 'fre');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (66, 'oci');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (67, 'fre');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (81, 'fre');
+CREATE TABLE documentHasTradition
+(
+    doc_id INTEGER,
+    tradition_id TEXT,
+    CONSTRAINT documentHasTradition_doc_id_tradition_id_pk PRIMARY KEY (doc_id, tradition_id),
+    CONSTRAINT documentHasTradition_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentHasTradition_tradition_tradition_id_fk FOREIGN KEY (tradition_id) REFERENCES tradition (tradition_id) ON DELETE CASCADE
+);
+CREATE UNIQUE INDEX documentHasTradition_doc_id_tradition_id_uindex ON documentHasTradition (doc_id, tradition_id);
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (20, 'orig');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (22, 'orig');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (23, 'orig');
@@ -390,6 +497,15 @@ INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (81, 'cp_figuree'
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (74, 'cp_informe');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (74, 'cp_figuree');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (69, 'cp_figuree');
+CREATE TABLE documentHasTypeActe
+(
+    doc_id INTEGER,
+    type_id INTEGER,
+    CONSTRAINT documentHasType_doc_id_type_id_pk PRIMARY KEY (doc_id, type_id),
+    CONSTRAINT documentHasType_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE ON UPDATE CASCADE,
+    CONSTRAINT documentHasType_type_acte_type_id_fk FOREIGN KEY (type_id) REFERENCES type_acte (type_id) ON DELETE CASCADE ON UPDATE CASCADE
+);
+CREATE UNIQUE INDEX documentHasType_doc_id_type_id_uindex ON documentHasTypeActe (doc_id, type_id);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (20, 12);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (22, 12);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (23, 2);
@@ -479,6 +595,44 @@ INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (92, 9);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (93, 20);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (94, 2);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (95, 19);
+CREATE TABLE documentLinkedToDocument
+(
+    doc_id INTEGER NOT NULL,
+    linked_doc_id INTEGER NOT NULL,
+    CONSTRAINT documentLinkedToDocument_doc_id_linked_doc_id_pk PRIMARY KEY (doc_id, linked_doc_id),
+    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (linked_doc_id) REFERENCES document (doc_id) ON DELETE CASCADE
+);
+CREATE INDEX documentLinkedToDocument_linked_doc_id_index ON documentLinkedToDocument (linked_doc_id);
+CREATE TABLE editor
+(
+    editor_ref TEXT,
+    editor_name TEXT PRIMARY KEY
+);
+CREATE INDEX editor_editor_name_index ON editor (editor_name);
+INSERT INTO editor (editor_ref, editor_name) VALUES ('http://data.bnf.fr/ark:/12148/cb11906612z', 'Olivier Guyotjeannin');
+CREATE TABLE image
+(
+    img_url TEXT PRIMARY KEY NOT NULL,
+    img_desc TEXT
+);
+CREATE UNIQUE INDEX image_img_url_uindex ON image (img_url);
+CREATE INDEX image_img_desc_index ON image (img_desc);
+CREATE TABLE image_zone
+(
+    img_url TEXT NOT NULL,
+    zone_id INTEGER NOT NULL,
+    coords TEXT,
+    CONSTRAINT image_zone_zone_id_img_url_pk PRIMARY KEY (img_url, zone_id),
+    CONSTRAINT image_zone_image_img_url_fk FOREIGN KEY (img_url) REFERENCES image (img_url) ON DELETE CASCADE
+);
+CREATE UNIQUE INDEX image_zone_zone_id_img_url_uindex ON image_zone (img_url, zone_id);
+CREATE TABLE institution
+(
+    instit_ref TEXT PRIMARY KEY NOT NULL,
+    instit_name INT NOT NULL
+);
+CREATE UNIQUE INDEX institution_instit_ref_uindex ON institution (instit_ref);
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb12118141m', 'Archives départementales Haute-Vienne (France)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb11864291k', 'Archives départementales Hautes-Alpes (France)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb12006185c', 'Archives départementales Oise (France)');
@@ -494,32 +648,25 @@ INSERT INTO institution (instit_ref, instit_name) VALUES ('cp', 'Collection priv
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb13197296q', 'Collection privée (« Cabinet B. Fillon à Fontenay-Vendée »)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('cp_bigne', 'Collection privée (« Mr de la Bigne »)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('cp_meyer', 'Collection privée (« Paul Meyer »)');
+CREATE TABLE language
+(
+    lang_code TEXT,
+    lang_label TEXT
+);
+CREATE UNIQUE INDEX langage_langcode_uindex ON language (lang_code);
+CREATE INDEX langage_lang_label_index ON language (lang_label);
 INSERT INTO language (lang_code, lang_label) VALUES ('fre', 'Français');
 INSERT INTO language (lang_code, lang_label) VALUES ('lat', 'Latin');
 INSERT INTO language (lang_code, lang_label) VALUES ('oci', 'Occitan');
+CREATE TABLE sqlite_master
+(
+    type text,
+    name text,
+    tbl_name text,
+    rootpage integer,
+    sql text
+);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'sqlite_sequence', 'sqlite_sequence', 10, 'CREATE TABLE sqlite_sequence(name,seq)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'traduction_ptr_table', 'traduction_ptr_table', 9, 'CREATE TABLE "traduction_ptr_table" (
-  "transc_id" integer,
-  "trad_id" integer,
-  "ptr_transc_deb" integer,
-  "ptr_transc_fin" integer,
-  "ptr_trad_deb" integer,
-  "ptr_trad_fin" integer,
-  CONSTRAINT "alignement_transcription_traduction" PRIMARY KEY ("transc_id", "trad_id"),
-  CONSTRAINT "transcription" FOREIGN KEY ("transc_id") REFERENCES "transcription" ("transc_id") ON DELETE CASCADE ON UPDATE NO ACTION,
-  CONSTRAINT "traduciton" FOREIGN KEY ("trad_id") REFERENCES "traduction" ("trad_id") ON DELETE CASCADE ON UPDATE NO ACTION
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_traduction_ptr_table_1', 'traduction_ptr_table', 2, null);
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'facsimile_ptr_table', 'facsimile_ptr_table', 15, 'CREATE TABLE "facsimile_ptr_table" (
-  "transc_id" integer,
-  "zone_id" integer,
-  "ptr_transc_deb" integer,
-  "ptr_transc_fin" integer,
-  CONSTRAINT "alignement_transcription_facsimile" PRIMARY KEY ("transc_id", "zone_id"),
-  CONSTRAINT "transcription" FOREIGN KEY ("transc_id") REFERENCES "transcription" ("transc_id") ON DELETE CASCADE ON UPDATE NO ACTION,
-  CONSTRAINT "zone" FOREIGN KEY ("zone_id") REFERENCES "zone_facsimile" ("zone_id") ON DELETE CASCADE
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_facsimile_ptr_table_1', 'facsimile_ptr_table', 16, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'type_acte', 'type_acte', 4, 'CREATE TABLE type_acte
 (
     type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
@@ -599,20 +746,6 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
     CONSTRAINT commentary_type_commentary_type_id_fk FOREIGN KEY (type_id) REFERENCES type_commentary (type_id)
 )');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'commentary_type_id_uindex', 'commentary', 52, 'CREATE UNIQUE INDEX commentary_type_id_uindex ON "commentary" (type_id)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'traduction', 'traduction', 56, 'CREATE TABLE "traduction"
-(
-    trad_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    doc_id INTEGER,
-    content TEXT,
-    CONSTRAINT document_id FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'transcription', 'transcription', 6, 'CREATE TABLE "transcription"
-(
-    transc_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    doc_id INTEGER,
-    content TEXT,
-    CONSTRAINT transcription_document FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE
-)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'country', 'country', 30, 'CREATE TABLE country
 (
 	country_ref TEXT not null,
@@ -641,22 +774,6 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasTradition_1', 'documentHasTradition', 20, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasTradition_doc_id_tradition_id_uindex', 'documentHasTradition', 23, 'CREATE UNIQUE INDEX documentHasTradition_doc_id_tradition_id_uindex
 	on documentHasTradition (doc_id, tradition_id)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'document', 'document', 5, 'CREATE TABLE document
-(
-	doc_id INTEGER
-		primary key,
-	title TEXT,
-	subtitle TEXT,
-	creation INTEGER,
-	creation_lab TEXT,
-	copy_year TEXT,
-	copy_cent TEXT,
-	institution TEXT
-		constraint document_institution_instit_ref_fk
-			references institution (instit_ref),
-	pressmark TEXT,
-  regest TEXT
-, date_cre INTEGER NULL, date_maj INTEGER NULL)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'district', 'district', 14, 'CREATE TABLE "district"
 (
     district_id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -665,14 +782,6 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
     CONSTRAINT district_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref)
 )');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'district_district_label_uindex', 'district', 62, 'CREATE UNIQUE INDEX district_district_label_uindex ON "district" (district_label)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'author', 'author', 49, 'CREATE TABLE author
-(
-    author_ref TEXT,
-    author_name TEXT PRIMARY KEY
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_author_1', 'author', 59, null);
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'author_author_ref_uindex', 'author', 70, 'CREATE UNIQUE INDEX author_author_ref_uindex ON author (author_ref)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'author_author_name_index', 'author', 71, 'CREATE INDEX author_author_name_index ON author (author_name)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentLinkedToDocument', 'documentLinkedToDocument', 58, 'CREATE TABLE "documentLinkedToDocument"
 (
     doc_id INTEGER NOT NULL,
@@ -702,20 +811,124 @@ INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table',
 )');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasLanguage_1', 'documentHasLanguage', 28, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasLangage_doc_id_lang_code_uindex', 'documentHasLanguage', 29, 'CREATE UNIQUE INDEX documentHasLangage_doc_id_lang_code_uindex ON documentHasLanguage (doc_id, lang_code)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasAuthor', 'documentHasAuthor', 57, 'CREATE TABLE documentHasAuthor
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'user', 'user', 75, 'CREATE TABLE user
+(
+    username TEXT PRIMARY KEY NOT NULL,
+    firstname TEXT NOT NULL,
+    lastname TEXT NOT NULL,
+    mail TEXT NOT NULL
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_user_1', 'user', 76, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'user_username_uindex', 'user', 77, 'CREATE UNIQUE INDEX user_username_uindex ON user (username)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'editor', 'editor', 49, 'CREATE TABLE editor
+(
+    editor_ref TEXT,
+    editor_name TEXT PRIMARY KEY
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_editor_1', 'editor', 59, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'editor_editor_name_index', 'editor', 70, 'CREATE INDEX editor_editor_name_index ON editor (editor_name)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasEditor', 'documentHasEditor', 57, 'CREATE TABLE documentHasEditor
 (
     doc_id INTEGER,
-    author_name TEXT,
-    CONSTRAINT documentHasAuthor_doc_id_author_name_pk PRIMARY KEY (doc_id, author_name),
-    CONSTRAINT documentHasAuthor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasAuthor_author_author_name_fk FOREIGN KEY (author_name) REFERENCES author (author_name)
+    editor_name TEXT,
+    CONSTRAINT documentHasEditor_doc_id_author_name_pk PRIMARY KEY (doc_id, editor_name),
+    CONSTRAINT documentHasEditor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT documentHasEditor_editor_editor_name_fk FOREIGN KEY (editor_name) REFERENCES editor (editor_name)
 )');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasAuthor_1', 'documentHasAuthor', 72, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasEditor_1', 'documentHasEditor', 72, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'document', 'document', 5, 'CREATE TABLE document
+(
+    doc_id INTEGER PRIMARY KEY,
+    title TEXT,
+    subtitle TEXT,
+    creation INTEGER,
+    creation_lab TEXT,
+    copy_year TEXT,
+    copy_cent INTEGER,
+    institution_ref TEXT,
+    pressmark TEXT,
+    argument TEXT,
+    date_insert INTEGER,
+    date_update INTEGER,
+    CONSTRAINT document_institution_instit_ref_fk FOREIGN KEY (institution_ref) REFERENCES institution (instit_ref)
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'transcription', 'transcription', 6, 'CREATE TABLE transcription
+(
+    transcription_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    doc_id INTEGER,
+    user_ref TEXT,
+    content TEXT,
+    CONSTRAINT transcription_document FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT transcription_user FOREIGN KEY (user_ref) REFERENCES user (username)
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'translation', 'translation', 53, 'CREATE TABLE translation
+(
+    translation_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    doc_id INTEGER,
+    user_ref TEXT,
+    content TEXT,
+    CONSTRAINT document_id FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT translation_user FOREIGN KEY (user_ref) REFERENCES user (username) 
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'alignment_translation', 'alignment_translation', 78, 'CREATE TABLE alignment_translation
+(
+    transcription_id integer,
+    translation_id integer,
+    ptr_transcription_start integer NOT NULL,
+    ptr_transcription_end integer NOT NULL,
+    ptr_translation_start integer NOT NULL,
+    ptr_translation_end integer NOT NULL,
+    CONSTRAINT alignement_transcription_translation PRIMARY KEY (transcription_id, translation_id, ptr_transcription_start),
+    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
+    CONSTRAINT translation FOREIGN KEY (translation_id) REFERENCES translation (translation_id) ON DELETE CASCADE
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_alignment_translation_1', 'alignment_translation', 79, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'alignment_translation_transcription_id_translation_id_ptr_transcription_start_uindex', 'alignment_translation', 80, 'CREATE UNIQUE INDEX alignment_translation_transcription_id_translation_id_ptr_transcription_start_uindex ON alignment_translation (transcription_id, translation_id, ptr_transcription_start)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'image', 'image', 82, 'CREATE TABLE image
+(
+    img_url TEXT PRIMARY KEY NOT NULL,
+    img_desc TEXT
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_image_1', 'image', 83, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_img_url_uindex', 'image', 84, 'CREATE UNIQUE INDEX image_img_url_uindex ON image (img_url)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_img_desc_index', 'image', 85, 'CREATE INDEX image_img_desc_index ON image (img_desc)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'image_zone', 'image_zone', 2, 'CREATE TABLE image_zone
+(
+    img_url TEXT NOT NULL,
+    zone_id INTEGER NOT NULL,
+    coords TEXT,
+    CONSTRAINT image_zone_zone_id_img_url_pk PRIMARY KEY (img_url, zone_id),
+    CONSTRAINT image_zone_image_img_url_fk FOREIGN KEY (img_url) REFERENCES image (img_url) ON DELETE CASCADE
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_image_zone_1', 'image_zone', 9, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_zone_zone_id_img_url_uindex', 'image_zone', 56, 'CREATE UNIQUE INDEX image_zone_zone_id_img_url_uindex ON image_zone (img_url, zone_id)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'alignement_image', 'alignement_image', 81, 'CREATE TABLE alignement_image
+(
+    transcription_id integer,
+    zone_id integer,
+    type TEXT NOT NULL,
+    ptr_transcription_start integer,
+    ptr_transcription_end integer,
+    CONSTRAINT alignement_transcription_facsimile PRIMARY KEY (transcription_id, zone_id, type),
+    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
+    CONSTRAINT zone FOREIGN KEY (zone_id) REFERENCES image_zone (zone_id) ON DELETE CASCADE
+)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_alignement_image_1', 'alignement_image', 86, null);
+CREATE TABLE sqlite_sequence
+(
+    name unknown,
+    seq unknown
+);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('type_acte', 21);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('type_commentary', 6);
-INSERT INTO sqlite_sequence (name, seq) VALUES ('traduction', 0);
-INSERT INTO sqlite_sequence (name, seq) VALUES ('transcription', 0);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('district', 24);
+CREATE TABLE tradition
+(
+    tradition_id TEXT PRIMARY KEY NOT NULL,
+    tradition_label TEXT NOT NULL
+);
+CREATE UNIQUE INDEX tradition_tradition_id_uindex ON tradition (tradition_id);
+CREATE INDEX tradition_tradition_label_index ON tradition (tradition_label);
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cartulaire', 'Cartulaire');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cp_authentique', 'Copie authentique');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cp_figuree', 'Copie figurée');
@@ -723,6 +936,30 @@ INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cp_informe', 'Cop
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('orig', 'Original');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('orig_multiple', 'Original multiple');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('chancellerie', 'Registre de chancellerie');
+CREATE TABLE transcription
+(
+    transcription_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    doc_id INTEGER,
+    user_ref TEXT,
+    content TEXT,
+    CONSTRAINT transcription_document FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT transcription_user FOREIGN KEY (user_ref) REFERENCES user (username)
+);
+CREATE TABLE translation
+(
+    translation_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    doc_id INTEGER,
+    user_ref TEXT,
+    content TEXT,
+    CONSTRAINT document_id FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
+    CONSTRAINT translation_user FOREIGN KEY (user_ref) REFERENCES user (username)
+);
+CREATE TABLE type_acte
+(
+    type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    type_label TEXT NOT NULL
+);
+CREATE UNIQUE INDEX type_acte_type_label_uindex ON type_acte (type_label);
 INSERT INTO type_acte (type_id, type_label) VALUES (1, 'Abbé, maison religieuse');
 INSERT INTO type_acte (type_id, type_label) VALUES (2, 'Actes privés sous le sceau et/ou la signature de l’auteur');
 INSERT INTO type_acte (type_id, type_label) VALUES (3, 'Actes privés sous le/les sceaux d’autorités locales');
@@ -744,12 +981,40 @@ INSERT INTO type_acte (type_id, type_label) VALUES (18, 'Notices');
 INSERT INTO type_acte (type_id, type_label) VALUES (19, 'Pape');
 INSERT INTO type_acte (type_id, type_label) VALUES (20, 'Prince, comte…');
 INSERT INTO type_acte (type_id, type_label) VALUES (21, 'Souverain');
+CREATE TABLE type_commentary
+(
+    type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    type_label TEXT NOT NULL
+);
+CREATE UNIQUE INDEX type_commentary_type_label_uindex ON type_commentary (type_label);
 INSERT INTO type_commentary (type_id, type_label) VALUES (1, 'Diplomatique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (2, 'Historique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (3, 'Juridique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (4, 'Paléographique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (5, 'Philologique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (6, 'Sigillographique');
+CREATE TABLE user
+(
+    username TEXT PRIMARY KEY NOT NULL,
+    firstname TEXT NOT NULL,
+    lastname TEXT NOT NULL,
+    mail TEXT NOT NULL
+);
+CREATE UNIQUE INDEX user_username_uindex ON user (username);
+INSERT INTO user (username, firstname, lastname, mail) VALUES ('jpilla', 'Julien', 'Pilla', 'julien.pilla@enc-sorbonne.fr');
+INSERT INTO user (username, firstname, lastname, mail) VALUES ('vjolivet', 'Vincent', 'Jolivet', 'vincent.joliver@enc-sorbonne.fr');
+CREATE TABLE zone_facsimile
+(
+    zone_id INTEGER NOT NULL,
+    zone_url TEXT NOT NULL,
+    x1 INTEGER NOT NULL,
+    y1 INTEGER NOT NULL,
+    x2 INTEGER NOT NULL,
+    y2 INTEGER NOT NULL,
+    CONSTRAINT zone_facsimile_zone_id_zone_url_pk PRIMARY KEY (zone_id, zone_url)
+);
+CREATE UNIQUE INDEX zone_facsimile_zone_id_zone_url_uindex ON zone_facsimile (zone_id, zone_url);
+CREATE INDEX zone_facsimile_zone_url_index ON zone_facsimile (zone_url);
 INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_1', 14, 16, 785, 37);
 INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_2', 13, 46, 779, 64);
 INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_3', 8, 74, 800, 92);
