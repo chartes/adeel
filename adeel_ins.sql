@@ -1,56 +1,66 @@
-CREATE TABLE alignement_image
-(
-    transcription_id integer,
-    zone_id integer,
-    type TEXT NOT NULL,
-    ptr_transcription_start integer,
-    ptr_transcription_end integer,
-    CONSTRAINT alignement_transcription_facsimile PRIMARY KEY (transcription_id, zone_id, type),
-    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
-    CONSTRAINT zone FOREIGN KEY (zone_id) REFERENCES image_zone (zone_id) ON DELETE CASCADE
-);
-CREATE TABLE alignment_translation
-(
-    transcription_id integer,
-    translation_id integer,
-    ptr_transcription_start integer NOT NULL,
-    ptr_transcription_end integer NOT NULL,
-    ptr_translation_start integer NOT NULL,
-    ptr_translation_end integer NOT NULL,
-    CONSTRAINT alignement_transcription_translation PRIMARY KEY (transcription_id, translation_id, ptr_transcription_start),
-    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
-    CONSTRAINT translation FOREIGN KEY (translation_id) REFERENCES translation (translation_id) ON DELETE CASCADE
-);
-CREATE UNIQUE INDEX alignment_translation_transcription_id_translation_id_ptr_transcription_start_uindex ON alignment_translation (transcription_id, translation_id, ptr_transcription_start);
-CREATE TABLE commentary
-(
-    doc_id INTEGER NOT NULL,
-    com_id INTEGER PRIMARY KEY,
-    type_id INTEGER NOT NULL,
-    content TEXT NOT NULL,
-    CONSTRAINT commentary_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id),
-    CONSTRAINT commentary_type_commentary_type_id_fk FOREIGN KEY (type_id) REFERENCES type_commentary (type_id)
-);
-CREATE UNIQUE INDEX commentary_type_id_uindex ON commentary (type_id);
-CREATE TABLE country
-(
-    country_ref TEXT PRIMARY KEY NOT NULL,
-    country_label TEXT NOT NULL
-);
-CREATE UNIQUE INDEX country_country_ref_uindex ON country (country_ref);
-CREATE UNIQUE INDEX country_country_label_uindex ON country (country_label);
+
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 2, 'transcription', 320, 553);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 3, 'transcription', 553, 738);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 4, 'transcription', 738, 965);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 5, 'transcription', 965, 1073);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 6, 'transcription', 1073, 1273);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 7, 'transcription', 1273, 1390);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 8, 'transcription', 1390, 1571);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 9, 'transcription', 1571, 1763);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 10, 'transcription', 1763, 1925);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 11, 'transcription', 1925, 2178);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 12, 'transcription', 2178, 2431);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 13, 'transcription', 2431, 2630);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 14, 'transcription', 2630, 2792);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 15, 'transcription', 2792, 3068);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 16, 'transcription', 3068, 3324);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 17, 'transcription', 3324, 3548);
+INSERT INTO alignment_image (transcription_id, zone_id, type, ptr_transcription_start, ptr_transcription_end) VALUES (1, 18, 'transcription', 3548, 3633);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 0, 115, 0, 47);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 115, 333, 47, 180);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 333, 334, 180, 181);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 334, 478, 181, 227);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 478, 690, 227, 358);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 690, 802, 358, 412);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 802, 901, 412, 464);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 901, 1100, 464, 592);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 1100, 1222, 592, 647);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 1222, 1508, 647, 925);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 1508, 2061, 925, 1481);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2061, 2186, 1481, 1533);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2186, 2329, 1533, 1649);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2329, 2330, 1649, 1650);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2330, 2720, 1650, 2039);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2720, 2851, 2039, 2090);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2851, 2934, 2090, 2143);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 2934, 3045, 2143, 2198);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3045, 3321, 2198, 2417);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3321, 3403, 2417, 2471);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3403, 3485, 2471, 2524);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3485, 3654, 2524, 2583);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3654, 3817, 2583, 2638);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3817, 3944, 2638, 2698);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3944, 3955, 2698, 2737);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3955, 3956, 2737, 2738);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 3956, 4088, 2738, 2796);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4088, 4163, 2796, 2841);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4163, 4164, 2841, 2842);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4164, 4292, 2842, 2896);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4292, 4431, 2896, 2950);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4431, 4563, 2950, 3004);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4563, 4707, 3004, 3063);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4707, 4808, 3063, 3104);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4808, 4809, 3104, 3105);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4809, 4922, 3105, 3154);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 4922, 5030, 3154, 3210);
+INSERT INTO alignment_translation (transcription_id, translation_id, ptr_transcription_start, ptr_transcription_end, ptr_translation_start, ptr_translation_end) VALUES (1, 1, 5030, 6467, 3210, 4325);
+INSERT INTO commentary (doc_id, com_id, type_id, content, title) VALUES (1, 1, 1, '<p>L''acte est écrit sur un support de dimensions modestes (18 x 13 cm) ;', 'Caractères externes');
+
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/3017382/republic-of-france.html', 'France');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/2510769/kingdom-of-spain.html', 'Espagne');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/2635167/united-kingdom-of-great-britain-and-northern-ireland.html', 'Angleterre');
 INSERT INTO country (country_ref, country_label) VALUES ('http://www.geonames.org/3077311/czechia.html', 'République tchèque');
-CREATE TABLE district
-(
-    district_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    district_label TEXT,
-    country_ref TEXT,
-    CONSTRAINT district_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref)
-);
-CREATE UNIQUE INDEX district_district_label_uindex ON district (district_label);
+
 INSERT INTO district (district_id, district_label, country_ref) VALUES (1, 'Picardie', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (2, 'Ile-de-France', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (3, 'Midi-Pyrénées', 'http://www.geonames.org/3017382/republic-of-france.html');
@@ -75,22 +85,22 @@ INSERT INTO district (district_id, district_label, country_ref) VALUES (21, 'Gra
 INSERT INTO district (district_id, district_label, country_ref) VALUES (22, 'Normandie', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (23, 'Auvergne', 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO district (district_id, district_label, country_ref) VALUES (24, 'Jihomoravský kraj [Moravie du sud]', 'http://www.geonames.org/2510769/kingdom-of-spain.html');
-CREATE TABLE document
-(
-    doc_id INTEGER PRIMARY KEY,
-    title TEXT,
-    subtitle TEXT,
-    creation INTEGER,
-    creation_lab TEXT,
-    copy_year TEXT,
-    copy_cent INTEGER,
-    institution_ref TEXT,
-    pressmark TEXT,
-    argument TEXT,
-    date_insert INTEGER,
-    date_update INTEGER,
-    CONSTRAINT document_institution_instit_ref_fk FOREIGN KEY (institution_ref) REFERENCES institution (instit_ref)
-);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (20, 'Acte sous le sceau de l’officialité épiscopale de Beauvais', 'Une opération de remembrement : la vente à l’abbaye Saint-Germer-de-Fly d’une terre tenue à champart', 1248, '1248', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
 INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (22, 'Acte sous le sceau de l’officialité épiscopale de Meaux', 'Une patiente politique d’acquisition : vente de terre aux cisterciens de Chaalis', 1251, '1251', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
 INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (23, 'Acte scellé par un chevalier (Multien)', 'Après le don : le chevalier Thomas d’Oissery s’engage, comme seigneur censuel, à garantir aux cisterciens de Chaalis des terres contestées', 1261, '1261', null, null, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
@@ -161,15 +171,15 @@ INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year
 INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (93, 'Acte d’Eudes, sire de Bourbon, fils aîné du duc de Bourgogne ', 'Hériter des charges : Eudes de Bourbon reconnaît les dettes et legs des Châtillon', 1250, '1250', null, null, null, null, null, null, null);
 INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (94, 'Acte scellé par un seigneur (Bourgogne)', 'Aux confins des principautés : reprise de fief et hommages liges en Bourgogne', 1265, '1265', null, null, null, null, null, null, null);
 INSERT INTO document (doc_id, title, subtitle, creation, creation_lab, copy_year, copy_cent, institution_ref, pressmark, argument, date_insert, date_update) VALUES (95, 'Lettres pontificales (copie contemporaine au registre pontifical)', 'Le pape, le roi, les moniales : confirmations de dons d’églises de Brno à des cisterciennes de Moravie', 1261, '1261', '1261', 13, 'http://data.bnf.fr/ark:/12148/cb12381002j', null, null, null, null);
-CREATE TABLE documentFromCountry
-(
-    doc_id INTEGER NOT NULL,
-    country_ref INTEGER NOT NULL,
-    CONSTRAINT documentFromCountry_doc_id_country_ref_pk PRIMARY KEY (doc_id, country_ref),
-    CONSTRAINT documentFromCountry_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentFromCountry_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref) ON DELETE CASCADE
-);
-CREATE UNIQUE INDEX documentFromCountry_doc_id_country_ref_uindex ON documentFromCountry (doc_id, country_ref);
+
+
+
+
+
+
+
+
+
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (20, 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (22, 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (23, 'http://www.geonames.org/3017382/republic-of-france.html');
@@ -243,14 +253,14 @@ INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (93, 'http://www.ge
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (94, 'http://www.geonames.org/3017382/republic-of-france.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (95, 'http://www.geonames.org/3077311/czechia.html');
 INSERT INTO documentFromCountry (doc_id, country_ref) VALUES (58, 'http://www.geonames.org/3017382/republic-of-france.html');
-CREATE TABLE documentFromDistrict
-(
-    doc_id INTEGER,
-    district_id INTEGER,
-    CONSTRAINT documentFromDistrict_doc_id_district_id_pk PRIMARY KEY (doc_id, district_id),
-    CONSTRAINT documentFromDistrict_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentFromDistrict_district_district_id_fk FOREIGN KEY (district_id) REFERENCES district (district_id) ON DELETE CASCADE
-);
+
+
+
+
+
+
+
+
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (20, 'Picardie');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (22, 'Ile-de-France');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (23, 'Ile-de-France');
@@ -326,23 +336,12 @@ INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (92, 'Normandie');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (93, 'Auvergne');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (94, 'Bourgogne');
 INSERT INTO documentFromDistrict (doc_id, district_id) VALUES (95, 'Jihomoravský kraj [Moravie du sud]');
-CREATE TABLE documentHasEditor
-(
-    doc_id INTEGER,
-    editor_name TEXT,
-    CONSTRAINT documentHasEditor_doc_id_author_name_pk PRIMARY KEY (doc_id, editor_name),
-    CONSTRAINT documentHasEditor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasEditor_editor_editor_name_fk FOREIGN KEY (editor_name) REFERENCES editor (editor_name)
-);
-CREATE TABLE documentHasLanguage
-(
-    doc_id INTEGER,
-    lang_code TEXT,
-    CONSTRAINT documentHasLangage_doc_id_lang_code_pk PRIMARY KEY (doc_id, lang_code),
-    CONSTRAINT documentHasLangage_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasLangage_langage_lang_code_fk FOREIGN KEY (lang_code) REFERENCES language (lang_code) ON DELETE CASCADE
-);
-CREATE UNIQUE INDEX documentHasLangage_doc_id_lang_code_uindex ON documentHasLanguage (doc_id, lang_code);
+
+
+INSERT INTO documentHasEditor (doc_id, editor_name) VALUES (20, 'Olivier Guyotjeannin');
+
+
+
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (20, 'lat');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (22, 'lat');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (23, 'lat');
@@ -414,15 +413,10 @@ INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (94, 'fre');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (66, 'oci');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (67, 'fre');
 INSERT INTO documentHasLanguage (doc_id, lang_code) VALUES (81, 'fre');
-CREATE TABLE documentHasTradition
-(
-    doc_id INTEGER,
-    tradition_id TEXT,
-    CONSTRAINT documentHasTradition_doc_id_tradition_id_pk PRIMARY KEY (doc_id, tradition_id),
-    CONSTRAINT documentHasTradition_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasTradition_tradition_tradition_id_fk FOREIGN KEY (tradition_id) REFERENCES tradition (tradition_id) ON DELETE CASCADE
-);
-CREATE UNIQUE INDEX documentHasTradition_doc_id_tradition_id_uindex ON documentHasTradition (doc_id, tradition_id);
+
+
+
+
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (20, 'orig');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (22, 'orig');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (23, 'orig');
@@ -497,15 +491,15 @@ INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (81, 'cp_figuree'
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (74, 'cp_informe');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (74, 'cp_figuree');
 INSERT INTO documentHasTradition (doc_id, tradition_id) VALUES (69, 'cp_figuree');
-CREATE TABLE documentHasTypeActe
-(
-    doc_id INTEGER,
-    type_id INTEGER,
-    CONSTRAINT documentHasType_doc_id_type_id_pk PRIMARY KEY (doc_id, type_id),
-    CONSTRAINT documentHasType_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE ON UPDATE CASCADE,
-    CONSTRAINT documentHasType_type_acte_type_id_fk FOREIGN KEY (type_id) REFERENCES type_acte (type_id) ON DELETE CASCADE ON UPDATE CASCADE
-);
-CREATE UNIQUE INDEX documentHasType_doc_id_type_id_uindex ON documentHasTypeActe (doc_id, type_id);
+
+
+
+
+
+
+
+
+
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (20, 12);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (22, 12);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (23, 2);
@@ -595,44 +589,61 @@ INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (92, 9);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (93, 20);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (94, 2);
 INSERT INTO documentHasTypeActe (doc_id, type_id) VALUES (95, 19);
-CREATE TABLE documentLinkedToDocument
-(
-    doc_id INTEGER NOT NULL,
-    linked_doc_id INTEGER NOT NULL,
-    CONSTRAINT documentLinkedToDocument_doc_id_linked_doc_id_pk PRIMARY KEY (doc_id, linked_doc_id),
-    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (linked_doc_id) REFERENCES document (doc_id) ON DELETE CASCADE
-);
-CREATE INDEX documentLinkedToDocument_linked_doc_id_index ON documentLinkedToDocument (linked_doc_id);
-CREATE TABLE editor
-(
-    editor_ref TEXT,
-    editor_name TEXT PRIMARY KEY
-);
-CREATE INDEX editor_editor_name_index ON editor (editor_name);
+
+
+
+
+
+
+
+
+
 INSERT INTO editor (editor_ref, editor_name) VALUES ('http://data.bnf.fr/ark:/12148/cb11906612z', 'Olivier Guyotjeannin');
-CREATE TABLE image
-(
-    img_url TEXT PRIMARY KEY NOT NULL,
-    img_desc TEXT
-);
-CREATE UNIQUE INDEX image_img_url_uindex ON image (img_url);
-CREATE INDEX image_img_desc_index ON image (img_desc);
-CREATE TABLE image_zone
-(
-    img_url TEXT NOT NULL,
-    zone_id INTEGER NOT NULL,
-    coords TEXT,
-    CONSTRAINT image_zone_zone_id_img_url_pk PRIMARY KEY (img_url, zone_id),
-    CONSTRAINT image_zone_image_img_url_fk FOREIGN KEY (img_url) REFERENCES image (img_url) ON DELETE CASCADE
-);
-CREATE UNIQUE INDEX image_zone_zone_id_img_url_uindex ON image_zone (img_url, zone_id);
-CREATE TABLE institution
-(
-    instit_ref TEXT PRIMARY KEY NOT NULL,
-    instit_name INT NOT NULL
-);
-CREATE UNIQUE INDEX institution_instit_ref_uindex ON institution (instit_ref);
+
+
+
+
+INSERT INTO image (img_url, doc_id, img_desc) VALUES ('20/faxexternes.jpg', 20, null);
+
+
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 1, '14,16,785,37');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 2, '13,46,779,64');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 3, '8,74,800,92');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 4, '10,102,805,117');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 5, '7,128,791,145');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 6, '14,157,793,176');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 7, '12,183,796,196');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 8, '14,210,791,228');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 9, '12,233,784,256');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 10, '11,261,792,285');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 11, '9,291,790,313');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 12, '8,324,790,342');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 13, '5,348,785,371');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 14, '10,379,776,400');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 15, '9,404,786,431');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 16, '6,435,789,455');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 17, '6,460,788,488');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 18, '3,495,486,513');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 19, '29,39,13');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 20, '229,36,239,32,244,34,249,36,251,40,250,43,248,47,242,50,234,50,231,44,230,41,233,34');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 21, '579,59,15');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 22, '410,117,8');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 23, '342,95,11');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 24, '392,558,40');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 25, '68,99,72,88,80,84,86,91,89,99,90,104,83,108,81,106,81,120,74,117');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 26, '15,280,20,276,32,271,46,271,60,271,76,272,92,270,106,270,120,273,129,277,133,285,121,289,126,287,116,292,123,289,111,296,95,299,72,299,47,297,26,293,16,288');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 27, '770,501,785,504,792,523,789,555,782,566,776,574,770,580,760,586');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 28, '447,23,451,26,456,29,459,34,458,41,458,46,455,50,451,54,442,54,438,47,436,41,437,33,442,28,445,23');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 29, '546,181,550,180,555,178,562,178,565,177,570,177,578,179,583,181,585,186,585,189,583,193,581,195,578,197,574,198,567,199,562,198,555,199,549,198,547,195,543,191,542,186');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 30, '529,245,537,241,542,240,547,240,553,239,558,239,561,238,566,240,569,242,576,244,580,245,581,251,577,256,576,260,571,261,558,262,546,262,538,257,533,260,530,255');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 31, '408,360,416,359,420,359,428,357,438,356,449,355,458,355,467,353,479,353,488,355,495,353,504,354,511,355,519,356,527,356,536,356,539,356,546,356,551,358,556,357,560,359,567,360,572,359,578,362,583,362,588,366,592,367,596,369,597,374,593,375,588,378,581,379,572,382,564,382,554,384,543,384,537,386,528,387,520,387,513,387,508,387,498,387,484,387,478,387,467,387,461,387,451,387,443,387,435,387,420,381,426,385,412,383,408,382,401,382,393,379,388,372,383,370,389,364,397,360');
+INSERT INTO image_zone (img_url, zone_id, coords) VALUES ('20/faxexternes.jpg', 32, '303,426,30');
+
+
+
+
+
+
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb12118141m', 'Archives départementales Haute-Vienne (France)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb11864291k', 'Archives départementales Hautes-Alpes (France)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb12006185c', 'Archives départementales Oise (France)');
@@ -648,287 +659,318 @@ INSERT INTO institution (instit_ref, instit_name) VALUES ('cp', 'Collection priv
 INSERT INTO institution (instit_ref, instit_name) VALUES ('http://data.bnf.fr/ark:/12148/cb13197296q', 'Collection privée (« Cabinet B. Fillon à Fontenay-Vendée »)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('cp_bigne', 'Collection privée (« Mr de la Bigne »)');
 INSERT INTO institution (instit_ref, instit_name) VALUES ('cp_meyer', 'Collection privée (« Paul Meyer »)');
-CREATE TABLE language
-(
-    lang_code TEXT,
-    lang_label TEXT
-);
-CREATE UNIQUE INDEX langage_langcode_uindex ON language (lang_code);
-CREATE INDEX langage_lang_label_index ON language (lang_label);
+
+
+
+
+
+
+
 INSERT INTO language (lang_code, lang_label) VALUES ('fre', 'Français');
 INSERT INTO language (lang_code, lang_label) VALUES ('lat', 'Latin');
 INSERT INTO language (lang_code, lang_label) VALUES ('oci', 'Occitan');
-CREATE TABLE sqlite_master
-(
-    type text,
-    name text,
-    tbl_name text,
-    rootpage integer,
-    sql text
-);
+
+
+
+
+
+
+
+
+
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (1, 'fr', 'adresse_universelle', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (2, 'fr', 'suscription', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (3, 'fr', 'salut', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (4, 'fr', 'notification_universelle', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (5, 'fr', 'corps', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (6, 'fr', 'clause', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (7, 'fr', 'clause_garantie', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (8, 'fr', 'clause_renonciation', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (9, 'fr', 'corroboration', null);
+INSERT INTO speech_part_type (speech_part_type_id, lang_code, label, definition) VALUES (10, 'fr', 'date_temps', null);
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'sqlite_sequence', 'sqlite_sequence', 10, 'CREATE TABLE sqlite_sequence(name,seq)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'type_acte', 'type_acte', 4, 'CREATE TABLE type_acte
-(
-    type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-    type_label TEXT NOT NULL
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'type_acte_type_id_uindex', 'type_acte', 7, 'CREATE UNIQUE INDEX type_acte_type_id_uindex ON type_acte (type_id)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'type_acte_type_label_uindex', 'type_acte', 8, 'CREATE UNIQUE INDEX type_acte_type_label_uindex ON type_acte (type_label)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasTypeActe', 'documentHasTypeActe', 12, 'CREATE TABLE "documentHasTypeActe"
-(
-    doc_id INTEGER,
-    type_id INTEGER,
-    CONSTRAINT documentHasType_doc_id_type_id_pk PRIMARY KEY (doc_id, type_id),
-    CONSTRAINT documentHasType_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE ON UPDATE CASCADE,
-    CONSTRAINT documentHasType_type_acte_type_id_fk FOREIGN KEY (type_id) REFERENCES type_acte (type_id) ON DELETE CASCADE ON UPDATE CASCADE
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasTypeActe_1', 'documentHasTypeActe', 17, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasType_doc_id_type_id_uindex', 'documentHasTypeActe', 18, 'CREATE UNIQUE INDEX documentHasType_doc_id_type_id_uindex ON "documentHasTypeActe" (doc_id, type_id)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'language', 'language', 11, 'CREATE TABLE "language"
-(
-    lang_code TEXT,
-    lang_label TEXT
-)');
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'langage_langcode_uindex', 'language', 25, 'CREATE UNIQUE INDEX langage_langcode_uindex ON "language" (lang_code)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'langage_lang_label_index', 'language', 26, 'CREATE INDEX langage_lang_label_index ON "language" (lang_label)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentFromCountry', 'documentFromCountry', 34, 'CREATE TABLE documentFromCountry
-(
-    doc_id INTEGER NOT NULL,
-    country_ref INTEGER NOT NULL,
-    CONSTRAINT documentFromCountry_doc_id_country_ref_pk PRIMARY KEY (doc_id, country_ref),
-    CONSTRAINT documentFromCountry_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentFromCountry_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref) ON DELETE CASCADE
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentFromCountry_1', 'documentFromCountry', 35, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentFromCountry_doc_id_country_ref_uindex', 'documentFromCountry', 36, 'CREATE UNIQUE INDEX documentFromCountry_doc_id_country_ref_uindex ON documentFromCountry (doc_id, country_ref)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'institution', 'institution', 37, 'CREATE TABLE institution
-(
-    instit_ref TEXT PRIMARY KEY NOT NULL,
-    instit_name INT NOT NULL
-)');
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_institution_1', 'institution', 38, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'institution_instit_ref_uindex', 'institution', 39, 'CREATE UNIQUE INDEX institution_instit_ref_uindex ON institution (instit_ref)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'tradition', 'tradition', 3, 'CREATE TABLE tradition
-(
-    tradition_id TEXT PRIMARY KEY NOT NULL,
-    tradition_label TEXT NOT NULL
-)');
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_tradition_1', 'tradition', 13, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'tradition_tradition_id_uindex', 'tradition', 24, 'CREATE UNIQUE INDEX tradition_tradition_id_uindex ON tradition (tradition_id)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'tradition_tradition_label_index', 'tradition', 41, 'CREATE INDEX tradition_tradition_label_index ON tradition (tradition_label)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'zone_facsimile', 'zone_facsimile', 42, 'CREATE TABLE zone_facsimile
-(
-    zone_id INTEGER NOT NULL,
-    zone_url TEXT NOT NULL,
-    x1 INTEGER NOT NULL,
-    y1 INTEGER NOT NULL,
-    x2 INTEGER NOT NULL,
-    y2 INTEGER NOT NULL,
-    CONSTRAINT zone_facsimile_zone_id_zone_url_pk PRIMARY KEY (zone_id, zone_url)
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_zone_facsimile_1', 'zone_facsimile', 43, null);
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'zone_facsimile_zone_url_index', 'zone_facsimile', 44, 'CREATE INDEX zone_facsimile_zone_url_index ON zone_facsimile (zone_url)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'zone_facsimile_zone_id_zone_url_uindex', 'zone_facsimile', 45, 'CREATE UNIQUE INDEX zone_facsimile_zone_id_zone_url_uindex ON zone_facsimile (zone_id, zone_url)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'type_commentary', 'type_commentary', 47, 'CREATE TABLE "type_commentary"
-(
-    type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-    type_label TEXT NOT NULL
-)');
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'type_commentary_type_id_uindex', 'type_commentary', 48, 'CREATE UNIQUE INDEX type_commentary_type_id_uindex ON "type_commentary" (type_id)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'type_commentary_type_label_uindex', 'type_commentary', 50, 'CREATE UNIQUE INDEX type_commentary_type_label_uindex ON "type_commentary" (type_label)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'commentary', 'commentary', 51, 'CREATE TABLE "commentary"
-(
-    doc_id INTEGER NOT NULL,
-    com_id INTEGER PRIMARY KEY,
-    type_id INTEGER NOT NULL,
-    content TEXT NOT NULL,
-    CONSTRAINT commentary_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id),
-    CONSTRAINT commentary_type_commentary_type_id_fk FOREIGN KEY (type_id) REFERENCES type_commentary (type_id)
-)');
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'commentary_type_id_uindex', 'commentary', 52, 'CREATE UNIQUE INDEX commentary_type_id_uindex ON "commentary" (type_id)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'country', 'country', 30, 'CREATE TABLE country
-(
-	country_ref TEXT not null,
-	country_label TEXT not null,
-	constraint country_country_ref_pk
-		primary key (country_ref)
-)');
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_country_1', 'country', 31, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'country_country_ref_uindex', 'country', 32, 'CREATE UNIQUE INDEX country_country_ref_uindex
-	on country (country_ref)');
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'country_country_label_uindex', 'country', 33, 'CREATE UNIQUE INDEX country_country_label_uindex
-	on country (country_label)');
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasTradition', 'documentHasTradition', 19, 'CREATE TABLE documentHasTradition
-(
-	doc_id INTEGER
-		constraint documentHasTradition_document_doc_id_fk
-			references document (doc_id)
-				on delete cascade,
-	tradition_id TEXT
-		constraint documentHasTradition_tradition_tradition_id_fk
-			references tradition (tradition_id)
-				on delete cascade,
-	constraint documentHasTradition_doc_id_tradition_id_pk
-		primary key (doc_id, tradition_id)
-)');
+
+
+
+
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasTradition_1', 'documentHasTradition', 20, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasTradition_doc_id_tradition_id_uindex', 'documentHasTradition', 23, 'CREATE UNIQUE INDEX documentHasTradition_doc_id_tradition_id_uindex
-	on documentHasTradition (doc_id, tradition_id)');
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'district', 'district', 14, 'CREATE TABLE "district"
-(
-    district_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    district_label TEXT,
-    country_ref TEXT,
-    CONSTRAINT district_country_country_ref_fk FOREIGN KEY (country_ref) REFERENCES country (country_ref)
-)');
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'district_district_label_uindex', 'district', 62, 'CREATE UNIQUE INDEX district_district_label_uindex ON "district" (district_label)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentLinkedToDocument', 'documentLinkedToDocument', 58, 'CREATE TABLE "documentLinkedToDocument"
-(
-    doc_id INTEGER NOT NULL,
-    linked_doc_id INTEGER NOT NULL,
-    CONSTRAINT documentLinkedToDocument_doc_id_linked_doc_id_pk PRIMARY KEY (doc_id, linked_doc_id),
-    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentLinkedToDocument_document_doc_id_fk FOREIGN KEY (linked_doc_id) REFERENCES document (doc_id) ON DELETE CASCADE
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentLinkedToDocument_1', 'documentLinkedToDocument', 73, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentLinkedToDocument_linked_doc_id_index', 'documentLinkedToDocument', 74, 'CREATE INDEX documentLinkedToDocument_linked_doc_id_index ON "documentLinkedToDocument" (linked_doc_id)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentFromDistrict', 'documentFromDistrict', 54, 'CREATE TABLE documentFromDistrict
-(
-    doc_id INTEGER,
-    district_id INTEGER,
-    CONSTRAINT documentFromDistrict_doc_id_district_id_pk PRIMARY KEY (doc_id, district_id),
-    CONSTRAINT documentFromDistrict_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentFromDistrict_district_district_id_fk FOREIGN KEY (district_id) REFERENCES district (district_id) ON DELETE CASCADE
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentFromDistrict_1', 'documentFromDistrict', 69, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasLanguage', 'documentHasLanguage', 27, 'CREATE TABLE documentHasLanguage
-(
-    doc_id INTEGER,
-    lang_code TEXT,
-    CONSTRAINT documentHasLangage_doc_id_lang_code_pk PRIMARY KEY (doc_id, lang_code),
-    CONSTRAINT documentHasLangage_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasLangage_langage_lang_code_fk FOREIGN KEY (lang_code) REFERENCES language (lang_code) ON DELETE CASCADE
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasLanguage_1', 'documentHasLanguage', 28, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'documentHasLangage_doc_id_lang_code_uindex', 'documentHasLanguage', 29, 'CREATE UNIQUE INDEX documentHasLangage_doc_id_lang_code_uindex ON documentHasLanguage (doc_id, lang_code)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'user', 'user', 75, 'CREATE TABLE user
-(
-    username TEXT PRIMARY KEY NOT NULL,
-    firstname TEXT NOT NULL,
-    lastname TEXT NOT NULL,
-    mail TEXT NOT NULL
-)');
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_user_1', 'user', 76, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'user_username_uindex', 'user', 77, 'CREATE UNIQUE INDEX user_username_uindex ON user (username)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'editor', 'editor', 49, 'CREATE TABLE editor
-(
-    editor_ref TEXT,
-    editor_name TEXT PRIMARY KEY
-)');
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_editor_1', 'editor', 59, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'editor_editor_name_index', 'editor', 70, 'CREATE INDEX editor_editor_name_index ON editor (editor_name)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'documentHasEditor', 'documentHasEditor', 57, 'CREATE TABLE documentHasEditor
-(
-    doc_id INTEGER,
-    editor_name TEXT,
-    CONSTRAINT documentHasEditor_doc_id_author_name_pk PRIMARY KEY (doc_id, editor_name),
-    CONSTRAINT documentHasEditor_document_doc_id_fk FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT documentHasEditor_editor_editor_name_fk FOREIGN KEY (editor_name) REFERENCES editor (editor_name)
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_documentHasEditor_1', 'documentHasEditor', 72, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'document', 'document', 5, 'CREATE TABLE document
-(
-    doc_id INTEGER PRIMARY KEY,
-    title TEXT,
-    subtitle TEXT,
-    creation INTEGER,
-    creation_lab TEXT,
-    copy_year TEXT,
-    copy_cent INTEGER,
-    institution_ref TEXT,
-    pressmark TEXT,
-    argument TEXT,
-    date_insert INTEGER,
-    date_update INTEGER,
-    CONSTRAINT document_institution_instit_ref_fk FOREIGN KEY (institution_ref) REFERENCES institution (instit_ref)
-)');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'transcription', 'transcription', 6, 'CREATE TABLE transcription
-(
-    transcription_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    doc_id INTEGER,
-    user_ref TEXT,
-    content TEXT,
-    CONSTRAINT transcription_document FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT transcription_user FOREIGN KEY (user_ref) REFERENCES user (username)
-)');
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'translation', 'translation', 53, 'CREATE TABLE translation
-(
-    translation_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    doc_id INTEGER,
-    user_ref TEXT,
-    content TEXT,
-    CONSTRAINT document_id FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT translation_user FOREIGN KEY (user_ref) REFERENCES user (username) 
-)');
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'alignment_translation', 'alignment_translation', 78, 'CREATE TABLE alignment_translation
-(
-    transcription_id integer,
-    translation_id integer,
-    ptr_transcription_start integer NOT NULL,
-    ptr_transcription_end integer NOT NULL,
-    ptr_translation_start integer NOT NULL,
-    ptr_translation_end integer NOT NULL,
-    CONSTRAINT alignement_transcription_translation PRIMARY KEY (transcription_id, translation_id, ptr_transcription_start),
-    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
-    CONSTRAINT translation FOREIGN KEY (translation_id) REFERENCES translation (translation_id) ON DELETE CASCADE
-)');
+
+
+
+
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_alignment_translation_1', 'alignment_translation', 79, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'alignment_translation_transcription_id_translation_id_ptr_transcription_start_uindex', 'alignment_translation', 80, 'CREATE UNIQUE INDEX alignment_translation_transcription_id_translation_id_ptr_transcription_start_uindex ON alignment_translation (transcription_id, translation_id, ptr_transcription_start)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'image', 'image', 82, 'CREATE TABLE image
-(
-    img_url TEXT PRIMARY KEY NOT NULL,
-    img_desc TEXT
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_image_1', 'image', 83, null);
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_img_url_uindex', 'image', 84, 'CREATE UNIQUE INDEX image_img_url_uindex ON image (img_url)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_img_desc_index', 'image', 85, 'CREATE INDEX image_img_desc_index ON image (img_desc)');
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'image_zone', 'image_zone', 2, 'CREATE TABLE image_zone
-(
-    img_url TEXT NOT NULL,
-    zone_id INTEGER NOT NULL,
-    coords TEXT,
-    CONSTRAINT image_zone_zone_id_img_url_pk PRIMARY KEY (img_url, zone_id),
-    CONSTRAINT image_zone_image_img_url_fk FOREIGN KEY (img_url) REFERENCES image (img_url) ON DELETE CASCADE
-)');
+
+
+
+
+
+
+
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_image_zone_1', 'image_zone', 9, null);
 INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_zone_zone_id_img_url_uindex', 'image_zone', 56, 'CREATE UNIQUE INDEX image_zone_zone_id_img_url_uindex ON image_zone (img_url, zone_id)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'alignement_image', 'alignement_image', 81, 'CREATE TABLE alignement_image
-(
-    transcription_id integer,
-    zone_id integer,
-    type TEXT NOT NULL,
-    ptr_transcription_start integer,
-    ptr_transcription_end integer,
-    CONSTRAINT alignement_transcription_facsimile PRIMARY KEY (transcription_id, zone_id, type),
-    CONSTRAINT transcription FOREIGN KEY (transcription_id) REFERENCES transcription (transcription_id) ON DELETE CASCADE,
-    CONSTRAINT zone FOREIGN KEY (zone_id) REFERENCES image_zone (zone_id) ON DELETE CASCADE
-)');
-INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_alignement_image_1', 'alignement_image', 86, null);
-CREATE TABLE sqlite_sequence
-(
-    name unknown,
-    seq unknown
-);
-INSERT INTO sqlite_sequence (name, seq) VALUES ('type_acte', 21);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'alignment_image', 'alignment_image', 81, 'CREATE TABLE "alignment_image"
+
+
+
+
+
+
+
+
+
+
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_alignment_image_1', 'alignment_image', 86, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'image', 'image', 42, 'CREATE TABLE "image"
+
+
+
+
+
+
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_image_1', 'image', 43, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'image_img_url_uindex', 'image', 44, 'CREATE UNIQUE INDEX image_img_url_uindex ON "image" (img_url)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'speech_part_type', 'speech_part_type', 15, 'CREATE TABLE speech_part_type
+
+
+
+
+
+
+
+
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_speech_part_type_1', 'speech_part_type', 45, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'alignment_discours', 'alignment_discours', 82, 'CREATE TABLE alignment_discours
+
+
+
+
+
+
+
+
+
+
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'sqlite_autoindex_alignment_discours_1', 'alignment_discours', 83, null);
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('table', 'type_acte', 'type_acte', 7, 'CREATE TABLE "type_acte"
+
+
+
+, description TEXT NULL)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'type_acte_type_id_uindex', 'type_acte', 8, 'CREATE UNIQUE INDEX type_acte_type_id_uindex ON "type_acte" (type_id)');
+INSERT INTO sqlite_master (type, name, tbl_name, rootpage, sql) VALUES ('index', 'type_acte_type_label_uindex', 'type_acte', 85, 'CREATE UNIQUE INDEX type_acte_type_label_uindex ON "type_acte" (label)');
+
+
+
+
+
 INSERT INTO sqlite_sequence (name, seq) VALUES ('type_commentary', 6);
 INSERT INTO sqlite_sequence (name, seq) VALUES ('district', 24);
-CREATE TABLE tradition
-(
-    tradition_id TEXT PRIMARY KEY NOT NULL,
-    tradition_label TEXT NOT NULL
-);
-CREATE UNIQUE INDEX tradition_tradition_id_uindex ON tradition (tradition_id);
-CREATE INDEX tradition_tradition_label_index ON tradition (tradition_label);
+INSERT INTO sqlite_sequence (name, seq) VALUES ('type_acte', 21);
+INSERT INTO sqlite_sequence (name, seq) VALUES ('transcription', 1);
+INSERT INTO sqlite_sequence (name, seq) VALUES ('translation', 1);
+
+
+
+
+
+
+
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cartulaire', 'Cartulaire');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cp_authentique', 'Copie authentique');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cp_figuree', 'Copie figurée');
@@ -936,100 +978,73 @@ INSERT INTO tradition (tradition_id, tradition_label) VALUES ('cp_informe', 'Cop
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('orig', 'Original');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('orig_multiple', 'Original multiple');
 INSERT INTO tradition (tradition_id, tradition_label) VALUES ('chancellerie', 'Registre de chancellerie');
-CREATE TABLE transcription
-(
-    transcription_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    doc_id INTEGER,
-    user_ref TEXT,
-    content TEXT,
-    CONSTRAINT transcription_document FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT transcription_user FOREIGN KEY (user_ref) REFERENCES user (username)
-);
-CREATE TABLE translation
-(
-    translation_id INTEGER PRIMARY KEY AUTOINCREMENT,
-    doc_id INTEGER,
-    user_ref TEXT,
-    content TEXT,
-    CONSTRAINT document_id FOREIGN KEY (doc_id) REFERENCES document (doc_id) ON DELETE CASCADE,
-    CONSTRAINT translation_user FOREIGN KEY (user_ref) REFERENCES user (username)
-);
-CREATE TABLE type_acte
-(
-    type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-    type_label TEXT NOT NULL
-);
-CREATE UNIQUE INDEX type_acte_type_label_uindex ON type_acte (type_label);
-INSERT INTO type_acte (type_id, type_label) VALUES (1, 'Abbé, maison religieuse');
-INSERT INTO type_acte (type_id, type_label) VALUES (2, 'Actes privés sous le sceau et/ou la signature de l’auteur');
-INSERT INTO type_acte (type_id, type_label) VALUES (3, 'Actes privés sous le/les sceaux d’autorités locales');
-INSERT INTO type_acte (type_id, type_label) VALUES (4, 'Administration centrale');
-INSERT INTO type_acte (type_id, type_label) VALUES (5, 'Administration locale');
-INSERT INTO type_acte (type_id, type_label) VALUES (6, 'Chapitre cathédral');
-INSERT INTO type_acte (type_id, type_label) VALUES (7, 'Documents comptables, financiers et fiscaux');
-INSERT INTO type_acte (type_id, type_label) VALUES (8, 'Documents de gestion domaniale');
-INSERT INTO type_acte (type_id, type_label) VALUES (9, 'Documents féodaux');
-INSERT INTO type_acte (type_id, type_label) VALUES (10, 'Documents judiciaires');
-INSERT INTO type_acte (type_id, type_label) VALUES (11, 'Evêque');
-INSERT INTO type_acte (type_id, type_label) VALUES (12, 'Juridiction gracieuse ecclésiastique');
-INSERT INTO type_acte (type_id, type_label) VALUES (13, 'Juridiction gracieuse laïque');
-INSERT INTO type_acte (type_id, type_label) VALUES (14, 'Juridiction gracieuse municipale');
-INSERT INTO type_acte (type_id, type_label) VALUES (15, 'Légat');
-INSERT INTO type_acte (type_id, type_label) VALUES (16, 'Notaire public');
-INSERT INTO type_acte (type_id, type_label) VALUES (17, 'Notariats traditionnels');
-INSERT INTO type_acte (type_id, type_label) VALUES (18, 'Notices');
-INSERT INTO type_acte (type_id, type_label) VALUES (19, 'Pape');
-INSERT INTO type_acte (type_id, type_label) VALUES (20, 'Prince, comte…');
-INSERT INTO type_acte (type_id, type_label) VALUES (21, 'Souverain');
-CREATE TABLE type_commentary
-(
-    type_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-    type_label TEXT NOT NULL
-);
-CREATE UNIQUE INDEX type_commentary_type_label_uindex ON type_commentary (type_label);
+
+
+
+
+
+
+
+
+
+INSERT INTO transcription (transcription_id, doc_id, user_ref, content) VALUES (1, 20, 'jpilla', 'Om<expan>n</expan>ib<expan>us</expan> p<expan>re</expan>sentes litt<expan>er</expan>as insp<expan>e</expan>cturis, . . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque.">offic<expan>ialis</expan></term> Belvacen<expan>sis</expan>, sal<expan>u</expan>t<expan>em</expan> in D<expan>om</expan>in<expan>o</expan>.  Nov<expan>er</expan>int univ<expan>er</expan>si q<expan>uo</expan>d i<expan>n</expan> n<expan>ost</expan>ra constituti p<expan>re</expan>sentia Ricardus d<expan>i</expan>c<expan>t</expan>us de <term n="Oise, cant. Grandvilliers.">Gres</term> de <term n="Oise, cant. Mouy.">S<expan>an</expan>c<expan>t</expan>o Felice</term> <expan>et</expan> Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia recognov<expan>er</expan>unt se imp<expan>er</expan>petuum vendidisse p<expan>ro</expan> co<expan>m</expan>muni eor<expan>um</expan> utilitate ac necessitate abbati <expan>et</expan> conventui <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).">S<expan>an</expan>c<expan>t</expan>i G<expan>er</expan>emari Flaviacen<expan>sis</expan></term> q<expan>u</expan>amdam peciam t<expan>er</expan>re s<expan>em</expan>entis q<expan>u</expan>am h<expan>ab</expan>ebant ex caduco Asceline de <term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).">Amuchi</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).">matertere</term> dicti Ricardi, circiter sex <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).">minas</term> continentem, sitam ante <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.">mesum</term> de Amuchi, d<expan>i</expan>c<expan>t</expan>or<expan>um</expan> abbatis et <expan>con</expan>ventus, q<expan>u</expan>am ab eisdem abbate <expan>et</expan> <expan>con</expan>ventu tenebant ad <term n="Mode de tenure de la terre à part de fruits.">campipartem</term>,  pro centum et decem <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc «de [deniers] parisis» (au génitif en latin).">solidis parisiensium</term> sibi a dictis abbate et <expan>con</expan>ventu plene <expan>et</expan> integ<expan>r</expan>e p<expan>er</expan>solutis, ut ip<expan>s</expan>i Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia coram nob<expan>is</expan> recognov<expan>er</expan>unt ; fidem coram nob<expan>is</expan> p<expan>re</expan>stantes <term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)">corporalem</term> p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>i Ricardus, Aya ejus uxor <expan>et</expan> Eufemia eor<expan>um</expan> filia, no<expan>n</expan> vi nec metu ad hoc inducte s<expan>ed</expan> mera <expan>et</expan> spontanea voluntate sua, ut asserebant, q<expan>uo</expan>d ip<expan>s</expan>i decet<expan>er</expan>o r<expan>ati</expan>one cuj<expan>us</expan>cu<expan>m</expan>q<expan>ue</expan> juris, <expan>et</expan> maxime d<expan>i</expan>c<expan>t</expan>a Aya r<expan>ati</expan>one dotis, in t<expan>er</expan>ra p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>a vendita p<expan>er</expan> se v<expan>e</expan>l p<expan>er</expan> alium nichil reclamab<expan>un</expan>t v<expan>e</expan>l facient reclamari,  sed sup<expan>er</expan> eadem t<expan>er</expan>ra vendita d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui <expan>con</expan>tra om<expan>ne</expan>s legitimam portabunt garandiam ;  renuntiantes in hoc f<expan>a</expan>c<expan>t</expan>o, fide data, excepc<expan>i</expan>o<expan>n</expan>i no<expan>n</expan> num<expan>er</expan>ate <expan>et</expan> no<expan>n</expan> recepte pecunie <expan>et</expan> om<expan>n</expan>ib<expan>us</expan> aliis excepc<expan>i</expan>o<expan>n</expan>ib<expan>us</expan> <expan>et</expan> juris auxilio tam cano<expan>n</expan>ici quam civilis q<expan>uo</expan>d s<expan>ib</expan>i cont<expan>r</expan>a p<expan>re</expan>sens instrum<expan>en</expan>tum posset p<expan>ro</expan>desse <expan>et</expan> d<expan>i</expan>c<expan>t</expan>is abbati <expan>et</expan> conventui prodesse*.  In cuj<expan>us</expan> rei testimo<expan>n</expan>ium, p<expan>re</expan>sentes litt<expan>er</expan>as sigillo curie Belvacen<expan>sis</expan> fecim<expan>us</expan> <expan>com</expan>muniri. Act<expan>um</expan> anno D<expan>omi</expan>ni <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">M° CC° XL°</term> octavo, die <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="«Jubilate» est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lune post Jubilat<expan>e</expan></term>.');
+
+
+
+
+
+
+
+
+
+INSERT INTO translation (translation_id, doc_id, user_ref, content) VALUES (1, 20, 'jpilla', 'A tous ceux qui verront les présentes lettres, . . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque.">l''official</term> de Beauvais, salut dans le Seigneur. Sachent tous que constitués en notre présence Richard dit de <term n="Oise, cant. Grandvilliers.">Grez</term>, de <term n="Oise, cant. Mouy.">Saint-Félix</term>, Aye son épouse et Euphémie leur fille ont reconnu qu''ils ont vendu à perpétuité pour leur commune utilité et leur commun besoin à l''abbé et au convent de <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).">Saint-Germer de Fly</term> une pièce de terre arable qu''ils avaient de l''héritage d''Asceline d''<term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).">Amuchy</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).">tante maternelle</term> dudit Richard, d''environ six <term	n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).">éminées</term>, sise devant le <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.">metz</term> d''Amuchy qui appartient auxdits abbé et convent, et  qu''ils tenaient à <term n="Mode de tenure de la terre à part de fruits.">champart</term> des mêmes abbé et convent, pour cent dix <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin).">sous de parisis</term> à eux par lesdits abbé et convent pleinement et entièrement versés, ainsi que lesdits Richard, Aye son épouse et Euphémie leur fille ont devant nous reconnu; prêtant devant nous foi <term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)">corporelle</term> les susdits Richard, Aye son épouse et Euphémie leur fille, non poussées à cela par force ou crainte mais de leur pure et spontanée volonté, à ce qu''elles disaient, qu''à l''avenir à raison de quelque droit que ce soit, et spécialement ladite Aye à raison de sa dot, ni par eux ni par autre, ils ne feront ou feront faire querelle de la susdite vente de terre, mais que sur ladite vente de terre ils porteront à l''abbé et au convent garantie légitime contre tous; renonçant en ce fait, par la foi qu''ils ont donnée, à l''exception d''argent non compté et non reçu, à toutes autres exceptions et à l''aide du droit tant canonique que civil qui pourrait, contre le présent instrument, leur servir et nuire auxdits abbé et convent. En témoignage de quoi, nous avons fait munir les présentes lettres du sceau de la cour de Beauvais. Fait l''an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.">1248</term>, le <term n="&quot;Jubilate&quot; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.">lundi après Jubilate</term>. ');
+
+
+
+
+
+
+
+INSERT INTO type_acte (type_id, label, description) VALUES (1, 'Abbé, maison religieuse', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (2, 'Actes privés sous le sceau et/ou la signature de l’auteur', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (3, 'Actes privés sous le/les sceaux d’autorités locales', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (4, 'Administration centrale', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (5, 'Administration locale', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (6, 'Chapitre cathédral', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (7, 'Documents comptables, financiers et fiscaux', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (8, 'Documents de gestion domaniale', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (9, 'Documents féodaux', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (10, 'Documents judiciaires', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (11, 'Evêque', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (12, 'Juridiction gracieuse ecclésiastique', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (13, 'Juridiction gracieuse laïque', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (14, 'Juridiction gracieuse municipale', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (15, 'Légat', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (16, 'Notaire public', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (17, 'Notariats traditionnels', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (18, 'Notices', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (19, 'Pape', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (20, 'Prince, comte…', null);
+INSERT INTO type_acte (type_id, label, description) VALUES (21, 'Souverain', null);
+
+
+
+
+
+
 INSERT INTO type_commentary (type_id, type_label) VALUES (1, 'Diplomatique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (2, 'Historique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (3, 'Juridique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (4, 'Paléographique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (5, 'Philologique');
 INSERT INTO type_commentary (type_id, type_label) VALUES (6, 'Sigillographique');
-CREATE TABLE user
-(
-    username TEXT PRIMARY KEY NOT NULL,
-    firstname TEXT NOT NULL,
-    lastname TEXT NOT NULL,
-    mail TEXT NOT NULL
-);
-CREATE UNIQUE INDEX user_username_uindex ON user (username);
+
+
+
+
+
+
+
+
 INSERT INTO user (username, firstname, lastname, mail) VALUES ('jpilla', 'Julien', 'Pilla', 'julien.pilla@enc-sorbonne.fr');
-INSERT INTO user (username, firstname, lastname, mail) VALUES ('vjolivet', 'Vincent', 'Jolivet', 'vincent.joliver@enc-sorbonne.fr');
-CREATE TABLE zone_facsimile
-(
-    zone_id INTEGER NOT NULL,
-    zone_url TEXT NOT NULL,
-    x1 INTEGER NOT NULL,
-    y1 INTEGER NOT NULL,
-    x2 INTEGER NOT NULL,
-    y2 INTEGER NOT NULL,
-    CONSTRAINT zone_facsimile_zone_id_zone_url_pk PRIMARY KEY (zone_id, zone_url)
-);
-CREATE UNIQUE INDEX zone_facsimile_zone_id_zone_url_uindex ON zone_facsimile (zone_id, zone_url);
-CREATE INDEX zone_facsimile_zone_url_index ON zone_facsimile (zone_url);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_1', 14, 16, 785, 37);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_2', 13, 46, 779, 64);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_3', 8, 74, 800, 92);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_4', 10, 102, 805, 117);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_5', 7, 128, 791, 145);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_6', 14, 157, 793, 176);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_7', 12, 183, 796, 196);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_8', 14, 210, 791, 228);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_9', 12, 233, 784, 256);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_10', 11, 261, 792, 285);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_11', 9, 291, 790, 313);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_12', 8, 324, 790, 342);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_13', 5, 348, 785, 371);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_14', 10, 379, 776, 400);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_15', 9, 404, 786, 431);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_16', 6, 435, 789, 455);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_17', 6, 460, 788, 488);
-INSERT INTO zone_facsimile (zone_id, zone_url, x1, y1, x2, y2) VALUES ('20/faxexternes.jpg', 'facsim-img_18', 3, 495, 486, 513);
+INSERT INTO user (username, firstname, lastname, mail) VALUES ('vjolivet', 'Vincent', 'Jolivet', 'vincent.jolivet@enc-sorbonne.fr');
