@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1157, 9 octobre. Concession en fief d'une maison à Saint-Hippolyte</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="numero">9</idno>
+            <publisher>Ecole nationale des chartes</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Orig. : Arch. dép. Pyrénées-Orientales, B 50.</p>
+            <p>Fac-sim. ENC : NF 265 (héliogravure).</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc> </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="facsimile" rend="fax.jpg">
+            <p>
+               <seg rend="9,2,685,34">A B C D E F G H I K L M N O P Q R S T V X</seg>
+               <seg rend="9,45,103,64">In D<expan>e</expan>i n<expan>omi</expan>ne</seg>
+               <seg rend="110,46,316,65">sit notu<expan>m</expan> o<expan>mni</expan>bus
+                     hominib<expan>us</expan></seg>
+               <seg rend="327,47,549,69">q<expan>uo</expan>d ego Ponci<expan>us</expan> de Verneto</seg>
+               <seg rend="565,52,690,75">et filius meus Erm<expan>en</expan>-</seg>
+               <seg rend="15,71,228,91">gaud<expan>us</expan> donam<expan>us</expan> ad
+                  fevu<expan>m</expan></seg>
+               <seg rend="232,77,488,94">t<expan>ib</expan>i Raim<expan>un</expan>do
+                  d<expan>e</expan> S<expan>an</expan>c<expan>t</expan>o Laurentio</seg>
+               <seg rend="492,78,690,97">et f<expan>rat</expan>ri tuo Guill<expan>elm</expan>o
+                     o<expan>mni</expan>q<expan>ue</expan></seg>
+               <seg rend="14,99,165,116">v<expan>est</expan>re posteritati</seg>
+               <seg rend="166,101,428,117">illa<expan>m</expan> domu<expan>m</expan>
+                  tota<expan>m</expan> de S<expan>an</expan>c<expan>t</expan>o Ypolito</seg>
+               <seg rend="433,104,688,119">que fuit B<expan>er</expan>nardi Petri de
+                  S<expan>anct</expan>o</seg>
+               <seg rend="6,130,375,151">Ypolito et filior<expan>um</expan> suor<expan>um</expan>
+                     B<expan>er</expan>nardi et Poncii</seg>
+               <seg rend="379,135,686,153">et o<expan>m</expan>nia alodia integrit<expan>er</expan>
+                     eide<expan>m</expan> do-</seg>
+               <seg rend="11,160,145,179">-mui p<expan>er</expan>tinentia</seg>
+               <seg rend="149,164,384,183">salvo sponsalitio illi<expan>us</expan>
+                  d<expan>omi</expan>næ</seg>
+               <seg rend="388,170,690,185">que fuit uxor B<expan>er</expan>nardi
+                  p<expan>re</expan>dicti, q<expan>uo</expan>d</seg>
+               <seg rend="10,195,152,213">post morte<expan>m</expan> sua<expan>m</expan></seg>
+               <seg rend="152,200,586,215">vob<expan>is</expan> et v<expan>est</expan>ris sine
+                     aliq<expan>u</expan>a diminutione et impedim<expan>en</expan>to</seg>
+               <seg rend="587,201,694,216">lib<expan>er</expan>e rever-</seg>
+               <seg rend="8,226,255,247">-tat<expan>ur</expan>.
+                  P<expan>ro</expan>pt<expan>er</expan> qua<expan>m</expan>
+                  donatione<expan>m</expan></seg>
+               <seg rend="256,227,677,248">nos p<expan>re</expan>dicti f<expan>rat</expan>res
+                     Raim<expan>un</expan>d<expan>us</expan> et
+                  Guill<expan>el</expan>m<expan>us</expan> co<expan>n</expan>venim<expan>us</expan></seg>
+               <seg rend="5,263,292,284">vob<expan>is</expan> p<expan>re</expan>dictis Poncio de
+                  Verneto</seg>
+               <seg rend="302,266,687,282">et Erm<expan>en</expan>gaudo filio tuo et
+                  om<expan>n</expan>i v<expan>est</expan>ræ posteri-</seg>
+               <seg rend="5,302,347,322">-tati p<expan>er</expan> nos et p<expan>er</expan> omnem
+                     n<expan>ost</expan>ra<expan>m</expan> posteritate<expan>m</expan></seg>
+               <seg rend="357,303,687,320">quod sim<expan>us</expan> v<expan>est</expan>ri fideles
+                  homines et se<expan>m</expan>p<expan>er</expan></seg>
+               <seg rend="3,339,281,359">valeam<expan>us</expan> vob<expan>is</expan> et
+                  v<expan>est</expan>re posteritati.</seg>
+               <seg rend="288,341,492,359">fidelit<expan>er</expan> et sine enganno</seg>
+               <seg rend="501,342,683,361">de om<expan>n</expan>i honore v<expan>est</expan>ro</seg>
+               <seg rend="6,372,295,393">contra cunctos homines et fem<expan>in</expan>as.</seg>
+               <seg rend="12,406,269,424">[Croix] Artalli Helen<expan>ensis</expan>
+                  ep<expan>iscop</expan>i [comma].</seg>
+               <seg rend="5,474,285,496">Actu<expan>m</expan> e<expan>st</expan> h<expan>oc</expan>
+                  VII id<expan>us</expan> octobris,</seg>
+               <seg rend="287,474,664,494">anno XX° I° Ludovici regis junioris</seg>
+               <seg rend="5,511,285,530">Sig-[croix]-num Poncii de Verneto.</seg>
+               <seg rend="304,510,691,530">Sig-[croix]-num Erm<expan>en</expan>gaudi filii sui.
+                  Sig-[croix]-num</seg>
+               <seg rend="4,550,232,569">Raim<expan>un</expan>di de S<expan>anct</expan>o Laurentio.</seg>
+               <seg rend="240,549,689,571">Sig-[croix]-num Guill<expan>el</expan>mi
+                  f<expan>rat</expan>ris ej<expan>us</expan>, q<expan>u</expan>i ha<expan>n</expan>c
+                     co<expan>n</expan>venie<expan>n</expan>tia<expan>m</expan></seg>
+               <seg rend="3,589,269,608">et donatione<expan>m</expan> int<expan>er</expan> nos
+                     facim<expan>us</expan>.</seg>
+               <seg rend="277,589,691,606">Sig-[croix]-num Guill<expan>el</expan>mi de Castello.
+                  Sig-[croix]-num</seg>
+               <seg rend="4,623,124,644">Petri f<expan>rat</expan>ris ej<expan>us</expan>.</seg>
+               <seg rend="127,623,465,644">Sig-[croix]-num Udalgarii de Fonolied.</seg>
+               <seg rend="484,624,692,643">Sig-[croix]-num Raim<expan>un</expan>di de</seg>
+               <seg rend="3,670,323,690">Petralata. Sig-[croix]-num Engilb<expan>er</expan>ti.</seg>
+               <seg rend="4,826,231,852">Arnall<expan>us</expan> mo<expan>na</expan>chus et
+                     p<expan>res</expan>b<expan>yte</expan>r</seg>
+               <seg rend="234,830,623,847">et h<expan>oc</expan> sc<expan>ri</expan>psit die et anno
+                     q<expan>u</expan>o [croix] sup<expan>r</expan>a.</seg>
+            </p>
+         </div>
+         <div type="transcription">
+            <div type="texte">
+               <l>In D<expan>e</expan>i n<expan>omi</expan>ne sit notu<expan>m</expan>
+                  o<expan>mni</expan>bus hominib<expan>us</expan> q<expan>uo</expan>d </l>
+               <l>ego Ponci<expan>us</expan> de <term
+                     n="D&#x2019;après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan."
+                     >Verneto</term> et filius meus Erm<expan>en</expan>-</l>
+               <l>gaud<expan>us</expan> donam<expan>us</expan> ad fevu<expan>m</expan>
+                  t<expan>ib</expan>i Raim<expan>un</expan>do d<expan>e</expan>
+               </l>
+               <l>S<expan>an</expan>c<expan>t</expan>o Laurentio et f<expan>rat</expan>ri tuo
+                     Guill<expan>elm</expan>o o<expan>mni</expan>q<expan>ue</expan></l>
+               <l>v<expan>est</expan>re posteritati illa<expan>m</expan> domu<expan>m</expan>
+                     tota<expan>m</expan> de </l>
+               <l><term n="Pyrénées-Orientales, cant. Rivesaltes."
+                     >S<expan>an</expan>c<expan>t</expan>o Ypolito</term> que fuit
+                  B<expan>er</expan>nardi Petri de S<expan>anct</expan>o </l>
+               <l>Ypolito et filior<expan>um</expan> suor<expan>um</expan> B<expan>er</expan>nardi
+                  et </l>
+               <l>Poncii et o<expan>m</expan>nia alodia integrit<expan>er</expan>
+                  eide<expan>m</expan> do-</l>
+               <l>-mui p<expan>er</expan>tinentia salvo sponsalitio illi<expan>us</expan>
+               </l>
+               <l>d<expan>omi</expan>næ que fuit uxor B<expan>er</expan>nardi
+                  p<expan>re</expan>dicti, q<expan>uo</expan>d</l>
+               <l>post morte<expan>m</expan> sua<expan>m</expan> vob<expan>is</expan> et
+                  v<expan>est</expan>ris sine </l>
+               <l>aliq<expan>u</expan>a diminutione et impedim<expan>en</expan>to
+                  lib<expan>er</expan>e rever-</l>
+               <l>tat<expan>ur</expan>. P<expan>ro</expan>pt<expan>er</expan> qua<expan>m</expan>
+                     donatione<expan>m</expan> nos p<expan>re</expan>dicti </l>
+               <l>f<expan>rat</expan>res Raim<expan>un</expan>d<expan>us</expan> et
+                     Guill<expan>el</expan>m<expan>us</expan>
+                  co<expan>n</expan>venim<expan>us</expan></l>
+               <l>vob<expan>is</expan> p<expan>re</expan>dictis Poncio de Verneto et </l>
+               <l>Erm<expan>en</expan>gaudo filio tuo et om<expan>n</expan>i v<expan>est</expan>ræ
+                  posteri-</l>
+               <l>tati p<expan>er</expan> nos et p<expan>er</expan> omnem
+                     n<expan>ost</expan>ra<expan>m</expan> posteritate<expan>m</expan></l>
+               <l>quod sim<expan>us</expan> v<expan>est</expan>ri fideles homines et
+                     se<expan>m</expan>p<expan>er</expan></l>
+               <l>valeam<expan>us</expan> vob<expan>is</expan> et v<expan>est</expan>re posteritati
+                     fidelit<expan>er</expan>
+               </l>
+               <l>et sine enganno de om<expan>n</expan>i honore v<expan>est</expan>ro</l>
+               <l>contra cunctos homines et fem<expan>in</expan>as.</l>
+               <l/>
+               <l>[Croix] Artalli Helen<expan>ensis</expan> ep<expan>iscop</expan>i [comma].</l>
+               <l/>
+               <l>Actu<expan>m</expan> e<expan>st</expan> h<expan>oc</expan> VII id<expan>us</expan>
+                  octobris, anno </l>
+               <l>XX° I° Ludovici regis junioris.</l>
+               <l/>
+               <l>Sig-[croix]-num Poncii de Verneto. Sig-[croix]-num </l>
+               <l>Erm<expan>en</expan>gaudi filii sui. Sig-[croix]-num </l>
+               <l>Raim<expan>un</expan>di de S<expan>anct</expan>o Laurentio. Sig-[croix]-num </l>
+               <l>Guill<expan>el</expan>mi f<expan>rat</expan>ris ej<expan>us</expan>,
+                  q<expan>u</expan>i ha<expan>n</expan>c
+                     co<expan>n</expan>venie<expan>n</expan>tia<expan>m</expan>
+               </l>
+               <l>et donatione<expan>m</expan> int<expan>er</expan> nos facim<expan>us</expan>.</l>
+               <l>Sig-[croix]-num Guill<expan>el</expan>mi de Castello. Sig-[croix]-num</l>
+               <l>Petri f<expan>rat</expan>ris ej<expan>us</expan>. Sig-[croix]-num Udalgarii </l>
+               <l>de Fonolied. Sig-[croix]-num Raim<expan>un</expan>di de</l>
+               <l>Petralata. Sig-[croix]-num Engilb<expan>er</expan>ti.</l>
+               <l/>
+               <l>Arnall<expan>us</expan> mo<expan>na</expan>chus et
+                  p<expan>res</expan>b<expan>yte</expan>r et </l>
+               <l>h<expan>oc</expan> sc<expan>ri</expan>psit die et anno q<expan>u</expan>o [croix]
+                     sup<expan>r</expan>a.</l>
+            </div>
+            <div type="traduction">
+               <l>Au nom de Dieu, qu&#x2019;il soit connu à tous </l>
+               <l>que moi, Pons de <term
+                     n="D&#x2019;après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan."
+                     >Vernet</term>, et mon fils Ermen-</l>
+               <l>gaud, nous donnons en fief à toi, Raymond de </l>
+               <l>Saint-Laurent, à ton frère Guillaume et à toute</l>
+               <l>votre postérité, toute la maison de </l>
+               <l><term n="Pyrénées-Orientales, cant. Rivesaltes.">Saint-Hippolyte</term> qui a
+                  appartenu à Bernard </l>
+               <l>Pierre de Saint-Hippolyte et à ses fils Bernard </l>
+               <l>et Pons, et tous les alleux, intégralement, </l>
+               <l>dépendant de cette maison, sauf le douaire de </l>
+               <l>la dame épouse de feu Bernard, qui reviendra </l>
+               <l>librement après sa mort à vous et aux vôtres, </l>
+               <l>sans diminution ni empêchement aucun.</l>
+               <l>Pour laquelle donation nous, les susdits frères </l>
+               <l>Raymond et Guillaume susdits, convenons </l>
+               <l>avec vous, Pons de Vernet et Ermengaud ton </l>
+               <l>fils susdits et toute votre posterité, au nom de </l>
+               <l>nous-mêmes et de toute notre postérité, </l>
+               <l>d&#x2019;être vos hommes fidèles et de toujours vous</l>
+               <l>aider, vous et votre postérité, fidèlement </l>
+               <l>et sans tromperie, en tout ce qui concerne </l>
+               <l>votre honneur, contre tous, hommes et femmes.</l>
+               <l/>
+               <l>[Croix] d&#x2019;Artaud, évêque d&#x2019;Elne.</l>
+               <l/>
+               <l>Ceci fut fait le 9 octobre, en l&#x2019;an</l>
+               <l>21 du roi Louis le Jeune.</l>
+               <l/>
+               <l>[Parties :] Souscription de Pons de Vernet, </l>
+               <l>souscription d&#x2019;Ermengaud son fils, souscription </l>
+               <l>de Raymond de Saint-Laurent, souscription </l>
+               <l>de Guillaume son frère, qui faisons cet accord </l>
+               <l>et cette donation entre nous. </l>
+               <l>[Témoins :] Souscription de Guillaume de Casteil,</l>
+               <l>souscription de Pierre son frère, souscription </l>
+               <l>d&#x2019;Ogier de Fenouillet, souscription de Ray-</l>
+               <l>mond de Peyralade, souscription d&#x2019;Engilbert.</l>
+               <l/>
+               <l>Arnaud, moine et prêtre, a </l>
+               <l>écrit ceci les jour et an que dessus.</l>
+            </div>
+            <div type="commentaires">
+               <div>
+                  <head>Conversion de la date</head>
+                  <p>7 des ides d&#x2019;octobre = 15+1-7 = 9 octobre. Louis, dit &#34;le
+                     Jeune&#34; par rapport à son prédécesseur homonyme, est Louis VII. La
+                     datation par année de règne du roi, seule ou accompagnée d&#x2019;autres
+                     éléments, mais assez souvent exclusive du millésime de
+                     l&#x2019;Incarnation, est fréquente dans le sud du royaume de France au
+                        XII<hi rend="exposant">e</hi> siècle. Contrairement aux imprécisions des
+                        X<hi rend="exposant">e</hi> et XI<hi rend="exposant">e</hi> siècles (très
+                     relatives au reste), on peut supposer que le rédacteur de l&#x2019;acte est
+                     bien informé de la date de changement de souverain. Il reste toutefois une
+                     ambiguïté : fait-il partir son décompte du sacre du futur Louis VII, du vivant
+                     de son père (25 octobre 1131, on serait alors en 1151), ou de son accession au
+                     trône, à la mort de celui-ci (1er août 1137, on serait alors en 1157) ? Cette
+                     seconde solution est plus vraisemblable, surtout quand on constate que les
+                     rédacteurs, pas plus que leurs contemporains, ne confondent sacre et
+                     association au trône (il n&#x2019;y a pas d&#x2019;actes datés des
+                     règnes des deux Louis entre 1131 et 1137), et surtout que la mention du fils
+                     seul sans le père, encore régnant, serait des plus étonnantes. Les dates
+                     d&#x2019;épiscopat de l&#x2019;évêque d&#x2019;Elne cité plus bas
+                     (1148-1169) n&#x2019;apportent pas plus d&#x2019;information.</p>
+               </div>
+            </div>
+         </div>
+         <div type="commentaire" n="paleographie">
+            <head>Commentaire pal&#232;ographique</head>
+            <div n="1">
+               <head>Morphologie générale</head>
+               <div type="recommandation">
+                  <p>Les num&#232;ros entre parenth&#232;ses renvoient aux lignes. Pour
+                     revenir au fac-simil&#201; interactif, cliquer sur l'image.</p>
+               </div>
+               <div type="contenu_commentaire">
+                  <p>
+                     <xref to="http://theleme.enc.sorbonne.fr/dossiers/vue9.php">
+                        <figure rend="9/faxpaleo.jpg"/>
+                     </xref>
+                  </p>
+                  <p><hi rend="strong">L'écriture de cette charte est celle des livres</hi>
+                     contemporains, dans presque tous ses détails : une <hi rend="strong">minuscule
+                        caroline</hi> tardive, plutôt lourde (tracée avec une plume épaisse, selon
+                     un angle oblique).</p>
+                  <p><hi rend="strong">L'initiale I</hi> d'une hauteur de trois lignes évoque
+                     elle-même les usages livresques.</p>
+                  <p><hi rend="strong">L'évolution de l'écriture vers les morphologies
+                     gothiques</hi> primitives s'esquisse seulement : les premiers jambages de m et
+                     n sont très irrégulièrement dotés de crochets ; les courbes opposées ne se
+                     superposent nullement (contrairement à la règle dite de Meyer, caractéristique
+                     de la gothique achevée) ; et sous forme de lettres conjointes (&amp;) n'est
+                     pas encore remplacé par la note tironienne correspondante (en forme de 7) ;
+                     plus généralement, la rondeur l'emporte sur l'angulosité.</p>
+                  <p><hi rend="strong">Le <hi rend="italic">d</hi> "oncial"</hi> (incliné à gauche),
+                     qui se généralisera dans la gothique, coexiste encore avec <hi rend="strong"
+                           ><hi rend="italic">d</hi> droit</hi> de la minuscule caroline, selon un
+                     système apparemment cohérent : d est toujours droit à l'initiale et presque
+                     toujours oncial à la finale (exception : Fonolied, 17). Il est oncial en
+                     position médiane, à l'exception de deux noms seulement, qui reviennent
+                     plusieurs fois : Raimundus (où une haste inclinée aurait rencontré le tilde sur
+                     la lettre précédente) et Bernardus (sans raison visible). Seul un échantillon
+                     plus abondant pourrait dire si le choix de la forme, dans ces cas, dépend des
+                     lettres voisines ou de quelque autre facteur.</p>
+                  <p><hi rend="strong">Au sommet des hastes</hi> de <hi rend="italic">d</hi> (droit)
+                        <hi rend="italic">b</hi>
+                     <hi rend="italic">h</hi>
+                     <hi rend="italic">l</hi>, l'empattement triangulaire originel, formé d'un trait
+                     de plume supplémentaire, évolue vers une forme en crochet plus ou moins
+                     marquée.</p>
+                  <p><hi rend="strong">Le <hi rend="italic">i</hi> est pointé</hi> en redoublement,
+                     par souci de clarté, dans <foreign>Poncii</foreign> (4, 14).</p>
+               </div>
+            </div>
+            <div n="2">
+               <head>Éléments d'écriture diplomatique</head>
+               <div type="recommandation">
+                  <p>Les num&#201;ros entre parenth&#232;ses renvoient aux lignes. Pour
+                     revenir au fac-simil&#201; interactif, cliquer sur l'image.</p>
+               </div>
+               <div type="contenu_commentaire">
+                  <p>
+                     <xref to="http://theleme.enc.sorbonne.fr/dossiers/vue9.php">
+                        <figure rend="9/faxpaleo.jpg"/>
+                     </xref>
+                  </p>
+                  <p><hi rend="strong">Les morphologies propres aux actes diplomatiques</hi> ne sont
+                     que très modérément intégrées : forme légèrement ondulée et allongée (mais non
+                     prolongée sous la ligne) de <hi rend="italic">f</hi> et <hi rend="italic"
+                     >s</hi>, ainsi que, exceptionnellement, l (<foreign>Guillelmi</foreign>, 16) ;
+                     développement purement ornemental de la "ligature" ct, qui ne lie plus rien
+                        (<foreign>cunctos</foreign>, 11). </p>
+                  <p><hi rend="strong">La souscription du scripteur fait exception</hi> (dernière
+                     ligne), bien qu'il s'agisse indubitablement de la même main : deux <hi
+                        rend="italic">h</hi>, deux <hi rend="italic">s</hi> et trois <hi
+                        rend="italic">p</hi> se terminent en traits prolongés, courbes et effilés,
+                     typiquement diplomatiques.</p>
+                  <p><hi rend="strong">La souscription de l'évêque</hi> (12), d'un module grossi,
+                     n'est pas pour autant nécessairement autographe. La croix qui précède le nom
+                     est en effet cantonnée de quatre points dont l'un, plus marqué, est sans doute
+                     la seule marque vraiment autographe. Le <hi rend="italic">comma</hi> qui suit
+                     (deux points et virgule) est imité de la chancellerie pontificale. </p>
+                  <p><hi rend="strong">Dans les autres souscriptions</hi>, la seule marque
+                     autographe est, de la même manière, le plus gros des quatre points qui
+                     cantonnent la croix dans le mot <hi rend="italic">sig</hi>+<hi rend="italic"
+                        >num</hi>.</p>
+                  <p>(Sur les souscriptions, voir aussi le commentaire diplomatique).</p>
+               </div>
+            </div>
+            <div n="3">
+               <head>Abréviations</head>
+               <div type="recommandation">
+                  <p>Les num&#201;ros entre parenth&#232;ses renvoient aux lignes. Pour
+                     revenir au fac-simil&#201; interactif, cliquer sur l'image.</p>
+               </div>
+               <div type="contenu_commentaire">
+                  <p>
+                     <xref to="http://theleme.enc.sorbonne.fr/dossiers/vue9.php">
+                        <figure rend="9/faxpaleo.jpg"/>
+                     </xref>
+                  </p>
+                  <p><hi rend="strong">Les abréviations sont nombreuses</hi>, variées et des types
+                     les plus courants, utilisant le tilde, les lettres suscrites et les signes
+                     spécifiques pour <foreign>pro pre per us</foreign>.</p>
+                  <p><hi rend="strong">Le tilde ou titulus</hi>, signe d'abréviation générique,
+                     n'est guère utilisé sur voyelle pour rendre une nasale, sauf en terminaison et
+                     dans quelques cas d'exception : sur le préfixe <hi rend="italic"><hi
+                           rend="strong">co</hi>n</hi>- (mais l'unité préfixe + radical est souvent
+                     problématique dans les graphies médiévales) et en fin de ligne quand le
+                     scripteur a voulu serrer un mot (<foreign><hi rend="strong">se</hi>m<hi
+                           rend="strong">p</hi>er</foreign> 9, <foreign><hi rend="strong"
+                           >co</hi>n<hi rend="strong">veni</hi>en<hi rend="strong"
+                     >tia</hi>m</foreign> 15).</p>
+                  <p><hi rend="strong">Plus souvent, le tilde dans le mot</hi> sert pour :
+                     contraction ; syllabe voyelle + <hi rend="italic">n</hi> ; syllabe <hi
+                        rend="italic">er/re</hi> (cette dernière n'étant pas, comme souvent,
+                     représentée par un signe abréviatif spécifique, différentié du simple tilde). </p>
+                  <p><hi rend="strong">Quelques hésitations</hi> à noter : comparer <foreign><hi
+                           rend="strong">o</hi>mn<hi rend="strong">ib</hi>us</foreign> (1),
+                     contraction usuelle du radical, avec les formes aussi fréquentes <foreign><hi
+                           rend="strong">om</hi>n<hi rend="strong">i</hi></foreign> (8) et
+                           <foreign><hi rend="strong">omn</hi>e<hi rend="strong">m</hi></foreign>
+                     (9), où le tilde a la valeur banale de <hi rend="italic">n</hi>.</p>
+               </div>
+            </div>
+         </div>
+         <div type="commentaire" n="diplomatique">
+            <head>Commentaire diplomatique</head>
+            <div n="1">
+               <head>Caractères externes</head>
+               <div type="recommandation">
+                  <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
+               </div>
+               <div type="contenu_commentaire">
+                  <p>
+                     <figure rend="9/faxexternes.jpg">
+                        <figDesc>
+                           <seg type="poly"
+                              rend="67,5,100,5,133,2,203,2,250,4,282,4,304,6,324,9,343,9,345,16,321,22,294,25,238,22,216,23,179,23,116,22,91,22,70,19,45,16,26,15,9,12,14,7,32,6"
+                              >Devise du chirographe, moiti&#201; inf&#201;rieure des
+                              lettres A &#232; U</seg>
+                           <seg type="poly"
+                              rend="8,18,14,28,16,38,15,49,10,58,7,60,3,56,1,49,2,37,5,30,5,25"
+                              >Initiale allong&#201;e</seg>
+                           <seg type="poly"
+                              rend="74,202,91,200,113,203,125,206,132,210,135,214,127,221,109,226,82,225,64,223,51,222,39,220,33,218,29,212,37,204,50,201,62,200"
+                              >Suscription autographe (ou d&#x2019;allure auotographe), au
+                              g&#201;nitif (sous-entendue crux, mot repr&#201;sent&#201;
+                              par le dessin de croix</seg>
+                           <seg type="poly"
+                              rend="94,255,115,256,138,259,146,263,147,269,136,275,111,277,83,276,71,274,62,271,58,264,67,260,80,256"
+                              >Souscription &#201;crite de la main du scribe</seg>
+                           <seg type="poly"
+                              rend="190,256,201,260,203,265,201,273,195,277,190,277,184,276,181,274,181,269,183,263,187,259"
+                              >Croix de souscription incluse dans le mot &#34;Signu(m)&#34;.
+                              Les quatres cantons de la croix sont point&#201;s, un seul point
+                              (canton sup&#201;rieur droit) &#201;tant (en principe)
+                              trac&#201;e de la main du souscripteur</seg>
+                        </figDesc>
+                     </figure>
+                  </p>
+                  <p><hi rend="strong"> L'acte est &#201;tabli en forme de chirographe</hi>, en
+                     deux exemplaires identiques au moins. Sa devise est ici, de façon courante, une
+                     devise <foreign>per alphabetum</foreign> : on lit ou devine la moiti&#201;
+                     inf&#201;rieure des lettres de A &#232; X (avec I = J et U = V). Par le
+                     milieu de cette "devise" (<foreign>divisa</foreign>) passe la coupure entre les
+                     deux exemplaires, remis chacun &#232; une partie, et dont le rapprochement
+                     en cas de litige ult&#201;rieur sanctionnera l'authenticit&#201;. </p>
+                  <p>Dans <hi rend="strong">l'&#201;criture</hi>, on notera le I initial et le
+                     catact&#232;re g&#201;n&#201;ral d'application, de
+                     r&#201;gularit&#201; (voir le <xref
+                        to="paleographie.php?id=9&amp;page=1">commentaire
+                        pal&#201;ographique</xref>).</p>
+                  <p><hi rend="strong">Trois blocs</hi>, devise &#232; part, sont
+                     m&#201;nag&#201;s par le r&#201;dacteur, correspondant &#232;
+                     trois &#201;tapes :</p>
+                  <list>
+                     <item> le texte proprement dit, formant le corps de l'acte ;</item>
+                     <item> la date et les souscriptions des parties et des t&#201;moins ou
+                        garants, tr&#232;s nettement s&#201;par&#201;es par des
+                        ponctuation fortes (points) ; dans l'ordre voulu se succ&#232;dent les
+                        souscriptions des auteurs (ils sont ici quatre : deux pour chacune des
+                        parties contractantes qui ont "fait la convenance et la donation") puis de
+                        cinq personnages, qui peuvent être t&#201;moins ou garants, ou les deux
+                        &#232; la fois ;</item>
+                     <item> la r&#201;cognition finale du r&#201;dacteur.</item>
+                  </list>
+                  <p><hi rend="strong">Les signes graphiques abondent.</hi> Leur emploi,
+                     articul&#201; et coh&#201;rent, enrichi même, est un peu le chant du
+                     cygne de pratiques qui vont être balay&#201;es, au XIII<hi rend="exposant"
+                        >e</hi> si&#232;cle, par la diffusion du sceau, des notaires publics,
+                     des juridictions gracieuses.</p>
+                  <list>
+                     <item><hi rend="strong">La souscription de l'&#201;vêque d'Elne</hi> est
+                        venue s'ench&#194;sser entre les blocs 1 et 2. Contrairement aux
+                        apparences, elle n'est pas forc&#201;ment autographe : le scribe a
+                        tr&#232;s bien pu lui donner plus de solennit&#201; par des lettres
+                        grandies (comme pour son propre nom), l'&#201;vêque souscrivant comme
+                        les autres souscripteurs (voir ci-apr&#232;s).</item>
+                     <item><hi rend="strong">Les croix requises des souscriptions</hi> sont
+                        &#232; l'origine un substitut de l'autographie, requis quand l'acte et
+                        la souscription elle-même sont &#201;crits par un tiers. La fonction de
+                        validation de la croix, trace visible de l'implication personnelle de
+                        l'auteur ou du t&#201;moin, est bien &#201;videmment enrichie d'une
+                        dimension religieuse, trace d'une implication morale sanctionn&#201;e
+                        par Dieu. On observe ici une pratique tr&#232;s r&#201;pandue au sud
+                        de la France : d'une part la croix est ench&#194;ss&#201;e dans le
+                        mot <foreign>signum</foreign> ("Ceci est la souscription de"), &#232;
+                        l'imitation des anciens pr&#201;ceptes royaux o&#232; le monogramme
+                        &#201;tait ench&#194;ss&#201; dans la formule <foreign>Signum
+                           «Talis» regis</foreign> ; d'autre part, le scripteur de l'acte, qui
+                        &#201;crit les souscriptions, trace aussi la branche verticale (en
+                        d'autres cas, c'est cette branche qui peut être autographe), et trois des
+                        quatre points ornementaux qui cantonnent la croix ; les souscripteurs n'ont
+                        plus qu'&#232; tracer (il est plus gros, moins habile) le
+                        quatri&#232;me point. Le signe visible est l&#232;. Pratiques
+                        diplomatiques et pratiques graphiques font &#201;cran : il est
+                        impossible de passer de la statistique des souscriptions par croix ou point
+                        &#232; celles de l'illettrisme ambiant, puisque progressivement, avant
+                        la tr&#232;s lente &#201;mergence de la signature, les
+                        r&#201;dacteurs d'actes priv&#201;s marginalisent puis
+                        &#201;cartent les souscriptions autographes.</item>
+                     <item><hi rend="strong">La</hi><hi rend="strong"> "r&#201;cognition" du
+                           r&#201;dacteur de l'acte</hi> est elle aussi tr&#232;s typique.
+                        Dans sa formulation : nom, qualit&#201;, r&#234; jou&#201; avec
+                        rappel de la date (d&#201;livrance) de l'acte. Dans la personne du
+                        r&#201;dacteur, comme souvent dans le Sud-Ouest, pris au
+                        clerg&#201;. Dans son enrichissement graphique, enfin : nom en lettres
+                        allong&#201;es ; croix enjoliv&#201;e : il ne s'agit pas encore d'un
+                        "seing manuel" qui, comme dans le notariat public, serait
+                        d&#201;pos&#201; aupr&#232;s des autorit&#201;s ; mais il
+                        lui pr&#201;pare la voie : il est propre au r&#201;dacteur, enrichi
+                        graphiquement. En bref, sans être &#232; proprement parler un "signe de
+                        validation", il concourt, avec bien d'autres &#201;l&#201;ments,
+                        &#232; une mise par &#201;crit d&#201;j&#232; tr&#232;s
+                        formalis&#201;e, &#232; une "authentification" qui donne poids et
+                        autorit&#201; &#232; l'&#201;crit </item>
+                  </list>
+               </div>
+            </div>
+            <div n="2">
+               <head>Caractères internes</head>
+               <div type="contenu_commentaire">
+                  <p>
+                     <figure rend="9/faxpaleo.jpg"/>
+                  </p>
+                  <p>
+                     <hi rend="strong">Le discours diplomatique est tr&#232;s simple,
+                        &#201;conome :</hi> une rapide invocation, une rapide notification, et
+                     l'on entre de plain-pied dans un dispositif qui, de façon usuelle dans ce genre
+                     de document, souple et pliable &#232; de multiples usages sociaux,
+                     reproduit un dialogue o&#232; chacune des deux parties &#232; tour de
+                     r&#234;le prend la parole, une parole simplement (mais avec beaucoup d'art
+                     et beaucoup de formulaire) couch&#201;e sur le parchemin. Ce moule, commun
+                     &#232; la production du haut Moyen Age dont la forme est encore
+                     conserv&#201;e dans le sud de la France au XII<hi rend="exposant">e</hi>
+                     si&#232;cle, avec d'insensibles adaptations, est d'autant plus sensible que
+                     l'on est ici face &#232; une <hi rend="italic">convenientia</hi>, type
+                     parfait de l'acte "synallagmatique", qui met les deux parties sur un pied
+                     d'&#201;galit&#201;, &#232; responsabilit&#201; &#201;gale
+                     (elles sont d'ailleurs consid&#201;r&#201;es, dans les souscriptions,
+                     comme co-auteurs : "[nous quatre] qui faisons cet accord et cette donation
+                     entre nous").</p>
+                  <p><hi rend="strong">Cette forme est parfaitement adapt&#201;e au fond ;</hi>
+                     même avec des disparit&#201;s sociales et/ou politiques (qu'elle peut
+                     masquer plus ou moins parfaitement), elle traduit l'&#201;change, la
+                     circulation du <hi rend="strong">don/contre-don</hi> (l'acte est
+                     formul&#201; comme une donation), du "fief", entendu de façon encore assez
+                     large : donn&#201; &#232; perp&#201;tuit&#201;, ce "cadeau qui
+                     oblige" implique en contrepartie une fid&#201;lit&#201;. Rien de
+                     fig&#201; : on est ici au moment pr&#201;cis o&#232;, sans être
+                     formul&#201;e dans le moule rigide du droit f&#201;odal savant, la
+                     fid&#201;lit&#201;, promise (pas d'allusion &#232; un serment, mais
+                     &#232; un simple engagement, <hi rend="italic">convenimus</hi>, encore
+                     moins d'allusion &#232; un "hommage"), n'est plus seulement
+                     n&#201;gative (ne pas porter tort, ne pas attaquer...) ; mais elle est
+                     encore de contenu vague et largement "d&#201;fensive" (d&#201;fendre
+                     contre les ennemis) : elle n'est pas forc&#201;ment inefficace, c'est
+                     plutôt que le r&#201;dacteur ni ses clients n'&#201;prouvent pas (pas
+                     encore) le besoin de pr&#201;ciser davantage le complexe de "services" qui
+                     est fix&#201; par la coutume.</p>
+                  <p><hi rend="strong">En conclusion, l'acte est une parfaite illustration de l'art
+                        documentaire du XII<hi rend="exposant">e</hi> si&#232;cle :</hi>
+                     l'&#201;crit, plus fr&#201;quent, est encore d'usage
+                     p&#201;riodique ; les affaires assez importantes (ce que montre par exemple
+                     la garantie implicite que l'on va demander &#232; l'&#201;vêque d'Elne)
+                     suscitent, même &#232; un niveau non princier, une mise en forme graphique
+                     soign&#201;e, sinon raffin&#201;e. Du strict point de vue diplomatique,
+                     la grille d'analyse classique des "modes de validation" est un peu en
+                     porte-&#232;-faux : l'autorit&#201; locale et le savoir du
+                     r&#201;dacteur, le respect de vieilles recettes de pr&#201;sentation,
+                     la vivacit&#201; de la parole, le poids social des t&#201;moins
+                     concourent autant que les signes graphiques (la forme chirographaire,
+                     nouveaut&#201; relative ; les tr&#232;s traditionnelles
+                     r&#201;cognitions) &#232; la validit&#201; globale de l'acte.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

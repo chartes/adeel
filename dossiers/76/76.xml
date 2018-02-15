@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
+<TEI.2 n="76">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[1251] Lettre du comte de Savoie</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">76</idno>
+                <publisher>École nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig.&#160;: Arch. nat., J 310, n° 39</p>
+                <p>Fac-sim. ENC&#160;: AF 464 (lithographie)</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc/>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="24,41,277,26,478,24,535,18,590,35,586,47,490,51,355,57,201,70,87,77,23,87,23,86,23,76" n="poly">Rev<expan>er</expan>endo in Chr<expan>is</expan>to pat<expan>r</expan>i ac d<expan>omi</expan>no, D<expan>e</expan>i p<expan>ro</expan>videncia ep<expan>is</expan>c<expan>op</expan>o Tholosan<expan>o</expan>,</seg>
+                    <seg rend="595,18,940,6,959,23,948,47,746,49,593,48" n="poly">atq<expan>ue</expan> viris nobilib<expan>us</expan>, amicis suis k<expan>arissi</expan>mis, d<expan>omi</expan>no</seg>
+                    <seg rend="26,96,183,79,285,74,365,61,518,65,525,85,493,89,275,101,131,113,34,124" n="poly">Rey<expan>mundo</expan> Gaucel<expan>mi</expan>, d<expan>omi</expan>no Lunell<expan>i</expan>, ac d<expan>omi</expan>no Sicard<expan>o</expan> Alamandi,</seg>
+                    <seg rend="524,60,717,58,858,57,969,54,982,82,954,92,692,86,530,87" n="poly">Amedeus, comes Sabaud<expan>ie</expan> et in Ital<expan>i</expan>a march<expan>io</expan>,</seg>
+                    <seg rend="35,135,365,105,529,97,551,119,528,130,258,145,99,157,31,167" n="poly">sal<expan>u</expan>t<expan>e</expan>m et p<expan>ar</expan>ata<expan>m</expan> ad eor<expan>um</expan> b<expan>e</expan>n<expan>e</expan>placita <expan>et</expan> mandata volu<expan>n</expan>tate<expan>m</expan>.</seg>
+                    <seg rend="555,93,869,95,974,102,950,127,706,123,555,126" n="poly">Cu<expan>m</expan> nos, sicut v<expan>est</expan>ra benignitas atq<expan>ue</expan> benig-</seg>
+                    <seg rend="32,178,117,166,280,150,431,144,484,141,486,170,317,181,161,195,44,195" n="poly">-nitas, ut credim<expan>us</expan>, n<expan>on</expan> innora<expan>n</expan>t, p<expan>er</expan> religiosu<expan>m</expan> viru<expan>m</expan>,</seg>
+                    <seg rend="494,141,759,132,890,134,962,135,946,168,761,164,572,170,496,170" n="poly">dilectu<expan>m</expan> n<expan>ost</expan>r<expan>u</expan>m p<expan>r</expan>iore<expan>m</expan> de Alta <expan>Cum</expan>ba, <expan>et</expan> p<expan>er</expan> sc<expan>r</expan>iptore<expan>m</expan> n<expan>ost</expan>r<expan>u</expan>m</seg>
+                    <seg rend="40,209,181,207,271,193,375,183,445,182,445,209,369,216,170,233,41,243" n="poly">vob<expan>is</expan> in anno nup<expan>er</expan> p<expan>re</expan>t<expan>er</expan>ito direx<expan>er</expan>im<expan>us</expan> sc<expan>r</expan>ipta n<expan>ost</expan>ra,</seg>
+                    <seg rend="455,182,652,177,849,173,972,175,954,202,674,205,519,209,452,207" n="poly">ut nob<expan>is</expan> p<expan>er</expan> eosde<expan>m</expan> nu<expan>n</expan>tios tria milia VIIC L l<expan>i</expan>b<expan>ras</expan>, quas nob<expan>is</expan></seg>
+                    <seg rend="40,254,240,233,339,229,441,219,586,223,596,231,593,246,470,250,215,263,48,280,48,273" n="poly">debebat illust<expan>r</expan>is vir d<expan>omi</expan>n<expan>u</expan>s comes Tholosan<expan>us</expan> bone memorie</seg>
+                    <seg rend="600,216,954,208,973,234,946,250,807,246,600,238" n="poly"><expan>et</expan> q<expan>u</expan>as nob<expan>is</expan>, tactis Ewa<expan>n</expan>g<expan>e</expan>liis, p<expan>ro</expan> dote neptis</seg>
+                    <seg rend="53,286,279,267,456,260,668,255,697,272,678,286,383,298,207,301,56,316" n="poly">sue <expan>et</expan> sororis sue, uxoris n<expan>ost</expan>re, p<expan>ro</expan>mis<expan>er</expan>at bona fide efficacit<expan>er</expan> solut<expan>ur</expan>as,</seg>
+                    <seg rend="700,255,955,253,963,275,933,286,793,285,701,280" n="poly">t<expan>r</expan>amitt<expan>er</expan>e c<expan>ur</expan>aretis, cu<expan>m</expan> vos p<expan>ro</expan> d<expan>i</expan>c<expan>t</expan>o</seg>
+                    <seg rend="61,322,290,307,421,306,433,319,420,337,154,350,66,354" n="poly">co<expan>m</expan>ite Tholosan<expan>o</expan> nob<expan>is</expan> exstit<expan>er</expan>itis fidej<expan>us</expan>sores</seg>
+                    <seg rend="437,306,666,292,833,294,936,294,957,307,945,327,740,326,535,331,437,332" n="poly"><expan>et</expan> p<expan>r</expan>incipales p<expan>er</expan> sac<expan>r</expan>amentu<expan>m</expan> a vob<expan>is</expan> corporalit<expan>er</expan> p<expan>re</expan>stitu<expan>m</expan>, <expan>et</expan> sitis</seg>
+                    <seg rend="58,362,291,349,405,344,438,360,429,371,184,386,66,396" n="poly"><expan>etiam</expan> executores ip<expan>s</expan>ius co<expan>m</expan>itis testamenti,</seg>
+                    <seg rend="442,342,716,334,892,332,985,338,968,372,777,364,592,371,442,366" n="poly">veru<expan>m</expan> nob<expan>is</expan> p<expan>er</expan> d<expan>i</expan>c<expan>t</expan>os nu<expan>n</expan>tios n<expan>ost</expan>ros nob<expan>is</expan> litt<expan>er</expan>atorie intimastis</seg>
+                    <seg rend="61,407,253,390,444,380,545,376,632,385,624,410,383,419,196,431,61,437" n="poly">quod vos v<expan>est</expan>r<expan>u</expan>m bonu<expan>m</expan> ac certu<expan>m</expan> nu<expan>n</expan>tiu<expan>m</expan> <expan>cum</expan> responsio<expan>n</expan>e plenaria</seg>
+                    <seg rend="639,378,839,376,943,377,973,390,949,404,734,408,634,407" n="poly"><expan>et</expan> decente inf<expan>r</expan>a festu<expan>m</expan> b<expan>e</expan>ati Mich<expan>ae</expan>lis</seg>
+                    <seg rend="64,451,180,439,345,430,414,424,426,449,413,461,215,473,66,484" n="poly">nup<expan>er</expan> p<expan>re</expan>t<expan>er</expan>itu<expan>m</expan> ad n<expan>ost</expan>ram p<expan>re</expan>senciam mitt<expan>er</expan>etis,</seg>
+                    <seg rend="431,429,560,418,728,415,861,412,965,411,965,444,902,448,735,445,554,451,430,456,430,455,432,444" n="poly">q<expan>uod</expan> n<expan>on</expan>du<expan>m</expan> c<expan>ur</expan>avistis fac<expan>er</expan>e, de quo n<expan>on</expan> modicu<expan>m</expan> admiram<expan>ur</expan>, q<expan>u</expan>ap<expan>ro</expan>p<expan>ter</expan> nos,</seg>
+                    <seg rend="65,493,195,481,308,472,452,461,543,464,542,488,242,501,74,521" n="poly">coacti sup<expan>er</expan> hoc, it<expan>er</expan>ato vob<expan>is</expan> duxim<expan>us</expan> resc<expan>r</expan>ibendu<expan>m</expan> q<expan>u</expan>atin<expan>us</expan>,</seg>
+                    <seg rend="548,458,827,452,964,453,971,482,917,486,697,486,577,486,548,492" n="poly">sicut nob<expan>is</expan> in d<expan>i</expan>c<expan>t</expan>a su<expan>m</expan>ma pecu<expan>n</expan>ie p<expan>er</expan> sac<expan>r</expan>amentu<expan>m</expan> ex</seg>
+                    <seg rend="69,532,185,516,338,506,462,498,588,493,666,494,668,523,604,527,269,547,63,561" n="poly">p<expan>ar</expan>te d<expan>i</expan>c<expan>t</expan>i co<expan>m</expan>itis tenemini <expan>et</expan> ip<expan>s</expan>ius d<expan>omi</expan>ni co<expan>m</expan>itis a<expan>n</expan>i<expan>m</expan>a obligat<expan>ur</expan> nob<expan>is</expan> similit<expan>er</expan></seg>
+                    <seg rend="673,494,830,492,954,494,978,507,959,526,793,528,704,524,673,522" n="poly"><expan>et</expan> tenet<expan>ur</expan>, t<expan>r</expan>actare efficacit<expan>er</expan> debeatis</seg>
+                    <seg rend="72,571,207,560,318,549,426,545,532,539,575,537,564,567,337,581,108,595,74,599" n="poly">ut d<expan>i</expan>c<expan>t</expan>a su<expan>m</expan>ma pecu<expan>n</expan>ie nob<expan>is</expan> in p<expan>ro</expan>ximo in integru<expan>m</expan> p<expan>er</expan>solvat<expan>ur</expan></seg>
+                    <seg rend="583,541,797,533,907,532,986,529,971,559,806,561,649,563,575,562" n="poly"><expan>et</expan> ne ip<expan>s</expan>i<expan>us</expan> pecu<expan>n</expan>ie solut<expan>i</expan>o ampli<expan>us</expan> decet<expan>er</expan>o diff<expan>er</expan>atur,</seg>
+                    <seg rend="82,609,181,596,305,591,462,580,567,577,592,580,588,601,406,613,215,623,83,634" n="poly">cu<expan>m</expan> solut<expan>i</expan>o<expan>n</expan>is t<expan>er</expan>min<expan>us</expan>, sicut scitis, jam diu sit elapsus&#160;;</seg>
+                    <seg rend="599,573,783,567,970,571,957,595,750,593,595,599" n="poly">n<expan>on</expan> debetis eni<expan>m</expan>v<expan>er</expan>o, ut nob<expan>is</expan> videt<expan>ur</expan> elucide, pati</seg>
+                    <seg rend="84,645,267,628,479,617,601,609,627,619,626,635,474,647,288,652,90,671" n="poly">ullatin<expan>us</expan> quod ta<expan>m</expan> illust<expan>r</expan>is viri a<expan>n</expan>i<expan>m</expan>a, sic<expan>ut</expan> d<expan>omi</expan>ni co<expan>m</expan>itis Tholosan<expan>i</expan>,</seg>
+                    <seg rend="634,607,809,602,944,602,972,603,963,624,814,631,704,634,633,638" n="poly">p<expan>ro</expan> tantilla su<expan>m</expan>ma pecu<expan>n</expan>ie de p<expan>er</expan>jurio ob-</seg>
+                    <seg rend="90,678,223,666,388,656,503,650,561,649,576,672,513,679,268,697,91,715" n="poly">-liget<expan>ur</expan> n<expan>ec</expan> vos valeatis similit<expan>er</expan> de p<expan>er</expan>jurio rep<expan>re</expan>hendi&#160;;</seg>
+                    <seg rend="576,646,735,641,912,634,980,632,982,659,799,669,646,669,581,671" n="poly">hoc <expan>etiam</expan> talit<expan>er</expan> facientes q<expan>uod</expan> vob<expan>is</expan> cedat ad hono-</seg>
+                    <seg rend="96,732,129,718,290,702,424,692,521,682,530,707,364,722,200,735,99,753" n="poly">-re<expan>m</expan> n<expan>on</expan> modicu<expan>m</expan> <expan>e</expan>t nob<expan>is</expan> ad comodu<expan>m</expan> <expan>et</expan> profectu<expan>m</expan></seg>
+                    <seg rend="536,684,700,678,804,674,928,669,988,686,975,704,833,706,630,706,536,706" n="poly"><expan>et</expan> ut vob<expan>is</expan> teneam<expan>ur</expan> ad gr<expan>ati</expan>ar<expan>um</expan> m<expan>u</expan>ltimodas act<expan>i</expan>o<expan>n</expan>es. Et</seg>
+                    <seg rend="102,762,193,742,276,734,381,725,476,721,575,714,658,726,657,743,560,750,325,769,108,799" n="poly">q<expan>u</expan>icq<expan>u</expan>i<expan>d</expan> inde fac<expan>er</expan>e volu<expan>er</expan>itis nob<expan>is</expan> p<expan>er</expan> latore<expan>m</expan> p<expan>re</expan>senc<expan>ium</expan> resc<expan>r</expan>ibatis.</seg>
+                    <seg rend="666,715,819,713,921,710,986,715,972,752,779,740,661,740" n="poly">Dat<expan>um</expan> VII° id<expan>ibus</expan> mart<expan>ii</expan>, ind<expan>ictione</expan> VIIII<hi rend="exposant">a</hi>.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Reverendo in Christo patri ac domino, Dei providencia <term n="Raymond de Felgar, dominicain, évêque de Toulouse de 1232 à 1270.">episcopo Tholosano</term>, atque viris</l>
+                    <l>nobilibus, amicis suis karissimis, domino <term n="Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.">Reymundo Gaucelmi, domino Lunelli</term>, ac</l>
+                    <l>domino <term n="Sicard Alaman, issu d’une modeste famille seigneuriale d’Albigeois, a été un fidèle et lieutenant puissant de Raymond VII, puis d’Alphonse de Poitiers.">Sicardo Alamandi</term>, <term n="Amédée [IV], comte de Savoie de 1232 à sa mort en 1253, duc d’Aoste et duc de Chablais à partir de 1238. Le titre marquisal est porté par le lignage depuis le XIe siècle, mais lui-même ne put s’emparer de Turin.">Amedeus, comes Sabaudie</term> et in Italia marchio, salutem et</l>
+                    <l>paratam ad eorum beneplacita et mandata voluntatem. Cum nos, sicut vestra <term n="Le redoublement du mot «&#160;benignitas&#160;», employé métaphoriquement pour désigner les destinataires, est à l’évidence une bourde du scribe qui, par persévération, a ainsi sauté un autre substantif (comme, simple hypothèse, «&#160;prudentia&#160;»).">benignitas</term></l>
+                    <l><term n="Le redoublement du mot «&#160;benignitas&#160;», employé métaphoriquement pour désigner les destinataires, est à l’évidence une bourde du scribe qui, par persévération, a ainsi sauté un autre substantif (comme, simple hypothèse, «&#160;prudentia&#160;»).">atque benignitas</term>, ut credimus, non innorant, per religiosum virum, dilectum nostrum</l>
+                    <l>priorem de <term n="Le monastère de Hautecombe (bénédictins, puis cisterciens) se trouvait sur la montagne de Cessens, sur la rive gauche du lac du Bourget&#160;; depuis sa fondation, il entretenait des liens très étroits avec les comtes de Savoie&#160;; Amédée IV y fut enseveli.">Alta Cumba</term>, et per scriptorem nostrum vobis in anno nuper preterito</l>
+                    <l>direxerimus scripta nostra, ut nobis per eosdem nuntios tria milia VIIC L libras, quas nobis</l>
+                    <l>debebat illustris vir dominus <term n="Raymond [VII], dit Raymond le Jeune, comte de Toulouse à partir de 1222, est mort à Millau le 27 septembre 1249.">comes Tholosanus</term> bone memorie et quas nobis, tactis</l>
+                    <l>Ewangeliis, pro dote neptis sue et sororis sue, <term n="Cécile des Baux, fille de Baral des Baux, vicomte de Marseille, partisan de l’empereur et depuis 1230 du comte de Toulouse. Baral avait épousé une nièce de Raymond VII, Sibile d’Anduze&#160;: nous qualiferions Cécile de petite-nièce de Raymond VII. Le qualificatif de sœur ne figurait pas quant à lui au contrat de mariage.">uxoris nostre</term>, promiserat bona fide</l>
+                    <l>efficaciter soluturas, tramittere curaretis, cum vos pro dicto comite Tholosano nobis</l>
+                    <l>exstiteritis fidejussores et principales per sacramentum a vobis corporaliter prestitum, et</l>
+                    <l>sitis etiam executores ipsius comitis testamenti, verum nobis per dictos nuntios nostros</l>
+                    <l>nobis litteratorie intimastis quod vos vestrum bonum ac certum nuntium cum responsione</l>
+                    <l>plenaria et decente infra <term n="Le 29 septembre. Par sa position dans l’année, la fête constitue un fréquent terme de paiement comme de reddition de compte.">festum beati Michaelis</term> nuper preteritum ad nostram presenciam</l>
+                    <l>mitteretis, quod nondum curavistis facere, de quo non modicum admiramur, quapropter</l>
+                    <l>nos, coacti super hoc, iterato vobis duximus rescribendum quatinus, sicut nobis in dicta</l>
+                    <l>summa pecunie per sacramentum ex parte dicti comitis tenemini et ipsius domini comitis</l>
+                    <l>anima obligatur nobis similiter et tenetur, tractare efficaciter debeatis ut dicta summa</l>
+                    <l>pecunie nobis in proximo in integrum persolvatur et ne ipsius pecunie solutio amplius</l>
+                    <l>decetero differatur, cum solutionis terminus, sicut scitis, jam diu sit elapsus&#160;; non debetis</l>
+                    <l>enimvero, ut nobis videtur elucide, pati ullatinus quod tam illustris viri anima, sicut</l>
+                    <l>domini comitis Tholosani, pro tantilla summa pecunie de perjurio obligetur nec vos</l>
+                    <l>valeatis similiter de perjurio reprehendi&#160;; hoc etiam taliter facientes quod vobis cedat ad</l>
+                    <l>honorem non modicum et nobis ad comodum et profectum et ut vobis teneamur ad</l>
+                    <l>gratiarum multimodas actiones. Et quicquid inde facere volueritis nobis per latorem</l>
+                    <l>presencium rescribatis. Datum VII° idibus martii, indictione VIIII<hi rend="exposant">a</hi>.</l>
+                </div>
+                <div type="traduction">
+                    <l>Au vénérable père en Christ et seigneur, l’<term n="Raymond de Felgar, dominicain, évêque de Toulouse de 1232 à 1270.">évêque de Toulouse</term> par la providence divine,</l>
+                    <l>et aux nobles hommes, ses très chers amis, le seigneur <term n="Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.">Raymond Gaucelm, seigneur de</term></l>
+                    <l><term n="Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.">Lunel</term>, et le seigneur <term n="Sicard Alaman, issu d’une modeste famille seigneuriale d’Albigeois, a été un fidèle et lieutenant puissant de Raymond VII, puis d’Alphonse de Poitiers.">Sicard Alaman</term>, <term n="Amédée [IV], comte de Savoie de 1232 à sa mort en 1253, duc d’Aoste et duc de Chablais à partir de 1238. Le titre marquisal est porté par le lignage depuis le XIe siècle, mais lui-même ne put s’emparer de Turin.">Amédée, comte de Savoie</term> et marquis d’Italie,</l>
+                    <l>[donne] salut et [met] sa volonté à la disposition de leurs bons plaisirs et souhaits. Alors</l>
+                    <l>que nous, ainsi que vos <term n="Le redoublement du mot «&#160;benignitas&#160;», employé métaphoriquement pour désigner les destinataires, est à l’évidence une bourde du scribe qui, par persévération, a ainsi sauté un autre substantif (comme, simple hypothèse, «&#160;prudentia&#160;»).">bienvaillance et bienveillance</term>, nous le croyons, ne l’ignorent pas,</l>
+                    <l>vous avons adressé une lettre, l’an passé, aux soins de religieux homme, notre bien aimé</l>
+                    <l>prieur de <term n="Le monastère de Hautecombe (bénédictins, puis cisterciens) se trouvait sur la montagne de Cessens, sur la rive gauche du lac du Bourget&#160;; depuis sa fondation, il entretenait des liens très étroits avec les comtes de Savoie&#160;; Amédée IV y fut enseveli.">Hautecombe</term>, et de notre secrétaire, vous demandant de prendre soin de nous</l>
+                    <l>remettre, par le truchement des mêmes messagers, trois mille 750 livres, que nous devait</l>
+                    <l>l’illustre seigneur <term n="Raymond [VII], dit Raymond le Jeune, comte de Toulouse à partir de 1222, est mort à Millau le 27 septembre 1249.">comte de Toulouse</term>, de bonne mémoire, et qu’il avait promis en</l>
+                    <l>touchant les Évangiles de nous verser de bonne foi et sûrement comme dot de sa nièce et</l>
+                    <l>sœur, <term n="Cécile des Baux, fille de Baral des Baux, vicomte de Marseille, partisan de l’empereur et depuis 1230 du comte de Toulouse. Baral avait épousé une nièce de Raymond VII, Sibile d’Anduze&#160;: nous qualiferions Cécile de petite-nièce de Raymond VII. Le qualificatif de sœur ne figurait pas quant à lui au contrat de mariage.">notre épouse</term>, puisque vous vous êtes portés envers nous, pour ledit comte de</l>
+                    <l>Toulouse, garants et principaux [fidéjusseurs], par le serment que vous avez</l>
+                    <l>corporellement prêté, et que vous êtes aussi les exécuteurs du testament dudit comte, et</l>
+                    <l>comme vous nous avez fait savoir par lettre, par les mêmes messagers, que vous nous</l>
+                    <l>enverriez votre bon et certain messager avec réponse pleine et convenable d’ici la dernière</l>
+                    <l><term n="Le 29 septembre. Par sa position dans l’année, la fête constitue un fréquent terme de paiement comme de reddition de compte.">Saint-Michel</term>, ce que vous n’avez pas encore pris le soin de faire, ce dont nous ne nous</l>
+                    <l>étonnons pas peu, pour cela nous nous voyons contraints de vous récrire de nouveau que</l>
+                    <l>vous ayez à sûrement faire en sorte, vous qui êtes tenus envers nous de ladite somme</l>
+                    <l>d’argent par serment de la part dudit comte et aussi pour l’âme dudit seigenur comte qui</l>
+                    <l>y est obligée et tenue envers nous, de nous verser ladite somme d’argent sous peu et en</l>
+                    <l>entier et de ne pas retarder davantage le paiement de cet argent, alors que le terme du</l>
+                    <l>paiement, vous le savez, est déjà bien passé&#160;; car vous ne devez, comme il nous l’apparaît</l>
+                    <l>clairement, aucunement souffrir que l’âme d’un homme aussi illustre que le comte de</l>
+                    <l>Toulouse puisse être liée par un parjure, ni vous-mêmes accusés de parjure pour une si</l>
+                    <l>misérable somme d’argent&#160;; et faites en sorte que cela vous apporte un honneur non</l>
+                    <l>négligeable et à nous aise et profit et que nous vous soyons obligés en de multiples actions</l>
+                    <l>de grâce. Tout ce que vous voudrez faire à ce sujet, récrivez-le nous par le porteur des</l>
+                    <l>présentes. Donné le 7 des ides des mars, indiction 9<hi rend="exposant">e</hi>.</l>
+                </div>
+                <div type="commentaire">
+                    <head>Datation</head>
+                    <p>La lettre est datée du jour et du mois (7 des ides de mars&#160;=&#160;15+1-7&#160;=&#160;9 mars) et, selon un usage qui est très fréquent en Italie, de l’indiction. Comme la lettre est nécessairement comprise entre le décès de Raymond VII (1249) et celui d’Amédée IV (1253), la seule indiction 9<hi rend="exposant">e</hi> située dans ce bref intervalle est celle qui s’ouvre à la fin de l’année 1250. La lettre est donc du 9 mars 1251. Elle est donc postérieure d’un peu plus de cinq mois au terme d’abord fixé au paiement («&#160;la dernière Saint-Michel&#160;» est le 29 septembre 1250).</p>
+                </div>
+                <div type="regeste">
+                    <head>[1251], 9 mars.</head>
+                    <p>Amédée [IV], comte de Savoie, réclame, pour la seconde fois, aux exécuteurs testamentaires du comte de Toulouse [Raimond VII], l’évêque de Toulouse, Raimond Gaucelm seigneur de Lunel et Sicard Alaman, le paiement de la dot de son épouse, nièce et sœur du feu comte, pour qui ils s’étaient portés garants.</p>
+                    <p>Remarque&#160;: le document est publié par A. Teulet, <hi rend="italic">Layettes du Trésor des chartes</hi>, t. III, n° 3923, p. 118. Il est à l’évidence venu au chartrier du roi de France avec le reste du chartrier du comte de Toulouse, qui nous a aussi gardé le contrat de mariage entre Amédée et Cécile (Teulet, t. II, n° 3206, p. 541-542, en date du 22 novembre 1244).</p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                    <p>Le format, la minceur des marges, l’écriture tassée et sans aucun apprêt (à l’exception de l’initiale), voire négligée, désignent un document courant, utilitaire. Pourtant, à première vue, c’est l’image d’un acte qui s’impose, renforcée par le scellement sur double queue de parchemin.</p>
+                        </div>
+                </div>
+                <div n="2">
+                    <head>Langue et style</head>
+                    <div type="contenu_commentaire">
+                        <p>Le texte est écrit dans un latin de bonne qualité. Quelques graphies semblent moins fautives qu’influencées par la prononciation, “innorant” pour “ignorant” (l. 4), “tramittere” pour “transmittere” (l. 7)&#160;; le nominatif “illustris (vir)” (l. 6), pour “illuster” est par contre malheureux.</p>
+                        <p>Très significativement, on retrouve au plan stylistique l’apparente “confusion des genres” qui caractérise la forme du document. Le lexique et les tournures mélangent en effet les aspects fleuris de la <hi rend="color:#e02222">rédaction épistolaire</hi> et la précision de la <hi rend="color:#3022e0">technicité juridique</hi>&#160;:</p>
+                        <p>Reverendo in Christo patri ac domino, Dei providencia episcopo Tholosano, atque viris nobilibus, <hi rend="color:#e02222">amicis suis karissimis</hi>, domino Reymundo Gaucelmi, domino Lunelli, ac domino Sicardo Alamandi, Amedeus, comes Sabaudie et in Italia marchio, <hi rend="color:#e02222">salutem et paratam ad eorum beneplacita et mandata voluntatem</hi>. Cum nos, sicut <hi rend="color:#e02222">vestra benignitas</hi> atque benignitas, ut credimus, non innorant, per religiosum virum, dilectum nostrum priorem de Alta Com<hi rend="color:#e02222">ba</hi>, et per scriptorem nostrum vobis in anno nuper preterito direxerimus scripta nostra, ut nobis per eosdem nuntios tria milia VIIC L libras, quas nobis debebat illustris vir dominus comes Tholosanus bone memorie et quas nobis, tactis Ewangeliis, <hi rend="color:#3022e0">pro dote neptis sue et sororis sue, uxoris nostre, promiserat bona fide efficaciter soluturas</hi>, tramittere curaretis, cum vos pro dicto comite Tholosano nobis <hi rend="color:#3022e0">exstiteritis fidejussores et principales per sacramentum a vobis corporaliter prestitum, et sitis etiam executores ipsius comitis testamenti,</hi> verum nobis per dictos nuntios nostros nobis <hi rend="color:#3022e0">litteratorie intimastis quod vos vestrum bonum ac certum nuntium cum responsione plenaria et decente</hi> infra festum beati Michaelis nuper preteritum ad nostram presenciam mitteretis, quod nondum curavistis facere, de quo non modicum admiramur, quapropter nos, coacti super hoc, <hi rend="color:#3022e0">iterato vobis duximus rescribendum quatinus, sicut nobis in dicta summa pecunie per sacramentum ex parte dicti comitis tenemini et ipsius domini comitis anima obligatur nobis similiter et tenetur</hi>, tractare efficaciter debeatis ut dicta summa pecunie nobis <hi rend="color:#3022e0">in proximo in integrum persolvatur et ne ipsius pecunie solutio amplius decetero differatur</hi>, cum solutionis terminus, sicut scitis, jam diu sit elapsus&#160;; non debetis enimvero, <hi rend="color:#e02222">ut nobis videtur elucide</hi>, pati ullatinus quod tam illustris viri anima, sicut domini comitis Tholosani, <hi rend="color:#e02222">pro tantilla summa pecunie</hi> de perjurio obligetur nec vos valeatis similiter <hi rend="color:#3022e0">de perjurio reprehendi</hi>&#160;; hoc etiam taliter facientes quod <hi rend="color:#e02222">vobis cedat ad honorem non modicum et nobis ad comodum et profectum et ut vobis teneamur ad gratiarum multimodas actiones.</hi> Et quicquid inde facere volueritis nobis per latorem presencium rescribatis. Datum VII° idibus martii, indictione VIIII<hi rend="exposant">a</hi>.</p>
+                        <p>L’alternance des deux registres n’est d’ailleurs pas laissée au hasard, et chacun a sa fonctionnalité et son efficacité&#160;: au registre épistolaire le soin de séduire, par des compliments, des protestations d’amitié ou de respect, des promesses de reconnaissance, le soin aussi d’exprimer les sentiments («&#160;étonnement&#160;» assez convenu), bref le pathos&#160;; au registre juridique, plus nettement dans la partie centrale, démonstrative, la tâche d’argumenter, de poser son bon droit, de menacer aussi, dans un registre d’ailleurs très spirituel (âme, parjure)&#160;: l’affaire est de mariage, de testament, de serment, tous engagements à sanction religieuse.</p>
+                        <p>La rédaction se déroule selon le plan classique minimal de la composition épistolaire&#160;: adresse, suscription (avec des titulatures très diplomatiques et une antéposition de l’adresse qui dit le caractère a priori bienveillant du message), salut&#160;; exposé (<hi rend="italic">Cum</hi>…) narratif et démonstratif&#160;; demande (<hi rend="italic">Quapropter</hi>…)&#160;; protestation finales&#160;; date (pourtant typique, dans sa précision, d’une datation d’acte et non de lettre).</p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>Le scellement et la date tirent le document du côté de l’acte authentique. Le style, le ton, l’organisation du discours révèlent que l’on est face, non à un acte à valeur de titre, mais à une lettre au sens propre&#160;; une lettre qui, de façon très courante, associe à l’écrit des messagers chargés de répéter et amplifier le discours, chargés aussi de négocier.</p>
+                        <p>Mais nos catégories contemporaines sont sans doute trop tranchées, et les frontières sont très perméables, au Moyen Âge central, entre lettre et acte, le meilleur indice étant fourni par la place de l’<hi rend="italic">ars dictaminis</hi> (épistolaire) dans la formation des rédacteurs d’actes et le meilleur exemple par la chancellerie pontificale, qui inonde la Chrétienté de lettres à valeur de titres.</p>
+                        <p>Vu le fond de l’affaire, on peut présumer que le comte de Savoie, par l’allure diplomatique et par la présence de son sceau, aura voulu solenniser sa lettre, voire lui donner un surcroît d’authenticité pour le cas où, le paiement n’intervenant pas, une action devrait être ouverte (la précision de la date sert aussi ce dessein). Mais, plus profondément, ce patchwork diplomatique lui permet de jouer de deux registres, de la séduction et de la menace, de la proximité et de la contrainte.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+    </TEI.2>
+            

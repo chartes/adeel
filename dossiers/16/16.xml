@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lettre de Philippon de Bonnay. [1417], 20 juin.</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">16</idno>
+				<publisher>École nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : Arch. mun. Lyon.</p>
+				<p>Fac-sim. ENC : NF 138 (héliogravure).</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="frm">Ancien français</language>
+				<language id="fre">Français</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+			    <p>
+                                                    <seg rend="11,53,190,71">Treschi<expan>er</expan>s frerez</seg>
+                                                    <seg rend="180,20,323,38"><expan>et</expan> gr<expan>an</expan>s amis.</seg>
+                                                    <seg rend="206,62,651,77">Je me re<expan>com</expan>mens a vo<expan>us</expan> par m<expan>ou</expan>t de foys. </seg>
+                                                    <seg rend="675,69,1027,89">Vo<expan>us</expan> m’esc<expan>ri</expan>svéz q<expan>ue</expan> Endré Chevryer</seg>
+                                                    <seg rend="17,87,503,107">c’est desmys est<expan>re</expan> mon lyeuten<expan>an</expan>t de capp<expan>itay</expan>ne.</seg>
+                                                    <seg rend="519,102,862,116">Il n’a pas fest son devoyr</seg>
+                                                    <seg rend="884,104,1025,120">q<expan>ue</expan> il ne l’a</seg>
+                                                    <seg rend="18,113,129,129">m’a dist,</seg>
+                                                    <seg rend="148,119,553,141"><expan>et</expan> vehu q<expan>ue</expan> il savoyt b<expan>ye</expan>n et de pyessa</seg>	        
+                                                    <seg rend="566,132,1034,148">q<expan>ue</expan> p<expan>ar</expan> la morye je me voloye p<expan>ar</expan>tyr, et</seg>
+                                                    <seg rend="23,147,329,161">a sa requeste <expan>et</expan> de ces amis</seg>
+                                                    <seg rend="342,157,525,171">je l’y avoye mis,</seg>
+                                                    <seg rend="547,162,921,179">quar je n’y cognoyssoye p<expan>er</expan>sso<expan>n</expan>ne</seg>
+                                                    <seg rend="936,166,1050,183">quant je fus</seg>
+                                                    <seg rend="26,178,429,193">cappi<expan>tay</expan>ne, <expan>et</expan> aussit je ne le fys point</seg>
+                                                    <seg rend="435,188,769,204">sens le <expan>con</expan>sseilh de vo<expan>us</expan> aut<expan>re</expan>s </seg>
+                                                    <seg rend="777,187,1060,209">mes segn<expan>eu</expan>rs \du <expan>con</expan>sseilh/ du roy <expan>et</expan> de</seg>
+                                                    <seg rend="18,204,108,218">la vilhe. </seg>
+                                                    <seg rend="124,205,550,225">Sy y vuilhéz aviser en qui le choss<expan>es</expan></seg>
+                                                    <seg rend="572,221,926,235">por le b<expan>ye</expan>n de la ville et sehurté</seg>
+                                                    <seg rend="950,221,1051,242">s<expan>err</expan>a bon</seg>
+                                                    <seg rend="13,234,134,248">de y mest<expan>re</expan></seg>
+                                                    <seg rend="151,237,379,254">quar j’en s<expan>err</expan>é contens.</seg>
+                                                    <seg rend="392,248,830,263"><expan>Et</expan> sur les guagez, soyet poyés</seg>
+                                                    <seg rend="851,250,1059,266">ou que tout soit</seg>
+                                                    <seg rend="9,266,400,280">syen, je vuilh <expan>com</expan>me vo<expan>us</expan> vodréz.</seg>
+                                                    <seg rend="424,277,839,292">Quar vo<expan>us</expan> savéz q<expan>ue</expan> ung estreng<expan>ier</expan></seg>
+                                                    <seg rend="852,283,1080,303">vo<expan>us</expan> ne le soffreryéz</seg>
+                                                    <seg rend="14,297,590,318">point, et aussit je n&#x2019;en sauroye point trov<expan>er</expan>,</seg>
+                                                    <seg rend="600,310,1084,329">se vo<expan>us</expan> mesmez ne le trovéz [quar]</seg>
+                                                    <seg rend="26,327,341,343">et des vost<expan>re</expan>s gens mesmez,</seg>
+                                                    <seg rend="368,333,733,351">quar vo<expan>us</expan> savéz se covoytise</seg>
+                                                    <seg rend="749,340,1069,361">m’y a tenu sy lo<expan>n</expan>guement.</seg>
+                                                    <seg rend="22,356,295,372">De tout f<expan>e</expan>c<expan>t</expan>ez a vost<expan>re</expan> gré,</seg>
+                                                    <seg rend="303,362,464,375">je suys <expan>con</expan>tens,</seg>
+                                                    <seg rend="485,365,897,382">quar je y ay assés mis du myen,</seg>
+                                                    <seg rend="913,378,1045,392"><expan>et</expan> p<expan>ar</expan> le p<expan>rese</expan>nt.</seg>
+                                                    <seg rend="17,388,212,400">Item j’é entendu</seg>
+                                                    <seg rend="228,387,516,404">q<expan>ue</expan> vo<expan>us</expan> avéz recehu l<expan>ett</expan>rez</seg>
+                                                    <seg rend="530,395,776,412">de monss<expan>egneur</expan> le dauphin. </seg>
+                                                    <seg rend="800,404,1077,422">Sy me semble q<expan>ue</expan> il s<expan>err</expan>a</seg>
+                                                    <seg rend="24,417,284,432">b<expan>ye</expan>n fest <expan>et</expan> vost<expan>re</expan> devoyr</seg>
+                                                    <seg rend="297,420,562,438">de les f<expan>er</expan>e plublyer,</seg>
+                                                    <seg rend="572,431,921,450">et q<expan>ue</expan> trop y avez demor<expan>é</expan>,</seg>
+                                                    <seg rend="936,439,1076,455">et vehu q<expan>ue</expan></seg>
+                                                    <seg rend="20,450,355,467">c’est le filz eysné <expan>et</expan> seul</seg>
+                                                    <seg rend="374,457,769,478">du roy n<expan>ost</expan>re soverin segn<expan>eur</expan></seg>
+                                                    <seg rend="780,471,1040,487">et a qui no<expan>us</expan> devons</seg>
+                                                    <seg rend="23,481,275,497">avoyr tous recours</seg>
+                                                    <seg rend="288,483,699,503"><expan>por</expan> le b<expan>ye</expan>n de la chosse plupliq<expan>ue</expan>,</seg>
+                                                    <seg rend="717,498,1080,516">et le plus bryef q<expan>ue</expan> je po<expan>ur</expan>ray</seg>
+                                                    <seg rend="22,512,458,530">je s<expan>err</expan>é p<expan>ar</expan> della p<expan>or</expan> ordonn<expan>er</expan> au surplus</seg>
+                                                    <seg rend="493,521,768,534">ce q<expan>ue</expan> verréz qui f<expan>er</expan>a a f<expan>er</expan>e,</seg>
+                                                    <seg rend="799,526,1064,546">quar j’é aussit \chier/ que me</seg>
+                                                    <seg rend="20,543,590,561">noyés comme de me f<expan>er</expan>e demor<expan>er</expan> en la morye,</seg>
+                                                    <seg rend="599,551,1048,572"><expan>et</expan> vehu q<expan>ue</expan> vo<expan>us</expan> mesmes t<expan>r</expan>estous [en]</seg>
+                                                    <seg rend="24,567,280,584">la dobtéz mout fort.</seg>
+                                                    <seg rend="306,574,769,594">N<expan>ost</expan>ressegneur vo<expan>us</expan> doint bonne vye et lo<expan>n</expan>gue.</seg>
+                                                    <seg rend="787,589,1059,608">Esc<expan>r</expan>ipt a S<expan>aint</expan> Saforin</seg>
+                                                    <seg rend="16,600,380,614">le Chastel, le XXe jour de jui[n]g.</seg>
+                                                    <seg rend="622,635,1086,672">[Signé :] Philippon de Bo<expan>n</expan>nay, balhif de Mascon, senechal de Lyon. </seg>
+			    </p>
+                                              </div>
+			    <div type="transcription">
+			        <div type="texte">
+                                                        <l>Treschi<expan>er</expan>s frerez <expan>et</expan> gr<expan>an</expan>s amis. Je me re<expan>com</expan>mens a vo<expan>us</expan> </l>
+                                                        <l>par m<expan>ou</expan>t* de foys.  [* Cf. mout en toutes lettres à l'avant-dernière ligne.]</l>
+                                                        <l>Vo<expan>us</expan> m’esc<expan>ri</expan>svéz q<expan>ue</expan> Endré Chevryer</l>
+                                                        <l>c’est desmys est<expan>re</expan> mon lyeuten<expan>an</expan>t de capp<expan>itay</expan>ne.</l>
+                                                        <l>Il n’a pas fest son devoyr q<expan>ue</expan> il ne l’a</l>
+                                                        <l>m’a dist, <expan>et</expan> vehu q<expan>ue</expan> il savoyt b<expan>ye</expan>n et de pyessa	</l>        
+                                                        <l>q<expan>ue</expan> p<expan>ar</expan> la morye je me voloye p<expan>ar</expan>tyr, et</l>
+                                                        <l>a sa requeste <expan>et</expan> de ces amis je l’y avoye </l>
+                                                        <l>mis, quar je n’y cognoyssoye p<expan>er</expan>sso<expan>n</expan>ne</l>
+                                                        <l>quant je fus</l>
+                                                        <l>cappi<expan>tay</expan>ne, <expan>et</expan> aussit je ne le fys point</l>
+                                                        <l>sens le <expan>con</expan>sseilh </l>
+                                                        <l>de vo<expan>us</expan> aut<expan>re</expan>s mes segn<expan>eu</expan>rs \du <expan>con</expan>sseilh/ du roy <expan>et</expan> de</l>
+                                                        <l>la vilhe. Sy y vuilhéz aviser en qui le choss<expan>es</expan> por </l>
+                                                        <l>le b<expan>ye</expan>n de la ville et sehurté s<expan>err</expan>a bon</l>
+                                                        <l>de y mest<expan>re</expan> quar j’en s<expan>err</expan>é contens. <expan>Et</expan> </l>
+                                                        <l>sur les guagez, soyet poyés ou que tout soit</l>
+                                                        <l>syen, je vuilh <expan>com</expan>me vo<expan>us</expan> vodréz. Quar </l>
+                                                        <l>vo<expan>us</expan> savéz q<expan>ue</expan> ung estreng<expan>ier</expan> vo<expan>us</expan> ne le soffreryéz</l>
+                                                        <l>point, et aussit je n'en sauroye point trov<expan>er</expan>,</l>
+                                                        <l>se vo<expan>us</expan> mesmez ne le trovéz [quar]</l>
+                                                        <l>et des vost<expan>re</expan>s gens mesmez, quar vo<expan>us</expan> savéz se </l>
+                                                        <l>covoytise m’y a tenu sy lo<expan>n</expan>guement.</l>
+                                                        <l>De tout f<expan>e</expan>c<expan>t</expan>ez a vost<expan>re</expan> gré, je suys <expan>con</expan>tens,</l>
+                                                        <l>quar je y ay assés mis du myen, <expan>et</expan> p<expan>ar</expan> le p<expan>rese</expan>nt.</l>
+                                                        <l>Item j’é entendu q<expan>ue</expan> vo<expan>us</expan> avéz recehu l<expan>ett</expan>rez</l>
+                                                        <l>de monss<expan>egneur</expan> le dauphin. Sy me semble q<expan>ue</expan> il s<expan>err</expan>a</l>
+                                                        <l>b<expan>ye</expan>n fest <expan>et</expan> vost<expan>re</expan> devoyr</l>
+                                                        <l>de les f<expan>er</expan>e plublyer,</l>
+                                                        <l>et q<expan>ue</expan> trop y avez demor<expan>é</expan>, et vehu q<expan>ue</expan></l>
+                                                        <l>c’est le filz eysné <expan>et</expan> seul du roy n<expan>ost</expan>re </l>
+                                                        <l>soverin segn<expan>eur</expan> et a qui no<expan>us</expan> devons</l>
+                                                        <l>avoyr tous recours <expan>por</expan> le b<expan>ye</expan>n de la chosse </l>
+                                                        <l>plupliq<expan>ue</expan>, et le plus bryef q<expan>ue</expan> je po<expan>ur</expan>ray</l>
+                                                        <l>je s<expan>err</expan>é p<expan>ar</expan> della p<expan>or</expan> ordonn<expan>er</expan> au surplus ce q<expan>ue</expan> </l>
+                                                        <l>verréz qui f<expan>er</expan>a a f<expan>er</expan>e, quar j’é aussit \chier/ que me</l>
+                                                        <l>noyés comme de me f<expan>er</expan>e demor<expan>er</expan> en </l>
+                                                        <l>la morye, <expan>et</expan> vehu q<expan>ue</expan> vo<expan>us</expan> mesmes t<expan>r</expan>estous [en]</l>
+                                                        <l>la dobtéz mout fort. N<expan>ost</expan>ressegneur vo<expan>us</expan> </l>
+                                                        <l>doint bonne vye et lo<expan>n</expan>gue. Esc<expan>r</expan>ipt a S<expan>aint</expan> Saforin</l>
+                                                        <l>le Chastel, le XXe jour de jui[n]g.</l>
+                                                        <l>[Signé :] </l>
+                                                        <l>Philippon de Bo<expan>n</expan>nay, balhif de Mascon, senechal </l>
+                                                        <l>de Lyon. </l>
+			        </div>
+			        <div type="traduction">
+			            <l>Très chers frères et grands amis, je me recommande à</l>
+                                                        <l>vous mille fois. Vous m’écrivez qu’André Chevrier,</l>
+                                                        <l>mon lieutenant de capitaine, a démissionné.</l>
+                                                        <l>Il n’a pas fait son devoir en ne me l’ayant</l>
+                                                        <l>pas dit, vu qu’il savait bien et depuis longtemps</l>
+                                                        <l>que, à cause de la mortalité, je voulais partir.</l>
+                                                        <l>C’est à sa requête et celle de ses amis que je l’y avais</l>
+                                                        <l>mis, car je n’y connaissais personne quand je fus</l>
+                                                        <l>fait capitaine, et je ne le fis point non plus sans le conseil</l>
+                                                        <l>de vous autres, messieurs du conseil du roi et de</l>
+                                                        <l>la ville. Aussi, veuillez décider à qui il sera bon que</l>
+                                                        <l>les affaires relatives au bien de la ville et à sa sûreté,</l>
+                                                        <l>soient confiées et je vous donnerai mon accord. Et</l>
+                                                        <l>quant aux gages, qu’il soit payé ou que tout soit</l>
+                                                        <l>de sa poche, je veux ce que vous voudrez. Car</l>
+                                                        <l>vous savez qu’un étranger, vous ne le souffririez</l>
+                                                        <l>point, et je n’en saurais non plus trouver</l>
+                                                        <l>un si vous-mêmes ne le trouvez,</l>
+                                                        <l>et parmi vos gens mêmes : vous savez si c’est</l>
+                                                        <l>mon désir qui m’y a retenu si longuement.</l>
+                                                        <l>Du tout faites a votre gré, je vous donne mon accord,</l>
+                                                        <l>car j’y ai assez dépensé du mien, et maintenant encore.</l>
+                                                        <l>Par ailleurs, j’ai su que vous avez reçu une lettre de</l>
+                                                        <l>monseigneur le dauphin. Aussi me semble-t-il qu’il sera</l>
+                                                        <l>bon et de votre devoir de la faire publier,</l>
+                                                        <l>et que vous avez trop tardé, vu que</l>
+                                                        <l>c’est le fils aîné et unique du roi notre</l>
+                                                        <l>souverain seigneur, et celui à qui nous devons</l>
+                                                        <l>tous avoir recours pour le bien de la chose</l>
+                                                        <l>publique. Et le plus tôt que je pourrai, je</l>
+                                                        <l>serai de retour pour ordonner quant au reste ce que vous</l>
+                                                        <l>verrez qu’il y aura à faire : j’aimerais autant que vous me</l>
+                                                        <l>noyiez plutôt que de me faire rester pendant la</l>
+                                                        <l>mortalité, vu que vous-mêmes, tous sans exception,</l>
+                                                        <l>vous la redoutez grandement. Que Notre-Seigneur vous</l>
+                                                        <l>donne bonne vie et longue. Écrit a Saint-Symphorien-</l>
+                                                        <l>le-Châtel, le 20e jour de juin.</l>
+                                                        <l/>
+                                                        <l>[Signé :]</l>
+                                                        <l>PHILIPPON DE BONNAY, bailli de Mâcon, sénéchal</l>
+                                                        <l>de Lyon.</l>
+			        </div>
+			    </div>
+		</body>
+	</text>
+</TEI>

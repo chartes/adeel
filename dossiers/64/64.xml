@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1340, 9 juin. Acte sous le sceau d'un particulier (Rouergue).</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">64</idno>
+                <publisher>Ecole nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : Bibl. nat. de Fr.</p>
+                <p>Fac-sim. ENC : AF 592 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc/>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="6,9,428,36">Nov<expan>er</expan>int univ<expan>er</expan>si me
+                            Pet<expan>ru</expan>m de Quadro, cl<expan>er</expan>icum,
+                            not<expan>arium</expan> regiu<expan>m</expan>, </seg>
+                    <seg rend="432,6,897,31">h<expan>ab</expan>uisse et integre recepisse ab
+                        honorabili et prudenti viro, d<expan>omi</expan>no</seg>
+                    <seg rend="15,38,426,59">thesaur<expan>ario</expan> regio
+                        Ruthen<expan>ensi</expan>, no<expan>m</expan>i<expan>n</expan>e
+                        d<expan>omi</expan>ni n<expan>ost</expan>ri Franc&#x2019; regis, </seg>
+                    <seg rend="429,36,895,56">octo libr<expan>as</expan> tur<expan>onensium</expan>
+                            p<expan>ar</expan>vor<expan>um</expan>, in quibus idem
+                            d<expan>omi</expan>n<expan>u</expan>s thesaur<expan>arius</expan>,
+                            no<expan>m</expan>i<expan>n</expan>e d<expan>i</expan>c<expan>t</expan>i
+                            d<expan>omi</expan>ni</seg>
+                    <seg rend="15,61,460,80">n<expan>ost</expan>ri regis, m<expan>ih</expan>i
+                        tenebatur p<expan>ro</expan> faciendo duas
+                        informat<expan>i</expan>o<expan>n</expan>es, </seg>
+                    <seg rend="464,57,884,75">una<expan>m</expan> in loco Ville franche et
+                            alia<expan>m</expan> in loco Ville nove,</seg>
+                    <seg rend="8,86,451,106">de et super aquest<expan>is</expan> p<expan>er</expan>
+                            innobil<expan>es</expan> a nobilibus p<expan>er</expan>sonis </seg>
+                    <seg rend="457,78,888,104">et p<expan>er</expan> ecc<expan>lesi</expan>as aut
+                            ecc<expan>lesi</expan>asticas p<expan>er</expan>sonas in temporalibus
+                            aq<expan>u</expan>isit<expan>is</expan> de</seg>
+                    <seg rend="8,108,575,135">mandato disc<expan>re</expan>tor<expan>um</expan>
+                            viror<expan>um</expan> mag<expan>ist</expan>ror<expan>um</expan>
+                            B<expan>ernar</expan>di de B<expan>er</expan>nadone et
+                        B<expan>ernar</expan>di de Ecc<expan>lesi</expan>a, </seg>
+                    <seg rend="577,105,887,126">co<expan>m</expan>issarior<expan>um</expan> in
+                            d<expan>i</expan>c<expan>t</expan>a sen<expan>escallia</expan>
+                            sup<expan>er</expan> f<expan>a</expan>c<expan>t</expan>o
+                            financiar<expan>um</expan></seg>
+                    <seg rend="7,136,414,157">feodor<expan>um</expan> nobiliu<expan>m</expan> et
+                            aquestuu<expan>m</expan> ecc<expan>lesi</expan>ar<expan>um</expan>
+                            deputator<expan>um</expan>
+                    </seg>
+                    <seg rend="419,134,881,153">p<expan>er</expan> magnificu<expan>m</expan> et
+                            poten<expan>tem</expan> viru<expan>m</expan>
+                            d<expan>omi</expan>n<expan>u</expan>m Pet<expan>ru</expan>m de Palude,
+                            mil<expan>item</expan>,</seg>
+                    <seg rend="7,159,337,186">d<expan>omi</expan>n<expan>u</expan>m Varambonis,
+                            sen<expan>escallum</expan> Tholo<expan>s</expan>e et
+                        Albien<expan>sis</expan>, </seg>
+                    <seg rend="342,157,886,184">capitaneu<expan>m</expan> et
+                            gub<expan>er</expan>nator<expan>em</expan> gen<expan>er</expan>alem in
+                            p<expan>ar</expan>tibus occitanis p<expan>er</expan>
+                            d<expan>i</expan>c<expan>tu</expan>m
+                        d<expan>omi</expan>n<expan>u</expan>m</seg>
+                    <seg rend="9,188,443,207">n<expan>ost</expan>r<expan>u</expan>m
+                        reg<expan>em</expan> destinat<expan>um</expan>, et m<expan>ih</expan>i
+                            p<expan>er</expan> d<expan>i</expan>c<expan>t</expan>os
+                        mag<expan>ist</expan>ros [taxat<expan>as</expan>] </seg>
+                    <seg rend="446,186,888,205">r<expan>ati</expan>one dietar<expan>um</expan>
+                            p<expan>er</expan> me in faciendo d<expan>i</expan>c<expan>t</expan>as
+                            informat<expan>i</expan>o<expan>n</expan>es</seg>
+                    <seg rend="7,211,432,231">taxat<expan>as</expan> virtute
+                        quar<expan>um</expan>dam l<expan>itte</expan>rar<expan>um</expan>
+                            d<expan>i</expan>c<expan>t</expan>i d<expan>omi</expan>ni capitanei </seg>
+                    <seg rend="442,207,879,229">in d<expan>i</expan>c<expan>t</expan>a
+                            taxat<expan>i</expan>on<expan>e</expan>
+                        <expan>con</expan>tent<expan>arum</expan>. De quibus octo
+                        libr<expan>is</expan> d<expan>i</expan>c<expan>t</expan>e
+                        mon<expan>ete</expan></seg>
+                    <seg rend="12,235,506,256">ip<expan>su</expan>m
+                        d<expan>omi</expan>n<expan>u</expan>m nost<expan>ru</expan>m
+                        reg<expan>em</expan> et d<expan>i</expan>c<expan>tu</expan>m
+                            th<expan>esaurarium</expan> solvo pe<expan>n</expan>it<expan>us</expan>
+                            atq<expan>ue</expan> quitto. </seg>
+                    <seg rend="510,231,870,250">In cuj<expan>us</expan> rei
+                        testim<expan>onium</expan>, sig<expan>illum</expan> meu<expan>m</expan> hiis
+                            p<expan>re</expan>sent<expan>ibus</expan> lit<expan>er</expan>is</seg>
+                    <seg rend="10,261,364,287">duxi apponend<expan>um</expan>. Dat<expan>um</expan>
+                        apud Vill<expan>am</expan> franch<expan>am</expan>
+                    </seg>
+                    <seg rend="373,256,681,282">die nona junii, anno D<expan>omi</expan>ni M° CCC°
+                        XL°.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Nov<expan>er</expan>int univ<expan>er</expan>si me Pet<expan>ru</expan>m de
+                        Quadro, cl<expan>er</expan>icum, not<expan>arium</expan>
+                        regiu<expan>m</expan>, h<expan>ab</expan>uisse et integre recepisse ab
+                        honorabili et prudenti viro, d<expan>omi</expan>no
+                        thesaur<expan>ario</expan> regio Ruthen<expan>ensi</expan>,
+                            no<expan>m</expan>i<expan>n</expan>e d<expan>omi</expan>ni
+                        n<expan>ost</expan>ri Franc&#x2019; regis, octo libr<expan>as</expan>
+                        <term
+                            n="Les &#34;tournois petits&#34; sont des deniers tournois &#34;tout court&#34;, deniers d&#x2019;origine, ainsi dénommés lorsque l&#x2019;on veut ôter tout rique de confusion avec les doubles tournois et les gros tournois."
+                                >tur<expan>onensium</expan>
+                        p<expan>ar</expan>vor<expan>um</expan></term>, in quibus idem
+                            d<expan>omi</expan>n<expan>u</expan>s thesaur<expan>arius</expan>,
+                            no<expan>m</expan>i<expan>n</expan>e d<expan>i</expan>c<expan>t</expan>i
+                            d<expan>omi</expan>ni n<expan>ost</expan>ri regis, m<expan>ih</expan>i
+                        tenebatur p<expan>ro</expan> faciendo duas
+                        informat<expan>i</expan>o<expan>n</expan>es, una<expan>m</expan> in loco
+                            <term n="Villefranche-de-Rouergue, Aveyron, ch.-l. arr.">Ville
+                        franche</term> et alia<expan>m</expan> in loco <term
+                            n="Villeneuve, Aveyron, ch.-l. cant.">Ville nove</term>, de et super
+                            <term
+                            n="Cette double expression, non encore figée, désigne les taxes perçues par le roi au titre des &#34;francs-fiefs et nouveaux acquêts&#34;, soit (a) des fiefs nobles acquis par des non-nobles, et (b) des biens tombés en mainmorte ecclésiastique. Ces impositions royales étaient présentées comme compensatoires des pertes de (a) service armé, (b) droits de mutation, que (a) le non-noble n&#x2019;allait pas rendre, (b) le propriétaire ecclésiastique institutionnel n&#x2019;aurait plus jamais à verser. Elles étaient levées après de minutieuses enquêtes faites sur les mouvements de patrimoine."
+                                >aquest<expan>is</expan></term> p<expan>er</expan>
+                        innobil<expan>es</expan> a nobilibus p<expan>er</expan>sonis et
+                        p<expan>er</expan> ecc<expan>lesi</expan>as aut
+                        ecc<expan>lesi</expan>asticas p<expan>er</expan>sonas in temporalibus
+                            aq<expan>u</expan>isit<expan>is</expan> de mandato
+                            disc<expan>re</expan>tor<expan>um</expan> viror<expan>um</expan>
+                            mag<expan>ist</expan>ror<expan>um</expan> B<expan>ernar</expan>di de
+                            B<expan>er</expan>nadone et B<expan>ernar</expan>di de
+                        Ecc<expan>lesi</expan>a, co<expan>m</expan>issarior<expan>um</expan> in
+                            d<expan>i</expan>c<expan>t</expan>a sen<expan>escallia</expan>
+                            sup<expan>er</expan> f<expan>a</expan>c<expan>t</expan>o
+                            financiar<expan>um</expan> feodor<expan>um</expan>
+                        nobiliu<expan>m</expan> et aquestuu<expan>m</expan>
+                            ecc<expan>lesi</expan>ar<expan>um</expan> deputator<expan>um</expan>
+                            p<expan>er</expan> magnificu<expan>m</expan> et poten<expan>tem</expan>
+                            viru<expan>m</expan> d<expan>omi</expan>n<expan>u</expan>m <term
+                            n="Pierre de La Palud, seigneur de Varambon (Ain, cant. Pont-d&#x2019;Ain), attesté comme sénéchal de Toulouse et d&#x2019;Albigeois de 1338 à 1342, fut nommé en août 1339 aux fonctions de lieutenant du roi en Languedoc, avec le titre de &#34; capitaine et gouverneur général &#34; ; à compter d&#x2019;août 1340, il exerça cette charge conjointement à d&#x2019;autres délégués du roi (Gallia regia, t. III, n° 13660-13661, et t. V, n° 21389)."
+                                >Pet<expan>ru</expan>m de Palude</term>, mil<expan>item</expan>,
+                            d<expan>omi</expan>n<expan>u</expan>m Varambonis,
+                        sen<expan>escallum</expan> Tholo<expan>s</expan>e et
+                        Albien<expan>sis</expan>, capitaneu<expan>m</expan> et
+                            gub<expan>er</expan>nator<expan>em</expan> gen<expan>er</expan>alem in
+                            p<expan>ar</expan>tibus occitanis p<expan>er</expan>
+                            d<expan>i</expan>c<expan>tu</expan>m
+                        d<expan>omi</expan>n<expan>u</expan>m n<expan>ost</expan>r<expan>u</expan>m
+                            reg<expan>em</expan> destinat<expan>um</expan>, et m<expan>ih</expan>i
+                            p<expan>er</expan> d<expan>i</expan>c<expan>t</expan>os
+                        mag<expan>ist</expan>ros [taxat<expan>as</expan>] r<expan>ati</expan>one
+                            dietar<expan>um</expan> p<expan>er</expan> me in faciendo
+                            d<expan>i</expan>c<expan>t</expan>as
+                        informat<expan>i</expan>o<expan>n</expan>es <term
+                            n="Le mot &#34;taxatas&#34; signifie qu&#x2019;un montant, un taux a été fixé, et en même temps attribué par un supérieur (la famille étymologique a donné en français ausssi bien &#34;taxe&#34; que &#34;taux&#34;)."
+                                >taxat<expan>as</expan></term> virtute quar<expan>um</expan>dam
+                            l<expan>itte</expan>rar<expan>um</expan>
+                        d<expan>i</expan>c<expan>t</expan>i d<expan>omi</expan>ni capitanei in
+                            d<expan>i</expan>c<expan>t</expan>a <term
+                            n="D&#x2019;après le contexte, la &#34;taxatio&#34;semble désigner ici l&#x2019;acte par lequel les commissaires délégués en Rouergue ont fixé le montant dû au notaire, en se référant au taux d&#x2019;indemnité journalière fixé dans un acte du capitaine-gouverneur."
+                                >taxat<expan>i</expan>on<expan>e</expan>
+                        </term><expan>con</expan>tent<expan>arum</expan>. De quibus octo
+                            libr<expan>is</expan> d<expan>i</expan>c<expan>t</expan>e
+                        mon<expan>ete</expan> ip<expan>su</expan>m
+                        d<expan>omi</expan>n<expan>u</expan>m nost<expan>ru</expan>m
+                        reg<expan>em</expan> et d<expan>i</expan>c<expan>tu</expan>m
+                            th<expan>esaurarium</expan> solvo pe<expan>n</expan>it<expan>us</expan>
+                            atq<expan>ue</expan> quitto. In cuj<expan>us</expan> rei
+                            testim<expan>onium</expan>, sig<expan>illum</expan> meu<expan>m</expan>
+                        hiis p<expan>re</expan>sent<expan>ibus</expan> lit<expan>er</expan>is duxi
+                            apponend<expan>um</expan>. Dat<expan>um</expan> apud
+                        Vill<expan>am</expan> franch<expan>am</expan> die nona junii, anno
+                            D<expan>omi</expan>ni M° CCC° XL°. </l>
+                </div>
+                <div type="traduction">
+                    <l>Sachent tous que moi, Peyre de <hi rend="italique">Quadro</hi>, clerc,
+                        notaire royal, ai eu et entièrement reçu d&#x2019;honorable et sage
+                        homme, mon seigneur le trésorier royal de Rouergue, au nom de notre seigneur
+                        le roi de France, huit livres de <term
+                            n="Les &#34;tournois petits&#34; sont des deniers tournois &#34;tout court&#34;, deniers d&#x2019;origine, ainsi dénommés lorsque l&#x2019;on veut ôter tout rique de confusion avec les doubles tournois et les gros tournois."
+                            >petits tournois</term>, en quoi mon seigneur le trésorier, au nom de
+                        notredit seigneur le roi, était tenu envers moi, pour prix de la confection
+                        de deux enquêtes, l&#x2019;une au lieu de <term
+                            n="Villefranche-de-Rouergue, Aveyron, ch.-l. arr.">Villefranche</term>
+                        et l&#x2019;autre au lieu de <term n="Villeneuve, Aveyron, ch.-l. cant."
+                            >Villeneuve</term>, de et sur les <term
+                            n="Cette double expression, non encore figée, désigne les taxes perçues par le roi au titre des &#34;francs-fiefs et nouveaux acquêts&#34;, soit (a) des fiefs nobles acquis par des non-nobles, et (b) des biens tombés en mainmorte ecclésiastique. Ces impositions royales étaient présentées comme compensatoires des pertes de (a) service armé, (b) droits de mutation, que (a) le non-noble n&#x2019;allait pas rendre, (b) le propriétaire ecclésiastique institutionnel n&#x2019;aurait plus jamais à verser. Elles étaient levées après de minutieuses enquêtes faites sur les mouvements de patrimoine."
+                            >acquêts</term> faits par les non-nobles de personnes nobles, et par les
+                        églises et ecclésiastiques en acquêts temporels, sur ordre de discrètes
+                        personnes maîtres Bernard de <hi rend="italique">Bernadone</hi> et Bernard
+                        de <hi rend="italique">Ecclesia</hi>, commissaires en ladite sénéchaussée
+                        [de Rouergue] sur le fait des taxes des fiefs nobles et acquêts
+                        d&#x2019;églises, délégués par magnifique et puissante personne, mon
+                        seigneur <term
+                            n="Pierre de La Palud, seigneur de Varambon (Ain, cant. Pont-d&#x2019;Ain), attesté comme sénéchal de Toulouse et d&#x2019;Albigeois de 1338 à 1342, fut nommé en août 1339 aux fonctions de lieutenant du roi en Languedoc, avec le titre de &#34; capitaine et gouverneur général &#34; ; à compter d&#x2019;août 1340, il exerça cette charge conjointement à d&#x2019;autres délégués du roi (Gallia regia, t. III, n° 13660-13661, et t. V, n° 21389)."
+                            >Pierre de La Palud</term>, chevalier, seigneur de Varambon, sénéchal de
+                        Toulouse et d&#x2019;Albi, capitaine et gouverneur général envoyés dans
+                        les pays d&#x2019;oc par notre seigneur le roi, [ces huit livres] à moi
+                            <term
+                            n="Le mot &#34;taxatas&#34; signifie qu&#x2019;un montant, un taux a été fixé, et en même temps attribué par un supérieur (la famille étymologique a donné en français ausssi bien &#34;taxe&#34; que &#34;taux&#34;)."
+                            >taxées</term> par lesdits maîtres à raison des journées [passées] par
+                        moi à faire lesdites enquêtes, en vertu de certaines lettres dudit seigneur
+                        capitaine contenues dans ladite <term
+                            n="D&#x2019;après le contexte, la &#34;taxatio&#34;semble désigner ici l&#x2019;acte par lequel les commissaires délégués en Rouergue ont fixé le montant dû au notaire, en se référant au taux d&#x2019;indemnité journalière fixé dans un acte du capitaine-gouverneur."
+                            >taxation</term>. Desquelles huit livres de ladite monnaie je délie
+                        absolument et quitte notredit seigneur le roi et ledit trésorier. En témoin
+                        de quoi, j&#x2019;ai fait apposer mon sceau à ces présentes lettres.
+                        Donné à Villefranche, le neuf juin, l&#x2019;an du Seigneur 1340. </l>
+                </div>
+                <div type="commentaires">
+                    <div>
+                        <head>Note sur la transcription :</head>
+                        <p> Un mot rayé par le scribe est reproduit dans le texte latin entre
+                            crochets droits [...]. </p>
+                    </div>
+                </div>
+                <div type="regeste">
+                    <head>1340, 9 juin. - Villefranche[-de-Rouergue].</head>
+                    <p> Peyre de <hi rend="italique">Quadro</hi>, clerc, notaire royal, donne
+                        quittance au trésorier de la sénéchaussée de Rouergue des huit livres
+                        tournois qui lui étaient dues pour la confection de deux enquêtes sur les
+                        francs-fiefs et nouveaux acquêts à Villefranche[-de-Rouergue] et à
+                        Villeneuve, réalisées sur ordre de Bernard de <hi rend="italique"
+                        >Bernadone</hi> et de Bernard de <hi rend="italique">Ecclesia</hi>,
+                        commissaires sur les francs-fiefs et nouveaux acquêts députés dans la
+                        sénéchaussée de Rouergue par Pierre de La Palud, capitaine et gouverneur du
+                        roi en Langue d&#x2019;oc. </p>
+                </div>
+            </div>
+
+
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+
+                <div n="1">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="notification_universelle" rend="color:#0099CC">Noverint
+                                universi <note id="notification_universelle" type="bulle"
+                                    >Notification universelle.</note></seg>
+                            <seg corresp="expose" rend="color:#FF0000">me Petrum de Quadro,
+                                clericum, notarium regium, habuisse et integre recepisse ab
+                                honorabili et prudenti viro, domino thesaurario regio Ruthenensi,
+                                nomine domini nostri Franc' regis, octo libras turonensium parvorum,
+                                in quibus idem dominus thesaurarius, nomine dicti domini nostri
+                                regis, mihi tenebatur pro faciendo duas informationes, unam in loco
+                                Ville franche et aliam in loco Ville nove, de et super aquestis per
+                                innobiles a nobilibus personis et per ecclesias aut ecclesiasticas
+                                personas in temporalibus aquisitis de mandato discretorum virorum
+                                magistrorum Bernardi de Bernadone et Bernardi de Ecclesia,
+                                comissariorum in dicta senescallia super facto financiarum feodorum
+                                nobilium et aquestuum ecclesiarum deputatorum per magnificum et
+                                potentem virum dominum Petrum de Palude, militem, dominum
+                                Varambonis, senescallum Tholose et Albiensis, capitaneum et
+                                gubernatorem generalem in partibus occitanis per dictum dominum
+                                nostrum regem destinatum, et mihi per dictos magistros [taxatas]
+                                ratione dietarum per me in faciendo dictas informationes taxatas
+                                virtute quarumdam litterarum dicti domini capitanei in dicta
+                                taxatione contentarum. <note id="expose" type="bulle">Exposé.</note></seg>
+                            <seg corresp="dispositif" rend="color:#993399">De quibus octo libris
+                                dicte monete ipsum dominum nostrum regem et dictum thesaurarium
+                                solvo penitus atque quitto. <note id="dispositif" type="bulle"
+                                    >Dispositif.</note></seg>
+                            <seg corresp="corroboration" rend="color:#CC9966">In cujus rei
+                                testimonium, sigillum meum hiis presentibus literis duxi apponendum.
+                                    <note id="corroboration" type="bulle">Corroboration probatoire
+                                    avec annonce de sceau.</note></seg>
+                            <seg corresp="date" rend="color:#009966">Datum apud Villam francham die
+                                nona junii, anno Domini M° CCC° XL°.<note id="date" type="bulle"
+                                    >Date de lieu et de temps [Suscription (isolée).]</note></seg>
+                        </p>
+                    </div>
+                </div>
+                <div n="4">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <figure rend="64/faxmini.jpg"/>
+                        </p>
+                        <p>Ce petit acte courant n'appelle ni solennité ni fioritures. Tout comme
+                            son écriture, rapide et sans apprêt, son style dépouillé sent le
+                            praticien, dans sa technicité mais aussi dans la tendance à user de
+                            binômes synonymiques ("de et super", "solvo et quitto"). La précision
+                            est de rigueur, dans l'onomastique, dans les titres, comme dans la
+                            grille (à vrai dire jamais absolue) des qualificatifs qui marquent la
+                            distinction sociale et la hiérarchie : le commissaire a droit à
+                            "discretus vir", le trésorier à "honorabilis et prudens vir", le
+                            capitaine représentant le roi à "magnificus et potens vir".</p>
+                        <p>Le notaire a été choisi pour mener l'enquête en raison de sa culture
+                            juridique, de sa notoriété, de son entregent, de sa connaissance du
+                            terrain et de ce que l'on appellerait aujourd'hui le marché de
+                            l'immobilier ; mais le choix n'était pas obligé, et c'est bien à titre
+                            personnel qu'il a agi. Il est donc logique qu'il délivre à titre
+                            personnel cette quittance, document autenthique exigé après tout
+                            versement d'argent tiré des caisses royales (c'est le comptable qui
+                            reçoit le document avant de le produire en pièce justificative de ses
+                            comptes). Il aurait pu passer devant un autre notaire. Il choisit de
+                            recourir, comme bien d'autres, à son sceau personnel. La diffusion de la
+                            pratique, la place du mot et la disposition du bas de l'acte (dont
+                            l'extrémité inférieure a disparu), et encore la formule « In cujus rei
+                            testimonium » ne laissent en effet aucun doute sur le développement <hi
+                                rend="italic">sig'</hi> en <hi rend="italic">sigillum</hi> (sceau
+                            personnel) et non en <hi rend="italic">signum</hi> (seing manuel). Mais
+                            attention : rien ne permet de dire si l'acte a été matériellement
+                            préparé et écrit par le notaire (ce qui reste probable), ou par les
+                            bureaux du trésorier (ce qui est fréquent).</p>
+                        <p>Dans sa modestie, pour ne pas dire dans sa quasi insignifiance, le
+                            document illustre bien les trésors d'histoire institutionnelle et de
+                            prosopographie (quatre personnes précisément citées, alors que la
+                            mention du trésorier est dépersonnalisée) qui se dévoilent une fois que
+                            de telles pièces ont été exhumées (elles sont issues de la dispersion
+                            des archives de la Chambre des comptes de Paris) et remises en série.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI.2>

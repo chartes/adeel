@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1518, 11 janvier (n.st.). Acte de sénéchaussée (Fontenay-le-Comte). 1518, 11 janvier (n.st.). (Fontenay-le-Comte). Adjudication de conduite de prisonnier (Fontenay-le-Comte). <hi rend="italic">Prisonnier à vendre. Adjudication pour taxe de conduite de prisonnier.</hi>
+        </title>
+        <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet et l'aide de Marc Smith</author>
+        <author/>
+        <respStmt>
+          <resp>document encodé par</resp>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">111</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Archives nationales, K 2379, pièce n<hi rend="exposant">°</hi> 4.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="178,21,833,53">Sur la requeste faicte par Jehan Bouchier le Jeune</seg>
+          <seg rend="839,23,1413,53">sergent royal et ordinaire en la court de ceans</seg>
+          <seg rend="178,58,1022,76">en la presence de maistres Jehan Brisson, substitut de l’advocat du roy,</seg>
+          <seg rend="1027,57,1411,76">Jacques Danyau procur<expan>eur</expan> dud. s<expan>eigneu</expan>r</seg>
+          <seg rend="183,81,679,102">et maistre P<expan>ier</expan>re Mallet, susbstitut dud. p<expan>ro</expan>cur<expan>eur</expan> du roy,</seg>
+          <seg rend="690,83,1413,101">disans que a ce matin en son absence et d’autres plusieurs</seg>
+          <seg rend="174,107,1229,130">sergens ordinaires de lad. court et sans l’avoir fait assavoir par cry publicq ne autrem<expan>en</expan>t,</seg>
+          <seg rend="1237,106,1410,131">on a baillé</seg>
+          <seg rend="180,140,652,156">au rabex a mener a P<expan>ar</expan>is Jehan Legier,</seg>
+          <seg rend="656,136,1405,156">p<expan>ri</expan>sonnier es prisons de la court de ceans, appellant de nous</seg>
+          <seg rend="169,161,653,186">q<expan>ui</expan> auroit esté adjugé a Huguet Petit,</seg>
+          <seg rend="663,161,1411,182">s<expan>er</expan>gent ex<expan>tra</expan>ordinaire et qui n’est bailliager, a <hi rend="small caps">XLVII</hi> livres <hi rend="small caps">X</hi> s. t.</seg>
+          <seg rend="171,191,828,214">A offert et offre ledict Bouchier mener ledict Legier</seg>
+          <seg rend="837,187,1401,210">qui est encores esd. prisons a dix livres moins,</seg>
+          <seg rend="179,220,404,244">a bailler cauction,</seg>
+          <seg rend="413,218,1399,237">requerant y estre receu en ens<expan>uivan</expan>t l’ordonnance et arrest de la court faitz et donn<expan>és</expan></seg>
+          <seg rend="173,250,836,270">le <hi rend="small caps">XXVII</hi><hi rend="exposant">me</hi> jour d’aougst l’an mil cincq cens et dix</seg>
+          <seg rend="844,244,1404,265">et cincquiesme de septembre l’an mil cincq</seg>
+          <seg rend="182,275,739,303">cens dix-sept. Par lequel Petit, a ce p<expan>rese</expan>nt,</seg>
+          <seg rend="746,274,1408,294">a esté dit que l’adjudicacion dud. prisonnier avoit</seg>
+          <seg rend="176,308,1048,334">esté faicte sollemnelleme<expan>n</expan>t en plain auditoire de la court de ceans</seg>
+          <seg rend="1053,299,1396,326">en p<expan>rese</expan>nce des gens du roy</seg>
+          <seg rend="186,339,939,366">et mis au moins offr<expan>ant</expan> et au rabaiz en ens<expan>uivan</expan>t l’ordonnance,</seg>
+          <seg rend="947,337,1398,361">où s’estoient trouvez plusieurs</seg>
+          <seg rend="174,372,644,396">p<expan>er</expan>sonnes qui l’auroient mis a prix.</seg>
+          <seg rend="652,370,1401,393">Et estoit led. Petit demouré ledict derr<expan>nier</expan> encherisseur ; luy</seg>
+          <seg rend="177,403,935,425">avoit esté adjugé a baillé sa cauction d’icell<expan>uy</expan> prisonnier,</seg>
+          <seg rend="944,400,1408,419">mener et conduyre en lad. court</seg>
+          <seg rend="181,430,1088,458">et de ce avoit fait diligence, quis chevaulx et gens pour icelluy conduyre.</seg>
+          <seg rend="1097,424,1402,454">Et estoit prest de monter</seg>
+          <seg rend="181,462,485,489">a cheval et icelluy mener ;</seg>
+          <seg rend="499,462,1406,483">par quoy ne devoit l’adjudication estre rescind<expan>ée</expan> ne adnullee, p<expan>ro</expan>testans</seg>
+          <seg rend="180,493,580,522">a tous despens, dom<expan>m</expan>aiges et int<expan>er</expan>estz</seg>
+          <seg rend="589,487,1401,515">pour l’enpeschement qu’il luy fait de mener ledict prisonnier.</seg>
+          <seg rend="184,527,577,554">Par lesdictz Brisson et Danyau</seg>
+          <seg rend="585,521,1407,546">a esté dit qu’ilz conscentoient que led. Bouchier fust receu a lad.</seg>
+          <seg rend="180,559,1050,582">enchere. Part<expan>ies</expan> oyes, avons receu led. Boucher a lad. enchere.</seg>
+          <seg rend="1058,550,1402,576">Par quoy est demouré</seg>
+          <seg rend="148,589,1009,612">ledict bail a <hi rend="small caps">XXXVII</hi> livres <hi rend="small caps">X</hi> s. ; ledict Petit l’a mis a <hi rend="small caps">XXXV</hi> livres ;</seg>
+          <seg rend="1019,585,1398,607">et led. Bouchier a <hi rend="small caps">XXX</hi> livres.</seg>
+          <seg rend="158,619,848,645">Auquel prix de <hi rend="small caps">XXX</hi> livres l’avons adjugé aud. Bouchier</seg>
+          <seg rend="855,617,1395,638">moienn<expan>ant</expan> ce qu’il nous a p<expan>ro</expan>mis le mener</seg>
+          <seg rend="160,652,1156,677">et conduyre en lad. court de p<expan>ar</expan>lement a P<expan>ar</expan>is et en apporter descharge vallable.</seg>
+          <seg rend="1165,642,1406,667">Et pour seurté</seg>
+          <seg rend="168,683,1161,707">de ce nous a led. Bouchier baillé plege et cauction Jehan Bouchier l’Aisné,</seg>
+          <seg rend="1166,674,1411,701">s<expan>er</expan>g<expan>ent</expan> royal, lequel</seg>
+          <seg rend="186,713,994,744">a ce present s’i est estably et a cauctionné ledict Bouchier le Jeune</seg>
+          <seg rend="1002,711,1405,736">de ladicte adjudicacion et p<expan>ro</expan>messe</seg>
+          <seg rend="177,749,967,778">susdicte p<expan>ar</expan> ce que ledict Bouchier le Jeune l’a p<expan>ro</expan>mis garentir</seg>
+          <seg rend="975,747,1398,772">et desinteresser de tous dom<expan>m</expan>aiges</seg>
+          <seg rend="187,785,858,804">et int<expan>er</expan>estz qu’il pourroit avoir a cause dudict plegeaige,</seg>
+          <seg rend="866,782,1397,802">dont ilz et ch<expan>ac</expan>un d’eulx ont este jugez et</seg>
+          <seg rend="185,809,917,837">condempnez p<expan>ar</expan> le jugement et condempnacion de ladicte court.</seg>
+          <seg rend="920,808,1382,834">Et a tant avons deschargé et</seg>
+          <seg rend="191,843,1235,871">deschargeons ledict Petit et Andry Pinpeau son plege de l’adjudicacion a luy faicte.</seg>
+          <seg rend="1241,840,1397,866">Donné et</seg>
+          <seg rend="179,875,839,899">fait en la court de la senneschaucée de Poictou</seg>
+          <seg rend="847,875,1394,895">tenue a Fontenay le Comte par nous</seg>
+          <seg rend="175,903,803,930">Barnabés Fouschier, licen<expan>cié</expan> en loix, access<expan>eur</expan> en icelle,</seg>
+          <seg rend="811,902,1374,926">le unziesme jour de janvier l’an mil</seg>
+          <seg rend="167,935,478,976">cincq cens dix sept.</seg>
+          <seg rend="224,983,578,1129">B. F<hi rend="small caps">OUCHIER</hi> assess<expan>eur</expan></seg>
+          <seg rend="825,940,1321,1037">J. G<hi rend="small caps">ARNIER</hi> s<expan>er</expan>g<expan>en</expan>t r<expan>oyal</expan>, le greffier absent.</seg>
+          <seg rend="3,635,155,995">H<expan>ab</expan>eat taxa<expan>tio</expan>ne<expan>m</expan> <expan>con</expan>tra p<expan>r</expan>isonariu<expan>m</expan> si h<expan>ab</expan>eat unde, sup<expan>er</expan> quo audia<expan>tur</expan> ad p<expan>ar</expan>tes proc<expan>urat</expan>o<expan>r</expan> reg <expan>is</expan> qui dicit p<expan>r</expan>isonariu<expan>m</expan> h<expan>ab</expan>ere unde, et in defectu<expan>m</expan> <expan>con</expan>tra r<expan>ece</expan>p<expan>to</expan>re<expan>m</expan> reg<expan>is</expan></seg>
+          <seg rend="1045,1213,1376,1245">adjudication pour taxe</seg>
+          <seg rend="1013,1251,1394,1287">de conduite de prisonnier</seg>
+          <seg rend="1020,1292,1356,1323">adjugée au nommé Bouchier</seg>
+          <seg rend="1022,1328,1355,1363">faite en la cour et baillage</seg>
+          <seg rend="1027,1368,1343,1392">de Fontenay a la somme</seg>
+          <seg rend="1047,1398,1329,1441">de xxxv l. 35’’</seg>
+        </p>
+      </div>
+      <div type="transcription">
+        <div type="texte">
+          <p> Sur la requeste faicte par Jehan Bouchier le Jeune <term n="Le sergent est l’officier chargé de l’exécution des décisions de justice. Son rôle se confond  souvent avec celui de l’huissier. Le sergent ordinaire (ou bailliager), détenteur d’un office, est  attaché au bailliage dans le ressort duquel il exerce. Le sergent extraordinaire n’y exerce qu’à  titre exceptionnel et ponctuel par." >sergent royal et ordinaire</term> en la court de ceans <lb/> en la presence de maistres <term n="Jean Brisson est substitut de l’avocat du roi depuis au moins 1511 (Gallia Regia, t. IV, p. 505,  n°17763). Il est le père du médecin Pierre Brisson cité par le juriste André Tiraqueau dans son  De nobilitate." >Jehan Brisson</term>, substitut de l’advocat du roy, <term n="Les lettres de provisions de Jacques Danyau comme procureur du roi sont datées du 18  décembre 1516. Il reste en activité jusque vers 1526 (Gallia Regia, IV, p. 502-503 n°17745 et  Catalogue des actes de François Ier, n°16 282)." >Jacques Danyau</term>
+            <lb/>procureur dud. seigneur et maistre Pierre Mallet, susbstitut dud. procureur du roy, disans que a ce <lb/> matin en son absence et d’autres plusieurs sergens ordinaires de lad. court et sans l’avoir fait <lb/> assavoir par cry publicq ne autrement, on a baillé au rabex a mener a Paris Jehan Legier, prisonnier <lb/> es prisons de la court de ceans, appellant de nous qui auroit esté adjugé a Huguet Petit, <term n="Le sergent est l’officier chargé de l’exécution des décisions de justice. Son rôle se confond souvent  avec celui de l’huissier. Le sergent ordinaire (ou bailliager), détenteur d’un office, est attaché au bailliage  dans le ressort duquel il exerce. Le sergent extraordinaire n’y exerce qu’à titre exceptionnel et ponctuel  par." >sergent <lb/> extraordinaire</term> et qui n’est <term n="Baillager : qui appartient au bailliage">bailliager</term>, a <hi rend="small caps">XLVII</hi> livres <hi rend="small caps">X</hi> s. t. A offert et offre ledict Bouchier mener <lb/> ledict Legier qui est encores esd. prisons a dix livres moins, a bailler cauction, requerant y estre <lb/> receu en ensuivant l’ordonnance et arrest de la court faitz et donnés le <hi rend="small caps">XXVII</hi>
+            <hi rend="exposant">me</hi> jour d’aougst l’an <lb/> mil cincq cens et dix et cincquiesme de septembre l’an mil cincq cens-dix-sept. Par lequel Petit, a <lb/> ce present, a esté dit que l’adjudicacion dud. prisonnier avoit esté faicte sollemnellement en plain <lb/> auditoire de la court de ceans en presence des gens du roy et mis au moins offrant et au rabaiz en <lb/> ensuivant l’ordonnance, où s’estoient trouvez plusieurs personnes qui l’auroient mis a prix. Et <lb/> estoit led. Petit demouré ledict derrnier encherisseur ; luy avoit esté adjugé a baillé sa cauction <lb/> d’icelluy prisonnier, mener et conduyre en lad. court et de ce avoit fait diligence,
+            <term n="Quis : particpe passé du verbe quérir ">quis</term> chevaulx et
+            <lb/><!-- Cf. transcription ligne à ligne : c'est cette note qui y est déjà indiquée.  --> gens pour icelluy conduyre. Et estoit prest de monter a cheval et icelluy mener ; par quoy ne devoit <lb/> l’adjudication estre <term n="Rescinder : casser une décision de justice.">rescindée</term> ne adnullee, protestans a tous despens, dommaiges et interestz pour <lb/> l’enpeschement qu’il luy fait de mener ledict prisonnier. Par lesdictz Brisson et Danyau a esté dit <lb/> qu’ilz conscentoient que led. Bouchier fust receu a lad. enchere. Parties oyes, avons receu led. <lb/> Boucher a lad. enchere. Par quoy est demouré ledict bail a <hi rend="small caps" >XXXVII</hi> livres <hi rend="small caps">X</hi> s. ; ledict Petit l’a mis a <lb/>
+            <hi rend="small caps">XXXV</hi> livres ; et led. Bouchier a <hi rend="small caps">XXX</hi> livres. Auquel prix de <hi rend="small caps" >XXX</hi> livres l’avons adjugé aud. <lb/> Bouchier moiennant ce qu’il nous a promis le mener et conduyre en lad. court de parlement a Paris <lb/> et en apporter descharge vallable. Et pour seurté de ce nous a led. Bouchier baillé <term n="Plege : celui qui se porte garant.">plege</term> et cauction
+            <lb/> Jehan Bouchier l’Aisné, sergent royal, lequel a ce present s’i est estably et a cauctionné ledict <lb/> Bouchier le Jeune de ladicte adjudicacion et promesse susdicte par ce que ledict Bouchier le Jeune <lb/> l’a promis garentir et desinteresser de tous dommaiges et interestz qu’il pourroit avoir a cause <lb/> dudict plegeaige, dont ilz et chacun d’eulx ont este jugez et condempnez par le jugement et <lb/> condempnacion de ladicte court. Et a tant avons deschargé et deschargeons ledict Petit et Andry <lb/> Pinpeau son plege de l’adjudicacion a luy faicte. Donné et fait en la court de la senneschaucée de <lb/> Poictou tenue a Fontenay le Comte par nous
+            <term n="Barnabé Foucher est lieutenant particulier ou assesseur du sénéchal de Poitou au siège de  Fontenay le Comte de 1511 à 1526 au moins (Gallia Regia, t IV,p.498 n°17715)." >Barnabés Fouschier</term>, licencié en loix, accesseur en
+            <lb/><!-- la note sur "accesseur" fait défaut en dépit de la présence d'un appel en gras dans le fichier Word--> icelle, le unziesme jour de janvier l’an mil cincq cens dix sept.<lb/> B. F<hi rend="small caps">OUCHIER</hi> assesseur <lb/> J. G<hi rend="small caps">ARNIER</hi> sergent royal, le greffier absent. </p>
+          <p>
+            <add place="verso">adjudication pour taxe de conduite de prisonnier adjugée au nommé Bouchier faite en la cour et baillage de Fontenay a la somme de xxxv l 35’’</add>
+          </p>
+        </div>
+        <div type="regeste">
+          <head>1518, 11 janvier (n. st.) — Fontenay-le-Comte</head>
+          <p> À la demande de Jean Boucher le Jeune, sergent ordinaire du bailliage, le conseil de bailliage de Poitou séant à Fontenay-le-Comte casse l’adjudication d’un bail de conduite à Paris de Jean Leger, prisonnier et condamné appelant de sa sentence auprès du Parlement, remportée le matin même par Huguet Petit, sergent extraordinaire. Il réorganise des enchères au moins-disant que le plaignant remporte, au prix de 30 livres tournois. </p>
+        </div>
+      </div>
+      <div type="commentaire" subtype="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div n="1">
+          <head>Parties du discours</head>
+          <div type="contenu_commentaire">
+            <p>
+              <seg corresp="exposé" rend="color:#01def8">Sur la requeste faicte par Jehan Bouchier le Jeune sergent royal et ordinaire en la court de ceans en la presence de maistres Jehan Brisson, substitut de l’advocat du roy, Jacques Danyau procureur dud. seigneur et maistre Pierre Mallet, susbstitut dud. procureur du roy, disans que a ce matin en son absence et d’autres plusieurs sergens ordinaires de lad. court et sans l’avoir fait assavoir par cry publicq ne autrement, on a baillé au rabex a mener a Paris Jehan Legier, prisonnier es prisons de la court de ceans, appellant de nous qui auroit esté adjugé a Huguet Petit, sergent extraordinaire et qui n’est bailliager, a <hi rend="small caps">XLVII</hi> livres <hi rend="small caps">X</hi> s. t. A offert et offre ledict Bouchier mener ledict Legier qui est encores esd. prisons a dix livres moins, a bailler cauction, requerant y estre receu en ensuivant l’ordonnance et arrest de la court faitz et donnés le <hi rend="small caps">XXVII</hi><hi rend="exposant">me</hi> jour d’aougst l’an mil cincq cens et dix et cincquiesme de septembre l’an mil cincq cens-dix-sept. Par lequel Petit, a ce present, a esté dit que l’adjudicacion dud. prisonnier avoit esté faicte sollemnellement en plain auditoire de la court de ceans en presence des gens du roy et mis au moins offrant et au rabaiz en ensuivant l’ordonnance, où s’estoient trouvez plusieurs personnes qui l’auroient mis a prix. Et estoit led. Petit demouré ledict derrnier encherisseur ; luy avoit esté adjugé a baillé sa cauction d’icelluy prisonnier, mener et conduyre en lad. court et de ce avoit fait diligence, quis chevaulx et gens pour icelluy conduyre. Et estoit prest de monter a cheval et icelluy mener ; par quoy ne devoit l’adjudication estre rescindée ne adnullee, protestans a tous despens, dommaiges et interestz pour l’enpeschement qu’il luy fait de mener ledict prisonnier. Par lesdictz Brisson et Danyau a esté dit qu’ilz conscentoient que led. Bouchier fust receu a lad. enchere. <note xml:id="exposé" type="bulle">Exposé</note></seg>
+              <seg corresp="dispositif" rend="color:#f808c8">Parties oyes, avons receu led. Boucher a lad. enchere. Par quoy est demouré ledict bail a <hi rend="small caps">XXXVII</hi> livres <hi rend="small caps" >X</hi> s. ; ledict Petit l’a mis a <hi rend="small caps">XXXV</hi> livres ; et led. Bouchier a <hi rend="small caps">XXX</hi> livres. Auquel prix de <hi rend="small caps">XXX</hi> livres l’avons adjugé aud. Bouchier moiennant ce qu’il nous a promis le mener et conduyre en lad. court de parlement a Paris et en apporter descharge vallable. Et pour seurté de ce nous a led. Bouchier baillé plege et cauction Jehan Bouchier l’Aisné, sergent royal, lequel a ce present s’i est estably et a cauctionné ledict Bouchier le Jeune de ladicte adjudicacion et promesse susdicte par ce que ledict Bouchier le Jeune l’a promis garentir et desinteresser de tous dommaiges et interestz qu’il pourroit avoir a cause dudict plegeaige, dont ilz et chacun d’eulx ont este jugez et condempnez par le jugement et condempnacion de ladicte court. Et a tant avons deschargé et deschargeons ledict Petit et Andry Pinpeau son plege de l’adjudicacion a luy faicte.<note xml:id="dispositif" type="bulle" >Dispositif</note></seg>
+              <seg corresp="date_1" rend="color:#01def8">Fait à Paris le <hi rend="samll caps">XXV</hi><hi rend="exposant">e</hi> jour de septembre mil <hi rend="small caps">V<hi rend="exposant">C</hi></hi> quatre vingtz dix-sept.<note xml:id="date_1" type="bulle">Date de lieu</note></seg>
+              <seg corresp="suscription" rend="color:#0099CC">par nous Barnabés Fouschier, licencié en loix, accesseur en icelle,<note xml:id="suscription" type="bulle">Suscription</note>></seg>
+              <seg corresp="date_2" rend="color:#01def8">le unziesme jour de janvier l’an mil cincq cens dix sept.<note xml:id="date_2" type="bulle">Date de ltemps</note></seg>
+              <seg corresp="signatures" rend="color:#0099CC">B. F<hi rend="small caps" >OUCHIER</hi> assesseur<lb/> J. G<hi rend="small caps" >ARNIER</hi> sergent royal, le greffier absent. <note xml:id="signatures" type="bulle">Signatures</note></seg>
+            </p>
+          </div>
+        </div>
+        <div n="2">
+          <head>Interprétation</head>
+          <div type="contenu_commentaire">
+            <p> L’acte est l’expédition d’un jugement de l’assesseur de la sénéchaussée de Poitou, remplaçant du lieutenant général du sénéchal de Poitou au siège de Fontenay-le-Comte et chef du tribunal, en présence du procureur du roi, auquel il revient d’annoncer les enchères, et de l’avocat du roi, car la tutelle des prisons est de leur ressort conjoint. L’acte, dont la minute n’a pas été conservée — les archives de cette cour sont perdues aux Archives départementales de Vendée — est signé du seul assesseur et d’un second personnage qui a rédigé l’expédition au nom du greffier, absent à ce moment-là, et était jadis scellé sur simple queue de parchemin. </p>
+            <p> Le dispositif juridique est en réalité double. Une première adjudication est d’abord cassée à la requête d’un des sergents pour vice de procédure, en l’occurrence l’absence d’annonce officielle de l’enchère (le cri public). Le second argument du plaignant relatif à la qualité de non «bailliager» du premier adjudicataire ainsi qu’à son statut d’extraordinaire ne semble en revanche pas très pertinent. Le même Huguet Petit participe en effet peu après à d’autres enchères de prisonniers (Arch. nat, K 2379, pièce n<hi rend="exposant">°</hi> 6, 12 avril 1518). Mais il s’explique par l’importance de la ressource financière que représente le tribunal pour les sergents du lieu qui cherchent à s’en réserver l’exploitation. </p>
+            <p> La deuxième étape est celle des enchères au moins-disant, remportées par le plaignant. L’adjudicataire présente une caution (ici un autre sergent) et ramènera après son voyage une preuve écrite du dépôt des prisonniers à la conciergerie du Palais. L’expédition du jugement d’adjudication lui sert sans doute de passeport pour circuler avec un prisonnier et attester de sa bonne foi auprès du Parlement : il explique sa présence dans des fonds d’archives parisiens. Le prix de son adjudication lui sera payé à son retour par le receveur général de Poitou qui se retournera alors éventuellement contre le prisonnier si ce dernier est solvable. En avril suivant, un des commis du financier participe d’ailleurs au conseil de bailliage (Arch. nat., K 2379, pièce n<hi rend="exposant">°</hi> 6, 12 avril 1518 : «Jehan Gallier commis de maistre Jehan Jannyn receveur ordinaire en Poictou»). </p>
+          </div>
+        </div>
+        <div n="3">
+          <head>Bibliographie</head>
+          <div type="contenu_commentaire">
+            <listBibl>
+              <bibl>
+                <author>B<hi rend="small caps">REJON</hi> (Jacques)</author>, <title level="m">André Tiraqueau (1488-1558)</title>,
+                <pubPlace>Paris</pubPlace>, <publisher>Sirey</publisher>, <date when-iso="1937">1937</date>, <biblScope type="pp">407 p</biblScope>. </bibl>
+              <bibl>
+                <author>D<hi rend="small caps">UPONT</hi>-F<hi rend="small caps" >ERRIER</hi> (Gustave)</author>, <title level="m">Les officiers royaux des baillages et sénéchaussées et les institutions monarchiques locales en France à la fin du moyen-âge</title>, <pubPlace>Paris</pubPlace>, <publisher>lib. Emile Bouillon</publisher>, <date when-iso="1902">1902</date>,
+                <biblScope type="pp">p. 422-423</biblScope>. </bibl>
+              <bibl>
+                <author>D<hi rend="small caps">UPONT</hi>-F<hi rend="small caps" >ERRIER</hi> (Gustave)</author>, <title level="m">Gallia regia ou état des officiers royaux des bailliages et des sénéchaussées de 1328 à 1515</title>,
+                <pubPlace>Paris</pubPlace>, <publisher>Imprimerie nationale</publisher>, <biblScope type="vol">t. IV</biblScope>,
+                <date when-iso="1954">1954</date>, <biblScope type="pp">p. 502-503</biblScope>. </bibl>
+              <bibl>
+                <author>I<hi rend="small caps">MBERT</hi> (Jean)</author>, <title level="m">La practique judiciaire civile et criminelle receüe et observée par tout le royaume de France, composée par M. Jean Imbert, lieutenant criminel au siège royal de Fontenay-le-Comte</title>,<!-- "Compte" n'est pas en italique mais fait partie du titre : je rétablis -->
+                <pubPlace>Paris</pubPlace>, <publisher>Louis Feugé</publisher>,
+                <date when-iso="1627">1627 (éd. originale latine 1541)</date>.
+              </bibl>
+            </listBibl>
+          </div>
+        </div>
+      </div>
+      <div type="commentaire" subtype="history">
+        <head>Commentaire historique.</head>
+        <div n="1">
+          <div type="contenu_commentaire">
+            <p> La gestion des prisons des différents tribunaux est souvent confiée à un fermier qui les prend à bail. La conduite des prisonniers constitue un cas particulier de ce système plus général. L’acte comporte une adjudication aux enchères descendantes de l’escorte d’un condamné par le siège de Fontenay-le-Comte qui a appelé de son jugement devant le parlement de Paris. On retrouvera plus tard ce système appliqué à la gestion des chaînes de galériens et forçats par exemple. L’adjudicataire, normalement un sergent, est chargé de convoyer le prévenu sous bonne garde, avec les pièces du procès, et de le nourrir jusqu’à Paris. Ces frais de route et de garde incombent normalement aux condamnés eux-mêmes, mais le roi peut aussi les supporter si les appelants n’en ont pas les moyens. Cette procédure ne semble d’ailleurs usitée que si l’action contre les accusés a été intentée au nom de l’intérêt public par le procureur du roi. </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

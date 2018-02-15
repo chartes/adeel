@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- <?oxygen RNGSchema="../schema/tei_ms.rng" type="xml"?> --> 
+
+<!-- <?xml-stylesheet type="text/xsl" href="TEI2HTML.xsl"?> -->
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1177-1189. Acte royal (Angleterre)</title>
+                <author>Guyotjeannin, Olivier (professeur à l'Ecole nationale des Chartes)</author>
+                <author>Carpentier, Valérie (élève à l'Ecole nationale des Chartes)</author>
+                <respStmt>
+                    <resp>document encodé par</resp>
+                    <name>Clavaud, Florence (directrice des nouvelles technologies et de l'informatique)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">83</idno>
+                <publisher>Ecole nationale des chartes</publisher>
+                <date value="2007-10">octobre 2007</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Fac-sim. ENC : NF 285 (héliogravure).</p>
+                <p>Original conservé à la British Library (Londres). </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="lat"/>
+                <language ident="frm"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="68,68,68,99,142,103,252,102,451,105,454,68" n="poly">H<expan>enricus</expan>, D<expan>e</expan>i gr<expan>ati</expan>a
+                        rex Angl<expan>orum</expan>
+                        <expan>et</expan> dux Norm<expan>annorum</expan>
+                        <expan>et</expan> Aquit<expan>anorum</expan></seg>
+                    <seg n="poly" rend="459,72,459,106,617,110,744,114,746,76,584,71"><expan>e</expan>t com<expan>es</expan>
+                        And<expan>egavorum</expan>, archiep<expan>iscop</expan>is, ep<expan>iscop</expan>is, abb<expan>at</expan>ib<expan>us</expan>,</seg>
+                    <seg n="poly" rend="65,106,65,138,208,141,360,142,504,143,504,112,365,108">comitib<expan>us</expan>, baron<expan>ibus</expan>,
+                            justic<expan>iis</expan>, vicec<expan>omitibus</expan>, seneschall<expan>is</expan>, prepositis</seg>
+                    <seg n="poly" rend="511,117,507,116,508,141,576,142,703,149,739,147,740,121,603,113,507,113,509,111,508,115"><expan>et</expan>
+                            om<expan>n</expan>ib<expan>us</expan> baillivis <expan>et</expan> fidelib<expan>us</expan> suis</seg>
+                    <seg n="poly" rend="65,145,65,171,154,176,260,174,449,179,448,147">toti<expan>us</expan> t<expan>er</expan>re sue,
+                            sal<expan>u</expan>t<expan>em</expan>. Sciatis me dedisse in lib<expan>er</expan>a<expan>m</expan></seg>
+                    <seg n="poly" rend="455,152,457,179,568,181,736,185,735,152,584,148,455,147"><expan>et</expan>
+                        p<expan>er</expan>petua<expan>m</expan> elemosina<expan>m</expan>
+                        <expan>et</expan> p<expan>re</expan>senti carta</seg>
+                    <seg n="poly" rend="62,180,61,209,179,210,300,211,418,211,419,183,275,180,63,180">mea confirmasse Deo <expan>et</expan> abbatie de
+                        Oratorio</seg>
+                    <seg n="poly" rend="424,185,423,209,574,213,734,216,734,188,513,184,424,182">locu<expan>m</expan> de Baugezeis cu<expan>m</expan>
+                            p<expan>er</expan>tinentiis suis</seg>
+                    <seg n="poly" rend="57,217,57,243,177,247,398,250,402,217,219,216,57,212">ad construend<expan>um</expan> ibi
+                            abb<expan>at</expan>ia<expan>m</expan> ordinis Cisterc<expan>iensis</expan>,</seg>
+                    <seg n="poly" rend="404,221,403,249,538,247,737,253,737,220,527,217,409,217"><expan>et</expan> om<expan>ne</expan>s alias
+                            donatio<expan>n</expan>es q<expan>ue</expan> ratio<expan>n</expan>abilit<expan>er</expan> facte</seg>
+                    <seg n="poly" rend="52,251,52,285,170,286,374,289,374,255">sunt v<expan>e</expan>l fient ipsi loco de Baugezeis.</seg>
+                    <seg n="poly" rend="382,259,383,286,491,288,634,291,744,288,742,256,513,254,384,255,382,256">Quare volo <expan>et</expan>
+                            firmit<expan>er</expan> p<expan>re</expan>cipio q<expan>uo</expan>d p<expan>re</expan>dicta abb<expan>at</expan>ia</seg>
+                    <seg n="poly" rend="43,289,44,315,200,322,301,323,402,324,403,294">de Oratorio <expan>et</expan> eade<expan>m</expan>
+                        abb<expan>at</expan>ia de Baugezeis</seg>
+                    <seg n="poly" rend="409,295,411,323,537,324,663,328,747,331,751,295,407,292">locu<expan>m</expan>
+                        p<expan>re</expan>dictu<expan>m</expan> cu<expan>m</expan> o<expan>mn</expan>ib<expan>us</expan> p<expan>er</expan>tinentiis
+                        suis <expan>et</expan> om<expan>ne</expan>s</seg>
+                    <seg n="poly" rend="42,322,41,354,181,362,412,363,414,329">alias donationes q<expan>ue</expan> v<expan>e</expan>l eis
+                            r<expan>ati</expan>o<expan>n</expan>abilit<expan>er</expan> facte sunt</seg>
+                    <seg n="poly" rend="421,333,419,363,557,365,748,370,751,334,500,329,420,327">v<expan>e</expan>l fient <expan>et</expan>
+                            om<expan>ne</expan>s r<expan>ati</expan>o<expan>n</expan>abiles
+                        p<expan>er</expan>q<expan>u</expan>isitio<expan>n</expan>es suas</seg>
+                    <seg n="poly" rend="39,362,39,394,265,405,404,399,404,370">habeant <expan>et</expan> teneant b<expan>e</expan>n<expan>e</expan>
+                        <expan>et</expan> i<expan>n</expan> pace, lib<expan>er</expan>e <expan>et</expan> q<expan>u</expan>iete,</seg>
+                    <seg n="poly" rend="408,372,406,405,562,405,748,411,748,377,552,372">integre <expan>et</expan> plenarie <expan>et</expan>
+                        honorifice, in bosco</seg>
+                    <seg n="poly" rend="35,399,35,431,167,438,330,441,412,442,409,410,252,408"><expan>et</expan> plano, i<expan>n</expan> pratis
+                            <expan>et</expan> pascuis, i<expan>n</expan> aq<expan>u</expan>is <expan>et</expan> molendin<expan>is</expan>,</seg>
+                    <seg n="poly" rend="414,414,416,447,598,445,744,450,742,413,517,411">i<expan>n</expan> vivariis <expan>et</expan> stagnis
+                            <expan>et</expan> piscariis, i<expan>n</expan> viis <expan>et</expan></seg>
+                    <seg n="poly" rend="36,440,36,470,140,475,344,480,509,483,507,449">semitis <expan>et</expan> i<expan>n</expan>
+                            o<expan>mn</expan>ib<expan>us</expan> aliis locis <expan>et</expan> aliis reb<expan>us</expan> ad eas
+                            p<expan>er</expan>tinentib<expan>us</expan>,</seg>
+                    <seg n="poly" rend="513,451,512,484,630,484,748,488,743,454,612,449"><expan>et</expan> cu<expan>m</expan>
+                            o<expan>mn</expan>ib<expan>us</expan> lib<expan>er</expan>tatib<expan>us</expan>
+                        <expan>et</expan> liberis</seg>
+                    <seg n="poly" rend="36,476,35,505,194,513,321,518,423,516,420,487">consuetudinib<expan>us</expan> suis. Concedo
+                        etia<expan>m</expan> ut monachi</seg>
+                    <seg n="poly" rend="428,487,429,520,532,521,612,524,743,527,744,491,744,490">Deo servientes i<expan>n</expan>
+                        abb<expan>at</expan>ia de Baugezeis</seg>
+                    <seg n="poly" rend="32,512,32,543,198,556,412,561,409,523">q<expan>u</expan>ieti sint <expan>et</expan> firma<expan>m</expan>
+                            pace<expan>m</expan> h<expan>abe</expan>ant p<expan>er</expan> tota<expan>m</expan> t<expan>er</expan>ra<expan>m</expan>
+                            mea<expan>m</expan></seg>
+                    <seg n="poly" rend="414,526,416,561,748,572,753,534,532,526">de theloneo <expan>et</expan> passagio <expan>et</expan>
+                        o<expan>mn</expan>i consuetudine</seg>
+                    <seg n="poly" rend="34,552,33,583,165,589,358,596,362,567,174,559">ad me p<expan>er</expan>tinente de
+                            om<expan>n</expan>ib<expan>us</expan> p<expan>ro</expan>priis reb<expan>us</expan> suis</seg>
+                    <seg n="poly" rend="367,569,363,595,642,605,747,609,747,576,447,567,367,566"><expan>et</expan> de pannagio
+                            p<expan>ro</expan>prior<expan>um</expan> porcor<expan>um</expan> suor<expan>um</expan> in boscis <expan>et</expan></seg>
+                    <seg n="poly" rend="28,590,29,628,158,637,301,643,421,637,420,603,171,595,60,590">forestis meis. T<expan>estibus</expan>
+                            Gaufr<expan>ido</expan> Dure p<expan>r</expan>iore de Loch<expan>iis</expan>,</seg>
+                    <seg n="poly" rend="424,607,425,636,627,644,736,645,733,610,520,605">Will<expan>elm</expan>o abb<expan>at</expan>e de
+                            Daurat<expan>a</expan>, fr<expan>atr</expan>e Rog<expan>er</expan>o</seg>
+                    <seg n="poly" rend="31,638,28,671,227,680,349,683,502,686,505,652,458,641,379,650">elemosinar<expan>io</expan> meo,
+                        Steph<expan>an</expan>o de Turon<expan>is</expan> senesch<expan>allo</expan> Andeg<expan>avensi</expan>,</seg>
+                    <seg n="poly" rend="508,652,507,688,732,688,736,652,565,646">Will<expan>elm</expan>o de Ostilli, Herveio</seg>
+                    <seg n="poly" rend="25,678,26,714,218,723,335,722,330,686">de Muntbasun p<expan>re</expan>po<expan>s</expan>ito de
+                        Loch<expan>iis</expan>.</seg>
+                    <seg n="poly" rend="340,692,339,722,634,723,624,693,427,691,340,689">Ap<expan>u</expan>d Bellu<expan>m</expan>
+                        locu<expan>m</expan> juxta Loch<expan>ias</expan>.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l><term n="Henri II Plantagenêt (mort en 1189), comte d’Anjou et duc de Normandie par son père Geoffroy V Plantagenêt (mort en
+                            1151), duc d’Aquitaine en 1152 par son mariage avec Aliénor, fille de Guillaume X d’Aquitaine, et roi d’Angleterre en
+                            1154.">Henricus</term>, Dei gratia rex Anglorum et dux Normannorum et Aquitanorum et comes</l>
+                    <l>Andegavorum, archiepiscopis, episcopis, abbatibus, comitibus, baronibus, justiciis,</l>
+                    <l>vicecomitibus, seneschallis, prepositis et omnibus baillivis et fidelibus suis totius terre sue,</l>
+                    <l>salutem. Sciatis me dedisse in liberam et perpetuam elemosinam et presenti carta mea</l>
+                    <l>confirmasse Deo et abbatie de <term n="Le Loroux (Maine-et-Loire, cant. Longué-Jumelles, comm. Vernantes, 18 km de Saumur),
+                            abbaye cistercienne fondée en 1121 par le comte d’Anjou Foulque V.">Oratorio</term>
+                        <term n="Locus désigne tout type de maison religieuse, avec une connotation de simplicité, voire de modestie, d’absence
+                            d’institutionnalité. Repris par les cisterciens, le « lieu » devient « abbaye ».">locum</term> de <term xml:lang="frm"
+                            n="Beaugerais (Indre-et-Loire, cant. Montrésor, comm. Loché-sur-Indrois), à une quinzaine de km de Tours. Le site était
+                            occupé depuis quelque temps par un ermitage (d’où le terme de locus et la mention de biens déjà donnés) officiellement
+                            attesté dès 1153.">Baugezeis</term> cum pertinentiis suis, ad</l>
+                    <l>construendum ibi abbatiam ordinis cisterciensis, et omnes alias donationes que</l>
+                    <l>rationabiliter facte sunt vel fient ipsi loco de <foreign xml:lang="frm">Baugezeis</foreign>. Quare volo et firmiter precipio</l>
+                    <l>quod predicta abbatia de Oratorio et eadem abbatia de <foreign xml:lang="frm">Baugezeis</foreign> locum predictum cum</l>
+                    <l>omnibus pertinentiis suis et omnes alias donationes que vel eis rationabiliter facte sunt vel</l>
+                    <l>fient et omnes rationabiles perquisitiones suas habeant et teneant bene et in pace, libere et</l>
+                    <l>quiete, integre et plenarie et honorifice, in <term n="Le boscus n’est pas tant ici l’espace boisé que l’espace inculte, mis en
+                            opposition aux terres exploitées ; l’opposition médiévale entre bosc et plain, comme le dit l’ancien français, poursuit
+                            l’opposition antique entre saltus et ager.">bosco</term> et plano, in pratis et pascuis, in aquis et</l>
+                    <l>molendinis, in vivariis et stagnis et piscariis, in viis et semitis et in omnibus aliis locis et</l>
+                    <l>aliis rebus ad eas pertinentibus, et cum omnibus libertatibus et liberis consuetudinibus</l>
+                    <l>suis. Concedo etiam ut monachi Deo servientes in abbatia de Baugezeis quieti sint et</l>
+                    <l>firmam pacem habeant per totam terram meam de theloneo et passagio et omni</l>
+                    <l>consuetudine ad me pertinente de omnibus <term n="L’exemption de taxes ne porte donc pas sur les biens destinés à la vente, ni
+                            sur ceux que les moines transporteraient pour autrui.">propriis rebus</term> suis et de pannagio</l>
+                    <l>propriorum porcorum suorum in boscis et forestis meis. Testibus Gaufrido <foreign xml:lang="frm">Dure</foreign> priore de</l>
+                    <l><term n="Loches (Indre-et-Loire, ch.-l. arr.), importante forteresse du comte d’Anjou, abritait une abbaye, restaurée en 1104
+                            comme prieuré de l’abbaye de Beaulieu-lès-Loches.">Lochiis</term>, Willelmo abbate de <term n="Le Dorat (Haute-Vienne,
+                            ch.-l. cant.), abbaye bénédictine puis augustine.">Daurata</term>, fratre <term n="Frère Roger est un personnage assez
+                            important de la cour de Henri II. D’après les Gesta regis Henrici Secundi, « vers le 2 juin 1177, Henri II étant à
+                            Winchester, choisit pour être aumônier de sa maison (…) un frère du Temple, du nom de Roger ».">Rogero</term> elemosinario
+                        meo,</l>
+                    <l><term n="Étienne de Tours, attesté comme sénéchal d’Anjou de 1172 à 1188, avait été chambrier du roi, et depuis 1163 garde du
+                            donjon de Chinon.">Stephano de Turonis</term> seneschallo Andegavensi, Willelmo de <term xml:lang="frm" n="Guillaume
+                            d’Ostillie semble être préposé au service de la chambre du roi ; il appartient en tous cas comme les précédents à un
+                            cercle assez proche du souverain. On a mention d’un autre Guillaume d’Ostillie, visiblement de la même famille, évêque
+                            d’Avranches au début du XIIIe siècle.">Ostilli</term>, Herveio de <term xml:lang="frm" n="Montbazon (Indre-et-Loire,
+                            ch.-l. cant.).">Muntbasun</term> preposito</l>
+                    <l>de Lochiis. Apud <term n="Beaulieu-lès-Loches (Indre-et-Loire, cant. Loches), siège d’une abbaye bénédictine fondée par le
+                            comte d’Anjou.">Bellum locum</term> juxta Lochias.</l>
+                </div>
+                <div type="traduction">
+                    <l><term n="Henri II Plantagenêt (mort en 1189), comte d’Anjou et duc de Normandie par son père Geoffroy V Plantagenêt (mort en
+                            1151), duc d’Aquitaine en 1152 par son mariage avec Aliénor, fille de Guillaume X d’Aquitaine, et roi d’Angleterre en
+                            1154.">Henri</term>, par la grâce de Dieu roi d’Angleterre, duc de Normandie et d’Aquitaine, comte</l>
+                    <l>d’Anjou, aux archevêques, évêques, abbés, comtes, barons, justiciers, vicomtes, sénéchaux,</l>
+                    <l>prévôts, à tous les baillis et à ses fidèles de toute sa terre, salut. Sachez que j’ai donné en</l>
+                    <l>libre et perpétuelle aumône et que j’ai confirmé par cette présente mienne charte à Dieu et</l>
+                    <l>à l’abbaye du <term n="Le Loroux (Maine-et-Loire, cant. Longué-Jumelles, comm. Vernantes, 18 km de Saumur), abbaye cistercienne
+                            fondée en 1121 par le comte d’Anjou Foulque V.">Loroux</term> le <term n="Locus désigne tout type de maison religieuse,
+                            avec une connotation de simplicité, voire de modestie, d’absence d’institutionnalité. Repris par les cisterciens, le «
+                            lieu » devient « abbaye ».">lieu</term> de <term n="Beaugerais (Indre-et-Loire, cant. Montrésor, comm. Loché-sur-Indrois),
+                            à une quinzaine de km de Tours. Le site était occupé depuis quelque temps par un ermitage (d’où le terme de locus et la
+                            mention de biens déjà donnés) officiellement attesté dès 1153.">Beaugerais</term> avec ses dépendances, pour y édifier une</l>
+                    <l>abbaye de l’ordre cistercien, et toutes les autres donations qui ont été ou seront faites</l>
+                    <l>légitimement à ce même lieu de Beaugerais. C’est pourquoi je veux et fermement ordonne</l>
+                    <l>que ladite abbaye du Loroux et cette même abbaye de Beaugerais possèdent et tiennent le</l>
+                    <l>lieu susdit avec toutes ses dépendances et toutes les autres donations qui leur ont été ou</l>
+                    <l>seront faites légitimement et toutes leurs acquisitions légitimes, bien et en paix, liberté et</l>
+                    <l>tranquillité, intégrité, plénitude et honneur, que ce soient <term n="Le boscus n’est pas tant ici l’espace boisé que l’espace
+                            inculte, mis en opposition aux terres exploitées ; l’opposition médiévale entre bosc et plain, comme le dit l’ancien
+                            français, poursuit l’opposition antique entre saltus et ager.">terres incultes</term> ou en culture,</l>
+                    <l>prés et pâturages, eaux vives et moulins, viviers, étangs et pêcheries, routes et chemins,</l>
+                    <l>comme dans tous les autres lieux et autres choses qui en dépendent, avec toutes les</l>
+                    <l>libertés et libres usages qui s’y rattachent. J’accorde aussi que les moines desservant Dieu</l>
+                    <l>en l’abbaye de Beaugerais soient tranquilles et en pleine paix sur toute ma terre quant au</l>
+                    <l>tonlieu, au droit de passage et à toute autre taxe sur tous leurs <term n="L’exemption de taxes ne porte donc pas sur les biens
+                            destinés à la vente, ni sur ceux que les moines transporteraient pour autrui.">biens propres</term> et sur le</l>
+                    <l>panage de leurs propres porcs dans mes bois et forêts. Témoins Geoffroy <hi rend="italic">Dure</hi> prieur de</l>
+                    <l><term n="Loches (Indre-et-Loire, ch.-l. arr.), importante forteresse du comte d’Anjou, abritait une abbaye, restaurée en 1104
+                            comme prieuré de l’abbaye de Beaulieu-lès-Loches.">Loches</term>, Guillaume abbé du <term n="Le Dorat (Haute-Vienne,
+                            ch.-l. cant.), abbaye bénédictine puis augustine.">Dorat</term>, frère <term n="Frère Roger est un personnage assez
+                            important de la cour de Henri II. D’après les Gesta regis Henrici Secundi, « vers le 2 juin 1177, Henri II étant à
+                            Winchester, choisit pour être aumônier de sa maison (…) un frère du Temple, du nom de Roger ».">Roger</term> mon aumônier,</l>
+                    <l><term n="Étienne de Tours, attesté comme sénéchal d’Anjou de 1172 à 1188, avait été chambrier du roi, et depuis 1163 garde du
+                            donjon de Chinon.">Étienne de Tours</term> sénéchal d’Anjou, Guillaume d’<term n="Guillaume d’Ostillie semble être préposé
+                            au service de la chambre du roi ; il appartient en tous cas comme les précédents à un cercle assez proche du souverain. On
+                            a mention d’un autre Guillaume d’Ostillie, visiblement de la même famille, évêque d’Avranches au début du XIIIe siècle."
+                            >Ostillie</term>, Hervé de <term n="Montbazon (Indre-et-Loire, ch.-l. cant.).">Montbazon</term> prévôt de Loches.</l>
+                    <l>[Fait] à <term n="Beaulieu-lès-Loches (Indre-et-Loire, cant. Loches), siège d’une abbaye bénédictine fondée par le comte
+                            d’Anjou.">Beaulieu-lès-Loches</term>.</l>
+                </div>
+                <div type="regeste">
+                    <head>[1177, juin-1189, juillet]. – Beaulieu-lès-Loches.</head>
+                    <p>Henri [II Plantagenêt] donne à l’abbaye du Loroux la maison religieuse (<hi rend="italic">locus</hi>) de Beaugerais avec toutes
+                        ses dépendances et tous les droits qui s’y attachent, pour y fonder une abbaye de l’ordre cistercien. Il exempte les moines de
+                        Beaugerais des droits de tonlieu, de passage et de tout autre droit sur leurs biens propres, et du droit de panage pour leurs
+                        porcs dans les forêts royales.</p>
+                    <p>N.B. : L’acte est édité par Léopold Delisle et Élie Berger, <hi rend="italic">Recueil des actes de Henri II roi d’Angleterre et
+                            duc de Normandie concernant les provinces françaises et les affaires de France</hi>, Paris, t. II, 1920 (<hi rend="italic"
+                            >Chartes et diplômes</hi>), n° 721, p. 343-344.</p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <figure rend="83/faxexterne.jpg"/>
+                        </p>
+                        <p>Le document est typique de la production prestigieuse et très normée de la chancellerie d’Henri II Plantagenêt. Le
+                            parchemin se présente sous la forme d’un rectangle compact, presque carré. Il présente une quasi-absence de marges, mais
+                            une très grande régularité de l’interligne, qui donne à cette charte royale un caractère d’harmonie, à défaut de luxe. On
+                            peut noter la présence de traces de piqûres le long du bord supérieur du parchemin, sûrement postérieures, elles sont sans
+                            doute le reste de la couture d’un morceau de toile, pour protéger l’acte dans les archives. Le repli présente un scellage
+                            sur double queue de parchemin ; le sceau est perdu, mais une copie du XVII<hi rend="exposant">e</hi> siècle conservée dans
+                            la collection Duchesne de la Bibliothèque nationale de France en donne une description.</p>
+                        <p>L’écriture, très régulière et élégante quoique assez rapide, présente les caractères propres à la chancellerie anglaise :
+                            grandes hastes, notamment pour la partie droite des <hi rend="italic">a</hi>, trait vertical des <hi rend="italic">r</hi>
+                            minuscules se prolongeant par une queue au-dessous de la ligne, développement excessif des <hi rend="italic">s</hi>
+                            allongés même à la fin des mots, <hi rend="italic">g</hi> minuscules prolongés d’un mince trait transversal, tendance à
+                            multiplier les grandes lettres au début des mots. Au tout début de l’acte, le <hi rend="italic">h</hi> oncial de
+                            l’initiale du nom du roi, avec sa barre redoublée (redoublement que l’on retrouve dans les <hi rend="italic">N</hi>, les
+                                <hi rend="italic">C</hi> et les <hi rend="italic">T</hi> majuscules), encadré de deux points, est typique des actes
+                            d’Henri II.</p>
+                        <p>Le point est le principal signe de ponctuation utilisé, mais l’on trouve aussi un point surmonté d’une sorte de petit <hi
+                                rend="italic">v</hi>, qui marque une ponctuation un peu plus forte.</p>
+                        <p>On peut enfin noter la sévérité des abréviations utilisées, notamment pour les noms de personne (à commencer par le nom du
+                            souverain, réduit à son initiale), de lieu, et les éléments de la titulature, caractéristique également des actes
+                            anglo-normands. L’abréviation <hi rend="italic">T.</hi> pour « <hi rend="italic">Testibus</hi> » est aussi typique.
+                            Néanmoins le caractère extrêmement stéréotypé du formulaire de ce type de charte de donation ou de confirmation à la
+                            chancellerie anglo-normande laisse peu de place aux hésitations de lecture.</p>
+                    </div>
+                </div>
+                <div n="2">
+                    <head>Style et langue</head>
+                    <div type="contenu_commentaire">
+                        <p>Le style de cette charte royale anglaise, très « administratif », est représentatif de l’ensemble de la production de
+                            chartes de donation et de confirmation dans la seconde moitié du XII<hi rend="exposant">e</hi> siècle chez les
+                            Plantagenet, période où les chartes du roi de France sont encore très rhétoriques, même si elles tendent à s’alléger et à
+                            devenir plus techniques, précisément sous l’influence anglo-angevine. Ici, point de préambule ni d’invocation trinitaire,
+                            mais un latin limpide, précis, uniforme, des formules typées et efficaces, qui s’ordonnent et s’enchaînent sans heurt
+                            selon un schéma attendu. Cette apparente sécheresse n’empêche pourtant pas les effets rhétoriques, dans les énumérations,
+                            invariablement scandées par des <hi rend="italic">et</hi> ou par de simples juxtapositions, de la titulature (quatre titres) à la liste de
+                            témoins organisée dans un ordre hiérarchique (trois ecclésiastiques, trois laïques), en passant par l’adresse collective
+                            (onze catégories de personnes censées faire ou laisser appliquer l’acte), ou par la définition de la plénitude des droits
+                            (trois groupes de deux adverbes, <hi rend="italic">bene et in pace, libere et quiete, integre et plenarie</hi>), ou encore
+                            par la formule de pertinence (six groupes de deux ou trois mots ouverts par <hi rend="italic">in</hi> : <hi rend="italic"
+                                >in bosco et plano, in pratis et pascuis</hi>...).</p>
+                        <p>La suscription fait apparaître la titulature complète d’Henri II, roi d’Angleterre, duc de Normandie, duc d’Aquitaine, et
+                            comte d’Anjou. Ce n’est qu’à la toute fin du siècle que le titre « rex Anglie » remplace le « rex Anglorum », dans les
+                            chartes anglaises, et plus précisément dans les actes de Jean sans Terre. On peut noter la présence de la formule de
+                            légitimation « Dei gratia », qui serait apparue dans les actes d’Henri II à partir des années 1172-1173, selon Léopold
+                            Delisle.</p>
+                        <p>Le dispositif est précis, efficace, scandé des verbes et formules habituels dans les actes de donation ou confirmation :
+                                <hi rend="italic">sciatis me dedisse… et presenti carta confirmasse, quare volo et firmiter precipio, concedo
+                            etiam</hi>. Après une suscription objective, la parole royale se fait véhémente en passant à la première personne (du
+                            singulier : Richard Cœur-de-Lion le premier adoptera le « nous » de majesté). La pénétration de l’esprit juridique se lit
+                            dans le soin mis à la définition des droits et à l’usage du mot <hi rend="italic">rationabiliter</hi>, qui abonde aussi à
+                            la chancellerie pontificale. Les bénéficiaires lui accordaient visiblement une grande importance, puisque L. Delisle
+                            rapporte le cas d’un acte renvoyé à la chancellerie par son destinataire afin que le mot, omis, soit ajouté au dispositif.</p>
+                        <p>Très traditionnellement, l’acte ne porte pas de date (elle n’apparaît que sous Richard Cœur-de-Lion) et ne peut être daté
+                            que d’après le croisement de plusieurs indices, à commencer par la carrière des témoins (ici la promotion de frère Roger
+                            et la mort du roi).</p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="suscription" rend="color:#f90808">Henricus, Dei gratia rex Anglorum et dux Normannorum et Aquitanorum et
+                                comes Andegavorum<note xml:id="suscription" type="bulle">Suscription</note></seg>
+                            <seg corresp="adresse" rend="color:#16ea11">archiepiscopis, episcopis, abbatibus, comitibus, baronibus, justiciis,
+                                vicecomitibus, seneschallis, prepositis et omnibus baillivis et fidelibus suis totius terre sue<note xml:id="adresse"
+                                    type="bulle">Adresse</note></seg>
+                            <seg corresp="salut" rend="color:#c1bf29"> salutem.<note xml:id="salut" type="bulle">Salut</note>
+                            </seg>
+                            <seg corresp="notification" rend="color:#f808c8">Sciatis <note xml:id="notification" type="bulle">Notification</note></seg>
+                            <seg corresp="dispositif" rend="color:#01def8">me dedisse in liberam et perpetuam elemosinam et presenti carta mea
+                                confirmasse Deo et abbatie de Oratorio locum de <hi rend="italic">Baugezeis</hi> cum pertinentiis suis, ad
+                                construendum ibi abbatiam ordinis cisterciensis, et omnes alias donationes que rationabiliter facte sunt vel fient
+                                ipsi loco de <hi rend="italic">Baugezeis</hi>. Quare volo et firmiter precipio quod predicta abbatia de Oratorio et
+                                eadem abbatia de <hi rend="italic">Baugezeis</hi> locum predictum cum omnibus pertinentiis suis et omnes alias
+                                donationes que vel eis rationabiliter facte sunt vel fient et omnes rationabiles perquisitiones suas habeant et
+                                teneant bene et in pace, libere et quiete, integre et plenarie et honorifice, in bosco et plano, in pratis et pascuis,
+                                in aquis et molendinis, in vivariis et stagnis et piscariis, in viis et semitis et in omnibus aliis locis et aliis
+                                rebus ad eas pertinentibus, et cum omnibus libertatibus et liberis consuetudinibus suis. Concedo etiam ut monachi Deo
+                                servientes in abbatia de Baugezeis quieti sint et firmam pacem habeant per totam terram meam de theloneo et passagio
+                                et omni consuetudine ad me pertinente de omnibus propriis rebus suis et de pannagio propriorum porcorum suorum in
+                                boscis et forestis meis.<note xml:id="dispositif" type="bulle">Dispositif</note></seg>
+                            <seg corresp="liste_de_témoins" rend="color:#9999FF">Testibus Gaufrido <hi rend="italic">Dure</hi> priore de Lochiis,
+                                Willelmo abbate de Daurata, fratre Rogero elemosinario meo, Stephano de Turonis seneschallo Andegavensi, Willelmo de
+                                    <hi rend="italic">Ostilli</hi>, Herveio de <hi rend="italic">Muntbasun</hi> preposito de Lochiis.<note
+                                    xml:id="liste_de_témoins" type="bulle">Liste de témoins</note></seg>
+                            <seg corresp="date" rend="color:#24b37f">Apud Bellum locum juxta Lochias.<note xml:id="date" type="bulle">Date de
+                                lieu</note></seg>
+                        </p>
+                    </div>
+                </div>
+                <div n="4">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>La routine de la production n’entame pas le caractère solennel de cette « charte » au sens strict, auto-désignée comme <hi
+                                rend="italic">carta</hi>, soit le type le plus majestueux de production de la chancellerie royale anglaise, même si
+                            elle se trouve scellée sur parchemin et non sur soie. Une véritable tension s’instaure ainsi entre rapidité de la graphie
+                            et force de la volonté royale, standardisation de la langue et exploration attentive des concepts juridiques : la hâte et
+                            la stéréotypie peuvent elles aussi renvoyer l’image du prince puissant, présentée avec d’autant plus d’immédiateté
+                            qu’aucune mention de chancellerie n’est confiée au parchemin.</p>
+                        <p>L’acte est au plus tôt de 1177 ; or des cisterciens sont mentionnés à Beaugerais dès 1172. L’acte du roi ne fait donc que
+                            sanctionner et garantir, voire durcir, le rattachement et la filiation de la nouvelle abbaye, tout en lui donnant des
+                            gages de la faveur royale.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

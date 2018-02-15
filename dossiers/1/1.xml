@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milieu du Ve siècle (après 442). Saint Jérôme, Chronicon</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">1</idno>
+                <publisher>Ecole nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : Oxford, Bodleian Library, auct. T. II. 26, fol. 145v.</p>
+                <p>Fac-sim. ENC : NF 360 A (héliogravure).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc/>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="309,165,857,186">Valentinianus subita sanguinis eruptio-</seg>
+                    <seg rend="310,193,825,214">-ne, quod graece apoplexis vocatur,</seg>
+                    <seg rend="315,222,834,242">Brigitione moritur. [Début de paragraphe] Post quem Gra-</seg>
+                    <seg rend="308,245,852,272">-tianus adsumpto\\sit/ in imperium Vale<expan>n</expan>-</seg>
+                    <seg rend="311,276,864,305">-tiniano\\um/ fratre\\<expan>m</expan> et ambo/ cum patruo Valente</seg>
+                    <seg rend="317,313,434,337">regna\\<expan>n</expan>/t.</seg>
+                    <seg rend="316,340,844,364">Multi monachorum Nitriae per tri-</seg>
+                    <seg rend="312,371,647,390">-bunos et milites caesi.</seg>
+                    <seg rend="441,392,711,407">ar. C de decurio. l. q<expan>u</expan>idam lib<expan>r</expan>o X.</seg>
+                    <seg rend="316,407,874,428">Vale\\<expan>n</expan>/s, lege data ut monachi militarent,</seg>
+                    <seg rend="310,434,805,455">nolentes fustib<expan>us</expan> jussit interfici.</seg>
+                    <seg rend="311,456,828,489">XII. Theodosius, Theodosii \\postea/ imperatoris </seg>
+                    <seg rend="330,490,416,499"><expan>Chr</expan>i<expan>sti</expan>an<expan>us</expan>. P<expan>roximo</expan> l<expan>i</expan>b<expan>ro</expan> [?]. </seg>
+                    <seg rend="317,499,788,517">pater, et plurimi nobilium occisi.</seg>
+                    <seg rend="317,527,849,549">Fotinus in Galatia moritur, a quo Foti-</seg>
+                    <seg rend="315,560,744,580">-nianorum dogma judaicum.</seg>
+                    <seg rend="316,584,854,606">Basilius Caesariensis episcopus Cap-</seg>
+                    <seg rend="318,617,842,638">-padociae clarus habetur, qui multa</seg>
+                    <seg rend="319,643,840,666">continentiae et ingenii bona uno</seg>
+                    <seg rend="318,677,712,697">superbiae malo perdidit.</seg>
+                    <seg rend="205,705,502,727">CCLXXXVIIII Olymp<expan>ias</expan>.</seg>
+                    <seg rend="203,735,855,757">XIII. Alamannorum XXX circiter milia</seg>
+                    <seg rend="316,763,866,783">apud Argentariam, oppidum Galliaru<expan>m</expan>,</seg>
+                    <seg rend="320,791,760,812">ab exercitu Gratiani strata.</seg>
+                    <seg rend="322,823,840,843">Florentinus, Bonosus et Rufinus</seg>
+                    <seg rend="319,850,862,873">insignes monachi habentur, e quibus</seg>
+                    <seg rend="321,880,861,901">Florentinus tam misericors in egen-</seg>
+                    <seg rend="319,907,859,935">-tes fuit ut vulgo pater (pater) paupe-</seg>
+                    <seg rend="319,939,644,959">-rum nominatus sit.</seg>
+                    <seg rend="478,960,498,971">[appel de note] </seg>
+                    <seg rend="323,970,853,987">Gens Hunorum Gothos vastat qui</seg>
+                    <seg rend="321,1000,861,1022">a Romanis sine armorum depositio-</seg>
+                    <seg rend="323,1027,859,1055">-ne suscepti per avaritiam Maximi...</seg>
+                    <seg rend="14,275,307,292">Aliq<expan>u</expan>i d<expan>icu</expan>nt q<expan>uod</expan> n<expan>on</expan> stati<expan>m</expan> as[<expan>s</expan>]umpsit f<expan>ratr</expan>em ad imp<expan>er</expan>iu<expan>m</expan></seg>
+                    <seg rend="13,295,303,312">sed p<expan>r</expan>i<expan>us</expan> Theodosiu<expan>m</expan>, p<expan>ost</expan>ea Vale<expan>n</expan>tinian<expan>um</expan>, <expan>et</expan> s<expan>i</expan>c</seg>
+                    <seg rend="8,313,316,329">i<expan>n</expan>nuit Rod<expan>er</expan>ic<expan>us</expan> in isto<expan>ri</expan>a Gothor<expan>um</expan>, s<expan>ed</expan> hic <expan>contr</expan>a[r]iu<expan>m</expan></seg>
+                    <seg rend="11,329,316,347">pat<expan>et</expan> p<expan>er</expan> J<expan>er</expan>onimu<expan>m</expan>. It<expan>em</expan> A<expan>m</expan>bros<expan>ius</expan> de obitu Va-</seg>
+                    <seg rend="12,351,310,364">-le<expan>n</expan>tiniani d<expan>ici</expan>t eu<expan>m</expan> obiis[<expan>s</expan>]e a<expan>n</expan>no XVIII reg-</seg>
+                    <seg rend="16,367,76,386">-ni sui.</seg>
+                    <seg rend="47,395,220,470">Valens lege da-ta monachos militare jussit.</seg>
+                    <seg rend="53,519,204,609">Fotinus in Ga-latia moritur, a quo Fotini-ani.</seg>
+                    <seg rend="206,577,264,607">Basili<expan>us</expan>.</seg>
+                    <seg rend="91,836,151,857">Rufin<expan>us</expan>.</seg>
+                    <seg rend="38,959,157,990">Hu<expan>n</expan>ni <expan>contr</expan>a Gothos.</seg>
+                    <seg rend="168,959,313,992">[Note sur Gens Hunorum :]Inaccessis diu seclusa mo<expan>n</expan>tibus </seg>
+                    <seg rend="165,992,317,1045">Scithie repe<expan>n</expan>tina rabie p<expan>ro</expan>g<expan>re</expan>die<expan>n</expan>s ex-arsit i<expan>n</expan> Gothos </seg>
+                    <seg rend="166,1046,319,1083">eosq<expan>ue</expan> turbatos a<expan>n</expan>-tiq<expan>u</expan>is sedib<expan>us</expan> pellit.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Valentinianus subita sanguinis eruptio-</l>
+                    <l>ne, quod graece apoplexis vocatur,</l>
+                    <l>Brigitione moritur. ¶ Post quem Gra-</l>
+                    <l>tianus adsumpsit in imperium Vale<expan>n</expan>-</l>
+                    <l>tinianum fratre<expan>m</expan> et ambo cum patruo Valente</l>
+                    <l>regna<expan>n</expan>t <add n="1" place="left">
+                            <p>Aliq<expan>u</expan>i d<expan>icu</expan>nt q<expan>uod</expan> n<expan>on</expan> stati<expan>m</expan> as[<expan>s</expan>]umpsit </p>
+                            <p>f<expan>ratr</expan>em ad imp<expan>er</expan>iu<expan>m</expan> sed p<expan>r</expan>i<expan>us</expan> Theodosiu<expan>m</expan>, </p>
+                            <p>p<expan>ost</expan>ea Vale<expan>n</expan>tinian<expan>um</expan>, <expan>et</expan> s<expan>i</expan>c i<expan>n</expan>nuit Rod<expan>er</expan>ic<expan>us</expan> </p>
+                            <p>in isto<expan>ri</expan>a Gothor<expan>um</expan>, s<expan>ed</expan> hic <expan>contr</expan>a[r]iu<expan>m</expan></p>
+                            <p>pat<expan>et</expan> p<expan>er</expan> J<expan>er</expan>onimu<expan>m</expan>. It<expan>em</expan> A<expan>m</expan>bros<expan>ius</expan> de obitu </p>
+                            <p>Vale<expan>n</expan>tiniani d<expan>ici</expan>t eu<expan>m</expan> obiis[<expan>s</expan>]e a<expan>n</expan>no XVIII </p>
+                            <p>regni sui.</p>
+                        </add>.</l>
+                    <l>Multi monachorum Nitriae per tri-</l>
+                    <l>bunos et milites caesi.</l>
+                    <l>Vale<expan>n</expan>s, lege data ut monachi militarent <add n="2" place="left">ar. C. De
+                            decurio. l. Q<expan>u</expan>idam, libro X.</add>,</l>
+                    <l>nolentes fustib<expan>us</expan> jussit interfici.</l>
+                    <l/>
+                    <l>XII.</l>
+                    <l>Theodosius, Theodosii postea imperatoris</l>
+                    <l>pater <add n="3" place="left">Christianus : proximo libro.</add>, et plurimi
+                        nobilium occisi.</l>
+                    <l>Fotinus in Galatia moritur, a quo Foti-</l>
+                    <l>nianorum dogma judaicum.</l>
+                    <l>Basilius Caesariensis episcopus Cap-</l>
+                    <l>padociae clarus habetur, qui multa</l>
+                    <l>continentiae et ingenii bona uno</l>
+                    <l>superbiae malo perdidit.</l>
+                    <l/>
+                    <l>CCLXXXVIIII olymp<expan>ias</expan>.</l>
+                    <l>XIII. </l>
+                    <l>Alamannorum XXX circiter milia</l>
+                    <l>apud Argentariam, oppidum Galliaru<expan>m</expan>,</l>
+                    <l>ab exercitu Gratiani strata.</l>
+                    <l>Florentinus, Bonosus et Rufinus</l>
+                    <l>insignes monachi habentur, e quibus</l>
+                    <l>Florentinus tam misericors in egen-</l>
+                    <l>tes fuit ut vulgo <expan>pater</expan> paupe-</l>
+                    <l>rum nominatus sit.</l>
+                    <l>Gens Hunorum <add n="4" place="left">
+                            <p>Inaccessis diu seclusa montibus </p>
+                            <p>Scithie, repentina rabie progrediens exarsit </p>
+                            <p>in Gothos eosque turbatos antiquis sedibus pellit.</p>
+                        </add> Gothos vastat, qui,</l>
+                    <l>a Romanis sine armorum depositio-</l>
+                    <l>ne suscepti, per avaritiam Maximi</l>
+                    <l>[ducis ad rebellandum fame coacti sunt.</l>
+                </div>
+                <div type="traduction">
+                    <l>Valentinien, par suite d&#x2019;un afflux brutal </l>
+                    <l>de sang, qu&#x2019;on appelle en grec apoplexie,</l>
+                    <l>meurt à Brigetio. ¶ Après lui, Gratien</l>
+                    <l>a élevé à l&#x2019;empire Valentinien</l>
+                    <l>son frère, et tous deux règnent avec Valens</l>
+                    <l>leur oncle <add n="1" place="left">
+                            <p>Certains disent qu&#x2019;il n&#x2019;éleva pas aussitôt</p>
+                            <p>son frère à l&#x2019;empire mais d&#x2019;abord Théodose</p>
+                            <p>et ensuite Valentinien ; c&#x2019;est ce qu&#x2019;indique Roderic</p>
+                            <p>dans l&#x2019;histoire des Goths, mais le contraire est ici</p>
+                            <p>prouvé par Jérôme. De même Augustin, sur la mort </p>
+                            <p>de Valentinien, dit qu&#x2019;il mourut la dix-huitième année</p>
+                            <p>de son règne.</p>
+                        </add>.</l>
+                    <l>De nombreux moines de Nitrie sont </l>
+                    <l>massacrés par les tribuns et les soldats. </l>
+                    <l>Valens, ayant décrété le service militaire pour les moines <add n="2"
+                            place="left"> Code [Justinien], <hi rend="italic">Des décurions</hi>,
+                            loi <hi rend="italic">Quidam</hi>, liv. X [= C. 10, 31, 26]. </add>, </l>
+                    <l>a ordonné de tuer les réfractaires à coups de bâton.</l>
+                    <l/>
+                    <l>12e [année de Valentinien et Valens].</l>
+                    <l>Théodose <add n="3" place="left">
+                            <p>Chrétien : voir le livre suivant. [= <hi rend="italic">Chronique de</hi>
+                            </p>
+                            <p>
+                                <hi rend="exposant">Marcellin, commençant par l'accession de Théodose</hi>
+                            </p>
+                            <p>
+                                <hi rend="exposant">à l'Empire</hi>].</p>
+                        </add>, père de Théodose, le futur </l>
+                    <l>empereur, et de nombreux nobles ont été tués.</l>
+                    <l>Fotinus meurt en Galatie ; il était le fondateur</l>
+                    <l>du dogme juif des fotiniens. </l>
+                    <l>Basile de Césarée, évêque de Cap-</l>
+                    <l>padoce, est très réputé ; ses grandes</l>
+                    <l>qualités de continence et d&#x2019;intelligence ont</l>
+                    <l>été gâchées par son seul défaut, l&#x2019;orgueil.</l>
+                    <l/>
+                    <l>289e olympiade.</l>
+                    <l>13e [année de Valentinien et Valens]. </l>
+                    <l>Quelque trente mille Alamans,</l>
+                    <l>à Argentaria, place forte de Gaule,</l>
+                    <l>sont vaincus par l&#x2019;armée de Gratien.</l>
+                    <l>Florentin, Bonosus et Rufin sont </l>
+                    <l>des moines très renommés ; parmi eux,</l>
+                    <l>Florentin est si charitable envers les </l>
+                    <l>indigents qu&#x2019;on le surnomme le père</l>
+                    <l>des pauvres.</l>
+                    <l>Le peuple des Huns <add n="4" place="left">
+                            <p> Longtemps retranché dans les montagnes inaccessibles </p>
+                            <p>de la Scythie, poussé par une rage subite, il se déchaîna contre </p>
+                            <p>les Goths, les bouscula et les chassa de leurs anciens territoires.</p>
+                        </add> ravage les Goths ; </l>
+                    <l>accueillis par les Romains sans déposer les</l>
+                    <l>armes, à cause de la cupidité du général Maxime</l>
+                    <l>ils ont été poussés à la révolte par la faim </l>
+                </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI.2>

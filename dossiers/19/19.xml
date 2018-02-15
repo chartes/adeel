@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[XIVe siècle]. Jacques de Voragine, Legenda aurea.</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">19</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Bibl. nat. Fr., ms. lat. 5680, fol. 258.</p>
+        <p>Fac-sim. ENC : AF 1139 (impression offset).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="frm">Ancien français</language>
+        <language id="fre">Français</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile" rend="fax.jpg">
+        <p>
+          <seg rend="39,33,192,62">De s<expan>an</expan>c<expan>t</expan>o Cornelio</seg>
+
+          <seg rend="32,86,301,103">et &#x2019;a<expan>n</expan>u<expan>m</expan>&#x2019;
+              q<expan>uod</expan> e<expan>st</expan> sursu<expan>m</expan> ; v<expan>e</expan>l </seg>
+          <seg rend="31,107,300,126">d<expan>icitur</expan> a &#x2019;cipro&#x2019;
+              q<expan>uod</expan> d<expan>icitur</expan> mesticia v<expan>el</expan>
+            h<expan>er</expan>editas : ip<expan>s</expan>e en<expan>im</expan> h<expan>ab</expan>uit </seg>
+          <seg rend="30,132,304,148">s<expan>upe</expan>rna<expan>m</expan> mixt<expan>ur</expan>am
+              gr<expan>aci</expan>e <expan>et</expan> vi<expan>r</expan>tutu<expan>m</expan>, mesti-</seg>
+          <seg rend="29,156,303,173">-cia<expan>m</expan>
+              p<expan>e</expan>cc<expan>at</expan>or<expan>um</expan>, h<expan>er</expan>editate[m]
+              celestiu<expan>m</expan> gaudior<expan>um</expan>. </seg>
+          <seg rend="64,179,302,194">De Sancto Cornelio</seg>
+          <seg rend="63,204,303,220">Corneli<expan>us</expan> papa successor
+              s<expan>an</expan>c<expan>t</expan>i Fabia-</seg>
+          <seg rend="59,229,298,245">-ni a D<expan>e</expan>cio Cesare c<expan>um</expan> suis
+              cl<expan>er</expan>icis</seg>
+          <seg rend="35,252,302,266">i<expan>n</expan> exilio relegat<expan>us</expan>,
+              i<expan>b</expan>i<expan>que</expan> a s<expan>an</expan>c<expan>t</expan>o
+              Cip<expan>r</expan>iano</seg>
+          <seg rend="35,275,295,291">Carthagine<expan>n</expan>si ep<expan>iscop</expan>o
+              l<expan>itte</expan>ras <expan>con</expan>fortat<expan>i</expan>o-</seg>
+          <seg rend="36,296,298,312">-nis accep<expan>i</expan>t.
+            Ta<expan>n</expan>de<expan>m</expan> de exilio reductus</seg>
+          <seg rend="29,318,296,338">D<expan>e</expan>cio
+              p<expan>re</expan>se<expan>n</expan>tat<expan>ur</expan>, et du<expan>m</expan>
+              i<expan>m</expan>mobil<expan>is</expan> p<expan>er</expan>man<expan>er</expan>-</seg>
+          <seg rend="35,345,293,359">-et, j<expan>us</expan>sit eu<expan>m</expan>
+              D<expan>e</expan>ci<expan>us</expan> plu<expan>m</expan>batis cedi.
+            P<expan>re</expan>-</seg>
+          <seg rend="35,364,290,384">-cep<expan>it</expan>q<expan>ue</expan> ut ad
+              te<expan>m</expan>plu<expan>m</expan> Martis duc<expan>er</expan>et<expan>ur</expan></seg>
+          <seg rend="38,390,300,410">ut i<expan>b</expan>i au<expan>t</expan>
+            sac<expan>r</expan>ificaret au<expan>t</expan>
+              se<expan>n</expan>te<expan>n</expan>cia<expan>m</expan> ca-</seg>
+          <seg rend="29,414,301,431">-pitale<expan>m</expan> s<expan>u</expan>biret. Cu<expan>m</expan>
+            <expan>er</expan>go illuc duc<expan>er</expan>et<expan>ur</expan>,</seg>
+          <seg rend="34,436,301,454">miles q<expan>u</expan>ida<expan>m</expan> rogavit
+            eu<expan>m</expan> ut ad domu<expan>m</expan></seg>
+          <seg rend="33,460,299,475">sua<expan>m</expan> div<expan>er</expan>t<expan>er</expan>et
+              <expan>et</expan> p<expan>ro</expan> uxore sua Salu-</seg>
+          <seg rend="34,482,301,497">-stia, q<expan>ue</expan> p<expan>er</expan> Ve
+            a<expan>n</expan>nos p<expan>ar</expan>alitica jacu<expan>er</expan>at,</seg>
+          <seg rend="35,502,292,522">oraret. Q<expan>u</expan>e c<expan>um</expan> ad
+            ej<expan>us</expan> or<expan>ati</expan>one<expan>m</expan> sanata</seg>
+          <seg rend="37,527,303,540">e<expan>ss</expan>et, XXti Ius milites c<expan>um</expan>
+              ip<expan>s</expan>a <expan>et</expan> d<expan>omi</expan>no su-</seg>
+          <seg rend="32,552,301,565">-o c<expan>re</expan>did<expan>e</expan>r<expan>un</expan>t.
+              Q<expan>u</expan>i o<expan>mne</expan>s, jube<expan>n</expan>te D<expan>e</expan>cio,
+            ad te<expan>m</expan>-</seg>
+          <seg rend="32,576,292,592">plu<expan>m</expan> Martis d<expan>e</expan>ducti
+            <expan>et</expan> i<expan>n</expan> i<expan>llu</expan>d expue<expan>n</expan>-</seg>
+          <seg rend="33,598,296,616">-tes, c<expan>um</expan> s<expan>an</expan>c<expan>t</expan>o
+            Cornelio martiriszati</seg>
+          <seg rend="36,623,295,639">s<expan>un</expan>t. Pass<expan>us</expan> e<expan>st</expan>
+              a<expan>utem</expan> ci<expan>r</expan>ca annos Do<expan>min</expan>i CCLIII.</seg>
+          <seg rend="35,646,298,663">Cip<expan>r</expan>ian<expan>us</expan> a<expan>utem</expan>
+              Carthagine<expan>n</expan>cis ep<expan>iscopu</expan>s i<expan>n</expan> ea-</seg>
+          <seg rend="35,674,300,692">-de<expan>m</expan> civitate Parcheno p<expan>rocon</expan>suli
+              p<expan>re</expan>-</seg>
+          <seg rend="31,702,298,716">se<expan>n</expan>tat<expan>ur</expan>. Q<expan>u</expan>i
+              c<expan>um</expan> a fid<expan>e</expan> nullaten<expan>us</expan> mu-</seg>
+          <seg rend="31,728,291,742">-tari poss<expan>et</expan>, i<expan>n</expan> exilium
+              mit[t]it<expan>ur</expan>. I<expan>b</expan>id<expan>em</expan>q<expan>ue</expan></seg>
+          <seg rend="35,753,299,765">revocat<expan>us</expan> a Gele<expan>n</expan>sio
+              p<expan>rocon</expan>sule, q<expan>u</expan>i P<expan>ar</expan>-</seg>
+          <seg rend="38,774,300,788">-geno success<expan>er</expan>at,
+            s<expan>e</expan>n<expan>tent</expan>iam capitale<expan>m</expan></seg>
+          <seg rend="34,798,301,812">accep<expan>it</expan>. Q<expan>u</expan>a
+              s<expan>e</expan>n<expan>tenc</expan>ia lata, dix<expan>it</expan>
+              Cip<expan>r</expan>ian<expan>us</expan> :</seg>
+          <seg rend="35,819,297,834">Deo gr<expan>ati</expan>as. Cu<expan>mque</expan> ad
+              luc<expan>um</expan> c<expan>um</expan> spic<expan>u</expan>lato-</seg>
+          <seg rend="36,842,294,859">-re ve<expan>n</expan>iss<expan>et</expan>,
+              p<expan>re</expan>cep<expan>it</expan> suis ut eidem spi-</seg>
+          <seg rend="33,862,299,881">-c<expan>u</expan>latori p<expan>ro</expan>
+              m<expan>er</expan>ced<expan>e</expan> XXV aureos da-</seg>
+          <seg rend="33,887,295,909">-re<expan>n</expan>t.
+            Accipie<expan>n</expan>s<expan>que</expan> l<expan>i</expan>nteum, manu sua</seg>
+
+          <seg rend="369,30,502,56">De s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia</seg>
+          <seg rend="512,35,614,61">[Foliotation :] CCLVIII</seg>
+          <seg rend="335,88,594,100">occ<expan>u</expan>los texit, et s<expan>i</expan>c
+              corona<expan>m</expan> suscep<expan>i</expan>t, ci<expan>r</expan>ca</seg>
+          <seg rend="334,108,597,125">a<expan>n</expan>nu<expan>m</expan> Do<expan>min</expan>i
+            CCLVI. D<expan>e</expan> s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia.</seg>
+          <seg rend="383,131,606,150">Eufe<expan>m</expan>ia ab &#x2019;hu&#x2019;,
+              q<expan>uod</expan> e<expan>st</expan> bonu<expan>m</expan>, <expan>et</expan>
+            &#x2019;femina&#x2019;,</seg>
+          <seg rend="371,157,596,170">quasi bona fe<expan>m</expan>i<expan>n</expan>a,
+            i<expan>dest</expan> util<expan>is</expan>, honesta et</seg>
+          <seg rend="340,180,607,194">d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan>,
+              q<expan>uia</expan> h<expan>oc</expan> triplici m<expan>od</expan>o
+            d<expan>icitu</expan>r bonu<expan>m</expan>. Fu<expan>i</expan>t</seg>
+          <seg rend="339,205,596,217"><expan>e</expan>ni<expan>m</expan> util<expan>is</expan> aliis
+              p<expan>er</expan>
+            <expan>con</expan>v<expan>er</expan>sat<expan>i</expan>one<expan>m</expan>, hones-</seg>
+          <seg rend="336,232,607,243">-ta s<expan>cilicet</expan> p<expan>er</expan> mor<expan>um</expan>
+            <expan>com</expan>po<expan>sitione</expan>m,
+              d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan> D<expan>e</expan>o
+              p<expan>er</expan> ce- </seg>
+          <seg rend="334,254,594,264">-leste<expan>m</expan>
+            <expan>con</expan>te<expan>m</expan>plat<expan>i</expan>one<expan>m</expan>.
+            V<expan>e</expan>l Eufe<expan>m</expan>ia d<expan>icitu</expan>r</seg>
+          <seg rend="344,277,607,292">q<expan>u</expan>a<expan>s</expan>i 'eufonia',
+            q<expan>uod</expan> e<expan>st</expan> suavis sonoritas.</seg>
+          <seg rend="336,303,603,315">Suavis a<expan>utem</expan> son<expan>us</expan> fit
+              t<expan>r</expan>ib<expan>us</expan> modis, s<expan>cilicet</expan> vo-</seg>
+          <seg rend="338,326,603,339">-ce ut i<expan>n</expan> ca<expan>n</expan>tu, pulsu ut
+              i<expan>n</expan> cythara, f-</seg>
+          <seg rend="336,348,591,361">-latu ut i<expan>n</expan> organo. Sic b<expan>eat</expan>a
+              Eufe<expan>m</expan>ia</seg>
+          <seg rend="336,371,603,383">fec<expan>it</expan> D<expan>e</expan>o dulce<expan>m</expan>
+              sonu<expan>m</expan> c<expan>um</expan> voce p<expan>re</expan>dica-</seg>
+          <seg rend="343,397,597,406">-t<expan>i</expan>o<expan>n</expan>is, c<expan>um</expan>
+            pulsu bone op<expan>er</expan>at<expan>i</expan>o<expan>n</expan>is <expan>et</expan>
+              cu<expan>m</expan></seg>
+          <seg rend="339,415,581,428">flatu d<expan>e</expan>vot<expan>i</expan>o<expan>n</expan>is.
+              D<expan>e</expan> s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia.</seg>
+          <seg rend="386,438,598,451">Eufe<expan>m</expan>ia, filia senatoris, vide<expan>n</expan>s
+              C<expan>hrist</expan>i-</seg>
+          <seg rend="368,461,596,473">-anos t<expan>em</expan>p<expan>o</expan>r<expan>e</expan>
+            Dyocletiani ta<expan>m</expan> div<expan>er</expan>-</seg>
+          <seg rend="338,481,600,499">-sis suppliciis laniari, ad judice<expan>m</expan>
+            p<expan>ro</expan>-</seg>
+          <seg rend="339,504,597,520">-p<expan>er</expan>av<expan>i</expan>t <expan>et</expan>,
+              Ch<expan>ristu</expan>m publice confite<expan>n</expan>s, ex<expan>empl</expan>o sue</seg>
+          <seg rend="337,530,604,543"><expan>con</expan>sta<expan>n</expan>cie
+            viror<expan>um</expan> a<expan>n</expan>i<expan>m</expan>os
+            <expan>con</expan>fort[a]bat.</seg>
+          <seg rend="340,554,590,568">Cu<expan>m</expan> ig<expan>itur</expan> judex
+            Ch<expan>rist</expan>ianos successive</seg>
+          <seg rend="336,579,597,591">occid<expan>e</expan>ret, alios
+            p<expan>re</expan>se<expan>n</expan>tes e<expan>ss</expan>e jubeb-</seg>
+          <seg rend="340,601,605,616">-at, ut salte<expan>m</expan> t<expan>er</expan>[r]iti
+              i<expan>m</expan>molare<expan>n</expan>t, du<expan>m</expan> ci<expan>rcum</expan>-</seg>
+          <seg rend="339,623,595,638">-sta<expan>n</expan>tes ta<expan>m</expan>
+              c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> la<expan>n</expan>iari
+              vid<expan>e</expan>re<expan>n</expan>t.</seg>
+          <seg rend="336,646,596,663">Cu<expan>m</expan> a<expan>utem</expan> cora<expan>m</expan>
+              Eufe<expan>m</expan>ia s<expan>an</expan>c<expan>t</expan>os
+              c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> de-</seg>
+          <seg rend="340,674,602,689">-tru<expan>n</expan>caret, ip<expan>s</expan>a, eor<expan>um</expan>
+            <expan>con</expan>sta<expan>n</expan>cia<expan>m</expan>
+            a<expan>m</expan>pli<expan>us</expan> p<expan>ro</expan>-</seg>
+          <seg rend="340,703,597,713">-vocata, i<expan>n</expan>juriam se pati a judice</seg>
+          <seg rend="340,725,603,739">clamabat. T<expan>un</expan>c judex gavis<expan>us</expan>
+              e<expan>st</expan>, pu-</seg>
+          <seg rend="337,750,605,766">-ta<expan>n</expan>s ea<expan>m</expan> velle
+            sac<expan>r</expan>ificiis <expan>con</expan>se<expan>n</expan>tire. U<expan>n</expan>-</seg>
+          <seg rend="337,773,602,789">-d<expan>e</expan> c<expan>um</expan> ab ea
+              q<expan>u</expan>a<expan>m</expan> i<expan>n</expan>juria<expan>m</expan>
+            fac<expan>er</expan>et req<expan>u</expan>isi-</seg>
+          <seg rend="338,797,603,810">-ss<expan>et</expan>, illa ait : "Cu<expan>m</expan>
+              si<expan>m</expan> g<expan>e</expan>n<expan>er</expan>e nobil<expan>is</expan>,
+              c<expan>ur</expan> m<expan>ih</expan>i </seg>
+          <seg rend="338,818,593,831">ignotos an<expan>te</expan>po<expan>n</expan>is et
+            p<expan>r</expan>iores facis</seg>
+          <seg rend="342,842,605,855">ad Ch<expan>ristu</expan>m
+              p<expan>er</expan>ti<expan>n</expan>g<expan>er</expan>e <expan>et</expan> ad
+              p<expan>ro</expan>missa gaudi-</seg>
+          <seg rend="339,867,606,879">-a p<expan>er</expan>ve<expan>n</expan>ire ?" Cui judex :
+            "Putabam</seg>
+          <seg rend="338,892,605,904">te ad me<expan>n</expan>te<expan>m</expan> te redisse et
+            gaude-[bam..."].</seg>
+        </p>
+      </div>
+      <div type="transcription">
+        <div type="texte">
+          <l/>
+          <l>[PREMIÈRE COLONNE]</l>
+          <l>[...] et 'a<expan>n</expan>u<expan>m</expan>' q<expan>uod</expan> e<expan>st</expan>
+              sursu<expan>m</expan> ; v<expan>e</expan>l d<expan>icitur</expan> a 'cipro'
+              q<expan>uod</expan> d<expan>icitur</expan> mesticia </l>
+          <l>v<expan>el</expan> h<expan>er</expan>editas : ip<expan>s</expan>e en<expan>im</expan>
+              h<expan>ab</expan>uit s<expan>upe</expan>rna<expan>m</expan> mixt<expan>ur</expan>am
+              gr<expan>aci</expan>e <expan>et</expan> vi<expan>r</expan>tutu<expan>m</expan>,
+              mesticia<expan>m</expan></l>
+          <l>p<expan>e</expan>cc<expan>at</expan>or<expan>um</expan>, h<expan>er</expan>editate[m]
+              celestiu<expan>m</expan>
+          </l>
+          <l>gaudior<expan>um</expan>. </l>
+          <l>[Rubrique :] De Sancto Cornelio.</l>
+          <l>Corneli<expan>us</expan> papa successor s<expan>an</expan>c<expan>t</expan>i Fabia-</l>
+          <l>-ni a D<expan>e</expan>cio Cesare c<expan>um</expan> suis cl<expan>er</expan>icis</l>
+          <l>i<expan>n</expan> exilio relegat<expan>us</expan>, i<expan>b</expan>i<expan>que</expan>
+            a s<expan>an</expan>c<expan>t</expan>o Cip<expan>r</expan>iano</l>
+          <l>Carthagine<expan>n</expan>si ep<expan>iscop</expan>o l<expan>itte</expan>ras
+              <expan>con</expan>fortat<expan>i</expan>o-</l>
+          <l>-nis accep<expan>i</expan>t. Ta<expan>n</expan>de<expan>m</expan> de exilio reductus</l>
+          <l>D<expan>e</expan>cio p<expan>re</expan>se<expan>n</expan>tat<expan>ur</expan>, et
+              du<expan>m</expan> i<expan>m</expan>mobil<expan>is</expan>
+              p<expan>er</expan>man<expan>er</expan>-</l>
+          <l>-et, j<expan>us</expan>sit eu<expan>m</expan> D<expan>e</expan>ci<expan>us</expan>
+              plu<expan>m</expan>batis cedi. P<expan>re</expan>-</l>
+          <l>-cep<expan>it</expan>q<expan>ue</expan> ut ad te<expan>m</expan>plu<expan>m</expan>
+            Martis duc<expan>er</expan>et<expan>ur</expan></l>
+          <l>ut i<expan>b</expan>i au<expan>t</expan> sac<expan>r</expan>ificaret au<expan>t</expan>
+              se<expan>n</expan>te<expan>n</expan>cia<expan>m</expan> ca-</l>
+          <l>-pitale<expan>m</expan> s<expan>u</expan>biret. Cu<expan>m</expan>
+            <expan>er</expan>go illuc duc<expan>er</expan>et<expan>ur</expan>,</l>
+          <l>miles q<expan>u</expan>ida<expan>m</expan> rogavit eu<expan>m</expan> ut ad
+              domu<expan>m</expan></l>
+          <l>sua<expan>m</expan> div<expan>er</expan>t<expan>er</expan>et <expan>et</expan>
+              p<expan>ro</expan> uxore sua Salu-</l>
+          <l>-stia, q<expan>ue</expan> p<expan>er</expan> Ve a<expan>n</expan>nos
+            p<expan>ar</expan>alitica jacu<expan>er</expan>at,</l>
+          <l>oraret. Q<expan>u</expan>e c<expan>um</expan> ad ej<expan>us</expan>
+              or<expan>ati</expan>one<expan>m</expan> sanata</l>
+          <l>e<expan>ss</expan>et, XXti Ius milites c<expan>um</expan> ip<expan>s</expan>a
+            <expan>et</expan> d<expan>omi</expan>no su-</l>
+          <l>-o c<expan>re</expan>did<expan>e</expan>r<expan>un</expan>t. Q<expan>u</expan>i
+              o<expan>mne</expan>s, jube<expan>n</expan>te D<expan>e</expan>cio, ad
+            te<expan>m</expan>-</l>
+          <l>plu<expan>m</expan> Martis d<expan>e</expan>ducti <expan>et</expan> i<expan>n</expan>
+              i<expan>llu</expan>d expue<expan>n</expan>-</l>
+          <l>-tes, c<expan>um</expan> s<expan>an</expan>c<expan>t</expan>o Cornelio martiriszati</l>
+          <l>s<expan>un</expan>t. Pass<expan>us</expan> e<expan>st</expan> a<expan>utem</expan>
+              ci<expan>r</expan>ca annos Do<expan>min</expan>i CCLIII.</l>
+          <l>Cip<expan>r</expan>ian<expan>us</expan> a<expan>utem</expan>
+            Carthagine<expan>n</expan>cis ep<expan>iscopu</expan>s i<expan>n</expan> ea-</l>
+          <l>-de<expan>m</expan> civitate Parcheno p<expan>rocon</expan>suli p<expan>re</expan>-</l>
+          <l>se<expan>n</expan>tat<expan>ur</expan>. Q<expan>u</expan>i c<expan>um</expan> a
+              fid<expan>e</expan> nullaten<expan>us</expan> mu-</l>
+          <l>-tari poss<expan>et</expan>, i<expan>n</expan> exilium mit[t]it<expan>ur</expan>.
+              I<expan>b</expan>id<expan>em</expan>q<expan>ue</expan></l>
+          <l>revocat<expan>us</expan> a Gele<expan>n</expan>sio p<expan>rocon</expan>sule,
+            q<expan>u</expan>i P<expan>ar</expan>-</l>
+          <l>-geno success<expan>er</expan>at, s<expan>e</expan>n<expan>tent</expan>iam
+              capitale<expan>m</expan></l>
+          <l>accep<expan>it</expan>. Q<expan>u</expan>a s<expan>e</expan>n<expan>tenc</expan>ia
+            lata, dix<expan>it</expan> Cip<expan>r</expan>ian<expan>us</expan> :</l>
+          <l>Deo gr<expan>ati</expan>as. Cu<expan>mque</expan> ad luc<expan>um</expan>
+            c<expan>um</expan> spic<expan>u</expan>lato-</l>
+          <l>-re ve<expan>n</expan>iss<expan>et</expan>, p<expan>re</expan>cep<expan>it</expan> suis
+            ut eidem spi-</l>
+          <l>-c<expan>u</expan>latori p<expan>ro</expan> m<expan>er</expan>ced<expan>e</expan> XXV
+            aureos da-</l>
+          <l>-re<expan>n</expan>t. Accipie<expan>n</expan>s<expan>que</expan>
+            l<expan>i</expan>nteum, manu sua</l>
+          <l/>
+          <l>[SECONDE COLONNE]</l>
+          <l>occ<expan>u</expan>los texit, et s<expan>i</expan>c corona<expan>m</expan>
+              suscep<expan>i</expan>t, ci<expan>r</expan>ca</l>
+          <l>a<expan>n</expan>nu<expan>m</expan> Do<expan>min</expan>i CCLVI. </l>
+          <l>[Rubrique :] De sancta Eufemia.</l>
+          <l>Eufe<expan>m</expan>ia ab 'hu', q<expan>uod</expan> e<expan>st</expan>
+            bonu<expan>m</expan>, <expan>et</expan> 'femina',</l>
+          <l>quasi bona fe<expan>m</expan>i<expan>n</expan>a, i<expan>dest</expan>
+            util<expan>is</expan>, honesta et</l>
+          <l>d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan>, q<expan>uia</expan>
+              h<expan>oc</expan> triplici m<expan>od</expan>o d<expan>icitu</expan>r
+            bonu<expan>m</expan>. Fu<expan>i</expan>t</l>
+          <l><expan>e</expan>ni<expan>m</expan> util<expan>is</expan> aliis p<expan>er</expan>
+            <expan>con</expan>v<expan>er</expan>sat<expan>i</expan>one<expan>m</expan>, honesta </l>
+          <l>s<expan>cilicet</expan> p<expan>er</expan> mor<expan>um</expan>
+            <expan>com</expan>po<expan>sitione</expan>m,
+              d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan> D<expan>e</expan>o </l>
+          <l>p<expan>er</expan> celeste<expan>m</expan>
+            <expan>con</expan>te<expan>m</expan>plat<expan>i</expan>one<expan>m</expan>.
+            V<expan>e</expan>l Eufe<expan>m</expan>ia d<expan>icitu</expan>r</l>
+          <l>q<expan>u</expan>a<expan>s</expan>i 'eufonia', q<expan>uod</expan> e<expan>st</expan>
+            suavis sonoritas.</l>
+          <l>Suavis a<expan>utem</expan> son<expan>us</expan> fit
+            t<expan>r</expan>ib<expan>us</expan> modis, s<expan>cilicet</expan> vo-</l>
+          <l>-ce ut i<expan>n</expan> ca<expan>n</expan>tu, pulsu ut i<expan>n</expan> cythara, f-</l>
+          <l>-latu ut i<expan>n</expan> organo. Sic b<expan>eat</expan>a Eufe<expan>m</expan>ia</l>
+          <l>fec<expan>it</expan> D<expan>e</expan>o dulce<expan>m</expan> sonu<expan>m</expan>
+              c<expan>um</expan> voce p<expan>re</expan>dica-</l>
+          <l>-t<expan>i</expan>o<expan>n</expan>is, c<expan>um</expan> pulsu bone
+              op<expan>er</expan>at<expan>i</expan>o<expan>n</expan>is <expan>et</expan>
+            cu<expan>m</expan></l>
+          <l>flatu d<expan>e</expan>vot<expan>i</expan>o<expan>n</expan>is. D<expan>e</expan>
+              s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia.</l>
+          <l>[Rubrique :] D<expan>e</expan> s<expan>an</expan>c<expan>t</expan>a
+            Eufe<expan>m</expan>ia</l>
+          <l>Eufe<expan>m</expan>ia, filia senatoris, vide<expan>n</expan>s C<expan>hrist</expan>i-</l>
+          <l>-anos t<expan>em</expan>p<expan>o</expan>r<expan>e</expan> Dyocletiani
+            ta<expan>m</expan> div<expan>er</expan>-</l>
+          <l>-sis suppliciis laniari, ad judice<expan>m</expan> p<expan>ro</expan>-</l>
+          <l>-p<expan>er</expan>av<expan>i</expan>t <expan>et</expan>, Ch<expan>ristu</expan>m
+            publice confite<expan>n</expan>s, ex<expan>empl</expan>o sue</l>
+          <l><expan>con</expan>sta<expan>n</expan>cie viror<expan>um</expan>
+              a<expan>n</expan>i<expan>m</expan>os <expan>con</expan>fort[a]bat.</l>
+          <l>Cu<expan>m</expan> ig<expan>itur</expan> judex Ch<expan>rist</expan>ianos successive</l>
+          <l>occid<expan>e</expan>ret, alios p<expan>re</expan>se<expan>n</expan>tes
+            e<expan>ss</expan>e jubeb-</l>
+          <l>-at, ut salte<expan>m</expan> t<expan>er</expan>[r]iti
+            i<expan>m</expan>molare<expan>n</expan>t, du<expan>m</expan> ci<expan>rcum</expan>-</l>
+          <l>-sta<expan>n</expan>tes ta<expan>m</expan>
+              c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> la<expan>n</expan>iari
+              vid<expan>e</expan>re<expan>n</expan>t.</l>
+          <l>Cu<expan>m</expan> a<expan>utem</expan> cora<expan>m</expan> Eufe<expan>m</expan>ia
+              s<expan>an</expan>c<expan>t</expan>os
+            c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> de-</l>
+          <l>-tru<expan>n</expan>caret, ip<expan>s</expan>a, eor<expan>um</expan>
+            <expan>con</expan>sta<expan>n</expan>cia<expan>m</expan>
+            a<expan>m</expan>pli<expan>us</expan> p<expan>ro</expan>-</l>
+          <l>-vocata, i<expan>n</expan>juriam se pati a judice</l>
+          <l>clamabat. T<expan>un</expan>c judex gavis<expan>us</expan> e<expan>st</expan>, pu-</l>
+          <l>-ta<expan>n</expan>s ea<expan>m</expan> velle sac<expan>r</expan>ificiis
+              <expan>con</expan>se<expan>n</expan>tire. U<expan>n</expan>-</l>
+          <l>-d<expan>e</expan> c<expan>um</expan> ab ea q<expan>u</expan>a<expan>m</expan>
+              i<expan>n</expan>juria<expan>m</expan> fac<expan>er</expan>et req<expan>u</expan>isi-</l>
+          <l>-ss<expan>et</expan>, illa ait : "Cu<expan>m</expan> si<expan>m</expan>
+              g<expan>e</expan>n<expan>er</expan>e nobil<expan>is</expan>, c<expan>ur</expan>
+              m<expan>ih</expan>i </l>
+          <l>ignotos an<expan>te</expan>po<expan>n</expan>is et p<expan>r</expan>iores facis</l>
+          <l>ad Ch<expan>ristu</expan>m p<expan>er</expan>ti<expan>n</expan>g<expan>er</expan>e
+              <expan>et</expan> ad p<expan>ro</expan>missa gaudi-</l>
+          <l>-a p<expan>er</expan>ve<expan>n</expan>ire ?" Cui judex : "Putabam</l>
+          <l>te ad me<expan>n</expan>te<expan>m</expan> te redisse et gaude-[bam..."].</l>
+        </div>
+        <div type="traduction">
+          <l/>
+          <l>[PREMIÈRE COLONNE]</l>
+          <l>[...] et ‘anum’, qui signifie en haut ; ou bien de ‘cipro’ qui</l>
+          <l>signifie tristesse ou héritage : car il posséda</l>
+          <l>un mélange suprême de grâce et de vertus, la</l>
+          <l>tristesse pour le pêché, et l’héritage des joies</l>
+          <l>célestes.</l>
+          <l>[Rubrique :] Saint Corneille.</l>
+          <l>Corneille, pape, succéda à saint Fabien.</l>
+          <l>Decius César le relégua en exil</l>
+          <l>avec ses clercs ; ce fut là que saint Cyprien,</l>
+          <l>évêque de Carthage, lui adressa une lettre</l>
+          <l>d’encouragement. Enfin, ramené de l’exil,</l>
+          <l>il fut présenté à Decius ; et, comme il restait immobile,</l>
+          <l>Decius le fit meurtrir avec des fouets garnis de plomb.</l>
+          <l>Puis il ordonna de le conduire au temple de Mars</l>
+          <l>pour y sacrifier ou y subir la peine</l>
+          <l>capitale. Comme on l’y conduisait donc,</l>
+          <l>un soldat le sollicita de se détourner pour aller</l>
+          <l>à sa maison prier en faveur de sa femme Sallustia,</l>
+          <l>qui gisait paralysée depuis cinq ans.</l>
+          <l>Cette femme ayant été guérie par sa prière,</l>
+          <l>vingt et un soldats avec elle et son mari</l>
+          <l>se convertirent. Sur l’ordre de Decius, ils furent tous</l>
+          <l>conduits au temple de Mars ; ayant craché sur celui-ci,</l>
+          <l>ils furent martyrisés avec saint Corneille.</l>
+          <l>Il pâtit vers l’an du Seigneur 253.</l>
+          <l>Cyprien, évêque de Carthage, fut amené</l>
+          <l>à Parchenus, proconsul en cette ville.</l>
+          <l>Comme on ne pouvait le faire varier dans sa foi,</l>
+          <l>il fut envoyé en exil. Il en fut</l>
+          <l>rappelé par le proconsul Gelensius, successeur</l>
+          <l>de Parchenus, et condamné à la peine</l>
+          <l>capitale. La sentence prononcée, Cyprien dit :</l>
+          <l>« Je rends grâces à Dieu. » Parvenu au lieu du supplice avec</l>
+          <l>le bourreau, il commanda aux siens de donner au bourreau</l>
+          <l>vingt-cinq pièces d’or pour son salaire.</l>
+          <l>Et prenant un linge, de sa main...</l>
+          <l/>
+          <l>[SECONDE COLONNE]</l>
+          <l>se couvrit les yeux, et reçut ainsi la couronne [du martyre], vers l’an du Seigneur
+            256.</l>
+          <l>[Rubrique :] Sainte Euphémie.</l>
+          <l>Euphémie, de ‘hu’, qui signifie bon, et ‘femme’,</l>
+          <l>comme bonne femme, c’est-à-dire utile, honnête et</l>
+          <l>agréable, car on appelle bonté ces trois qualités. Elle fut</l>
+          <l>en effet utile aux autres par son commerce, honnête</l>
+          <l>par l’heureuse disposition de ses mœurs, agréable à Dieu par</l>
+          <l>la contemplation des choses du ciel. Ou bien Euphémie vient</l>
+          <l>d’ ‘euphonie’, qui veut dire son plaisant.</l>
+          <l>Un son plaisant se produit de trois manières : par la voix,</l>
+          <l>comme dans le chant, l’action des mains, comme dans la cithare, ou le souffle, comme
+            dans l’orgue. De même sainte Euphémie</l>
+          <l>rendit des sons doux à Dieu avec la voix de sa prédication,</l>
+          <l>avec l’action de ses bonnes œuvres et avec</l>
+          <l>le souffle de sa dévotion.</l>
+          <l>[Rubrique :] Sainte Euphémie.</l>
+          <l>Euphémie, fille d’un sénateur, voyant les</l>
+          <l>chrétiens, au temps de Dioclétien, subir tant de</l>
+          <l>supplices divers, courut chez le juge</l>
+          <l>et, confessant publiquement le Christ, par l’exemple de</l>
+          <l>sa constance, elle animait les cœurs des hommes eux-</l>
+          <l>mêmes. Or, quand le juge faisait massacrer les chrétiens</l>
+          <l>successivement, il ordonnait que les autres fussent</l>
+          <l>présents afin que la peur au moins les forçât à sacrifier,</l>
+          <l>en voyant leurs compagnons déchirés si cruellement.</l>
+          <l>Comme il faisait décapiter cruellement les saints devant</l>
+          <l>Euphémie, celle-ci, qui ne cessait d’encourager leur</l>
+          <l>constance, criait que le juge lui faisait affront.</l>
+          <l>Alors le juge se réjouit, pensant</l>
+          <l>qu’elle voulait consentir à sacrifier. Lui</l>
+          <l>ayant donc demandé quelle injure il lui faisait,</l>
+          <l>elle dit : « Puisque je suis de noble race, pourquoi me</l>
+          <l>préfères-tu des inconnus et les fais-tu, les premiers,</l>
+          <l>aller à Jésus-Christ et parvenir aux joies promises ? »</l>
+          <l>Le juge lui répondit : « Je pensais que</l>
+          <l>tu étais revenue au bon sens et je me réjouissais…</l>
+          <l/>
+          <l>[Adapté de la traduction de J.-B. M. Roze, Paris, 1900]. </l>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

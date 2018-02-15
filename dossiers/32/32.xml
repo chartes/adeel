@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1242. Acte comtal (Boulogne), engagement successoral</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">32</idno>
+				<publisher>École nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : Arch. nat.</p>
+				<p>Fac-sim. ENC : AF 497 (lithographie).</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc> </profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+				<p>
+					<seg rend="10,21,491,45">Univ<expan>er</expan>sis presentes
+						litt<expan>er</expan>as inspect<expan>ur</expan>is, M<expan>athildis</expan>
+						comitissa Bolon<expan>ie</expan>, in D<expan>omi</expan>no
+						sal<expan>u</expan>tem.</seg>
+					<seg rend="507,27,894,53">Notum facim<expan>us</expan> q<expan>uo</expan>d, cum
+							k<expan>arissi</expan>mo marito n<expan>ost</expan>ro Alfonso, filio</seg>
+					<seg rend="25,59,300,78">illustris reg<expan>is</expan> Portugalie,
+							comit<expan>i</expan> Bolon<expan>ie</expan>,</seg>
+					<seg rend="303,62,887,89">viginti milia librar<expan>um</expan>
+							paris<expan>iensium</expan>
+						<expan>con</expan>tulerim<expan>us</expan>
+						p<expan>er</expan>cipiend<expan>a</expan> in t<expan>er</expan>ra
+							n<expan>ost</expan>ra post decessum
+						n<expan>ost</expan>r<expan>u</expan>m in t<expan>er</expan>minis</seg>
+					<seg rend="25,93,418,111">assignatis, p<expan>ro</expan>ut in
+						litt<expan>er</expan>is sup<expan>er</expan>
+						d<expan>i</expan>c<expan>t</expan>a donatione confectis pleni<expan>us</expan>
+						<expan>con</expan>tinet<expan>ur</expan>,</seg>
+					<seg rend="430,96,884,122">et cu<expan>m</expan> testam<expan>en</expan>tum
+							condiderim<expan>us</expan> de centu<expan>m</expan> libratis
+						t<expan>er</expan>re n<expan>ost</expan>re par<expan>isiensium</expan>
+						<expan>et</expan> de</seg>
+					<seg rend="11,127,443,142">septe<expan>m</expan> mil<expan>ibus</expan>
+							lib<expan>rarum</expan> par<expan>isiensium</expan>
+							si<expan>mi</expan>l<expan>ite</expan>r in t<expan>er</expan>ra
+							n<expan>ost</expan>ra p<expan>ost</expan> decessum
+							n<expan>ost</expan>r<expan>u</expan>m
+						p<expan>er</expan>cipiend<expan>is</expan></seg>
+					<seg rend="453,126,884,156"><expan>et</expan> k<expan>arissi</expan>mus
+							n<expan>ost</expan>er Gaucher<expan>us</expan> de Castell<expan>ione</expan>
+						<expan>et</expan> Joha<expan>n</expan>na filia n<expan>ost</expan>ra, uxor
+							ejusd<expan>em</expan>,</seg>
+					<seg rend="9,162,461,176">h<expan>er</expan>edes n<expan>ost</expan>ri,
+							pred<expan>i</expan>c<expan>t</expan>am
+						donat<expan>i</expan>o<expan>n</expan>em <expan>et</expan>
+							d<expan>i</expan>c<expan>tu</expan>m testam<expan>en</expan>tum benigne
+							<expan>con</expan>cesseri<expan>n</expan>t</seg>
+					<seg rend="464,162,879,189"><expan>et</expan> rata h<expan>ab</expan>uerint ac
+							<expan>con</expan>firmav<expan>er</expan>int, nos in
+							recompensat<expan>i</expan>o<expan>n</expan>em
+							d<expan>i</expan>c<expan>t</expan>e</seg>
+					<seg rend="23,196,265,209">concessionis <expan>et</expan>
+						<expan>con</expan>firmat<expan>i</expan>o<expan>n</expan>is
+							pred<expan>i</expan>c<expan>t</expan>is G<expan>alchero</expan></seg>
+					<seg rend="272,192,873,222"><expan>et</expan> ejus uxori firmit<expan>er</expan>
+						<expan>con</expan>cedim<expan>us</expan>
+						<expan>et</expan> p<expan>ro</expan>mittim<expan>us</expan> bona fide
+							q<expan>uo</expan>d decet<expan>er</expan>o
+						d<expan>i</expan>c<expan>t</expan>o A<expan>lfonso</expan>,
+						k<expan>arissi</expan>mo marito n<expan>ost</expan>ro,</seg>
+					<seg rend="24,225,429,240">nec de mobilib<expan>us</expan>
+						n<expan>ost</expan>ris nec de t<expan>er</expan>ra n<expan>ost</expan>ra
+							pot<expan>er</expan>im<expan>us</expan> aliquid legare</seg>
+					<seg rend="435,227,891,253">vel donare nec r<expan>ati</expan>one
+							alicuj<expan>us </expan>testam<expan>en</expan>ti ult<expan>r</expan>a
+							su<expan>m</expan>mam pred<expan>i</expan>c<expan>t</expan>am
+						t<expan>er</expan>ram</seg>
+					<seg rend="24,249,282,271">n<expan>ost</expan>ram decet<expan>er</expan>o
+							hon<expan>er</expan>abim<expan>us</expan> v<expan>e</expan>l
+							obligabim<expan>us</expan>.</seg>
+					<seg rend="288,255,885,285">Hoc aut<expan>em</expan>, fide data in manu
+							ven<expan>er</expan>abilis pat<expan>r</expan>is R<expan>oberti</expan>,
+							D<expan>e</expan>i gr<expan>ati</expan>a Belvacen<expan>sis</expan>
+							ep<expan>iscop</expan>i, fidelit<expan>er</expan></seg>
+					<seg rend="21,288,475,304">observare p<expan>ro</expan>misim<expan>us</expan>.
+						Nos aut<expan>em</expan> A<expan>lfonsus</expan>, filius illustris
+							reg<expan>is</expan> Portug<expan>alie</expan>,</seg>
+					<seg rend="485,293,882,317">com<expan>es</expan> Bolon<expan>ie</expan>,
+							pred<expan>i</expan>c<expan>t</expan>am
+						obligat<expan>i</expan>o<expan>n</expan>em <expan>et</expan>
+						<expan>con</expan>cessione<expan>m</expan> q<expan>u</expan>am de li-</seg>
+					<seg rend="14,319,434,337">-cencia n<expan>ost</expan>ra fecit
+							pred<expan>i</expan>c<expan>t</expan>a M<expan>athildis</expan>,
+							k<expan>arissi</expan>ma uxor n<expan>ost</expan>ra,
+						volum<expan>us</expan>, <expan>con</expan>cedim<expan>us</expan></seg>
+					<seg rend="444,325,866,355">ac ratam h<expan>ab</expan>em<expan>us</expan>. Ad
+							cuj<expan>us</expan> rei
+							<expan>con</expan>firmat<expan>i</expan>o<expan>n</expan>em
+						<expan>et</expan> munime<expan>n</expan>, presens</seg>
+					<seg rend="20,343,394,370">scriptum sigilli n<expan>ost</expan>ri
+						<expan>et</expan> sigilli pred<expan>i</expan>c<expan>t</expan>i
+							A<expan>lfonsi</expan>, mariti n<expan>ost</expan>ri,
+						fecim<expan>us</expan></seg>
+					<seg rend="400,360,879,383">roborari ; supplicam<expan>us</expan>
+						insup<expan>er</expan> cu<expan>m</expan>
+						pred<expan>i</expan>c<expan>t</expan>o A<expan>lfonso</expan>,
+							k<expan>arissi</expan>mo marito n<expan>ost</expan>ro,
+						ven<expan>erabili</expan> p<expan>at</expan>ri R<expan>oberto</expan></seg>
+					<seg rend="22,375,397,400">Belvacen<expan>si</expan> ep<expan>iscop</expan>o ut
+							litt<expan>er</expan>as suas patentes, suo sigillo signatas,</seg>
+					<seg rend="409,386,880,420">sup<expan>er</expan>
+						d<expan>i</expan>c<expan>t</expan>a
+						obligat<expan>i</expan>o<expan>n</expan>e <expan>et</expan>
+						<expan>con</expan>cessione pred<expan>i</expan>c<expan>t</expan>is
+							G<expan>alchero</expan> et ej<expan>us</expan> uxori
+						<expan>con</expan>cedat in tes-</seg>
+					<seg rend="17,406,354,434">-timoniu<expan>m</expan>
+						<expan>et</expan> munime<expan>n</expan>. Act<expan>um</expan>
+							P<expan>ar</expan>isi<expan>us</expan>, anno D<expan>omi</expan>ni </seg>
+					<seg rend="361,423,769,447">mill<expan>esim</expan>o CC° quadragesimo
+							s<expan>e</expan>c<expan>un</expan>do, m<expan>en</expan>se
+							novembr<expan>is</expan>.</seg>
+				</p>
+			</div>
+			<div type="transcription">
+				<div type="texte">
+					<l>Univ<expan>er</expan>sis presentes litt<expan>er</expan>as
+						inspect<expan>ur</expan>is, </l>
+					<l><term
+							n="M(athildis) comitissa Bolonie : Mahaut de Dammartin, comtesse de Boulogne, avait successivement épousé Philippe Hurepel (bâtard de Philippe Auguste, † 1234, dont naît Jeanne), puis Alphonse de Portugal (neveu par sa mère de Blanche de Castille)."
+								>M<expan>athildis</expan> comitissa Bolon<expan>ie</expan></term>,
+						in D<expan>omi</expan>no </l>
+					<l>sal<expan>u</expan>tem.</l>
+					<l/>
+					<l>Notum facim<expan>us</expan> q<expan>uo</expan>d, cum
+						k<expan>arissi</expan>mo </l>
+					<l>marito n<expan>ost</expan>ro <term
+							n="Alfonso : Fils du roi de Portugal Afonso II († 1223) et frère cadet du roi alors régnant, Sancho II ; celui-ci déposé en 1245, Alphonse gagnera le Portugal comme régent avant d&#x2019;y devenir roi en 1248 sous le nom d&#x2019;Afonso III."
+							>Alfonso</term>, filio illustris reg<expan>is</expan>
+					</l>
+					<l>Portugalie, comit<expan>i</expan> Bolon<expan>ie</expan>, viginti milia </l>
+					<l>librar<expan>um</expan>
+						<term
+							n="parisiensium : Génitif pluriel de rigueur en latin, car denariorum est sous-entendu (mais l’usage s’est perdu en français contemporain, qui parle de « livres parisis » plutôt que de « livres de parisis »)."
+								>paris<expan>iensium</expan></term>
+						<expan>con</expan>tulerim<expan>us</expan>
+					</l>
+					<l>p<expan>er</expan>cipiend<expan>a</expan> in t<expan>er</expan>ra
+						n<expan>ost</expan>ra post decessum </l>
+					<l>n<expan>ost</expan>r<expan>u</expan>m in t<expan>er</expan>minis assignatis,
+							p<expan>ro</expan>ut in </l>
+					<l>litt<expan>er</expan>is sup<expan>er</expan>
+						d<expan>i</expan>c<expan>t</expan>a donatione confectis </l>
+					<l>pleni<expan>us</expan>
+						<expan>con</expan>tinet<expan>ur</expan>,</l>
+					<l/>
+					<l>et cu<expan>m</expan> testam<expan>en</expan>tum condiderim<expan>us</expan>
+						de </l>
+					<l>centu<expan>m</expan>
+						<term
+							n="libratis : Une « livrée de terre » est une unité abstraite de mesure, qui désigne la capacité de percevoir une livre de revenus annuels assis sur la terre, quel que soit le mode de détention (posséder une terre de ce rapport, détenir une rente de ce montant assise sur une terre, etc.). Il y a naturellement autant de « livrées » que de genre de monnaie, parisis, tournois, etc. ; les textes en ancien français parlent ainsi parfois de « livrée attournois » (= ad turonenses), etc."
+							>libratis</term> t<expan>er</expan>re n<expan>ost</expan>re
+							par<expan>isiensium</expan>
+						<expan>et</expan>
+					</l>
+					<l>de septe<expan>m</expan> mil<expan>ibus</expan> lib<expan>rarum</expan>
+							par<expan>isiensium</expan>
+					</l>
+					<l>si<expan>mi</expan>l<expan>ite</expan>r in t<expan>er</expan>ra
+						n<expan>ost</expan>ra p<expan>ost</expan> decessum </l>
+					<l>n<expan>ost</expan>r<expan>u</expan>m p<expan>er</expan>cipiend<expan>is</expan>
+						<expan>et</expan> k<expan>arissi</expan>mus n<expan>ost</expan>er </l>
+					<l>Gaucher<expan>us</expan> de Castell<expan>ione</expan>
+						<expan>et</expan> Joha<expan>n</expan>na filia </l>
+					<l>n<expan>ost</expan>ra, uxor ejusd<expan>em</expan>, h<expan>er</expan>edes
+							n<expan>ost</expan>ri, </l>
+					<l>pred<expan>i</expan>c<expan>t</expan>am
+						donat<expan>i</expan>o<expan>n</expan>em <expan>et</expan>
+							d<expan>i</expan>c<expan>tu</expan>m </l>
+					<l>testam<expan>en</expan>tum benigne <expan>con</expan>cesseri<expan>n</expan>t
+							<expan>et</expan> rata </l>
+					<l>h<expan>ab</expan>uerint ac <expan>con</expan>firmav<expan>er</expan>int, </l>
+					<l/>
+					<l>nos in recompensat<expan>i</expan>o<expan>n</expan>em
+							d<expan>i</expan>c<expan>t</expan>e</l>
+					<l>concessionis <expan>et</expan>
+						<expan>con</expan>firmat<expan>i</expan>o<expan>n</expan>is
+							pred<expan>i</expan>c<expan>t</expan>is </l>
+					<l>G<expan>alchero</expan>
+						<expan>et</expan> ejus uxori firmit<expan>er</expan>
+						<expan>con</expan>cedim<expan>us</expan>
+					</l>
+					<l><expan>et</expan> p<expan>ro</expan>mittim<expan>us</expan> bona fide
+							q<expan>uo</expan>d decet<expan>er</expan>o </l>
+					<l>d<expan>i</expan>c<expan>t</expan>o A<expan>lfonso</expan>,
+						k<expan>arissi</expan>mo marito n<expan>ost</expan>ro, nec </l>
+					<l>de mobilib<expan>us</expan> n<expan>ost</expan>ris nec de
+						t<expan>er</expan>ra n<expan>ost</expan>ra </l>
+					<l>pot<expan>er</expan>im<expan>us</expan> aliquid legare vel donare nec </l>
+					<l>r<expan>ati</expan>one alicuj<expan>us </expan>testam<expan>en</expan>ti
+							ult<expan>r</expan>a su<expan>m</expan>mam </l>
+					<l>pred<expan>i</expan>c<expan>t</expan>am t<expan>er</expan>ram
+						n<expan>ost</expan>ram decet<expan>er</expan>o </l>
+					<l>hon<expan>er</expan>abim<expan>us</expan> v<expan>e</expan>l
+							obligabim<expan>us</expan>.</l>
+					<l/>
+					<l/>
+					<l>Hoc aut<expan>em</expan>, fide data in manu ven<expan>er</expan>abilis </l>
+					<l>pat<expan>r</expan>is R<expan>oberti</expan>, D<expan>e</expan>i
+						gr<expan>ati</expan>a Belvacen<expan>sis</expan>
+					</l>
+					<l>ep<expan>iscop</expan>i, fidelit<expan>er</expan> observare
+							p<expan>ro</expan>misim<expan>us</expan>. </l>
+					<l/>
+					<l>Nos aut<expan>em</expan> A<expan>lfonsus</expan>, filius illustris
+							reg<expan>is</expan>
+					</l>
+					<l>Portug<expan>alie</expan>, com<expan>es</expan> Bolon<expan>ie</expan>,
+							pred<expan>i</expan>c<expan>t</expan>am </l>
+					<l>obligat<expan>i</expan>o<expan>n</expan>em <expan>et</expan>
+						<expan>con</expan>cessione<expan>m</expan> q<expan>u</expan>am de </l>
+					<l>licencia n<expan>ost</expan>ra fecit pred<expan>i</expan>c<expan>t</expan>a
+							M<expan>athildis</expan>, </l>
+					<l>k<expan>arissi</expan>ma uxor n<expan>ost</expan>ra, volum<expan>us</expan>, </l>
+					<l><expan>con</expan>cedim<expan>us</expan> ac ratam
+							h<expan>ab</expan>em<expan>us</expan>. </l>
+					<l/>
+					<l>Ad cuj<expan>us</expan> rei
+						<expan>con</expan>firmat<expan>i</expan>o<expan>n</expan>em
+						<expan>et</expan> munime<expan>n</expan>, </l>
+					<l>presens scriptum sigilli n<expan>ost</expan>ri <expan>et</expan> sigilli </l>
+					<l>pred<expan>i</expan>c<expan>t</expan>i A<expan>lfonsi</expan>, mariti
+							n<expan>ost</expan>ri, fecim<expan>us</expan></l>
+					<l>roborari ; supplicam<expan>us</expan> insup<expan>er</expan>
+						cu<expan>m</expan>
+					</l>
+					<l>pred<expan>i</expan>c<expan>t</expan>o A<expan>lfonso</expan>,
+						k<expan>arissi</expan>mo marito n<expan>ost</expan>ro, </l>
+					<l>ven<expan>erabili</expan> p<expan>at</expan>ri R<expan>oberto</expan>
+							Belvacen<expan>si</expan>
+					</l>
+					<l>ep<expan>iscop</expan>o ut <term
+							n="litteras suas patentes : voir la partie synthèse du commentaire diplomatique."
+								>litt<expan>er</expan>as suas patentes</term>, suo </l>
+					<l>sigillo signatas, sup<expan>er</expan> d<expan>i</expan>c<expan>t</expan>a
+							obligat<expan>i</expan>o<expan>n</expan>e <expan>et</expan>
+					</l>
+					<l><expan>con</expan>cessione pred<expan>i</expan>c<expan>t</expan>is
+							G<expan>alchero</expan> et ej<expan>us</expan> uxori </l>
+					<l><expan>con</expan>cedat in testimoniu<expan>m</expan>
+						<expan>et</expan> munime<expan>n</expan>. </l>
+					<l>Act<expan>um</expan> P<expan>ar</expan>isi<expan>us</expan>, anno
+						D<expan>omi</expan>ni mill<expan>esim</expan>o </l>
+					<l>CC° quadragesimo s<expan>e</expan>c<expan>un</expan>do, m<expan>en</expan>se </l>
+					<l>novembr<expan>is</expan>.</l>
+				</div>
+				<div type="traduction">
+					<l>À tous ceux qui verront les présentes</l>
+					<l>lettres, <term
+							n="M(athildis) comitissa Bolonie : Mahaut de Dammartin, comtesse de Boulogne, avait successivement épousé Philippe Hurepel (bâtard de Philippe Auguste, † 1234, dont naît Jeanne), puis Alphonse de Portugal (neveu par sa mère de Blanche de Castille)."
+							>M(ahaut) comtesse de Boulogne,</term></l>
+					<l>salut dans le Seigneur.</l>
+					<l/>
+					<l>Nous faisons savoir que, comme nous</l>
+					<l>avons donné à notre très cher mari</l>
+					<l><term
+							n="Alfonso : Fils du roi de Portugal Afonso II († 1223) et frère cadet du roi alors régnant, Sancho II ; celui-ci déposé en 1245, Alphonse gagnera le Portugal comme régent avant d&#x2019;y devenir roi en 1248 sous le nom d&#x2019;Afonso III."
+							>Alphonse</term>, fils de l'illustre roi de Portugal,</l>
+					<l>comte de Boulogne, vingt mille livres</l>
+					<l><term
+							n="parisiensium : Génitif pluriel de rigueur en latin, car denariorum est sous-entendu (mais l’usage s’est perdu en français contemporain, qui parle de « livres parisis » plutôt que de « livres de parisis »)."
+							>parisis</term> à percevoir en notre terre après</l>
+					<l>notre décès, aux termes fixés, ainsi qu'il est plus</l>
+					<l>pleinement contenu dans les lettres</l>
+					<l>faites sur ladite donation,</l>
+					<l/>
+					<l>et que nous avons rédigé notre testament</l>
+					<l>[en y traitant] de cent <term
+							n="libratis : Une « livrée de terre » est une unité abstraite de mesure, qui désigne la capacité de percevoir une livre de revenus annuels assis sur la terre, quel que soit le mode de détention (posséder une terre de ce rapport, détenir une rente de ce montant assise sur une terre, etc.). Il y a naturellement autant de « livrées » que de genre de monnaie, parisis, tournois, etc. ; les textes en ancien français parlent ainsi parfois de « livrée attournois » (= ad turonenses), etc."
+							>livrées</term> parisis de</l>
+					<l>terre et de sept mille livres parisis à</l>
+					<l>percevoir semblablement [par Alphonse]</l>
+					<l>en notre terre après notre décès, et que</l>
+					<l>notre très cher Gaucher de Châtillon et</l>
+					<l>notre fille Jeanne, son épouse, nos héritiers,</l>
+					<l>ont avec bienveillance concédé, agréé et</l>
+					<l>confirmé la susdite donation et ledit</l>
+					<l>testament,</l>
+					<l/>
+					<l>nous, en compensation de ladite concession</l>
+					<l>et confirmation, avons concédé et</l>
+					<l>promettons de bonne foi aux susdits</l>
+					<l>Gaucher et son épouse que nous ne</l>
+					<l>pourrons désormais plus léguer ou donner</l>
+					<l>audit Alphonse, notre très cher mari, quoi</l>
+					<l>que ce soit de nos biens meubles ou de</l>
+					<l>notre terre, et que nous ne chargerons ou</l>
+					<l>obligerons désormais plus notre susdite</l>
+					<l>terre en sus de la somme susdite pour un</l>
+					<l>quelconque don testamentaire.</l>
+					<l/>
+					<l>Cela nous avons promis de l'observer</l>
+					<l>fidèlement, après avoir donné notre foi</l>
+					<l>entre les mains de vénérable père R(obert),</l>
+					<l>par la grâce de Dieu évêque de Beauvais.</l>
+					<l/>
+					<l>Et nous Alphonse, fils de l'illustre roi de</l>
+					<l>Portugal, comte de Boulogne, nous</l>
+					<l>voulons, concédons et agréons la susdite</l>
+					<l>obligation et concession que la susdite</l>
+					<l>M(ahaut), notre très chère épouse, a fait avec notre accord. </l>
+					<l/>
+					<l>En confirmation et protection de quoi, nous</l>
+					<l>avons fait valider le présent écrit de notre</l>
+					<l>sceau et du sceau du susdit Alphonse,</l>
+					<l>notre mari ; nous supplions en outre, avec</l>
+					<l>le susdit Alphonse notre très cher mari,</l>
+					<l>vénérable père R(obert) évêque de</l>
+					<l>Beauvais que sur ladite obligation et</l>
+					<l>concession il concède <term
+							n="litteras suas patentes : voir la partie synthèse du commentaire diplomatique."
+							>ses lettres patentes</term>,</l>
+					<l>scellées de son sceau, aux susdits Gaucher</l>
+					<l>et à son épouse, en témoignage et</l>
+					<l>protection [du présent acte]. Fait à Paris,</l>
+					<l>l'an du Seigneur mille 200 quarante-deux,</l>
+					<l>au mois de novembre.</l>
+				</div>
+				<div type="regeste">
+					<head> </head>
+					<p> M[ahaut], comtesse de Boulogne, promet à son gendre Gaucher de Châtillon et
+						à sa fille Jeanne, épouse de celui-ci, de ne pas faire sur sa terre de
+						nouveau don ou legs à son époux Alphonse, fils du roi de Portugal et comte
+						de Boulogne, à qui elle a donné successivement vingt mille parisis à prendre
+						aux termes fixés dans l'acte de don, et, dans son testament, cent livrées
+						parisis de terre et sept mille livres parisis à prendre à son décès. Cet
+						engagement, ratifié par Alphonse, solennisé par un serment entre les mains
+						de l'évêque de Beauvais R[obert], sera en outre garanti aux héritiers par
+						des lettres patentes du prélat. </p>
+					<p> Comme on le voit, de façon exceptionnelle, on a choisi ici de rapporter un
+						trait mentionné dans la corroboration de l'acte, lui-même exceptionnel
+						(l'annonce d'un autre acte, à côté de la traditionnelle annonce de sceau).
+					</p>
+				</div>
+			</div>
+			<div type="commentaire" n="diplomatique">
+				<head>Commentaire diplomatique</head>
+				<div n="1">
+					<head>Caractères externes</head>
+					<div type="contenu_commentaire">
+						<p>
+							<figure rend="32/faxexternes.jpg">
+								<figDesc>
+									<seg type="poly"
+										rend="240,49,249,49,254,54,254,61,249,66,243,69,237,65,234,60,234,54"
+										>La comtesse et, plus bas, l?évêque de Beauvais, ne sont
+										jamais désignés que par l?initiale de leur nom, encadrée par
+										deux points. Les autres personnages cités (Alphonse,
+										Gaucher) sont d?abord désignés par leur nom complet et ce
+										n?est qu?après qu?ils sont désignés par l?initiale. Ceci
+										peut nous sembler incohérent, puisque les « acteurs »
+										principaux ont droit à une désignation anthroponymique moins
+										complète que les « comparses » ; mais, au contraire, insiste
+										très profondément sur une différence de nature entre les
+										acteurs d?actes, pourvus d?une autorité (comtesse, évêque),
+										donc en partie dépersonnalisés (penser aux deux points
+										suivis d?un titre), et les personnes citées comme légataires
+										ou héritiers</seg>
+									<seg type="poly"
+										rend="588,170,596,176,598,179,597,186,595,191,589,193,583,194,579,191,577,187,578,181,581,176"
+										>Initiale du mari, Alphonse, dont le nom est cité
+										intégralement à la ligne 1.</seg>
+									<seg type="poly"
+										rend="238,163,253,169,253,178,249,183,247,185,239,187,233,182,229,176,231,171"
+										>Initiale du gendre, Gaucher de Châtillon, dont le nom est
+										cité intégralement à la ligne 4.</seg>
+
+									<seg type="poly"
+										rend="522,222,531,222,536,226,537,232,532,237,524,238,516,236,513,231,516,225"
+										>Initiale de l?évêque de Beauvais, Robert de Cressonsacq,
+										dont le nom n?apparaît jamais sous sa forme développée.</seg>
+									<seg type="poly"
+										rend="689,271,698,266,701,258,697,251,690,248,684,250,680,255,680,262,683,266,684,270"
+										>Noter le souci de présentation de lignes à peu près
+										justifiées à droite, et qui n?amène qu?une coupure de mot,
+										signalées par un tiret.</seg>
+									<seg type="poly"
+										rend="644,336,660,333,680,333,691,334,698,335,711,337,717,342,725,346,727,352,719,359,709,363,694,366,684,367,672,367,660,367,647,364,638,363,631,360,624,356,619,353,617,349,620,345,628,339,633,337"
+										>Trait couvrant la fin de la dernière ligne : marqueur de
+										fin de texte et obstacle à une addition frauduleuse
+										(“interpolation”).</seg>
+									<seg type="poly"
+										rend="192,414,201,414,213,414,222,418,232,422,239,427,238,434,234,439,224,444,212,447,201,448,188,446,179,445,170,441,162,438,157,433,156,429,158,423,168,419,175,415,182,415"
+										>Fente dans le repli, par laquelle passait l?attache (double
+										queue de parchemin) de l?un des deux sceaux, tous deux
+										perdus avec leur attache.</seg>
+								</figDesc>
+							</figure>
+						</p>
+					</div>
+				</div>
+
+				<div n="2">
+					<head>Langue, mots, style</head>
+					<div type="contenu_commentaire">
+						<p>Universis presentes litteras inspecturis, M(athildis) comitissa Bolonie,
+							in Domino salutem. Notum facimus quod, cum karissimo marito nostro
+							Alfonso, filio illustris regis Portugalie, comiti Bolonie, viginti milia
+							librarum parisiensium contulerimus percipienda in terra nostra post
+							decessum nostrum in terminis assignatis, prout in litteris super dicta
+							donatione confectis plenius continetur, et cum testamentum condiderimus
+							de centum libratis terre nostre parisiensium et de septem milibus
+							librarum parisiensium similiter in terra nostra post decessum nostrum
+							percipiendis et karissimus noster Gaucherus de Castellione et Johanna
+							filia nostra, uxor ejusdem, heredes nostri, predictam donationem et
+							dictum testamentum benigne concesserint et rata habuerint ac
+							confirmaverint, nos in recompensationem dicte concessionis et
+							confirmationis predictis Galchero et ejus uxori firmiter concedimus et
+							promittimus bona fide quod decetero dicto Alfonso, karissimo marito
+							nostro, nec de mobilibus nostris nec de terra nostra poterimus aliquid
+							legare vel donare nec ratione alicujus testamenti ultra summam predictam
+							terram nostram decetero honerabimus vel obligabimus. Hoc autem, fide
+							data in manu venerabilis patris R(oberti), Dei gratia Belvacensis
+							episcopi, fideliter observare promisimus. Nos autem Alfonsus, filius
+							illustris regis Portugalie, comes Bolonie, predictam obligationem et
+							concessionem quam de licencia nostra fecit predicta M(athildis),
+							karissima uxor nostra, volumus, concedimus ac ratam habemus. Ad cujus
+							rei confirmationem et munimen, presens scriptum sigilli nostri et
+							sigilli predicti Alfonsi, mariti nostri, fecimus roborari ; supplicamus
+							insuper cum predicto Alfonso, karissimo marito nostro, venerabili patri
+							R(oberto) Belvacensi episcopo ut litteras suas patentes, suo sigillo
+							signatas, super dicta obligatione et concessione predictis Galchero et
+							ejus uxori concedat in testimonium et munimen. Actum Parisius, anno
+							Domini millesimo CC° quadragesimo secundo, mense novembris. </p>
+						<p>Noter la tendance générale du XIII<hi rend="exposant">e</hi> siècle au
+							mélange de précision et de concision, sans ornement excessif, à peine
+							contrarié par le souci de juxtaposer des quasi synonymes pour mieux
+							serrer les réalités décrites ou insister plus lourdement sur les
+							engagements. Relever aussi, au fil de la lecture, le mélange : de
+							tournures diplomatiques stéréotypées, et d'un vocabulaire spécialisé
+							pour les traits juridiques (patrimoine, donation, héritage, testament…) </p>
+
+
+
+					</div>
+				</div>
+
+				<div n="3">
+					<head>Parties du discours</head>
+					<div type="contenu_commentaire">
+						<p>Universis presentes litteras inspecturis M(athildis) comitissa Bolonie in
+							Domino salutem. Notum facimus quod cum karissimo marito nostro Alfonso,
+							filio illustris regis Portugalie, comiti Bolonie, viginti milia librarum
+							parisiensium contulerimus percipienda in terra nostra post decessum
+							nostrum in terminis assignatis, prout in litteris super dicta donatione
+							confectis plenius continetur, et cum testamentum condiderimus de centum
+							libratis terre nostre parisiensium et de septem milibus librarum
+							parisiensium similiter in terra nostra post decessum nostrum
+							percipiendis et karissimus noster Gaucherus de Castellione et Johanna
+							filia nostra, uxor ejusdem, heredes nostri, predictam donationem et
+							dictum testamentum benigne concesserint et rata habuerint ac
+							confirmaverint, nos in recompensationem dicte concessionis et
+							confirmationis predictis Galchero et ejus uxori firmiter concedimus et
+							promittimus bona fide quod decetero dicto Alfonso, karissimo marito
+							nostro, nec de mobilibus nostris nec de terra nostra poterimus aliquid
+							legare vel donare nec ratione alicujus testamenti ultra summam predictam
+							terram nostram decetero honerabimus vel obligabimus. Hoc autem, fide
+							data in manu venerabilis patris R(oberti), Dei gratia Belvacensis
+							episcopi, fideliter observare promisimus. Nos autem Alfonsus, filius
+							illustris regis Portugalie, comes Bolonie, predictam obligationem et
+							concessionem quam de licencia nostra fecit predicta M(athildis),
+							karissima uxor nostra, volumus, concedimus ac ratam habemus. Ad cujus
+							rei confirmationem et munimen, presens scriptum sigilli nostri et
+							sigilli predicti Alfonsi, mariti nostri, fecimus roborari supplicamus
+							insuper cum predicto Alfonso, karissimo marito nostro, venerabili patri
+							R(oberto) Belvacensi episcopo ut litteras suas patentes, suo sigillo
+							signatas, super dicta obligatione et concessione predictis Galchero et
+							ejus uxori concedat in testimonium et munimen. Actum Parisius, anno
+							Domini millesimo CC° quadragesimo secundo, mense novembris. </p>
+
+					</div>
+				</div>
+				<div n="4">
+					<head>Synthèse</head>
+					<div type="contenu_commentaire">
+						<p>Le montage de l'acte est sophistiqué. Rédigé au nom de la comtesse, le
+							texte enchâsse un bref passage où son époux prend la parole. Cette
+							alternance, marque du consentement, est récapitulée par une
+							corroboration annonçant le sceau de chacun ; la corroboration annonce
+							ensuite un autre acte, garantie délivrée cette fois de l'extérieur, par
+							l'évêque de Beauvais, qui reprend du service après avoir été cité comme
+							garant du serment de la comtesse ; la force de cette double
+							corroboration est scellée par la quasi-reprise de l'expression <hi
+								rend="italic">confirmationem et munimen/testimonium et munimen</hi>
+							en ouverture puis en clôture.</p>
+						<p>Le discours apparaît ainsi comme un habile tissage de paroles et
+							d'écrits, de promesses et de serments entrecroisés, dont la trame limite
+							la liberté d'action de la comtesse, accessoirement celle du comte — qui
+							intervient bien pour « autoriser » son épouse à agir (<hi rend="italic"
+								>de licentia nostra</hi>), comme le droit l'exige, mais qui apparaît
+							bien en retrait. Joint à l'annonce de l'acte épiscopal, ce trait désigne
+							à l'évidence les héritiers, gendre et fille, comme instigateurs d'une
+							mesure qu'ils ont dû exiger avec moins de sérénité que ne le laissent
+							entrevoir le sage déroulement de l'exposé et l'accumulation des verbes
+							et expressions suggérant aussi bien l'initiative de la comtesse (dont la
+							personne commande pas moins de onze verbes) que la concorde et dilection
+							qui règne dans la famille (l'emploi répété, en épithète, de <hi
+								rend="italic">karissimus</hi> n'est pas que marque de politesse : il
+							renvoie à la charité, amour mutuel, donc à la paix ; voir aussi <hi
+								rend="italic">benigne</hi>).</p>
+
+						<p>Alors que l’acte au nom de la comtesse est qualifié de <hi rend="italic"
+								>scriptum</hi>, on parle de « lettres patentes » pour celui de
+							l’évêque (<hi rend="italic">litteras suas patentes</hi>). Générique à
+							l’origine (lettre ouvertes, par opposition aux « lettres closes », qui
+							n’ont vocation ni à la publicité ni à la validation), l’expression ne
+							fait sans doute ici que suggérer une certaine solennité, ou force
+							juridique de l’acte octroyé en garantie aux héritiers. Au siècle
+							précédent, on aurait sans doute plus volontiers parlé de « charte ».
+							Noter au passage que le latin médiéval peut continuer à employer le
+							pluriel literae pour désigner « une lettre » ; le vocabulaire
+							diplomatique contemporain hésite entre pluriel et singulier (« par
+							lettres du roi en date du...», mais « une lettre de rémission »).</p>
+						<p> Ces traits accusent l'intervention d'un rédacteur expert, versé aussi
+							bien dans l'<hi rend="italic">ars dictaminis</hi> que dans le droit,
+							encore que l'acte sente moins l'école que la pratique. Il n'y a en tout
+							cas guère d'apparat comtal dans cet acte, qui serait aussi bien sorti
+							d'une officialité — mais la constation n'exclut pas l'intervention d'un
+							savant chapelain ou « notaire » de la comtesse.</p>
+						<p> Par-delà ces traits diplomatiques, qui montrent la faiblesse
+							structurelle de la « diplomatique comtale » des XII<hi rend="exposant"
+								>e</hi>-XIII<hi rend="exposant">e</hi> siècles, comme l'invasion de
+							l'écrit (la comtesse cite ici trois autres documents : les lettres de
+							don, le testament, la future notification épiscopale), l'acte est un
+							précieux témoignage de la vogue du testament, devenue pratique courante
+							dans l'aristocratie depuis quelques décennies, et des correctifs
+							apportés à coup d'actes (et de procès) à la liberté, d'ailleurs très
+							relative, qu'il offrait dans les arrangements successoraux. </p>
+					</div>
+				</div>
+			</div>
+
+		</body>
+	</text>
+</TEI>

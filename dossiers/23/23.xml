@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1261, Oissery. Acte sous le sceau d'un chevalier.</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">23</idno>
+				<publisher>École nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : Bibl. nat. Fr.</p>
+				<p>Fac-sim. ENC : AF 430 (lithographie).</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="frm">Ancien français</language>
+				<language id="fre">Français</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+				<p>
+	                                                    <seg rend="27,29,742,53">Ego Thomas dict<expan>us</expan> Goulart de Osseriaco miles. Notum facio univ<expan>er</expan>sis pre-</seg>
+	                                                     <seg rend="20,67,738,91">-sentes litt<expan>er</expan>as inspecturis q<expan>uo</expan>d, cum ego <expan>con</expan>cesserim <expan>et</expan> imperpetuum in manu</seg>
+	                                                     <seg rend="18,106,741,125">mortua q<expan>ui</expan>ttav<expan>er</expan>im viris religiosis abb<expan>at</expan>i <expan>et</expan> conventui Karoliloci, Cist<expan>erciensis</expan> ordi-</seg>
+	                                                     <seg rend="16,145,728,163">-nis, Silvan<expan>e</expan>cten<expan>sis</expan> dyoc<expan>esis</expan>, ac eor<expan>um</expan> monast<expan>er</expan>io duas t<expan>er</expan>re pecias in territorio de Oisse-</seg>
+	                                                     <seg rend="21,177,737,196">-riaco <expan>et</expan> in censiva mea sitas, a Guill<expan>elm</expan>o le Fauconnier, armig<expan>er</expan>o, et d<expan>omi</expan>na Maria la Fau-</seg>
+	                                                     <seg rend="25,214,725,233">-connire, m<expan>at</expan>re sua, ac Ermengarde, uxore ejusdem, d<expan>i</expan>c<expan>t</expan>is religiosis venditas,</seg>
+	                                                     <seg rend="17,251,743,272">una<expan>m</expan> vid<expan>e</expan>lic<expan>et</expan> ad Spinam Henrici, q<expan>u</expan>atuor arpenta <expan>et</expan> unu<expan>m</expan> q<expan>u</expan>arteriu<expan>m</expan> v<expan>e</expan>l ci<expan>r</expan>citer </seg>
+	                                                     <seg rend="23,288,739,307">ad arpentu<expan>m</expan> illi<expan>us</expan> t<expan>er</expan>ritorii <expan>con</expan>tinentem, <expan>et </expan>aliam sitam juxta viam q<expan>u</expan>a itur </seg>
+	                                                     <seg rend="16,329,738,343">vers<expan>us</expan> Aciacu<expan>m</expan>, arpentu<expan>m</expan> unu<expan>m</expan> <expan>et</expan> dimidiu<expan>m</expan> vel circit<expan>er</expan> <expan>con</expan>tinentem ad</seg>
+	                                                     <seg rend="15,362,744,384">arpentu<expan>m</expan> suprad<expan>i</expan>c<expan>tu</expan>m, <expan>et</expan> ego tenear eisde<expan>m</expan> relig<expan>iosis</expan> d<expan>i</expan>c<expan>t</expan>as duas pecias <expan>con</expan>tra</seg>
+	                                                     <seg rend="17,396,746,420">om<expan>ne</expan>s imp<expan>er</expan>p<expan>etuu</expan>m garandire <expan>et</expan> ip<expan>s</expan>i religiosi s<expan>ib</expan>i metuant ne a d<expan>omi</expan>no Guill<expan>elm</expan>o de S<expan>an</expan>c<expan>t</expan>o</seg>
+	                                                     <seg rend="21,433,740,455">Patusio t<expan>er</expan>ra p<expan>re</expan>fata moveat ac p<expan>e</expan>r hoc ip<expan>s</expan>os valeat molestare, ego me <expan>et</expan> h<expan>er</expan>edes</seg>
+	                                                     <seg rend="13,471,749,492">me<expan>os</expan> post me ad hoc obligo q<expan>uo</expan>d, si p<expan>re</expan>dict<expan>us</expan> miles d<expan>omi</expan>nus Guill<expan>elmu</expan>s de S<expan>an</expan>c<expan>t</expan>o Patusio sup<expan>er</expan> d<expan>i</expan>c<expan>t</expan>a </seg>
+	                                                     <seg rend="9,502,756,522">t<expan>er</expan>ra calu<expan>m</expan>pniam mov<expan>er</expan>et v<expan>e</expan>l inde modo q<expan>u</expan>olib<expan>et</expan> d<expan>i</expan>c<expan>t</expan>os f<expan>rat</expan>res aut eor<expan>um</expan> eccl<expan>es</expan>iam mo- </seg>
+	                                                     <seg rend="6,535,754,555">-lestar<expan>et</expan>, ego et h<expan>er</expan>edes mei p<expan>os</expan>t me ten<expan>er</expan>em<expan>ur</expan> ip<expan>su</expan>m Guill<expan>elmu</expan>m <expan>com</expan>pesc<expan>er</expan>e <expan>et</expan> h<expan>er</expan>edes suos</seg>
+	                                                     <seg rend="15,578,741,600">simil<expan>ite</expan>r <expan>et</expan> ab om<expan>n</expan>i calu<expan>m</expan>pnia d<expan>i</expan>c<expan>t</expan>e t<expan>er</expan>re <expan>et</expan> juris cujuslib<expan>et</expan> i<expan>n</expan> d<expan>i</expan>c<expan>t</expan>a t<expan>er</expan>ra cessare fac<expan>er</expan>e,</seg>
+	                                                     <seg rend="13,609,747,629">s<expan>u</expan>b pena cent<expan>um</expan> l<expan>i</expan>brar<expan>um</expan> par<expan>isiensium</expan> me, si ab hoc defic<expan>er</expan>em, <expan>et</expan> h<expan>er</expan>edes meos p<expan>ost </expan>me, si ab hoc de-</seg>
+	                                                     <seg rend="13,647,742,666">-fic<expan>er</expan>ent, simil<expan>ite</expan>r astringendo, d<expan>i</expan>c<expan>t</expan>is abb<expan>at</expan>i <expan>et</expan> <expan>con</expan>ventui solvendar<expan>um</expan>. Q<expan>uo</expan>d ut rat<expan>um</expan> <expan>et</expan> firmu<expan>m</expan></seg>
+	                                                     <seg rend="14,678,755,699">p<expan>er</expan>maneat, p<expan>re</expan>sentes litt<expan>er</expan>as sigilli mei munimine roboravi. Dat<expan>um</expan> anno D<expan>omi</expan>ni M° CC° LX° p<expan>r</expan>imo,</seg>
+	                                                     <seg rend="16,715,197,733">mense novembri.</seg>
+				</p>
+			</div>
+			<div type="transcription">
+	                                            <div type="texte">
+	                                                 <l>Ego Thomas dict<expan>us</expan> Goulart de <term n="Oissery (Seine-et-Marne, cant. Dammartin-en-Goële). Noter deux graphies différentes, ici &#171; Osseriacum &#187;, plus bas &#171; Oisseriacum &#187;.">Osseriaco</term> </l>
+	                                                 <l>miles. Notum facio univ<expan>er</expan>sis presentes </l>
+                                                                <l>litt<expan>er</expan>as inspecturis q<expan>uo</expan>d, cum ego </l>
+                                                                <l><expan>con</expan>cesserim <expan>et</expan> imperpetuum in <term n="Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu&#x2019;à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en &#171; main morte &#187; : le propriétaire éminent (&#34;censuel&#34;) peut s&#x2019;estimer lésé du fait qu&#x2019;il n&#x2019;y aura plus de changement de détenteur, donc plus d&#x2019;occasion de percevoir de droit de mutation, d&#x2019;investiture du nouveau détenteur. L&#x2019;habitude se prend donc de monnayer l&#x2019;accord du propriétaire éminent pour obtenir son &#171; abandon en mainmorte &#187; (ou alors de négocier cet abandon comme un don charitable).">manu</term></l>
+                                                                <l><term n="Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu&#x2019;à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en &#171; main morte &#187; : le propriétaire éminent (&#34;censuel&#34;) peut s&#x2019;estimer lésé du fait qu&#x2019;il n&#x2019;y aura plus de changement de détenteur, donc plus d&#x2019;occasion de percevoir de droit de mutation, d&#x2019;investiture du nouveau détenteur. L&#x2019;habitude se prend donc de monnayer l&#x2019;accord du propriétaire éminent pour obtenir son &#171; abandon en mainmorte &#187; (ou alors de négocier cet abandon comme un don charitable).">mortua</term> q<expan>ui</expan>ttav<expan>er</expan>im viris religiosis <term n="Au plan du droit canon, les occupants de l&#x2019;abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.">abb<expan>at</expan>i </term></l>
+                                                                <l><term n="Au plan du droit canon, les occupants de l&#x2019;abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale."><expan>et</expan> conventui</term> <term n="Chaalis : fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis).">Karoliloci</term>, Cist<expan>erciensis</expan> </l>
+                                                                <l>ordinis, Silvan<expan>e</expan>cten<expan>sis</expan> dyoc<expan>esis</expan>, ac eor<expan>um</expan> </l>
+                                                                <l>monast<expan>er</expan>io duas t<expan>er</expan>re pecias in territorio de </l>
+                                                                <l>Oisseriaco <expan>et</expan> in <term n="La censive ne désigne pas forcément un territoire compact, mais de façon générale, quel que soit son dessin sur le terrain, l&#x2019;ensemble des terres soumises à la propriété éminente du seigneur censuel.">censiva</term> mea sitas, a </l>
+                                                                <l>Guill<expan>elm</expan>o le Fauconnier, armig<expan>er</expan>o, et </l>
+                                                                <l>d<expan>omi</expan>na Maria la Fauconnire, m<expan>at</expan>re sua, ac </l>
+                                                                <l>Ermengarde, uxore ejusdem, d<expan>i</expan>c<expan>t</expan>is </l>
+                                                                <l>religiosis venditas,</l>
+                                                                <l/>
+                                                                <l>una<expan>m</expan> vid<expan>e</expan>lic<expan>et</expan> ad Spinam Henrici, q<expan>u</expan>atuor </l>
+                                                                <l>arpenta <expan>et</expan> unu<expan>m</expan> q<expan>u</expan>arteriu<expan>m</expan> v<expan>e</expan>l ci<expan>r</expan>citer ad </l>
+                                                                <l>arpentu<expan>m</expan> illi<expan>us</expan> t<expan>er</expan>ritorii <expan>con</expan>tinentem, <expan>et</expan> </l>
+                                                                <l>aliam sitam juxta viam q<expan>u</expan>a itur  vers<expan>us</expan> </l>
+                                                                <l><term n="Acy-en-Multien (Oise, cant. Betz). Le chemin d&#x2019;Acy quitte Oissery vers l&#x2019;est (actuelle D 99).">Aciacu<expan>m</expan></term>, arpentu<expan>m</expan> unu<expan>m</expan> <expan>et</expan> dimidiu<expan>m</expan> vel </l>
+                                                                <l>circit<expan>er</expan> <expan>con</expan>tinentem arpentu<expan>m</expan> </l>
+                                                                <l>suprad<expan>i</expan>c<expan>tu</expan>m, </l>
+                                                                <l/>
+                                                                <l><expan>et</expan> ego tenear eisde<expan>m</expan> relig<expan>iosis</expan> d<expan>i</expan>c<expan>t</expan>as duas </l>
+                                                                <l>pecias <expan>con</expan>tra om<expan>ne</expan>s imp<expan>er</expan>p<expan>etuu</expan>m </l>
+                                                                <l>garandire <expan>et</expan> ip<expan>s</expan>i religiosi s<expan>ib</expan>i metuant</l>
+                                                                <l>ne a d<expan>omi</expan>no <term n="Saint-Pathus (Seine-et-Marne, cant. Dammartin-en-Goële) est voisin d&#x2019;Oissery. Guillaume de Saint-Pathus est homonyme et très vraisemblablement parent du franciscain qui, confesseur de la reine Marguerite (1277-1295) puis de sa fille, a mis par écrit une vie et des miracles de saint Louis : on sait que le frère mineur est petit-fils d&#x2019;un Guillaume des Barres, seigneur d&#x2019;Oissery († 1243).">Guill<expan>elm</expan>o de S<expan>an</expan>c<expan>t</expan>o Patusio </term></l>
+                                                                <l> t<expan>er</expan>ra p<expan>re</expan>fata <term n="Le verbe movere/mouvoir, pris absolument et associé à un seigneur, renvoie presque certainement à un rapport féodal.">moveat</term> ac p<expan>e</expan>r hoc ip<expan>s</expan>os </l>
+                                                                <l>valeat molestare, </l>
+                                                                <l/>
+                                                                <l> ego me <expan>et</expan> h<expan>er</expan>edes me<expan>os</expan> post me ad hoc </l>
+                                                                <l>obligo q<expan>uo</expan>d, si p<expan>re</expan>dict<expan>us</expan> miles d<expan>omi</expan>nus </l>
+                                                                <l>Guill<expan>elmu</expan>s de S<expan>an</expan>c<expan>t</expan>o Patusio sup<expan>er</expan> d<expan>i</expan>c<expan>t</expan>a </l>
+                                                                <l>t<expan>er</expan>ra calu<expan>m</expan>pniam mov<expan>er</expan>et v<expan>e</expan>l inde modo </l>
+                                                                <l>q<expan>u</expan>olib<expan>et</expan> d<expan>i</expan>c<expan>t</expan>os f<expan>rat</expan>res aut eor<expan>um</expan> eccl<expan>es</expan>iam </l>
+                                                                <l>molestar<expan>et</expan>, ego et h<expan>er</expan>edes mei p<expan>os</expan>t me </l>
+                                                                <l>ten<expan>er</expan>em<expan>ur</expan> ip<expan>su</expan>m Guill<expan>elmu</expan>m <expan>com</expan>pesc<expan>er</expan>e </l>
+                                                                <l> <expan>et</expan> h<expan>er</expan>edes suos simil<expan>ite</expan>r <expan>et</expan> ab om<expan>n</expan>i </l>
+                                                                <l> calu<expan>m</expan>pnia d<expan>i</expan>c<expan>t</expan>e t<expan>er</expan>re <expan>et</expan> juris cujuslib<expan>et</expan> i<expan>n</expan> </l>
+                                                                <l>d<expan>i</expan>c<expan>t</expan>a t<expan>er</expan>ra cessare fac<expan>er</expan>e, s<expan>u</expan>b pena cent<expan>um</expan> </l>
+                                                                <l> l<expan>i</expan>brar<expan>um</expan> <term n="À l&#x2019;origine frappé à Paris, le parisis est le grand monnayage des rois capétiens, auquel Philippe Auguste ajoute le tournois, avec qui il entre vite dans un rapport fixe (4 d. parisis = 5 d. tournois). L&#x2019;expression est au génitif pluriel car l&#x2019;on sous-entend « (livres) de deniers (parisiis) », de même que l&#x2019;on devrait dire en français « livres de parisis ».">par<expan>isiensium</expan></term> me, si ab hoc </l>
+                                                                <l>defic<expan>er</expan>em, <expan>et</expan> h<expan>er</expan>edes meos p<expan>ost </expan>me, si ab </l>
+                                                                <l>hoc defic<expan>er</expan>ent, simil<expan>ite</expan>r astringendo, d<expan>i</expan>c<expan>t</expan>is </l>
+                                                                <l>abb<expan>at</expan>i <expan>et</expan> <expan>con</expan>ventui solvendar<expan>um</expan>. </l>
+                                                                <l/>
+                                                                <l>Q<expan>uo</expan>d ut rat<expan>um</expan> <expan>et</expan> firmu<expan>m</expan> p<expan>er</expan>maneat, </l>
+                                                                <l>p<expan>re</expan>sentes litt<expan>er</expan>as sigilli mei munimine </l>
+                                                                <l>roboravi. Dat<expan>um</expan> anno D<expan>omi</expan>ni M° CC° LX° </l>
+                                                                <l>p<expan>r</expan>imo, mense novembri.</l>
+	                                            </div>
+	                                            <div type="traduction">
+	                                                 <l>Moi, Thomas dit Goulart d&#x2019;<term n="Oissery (Seine-et-Marne, cant. Dammartin-en-Goële). Noter deux graphies différentes, ici &#171; Osseriacum &#187;, plus bas &#171; Oisseriacum &#187;.">Oissery</term>,</l>
+                                                                <l>chevalier. Je fais savoir à tous ceux qui</l>
+                                                                <l>verront les présentes lettres que, comme</l>
+                                                                <l>j&#x2019;avais concédé et à perpétuité abandonné</l>
+                                                                <l>en <term n="Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu&#x2019;à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en &#171; main morte &#187; : le propriétaire éminent (&#34;censuel&#34;) peut s&#x2019;estimer lésé du fait qu&#x2019;il n&#x2019;y aura plus de changement de détenteur, donc plus d&#x2019;occasion de percevoir de droit de mutation, d&#x2019;investiture du nouveau détenteur. L&#x2019;habitude se prend donc de monnayer l&#x2019;accord du propriétaire éminent pour obtenir son &#171; abandon en mainmorte &#187; (ou alors de négocier cet abandon comme un don charitable).">mainmorte</term> à religieux hommes <term n="Au plan du droit canon, les occupants de l&#x2019;abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.">l&#x2019;abbé</term></l>
+                                                                <l><term n="Au plan du droit canon, les occupants de l&#x2019;abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.">et le convent</term> de <term n="Chaalis : fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis).">Chaalis</term>, ordre de</l>
+                                                                <l>Cîteaux, diocèse de Senlis, et à leur</l>
+                                                                <l>monastère deux pièces de terre sises au</l>
+                                                                <l>finage d&#x2019;Oissery et dans ma <term n="La censive ne désigne pas forcément un territoire compact, mais de façon générale, quel que soit son dessin sur le terrain, l&#x2019;ensemble des terres soumises à la propriété éminente du seigneur censuel.">censive</term>,</l>
+                                                                <l>vendues par Guillaume le Fauconnier,</l>
+                                                                <l>écuyer, dame Marie la Fauconni[è]re,</l>
+                                                                <l>sa mère, et Ermengarde, sa femme,</l>
+                                                                <l>auxdits religieux,</l>
+                                                                <l/>
+                                                                <l> [dont] l&#x2019;une à L&#x2019;Épine-Henri, d&#x2019;une</l>
+                                                                <l>superficie de quatre arpents et un quartier</l>
+                                                                <l>ou environ [mesurée] à l&#x2019;arpent dudit</l>
+                                                                <l>finage, et l&#x2019;autre sise près de la voie qui</l>
+                                                                <l>mène vers <term n="Acy-en-Multien (Oise, cant. Betz). Le chemin d&#x2019;Acy quitte Oissery vers l&#x2019;est (actuelle D 99).">Acy</term>, d&#x2019;une superficie d&#x2019;un</l>
+                                                                <l>arpent et demi ou environ [mesurée] à</l>
+                                                                <l>l&#x2019;arpent susdit,</l>
+                                                                <l/>
+                                                                <l>et que je suis tenu à garantir auxdits religieux</l>
+                                                                <l>lesdites deux pièces contre tous à perpétuité,</l>
+                                                                <l>et que lesdits religieux craignent (pour eux)</l>
+                                                                <l>que la terre susdite ne <term n="Le verbe movere/mouvoir, pris absolument et associé à un seigneur, renvoie presque certainement à un rapport féodal.">meuve</term> de messire</l>
+                                                                <l><term n="Saint-Pathus (Seine-et-Marne, cant. Dammartin-en-Goële) est voisin d&#x2019;Oissery. Guillaume de Saint-Pathus est homonyme et très vraisemblablement parent du franciscain qui, confesseur de la reine Marguerite (1277-1295) puis de sa fille, a mis par écrit une vie et des miracles de saint Louis : on sait que le frère mineur est petit-fils d&#x2019;un Guillaume des Barres, seigneur d&#x2019;Oissery († 1243).">Guillaume de Saint-Pathus</term> et que celui-ci ne</l>
+                                                                <l>puisse pour cette raison la leur contester,</l>
+                                                                <l/>
+                                                                <l> je m&#x2019;oblige, et j&#x2019;oblige mes héritiers après</l>
+                                                                <l>moi, à ce que, si le susdit seigneur</l>
+                                                                <l>chevalier Guillaume de Saint-Pathus venait</l>
+                                                                <l>à engager une action [en justice] sur ladite</l>
+                                                                <l>terre ou à la contester de quelque façon</l>
+                                                                <l>auxdits frères ou à leur église, moi et mes</l>
+                                                                <l>héritiers après mois serons tenus à retenir</l>
+                                                                <l>ledit Guillaume comme ses héritiers et à lui</l>
+                                                                <l>faire cesser toute réclamation de ladite terre</l>
+                                                                <l>ou de tout droit sur ladite terre, m&#x2019;astreignant,</l>
+                                                                <l>si j&#x2019;y manquais, et semblablement mes</l>
+                                                                <l>héritiers après moi, s&#x2019;ils y manquaient,</l>
+                                                                <l>sous la peine de cent livres <term n="À l&#x2019;origine frappé à Paris, le parisis est le grand monnayage des rois capétiens, auquel Philippe Auguste ajoute le tournois, avec qui il entre vite dans un rapport fixe (4 d. parisis = 5 d. tournois). L&#x2019;expression est au génitif pluriel car l&#x2019;on sous-entend (livres) de deniers (parisiis) », de même que l&#x2019;on devrait dire en français « livres de parisis ».">parisis</term></l>
+                                                                <l>à verser auxdits abbé et convent.</l>
+                                                                <l/>
+                                                                <l>Pour que cela demeure valable et ferme, j&#x2019;ai</l>
+                                                                <l>donné vigueur aux présentes lettres en les</l>
+                                                                <l>fortifiant de mon sceau. Donné en l&#x2019;an du</l>
+                                                                <l>Seigneur 1261, au mois de novembre.</l>
+	                                            </div>
+	                                            <div type="regeste">
+                    			    <head>
+                    			    </head>
+                    			    <p>
+                    			        Thomas dit Goulart d’Oissery, chevalier, s’engage pour cent livres parisis 
+                    			        à garantir à l’abbaye de Chaalis la libre d&#201;tention en mainmorte, 
+                    			        qu’il a naguère autoris&#201;e, de deux terres de sa censive au finage 
+                    			        d’Oissery, acquises par l’abbaye de Guillaume le Fauconnier, &#201;cuyer, 
+                    			        de sa mère, Marie la Fauconnière et de sa femme, Ermenarde (l’une d’environ 
+                    			        quatre arpents un quartier à L’Épine-Henri, l’autre d’environ un arpent 
+                    			        et demi près du chemin d’Acy), et ce contre une &#201;ventuelle action  
+                    			        intent&#201;e par Guillaume de Saint-Pathus, dont les moines craignent 
+                    			        que les terres ne meuvent.
+                    			    </p>
+                    			</div>
+			</div>
+		    
+		    <div type="commentaire" n="diplomatique">
+		        <head>Commentaire diplomatique</head>
+		        <div n="1">
+		            <head>Caractères externes</head>
+		            <div type="contenu_commentaire">
+		                <div class="recommandation">
+		                    <p>Passer la souris sur les cercles rouges pour des commentaires de
+		                        détail</p>
+		                </div>		
+		                <p><figure rend="23/faxexternes.jpg"><figDesc>
+		                    <seg type="rect" rend="50,21,76,53">Souci décoratif.</seg>
+		                    <seg type="rect" rend="276,32,314,54">Souci décoratif.</seg>
+		                    <seg type="rect" rend="439,71,469,93">Marquage des coupures de mot en fin de ligne.</seg>		                    
+		                    <seg type="rect" rend="288,115,314,131">i pointé par un trait oblique appuyé.</seg>
+		                    <seg type="rect" rend="441,115,470,135">Marquage des coupures de mot en fin de ligne.</seg>
+		                    <seg type="rect" rend="167,411,479,432">Trait interdisant un ajout.</seg>
+		                    <seg type="rect" rend="215,441,268,495">Double queue de parchemin.</seg>
+		                </figDesc></figure></p>
+		                <p>Comme pour les traits rédactionnels, on comparera utilement le document 
+		                    avec un autre dossier disponible sur le site, l’<xref to="notice22.php">acte 
+		                        de l’officialité de Meaux de 1251</xref>. A dix années d’écart 
+		                    seulement, ils concernent la même zone (Marchémoret est à 4 km d’Oissery) 
+		                    et impliquent le même bénéficiaire, l’abbaye cistercienne 
+		                    de Chaalis.</p>
+		                <p>Au plan des caractères externes, les traits sont largement partagés 
+		                    (sauf que les coupures de mot en fin de ligne réapparaissent ici). 
+		                    Mais cet acte-ci, à l’écriture moins cursive, se distingue aussi 
+		                    par un discret supplément d’application, de souci décoratif : 
+		                    si le repli supportant la double queue est assez modeste, le scripteur ménage 
+		                    une marge assez bien justifiée non seulement à gauche, mais encore 
+		                    à droite. La majuscule initiale, certaines lettres finales (en particulier 
+		                    le <hi rend="italic">s</hi>, ligne 1) renforcent ce trait. En bref, on donne un peu 
+		                    plus de lustre à un acte qui, différence essentielle, n’est pas scellé 
+		                    (toujours sur double queue) d’un sceau institutionnel, mais du sceau personnel 
+		                    d’un membre de la bonne société locale.</p>		                
+		            </div>
+		        </div>
+		        <div n="2">
+		            <head>Langue, mots, style</head>                
+		            <div type="contenu_commentaire">
+		                <p>Ego Thomas dictus <hi rend="bold">Goulart</hi> de Osseriaco miles. <seg rend="color:#0000FF">Notum 
+		                    facio universis presentes litteras inspecturis</seg> quod, cum 
+		                    ego concesserim et imperpetuum <seg rend="color:#FF0000">in manu 
+		                        mortua quittaverim</seg> viris religiosis abbati et conventui 
+		                    Karoliloci, Cisterciensis ordinis, Silvanectensis dyocesis, ac eorum monasterio 
+		                    duas terre pecias in territorio de Oisseriaco et <seg rend="color:#FF0000">in 
+		                        censiva</seg> mea sitas, a Guillelmo <hi rend="bold">le Fauconnier</hi>, armigero, 
+		                    et domina Maria <hi rend="bold">la Fauconnire</hi>, matre sua, ac Ermengarde, uxore 
+		                    ejusdem, dictis religiosis venditas, unam videlicet ad Spinam Henrici, quatuor 
+		                    arpenta et unum quarterium vel circiter ad arpentum illius territorii continentem, 
+		                    et aliam sitam juxta viam qua itur versus Aciacum, arpentum unum et dimidium 
+		                    vel circiter continentem ad arpentum supradictum, et ego tenear eisdem religiosis 
+		                    dictas duas pecias <seg rend="color:#FF0000">contra omnes imperpetuum 
+		                        garandire</seg> et ipsi religiosi sibi metuant ne a domino Guillelmo 
+		                    de Sancto Patusio terra prefata moveat ac per hoc ipsos valeat molestare, 
+		                    ego me et heredes meos post me ad hoc <seg rend="color:#FF0000">obligo</seg> 
+		                    quod, si predictus miles dominus Guillelmus de Sancto Patusio super dicta 
+		                    terra <seg rend="color:#FF0000">calumpniam moveret</seg> 
+		                    vel inde modo quolibet dictos fratres aut eorum ecclesiam molestaret, ego 
+		                    et heredes mei post me teneremur ipsum Guillelmum compescere et heredes 
+		                    suos similiter et ab omni calumpnia dicte terre et juris cujuslibet in dicta 
+		                    terra <seg rend="color:#FF0000">cessare</seg> facere, 
+		                    sub pena centum librarum parisiensium me, si ab hoc deficerem, et heredes 
+		                    meos post me, si ab hoc deficerent, similiter <seg rend="color:#FF0000">astringendo</seg>, 
+		                    dictis abbati et conventui solvendarum. <seg rend="color:#0000FF">Quod 
+		                        ut ratum et firmum permaneat, presentes litteras sigilli mei munimine roboravi</seg>. 
+		                    Datum anno Domini M° CC° LX° primo, mense novembri.</p>		                
+		            </div>
+		            <div class="recommandation">Commentaire</div>
+		            <div class="contenu_commentaire"> 
+		                <p>Les différences relevées au plan des caractères externes 
+		                    ne se retrouvent pourtant pas au plan de la langue et du style, où l'emportent 
+		                    de loin les traits communs.</p>
+		                <p>Le rédacteur a coulé son acte dans un cadre passe-partout 
+		                    (<seg rend="color:#0000FF">bleu</seg>). Même s'il a 
+		                    abandonné nombre des formules typiques de l'acte d'officialité, 
+		                    le latin et sa régularité grammaticale (mais la relatinisation 
+		                    ne touche que les toponymes, pas les surnoms), la technicité du vocabulaire 
+		                    (<seg rend="color:#FF0000">rouge</seg>), le soin mis 
+		                    à la description des "raisons" sociales et des rapports de droit 
+		                    nous plongent exactement dans la même ambiance.</p>
+		                <p>On peut aussi relever au fil de la lecture le souci, presque teinté 
+		                    de préciosité, mis à varier les expressions pour désigner, 
+		                    de façon d'ailleurs très pertinente selon les situations, l'abbaye 
+		                    et ses occupants : le don initial a été fait à une communauté 
+		                    ("abbé" + "convent") regroupée dans une personne morale ("monastère") ; 
+		                    ce sont des "religieux", des "frères" qui sont ensuite mis en scène, 
+		                    au nom de leur "église". C'est au même mouvement que l'on pourrait 
+		                    rapporter le choix du verbe latin classique, et plutôt poétique, 
+		                    <hi rend="bold">compescere</hi> (étymologiquement, mettre des entraves au pied), 
+		                    apparemment assez rare dans les actes médiévaux.</p>		                
+		                <p>Rien non plus n'est laissé au hasard dans la qualification des trois 
+		                    niveaux de la noblesse locale qui sont ici impliqués : un modeste 
+		                    écuyer (pas encore et sans doute jamais adoubé chevalier) 
+		                    et sa mère, qui tiennent des biens à cens ; l'auteur de l'acte, 
+		                    chevalier mais pas "seigneur" ; au-dessus encore, un "seigneur" 
+		                    (dont on craint le revendication féodale) qui est aussi chevalier. 
+		                </p>
+		            </div>
+		        </div>
+		        <div n="3">
+		            <head>Parties du discours</head>
+		            <div type="recommandation">
+		                <p> Passer la souris sur le texte pour obtenir des commentaires de
+		                    détail</p>
+		            </div>
+		            <div type="contenu_commentaire">
+		                <p>
+		                    <seg corresp="suscriptio" rend="color:#FF0000">Ego Thomas dictus <hi rend="italic">Goulart</hi> de Osseriaco miles.
+		                        <note id="suscriptio" type="bulle"
+		                            >Suscription (isolée)</note></seg>
+		                    <seg corresp="notification" rend="color:#009966"> Notum facio universis presentes litteras inspecturis quod
+		                        <note id="notification"
+		                            type="bulle">Notification universelle</note></seg>
+		                    <seg corresp="expose" rend="color:#000099">ego concesserim et imperpetuum in manu mortua quittaverim viris religiosis 
+		                        abbati et conventui Karoliloci, Cisterciensis ordinis, Silvanectensis dyocesis, 
+		                        ac eorum monasterio duas terre pecias in territorio de Oisseriaco et in 
+		                        censiva mea sitas, a Guillelmo <hi rend="italic">le Fauconnier</hi>, armigero, et domina 
+		                        Maria <hi rend="italic">la Fauconnire</hi>, matre sua, ac Ermengarde, uxore ejusdem, dictis 
+		                        religiosis venditas, unam videlicet ad Spinam Henrici, quatuor arpenta et 
+		                        unum quarterium vel circiter ad arpentum illius territorii continentem, 
+		                        et aliam sitam juxta viam qua itur versus Aciacum, arpentum unum et dimidium 
+		                        vel circiter continentem ad arpentum supradictum, et ego tenear eisdem religiosis 
+		                        dictas duas pecias contra omnes imperpetuum garandire et ipsi religiosi 
+		                        sibi metuant ne a domino Guillelmo de Sancto Patusio terra prefata moveat 
+		                        ac per hoc ipsos valeat molestare,<note id="expose" type="bulle"
+		                            >Exposé</note></seg>
+		                    <seg corresp="dispositif" rend="color:#FF00FF">ergo 
+		                        me et heredes meos post me ad hoc obligo quod, si predictus miles dominus 
+		                        Guillelmus de Sancto Patusio super dicta terra calumpniam moveret vel inde 
+		                        modo quolibet dictos fratres aut eorum ecclesiam molestaret, ego et heredes 
+		                        mei post me teneremur ipsum Guillelmum compescere et heredes suos similiter 
+		                        et ab omni calumpnia dicte terre et juris cujuslibet in dicta terra cessare 
+		                        facere,<note id="dispositif" type="bulle"
+		                            >Dispositif (verbe clef : obligo).</note></seg>
+		                    <seg corresp="clause_penale" rend="color:#0099CC">sub 
+		                        pena centum librarum parisiensium me, si ab hoc deficerem, et heredes meos 
+		                        post me, si ab hoc deficerent, similiter astringendo, dictis abbati et conventui 
+		                        solvendarum.<note
+		                            id="clause_penale" type="bulle">Clause pénale</note></seg>
+		                    <seg corresp="corroboration" rend="color:#CC3366">ut ratum et firmum permaneat, presentes litteras sigilli mei munimine roboravi.. 
+		                        <note id="corroboration" type="bulle">Corroboration probatoire avec annonce du sceau</note></seg>
+		                    <seg corresp="date" rend="color:#009966"> Datum 
+		                        anno Domini M° CC° LX° primo, mense novembri<note id="date" type="bulle"
+		                        >Date de temps.</note></seg>		                 
+		                </p>
+		            </div>
+		        </div>
+		        <div n="4">
+		            <head>Interprétation</head>
+		            <div type="contenu_commentaire">
+		                <p>On vient de voir que le rédacteur n'a pas coulé son acte 
+		                    dans un moule épistolaire (même si, époque oblige, il 
+		                    le qualifie de "lettres"). Ni adresse ni salut : c'est un 
+		                    indice supplémentaire de solennité, qui donne du "poids" 
+		                    à l'auteur et à l'acte, la formule étant lointainement dérivée 
+		                    des préceptes/diplômes royaux à valeur perpétuelle.</p>
+		                <p>Expert dans la langue et l'écriture, le rédacteur/scripteur 
+		                    de l'acte (pas moyen de savoir si les deux interventions sont réunies 
+		                    ou disjointes) est aussi un excellent observateur de la complexité 
+		                    des rapports juridiques et sociaux, où s'entrecroisent quatre types 
+		                    d'intervenants et trois plans (détention et vente de la terre, droit 
+		                    éminent censuel, droit éminent féodal), disséqués 
+		                    et décrits avec efficacité, jusque dans les zones d'incertitude 
+		                    qui rompent la chaîne du tissu féodal.</p>
+		                <p>On a vu aussi, dans la lecture diplomatique du document, le jeu de ressemblances/dissemblances 
+		                    avec l'acte d'officialité, qui ramène à la question de fond : 
+		                    qui et pourquoi ?</p>
+		                <p>A la première question on ne peut répondre que par des hypothèses. 
+		                    Vu son niveau assez médiocre, il est assez peu vraisemblable que 
+		                    l'auteur de l'acte lui-même ait eu les moyens de disposer d'une "chancellerie", 
+		                    voire d'un chapelain assez expert... Deux solutions restent, que seule 
+		                    la comparaison d'autres documents permettraient d'affiner : une rédaction 
+		                    à l'abbaye ; non moins vraisemblable, sinon plus, le recours à l'un 
+		                    de ces écrivains publics dont on pressent alors la multiplication, 
+		                    personnel de formation commune, parfois de profession partagée, avec 
+		                    les "clercs notaires jurés" des officialités.</p>		                
+		                <p>Le pourquoi se dégage plus facilement. Parmi toutes les solutions 
+		                    possibles (l'officialité, une juridiction gracieuse princière qui 
+		                    commence à peine à s'organiser, une notification par un grand baron ou le 
+		                    roi, tout de même très haut et très cher), on a choisi celle qui offrait 
+		                    le meilleur rapport qualité/prix, la plus adaptée aussi au 
+		                    règlement judiciaire du possible litige : une matière féodale, 
+		                    où face à ses pairs le chevalier s'engage sous son sceau et ses armes, 
+		                    de notoriété et de poids social suffisants pour donner de 
+		                    l'autorité à l'acte.</p>		               		                
+		            </div>
+		            </div>
+		        </div>
+		</body>
+	</text>
+</TEI>

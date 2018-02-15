@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
+<TEI.2 n="70">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1115. Notice monastique</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">70</idno>
+                <publisher>École nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig.&#160;: Londres, British Library.</p>
+                <p>Fac-sim. ENC&#160;: NF 288 (héliogravure)</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc/>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="remarques">
+                <p>Remarque&#160;: Les “e” cédillés sont ici rendus par “æ”.</p>
+            </div>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg
+                        rend="43,28,176,39,343,43,419,49,418,76,329,71,266,68,146,72,118,80,83,80,42,88,39,82"
+                        n="poly">Q<expan>uonia</expan>m facillime labunt<expan>ur</expan> a memoria</seg>
+                    <seg
+                        rend="424,49,497,47,550,50,588,44,659,36,772,50,760,79,668,71,626,71,540,68,441,73,420,77"
+                        n="poly">quæcu<expan>m</expan>q<expan>ue</expan> temporaliter fiunt, iccirco
+                        nos</seg>
+                    <seg
+                        rend="50,92,118,84,163,76,235,73,303,74,355,77,473,80,510,73,509,102,450,103,326,100,254,99,183,102,129,109,79,108,50,112"
+                        n="poly">post<expan>er</expan>itati n<expan>ost</expan>ræ
+                        p<expan>ro</expan>videntes litteris mandare curavim<expan>us</expan></seg>
+                    <seg
+                        rend="514,76,581,74,615,76,647,75,703,78,741,85,776,93,763,119,657,112,644,104,610,104,553,102,511,106,512,103"
+                        n="poly">q<expan>uo</expan>d Bert<expan>r</expan>ada regina, Philippi regis
+                        Fran-</seg>
+                    <seg
+                        rend="48,117,85,112,102,113,135,112,193,107,257,104,302,104,356,106,409,109,486,108,550,109,565,113,563,138,450,131,389,133,270,136,181,136,110,137,49,135"
+                        n="poly">-coru<expan>m</expan> uxor <expan>et</expan> mater Fulconis
+                        junioris Andegavor<expan>um</expan> comitis,</seg>
+                    <seg
+                        rend="568,111,623,110,646,112,670,119,731,122,764,125,763,148,689,144,567,134"
+                        n="poly">anno ab Incarnatione</seg>
+                    <seg
+                        rend="49,141,122,143,176,142,227,142,278,141,345,138,410,139,410,169,343,168,247,168,173,169,107,169,47,167"
+                        n="poly">D<expan>omi</expan>ni M. C XV dedit D<expan>e</expan>o
+                        <expan>et</expan> beato Martino</seg>
+                    <seg
+                        rend="413,140,466,140,526,138,571,141,594,142,635,146,671,149,718,150,767,152,781,152,781,181,712,173,597,168,521,167,472,169,415,170"
+                        n="poly">atq<expan>ue</expan> nob<expan>is</expan> Majoris
+                        Mon<expan>asterii</expan> monachis in elemosina<expan>m</expan>,</seg>
+                    <seg
+                        rend="45,176,119,174,173,173,221,174,298,178,351,177,406,175,434,174,472,173,494,173,488,199,440,205,368,205,293,207,226,200,166,202,116,204,70,209,40,215"
+                        n="poly">p<expan>ro</expan> sua suor<expan>um</expan>q<expan>ue</expan>
+                            om<expan>n</expan>ium ta<expan>m</expan> animæ qua<expan>m</expan>
+                        corporis salute</seg>
+                    <seg
+                        rend="497,177,557,173,629,176,693,178,745,183,777,187,777,214,714,203,666,200,617,202,551,202,492,202"
+                        n="poly"><expan>et</expan> incolumitate, parte<expan>m</expan> illam fores-</seg>
+                    <seg
+                        rend="43,220,96,215,140,208,180,207,219,207,255,207,261,234,190,233,127,236,73,237,43,239"
+                        n="poly">-tis quæ dicit<expan>ur</expan> Splendida,</seg>
+                    <seg
+                        rend="263,213,311,213,373,211,428,211,480,209,530,208,590,207,645,208,709,210,765,216,786,220,783,246,708,241,641,238,576,235,490,233,412,235,335,234,264,233"
+                        n="poly">quæ ab occidente conjugit<expan>ur</expan> illi parti
+                        qua<expan>m</expan> filius ejus Fulco co-</seg>
+                    <seg
+                        rend="46,246,100,244,161,240,240,239,288,239,333,240,333,266,263,269,180,268,105,262,51,271"
+                        n="poly">-mes n<expan>on</expan> longe antea nob<expan>is</expan> dederat,</seg>
+                    <seg
+                        rend="334,241,415,241,486,241,558,242,612,242,676,243,730,246,787,249,785,276,714,275,596,268,525,270,471,270,402,270,334,270"
+                        n="poly">sicut a bosco Gausfredi de Ulmis ab oriente
+                        dividit<expan>ur</expan></seg>
+                    <seg
+                        rend="44,278,84,269,127,268,168,271,224,273,283,273,314,273,313,298,273,298,231,297,146,294,91,292,44,295"
+                        n="poly"><expan>et</expan> versus occidente<expan>m</expan>
+                        usq<expan>ue</expan> ad fine<expan>m</expan>,</seg>
+                    <seg
+                        rend="318,273,384,274,464,275,560,280,626,278,681,280,738,280,788,288,787,314,719,309,626,307,526,306,431,303,361,304,318,304"
+                        n="poly">sicut a meridie fluvio Caro <expan>et</expan> ab
+                        aq<expan>u</expan>ilone Ligere fluvio cin-</seg>
+                    <seg
+                        rend="43,302,99,298,154,299,205,299,269,301,311,306,330,310,375,309,414,308,468,309,515,309,555,311,589,312,588,336,501,336,410,335,322,333,236,331,154,329,78,328,42,328"
+                        n="poly">-git<expan>ur</expan>. Hanc eni<expan>m</expan>
+                        silva<expan>m</expan> ipsa p<expan>r</expan>ius a rege Philipo in dote
+                        habuerat</seg>
+                    <seg
+                        rend="594,315,640,315,697,317,738,317,782,321,772,344,696,342,631,337,591,340"
+                        n="poly"><expan>et</expan> postea ab ej<expan>us</expan> filio Ludo-</seg>
+                    <seg rend="43,336,126,333,169,335,227,335,233,339,232,359,175,357,98,361,42,360"
+                        n="poly">-vico rege illa<expan>m</expan> emerat,</seg>
+                    <seg
+                        rend="237,339,304,342,362,341,435,340,517,343,605,342,664,345,731,349,782,353,782,382,732,375,646,370,556,371,484,369,387,365,331,366,279,364,235,363"
+                        n="poly">qua<expan>m</expan> etia<expan>m</expan> cuida<expan>m</expan>
+                        clerico Willelmo cognom<expan>en</expan>to Burello in vita
+                        ipsi<expan>us</expan> tan-</seg>
+                    <seg
+                        rend="42,366,106,368,178,363,258,368,299,371,294,391,176,391,133,390,81,391,43,389"
+                        n="poly">-tu<expan>m</expan>modo habenda<expan>m</expan> concesserat.</seg>
+                    <seg
+                        rend="301,369,359,370,424,371,501,374,582,376,659,377,735,386,770,388,759,416,699,406,626,403,541,401,470,398,394,398,341,395,299,393"
+                        n="poly">Ipso <expan>i</expan>gi<expan>tur</expan> p<expan>re</expan>sente
+                            <expan>et</expan> concedente Willelmo, revestivit eade<expan>m</expan></seg>
+                    <seg
+                        rend="39,397,111,399,192,398,247,398,307,397,359,402,419,405,470,404,470,431,379,427,273,425,187,425,117,423,31,427"
+                        n="poly">Bertrada nos p<expan>er</expan> manu<expan>m</expan>
+                        do<expan>m</expan>ni abb<expan>at</expan>is n<expan>ost</expan>ri Willelmi</seg>
+                    <seg
+                        rend="474,407,530,405,580,406,631,409,690,414,742,420,765,423,756,445,663,438,597,434,530,432,475,432"
+                        n="poly">de p<expan>re</expan>fata parte bosci apud Fonte<expan>m</expan></seg>
+                    <seg
+                        rend="42,435,113,429,173,431,224,431,281,433,347,435,394,434,440,438,501,441,501,469,428,463,349,464,269,461,202,462,132,461,70,456,37,459"
+                        n="poly">Caru<expan>m</expan> in pratis n<expan>ost</expan>ris, quo ipsa
+                            p<expan>ro</expan>pt<expan>er</expan> hoc ipsu<expan>m</expan>
+                            p<expan>er</expan>rexerat.</seg>
+                    <seg
+                        rend="505,441,588,445,621,440,657,446,706,448,763,452,751,479,673,468,609,468,548,465,505,468"
+                        n="poly">Huj<expan>us</expan> rei testes sunt, de
+                        mona-</seg>
+                    <seg
+                        rend="38,467,84,463,139,467,194,465,245,468,303,466,355,469,410,468,453,471,461,477,457,503,392,504,306,501,230,503,137,498,36,491"
+                        n="poly">-chis&#160;: Rivalloni<expan>us</expan> sacrista,
+                            Hildeb<expan>er</expan>t<expan>us</expan> de Nanneto,</seg>
+                    <seg
+                        rend="463,474,517,476,582,471,627,473,695,478,743,484,776,486,771,519,704,510,636,509,555,505,507,505,461,502"
+                        n="poly">Hugo hospitalari<expan>us</expan>, Haimo Pontic<expan>us</expan>,
+                            Joh<expan>anne</expan>s</seg>
+                    <seg
+                        rend="40,499,109,502,169,509,220,509,256,512,264,531,249,536,191,533,121,530,61,524,42,527"
+                        n="poly">Ruf<expan>us</expan>&#160;; ex parte reginæ&#160;:</seg>
+                    <seg
+                        rend="263,510,331,510,394,511,466,508,538,511,611,518,664,517,682,515,746,520,765,538,759,553,693,549,591,548,506,546,428,541,338,537,267,533"
+                        n="poly">Willelm<expan>us</expan> Burell<expan>us</expan>,
+                        Effred<expan>us</expan> miles ipsi<expan>us</expan> reginæ,
+                        Adelelm<expan>us</expan> de</seg>
+                    <seg
+                        rend="37,535,69,532,134,539,189,542,254,540,300,539,318,544,318,573,284,571,214,568,145,571,87,567,36,563"
+                        n="poly">Bellomonte, qui erat forestari<expan>us</expan>,</seg>
+                    <seg
+                        rend="323,543,322,542,407,548,501,553,564,556,627,559,694,560,762,557,762,588,709,585,630,588,545,583,477,575,421,577,364,578,321,576"
+                        n="poly">Gauteri<expan>us</expan> […]mestenon armiger&#160;; ex parte
+                            n<expan>ost</expan>ra&#160;: Petr<expan>us</expan></seg>
+                    <seg
+                        rend="34,571,100,576,160,576,225,575,286,576,343,581,403,580,435,587,429,608,345,608,278,603,197,600,116,603,39,601"
+                        n="poly">Burdoni<expan>us</expan>, Durand<expan>us</expan> major,
+                            Rodulf<expan>us</expan> cognom<expan>en</expan>to Miles,</seg>
+                    <seg
+                        rend="441,586,503,583,545,588,590,590,639,591,677,591,713,591,754,592,764,613,730,616,662,611,588,609,513,609,434,607"
+                        n="poly">Rotb<expan>er</expan>t<expan>us</expan> Tuagal,
+                        Rainald<expan>us</expan> de Bora-</seg>
+                    <seg
+                        rend="37,609,110,608,187,604,249,608,313,608,341,614,338,641,267,636,160,636,75,634,33,633"
+                        n="poly">-torio. Sciendu<expan>m</expan> q<expan>uo</expan>d
+                        <expan>et</expan> forestagiu<expan>m</expan>-torio. Sciendu<expan>m</expan>
+                            q<expan>uo</expan>d <expan>et</expan> forestagiu<expan>m</expan></seg>
+                    <seg
+                        rend="343,615,411,616,500,616,573,617,626,613,681,616,737,625,767,620,761,643,674,644,562,647,469,642,392,641,344,642"
+                        n="poly"><expan>et</expan> univ<expan>er</expan>sas consuetudines
+                            ipsi<expan>us</expan> bosci regina dedit</seg>
+                    <seg
+                        rend="36,642,99,642,155,642,236,646,280,655,271,688,184,675,133,680,66,672,35,669"
+                        n="poly">nobis. [Croix] Signu<expan>m</expan> regine.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="remarques">
+                    <p>Remarque&#160;: Les “e” cédillés sont ici rendus par “æ”.</p>
+                </div>
+                <div type="texte">
+                    <l>Quoniam facillime labuntur a memoria quæcumque temporaliter fiunt, iccirco
+                        nos</l>
+                    <l>posteritati nostræ providentes litteris mandare curavimus quod <term
+                            n="Bertrade de Montfort, épouse en premières noces de Foulque IV le Réchin, comte d’Anjou, puis en secondes noces  du roi Philippe Ier. Elle meurt à la fin de 1115 ou au début de 1116."
+                            >Bertrada</term> regina, <term
+                            n="Philippe Ier, roi de France de 1060 à 1108, a d’abord épousé Berthe de Hollande (dont il a eu son successeur, le futur Louis VI). Après avoir répudié celle-ci, il a enlevé Bertrade en 1092, ce qui lui vaut d’être excommunié en 1095. Il est définitivement absous en 1104, même si Bertrade demeure à ses côtés."
+                            >Philippi</term></l>
+                    <l>regis Francorum uxor et mater <term
+                            n="Foulque V, fils de Foulque IV le Réchin et de Bertrade de Montfort&#160;; né en 1092, il passe en Terre Sainte en 1129, devient roi de Jérusalem en 1131, meurt en 1144."
+                            >Fulconis</term> junioris Andegavorum comitis, anno ab</l>
+                    <l>Incarnatione Domini M. C XV dedit Deo et beato Martino atque nobis <term
+                            n="Marmoutier, aux portes de Tours (comm. Sainte-Radegonde), a été réformée par Cluny vers 982 et dès lors solidement rattachée à l’observance bénédictine."
+                            >Majoris Monasterii</term></l>
+                    <l>monachis in elemosinam, pro sua suorumque omnium tam animæ quam corporis
+                        salute et</l>
+                    <l>incolumitate, partem illam <term
+                            n="La «&#160;forêt&#160;» (forestis) est fondamentalement un espace soustrait aux modes usuels d’exploitation&#160;; il peut s’y trouver des bois, mais aussi bien des landes, des marécages, des cours d’eau… La différence est en principe nette avec le «&#160;bois&#160;», couvert d’arbres (boscum, silva). Pourtant les trois termes se trouvent employés successivement dans l’acte, où le rédacteur semble surtout vouloir varier l’expression."
+                            >forestis</term> quæ dicitur <term
+                            n="La forêt des Plantes (ailleurs «&#160;de Splente&#160;», ici relatinisée à contresens) occupait, à l’ouest et à l’est de Tours la langue de terre comprise entre Loire et Cher avant le confluent des deux cours d’eau."
+                            >Splendida</term>, quæ ab occidente conjugitur illi</l>
+                    <l>parti quam filius ejus Fulco comes non longe antea nobis <term
+                            n="Ce don du comte serait de 1110.">dederat</term>, sicut a bosco
+                        Gausfredi</l>
+                    <l>de Ulmis ab oriente dividitur et versus occidentem usque ad <term
+                            n="«&#160;Finem&#160;» peut simplement renvoyer à la fin, à la limite, mais peut-être plus précisément à la limite matérialisée, par un fossé, des bornes ou d’autres repères."
+                            >finem</term>, sicut a meridie fluvio</l>
+                    <l>Caro et ab aquilone Ligere fluvio cingitur. Hanc enim silvam ipsa prius a
+                        rege Philipo in</l>
+                    <l><term
+                            n="«&#160;Dos&#160;» à l’époque peut renvoyer aussi bien à la dot qu’au douaire et c’est le contexte qui impose la traduction. Le douaire constitué par le roi à Bertrade en Touraine, largement pris sur le patrimoine de Saint-Martin de Tours, nous est bien connu pour avoir été disputé, la présente donation exceptée, à la mort de Bertrade, entre Saint-Martin et Fontevraud."
+                            >dote</term> habuerat et postea ab ejus filio <term
+                            n="Louis VI le Gros, fils de Philippe Ier et de Berthe de Hollande&#160;; né en 1077, roi en 1108, mort en 1137."
+                            >Ludovico</term> rege illam <term
+                            n="Cet «&#160;achat&#160;» au beau-fils d’une pièce du douaire, en principe constitué de façon irrévocable, en dit long sur la maléabilité des pratiques de contrôle du douaire par le lignage du mari."
+                            >emerat</term>, quam etiam cuidam</l>
+                    <l>clerico Willelmo cognomento Burello in vita ipsius tantummodo habendam
+                        concesserat.</l>
+                    <l>Ipso igitur presente et concedente Willelmo, revestivit eadem Bertrada nos
+                        per manum</l>
+                    <l>domni abbatis nostri <term n="Guillaume, abbé de Marmoutier de 1104 à 1124."
+                            >Willelmi</term> de prefata parte bosci apud <term
+                            n="Fontcher, prieuré de Marmoutier au diocèse de Tours (Indre-et-Loire, cant. Ballan-Miré, comm. Villandry)."
+                            >Fontem Carum</term> in pratis</l>
+                    <l>nostris, quo ipsa propter hoc ipsum perrexerat. Hujus rei testes sunt, de
+                        monachis&#160;:</l>
+                    <l>Rivallonius sacrista, Hildebertus de Nanneto, Hugo hospitalarius, Haimo
+                        Ponticus,</l>
+                    <l>Johannes Rufus&#160;; ex parte reginæ&#160;: Willelmus Burellus,
+                        Effredus miles ipsius reginæ,</l>
+                    <l>Adelelmus de Bellomonte, qui erat forestarius, Gauterius […]<hi rend="italic"
+                            >mestenon</hi> armiger&#160;; ex parte</l>
+                    <l>nostra&#160;: Petrus Burdonius, Durandus major, Rodulfus cognomento
+                        Miles, Rotbertus</l>
+                    <l><hi rend="italic">Tuagal</hi>, Rainaldus de Boratorio. Sciendum quod et <term
+                            n="Le contenu exact du forestage est difficile à saisir. Dans la mesure où le don principal porte sur la forêt elle-même, on voit mal qu’il puisse s’agir d’un droit d’usage (coupe, paisson…), que la propriété emporte. Il s’agit peut-être plutôt de droits fiscaux et/ou judiciaires réaffirmés sur d’autres usagers. "
+                            >forestagium</term> et universas consuetudines</l>
+                    <l>ipsius bosci regina dedit nobis. [<hi rend="italic">Croix</hi>] Signum
+                        regine.</l>
+                </div>
+                <div type="traduction">
+                    <l>Les actions du siècle échappent très facilement à la mémoire&#160;; voilà
+                        pourquoi, pourvoyant</l>
+                    <l>[aux besoins] de nos successeurs, nous avons pris soin de consigner par écrit
+                        que la reine</l>
+                    <l><term
+                            n="Bertrade de Montfort, épouse en premières noces de Foulque IV le Réchin, comte d’Anjou, puis en secondes noces  du roi Philippe Ier. Elle meurt à la fin de 1115 ou au début de 1116."
+                            >Bertrade</term>, épouse de <term
+                            n="Philippe Ier, roi de France de 1060 à 1108, a d’abord épousé Berthe de Hollande (dont il a eu son successeur, le futur Louis VI). Après avoir répudié celle-ci, il a enlevé Bertrade en 1092, ce qui lui vaut d’être excommunié en 1095. Il est définitivement absous en 1104, même si Bertrade demeure à ses côtés."
+                            >Philippe</term> roi des Francs et mère de <term
+                            n="Foulque V, fils de Foulque IV le Réchin et de Bertrade de Montfort&#160;; né en 1092, il passe en Terre Sainte en 1129, devient roi de Jérusalem en 1131, meurt en 1144."
+                            >Foulque</term> le Jeune, comte d’Anjou,</l>
+                    <l>a donné, en l’an de l’Incarnation du Seigneur 1115, à Dieu et à saint Martin
+                        et à nous,</l>
+                    <l>moines de <term
+                            n="Marmoutier, aux portes de Tours (comm. Sainte-Radegonde), a été réformée par Cluny vers 982 et dès lors solidement rattachée à l’observance bénédictine."
+                            >Marmoutier</term>, en aumône, pour le salut et la conservation tant de
+                        l’âme que du</l>
+                    <l>corps d’elle-même et de tous les siens, la partie de la <term
+                            n="La «&#160;forêt&#160;» (forestis) est fondamentalement un espace soustrait aux modes usuels d’exploitation&#160;; il peut s’y trouver des bois, mais aussi bien des landes, des marécages, des cours d’eau… La différence est en principe nette avec le «&#160;bois&#160;», couvert d’arbres (boscum, silva). Pourtant les trois termes se trouvent employés successivement dans l’acte, où le rédacteur semble surtout vouloir varier l’expression."
+                            >forêt</term> qu’on appelle <term
+                            n="La forêt des Plantes (ailleurs «&#160;de Splente&#160;», ici relatinisée à contresens) occupait, à l’ouest et à l’est de Tours la langue de terre comprise entre Loire et Cher avant le confluent des deux cours d’eau."
+                            >Splendide</term>, qui à</l>
+                    <l>l’ouest jouxte la partie que son fils le comte Foulque nous avait <term
+                            n="Ce don du comte serait de 1110.">donnée</term> auparavant, de</l>
+                    <l>même qu’à l’est elle est bornée par le bois de Geoffroy des Ormes, et vers
+                        l’ouest jusqu’au</l>
+                    <l><term
+                            n="«&#160;Finem&#160;» peut simplement renvoyer à la fin, à la limite, mais peut-être plus précisément à la limite matérialisée, par un fossé, des bornes ou d’autres repères."
+                            >bout</term>, ainsi qu’au sud elle est bordée par le fleuve Cher, et au
+                        nord par le fleuve Loire.</l>
+                    <l>Cette selve, elle l’avait précédemment reçue en <term
+                            n="«&#160;Dos&#160;» à l’époque peut renvoyer aussi bien à la dot qu’au douaire et c’est le contexte qui impose la traduction. Le douaire constitué par le roi à Bertrade en Touraine, largement pris sur le patrimoine de Saint-Martin de Tours, nous est bien connu pour avoir été disputé, la présente donation exceptée, à la mort de Bertrade, entre Saint-Martin et Fontevraud."
+                            >douaire</term> du roi Philippe, puis du fils de ce</l>
+                    <l>dernier, le roi <term
+                            n="Louis VI le Gros, fils de Philippe Ier et de Berthe de Hollande&#160;; né en 1077, roi en 1108, mort en 1137."
+                            >Louis</term>, elle l’avait <term
+                            n="Cet «&#160;achat&#160;» au beau-fils d’une pièce du douaire, en principe constitué de façon irrévocable, en dit long sur la maléabilité des pratiques de contrôle du douaire par le lignage du mari."
+                            >achetée</term>, et enfin concédée à un clerc, Guillaume dit</l>
+                    <l>Bureau, à tenir seulement sa vie durant. En conséquent, en la présence et
+                        avec l’accord du</l>
+                    <l>même Guillaume, Bertrade nous a investis par la main du seigneur <term
+                            n="Guillaume, abbé de Marmoutier de 1104 à 1124.">Guillaume</term> notre
+                        abbé</l>
+                    <l>de la susdite partie du bois, à <term
+                            n="Fontcher, prieuré de Marmoutier au diocèse de Tours (Indre-et-Loire, cant. Ballan-Miré, comm. Villandry)."
+                            >Fontcher</term>, dans nos prés, où elle s’était rendue en personne à</l>
+                    <l>cet effet. De quoi sont témoins, parmi les moines&#160;: Rivallonius
+                        sacriste, Hildebert de</l>
+                    <l>Nantes, Hugues hôtelier, Haimon <hi rend="italic">Ponticus</hi> [le
+                        Castor&#160;?], Jean le Roux&#160;; au nom de la reine&#160;:</l>
+                    <l>Guillaume Bureau, Effroi chevalier de la reine, Aleaume de Beaumont, qui
+                        était forestier,</l>
+                    <l>Gautier […]<hi rend="italic">mestenon</hi> écuyer&#160;; en notre
+                        nom&#160;: Pierre Bourdon, Durand maire, Raoul dit le</l>
+                    <l>Chevalier, Robert <hi rend="italic">Tuagal</hi>, Renaud de <hi rend="italic"
+                            >Boratorio</hi>. Il faut savoir que la reine nous a donné le</l>
+                    <l><term
+                            n="Le contenu exact du forestage est difficile à saisir. Dans la mesure où le don principal porte sur la forêt elle-même, on voit mal qu’il puisse s’agir d’un droit d’usage (coupe, paisson…), que la propriété emporte. Il s’agit peut-être plutôt de droits fiscaux et/ou judiciaires réaffirmés sur d’autres usagers. "
+                            >forestage</term> et toutes les coutumes de ce bois. [<hi rend="italic"
+                            >Croix</hi>] Seing de la reine.</l>
+                </div>
+                <div type="regeste">
+                    <head>1115 (a. st.).</head>
+                    <p>Les moines de Marmoutier font savoir que Bertrade [de Montfort] leur a aumôné
+                        une partie de la forêt dite des Plantes, qu’elle avait précédemment reçue en
+                        douaire du roi Philippe [I<hi rend="exposant">er</hi>], puis achetée à son
+                        fils Louis [VI], et enfin concédée en viager au clerc Guillaume
+                        Bureau&#160;; avec son accord et en sa présence, elle en a investi les
+                        moines par les mains de leur abbé Guillaume, dans les prés de Fontcher, et
+                        en a aussi donné le forestage et toutes les coutumes.</p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <figure rend="70/faxmoyen.jpg"/>
+                        </p>
+                        <p>Le document est écrit dans une minuscule caroline tardive d’assez grand
+                            module. Les caractères de l’écriture diplomatique sont bien
+                            présents&#160;: boucles sur les hastes des “s” et des “f”, qui sont
+                            allongés&#160;; ligature “st”&#160;; petit empâtement
+                            triangulaire qui évolue vers une forme artificielle en crochet sur les
+                            hastes des “h”, des “l” et des “d”. Ces traits sont en partie
+                            artificiels&#160;: les “d”, régulièrement droits selon l’habitude de
+                            la minuscule caroline au début du texte, sont de plus en plus souvent
+                            onciaux (inclinés à gauche) au fur et à mesure que l’on
+                            avance&#160;; les “r” sont ronds après les “o” et droits aux autres
+                            positions, sauf dans deux cas, où l’on voit apparaître une nouvelle
+                            forme de “r”, ronde sans s’appuyer sur la lettre précédente (“mater” l.
+                            3&#160;; “Martino” l. 4).</p>
+                        <p>Le tracé est presque toujours très clair, clarté renforcée par la
+                            légèreté de l’ornementation&#160;: seule la première lettre est un
+                            peu agrandie et travaillée. Un examen plus approfondi montre pourtant
+                            que l’on n’a pas porté grand soin à la présentation du texte&#160;:
+                            la justification est respectée uniquement à gauche, et surtout quelques
+                            corrections restent assez visibles (ligne 2&#160;: le second “i” de
+                            “litteris” corrigé par surcharge, “Berta” corrigé en
+                            “Bert&lt;rad&gt;a” par ajout interlinéaire d’un “a” suscrit et
+                            d’un “d”, “regina” ajouté en interligne&#160;; ligne 5&#160;:
+                            insertion du “q[ue]” de “suorumque”). Le scripteur n’hésite pas à couper
+                            des mots en fin de ligne (fran-corum l. 2/3&#160;; fores-tis l.
+                            5/6&#160;; co-mes l. 6/7&#160;; cin-gitur l. 8/9; Ludo-vico l.
+                            9/10&#160;; tan-tummodo l. 10/11&#160;; mona-chis l.
+                            13/14&#160;; bora-torio l. 17/18).</p>
+                        <p>On note également la présence de majuscules aux initiales des noms et aux
+                            grandes articulations du texte, accompagnée d’une ponctuation qui offre
+                            un découpage en propositions ou en phrases, ou scande la liste de
+                            témoins. En bref, le souci est évident d’une lecture aisée du texte. Les
+                            abréviations sont relativement discrètes et leur système est assez
+                            régulier. Si les tildes droits et «&#160;en oméga&#160;» sont
+                            employés indifféremment, les abréviations -us et -ur sont fixes. Les
+                            soulignements, qui ne concernent que des personnes, sont
+                            vraisemblablement l’œuvre d’un érudit moderne.</p>
+                    </div>
+                </div>
+                <div n="2">
+                    <head>Langue et style</head>
+                    <div type="contenu_commentaire">
+                        <p>Le trait le plus net est le «&#160;nous&#160;» du bénéficiaire,
+                            qui rédige l’acte et capte la parole, alors que l’auteur de l’action
+                            juridique, la reine, est cité de façon objective, puis appose une croix
+                            de confirmation, à son tour décrite de façon objective.</p>
+                        <p>Le latin est digne du haut centre culturel qu’est Marmoutier. Il est
+                            pourtant assez sobre&#160;; très caractéristique du premier XII<hi
+                                rend="exposant">e</hi> siècle, le mélange de volonté de précision
+                            (onomastique à deux éléments, énumération des confins…) et l’imprécision
+                            générale de la description de la «&#160;forêt&#160;» (<hi
+                                rend="italic">forestis</hi>/<hi rend="italic">silva</hi>), de ses
+                            limites, difficiles à repérer, de ses droits guère transparents
+                            (forestage et toutes coutumes). Les rédacteurs de l’époque sont
+                            sensibles à la nécessité de borner le monde et de décrire la société,
+                            mais l’acte n’est pas investi d’un souci absolu d’exactitude&#160;:
+                            épaulé par d’autres dispositifs (à commencer par la mémoire de témoins,
+                            des communautés, qui savent pertinemment les limites et les droits), il
+                            vise avant tout à régler les rapports entre personnes, à désamorcer les
+                            contestations, à glorifier l’aumône…</p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Parties du discours</head>
+                    <div type="contenu_commentaire">
+                        <p>La structuration du discours est particulièrement simple, et l’on est en
+                            peine d’y plaquer la suite usuelle des «&#160;parties du
+                            discours&#160;». Il y a bien une ébauche de préambule, un
+                            «&#160;préambule court&#160;» (<hi rend="italic"
+                            >Kurzarenga</hi>) selon la terminologie allemande et qui, bien dans
+                            l’esprit du temps, évoque l’efficacité de l’écrit pour pallier les
+                            faiblesses de la mémoire, puis une manière de notification, assez
+                            solennelle avec son appel à la postérité, «&#160;notre
+                            postérité&#160;» au juste&#160;; mais ensuite il n’y a plus
+                            qu’un récit, au passé (l. 2-13), incluant la date (l. 3-4), complété
+                            d’une brève adjonction (l. 18-19), puis (dans un second temps) de la
+                            croix autographe de validation de la reine, pourvue d’une légende
+                            explicative tracée d’une autre main.</p>
+                        <p>Le récit est complété d’une liste énumérative de témoins, fortement
+                            structurée, précise dans son onomastique à deux éléments (nom suivi
+                            d’une fonction ou d’un sobriquet)&#160;: cinq moines, quatre témoins
+                            représentant la reine (mais la souscription de la reine fait monter
+                            implicitement à cinq le nombre des témoins), cinq témoins représentant
+                            «&#160;nous&#160;».</p>
+                    </div>
+                </div>
+                <div n="4">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>Le «&#160;nous&#160;» désigne bien évidemment la communauté
+                            monastique de Marmoutier, qui a entièrement capté la rédaction du
+                            document, une pure « notice&#160;», typique des XI<hi
+                                rend="exposant">e</hi>-XII<hi rend="exposant">e</hi> siècles, fort
+                            pratiquée à Marmoutier, où le rédacteur collectif s’adresse à ses
+                            successeurs à l’intérieur de l’abbaye. Même soumis aux contraintes
+                            inhérentes à un genre spécifique d’écriture, la notice offre une
+                            multitude de perspectives, de notations connexes (comme ici le
+                            «&#160;rachat&#160;» du douaire au beau-fils) que s’autorisent
+                            rarement les acte traditionnels, d’où sa capacité de séduction pour le
+                            lecteur. Mais l’on aurait tort de prendre les notices pour de simples
+                            memoranda. Leur charge d’authenticité, souvent reforcée par la
+                            souscription autographe de l’auteur de l’action juridique, tient pour
+                            une bonne part à la production puis à la conservation du parchemin au
+                            sein même de l’abbaye&#160;: un système diplomatique à la fois
+                            fécond, clos et vérouillé par le haut niveau culturel et sacré de
+                            l’auteur, qui explique le mélange de solennité et de rapidité dans la
+                            préparation matérielle.</p>
+                        <p>La date exprimée n’est pas celle de l’écriture du document, mais celle de
+                            l’action, la seule qui compte vraiment. Que l’action soit rapportée au
+                            passé, que même l’on parle à l’imparfait d’un témoin
+                            («&#160;Adelelmus de Bellomonte, qui erat forestarius&#160;») ne
+                            veut pas dire pour autant que la mise par écrit ne soit pas
+                            contemporaine&#160;: c’est plutôt le rédacteur qui se projette dans
+                            le futur, devant les successeurs («&#160;posteritas&#160;»)
+                            qu’il veut instruire. L’autographie très probable (en tout cas
+                            apparente) de la croix montre bien que l’écrit a été composé assez vite,
+                            puis présenté à Bertrade (au reste morte peu de temps après). Mais il
+                            faut noter en sens inverse que le rédacteur primitif n’en a pas préparé
+                            la légende (« Signum…&#160;»)&#160;: la validation apparaît par
+                            raccrot, comme subrepticement.</p>
+                        <p>La composition de la liste de témoins, occasion fréquente de classer son
+                            monde, offre elle aussi un indice intéressant&#160;: elle oppose
+                            moines (premier groupe) et laïques (deux groupes suivants), eux-mêmes
+                            témoins (et donc garants) pour l’une et l’autre des parties, la reine et
+                            «&#160;nous&#160;». Elle met donc les moines dans une position
+                            doublement prééminente, parce qu’ils sont cités en premier mais aussi,
+                            si l’on peut dire, hors de la mêlée, alors qu’ils sont aussi
+                            bénéficiaires du don et impliqués dans sa mise par écrit&#160;: ici
+                            comme là, ils se donnent le rôle d’autorité.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI.2>

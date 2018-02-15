@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../adeel.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-  schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <!--
   TODO:
   * vérifier encodage + conversion UTF8
@@ -11,42 +8,40 @@
   &#171; => "« "
   &#187; => " »"
   &#x2019; => "’"
-  "&quot; => '"' -> ATTENTION SOUVENT UTILISÉ EN VALEUR D'ATTRIBUT…
+  "&quot; => '"' -> AT
 -->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <!-- OGJ:title -->
         <title>Acte sous le sceau de l’officialité épiscopale de Beauvais</title>
-        <!-- OGJ:subtitle -->
         <title type="sub">Une opération de remembrement : la vente à l’abbaye Saint-Germer-de-Fly d’une terre tenue à champart</title>
         <editor ref="http://data.bnf.fr/ark:/12148/cb11906612z">Olivier Guyotjeannin</editor>
       </titleStmt>
       <editionStmt>
         <edition>École des chartes</edition>
+        <respStmt>
+          <name ref="john.doe@mail.com">John Doe</name>
+          <resp>transcription, traduction</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>École nationale des chartes</publisher>
       </publicationStmt>
       <seriesStmt>
         <title>Theleme</title>
-        <!-- OGJ:id -->
         <biblScope unit="volume">20</biblScope>
       </seriesStmt>
-      <!-- OGJ:institution ET OGJ:pressmark -->
       <sourceDesc>
         <bibl>Orig. : Bibl. nat. Fr.</bibl>
         <bibl>Fac-sim. ENC : AF 482 (lithographie).</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <!-- OGJ:creation_norm (date/@when) ET OGJ:creation_label (date/text()) -->
       <creation>
         <date when="1248">1248</date>
       </creation>
       <langUsage>
-        <!-- OGJ:langCodes -->
         <language ident="lat"/>
       </langUsage>
     </profileDesc>
@@ -97,7 +92,7 @@
   </facsimile>
   <text>
     <front>
-      <div type="commentaire-diplomatique">
+      <div type="commentaire">
         <head>Commentaire diplomatique</head>
         <div type="contenu-commentaire">
           <head>Caractères externes</head>

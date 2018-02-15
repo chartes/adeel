@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1317, 10 décembre. Acte d'officialité (Verdun)</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">39</idno>
+				<publisher>Ecole nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : BNF.</p>
+				<p>Fac-sim. : Ancien fonds 288 (lithographie).</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc> </profileDesc>
+	</teiHeader>
+	<text>
+		<front> </front>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+				<p>
+					<seg rend="18,32,406,59">Nous, officiaulz de la court monsignour le princier</seg>
+					<seg rend="414,29,782,52">grant archidiacre en l&#x2019;eglize de Verdun,
+						faisons</seg>
+					<seg rend="19,63,479,83">cougnissant a tous que, en la presence de Arnouth dit
+						Vion,</seg>
+					<seg rend="484,57,790,74">clerc, notaire <expan>et</expan> tabellion publique de</seg>
+					<seg rend="17,86,576,102">l&#x2019;auctoritei del Saint Empire de Roume,
+						jurei <expan>et</expan> fiauble de ladite court,</seg>
+					<seg rend="583,81,775,97">louqueil nous creons en</seg>
+					<seg rend="16,108,513,124">cest fait <expan>et</expan> en plus grant
+						<expan>et</expan> liqueis porte n<expan>ost</expan>re pooir en ceste
+							p<expan>ar</expan>tie,</seg>
+					<seg rend="518,104,788,121">reprint Jehans des Hermoizes, escui-</seg>
+					<seg rend="12,133,362,151">-iers, filz signour Robert des Hermoizes,
+							ch<expan>evalie</expan>r,</seg>
+					<seg rend="365,126,791,149">de reverent peire en n<expan>ost</expan>re Signour
+						Henri, p<expan>ar</expan> la grace</seg>
+					<seg rend="15,156,391,171">de Deu evesque de Verdun, teil droit
+						<expan>et</expan> teile p<expan>ar</expan>tie</seg>
+					<seg rend="399,154,791,174">com il avoit, pooit <expan>et</expan> devoit avoir
+						en dix reires de</seg>
+					<seg rend="9,181,385,198">bleif que li hoir signour Jehant le Cornu,
+							ch<expan>evalie</expan>r,</seg>
+					<seg rend="390,181,795,197">ont einz rente <expan>et</expan> einz croueies de
+							Gourai<expan>n</expan>court ; et</seg>
+					<seg rend="13,206,368,223">celui fiez remint lidis Jehans en la main ledit</seg>
+					<seg rend="370,204,798,223">reverent peire Henri pour do<expan>n</expan>neir a
+						Henri de Bry-</seg>
+					<seg rend="18,231,322,251">-ey, fil signour Jake de Briey,
+						ch<expan>evalie</expan>r, qui fut ; </seg>
+					<seg rend="324,229,797,253">liqueis Henris, escuiers, en reprint doudit reverent
+						peire</seg>
+					<seg rend="18,260,393,280">Henri evesque en teil servize com lidis fiez devoit. </seg>
+					<seg rend="394,261,790,278">Se fut fait en la presence de signour Hue de Giber-</seg>
+					<seg rend="18,285,438,304">-court, ch<expan>evalie</expan>r, Otignon de Manhuere
+						et Husson de Blanzy,</seg>
+					<seg rend="445,288,787,305">homes de l&#x2019;eveschié. Liqueis sires Hues,
+							ch<expan>evalie</expan>rs,</seg>
+					<seg rend="18,313,457,331">ai muis son sael en ces p<expan>re</expan>sentes
+						letres avoc le n<expan>ostr</expan>e sael</seg>
+					<seg rend="459,314,791,330">en tesmo<expan>n</expan>gnage dez chozes
+						dessusdites. Lez-</seg>
+					<seg rend="10,338,360,356">-queiles letres furent faites l&#x2019;an de
+						grace</seg>
+					<seg rend="367,338,796,356">n<expan>ost</expan>re Signour mil trois cens dix
+							<expan>et</expan> sept ans, le same-</seg>
+					<seg rend="12,365,321,385">-di aprés feste saint Nicholay en yver.</seg>
+					<seg rend="377,365,543,387">[Signe] Ar. Vionni.</seg>
+				</p>
+			</div>
+			<div type="transcription">
+				<div type="texte">
+
+					<l>Nous, officiaulz de la court monsignour le</l>
+					<l><term
+							n="Le diocèse de Verdun était divisé en quatre archidiaconés : d Argonne, de Woëvre, de La Rivière et de la Princerie ( archidiaconus primus = major), qui englobait la cité elle-même et était le plus élevé en dignité."
+							>princier grant archidiacre</term> en l'eglize de <term
+							n="Verdun (Meuse, ch.-l. arr.).">Verdun</term>, faisons </l>
+					<l>cougnissant a tous que en la presence de Arnouth dit </l>
+					<l>Vion, clerc, notaire <expan>et</expan> tabellion publique de
+						l&#x2019;auctoritei </l>
+					<l>de l Saint Empire de Roume, jurei <expan>et</expan>
+						<term
+							n=" &#34;Fiable&#34; (= à qui l&#x2019;on accorde foi) est spécialement utilisé pour caractériser des notaires-jurés d&#x2019;officialité."
+							>fiauble</term> de ladite </l>
+					<l>court, louqueil nous creons en cest fait <expan>et</expan> en plus grant
+							<expan>et</expan>
+					</l>
+					<l>liqueis porte n<expan>ost</expan>re pooir en ceste p<expan>ar</expan>tie,
+						reprint Jehans</l>
+					<l>des <term n="Les Grandes-Armoises (Ardennes, cant. Le Chesne)."
+						>Hermoizes</term>, <term
+							n="Le titre d&#x2019;&#34; écuyer &#34; orne couramment à l&#x2019;époque un rejeton de la noblesse non encore armé chevalier."
+							>escuiiers</term>, filz signour Robert des</l>
+					<l>Hermoizes, ch<expan>evalie</expan>r, de reverent peire en
+						n<expan>ost</expan>re </l>
+					<l>Signour Henri, p<expan>ar</expan> la grace de Deu evesque de Verdun,</l>
+					<l>teil droit <expan>et</expan> teile p<expan>ar</expan>tie com il avoit, pooit
+							<expan>et</expan> devoit avoir</l>
+					<l>en dix <term
+							n="reires : le mot est sûrement à rapprocher du &#34; reise &#34; attesté en Lorraine au XIIIe siècle, et du &#34; res &#34; rencontré à Verdun à l&#x2019;époque moderne comme mesure des grains, et eux-mêmes parents de la &#34; rase &#34; qui en diverses provinces désignait une mesure rase (et non comble)."
+							>reires</term> de bleif que li hoir signour Jehant le</l>
+					<l>Cornu, ch<expan>evalie</expan>r, ont einz rente <expan>et</expan> einz <term
+							n="croueies forme lorraine du mot &#34; corvee &#34;, &#34; croee &#34; etc. (lat. croada), terre que le seigneur fait cultiver par des corvéables, d&#x2019;où parfois clos, ou encore terre cultivée tout court."
+							>croueies</term> de</l>
+					<l><term
+							n="Gouraincourt (Meuse, cant. Spincourt) : localité à 25 km au nord-est de Verdun, en Barrois non mouvant."
+								>Gourai<expan>n</expan>court</term> ;</l>
+					<l>et celui fiez remint lidis Jehans en la main ledit reverent</l>
+					<l>peire Henri pour do<expan>n</expan>neir a Henri de <term
+							n="Briey (Meuthe-et-Moselle, ch.-l. arr.). Jean des Armoises est attesté en 1333 comme châtelain de Briey."
+							>Bryey</term>, fil signour</l>
+					<l>Jake de Briey, ch<expan>evalie</expan>r, qui fut ; liqueis Henris,</l>
+					<l>escuiers, en reprint doudit reverent peire Henri evesque</l>
+					<l>en teil servize com lidis fiez devoit. Se fut fait en la</l>
+					<l>presence de signour Hue de <term
+							n="Jubécourt (Meuse, comm. et cant. Clermont-en-Argonne)."
+						>Gibercourt</term>, ch<expan>evalie</expan>r,</l>
+					<l>Otignon de <term n="Manheulles (Meuse, cant. Fresne-en-Woëvre)."
+						>Manhuere</term> et Husson de <term n="Blanzée (Meuse, cant. Étain)."
+						>Blanzy</term>, homes de</l>
+					<l>l&#x2019;eveschié. Liqueis sires Hues, ch<expan>evalie</expan>rs, ai muis
+						son</l>
+					<l>sael en ces p<expan>re</expan>sentes letres avoc le n<expan>ostr</expan>e
+						sael en</l>
+					<l>tesmo<expan>n</expan>gnage dez chozes dessusdites. Lezqueiles letres</l>
+					<l>furent faites l&#x2019;an de grace n<expan>ost</expan>re Signour mil
+						trois cens</l>
+					<l>dix <expan>et</expan> sept ans, le samedi aprés feste <term
+							n="En 1317, la Saint-Nicolas d&#x2019;hiver (fêtée le 6 décembre) tombe un mardi ; le samedi qui suit est donc le 10 décembre 1317."
+							>saint Nicholay</term> en</l>
+					<l>yver. (Signe) Ar. Vionni.</l>
+
+				</div>
+				<div type="traduction">
+
+					<l>Nous, official de la cour de monseigneur le grand </l>
+					<l><term
+							n="Le diocèse de Verdun était divisé en quatre archidiaconés :  Argonne, de Woëvre, de La Rivière et  de la Princerie ( archidiaconus primus = major), qui englobait la cité elle-même et était le plus élevé en dignité."
+							>archidiacre majeur</term> de l&#x2019;église de <term
+							n="Verdun (Meuse, ch.-l. arr.).">Verdun</term>, faisons </l>
+					<l>savoir à tous que, en la présence d&#x2019;Arnoul dit Vion,</l>
+					<l>clerc, notaire et tabellion public [investi] par l&#x2019;autorité</l>
+					<l>du Saint-Empire romain, juré <term
+							n=" &#34;Fiable&#34; (= à qui l&#x2019;on accorde foi) est spécialement utilisé pour caractériser des notaires-jurés d&#x2019;officialité."
+							>assermenté</term> de ladite cour,</l>
+					<l>à qui nous nous fions en ce fait et en plus grand et lequel</l>
+					<l>a reçu de nous pouvoir en cette affaire, Jean des</l>
+					<l><term n="Les Grandes-Armoises (Ardennes, cant. Le Chesne).">Armoises</term>,
+							<term
+							n="Le titre d&#x2019;&#34; écuyer &#34; orne couramment à l&#x2019;époque un rejeton de la noblesse non encore armé chevalier."
+							>écuyer</term>, fils du seigneur Robert des Armoises,</l>
+					<l>chevalier, a repris de révérend père en Notre Seigneur</l>
+					<l>Henri, par la grâce de Dieu évêque de Verdun, le droit et</l>
+					<l>la portion qu&#x2019;il avait, pouvait et devait avoir dans les dix</l>
+					<l><term
+							n="reires : le mot est sûrement à rapprocher du &#34; reise &#34; attesté en Lorraine au XIIIe siècle, et du &#34; res &#34; rencontré à Verdun à l&#x2019;époque moderne comme mesure des grains, et eux-mêmes parents de la &#34; rase &#34; qui en diverses provinces désignait une mesure rase (et non comble)."
+							>rases</term> de grain que les héritiers du seigneur Jean le</l>
+					<l>Cornu ont dans les rentes et <term
+							n="croueies forme lorraine du mot &#34; corvee &#34;, &#34; croee &#34; etc. (lat. croada), terre que le seigneur fait cultiver par des corvéables, d&#x2019;où parfois clos, ou encore terre cultivée tout court."
+							>terres de corvées</term> de</l>
+					<l><term
+							n="Gouraincourt (Meuse, cant. Spincourt) : localité à 25 km au nord-est de Verdun, en Barrois non mouvant."
+							>Gouraincourt</term> ; </l>
+					<l>et ce fief, ledit Jean l&#x2019;a remis en la main dudit révérend</l>
+					<l>père Henri pour qu&#x2019;il le donne à Henri de <term
+							n="Briey (Meuthe-et-Moselle, ch.-l. arr.). Jean des Armoises est attesté en 1333 comme châtelain de Briey."
+							>Briey</term>, fils de</l>
+					<l>feu le seigneur Jacques de Briey, chevalier ; lequel</l>
+					<l>Henri, écuyer, l&#x2019;a repris dudit révérend père Henri</l>
+					<l>évêque au service que ledit fief devait. Ce fut fait en</l>
+					<l>présence du seigneur Hugues de <term
+							n="Jubécourt (Meuse, comm. et cant. Clermont-en-Argonne)."
+						>Jubécourt</term>, chevalier,</l>
+					<l>d&#x2019;Otignon de <term n="Manheulles (Meuse, cant. Fresne-en-Woëvre)."
+							>Manheulles</term> et de Husson de <term
+							n="Blanzée (Meuse, cant. Étain).">Blanzée</term>,</l>
+					<l>vassaux de l&#x2019;évêché. Lequel seigneur Hugues, chevalier,</l>
+					<l>a mis son sceau aux présentes lettres avec notre sceau en</l>
+					<l>témoignage des choses susdites. Ces lettres furent faites</l>
+					<l>en l&#x2019;an de grâce de Notre Seigneur mille trois cent dix-</l>
+					<l>sept, le samedi après la <term
+							n="En 1317, la Saint-Nicolas d&#x2019;hiver (fêtée le 6 décembre) tombe un mardi ; le samedi qui suit est donc le 10 décembre 1317."
+							>Saint-Nicolas</term> d&#x2019;hiver. (Signe)</l>
+					<l>Ar. Vion.</l>
+
+				</div>
+				<div type="regeste">
+					<head>1317, 10 décembre. Jean des [Grandes-]Armoises, écuyer,</head>
+					<p> Jean des [Grandes-]Armoises, écuyer, fils de Robert, chevalier, reprend de
+						l'évêque de Verdun les droits qu'il avait sur les dix rases de grain perçues
+						par les héritiers de Jean le Cornu dans les redevances et terres de corvées
+						de Gouraincourt ; ces droits, tenus en fief de l'évêque, seront par ce
+						dernier remis à Henri de Briey, écuyer, fils de feu Jacques, chevalier, qui
+						les tiendra désormais au même service que Jean. - Acte notifié sous le sceau
+						de l'officialité archidiaconale de Verdun. </p>
+				</div>
+			</div>
+			<div type="commentaire" n="diplomatique">
+				<head>Commentaire diplomatique</head>
+				<div n="1">
+					<head>Caractères externes et langue</head>
+					<div type="contenu_commentaire">
+						<div class="recommandation">
+							<p>Passer la souris sur les cercles rouges pour des commentaires de
+								détail</p>
+						</div>
+						<p>
+							<figure rend="39/faxexternes.jpg">
+								<figDesc>
+									<seg type="circle" rend="70,57,41">Initiale grossie et ornée</seg>
+									<seg type="rect" rend="129,43,147,81">Ornementation discrète de
+										quelques lettres à la première ligne</seg>
+									<seg type="rect" rend="299,35,324,74">Ornementation discrète de
+										quelques lettres à la première ligne.</seg>
+
+									<seg type="circle" rend="663,115,19">Pas de justification du
+										texte à droite ; au besoin, quelques mots sont coupés (sans
+										trait d&#x2019;union)</seg>
+									<seg type="poly"
+										rend="341,325,351,310,387,300,428,300,460,312,469,327,451,344,411,352,357,343"
+										>Le signe précédant le nom "Ar. Vionni" (dont la graphie est
+										identique à celle du texte, et n&#x2019;a aucune
+										caractéristique de signature) est à peine une ébauche de
+										seing manuel ; il s&#x2019;apparente plutôt aux mentions
+										d&#x2019;attestation ou de prise de responsabilité du
+										rédacteur de l&#x2019;acte, que l&#x2019;on trouve
+										en certaines zones, du genre "Notavi", "Nota Talis", "Ita
+										est"... Il est possible de l&#x2019;interpréter comme la
+										combinaison d&#x2019;un pied de mouche et
+										d&#x2019;un "i" suivi d&#x2019;un signe abréviatif,
+										peut-être pour "Ita [est]"</seg>
+									<seg type="poly"
+										rend="592,323,605,312,632,309,661,310,687,320,682,332,645,337,606,334"
+										>Groupes de traits et de signes ondulés occupant la fin de
+										la dernière ligne, à effet esthétique et dissuadant les
+										interpolations</seg>
+									<seg type="poly"
+										rend="120,408,126,392,145,383,171,386,187,401,186,420,164,430,137,429,124,417"
+										>Double queue de parchemin. Le lithographe a très
+										vraisemblablement omis de reproduire, plus vers la droite,
+										la fente par laquelle devait passer l&#x2019;attache,
+										symétrique, du second sceau de l&#x2019;acte</seg>
+								</figDesc>
+							</figure>
+						</p>
+						<p>L’aspect graphique, comme l’écriture, offre un mélange de soin et de
+							rapidité ; l’acte est le double produit d’une préparation attentive, qui
+							se prolonge dans une certaine emphase mise sur les responsables de la
+							mise par écrit, garants d’authenticité (“ Nous ” l’official, et en
+							contrepoint son clerc-notaire juré), et d’autre part de la masse des
+							actes produits, qui pousse à la hâte. </p>
+
+						<p>On peut relever comme trait lorrain caractéristique la graphie “ ei ”
+							pour “ é ”, qui représente le produit de [a] latin accentué et libre [le
+							relevé est limité à la première occurrence du mot] : auctoritei, jurei,
+							lou queil (l. 3) ; li queis (l. 4) ; peire (l. 5) ; teil, teile, reires
+							(l. 6) ; bleif (l. 7) ; donneir (l. 8). </p>
+					</div>
+				</div>
+
+				<div n="3">
+					<head>Parties du discours</head>
+					<div type="recommandation">
+						<p> Passer la souris sur le texte pour obtenir des commentaires de
+						détail</p>
+					</div>
+					<div type="contenu_commentaire">
+						<p>
+							<seg corresp="suscription_depersonnalisee" rend="color:#FF0000">Nous,
+								officiaulz de la court monsignour le princier grant archidiacre en
+								l’eglize de Verdun,<note id="suscription_depersonnalisee"
+									type="bulle">Suscription dépersonnalisée</note></seg>
+							<seg corresp="notification" rend="color:#000099">faisons cougnissant a
+								tous que,<note id="notification" type="bulle">Notification
+									universelle</note></seg>
+							<seg corresp="mention_delegation" rend="color:#993399">en la presence de
+								Arnouth dit Vion, clerc, notaire et tabellion publique de
+								l’auctoritei del Saint Empire de Roume, jurei et fiauble de ladite
+								court, louqueil nous creons en cest fait et en plus grant et liqueis
+								porte nostre pooir en ceste partie,<note id="mention_delegation"
+									type="bulle">Mention de délégation au juré de
+									l&#x2019;official</note></seg>
+							<seg corresp="description" rend="color:#FF00FF">reprint Jehans des
+								Hermoizes, escuiiers, filz signour Robert des Hermoizes, chevalier,
+								de reverent peire en nostre Signour Henri, par la grace de Deu
+								evesque de Verdun, teil droit et teile partie com il avoit, pooit et
+								devoit avoir en dix reires de bleif que li hoir signour Jehant le
+								Cornu, chevalier, ont einz rente et einz croueies de Gouraincourt et
+								celui fiez remint lidis Jehans en la main ledit reverent peire Henri
+								pour donneir a Henri de Bryey, fil signour Jake de Briey, chevalier,
+								qui fut ; liqueis Henris, escuiers, en reprint doudit reverent peire
+								Henri evesque en teil servize com lidis fiez devoit.<note
+									id="description" type="bulle">Description de l&#x2019;action
+									notifiée et authentifiée</note></seg>
+							<seg corresp="liste" rend="color:#CC0000">Se fut fait en la presence de
+								signour Hue de Gibercourt, chevalier, Otignon de Manhuere et Husson
+								de Blanzy, homes de l’eveschié.<note id="liste" type="bulle">Liste
+									des témoins</note></seg>
+							<seg corresp="corroboration" rend="color:#9999FF">Liqueis sires Hues,
+								chevaliers, ai muis son sael en ces presentes letres avoc le nostre
+								sael en tesmongnage dez chozes dessusdites.<note id="corroboration"
+									type="bulle">Corroboration probatoire annonçant un double
+									scellement</note></seg>
+							<seg corresp="date" rend="color:#006600">Lezqueiles letres furent faites
+								l’an de grace nostre Signour mil trois cens dix et sept ans, le
+								samedi aprés feste saint Nicholay en yver.<note id="date"
+									type="bulle">Date de temps.</note></seg>
+							<seg corresp="mention_attestation" rend="color:#0099CC">(Signe) Ar.
+									Vionni.<note id="mention_attestation" type="bulle">Mention hors
+									teneur : formule d&#x2019;attestation (?) et nom du
+								juré</note></seg>
+						</p>
+
+
+					</div>
+				</div>
+				<div n="4">
+					<head>Interprétation</head>
+					<div type="contenu_commentaire">
+
+						<p>L’emploi de la langue vernaculaire au détriment du latin dans un acte
+							d’officialité peut sembler étonnante. C’est en fait un trait
+							caractéristique de la production des officialités lorraines, en une
+							province du reste où l’emploi du français dans les actes a été précoce
+							et massif (384 actes, de 1214 à 1300, ont été ainsi repérés dans la
+							seule collection de Lorraine de la Bibliothèque nationale de France et
+							édités par Nathalis de Wailly, “ Notice sur les actes en langue vulgaire
+							du XIII<hi rend="exposant">e</hi> siècle à la Bibliothèque nationale ”,
+							dans <hi rend="italic">Notices et extraits des manuscrits de la
+								Bibliothèque nationale et autres bibliothèques</hi>, t. 28/2, 1878,
+							p. 1-288). On notera au passage la discrétion de l’emploi des
+							abréviations : elle est déterminée par la langue employée (on sait que
+							les abéviations sont normalement beaucoup plus fréquentes dans les actes
+							latins) et non par l’état du scripteur, tout de même poussé par son état
+							clérical à porter <hi rend="italic">in fine</hi> son nom en latin. </p>
+						<p>Au fond pourtant, les paroles françaises ne font que décalquer les
+							formulaires latins et les solutions juridiques et techniques mises au
+							point dans les officialités épiscopales, vite imitées par des
+							officialités de rang inférieur mais parfois fort actives, comme celles
+							qui se créèrent sous l’autorité des doyens de chapitres cathédraux, de
+							quelques abbés d’abbayes exemptes et, avant tout, d’archidiacres. On
+							notera toutefois ici une certaine simplification du discours, qui n’est
+							pas comme à l’ordinaire fondé sur la <hi rend="italic">confessio in
+							jure</hi>, mais sur la description immédiate du négoce juridique (“ <hi
+								rend="italic">reprint</hi> ”, l. 4). </p>
+
+						<p>Héritière directe, par contre, des solutions très tôt imaginées dans les
+							officialités épiscopales est la mention, insistante, de la délégation de
+							l’official à un adjoint spécialisé dans le traitement de l’affaire (“
+							clerc ”, “ notaire ”, “ juré ”, ici “ <hi rend="italic">juré et
+							fiauble</hi> ”) : “ auditeur ” des parties en qualité de témoin
+							privilégié, ensuite habilité à rapporter la transaction à l’official et,
+							en fait, à établir le document et à la préparer en vue du scellement par
+							l’official. Ici, le “ juré ” de l’officialité décline une autre qualité,
+							celle de notaire public d’investiture impériale, mais elle est sans
+							conséquence aucune sur les caractères externes (modes de validation) et
+							sur le discours diplomatique : l’acte est, à part entière et
+							exclusivement, un acte d’officialité. </p>
+						<p>Très vite, les liens s’étaient distendus entre l’official et ses délégués
+							: l’ébauche de signature (comme ici) ou le scellement temporaire de
+							l’acte par le sceau personnel du juré (utilisé en “ sous-sceau ” et
+							destiné à disparaître lors du scellement par l’official), sans doute
+							accompagnés de la reconnaissance visuelle de l’écriture, constituèrent
+							alors autant de moyens permettant à l’official de ne pas sceller à son
+							insu des faux parmi les monceaux d’actes lui arrivant pour validation et
+							concernant des affaires dont il n’avait pas entendu parler. </p>
+						<p>L’acte, au juste, a reçu un double scellement. Il faudrait une enquête
+							régionale pour préciser la chronologie et la portée de la pratique. Le
+							renforcement du sceau de la juridiction gracieuse ecclésiastique
+							(official, doyen de chrétienté...) par un second sceau, cette fois de
+							laïque, est ainsi un phénomène courant dans la Champagne de la fin du
+							XIIIe siècle : il est destiné à conférer un surcroît d’authenticité à
+							des productions qui subissent la rude concurrence des juridictions
+							gracieuses princières. L’explication est ici d’autant plus plausible que
+							le second sceau n’est annoncé que dans la formule de corroboration,
+							qu’il est celui d’un vassal de l’évêque et qu’il laisse, dans la
+							suscription, toute la responsabilité de l’acte à l’official. </p>
+						<p>Autre “ déviation ” de l’acte d’officialité primitif, on mentionne ici
+							des témoins. Il se peut que leur présence soit liée moins aux pratiques
+							diplomatiques qu’au fond féodal de l’affaire, en leur qualité d’“ hommes
+							” de l’évêque, donc aussi de pairs de l’intéressé. </p>
+						<p>Derrière des formules limpides en apparence, le montage de l’acte laisse
+							donc en fin de compte apparaître une certaine complexité, qui répond
+							d’ailleurs à la complexité du montage féodal, dont un pan entier nous
+							est dissimulé parce que le propos de l’acte n’est pas dans la
+							description de toute l’opération mais dans l’affirmation des droits de
+							l’évêque, seigneur supérieur d’une cascade d’inféodations et de “
+							services ” superposés. Si Jean des Armoizes “ reprend ” le fief qu’il
+							tient de l’évêque (sans doute parmi d’autres), pour en faire investir
+							Henri de Briey (qui le “ reprend ”), autrement dit s’il demande à
+							l’évêque de transférer le fief, sans perte de “ service ” pour le
+							prélat, la raison en demeure inconnue : vente ? compensation ? faveur ?
+							Il reste que le lexique introduit de plein pied dans le jeu dynamique et
+							relationnel de la féodalité (reprendre, remettre, donner, reprendre...).
+							Féodalité qui par ailleurs régule des relations économiques : un cran
+							plus bas, le fief est dit consister en des droits (des prélèvements
+							donc) sur des droits et prélèvements que perçoivent des tiers, eux aussi
+							issus du monde seigneurial, mais dans des modalités qui elles aussi
+							échappent à la description documentaire. </p>
+					</div>
+				</div>
+			</div>
+
+		</body>
+	</text>
+</TEI>

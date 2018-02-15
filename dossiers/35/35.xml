@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1333. Thérouanne. Acte d&#x2019;officialité , quittance.</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">35</idno>
+                <publisher>École nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : Bibl. nat. Fr.</p>
+                <p>Fac-sim. ENC : AF 593 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="frm">Ancien français</language>
+                <language id="fre">Français</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="27,26,442,50">Univ<expan>er</expan>sis presentes
+                        litt<expan>er</expan>as inspecturis, . . official<expan>is</expan>
+                            Morinen<expan>sis</expan>,</seg>
+                    <seg rend="445,42,992,55">in v<expan>er</expan>o Salutari salutem. Notum facimus
+                        quod, in nostra propter hoc presentia personaliter constitutus,</seg>
+                    <seg rend="34,56,445,75">magister Johannes d&#x2019;Artoys recognovit
+                            <expan>et</expan> confessus est in jure</seg>
+                    <seg rend="451,62,993,81">coram nobis se recepisse <expan>et</expan> habuisse in
+                        bona <expan>et</expan> b<expan>e</expan>n<expan>e</expan>
+                        num<expan>er</expan>ata pecu<expan>n</expan>ia ab
+                        illustrissi<expan>m</expan>o</seg>
+                    <seg rend="30,83,521,100">principe et poten<expan>te</expan>
+                        d<expan>omi</expan>no . . rege Franc&#x2019; p<expan>er</expan>
+                            manu<expan>m</expan> Johannis de Hautebruiere</seg>
+                    <seg rend="533,89,987,106">quadraginta libras parisiensium forcium, in quibus
+                        dictus dominus . . rex</seg>
+                    <seg rend="32,103,355,123"><expan>et</expan> predecessores ejus eidem
+                            mag<expan>ist</expan>ro Johanni,</seg>
+                    <seg rend="366,108,990,128">prout idem cor<expan>am</expan> nobis asseruit,
+                        tenebantur rat<expan>i</expan>one stipendior<expan>um</expan> suorum, a
+                            d<expan>i</expan>c<expan>t</expan>o mag<expan>ist</expan>ro
+                        des<expan>er</expan>-</seg>
+                    <seg rend="30,129,380,145">-vitor<expan>um</expan> tam in castris de Fienles et
+                        de Tingry</seg>
+                    <seg rend="396,133,992,152">q<expan>u</expan>a<expan>m</expan> etiam in guerra
+                            Flandren<expan>si</expan> ; de quib<expan>us</expan> quidem quadraginta
+                        libris parisien<expan>sium</expan> dictus</seg>
+                    <seg rend="34,154,459,173">magist<expan>er</expan> Joh<expan>ann</expan>es se
+                        tenuit <expan>et</expan> tenet coram nobis a
+                        d<expan>i</expan>c<expan>t</expan>o d<expan>omi</expan>no . . </seg>
+                    <seg rend="468,162,981,180">rege pro contento efficacit<expan>er</expan> et
+                        pagato, et de hiis quitavit <expan>et</expan> adhuc</seg>
+                    <seg rend="35,176,355,198">quitat <expan>et</expan> quit<expan>um</expan> clamat
+                            predict<expan>um</expan> d<expan>omi</expan>n<expan>u</expan>m regem</seg>
+                    <seg rend="368,186,985,202">ejusq<expan>ue</expan> predecessores ac etiam
+                        successores p<expan>er</expan>petuo p<expan>er</expan> presentes ;
+                        promittens idem magist<expan>er</expan></seg>
+                    <seg rend="32,204,357,221">Joh<expan>ann</expan>es cor<expan>am</expan>
+                            nob<expan>is</expan> sub fide et juram<expan>en</expan>to
+                            corp<expan>or</expan>al<expan>ite</expan>r</seg>
+                    <seg rend="362,212,980,230">p<expan>re</expan>stitis ab eodem in manu
+                            n<expan>ost</expan>ra cont<expan>r</expan>a quitat<expan>i</expan>onem
+                            hujusmo<expan>d</expan>i p<expan>er</expan> se aut p<expan>er</expan>
+                        alium decet<expan>er</expan>o no<expan>n</expan></seg>
+                    <seg rend="38,226,293,243">venire. In cujus rei testimonium,</seg>
+                    <seg rend="299,233,970,252">presentibus litteris sigillum curie
+                            Morinen<expan>sis</expan> ad instan<expan>ciam</expan> et rogatum
+                            ip<expan>s</expan>ius mag<expan>ist</expan>ri Johannis</seg>
+                    <seg rend="8,249,432,282">duximus apponend<expan>um</expan>. Datum anno
+                            D<expan>omi</expan>ni mill<expan>esim</expan>o CCC°</seg>
+                    <seg rend="438,263,893,283">trigesimo s<expan>e</expan>c<expan>un</expan>do,
+                            sabb<expan>at</expan>o post d<expan>omi</expan>nicam qua cantatur Oculi
+                        mei.</seg>
+                    <seg rend="549,298,656,316">[signé :] J. Cauffour.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Univ<expan>er</expan>sis presentes litt<expan>er</expan>as inspecturis, . . </l>
+                    <l>official<expan>is</expan>
+                        <term
+                            n="Morinensis : Thérouanne (à l&#x2019;origine, cité des Morins), siège d&#x2019;évêché jusqu&#x2019;en 1553, date où la ville est rasée avant que le diocèse ne soit partagé entre trois nouveaux sièges (Saint-Omer, Ypres et Boulogne) ; auj. village du Pas-de-Calais, cant. Aire-sur-la-Lys."
+                                >Morinen<expan>sis</expan></term>,</l>
+                    <l>in v<expan>er</expan>o Salutari salutem.</l>
+                    <l/>
+                    <l>Notum facimus quod, in nostra propter hoc </l>
+                    <l>presentia personaliter constitutus, magister </l>
+                    <l>Johannes d&#x2019;Artoys recognovit <expan>et</expan> confessus </l>
+                    <l>est in jure coram nobis se recepisse <expan>et</expan>
+                    </l>
+                    <l>habuisse in bona <expan>et</expan> b<expan>e</expan>n<expan>e</expan>
+                            num<expan>er</expan>ata pecu<expan>n</expan>ia </l>
+                    <l>ab illustrissi<expan>m</expan>o principe et poten<expan>te</expan>
+                            d<expan>omi</expan>no </l>
+                    <l>. . <term
+                            n="rege Franc&#x2019; : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l&#x2019;auteur suit l&#x2019;usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l&#x2019;expression française correspondante, roi de France). Il s&#x2019;agit de Philippe VI, monté sur le trône en 1328."
+                            >rege Franc&#x2019;</term> p<expan>er</expan> manu<expan>m</expan>
+                        <term
+                            n="Johannis de Hautebruiere : La traduction pose moins de problème que l&#x2019;identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr&#x2019; qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d&#x2019;anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII)."
+                            >Johannis de </term></l>
+                    <l><term
+                            n="Johannis de Hautebruiere : La traduction pose moins de problème que l&#x2019;identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr&#x2019; qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d&#x2019;anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII)."
+                            >Hautebruiere</term> quadraginta libras </l>
+                    <l><term
+                            n="parisiensium forcium : Comprendre « livres [de deniers] parisis forts », d&#x2019;où l&#x2019;emploi impératif (et quasi toujours suivi dans les textes de l&#x2019;époque) du génitif pluriel. Le qualificatif de « [deniers] forts » (fortes, inforciati…), par opposition aux « [deniers] faibles » (debiles), renvoie de façon générique à une monnaie renforcée (dans son poids et/ou son titre), de plus fort pouvoir libératoire ; il s&#x2019;agit ici de la “bonne monnaie” émise au début du règne de Philippe VI (mise en circulation à Pâques 1330)."
+                            >parisiensium forcium</term>, in quibus dictus </l>
+                    <l>dominus . . rex <expan>et</expan> predecessores ejus eidem </l>
+                    <l>mag<expan>ist</expan>ro Johanni, prout idem cor<expan>am</expan> nobis </l>
+                    <l>asseruit, tenebantur rat<expan>i</expan>one stipendior<expan>um</expan>
+                    </l>
+                    <l>suorum, a d<expan>i</expan>c<expan>t</expan>o mag<expan>ist</expan>ro
+                            des<expan>er</expan>vitor<expan>um</expan> tam </l>
+                    <l>in castris de <term n="Fienles : Fiennes, Pas-de-Calais, cant. Guînes."
+                            >Fienles</term> et de <term
+                            n="Tingry : Tingry, Pas-de-Calais, cant. Samer.">Tingry</term>
+                            q<expan>u</expan>a<expan>m</expan>
+                    </l>
+                    <l>etiam in <term
+                            n="guerra Flandrensi : La “guerre de Flandre” ici visée a vu Philippe VI soutenir le comte Louis Ier contre les échevinages révoltés de Bruges et d&#x2019;Ypres ; elle a culminé dans la grande victoire royale de Cassel (1328)."
+                            >guerra Flandren<expan>si</expan></term> ; </l>
+                    <l>de quib<expan>us</expan> quidem quadraginta libris </l>
+                    <l>parisien<expan>sium</expan> dictus magist<expan>er</expan>
+                        Joh<expan>ann</expan>es se </l>
+                    <l>tenuit <expan>et</expan> tenet coram nobis a
+                        d<expan>i</expan>c<expan>t</expan>o d<expan>omi</expan>no </l>
+                    <l>. . rege pro contento efficacit<expan>er</expan> et pagato, et </l>
+                    <l>de hiis quitavit <expan>et</expan> adhuc quitat <expan>et</expan>
+                            quit<expan>um</expan>
+                    </l>
+                    <l>clamat predict<expan>um</expan> d<expan>omi</expan>n<expan>u</expan>m regem
+                            ejusq<expan>ue</expan>
+                    </l>
+                    <l>predecessores ac etiam successores </l>
+                    <l>p<expan>er</expan>petuo p<expan>er</expan> presentes ; </l>
+                    <l>promittens idem magist<expan>er</expan> Joh<expan>ann</expan>es
+                        cor<expan>am</expan>
+                    </l>
+                    <l>nob<expan>is</expan> sub fide et juram<expan>en</expan>to
+                            corp<expan>or</expan>al<expan>ite</expan>r</l>
+                    <l>p<expan>re</expan>stitis ab eodem in manu n<expan>ost</expan>ra
+                        cont<expan>r</expan>a </l>
+                    <l>quitat<expan>i</expan>onem hujusmo<expan>d</expan>i p<expan>er</expan> se aut
+                            p<expan>er</expan>
+                    </l>
+                    <l>alium decet<expan>er</expan>o no<expan>n</expan> venire.</l>
+                    <l/>
+                    <l>In cujus rei testimonium, presentibus </l>
+                    <l>litteris sigillum curie Morinen<expan>sis</expan> ad </l>
+                    <l>instan<expan>ciam</expan> et rogatum ip<expan>s</expan>ius
+                        mag<expan>ist</expan>ri </l>
+                    <l>Johannis duximus apponend<expan>um</expan>. </l>
+                    <l/>
+                    <l>Datum anno D<expan>omi</expan>ni mill<expan>esim</expan>o CCC°</l>
+                    <l>trigesimo s<expan>e</expan>c<expan>un</expan>do, sabb<expan>at</expan>o post</l>
+                    <l>d<expan>omi</expan>nicam qua cantatur Oculi mei.</l>
+                    <l>[signé : ] J. Cauffour.</l>
+                </div>
+                <div type="traduction">
+                    <l>À tous ceux qui verront les présentes</l>
+                    <l>lettres, . . l&#x2019;official de <term
+                            n="Morinensis : Thérouanne (à l&#x2019;origine, cité des Morins), siège d&#x2019;évêché jusqu&#x2019;en 1553, date où la ville est rasée avant que le diocèse ne soit partagé entre trois nouveaux sièges (Saint-Omer, Ypres et Boulogne) ; auj. village du Pas-de-Calais, cant. Aire-sur-la-Lys."
+                            >Thérouanne</term>, salut en</l>
+                    <l>Celui qui donne vraiment le salut.</l>
+                    <l/>
+                    <l>Nous faisons savoir que, personnellement</l>
+                    <l>établi en notre présence pour ce faire,</l>
+                    <l>maître Jean d&#x2019;Artois a reconnu et avoué en</l>
+                    <l>droit devant nous qu&#x2019;il a reçu et eu, en</l>
+                    <l>argent bon et bien compté, de très illustre</l>
+                    <l>prince et puissant monseigneur . . <term
+                            n="rege Franc&#x2019; : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l&#x2019;auteur suit l&#x2019;usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l&#x2019;expression française correspondante, roi de France). Il s&#x2019;agit de Philippe VI, monté sur le trône en 1328."
+                            >le roi de</term></l>
+                    <l><term
+                            n="rege Franc&#x2019; : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l&#x2019;auteur suit l&#x2019;usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l&#x2019;expression française correspondante, roi de France). Il s&#x2019;agit de Philippe VI, monté sur le trône en 1328."
+                            >France</term>, par la main de <term
+                            n="Johannis de Hautebruiere : La traduction pose moins de problème que l&#x2019;identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr&#x2019; qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d&#x2019;anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII)."
+                            >Jean de</term></l>
+                    <l><term
+                            n="Johannis de Hautebruiere : La traduction pose moins de problème que l&#x2019;identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr&#x2019; qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d&#x2019;anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII)."
+                            >Hautebruyère</term>, quarante livres de <term
+                            n="parisiensium forcium : Comprendre « livres [de deniers] parisis forts », d&#x2019;où l&#x2019;emploi impératif (et quasi toujours suivi dans les textes de l&#x2019;époque) du génitif pluriel. Le qualificatif de « [deniers] forts » (fortes, inforciati…), par opposition aux « [deniers] faibles » (debiles), renvoie de façon générique à une monnaie renforcée (dans son poids et/ou son titre), de plus fort pouvoir libératoire ; il s&#x2019;agit ici de la “bonne monnaie” émise au début du règne de Philippe VI (mise en circulation à Pâques 1330)."
+                            >parisis</term>,</l>
+                    <l><term
+                            n="parisiensium forcium : Comprendre « livres [de deniers] parisis forts », d&#x2019;où l&#x2019;emploi impératif (et quasi toujours suivi dans les textes de l&#x2019;époque) du génitif pluriel. Le qualificatif de « [deniers] forts » (fortes, inforciati…), par opposition aux « [deniers] faibles » (debiles), renvoie de façon générique à une monnaie renforcée (dans son poids et/ou son titre), de plus fort pouvoir libératoire ; il s&#x2019;agit ici de la “bonne monnaie” émise au début du règne de Philippe VI (mise en circulation à Pâques 1330)."
+                            >forte monnaie</term>, en lesquelles ledit seigneur</l>
+                    <l>. . roi et ses prédécesseurs étaient tenus</l>
+                    <l>envers ledit maître Jean, ainsi que [ce</l>
+                    <l>dernier] l&#x2019;a affirmé devant nous, à raison</l>
+                    <l>de ses gages, [pour service fait] par ledit</l>
+                    <l>maître tant aux châteaux de <term
+                            n="Fienles : Fiennes, Pas-de-Calais, cant. Guînes.">Fiennes</term> et de
+                            <term n="Tingry : Tingry, Pas-de-Calais, cant. Samer.">Tingry</term></l>
+                    <l>qu&#x2019;en la <term
+                            n="guerra Flandrensi : La “guerre de Flandre” ici visée a vu Philippe VI soutenir le comte Louis Ier contre les échevinages révoltés de Bruges et d&#x2019;Ypres ; elle a culminé dans la grande victoire royale de Cassel (1328)."
+                            >guerre de Flandre</term> ;</l>
+                    <l>desquelles quarante livres parisis ledit</l>
+                    <l>maître Jean s&#x2019;est tenu et se tient, devant</l>
+                    <l>nous, pour parfaitement content et payé dudit seigneur</l>
+                    <l>. . roi, et il en a quitté, et</l>
+                    <l>quitte encore et proclame quitte le susdit</l>
+                    <l>seigneur . . roi et</l>
+                    <l>ses prédécesseurs et aussi ses successeurs,</l>
+                    <l>à toujours, par les présentes [lettres] ;</l>
+                    <l>ledit maître Jean promettant devant nous,</l>
+                    <l>sous le foi et le serment prêtés</l>
+                    <l>corporellement par lui en notre main, de ne pas</l>
+                    <l>venir désormais, par lui ou par autrui,</l>
+                    <l>contre cette quittance.</l>
+                    <l/>
+                    <l>En témoin de quoi, nous avons fait mettre</l>
+                    <l>aux présentes lettres le sceau de la cour de</l>
+                    <l>Thérouanne à l&#x2019;instance et demande dudit</l>
+                    <l>maître Jean.</l>
+                    <l/>
+                    <l>Donné l&#x2019;an du Seigneur mille 300</l>
+                    <l>trente-deux, le samedi après</l>
+                    <l>le dimanche où l&#x2019;on chante Oculi mei.</l>
+                    <l>[signé : ] J. Cauffour.</l>
+                </div>
+                <div type="commentaires">
+                    <div>
+                        <head>Conversion de la date</head>
+                        <p>Le dimanche d&#x2019;Oculi est le troisième dimanche de Carême ; lié
+                            à Pâques, il voit donc sa date varier d&#x2019;une année sur
+                            l&#x2019;autre. Il y a toute chance, vu le lieu et la date, que le
+                            rédacteur de l&#x2019;acte (qui pouvait dire aussi bien “le samedi
+                            avant Letare”) suive le style de Pâques. Puisque l&#x2019;on est en
+                            Carême, avant Pâques, on peut donc commencer, en toute quiétude, par
+                            convertir le millésime « 1332 (ancien style) » en « 1333 (nouveau
+                            style) ». Puis l&#x2019;on constate que, en 1333 (n.st.), Pâques
+                            tombe le 4 avril, et Oculi le 7 mars ; le samedi qui suit est donc le 13
+                            mars 1333 (n.st.). — Mais si le rédacteur (chose hautement improbable)
+                            avait suivi le style de Noël, ou du 1er janvier, on serait bien en 1332
+                            (a.st. = n.st.) ; Pâques est tombé, cette année-là, le 19 avril, et
+                            Oculi le 22 mars ; le samedi suivant était le 28 mars 1332. Petite
+                            curiosité diplomatique : si le rédacteur de l&#x2019;acte avait
+                            suivi le style de l&#x2019;Annonciation florentine… nous
+                            n&#x2019;aurions su choisir entre le 28 mars 1332 (n.st.) et le 13
+                            mars 1333 (n.st.), deux dates que le rédacteur aurait rapportées à
+                            « son » millésime 1332 (a.st.). </p>
+                    </div>
+                </div>
+                <div type="regeste">
+                    <head> </head>
+                    <p> Maître Jean d'Artois donne quittance au roi de France des quarante livres de
+                        parisis, monnaie forte, qui lui ont été remises par Jean de Hautebruiere
+                        pour gages de son service aux châteaux de Fiennes et Tingry et durant la
+                        guerre de Flandre. — Acte passé sous le sceau de l'officialité de
+                        Thérouanne. </p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                        <div class="recommandation">
+                            <p>Passer la souris sur les cercles rouges pour des commentaires de
+                                détail</p>
+                        </div>
+                        <p>
+                            <figure rend="35/faxexternes.jpg">
+                                <figDesc>
+                                    <seg type="poly"
+                                        rend="10,45,5,41,3,32,6,24,10,23,15,30,15,37,13,41">Marqueur
+                                        de début d&#x2019;acte (d&#x2019;usage rare). Il
+                                        semble s&#x2019;agir moins d&#x2019;une croix que
+                                        d&#x2019;un fleuron</seg>
+                                    <seg type="poly"
+                                        rend="43,44,57,39,63,31,64,20,59,12,53,7,46,4,40,3,32,4,28,6,22,11,17,15,15,22,16,30,22,37,25,40,30,43"
+                                        >Initiale filigranée</seg>
+                                    <seg type="poly"
+                                        rend="146,59,150,63,150,68,144,68,141,65,142,61">Comme il
+                                        est usuel, les personnes citées ex officio (ici le roi de
+                                        France, plus haut l&#x2019;official), voient leur titre
+                                        précédé de deux points (. .)</seg>
+                                    <seg type="poly"
+                                        rend="235,27,238,28,239,34,238,38,232,39,230,35,228,32,229,29,231,27"
+                                        >Noter quelques capitales à traits redoublés, qui servent à
+                                        scander, mais sans exclusive, le discours (nom de
+                                        l&#x2019;auteur de l&#x2019;acte, somme, promesse,
+                                        date&#133;)</seg>
+                                    <seg type="poly"
+                                        rend="432,202,447,205,460,207,469,212,470,219,457,224,446,224,427,226,408,224,399,222,390,218,384,213,389,208,398,206,410,202,418,201"
+                                        >Marqueur de fin d&#x2019;acte (remplace les lettres
+                                        étirées ou suite de signes qui, au XIIIe siècle
+                                        principalement, occupent l&#x2019;espace de la dernière
+                                        ligne) : autre moyen de lutter contre les interpolations</seg>
+                                    <seg type="poly"
+                                        rend="629,179,639,186,641,197,639,208,637,215,633,220,627,220,623,216,621,209,620,203,620,197,622,191,623,186,626,182"
+                                        >« Signature » du responsable effectif de la mise par écrit.
+                                        Attention : cette mention « hors teneur » n&#x2019;agit
+                                        pas (encore) comme un signe de validation. Vu
+                                        l&#x2019;époque, l&#x2019;acte devait être
+                                        normalement validé par un sceau, qui est
+                                        d&#x2019;ailleurs annoncé dans le texte.
+                                        L&#x2019;absence de toute trace de scellement et
+                                        d&#x2019;attache laisse supposer que le bas du parchemin
+                                        a été découpé, et le sceau emporté. Noter aussi que la
+                                        signature est suivie d&#x2019;un signe analogue au
+                                        marqueur de début et de fin de l&#x2019;acte</seg>
+                                    <seg type="poly"
+                                        rend="689,20,692,31,694,47,694,65,694,78,694,93,694,107,694,127,694,135,693,151,693,159,692,175,692,185,691,193,691,202,690,211,687,208,685,196,682,180,681,165,681,139,681,116,682,94,681,79,682,58,683,44,685,30"
+                                        >Souci de justifier le texte à droite, qui
+                                        n&#x2019;entraîne qu&#x2019;une coupure de mot
+                                        (ligne 4), marquée par un tiret</seg>
+                                </figDesc>
+                            </figure>
+                        </p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="adresse" rend="color:#FF0000">Universis presentes litteras
+                                    inspecturis,<note id="adresse" type="bulle">Adresse (précède la
+                                    suscription)</note></seg>
+                            <seg corresp="suscription" rend="color:#993399">. . officialis
+                                    Morinensis,<note id="suscription" type="bulle">Suscription
+                                    (dépersonnalisée)</note></seg>
+                            <seg corresp="salut" rend="color:#993399">in vero Salutari salutem<note
+                                    id="salut" type="bulle">Salut</note></seg>
+                            <seg corresp="notification" rend="color:#000099">Notum facimus quod<note
+                                    id="notification" type="bulle">Notification</note></seg>
+                            <seg corresp="coeur" rend="color:#009966">in nostra propter hoc
+                                presentia personaliter constitutus, magister Johannes
+                                d'<em>Artoys</em> recognovit et confessus est in jure coram nobis se
+                                recepisse et habuisse in bona et bene numerata pecunia ab
+                                illustrissimo principe et potente domino . . rege Franc' per manum
+                                Johannis de <em>Hautebruiere</em> quadraginta libras parisiensium
+                                forcium, in quibus dictus dominus . . rex et predecessores ejus
+                                eidem magistro Johanni, prout idem coram nobis asseruit, tenebantur
+                                ratione stipendiorum suorum, a dicto magistro deservitorum tam in
+                                castris de <em>Fienles</em> et de <em>Tingry</em> quam etiam in
+                                guerra Flandrensi ; de quibus quidem quadraginta libris parisiensium
+                                dictus magister Johannes se tenuit et tenet coram nobis a dicto
+                                domino . . rege pro contento efficaciter et pagato, et de hiis
+                                quitavit et adhuc quitat et quitum clamat predictum dominum regem
+                                ejusque predecessores ac etiam successores perpetuo per
+                                    presentes<note id="coeur" type="bulle">Coeur de
+                                    l&#x2019;acte, plus que dispositif à proprement parler.
+                                    Verbes-clefs de l&#x2019;acte écrit : recognivit, confessus
+                                    est ; de l&#x2019;action juridique : quitavit, quitat</note></seg>
+                            <seg corresp="clause_promesse" rend="color:#0099CC">In cujus rei
+                                testimonium, presentibus litteris sigillum curie Morinensis ad
+                                instanciam et rogatum ipsius magistri Johannis duximus
+                                    apponendum<note id="clause_promesse" type="bulle">Clause de
+                                    promesse (avec mention d&#x2019;un serment)</note></seg>
+                            <seg corresp="date" rend="color:#CC3366">Datum anno Domini millesimo
+                                CCC° trigesimo secundo, sabbato post dominicam qua cantatur Oculi
+                                    mei<note id="date" type="bulle">Date de temps</note></seg>
+                            <seg corresp="signature" rend="color:#9999FF">(<em>signé :</em>) J. Cauffour<note id="signature"
+                                    type="bulle">Signature du responsable de la mise par écrit</note></seg>                            
+                        </p>
+                    </div>
+                </div>
+                <div n="4">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>Le fond juridique et la forme diplomatique sont limpides. Quai immuable 
+                            depuis un siècle, l'acte d'officialité appuie sa force sur 
+                            le prestige de la cour épiscopale, qui lui prête son sceau 
+                            et ses possibilités de recours (noter la prégnance de l'engagement 
+                            par serment). On retrouve toujours la même procédure au cœur 
+                            de l'acte : un aveu fait devant le juge (<hi rend="italic">recognovit et confessus 
+                                fuit</hi>) ; et les mêmes adaptations concrètes : 
+                            l'établissement effectif des lettres par un clerc-notaire-juré, 
+                            dont le rôle est proche de celui du notaire public, sauf que la validation 
+                            continue à être apportée par la cour ; son nom 
+                            reste donc en retrait devant celui (dépersonnalisé) du sigillant, 
+                            qu'il faut porter en suscription.</p>
+                        <p>Quelques particularités à relever au passage :</p>                 
+                        la forme encore lourde qui est donnée à la quittance, 
+                        une quittance donnée au roi et à ses prédécesseurs 
+                        devant official ; quelques décennies plus tard, ou dans des 
+                        affaires plus légères, un acte sous sceau personnel, ne 
+                        mentionnant que le comptable royal, suffit ;
+                        le laconisme du document sur la nature des services gagés (par 
+                        défaut, le bénéficiaire étant qualifé 
+                        de « maître », on peut supposer qu'il n'est 
+                        pas homme d'armes) ;
+                        la tendance croissante à des redoublements d'expressions (<hi rend="italic">ad 
+                            instanciam et rogatum</hi>), parfois en chaîne (<hi rend="italic">quitavit et adhuc 
+                                quitat et quitum clamat</hi>).                      
+                    </div>               
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

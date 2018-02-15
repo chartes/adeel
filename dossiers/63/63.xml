@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1304, 15 avril. Acte notarié scellé d'un sceau épiscopal (Dauphiné).</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">63</idno>
+                <publisher>Ecole nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : Arch. dép. Hautes-Alpes.</p>
+                <p>Fac-sim. ENC : AF 419 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc/>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="73,82,493,124">Anno ab Incarnatione Domini mill<expan>esi</expan>mo
+                        tricentesimo quarto, </seg>
+                    <seg rend="496,94,805,132">die XV mens<expan>is</expan> aprilis,
+                        indict<expan>i</expan>one s<expan>e</expan>c<expan>un</expan>da. Notum</seg>
+                    <seg rend="92,126,356,159">sit cunctis presentibus et futuris
+                        q<expan>uo</expan>d, </seg>
+                    <seg rend="355,131,815,165">cum reverendus in Chr<expan>ist</expan>o pater et
+                            d<expan>omi</expan>n<expan>u</expan>s Gaufridus, Dei</seg>
+                    <seg rend="85,171,596,197">gr<expan>ati</expan>a ep<expan>iscop</expan>us
+                            Vapincen<expan>sis</expan> mandasset p<expan>er</expan> suas litteras
+                            d<expan>omi</expan>no Odoni Baudoyni, </seg>
+                    <seg rend="602,170,813,194">rectori ecc<expan>lesi</expan>e
+                            S<expan>an</expan>c<expan>t</expan>i Juliani de Bu-</seg>
+                    <seg rend="94,198,598,227">-eychana q<expan>uo</expan>d certa die venire ad
+                        dictam ecc<expan>lesi</expan>am causa visitandi intendebat </seg>
+                    <seg rend="600,204,815,234">et pro dicta visitac<expan>i</expan>one, ut de</seg>
+                    <seg rend="85,240,303,274">jure est, recip<expan>er</expan>e
+                        procurac<expan>i</expan>onem, </seg>
+                    <seg rend="304,242,815,272">cumq<expan>ue</expan> religiosus vir frater
+                        Martinus, prior monasterii de Dorbono et ide<expan>m</expan></seg>
+                    <seg rend="84,276,573,303">rector ecc<expan>lesi</expan>e
+                            s<expan>u</expan>p<expan>r</expan>adicte contenderent de
+                            procurac<expan>i</expan>one ip<expan>s</expan>i d<expan>omi</expan>no
+                            ep<expan>iscop</expan>o facienda </seg>
+                    <seg rend="577,277,824,304">et dicerent unus alterum teneri ad</seg>
+                    <seg rend="81,313,295,342">dictam proc<expan>ur</expan>ac<expan>i</expan>onem
+                        faciendam </seg>
+                    <seg rend="297,315,816,344">et sup<expan>er</expan> hoc idem
+                            d<expan>omi</expan>n<expan>u</expan>s ep<expan>iscop</expan>us ad
+                            requisic<expan>i</expan>onem d<expan>i</expan>c<expan>t</expan>i
+                        rectoris scripsisset p<expan>re</expan>fato</seg>
+                    <seg rend="84,353,388,382">priori de Dorbono ut dictam
+                        procurac<expan>i</expan>onem </seg>
+                    <seg rend="390,354,818,380">rac<expan>i</expan>one visitac<expan>i</expan>onis
+                            d<expan>i</expan>c<expan>t</expan>e ecc<expan>lesi</expan>e eidem
+                            d<expan>omi</expan>no ep<expan>iscop</expan>o pro hiis que
+                        dom<expan>us</expan></seg>
+                    <seg rend="87,388,553,416">Dorboni de redditibus et proventibus
+                        ecc<expan>lesi</expan>e S<expan>an</expan>c<expan>t</expan>i Juliani
+                            p<expan>er</expan>cipiebat </seg>
+                    <seg rend="566,390,823,420">in d<expan>i</expan>c<expan>t</expan>a domo Durboni
+                            fac<expan>er</expan>et ut alias</seg>
+                    <seg rend="84,420,485,453">sibi d<expan>omi</expan>no ep<expan>iscop</expan>o et
+                        predecessoribus suis erat fieri consuetum, </seg>
+                    <seg rend="489,425,824,460">veniens postq<expan>u</expan>a<expan>m</expan> sibi
+                        scripsit idem d<expan>omi</expan>n<expan>u</expan>s prior ad</seg>
+                    <seg rend="80,460,375,493">presenciam d<expan>i</expan>c<expan>t</expan>i
+                            d<expan>omi</expan>ni ep<expan>iscop</expan>i excusando se dixit </seg>
+                    <seg rend="378,465,835,495">et p<expan>ro</expan>posuit coram eo
+                        q<expan>uo</expan>d no<expan>n</expan> tenebatur fac<expan>er</expan>e
+                        dictam p<expan>ro</expan>curac<expan>i</expan>onem et q<expan>uo</expan>d</seg>
+                    <seg rend="80,499,711,533">credebat se legitime cora<expan>m</expan>
+                            d<expan>i</expan>c<expan>t</expan>o d<expan>omi</expan>no
+                        ep<expan>iscop</expan>o sup<expan>er</expan> hoc deffendere loco et
+                            temp<expan>o</expan>r<expan>e</expan> opportunis et, </seg>
+                    <seg rend="714,503,834,532">cu<expan>m</expan> dies qua dicta<expan>m</expan></seg>
+                    <seg rend="78,536,651,567">ecc<expan>lesi</expan>am debebat idem
+                            d<expan>omi</expan>n<expan>u</expan>s ep<expan>iscop</expan>us visitare
+                        et procurac<expan>i</expan>onem recip<expan>er</expan>e valde brevis esset, </seg>
+                    <seg rend="656,541,830,571">ita q<expan>uod</expan> aliter no<expan>n</expan>
+                        poterat or-</seg>
+                    <seg rend="74,573,454,605">-dinare q<expan>u</expan>in ip<expan>s</expan>am
+                            proc<expan>ur</expan>ac<expan>i</expan>onem in domo Durboni
+                            recip<expan>er</expan>et, </seg>
+                    <seg rend="458,574,837,606">maxi<expan>m</expan>e cu<expan>m</expan>
+                        no<expan>n</expan> esset locus propinqus ubi comode recipi</seg>
+                    <seg rend="74,614,509,643">posset et ide<expan>m</expan> rector pro eo nichil ut
+                        dicebatur parasset, </seg>
+                    <seg rend="513,613,837,641">voluit d<expan>i</expan>c<expan>t</expan>us
+                            d<expan>omi</expan>n<expan>u</expan>s ep<expan>iscop</expan>us et
+                            cu<expan>m</expan> d<expan>i</expan>c<expan>t</expan>o
+                        d<expan>omi</expan>no p<expan>r</expan>iore</seg>
+                    <seg rend="76,653,626,679">ordinavit q<expan>uo</expan>d ip<expan>su</expan>m in
+                        domo Durboni die qua ecc<expan>lesi</expan>am predictam visitabit recipiat </seg>
+                    <seg rend="630,656,840,682">et gratis ip<expan>s</expan>am
+                        procurac<expan>i</expan>onem</seg>
+                    <seg rend="74,686,670,719">sibi faciat don<expan>e</expan>c cognitum fuerit quis
+                            ip<expan>s</expan>or<expan>um</expan> procurac<expan>i</expan>onem
+                            p<expan>re</expan>dictam facere teneatur ; </seg>
+                    <seg rend="675,690,841,722">et, si cognitum fuerit</seg>
+                    <seg rend="71,728,545,755">q<expan>uo</expan>d domus Dorboni ea<expan>m</expan>
+                        facere teneatur, pro debito recipiet eandem ; </seg>
+                    <seg rend="551,730,838,755">si aute<expan>m</expan> ide<expan>m</expan> rector
+                        eam debet fac<expan>er</expan>e, q<expan>uo</expan>d de</seg>
+                    <seg rend="71,765,301,796">gr<expan>ati</expan>a speciali intelligatur sibi
+                        facta ; </seg>
+                    <seg rend="306,765,839,792">protestans idem
+                        d<expan>omi</expan>n<expan>u</expan>s ep<expan>iscop</expan>us
+                        q<expan>uo</expan>d p<expan>ro</expan>pt<expan>er</expan>
+                        adventu<expan>m</expan> suu<expan>m</expan> in domo Dorboni
+                        n<expan>e</expan>c ip<expan>s</expan>am pro-</seg>
+                    <seg rend="75,805,369,827">-curac<expan>i</expan>onem faciendam
+                        no<expan>n</expan> intendit n<expan>e</expan>c vult </seg>
+                    <seg rend="371,801,835,830">sibi ip<expan>s</expan>i . . p<expan>r</expan>iori
+                            v<expan>e</expan>l . . rectori d<expan>i</expan>c<expan>t</expan>e
+                            ecc<expan>lesi</expan>e processu temporis # aliquod preju-</seg>
+                    <seg rend="71,839,577,863">-dicium gen<expan>er</expan>ari ; petens idem
+                            d<expan>omi</expan>n<expan>u</expan>s p<expan>r</expan>ior de
+                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>is fieri publicum
+                            instr<expan>umentu</expan>m. </seg>
+                    <seg rend="582,835,838,864">Actum jux<expan>ta</expan> rip<expan>ar</expan>iam
+                        aque vocate vul-</seg>
+                    <seg rend="70,878,385,898">-garit<expan>er</expan> Labeos prope bastidam de
+                        Brioncello. </seg>
+                    <seg rend="386,871,837,899">Testes fuerunt vocati <expan>et</expan> rogati
+                        discretus vir d<expan>omi</expan>n<expan>u</expan>s Giraudus</seg>
+                    <seg rend="71,913,497,945">de Spinaciis
+                        jur<expan>is</expan>p<expan>er</expan>itus,
+                        d<expan>omi</expan>n<expan>u</expan>s
+                        Guill<expan>el</expan>m<expan>u</expan>s Arnaudi prior
+                            S<expan>an</expan>c<expan>t</expan>i Baudilii, </seg>
+                    <seg rend="501,912,841,943">R<expan>aimu</expan>ndus Justacii et Raybaudus de
+                            S<expan>an</expan>c<expan>t</expan>o Maxi<expan>m</expan>o scuti-</seg>
+                    <seg rend="70,956,313,980">-feri et familiares
+                        d<expan>i</expan>c<expan>t</expan>i d<expan>omi</expan>ni
+                        ep<expan>iscop</expan>i, </seg>
+                    <seg rend="316,955,839,980">et ego R<expan>aimun</expan>dus Bursoti, notarius
+                        publicus, a reverendo in Chr<expan>ist</expan>o patre</seg>
+                    <seg rend="68,988,477,1018">d<expan>omi</expan>no Gaufrido Dei
+                        gr<expan>ati</expan>a ep<expan>iscop</expan>o Vapincen<expan>si</expan>
+                            sup<expan>r</expan>ad<expan>i</expan>c<expan>t</expan>o constitutus, </seg>
+                    <seg rend="479,990,830,1016">qui huic instr<expan>u</expan>m<expan>en</expan>to
+                            sigillu<expan>m</expan> suu<expan>m</expan> jussit apponi, vocatus</seg>
+                    <seg rend="75,1026,319,1062">et rogatus hanc cartam scripsi </seg>
+                    <seg rend="321,1029,723,1061">et signo meo signavi # in possessione
+                        <expan>et</expan> quasi vel jure.</seg>
+                    <seg rend="725,1023,801,1104">[seing manuel]</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Anno ab Incarnatione Domini mill<expan>esi</expan>mo tricentesimo quarto, </l>
+                    <l>die XV mens<expan>is</expan> aprilis, <term
+                            n="L&#x2019;indiction 2e correspond bien à la plus grande partie de l&#x2019;année 1304."
+                                >indict<expan>i</expan>one
+                        s<expan>e</expan>c<expan>un</expan>da</term>. Notum </l>
+                    <l>sit cunctis presentibus et futuris q<expan>uo</expan>d, cum reverendus in </l>
+                    <l>Chr<expan>ist</expan>o pater et d<expan>omi</expan>n<expan>u</expan>s <term
+                            n="Geoffroy de Lincel, évêque de Gap de 1289 à 1314.">Gaufridus</term>,
+                        Dei gr<expan>ati</expan>a </l>
+                    <l>ep<expan>iscop</expan>us <term n="Gap (Hautes-Alpes, ch.-l. dép.)."
+                                >Vapincen<expan>sis</expan></term> mandasset p<expan>er</expan> suas
+                        litteras </l>
+                    <l>d<expan>omi</expan>no Odoni Baudoyni, rectori ecc<expan>lesi</expan>e <term
+                            n="Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch)."
+                                >S<expan>an</expan>c<expan>t</expan>i </term></l>
+                    <l><term n="Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch)."
+                            >Juliani de Bueychana</term> q<expan>uo</expan>d certa die venire ad
+                        dictam </l>
+                    <l>ecc<expan>lesi</expan>am causa visitandi intendebat et pro dicta </l>
+                    <l>visitac<expan>i</expan>one, ut de jure est, recip<expan>er</expan>e <term
+                            n="La procuration est un droit de gîte, acquitté en nature et/ou en espèces, dû à l&#x2019;évêque ou à son représentant lorsqu&#x2019;il parcourt le diocèse dans l&#x2019;exercice de ses fonctions (ici pour une visite pastorale)."
+                                >procurac<expan>i</expan>onem</term>, </l>
+                    <l>cumq<expan>ue</expan> religiosus vir frater <term
+                            n="Martin Lunel, prieur de Durbon en 1296-1299 et à nouveau quelques mois en 1304."
+                            >Martinus</term>, prior monasterii de </l>
+                    <l><term
+                            n="Durbon : chartreuse au diocèse de Gap (comm. Saint-Julien-en-Beauchêne)."
+                            >Dorbono</term> et ide<expan>m</expan> rector ecc<expan>lesi</expan>e
+                            s<expan>u</expan>p<expan>r</expan>adicte </l>
+                    <l>contenderent de procurac<expan>i</expan>one ip<expan>s</expan>i
+                        d<expan>omi</expan>no ep<expan>iscop</expan>o </l>
+                    <l>facienda et dicerent unus alterum teneri ad dictam </l>
+                    <l>procurac<expan>i</expan>onem faciendam et sup<expan>er</expan> hoc idem </l>
+                    <l>d<expan>omi</expan>n<expan>u</expan>s ep<expan>iscop</expan>us ad
+                            requisic<expan>i</expan>onem d<expan>i</expan>c<expan>t</expan>i </l>
+                    <l>rectoris scripsisset p<expan>re</expan>fato priori de Dorbono ut dictam </l>
+                    <l>procurac<expan>i</expan>onem rac<expan>i</expan>one
+                        visitac<expan>i</expan>onis d<expan>i</expan>c<expan>t</expan>e
+                            ecc<expan>lesi</expan>e </l>
+                    <l>eidem d<expan>omi</expan>no ep<expan>iscop</expan>o pro hiis que
+                        dom<expan>us</expan> Dorboni </l>
+                    <l>de redditibus et proventibus ecc<expan>lesi</expan>e
+                            S<expan>an</expan>c<expan>t</expan>i Juliani </l>
+                    <l>p<expan>er</expan>cipiebat in d<expan>i</expan>c<expan>t</expan>a domo
+                        Durboni fac<expan>er</expan>et ut alias </l>
+                    <l>sibi d<expan>omi</expan>no ep<expan>iscop</expan>o et predecessoribus suis
+                        erat fieri </l>
+                    <l>consuetum, veniens postq<expan>u</expan>a<expan>m</expan> sibi scripsit idem </l>
+                    <l>d<expan>omi</expan>n<expan>u</expan>s prior ad presenciam
+                            d<expan>i</expan>c<expan>t</expan>i d<expan>omi</expan>ni </l>
+                    <l>ep<expan>iscop</expan>i excusando se dixit et p<expan>ro</expan>posuit coram
+                        eo </l>
+                    <l>q<expan>uo</expan>d no<expan>n</expan> tenebatur fac<expan>er</expan>e dictam
+                            p<expan>ro</expan>curac<expan>i</expan>onem </l>
+                    <l>et q<expan>uo</expan>d credebat se legitime cora<expan>m</expan>
+                            d<expan>i</expan>c<expan>t</expan>o d<expan>omi</expan>no </l>
+                    <l>ep<expan>iscop</expan>o sup<expan>er</expan> hoc deffendere loco et
+                            temp<expan>o</expan>r<expan>e</expan>
+                    </l>
+                    <l>opportunis et, cu<expan>m</expan> dies qua dicta<expan>m</expan>
+                            ecc<expan>lesi</expan>am debebat </l>
+                    <l>idem d<expan>omi</expan>n<expan>u</expan>s ep<expan>iscop</expan>us visitare
+                        et procurac<expan>i</expan>onem </l>
+                    <l>recip<expan>er</expan>e valde brevis esset, ita q<expan>uod</expan> aliter
+                            no<expan>n</expan> poterat </l>
+                    <l>ordinare q<expan>u</expan>in ip<expan>s</expan>am
+                            proc<expan>ur</expan>ac<expan>i</expan>onem in domo </l>
+                    <l>Durboni recip<expan>er</expan>et, maxi<expan>m</expan>e cu<expan>m</expan>
+                            no<expan>n</expan> esset locus </l>
+                    <l>propinqus ubi comode recipi posset et ide<expan>m</expan> rector pro eo </l>
+                    <l>nichil ut dicebatur parasset, voluit d<expan>i</expan>c<expan>t</expan>us
+                            d<expan>omi</expan>n<expan>u</expan>s </l>
+                    <l>ep<expan>iscop</expan>us et cu<expan>m</expan>
+                        d<expan>i</expan>c<expan>t</expan>o d<expan>omi</expan>no
+                        p<expan>r</expan>iore ordinavit </l>
+                    <l>q<expan>uo</expan>d ip<expan>su</expan>m in domo Durboni die qua
+                            ecc<expan>lesi</expan>am </l>
+                    <l>predictam visitabit recipiat et gratis ip<expan>s</expan>am </l>
+                    <l>procurac<expan>i</expan>onem sibi faciat don<expan>e</expan>c cognitum fuerit
+                        quis </l>
+                    <l>ip<expan>s</expan>or<expan>um</expan> procurac<expan>i</expan>onem
+                        p<expan>re</expan>dictam facere teneatur ; </l>
+                    <l>et, si cognitum fuerit q<expan>uo</expan>d domus Dorboni ea<expan>m</expan>
+                        facere </l>
+                    <l>teneatur, pro debito recipiet eandem ; si aute<expan>m</expan>
+                        ide<expan>m</expan>
+                    </l>
+                    <l>rector eam debet fac<expan>er</expan>e, q<expan>uo</expan>d de
+                        gr<expan>ati</expan>a speciali </l>
+                    <l>intelligatur sibi facta ; protestans idem
+                        d<expan>omi</expan>n<expan>u</expan>s </l>
+                    <l>ep<expan>iscop</expan>us q<expan>uo</expan>d
+                        p<expan>ro</expan>pt<expan>er</expan> adventu<expan>m</expan>
+                        suu<expan>m</expan> in domo </l>
+                    <l>Dorboni n<expan>e</expan>c ip<expan>s</expan>am procurac<expan>i</expan>onem
+                        faciendam no<expan>n</expan>
+                    </l>
+                    <l>intendit n<expan>e</expan>c vult sibi ip<expan>s</expan>i . .
+                        p<expan>r</expan>iori v<expan>e</expan>l . . rectori </l>
+                    <l>d<expan>i</expan>c<expan>t</expan>e ecc<expan>lesi</expan>e processu temporis
+                        aliquod <term
+                            n="Le signe d&#x2019;insertion # a été placé après coup par le scribe, qui a inscrit en fin d&#x2019;acte, sur la dernière ligne, un passage omis, à insérer ici."
+                            >#</term>
+                    </l>
+                    <l><term
+                            n="Le terme de &#34;préjudice&#34; n&#x2019;est pas choisi au hasard ; il renvoie aux &#34;lettres de non-préjudice&#34;, courantes depuis la fin du XIIIe siècle et qui précisent qu&#x2019;une mesure ponctuelle ayant pu empiéter sur les droits du destinataire ne saurait créer un précédent qui lui ferait tort."
+                            >prejudicium</term> gen<expan>er</expan>ari ; petens idem
+                            d<expan>omi</expan>n<expan>u</expan>s p<expan>r</expan>ior de </l>
+                    <l>p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>is fieri publicum
+                            instr<expan>umentu</expan>m. Actum </l>
+                    <l>jux<expan>ta</expan> rip<expan>ar</expan>iam aque vocate vulgarit<expan>er</expan>
+                        <term
+                            n="Le Labéoux, devenu auj. &#171; la Béoux &#187;, torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes)."
+                            >Labeos</term> prope </l>
+                    <l>bastidam de <term n="Brunsel (comm. Montmaur).">Brioncello</term>. Testes
+                        fuerunt vocati <expan>et</expan> rogati </l>
+                    <l>discretus vir d<expan>omi</expan>n<expan>u</expan>s Giraudus de Spinaciis </l>
+                    <l><term
+                            n="Qualificatif savant, d&#x2019;empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat."
+                                >jur<expan>is</expan>p<expan>er</expan>itus</term>,
+                            d<expan>omi</expan>n<expan>u</expan>s
+                        Guill<expan>el</expan>m<expan>u</expan>s Arnaudi prior </l>
+                    <l>S<expan>an</expan>c<expan>t</expan>i Baudilii, R<expan>aimu</expan>ndus
+                        Justacii et Raybaudus de </l>
+                    <l>S<expan>an</expan>c<expan>t</expan>o Maxi<expan>m</expan>o scutiferi et
+                        familiares d<expan>i</expan>c<expan>t</expan>i </l>
+                    <l>d<expan>omi</expan>ni ep<expan>iscop</expan>i, et ego
+                        R<expan>aimun</expan>dus Bursoti, notarius </l>
+                    <l>publicus, a reverendo in Chr<expan>ist</expan>o patre d<expan>omi</expan>no
+                        Gaufrido </l>
+                    <l>Dei gr<expan>ati</expan>a ep<expan>iscop</expan>o Vapincen<expan>si</expan>
+                            sup<expan>r</expan>ad<expan>i</expan>c<expan>t</expan>o </l>
+                    <l>constitutus, qui huic instr<expan>u</expan>m<expan>en</expan>to
+                            sigillu<expan>m</expan> suu<expan>m</expan>
+                    </l>
+                    <l>jussit apponi, vocatus et rogatus hanc cartam scripsi et </l>
+                    <l>signo meo signavi # in possessione <expan>et</expan> quasi vel jure </l>
+                    <l> [seing manuel].</l>
+                </div>
+                <div type="traduction">
+                    <l>En l'an de l'Incarnation du Seigneur mille trois cent </l>
+                    <l>quatre, le 15e jour du mois d'avril, <term
+                            n="L&#x2019;indiction 2e correspond bien à la plus grande partie de l&#x2019;année 1304."
+                            >indiction deuxième</term>. </l>
+                    <l>Qu'il soit connu de tous, présents et à venir, que, comme </l>
+                    <l>révérend père en Christ et seigneur <term
+                            n="Geoffroy de Lincel, évêque de Gap de 1289 à 1314.">Geoffroy</term>,
+                        par la grâce </l>
+                    <l>de Dieu évêque de <term n="Gap (Hautes-Alpes, ch.-l. dép.).">Gap</term>,
+                        avait mandé par lettre au seigneur </l>
+                    <l>Eudes Baudouin, curé de l'église de <term
+                            n="Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch)."
+                            >Saint-Julien-en-</term></l>
+                    <l><term n="Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch)."
+                            >Beauchêne</term>, qu'il entendait venir certain jour en visite à </l>
+                    <l>ladite église et recevoir, comme de droit, sa <term
+                            n="La procuration est un droit de gîte, acquitté en nature et/ou en espèces, dû à l&#x2019;évêque ou à son représentant lorsqu&#x2019;il parcourt le diocèse dans l&#x2019;exercice de ses fonctions (ici pour une visite pastorale)."
+                            >procuration</term> pour </l>
+                    <l>ladite visite, et comme religieuse personne frère <term
+                            n="Martin Lunel, prieur de Durbon en 1296-1299 et à nouveau quelques mois en 1304."
+                            >Martin</term>, prieur </l>
+                    <l>du monastère de <term
+                            n="Durbon : chartreuse au diocèse de Gap (comm. Saint-Julien-en-Beauchêne)."
+                            >Durbon</term>, et le curé de l'église susdite étaient </l>
+                    <l>en litige au sujet de la procuration à acquitter audit seigneur </l>
+                    <l>évêque, chacun disant que c'était à l'autre d'acquitter ladite </l>
+                    <l>procuration, et comme ledit seigneur évêque avait à ce propos, </l>
+                    <l>à la requête dudit curé, demandé par écrit au susdit prieur de </l>
+                    <l>Durbon d'acquitter ladite procuration audit seigneur évêque, </l>
+                    <l>en raison de la visite de ladite église, dans ladite maison de </l>
+                    <l>Durbon, à raison de ce que la maison de Durbon percevait des </l>
+                    <l>revenus et rentrées de l'église de Saint-Julien, comme il avait </l>
+                    <l>été coutume de le faire à lui, seigneur évêque, et à ses </l>
+                    <l>prédécesseurs, ledit seigneur prieur se rendit, après lui avoir </l>
+                    <l>écrit, en présence dudit seigneur évêque, et il lui dit pour se </l>
+                    <l>disculper et remontra devant lui qu'il n'était pas tenu </l>
+                    <l>d'acquitter ladite procuration et qu'il comptait se défendre en </l>
+                    <l>droit à ce sujet devant ledit seigneur évêque en temps et lieu </l>
+                    <l>opportuns, et comme le jour où ledit seigneur évêque devait </l>
+                    <l>visiter ladite église et recevoir la procuration était très proche, </l>
+                    <l>en sorte qu'il ne pouvait pas faire autrement que de recevoir </l>
+                    <l>ladite procuration dans la maison de Durbon, surtout parce </l>
+                    <l>qu'il n'y avait pas de lieu proche où il pût la recevoir </l>
+                    <l>commodément et que ledit curé n'avait rien préparé pour lui, à </l>
+                    <l>ce que l'on disait, ledit seigneur évêque décida et ordonna, </l>
+                    <l> [d'accord] avec ledit seigneur prieur, qu'on le recevrait dans la </l>
+                    <l>maison de Durbon le jour où il visiterait l'église susdite et </l>
+                    <l>qu'on lui acquitterait de bon gré ladite procuration, jusqu'à ce </l>
+                    <l>que l'on sache lequel d'entre eux était tenu d'acquitter ladite </l>
+                    <l>procuration ; et que si l'on reconnaissait que la maison de </l>
+                    <l>Durbon était tenue de l'acquitter, il la recevrait comme un dû ; </l>
+                    <l>que si au contraire ledit curé devait l'acquitter, qu'il serait </l>
+                    <l>entendu qu'elle lui aurait été acquittée par grâce spéciale ; </l>
+                    <l>ledit seigneur évêque protestant que ni à l'occasion de sa </l>
+                    <l>venue dans la maison de Durbon ni à cause de cette fourniture </l>
+                    <l>de la procuration il n'avait l'intention ni la volonté de voir </l>
+                    <l>porter quelque <term
+                            n="Le terme de &#34;préjudice&#34; n&#x2019;est pas choisi au hasard ; il renvoie aux &#34;lettres de non-préjudice&#34;, courantes depuis la fin du XIIIe siècle et qui précisent qu&#x2019;une mesure ponctuelle ayant pu empiéter sur les droits du destinataire ne saurait créer un précédent qui lui ferait tort."
+                            >préjudice</term> que ce soit à l'avenir ni audit prieur </l>
+                    <l>ni au curé dans leur possession, quasi-possession ou droit ; </l>
+                    <l>ledit seigneur prieur demandant que l'on dresse acte notarié </l>
+                    <l>des choses susdites. Ceci fut fait près de la rive du cours d'eau </l>
+                    <l>communément appelée la <term
+                            n="Le Labéoux, devenu auj. &#171; la Béoux &#187;, torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes)."
+                            >Béoux</term>, près de la bastide de </l>
+                    <l><term n="Brunsel (comm. Montmaur).">Brunsel</term>. Furent appelés et
+                        convoqués comme témoins : sage </l>
+                    <l>personne le seigneur Giraud d'Espinasse, <term
+                            n="Qualificatif savant, d&#x2019;empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat."
+                            >légiste</term>, le seigneur </l>
+                    <l>Guillaume Arnaud, prieur de Saint-Baudille, Raymond Justace </l>
+                    <l>et Raybaud de Saint-Maxime, écuyers et membres de </l>
+                    <l>l'entourage dudit seigneur évêque ; et moi, Raimond Bursot, </l>
+                    <l>notaire public institué par le révérend père en Christ et </l>
+                    <l>seigneur Geoffroy, par la grâce de Dieu évêque de Gap susdit, </l>
+                    <l>qui a ordonné que soit apposé son sceau à cet acte, appelé et </l>
+                    <l>convoqué pour écrire cette charte, et j'y ai apposé mon seing. </l>
+                    <l> [seing manuel].</l>
+                </div>
+                <div type="commentaires">
+                    <div>
+                        <head>Note sur la transcription : </head>
+                        <p> Le passage écrit par le scribe à la fin de l'acte et ouvert par un signe
+                            d'insertion # est réintégré à sa place dans la traduction mais pas dans
+                            la transcription. </p>
+                    </div>
+                </div>
+                <div type="regeste">
+                    <head>1304, 15 avril. - Rive du Labéoux, près de Brunsel.</head>
+                    <p>Procès-verbal constatant que l'évêque de Gap a été hébergé à la chartreuse de
+                        Durbon alors que le prieur de celle-ci, Martin, et le curé de
+                        Saint-Julien-en-Beauchêne, Eudes Baudouin, se rejetaient mutuellement la
+                        charge d'accueillir l'évêque, au titre du droit de procuration, lorsque
+                        celui-ci venait visiter la paroisse. L'acte, notarié et scellé du sceau de
+                        l'évêque, est délivré à fin de non-préjudice à la demande du prieur, qui est
+                        venu faire valoir son droit devant l'évêque, en attendant que l'affaire soit
+                        tranchée au fond.</p>
+                    <div type="precision">
+                        <p> L'acte a été édité par l'Abbé Paul Guillaume, <hi rend="italique"
+                                >Chartes de Durbon</hi>, Montreuil-sur-Mer, 1893, n° 592, p.
+                            513-514. </p>
+                    </div>
+                </div>
+                </div>
+                <div type="commentaire" n="diplomatique">
+                    <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="notification" rend="color:#0099CC">Noverint universi <note
+                                    id="notification" type="bulle">Notification universelle.</note></seg>
+                            <seg corresp="expose" rend="color:#FF0000">me Petrum de Quadro,
+                                clericum, notarium regium, habuisse et integre recepisse ab
+                                honorabili et prudenti viro, domino thesaurario regio Ruthenensi,
+                                nomine domini nostri Franc' regis, octo libras turonensium parvorum,
+                                in quibus idem dominus thesaurarius, nomine dicti domini nostri
+                                regis, mihi tenebatur pro faciendo duas informationes, unam in loco
+                                Ville franche et aliam in loco Ville nove, de et super aquestis per
+                                innobiles a nobilibus personis et per ecclesias aut ecclesiasticas
+                                personas in temporalibus aquisitis de mandato discretorum virorum
+                                magistrorum Bernardi de Bernadone et Bernardi de Ecclesia,
+                                comissariorum in dicta senescallia super facto financiarum feodorum
+                                nobilium et aquestuum ecclesiarum deputatorum per magnificum et
+                                potentem virum dominum Petrum de Palude, militem, dominum
+                                Varambonis, senescallum Tholose et Albiensis, capitaneum et
+                                gubernatorem generalem in partibus occitanis per dictum dominum
+                                nostrum regem destinatum, et mihi per dictos magistros [taxatas]
+                                ratione dietarum per me in faciendo dictas informationes taxatas
+                                virtute quarumdam litterarum dicti domini capitanei in dicta
+                                taxatione contentarum. <note id="expose" type="bulle">Exposé.</note></seg>
+                            <seg corresp="dispositif" rend="color:#993399">De quibus octo libris
+                                dicte monete ipsum dominum nostrum regem et dictum thesaurarium
+                                solvo penitus atque quitto. <note id="dispositif" type="bulle"
+                                    >Dispositif.</note></seg>
+
+                            <seg corresp="corroboration" rend="color:#CC9966">In cujus rei
+                                testimonium, sigillum meum hiis presentibus literis duxi apponendum.
+                                    <note id="corroboration" type="bulle">Corroboration probatoire
+                                    avec annonce de sceau.</note></seg>
+                            <seg corresp="date" rend="color:#009966">Datum apud Villam francham die
+                                nona junii, anno Domini M° CCC° XL°.<note id="date" type="bulle"
+                                    >Date de lieu et de temps [Suscription (isolée).]</note></seg>
+                        </p>
+                    </div>
+                </div>
+                </div>
+        </body>
+    </text>
+</TEI.2>

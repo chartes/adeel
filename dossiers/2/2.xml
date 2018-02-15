@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 SYSTEM "../tei.dtd"[
+<!ENTITY % ISOlat1 SYSTEM "../iso-lat1.ent"> 
+%ISOlat1; 
+<!ENTITY % ISOlat2 SYSTEM "../iso-lat2.ent"> 
+%ISOlat2; 
+]>
+<TEI.2>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Début du IXe siècle. Sacramentaire de Hildoard, évêque de Cambrai.</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">2</idno>
+				<publisher>École nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : Bibl. mun. Cambrai, ms. 159.</p>
+				<p>Fac-sim. ENC : NF 309 (héliographie).</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language id="frm">Ancien français</language>
+				<language id="fre">Français</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+			     <p>
+                                                    <seg rend="10,12,213,32">-dulitatis suae meritis</seg>
+                                                    <seg rend="13,40,215,60">augeatur. PER D<expan>OMI</expan>N<expan>U</expan>M...</seg>
+                                                    <seg rend="61,70,223,90">OREMUS. Et pro </seg>
+                                                    <seg rend="52,100,225,118">omnibus ep<expan>isco</expan>pis, pres-</seg>
+                                                    <seg rend="10,130,214,151">-byteris, diaconibus,</seg>
+                                                    <seg rend="15,158,261,176">subdiaconibus, acolothis,</seg>
+                                                    <seg rend="18,188,234,204">exorcistis, lectoribus</seg>
+                                                    <seg rend="17,217,252,233">ostiariis, confessoribus,</seg>
+                                                    <seg rend="18,239,252,260">virginibus, viduis et</seg>
+                                                    <seg rend="14,273,249,291">pro omni populo s<expan>an</expan>c<expan>t</expan>o Dei.</seg>
+                                                    <seg rend="54,300,200,319">OREMUS.</seg>
+                                                    <seg rend="59,325,254,353">OMN<expan>I</expan>P<expan>OTEN</expan>S semp<expan>i</expan>t<expan>er</expan>n<expan>e</expan> D<expan>eu</expan>s,</seg>
+                                                    <seg rend="76,361,232,380">cujus sp<expan>iri</expan>tu totum</seg>
+                                                    <seg rend="15,388,243,410">corpus ecclesiae s<expan>an</expan>c<expan>t</expan>ifica-</seg>
+                                                    <seg rend="12,422,250,439">-tur et regitur, exaudi</seg>
+                                                    <seg rend="13,447,245,470">nos pro universis ordini-</seg>
+                                                    <seg rend="14,473,257,498">-bus supplicantes ut gratiae</seg>
+                                                    <seg rend="9,509,264,528">tuae munere ab omnibus</seg>
+                                                    <seg rend="9,535,219,556">tibi gradibus fideliter</seg>
+                                                    <seg rend="14,565,250,584">serviatur. PER D<expan>OMINUM</expan> N<expan>OST</expan>R<expan>U</expan>M…</seg>
+                                                    <seg rend="55,594,253,615">OREMUS. Et pro <expan>Christ</expan>i-</seg>
+                                                    <seg rend="46,624,248,643">-anissimo imperatore</seg>
+                                                    <seg rend="11,654,258,672">nostro ut D<expan>eu</expan>s et D<expan>o</expan>m<expan>inu</expan>s noster</seg>
+                                                    <seg rend="16,680,250,706">subditas illi faciat omnes</seg>
+                                                    <seg rend="13,712,235,738">barbaras nationes ad</seg>
+                                                    <seg rend="349,6,584,26">elegisti. Hanc q<expan>uaesumu</expan>s D<expan>omi</expan>ne gra- </seg>
+                                                    <seg rend="346,43,578,57">-tiam largiaris, tribuas ei</seg>
+                                                    <seg rend="348,70,575,86">cathedram pontificalem</seg>
+                                                    <seg rend="347,102,577,119">ad regendam Ecclesiam</seg>
+                                                    <seg rend="349,133,582,150">tuam et plebem univer-</seg>
+                                                    <seg rend="350,159,547,181">-sam. PER D<expan>OMI</expan>N<expan>U</expan>M…</seg>
+                                                    <seg rend="346,319,547,357">HILDOARDUS</seg>
+                                                    <seg rend="355,385,565,418">PRAESUL ANNO</seg>
+                                                    <seg rend="349,446,566,470">XXII SUI ONUS</seg>
+                                                    <seg rend="350,507,576,533">EPISCOPATUM</seg>
+                                                    <seg rend="349,559,575,594">HUNC LIBELLUM</seg>
+                                                    <seg rend="355,627,579,648">SACRAMENTORUM</seg>
+                                                    <seg rend="349,681,575,708">FIERI PROMUL-</seg>
+                                                    <seg rend="409,714,509,735">-GAVIT.</seg>
+			     </p>
+			</div>
+			<div type="transcription">
+			    <div type="texte">
+                                                    <l>[...] -dulitatis suae meritis augeatur. PER D<expan>OMI</expan>N<expan>U</expan>M...</l>
+                                                    <l/>
+                                                    <l>OREMUS. Et pro omnibus ep<expan>isco</expan>pis, pres-</l>
+                                                    <l>byteris, diaconibus, subdiaconibus, acolothis,</l>
+                                                    <l>exorcistis, lectoribus ostiariis, confessoribus,</l>
+                                                    <l>virginibus, viduis et pro omni populo s<expan>an</expan>c<expan>t</expan>o Dei.</l>
+                                                    <l/>
+                                                    <l>OREMUS. OMN<expan>I</expan>P<expan>OTEN</expan>S semp<expan>i</expan>t<expan>er</expan>n<expan>e</expan> D<expan>eu</expan>s,</l>
+                                                    <l>cujus sp<expan>iri</expan>tu totum corpus ecclesiae s<expan>an</expan>c<expan>t</expan>ifica-</l>
+                                                    <l>tur et regitur, exaudi nos pro universis ordini-</l>
+                                                    <l>bus supplicantes ut gratiae tuae munere ab omnibus</l>
+                                                    <l>tibi gradibus fideliter serviatur. </l>
+                                                    <l>PER D<expan>OMINUM</expan> N<expan>OST</expan>R<expan>U</expan>M…</l>
+                                                    <l/>
+                                                    <l>OREMUS. Et pro <expan>Christ</expan>ianissimo imperatore</l>
+                                                    <l>nostro ut D<expan>eu</expan>s et D<expan>o</expan>m<expan>inu</expan>s noster subditas illi faciat omnes</l>
+                                                    <l>barbaras nationes ad [...]</l>
+                                                    <l/>
+                                                    <l>[...]</l>
+                                                    <l/>
+                                                    <l>[...] elegisti. Hanc q<expan>uaesumu</expan>s D<expan>omi</expan>ne gra- </l>
+                                                    <l>tiam largiaris, tribuas ei cathedram pontificalem</l>
+                                                    <l>ad regendam Ecclesiam tuam et plebem univer-</l>
+                                                    <l>sam. PER D<expan>OMI</expan>N<expan>U</expan>M…</l>
+                                                    <l/>
+                                                    <l>HILDOARDUS PRAESUL ANNO XXII SUI ONUS</l>
+                                                    <l>EPISCOPATUM HUNC LIBELLUM</l>
+                                                    <l>SACRAMENTORUM FIERI PROMULGAVIT.</l>
+			    </div>
+			    <div type="traduction">
+			        <l>[...] soit augmenté grâce à son zèle. Par notre Seigneur...</l>
+                                                    <l/>
+                                                    <l>Prions. Et pour tous les évêques, les</l>
+                                                    <l>prêtres, les diacres, les sous-diacres, les acolytes,</l>
+                                                    <l>les exorcistes, les lecteurs, les portiers, les confesseurs,</l>
+                                                    <l>les vierges, les veuves, et pour tout le saint peuple de Dieu.</l>
+                                                    <l/>
+                                                    <l>Prions. Dieu tout-puissant et éternel,</l>
+                                                    <l>par l’esprit de qui tout le corps de l’Église est sanctifié</l>
+                                                    <l>et conduit, exauce nos supplications pour tous les ordres</l>
+                                                    <l>afin que, par le don de ta grâce, tous les degrés</l>
+                                                    <l>te rendent un fidèle service.</l>
+                                                    <l>Par notre Seigneur...</l>
+                                                    <l/>
+                                                    <l>Prions. Et pour notre empereur très-chrétien,</l>
+                                                    <l>afin que notre Dieu et Seigneur lui soumette toutes</l>
+                                                    <l>les nations barbares [...]</l>
+                                                    <l/>
+                                                    <l>[...]</l>
+                                                    <l/>
+                                                    <l>[...] tu as choisi. Seigneur, nous te prions, accorde-nous</l>
+                                                    <l>cette grâce, concède-lui la chaire pontificale</l>
+                                                    <l>pour conduire ton Église et le peuple tout</l>
+                                                    <l>entier. Par notre Seigneur...</l>
+                                                    <l/>
+                                                    <l>HILDOARD, ÉVÊQUE, LA DOUZIÈME ANNÉE</l>
+                                                    <l>DE SA CHARGE ÉPISCOPALE, A ORDONNÉ</l>
+                                                    <l>DE FAIRE CE SACRAMENTAIRE.</l>
+			    </div>
+			</div>
+		</body>
+	</text>
+</TEI.2>

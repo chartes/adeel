@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1546, 14 septembre. Acte de bailliage (Orbec). 1546, 14 septembre. (Orbec). Ordre de paiement du lieutenant général du bailliage d’Evreux (Orbec). <hi rend="italic">Le salaire du bourreau : Ordre de paiement du lieutenant général du bailliage d’Evreux en faveur de Pierre Néron</hi>. </title>
+                <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
+                <author/>
+                <respStmt>
+                    <resp>document encodé par</resp>
+                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">113</idno>
+                <publisher>École nationale des Chartes</publisher>
+                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archives nationales, K 2379, pièce n<hi rend="exposant">°</hi> 28, recto.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <!-- Ce paragraphe est entouré de crochets que je n'ai pas retranscrits, en ignorant la signification -->
+                    <add place="margin-left">
+                        <seg rend="12,6,126,41">14 septembre 1546</seg>
+                        <seg rend="6,45,128,70">taxe de 5 £ 5 s.</seg>
+                        <seg rend="9,73,137,94">à l’exécuteur d’Evreux.</seg>
+                        <seg rend="7,97,128,117">Pierre Neron, exécuteur, </seg>
+                        <seg rend="8,125,141,156">contre Richard Desmottes</seg>
+                    </add>
+                </p>
+                <p>
+                    <seg rend="36,165,114,216">Pour cent cinq s<expan>ous</expan>.</seg>
+                </p>
+                <p>
+                    <seg rend="137,3,677,22">Es assises d’Orbec tenus par nous Vincent Eude, escuyer, licen<expan>cié</expan> es droictz, </seg>
+                    <seg rend="681,7,1096,27">lieuten<expan>ant</expan> g<expan>e</expan>n<expan>er</expan>al de hault et puiss<expan>an</expan>t s<expan>eigne</expan>ur mons<expan>eigneu</expan>r le bailly </seg>
+                    <seg rend="138,28,680,40">d’Evreux, le mardy <hi rend="small caps">XIIII</hi><hi rend="exposant">e</hi> jour de septembre mil cinq centz quara<expan>n</expan>te et six, </seg>
+                    <seg rend="685,29,875,42">au vicon<expan>te</expan> de ceste vicon<expan>té</expan>,</seg>
+                    <seg rend="882,34,1095,51">son lieuten<expan>ant</expan>, recepveur ou com<expan>m</expan>ys, </seg>
+                    <seg rend="142,44,742,59">salut. Taxé a esté du co<expan>n</expan>sentem<expan>ent</expan> des advocat et p<expan>ro</expan>c<expan>ureur</expan> du roy n<expan>ost</expan>re s<expan>eign</expan>e<expan>ur</expan> en ce baill<expan>iage</expan>
+                    </seg>
+                    <seg rend="746,46,874,63">à Pierres Neron</seg>
+                    <seg rend="878,54,1092,66">executeur des sentences </seg>
+                    <seg rend="143,65,775,78">criminelles po<expan>ur</expan> son sallaire et vacc<expan>ati</expan>on d’av<expan>oir</expan> mys les sentences de justice a exec<expan>uti</expan>on </seg>
+                    <seg rend="779,68,919,81">sur les p<expan>er</expan>sonnes</seg>
+                    <seg rend="924,72,1090,87">cy ap<expan>re</expan>z desnommez : pour </seg>
+                    <seg rend="141,83,827,99">av<expan>oir</expan> fustigé Richard Desmottes par ung jour de marché le <hi rend="small caps">XXI</hi><hi rend="exposant">e</hi> jo<expan>ur</expan> d’apvril derrain, </seg>
+                    <seg rend="831,91,955,106">la somme de</seg>
+                    <seg rend="959,95,1091,115">quinze solz t. ; </seg>
+                    <seg rend="139,101,781,118">item pour av<expan>oir</expan> fustigé Guill<expan>aum</expan>e Collombel p<expan>ar</expan> ung jour de marché le <hi rend="small caps">XII</hi><hi rend="exposant">e</hi> jo<expan>ur</expan> de ju[i]ng <!--  "[ ]" ?? -->, </seg>
+                    <seg rend="784,108,895,122">la somme de </seg>
+                    <seg rend="905,119,1088,135">quinze solz t. ; item pour </seg>
+                    <seg rend="146,119,698,135">av<expan>oir</expan> fustigé Pierres Verdyer soubz la custode le neufv<expan>iem</expan>e jour de juillet, </seg>
+                    <seg rend="701,124,898,141">la somme de<hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d.</seg>
+                    <seg rend="920,139,1093,153">item pour av<expan>oir</expan> fustigé </seg>
+                    <seg rend="144,139,802,154">Symon Lievin soubz la custode aux prisons dud. Orbec le <hi rend="small caps">X</hi><hi rend="exposant">e</hi> jo<expan>ur</expan> dud. mois de juillet, </seg>
+                    <seg rend="808,145,916,156">la somme</seg>
+                    <seg rend="888,158,1092,175">de <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour </seg>
+                    <seg rend="140,159,881,175">av<expan>oir</expan> fustigé Jacques Siboult et Calliste Durand par les carreffourgs dud. Orbec led jour</seg>
+                    <seg rend="886,178,1093,190">
+                        <hi rend="small caps">X</hi><hi rend="exposant">e</hi> de juillet, la somme </seg>
+                    <seg rend="135,180,851,195">de trente solz t. ; item po<expan>ur</expan> av<expan>oir</expan> fustigé Guillaume Baton aux anneaulx desd prisons </seg>
+                    <seg rend="859,193,1099,211">le <hi rend="small caps">XVII</hi><hi rend="exposant">e</hi> jo<expan>ur</expan> de juillet, la so<expan>mm</expan>e de</seg>
+                    <!-- le mot "de" à la fin de cette ligne sur le fichier Word est en rélaité sur la suivante au vu de l'image -->
+                    <seg rend="141,198,266,214"><hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; </seg>
+                    <seg rend="242,199,853,217">item po<expan>ur</expan> av<expan>oir</expan> fustigé Jacques Fosse aux anneaulx desd. prisons le <hi rend="small caps" >XXVI</hi><hi rend="exposant">e</hi> jo<expan>ur</expan>
+                    </seg>
+                    <seg rend="862,213,1055,229">d’aoust, la somme de </seg>
+                    <!-- remarque similaire sur le redécoupage du texte -->
+                    <seg rend="139,220,245,236"><hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; </seg>
+                    <seg rend="251,223,780,236">item po<expan>ur</expan> av<expan>oir</expan> fustigé Anthoinette, fille de Laurens Donyer, par les</seg>
+                    <seg rend="784,232,1032,248">carreffourgs dud. Orbec par ung </seg>
+                    <seg rend="141,238,507,257">jour de marché le <hi rend="small caps">VII</hi><hi rend="exposant">e</hi> jo<expan>ur</expan> de septembre, </seg>
+                    <seg rend="512,240,738,261">la somme de quinze solz t.</seg>
+                    <seg rend="752,251,991,264">montant lesd. p<expan>ar</expan>tyes p<expan>ar</expan>my </seg>
+                    <seg rend="146,256,509,273">le tout a la somme de cent cinq solz t., </seg>
+                    <seg rend="528,264,757,277">laquelle somme luy avons</seg>
+                    <seg rend="762,267,993,281">ordon<expan>né</expan> prendre sur la </seg>
+                    <seg rend="159,277,476,290">recepte du domaine de cested. vicon<expan>té</expan>.</seg>
+                    <seg rend="482,284,953,300">Sy donn<expan>ons</expan> en mandement aud. vicon<expan>te</expan> ou com<expan>m</expan>ys f<expan>air</expan>e payem<expan>ent</expan> de lad.</seg>
+                    <seg rend="196,295,336,314">som<expan>m</expan>e aud. Neron </seg>
+                    <seg rend="338,304,943,320">et par rapportant ces p<expan>rese</expan>ntes avecq<expan>ues</expan> quictan<expan>ce</expan>, lad. somme leur s<expan>oit</expan></seg>
+                    <seg rend="215,318,555,340">allouée a l’audition de leurs comptes. </seg>
+                    <seg rend="563,323,828,352">Donné <expan>com</expan>me dess<expan>us</expan>.</seg>
+                    <seg rend="280,344,404,394">E<hi rend="small caps">UDE</hi></seg>
+                    <seg rend="414,347,515,399">D<hi rend="small caps">UBINIOR</hi></seg>
+                    <seg rend="519,356,603,414">A<hi rend="small caps">UBERT</hi></seg>
+                    <seg rend="636,378,753,457">M<hi rend="small caps">ICHEL</hi></seg>
+                </p>
+            </div>
+
+            <div type="transcription">
+                <div type="texte">
+                    <p> Es assises d’<term n="Orbec : Calvados, arr. de Lisieux.">Orbec</term> tenus par nous Vincent Eude, escuyer, licencié es droictz, <term n="Les lieutenants de bailliage, gradués en droit, ont progressivement remplacé au cours des xve et XVIe  siècles les baillis et sénéchaux dans l’exercice de leurs fonctions judiciaires." >lieutenant <lb/> general</term> de hault et puissant seigneur monseigneur le bailly d’Evreux, le mardy <hi rend="small caps">XIIII</hi><hi rend="exposant">e</hi> jour de <lb/> septembre mil cinq centz quarante et six, au <term n="Les vicomtés forment les circonscriptions ordinaires du domaine royal." >viconte de ceste viconté</term>, son lieutenant, recepveur ou <lb/> commys, salut. Taxé a esté du consentement des advocat et procureur du roy nostre seigneur en ce <lb/> bailliage à Pierres Neron, <term n="L’exécuteur des sentences criminelles est un bourreau.">executeur des sentences criminelles</term> pour son sallaire et vaccation <lb/> d’avoir mys les sentences de justice a execution sur les personnes cy aprez desnommez : pour avoir <lb/>
+                        <term n="La fustigation est une condamnation au fouet.">fustigé</term> Richard Desmottes par ung jour de marché le <hi rend="small caps" >XXI</hi><hi rend="exposant">e</hi> jour d’apvril <term n="Derrain : dernier.">derrain</term>, la somme de <lb/> quinze solz t. Item pour avoir fustigé Guillaume Collombel par ung jour de marché le <hi rend="small caps">XII</hi><hi rend="exposant">e</hi> jour de <lb/> ju[i]ng, <!-- "[ ]" ?? -->la somme de quinze solz t. ; item pour avoir fustigé Pierres Verdyer <term n="Sous la custode signifie secrètement." >soubz la custode</term> le <lb/> neufvieme jour de juillet, la somme de
+                            <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé Symon Lievin soubz la <lb/> custode aux prisons dud. Orbec le <hi rend="small caps">X</hi><hi rend="exposant">e</hi> jour dud. mois de juillet, la somme de <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour <lb/> avoir fustigé Jacques Siboult et Calliste Durand par les carreffourgs dud. Orbec led jour <hi rend="small caps">X</hi><hi rend="exposant">e</hi> de <lb/> juillet, la somme de trente solz t. ; item pour avoir fustigé Guillaume Baton aux <term n="Les anneaux des prisons désignent le pilori où sont attachés les condamnés." >anneaulx</term> desd <lb/> prisons le <hi rend="small caps" >XVII</hi><hi rend="exposant">e</hi> jour de juillet, la somme de <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé Jacques Fosse aux <lb/> anneaulx desd. prisons le <hi rend="small caps">XXVI</hi><hi rend="exposant">e</hi> jour d’aoust, la somme de <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé <lb/> Anthoinette, fille de Laurens Donyer, par les carreffourgs dud. Orbec par ung jour de marché le <hi rend="small caps" >VII</hi><hi rend="exposant">e</hi>
+                        <lb/> jour de septembre, la somme de quinze solz t., montant lesd. partyes parmy le tout a la somme de <lb/> cent cinq solz t., laquelle somme luy avons ordonné prendre sur la recepte du domaine de cested. <lb/> viconté. Sy donnons en mandement aud. viconte ou commys faire payement de lad. somme aud. <lb/> Neron et par rapportant ces presentes avecques quictance, lad. somme leur soit <term n="La somme leur soit allouée à l’audition de leur compte, c’est-à-dire que les comptables seront  tenus quittes de cette dépense le jour de l’examen de leurs comptes s’ils montrent la quittance  comme preuve de paiement. " >allouée a l’audition <lb/> de leurs comptes</term>. Donné comme dessus.<lb/> E<hi rend="small caps">UDE</hi> ; D<hi rend="small caps" >UBINIOR</hi> ; A<hi rend="small caps">UBERT</hi> #; M<hi rend="small caps">ICHEL</hi>
+                        <lb/> pour cent cinq s. </p>
+                </div>
+                <div type="regeste">
+                    <head>1546, 14 septembre — Orbec</head>
+                    <p> Le lieutenant général du bailliage d’Évreux ordonne au vicomte d’Orbec de payer 105 sous au bourreau Pierre Néron pour ses vacations du 21 avril au 7 septembre 1546. </p>
+                </div>
+            </div>
+
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+
+                <div n="1">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                    </div>
+
+                    <div type="contenu_commentaire">
+
+                        <p>
+                            <seg corresp="suscription" rend="color:#0099CC">Es assises d’Orbec tenus par nous Vincent Eude, escuyer, licencié es droictz, lieutenant general de hault et puissant seigneur monseigneur le bailly d’Evreux,<note xml:id="suscription" type="bulle" >Suscription</note></seg>
+                            <seg corresp="date_1" rend="color:#f90808">le mardy <hi rend="small caps" >XIIII</hi><hi rend="exposant">e</hi> jour de septembre mil cinq centz quarante et six,<note xml:id="date_1" type="bulle">Date</note></seg>
+                            <seg corresp="adresse" rend="color:#9999FF">au viconte de ceste viconté, son lieutenant, recepveur ou commys,<note xml:id="adresse" type="bulle">Adresse</note></seg>
+                            <seg corresp="salut" rend="color:#0ddbc5">salut.<note xml:id="salut" type="bulle">Salut</note></seg>
+                            <seg corresp="expose" rend="color:#f808c8"> Taxé a esté du consentement des advocat et procureur du roy nostre seigneur en ce bailliage à Pierres Neron, executeur des sentences criminelles pour son sallaire et vaccation d’avoir mys les sentences de justice a execution sur les personnes cy aprez desnommez : pour avoir fustigé Richard Desmottes par ung jour de marché le <hi rend="small caps">XXI</hi>
+                                <hi rend="exposant">e</hi> jour d’apvril derrain, la somme de quinze solz t. Item pour avoir fustigé Guillaume Collombel par ung jour de marché le <hi rend="small caps">XII</hi><hi rend="exposant">e</hi> jour de ju[i]ng, <!-- "[ ]" ?? --> la somme de quinze solz t ; item pour avoir fustigé Pierres Verdyer soubz la custode le neufvieme jour de juillet, la somme de <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé Symon Lievin soubz la custode aux prisons dud. Orbec le <hi rend="small caps">X</hi>
+                                <hi rend="exposant">e</hi> jour dud. mois de juillet, la somme de
+                                    <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé Jacques Siboult et Calliste Durand par les carreffourgs dud. Orbec led jour <hi rend="small caps">X</hi><hi rend="exposant">e</hi> de juillet, la somme de trente solz t. ; item pour avoir fustigé Guillaume Baton aux anneaulx desd prisons le
+                                    <hi rend="small caps">XVII</hi><hi rend="exposant">e</hi> jour de juillet, la somme de <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé Jacques Fosse aux anneaulx desd. prisons le <hi rend="small caps" >XXVI</hi><hi rend="exposant">e</hi> jour d’aoust, la somme de
+                                    <hi rend="small caps">VII</hi> s. <hi rend="small caps">VI</hi> d. ; item pour avoir fustigé Anthoinette, fille de Laurens Donyer, par les carreffourgs dud. Orbec par ung jour de marché le <hi rend="small caps">VII</hi><hi rend="exposant">e</hi> jour de septembre, la somme de quinze solz t., montant lesd. partyes parmy le tout a la somme de cent cinq solz t.,<note xml:id="expose" type="bulle">Exposé</note></seg>
+                            <seg corresp="dispositif" rend="color:#01def8">laquelle somme luy avons ordonné prendre sur la recepte du domaine de cested. viconté.<note xml:id="dispositif" type="bulle">Dispositif</note></seg>
+                            <seg corresp="clause_injonctive" rend="color:#f90808">Sy donnons en mandement aud. viconte ou commys faire payement de lad. somme aud. Neron et par rapportant ces presentes avecques quictance, lad. somme leur soit allouée a l’audition de leurs comptes. <note xml:id="clause_injonctive" type="bulle">Clause injonctive</note></seg>
+                            <seg corresp="date_2" rend="color:#0099CC">Donné comme dessus.<note xml:id="date_2" type="bulle">Date</note></seg>
+                            <seg corresp="signature" rend="color:#9999FF"> E<hi rend="small caps" >UDE</hi> ; D<hi rend="small caps">UBINIOR</hi> ; A<hi rend="small caps">UBERT</hi> ; M<hi rend="small caps" >ICHEL</hi>.<note xml:id="signature" type="bulle" >Signatures</note></seg>
+                        </p>
+                    </div>
+                </div>
+
+                <div n="2">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p> L’acte est un ordre de paiement délivré par le lieutenant général du bailliage d’Evreux. L’avocat du roi, le procureur du roi ainsi qu’un troisième personnage, dont la fonction n’est pas donnée, sans doute un substitut ou un juge du siège, ont pris part à l’acte et l’ont soussigné. Il est rédigé sur un parchemin découpé dans la partie de la peau de l’animal correspondant à son arrière-train et il ne semble pas avoir été scellé. </p>
+                        <p> Le roi finance partiellement sa justice. Une fraction des dépenses des tribunaux sont assises sur les revenus du domaine, ici le premier échelon des caisses royales, la vicomté, circonscription ordinaire du domaine. Pour les petites sommes (au plus 200 livres par an selon l’article 64 de l’ordonnance de Blois du mois de mars 1498) le receveur est tenu de payer sur une simple ordonnance du conseil de bailliage composé du bailli, du juge ou d’un lieutenant, de l’avocat et du procureur du roi et d’autres notables. Leur présence doit être obligatoirement mentionnée au bas de l’acte d’ordonnancement. Il s’agit d’une procédure simplifiée par rapport à celle que suivent les trésoriers royaux qui passe par l’emploi de lettres d’acquit (lettres patentes royales adressées au trésorier et lettres d’attache). </p>
+                        <p> Les comptes des vicomtés devraient être conservés en série A des Archives départementales (actes royaux, domaines). Pour cette période, on a conservé par exemple des registres récapitulatifs des comptes de la vicomté de Caen (Arch. dép. Calvados, A 103 à 114, 1475-1552). Le contrôle financier effectué à l’échelon du bailliage est lui-même soumis directement à l’examen de la Chambre des comptes. </p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Bibliographie</head>
+                    <div type="contenu_commentaire">
+
+                        <listBibl>
+                            <bibl>
+                                <author>F<hi rend="small caps">OLLAIN</hi> (Antoine)</author>,
+                                    <title level="a">Les juridictions subalternes, sièges et ressorts des bailliages et vicomtés en Normandie sous l’Ancien Régime</title>, <title level="s">Annales de Normandie</title>,
+                                    <date when-iso="1997">1997</date>
+                                <biblScope type="vol">(47-3)</biblScope>, <biblScope type="pp">p. 211-226</biblScope>. </bibl>
+                            <bibl>
+                                <author>D<hi rend="small caps">UPONT</hi>-F<hi rend="small caps" >ERRIER</hi> (Gustave)</author>, <title level="m">Les officiers royaux des bailliages et sénéchaussées et les institutions monarchiques locales en France à la fin du Moyen Âge</title>, <pubPlace>Paris</pubPlace>,
+                                <publisher>Bouillon</publisher>, <date when-iso="1902">1902</date>,
+                                    <biblScope type="pp">1043 p</biblScope>. </bibl>
+                            <bibl>
+                                <author>D<hi rend="small caps">ROUAULT</hi> (Jean)</author>, <title level="m">Les vicomtés en Normandie au XVIII<hi rend="exposant" >e</hi> siècle</title>, <pubPlace>Caen</pubPlace>,
+                                    <publisher>Université de Caen, Faculté de droit</publisher>,
+                                    <date when-iso="1924">1924</date>, <biblScope type="pp">216 p</biblScope>. </bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+
+            <div type="commentaire" n="histoire">
+                <head>Commentaire historique</head>
+                <div n="1">
+                    <div type="contenu_commentaire">
+                        <p> Le texte illustre le caractère ordinaire du châtiment corporel sous l’Ancien Régime, la peine afflictive sanctionnant les vols. Dans le bourg d’Orbec au milieu du XVI<hi rend="exposant">e</hi> siècle, l’exécution publique de ces sentences a lieu environ deux fois par mois. La peine et les honoraires du bourreau sont appréciés en fonction de la publicité de la sanction et du travail fourni : 15 sols pour une exécution publique à travers les rues, les carrefours ou sur le marché, la moitié pour une exécution qui se déroule à l’intérieur de la prison où les condamnés sont restés quelques jours dans l’attente de leur jugement. Cette dernière solution est éventuellement adoptée pour préserver l’honneur des condamnés mais ne révèle pas une différence de traitement entre hommes et femmes. </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </body>
+    </text>
+</TEI>

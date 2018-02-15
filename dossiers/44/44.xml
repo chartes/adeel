@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1342, 6 février. Acte de l'administration royale (Carcassonne)</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">44</idno>
+                <publisher>Ecole nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : Bibl. nat. Fr.</p>
+                <p>Fac-sim. : ENC Ancien fonds 598 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc> </profileDesc>
+    </teiHeader>
+    <text>
+        <front> </front>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="15,3,15,36,472,54,471,29" n="poly">. . Girard<expan>us</expan>,
+                            d<expan>omi</expan>n<expan>u</expan>s de Roucilione,
+                        mil<expan>es</expan>, sen<expan>escal</expan>lus Carcass<expan>one</expan>
+                            Carcass<expan>one</expan> et Bit<expan>er</expan>ie [?] </seg>
+                    <seg rend="481,29,984,55">capitane<expan>us</expan>q<expan>ue</expan> in
+                            eade<expan>m</expan> sen<expan>escal</expan>lia regia
+                        auct<expan>orit</expan>ate deputat<expan>us</expan>, prude<expan>n</expan>ti
+                        viro</seg>
+                    <seg rend="20,38,21,59,422,79,424,61" n="poly">. . thes<expan>aurario</expan>
+                        regio Carcass<expan>one</expan> aut ej<expan>us</expan> locu<expan>m</expan>
+                            ten<expan>enti</expan>, sal<expan>u</expan>t<expan>em</expan> et
+                            dil<expan>e</expan>c<expan>tionem</expan>. </seg>
+                    <seg rend="437,62,984,78">Cum nos de mandato exp<expan>re</expan>sso
+                        d<expan>omi</expan>ni n<expan>ost</expan>ri reg<expan>is</expan>,
+                        p<expan>ro</expan> tuit<expan>i</expan>one et deffensione</seg>
+                    <seg rend="24,65,24,85,526,105,525,89" n="poly">corone et regni ac
+                            subditor<expan>um</expan> ej<expan>us</expan>de<expan>m</expan>,
+                            nob<expan>i</expan>lem Ysarnu<expan>m</expan> de Altopullo, </seg>
+                    <seg rend="534,87,982,105">do<expan>mi</expan>cellu<expan>m</expan> de
+                            Pisinch<expan>is</expan>, se t<expan>er</expan>ciu<expan>m</expan>
+                            ho<expan>m</expan>inu<expan>m</expan> armor<expan>um</expan>
+                            equitu<expan>m</expan> et cu<expan>m</expan></seg>
+                    <seg rend="24,94,23,113,554,132,556,115" n="poly">sex
+                            s<expan>er</expan>vientib<expan>us</expan> peditib<expan>us</expan>
+                            arball<expan>estrariis</expan> ci<expan>r</expan>ca
+                        custodia<expan>m</expan> castri de Caraman<expan>n</expan>o </seg>
+                    <seg rend="565,115,994,134">in front<expan>er</expan>iis
+                        Roucilio<expan>n</expan>is capitaneu<expan>m</expan>
+                            dux<expan>er</expan>im<expan>us</expan>
+                            destina<expan>n</expan>d<expan>um</expan>,</seg>
+                    <seg rend="27,123,26,140,426,154,426,135" n="poly">mandam<expan>us</expan>
+                            vob<expan>is</expan> quat<expan>inus</expan>
+                        d<expan>i</expan>c<expan>t</expan>o nob<expan>i</expan>li Ysarno capitaneo </seg>
+                    <seg rend="442,141,983,158">mutuu<expan>m</expan> ordinatu<expan>m</expan>
+                            p<expan>ro</expan> trib<expan>us</expan>
+                            ho<expan>m</expan>i<expan>ni</expan>b<expan>us</expan>
+                        equitib<expan>us</expan> armor<expan>um</expan> et p<expan>ro</expan>
+                            d<expan>i</expan>c<expan>t</expan>is sex</seg>
+                    <seg rend="24,148,24,169,624,184,624,167" n="poly"
+                            >s<expan>er</expan>vientib<expan>us</expan> p<expan>ro</expan> uno
+                            me<expan>n</expan>se de pecu<expan>n</expan>ia regia tradatis et
+                            delib<expan>er</expan>etis hiis vis<expan>is</expan>, </seg>
+                    <seg rend="637,173,985,190">p<expan>re</expan>sentes et alias
+                            recognitor<expan>ias</expan> ab eo d<expan>e</expan> soluto</seg>
+                    <seg rend="26,183,26,199,196,197,421,206,424,193,196,185" n="poly">penes vos
+                            retine<expan>n</expan>tes, nam id q<expan>uo</expan>d inde solveritis </seg>
+                    <seg rend="432,195,973,217">in v<expan>est</expan>ris faciem<expan>us</expan>
+                            co<expan>m</expan>potis alloca<expan>r</expan>i. Datu<expan>m</expan>
+                            Carcass<expan>one</expan> die VIa febroa<expan>r</expan>i,</seg>
+                    <seg rend="24,212,248,231">anno Do<expan>mi</expan>ni M° CCC° XL primo.</seg>
+                    <seg rend="139,259,220,280">P. Co<expan>m</expan>itis.</seg>
+
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>. . Girard<expan>us</expan>, d<expan>omi</expan>n<expan>u</expan>s de
+                        Roucilione, mil<expan>es</expan>, </l>
+                    <l>sen<expan>escal</expan>lus Carcass<expan>one</expan>
+                        Carcass<expan>one</expan> et Bit<expan>er</expan>ie [?] </l>
+                    <l>capitane<expan>us</expan>q<expan>ue</expan> in eade<expan>m</expan>
+                            sen<expan>escal</expan>lia regia </l>
+                    <l>auct<expan>orit</expan>ate deputat<expan>us</expan>, prude<expan>n</expan>ti
+                        viro</l>
+                    <l>. . thes<expan>aurario</expan> regio Carcass<expan>one</expan> aut
+                            ej<expan>us</expan> locu<expan>m</expan>
+                    </l>
+                    <l>ten<expan>enti</expan>, sal<expan>u</expan>t<expan>em</expan> et
+                            dil<expan>e</expan>c<expan>tionem</expan>. Cum nos de </l>
+                    <l>mandato exp<expan>re</expan>sso d<expan>omi</expan>ni n<expan>ost</expan>ri
+                            reg<expan>is</expan>, p<expan>ro</expan>
+                    </l>
+                    <l>tuit<expan>i</expan>one et deffensione corone et regni ac </l>
+                    <l>subditor<expan>um</expan> ej<expan>us</expan>de<expan>m</expan>,
+                        nob<expan>i</expan>lem Ysarnu<expan>m</expan> de </l>
+                    <l>Altopullo, do<expan>mi</expan>cellu<expan>m</expan> de
+                        Pisinch<expan>is</expan>, se </l>
+                    <l>t<expan>er</expan>ciu<expan>m</expan> ho<expan>m</expan>inu<expan>m</expan>
+                            armor<expan>um</expan> equitu<expan>m</expan> et cu<expan>m</expan> sex </l>
+                    <l>s<expan>er</expan>vientib<expan>us</expan> peditib<expan>us</expan>
+                            arball<expan>estrariis</expan> ci<expan>r</expan>ca </l>
+                    <l>custodia<expan>m</expan> castri de Caraman<expan>n</expan>o in
+                        front<expan>er</expan>iis </l>
+                    <l>Roucilio<expan>n</expan>is capitaneu<expan>m</expan>
+                            dux<expan>er</expan>im<expan>us</expan>
+                            destina<expan>n</expan>d<expan>um</expan>,</l>
+                    <l>mandam<expan>us</expan> vob<expan>is</expan> quat<expan>inus</expan>
+                            d<expan>i</expan>c<expan>t</expan>o nob<expan>i</expan>li Ysarno </l>
+                    <l>capitaneo mutuu<expan>m</expan> ordinatu<expan>m</expan> p<expan>ro</expan>
+                            trib<expan>us</expan>
+                    </l>
+                    <l>ho<expan>m</expan>i<expan>ni</expan>b<expan>us</expan>
+                        equitib<expan>us</expan> armor<expan>um</expan> et p<expan>ro</expan>
+                            d<expan>i</expan>c<expan>t</expan>is sex</l>
+                    <l>s<expan>er</expan>vientib<expan>us</expan> p<expan>ro</expan> uno
+                        me<expan>n</expan>se de pecu<expan>n</expan>ia regia </l>
+                    <l>tradatis et delib<expan>er</expan>etis hiis vis<expan>is</expan>,
+                        p<expan>re</expan>sentes et alias </l>
+                    <l>recognitor<expan>ias</expan> ab eo d<expan>e</expan> soluto penes vos </l>
+                    <l>retine<expan>n</expan>tes, nam id q<expan>uo</expan>d inde solveritis in
+                            v<expan>est</expan>ris </l>
+                    <l>faciem<expan>us</expan> co<expan>m</expan>potis alloca<expan>r</expan>i.
+                            Datu<expan>m</expan> Carcass<expan>one</expan>
+                    </l>
+                    <l>die VIa febroa<expan>r</expan>i,</l>
+                    <l>anno Do<expan>mi</expan>ni M° CCC° XL </l>
+                    <l>primo. [Signé : ] P. Co<expan>m</expan>itis. </l>
+                </div>
+                <div type="traduction">
+                    <l>Girard, seigneur de Roussillon, chevalier, </l>
+                    <l>sénéchal de Carcassonne (de Carcassonne) </l>
+                    <l>et de Béziers et capitaine désigné par </l>
+                    <l>l&#x2019;autorité royale dans la même </l>
+                    <l>sénéchaussée, à sage personne le trésorier </l>
+                    <l>royal de Carcassonne ou à son lieutenant, </l>
+                    <l>salut et amour. Comme nous, de l&#x2019;exprès </l>
+                    <l>mandement de notre seigneur le roi, pour </l>
+                    <l>la protection et défense de la couronne et </l>
+                    <l>du royaume et de ses sujets, avons envoyé </l>
+                    <l>le noble Isarn de Hautpoul, damoiseau de </l>
+                    <l>Pezens, avec deux autres hommes d&#x2019;armes </l>
+                    <l>à cheval et six sergents arbalétriers à pied, </l>
+                    <l>comme capitaine commis à la garde du </l>
+                    <l>château de Caramany aux frontières du </l>
+                    <l>Roussillon, nous vous mandons qu&#x2019;audit </l>
+                    <l>noble Isarn, capitaine, vous remettiez de </l>
+                    <l>l&#x2019;argent du roi l&#x2019;avance d&#x2019;un mois de </l>
+                    <l>service au taux fixé pour trois hommes </l>
+                    <l>d&#x2019;armes à cheval et pour lesdits six </l>
+                    <l>sergents et en fassiez versement au vu de </l>
+                    <l>ces lettres, que vous conserverez par-</l>
+                    <l>devers vous en même temps que la </l>
+                    <l>quittance de paiement, car nous ferons </l>
+                    <l>allouer dans vos comptes ce que vous en </l>
+                    <l>aurez payé. Donné à Carcassonne le 6<hi rend="exposant">e</hi> jour </l>
+                    <l>de février, l&#x2019;an du Seigneur 1340 et un. </l>
+                    <l>[Signé : ] P. Comte.</l>
+                </div>
+                <div type="regeste">
+                    <head>1342 (n.st.), 6 février. - Carcassonne.</head>
+                    <p>Girard de Roussillon, sénéchal et capitaine de la sénéchaussée de
+                        Carcassonne-Béziers, mande au trésorier royal de Carcassonne de verser à
+                        Isarn de Hautpoul, damoiseau de Pezens, qu&#x2019;il envoie comme
+                        capitaine commis à la garde du château de Caramany aux frontières du
+                        Roussillon, une avance de gages d&#x2019;un mois, au taux prévu, pour
+                        lui-même, deux autres hommes d&#x2019;armes à cheval et six arbalétriers
+                        à pied.</p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                        <p>L’imitation, dans la forme et le fond, de l’acte royal, plus précisément
+                            ici des lettres patentes sur simple queue, est évidente, jusque dans
+                            l’absence de justification à droite (combinée à l’interdiction de
+                            coupure des mots en fin de ligne) et de formule de corroboration, ou
+                            dans la signature (à usage interne, encore sans valeur
+                            d’authentification) du commis aux écritures du sénéchal (noter les deux
+                            points et les traits d’encadrement du nom, décalqués des signatures de
+                            notaires et secrétaires du roi, qui évolueront bientôt vers des paraphes
+                            plus élaborés). L’acte n’a pas perdu sa queue de parchemin, mais une
+                            large partie du sceau a disparu, dont le graveur a montré le fragment de
+                            contre-sceau, aux armes royales.</p>
+                        <p>En quelques guerres et deux décennies de fonctionnement d’une Chambre des
+                            comptes désormais institutionnalisée, l’administration royale a achevé
+                            de mettre au point des types et des circuits documentaires éprouvés pour
+                            le paiement des troupes et, plus largement, pour le contrôle des
+                            opérations financières des ordonnateurs (ici le sénéchal agissant comme
+                            capitaine) et des comptables (ici le trésorier de la sénéchaussée, dont
+                            la caisse supporte en partie le poids des opérations militaires). Le
+                            trésorier devra, pour justifier chaque ligne de ses dépenses, produire
+                            deux « pièces justificatives » — deux témoins dans le vaste procès que
+                            représentera l’audition de son compte —, précisément annoncées dans la
+                            clause de décharge qui clôt ici le discours : le mandat de paiement et
+                            la quittance, qui peuvent en certains cas se compléter de diverses
+                            autres pièces (certificats, réceptions de travaux, montres...).</p>
+                        <p>Par le plus grand des hasards archivistiques, on conserve aussi la
+                            quittance (<hi rend="italic">litteras recognitorias</hi>) par laquelle
+                            Isarn a reconnu avoir été payé par le trésorier (Bibl. nat. de Fr., P.O.
+                            1493, dossier 33837, n° 4). Comme il arrive souvent en pareil cas, la
+                            quittance reprend très largement les termes du mandat, tout en le
+                            complétant (la somme a été versée par Bernard de Lameulh, lieutenant du
+                            trésorier Mathieu Gayte). On conserve d’autres quittances d’Isarn,
+                            d’autres mandats contemporains du sénéchal ; ces lambeaux ne permettent
+                            évidemment qu’une reconstitution très impressionniste des opérations. On
+                            relève surtout que mandat et quittance sont du même jour, indice de la
+                            double hâte de l’administration à répondre aux directives royales, et du
+                            capitaine de château de préparer son départ quand les caisses sont
+                            encore pleines... </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </body>
+    </text>
+</TEI>

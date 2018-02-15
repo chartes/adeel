@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1270, mai. Sommières. Charte du roi Louis IX.</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">24</idno>
+                <publisher>École nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : Bibl. nat. Fr.</p>
+                <p>Fac-sim. ENC : AF 440 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="frm">Ancien français</language>
+                <language id="fre">Français</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="16,77,635,109">Lud<expan>ovicus</expan>, Dei gr<expan>ati</expan>a
+                            Franc<expan>orum</expan> rex. Notum facim<expan>us</expan>
+                        univ<expan>er</expan>sis ta<expan>m</expan>
+                            p<expan>re</expan>sentib<expan>us</expan>
+                        q<expan>u</expan>a<expan>m</expan> fut<expan>ur</expan>is
+                        q<expan>uo</expan>d,</seg>
+                    <seg rend="642,76,983,99">cu<expan>m</expan> Radulph<expan>us</expan> de
+                            Suession<expan>is</expan> miles, sicut datu<expan>m</expan></seg>
+                    <seg rend="13,126,471,150">est nob<expan>is</expan> intelligi,
+                        vendid<expan>er</expan>it et imp<expan>er</expan>petuu<expan>m</expan>
+                            quittav<expan>er</expan>it integre</seg>
+                    <seg rend="479,112,987,141">S<expan>an</expan>c<expan>t</expan>i
+                        Joh<expan>ann</expan>is in Vineis et B<expan>ea</expan>te Marie ad moniales
+                        de Suessionis ecclesiis,</seg>
+                    <seg rend="25,156,621,181">videlic<expan>et</expan> utriq<expan>ue</expan>
+                            p<expan>ro</expan> medietate, boscum suu<expan>m</expan> quod
+                            vocat<expan>ur</expan> boscum de Sicco Alneto,</seg>
+                    <seg rend="626,149,978,168">p<expan>ro</expan>ut se co<expan>m</expan>portat,
+                        trecenta et sexaginta ar-</seg>
+                    <seg rend="19,187,564,211">-penta v<expan>e</expan>l circit<expan>er</expan>, ut
+                            dicit<expan>ur</expan>, continens, contiguu<expan>m</expan> ex una
+                            p<expan>ar</expan>te, ut dicit<expan>ur</expan>,</seg>
+                    <seg rend="565,183,987,204">boscis n<expan>ost</expan>ris et boscis Roberti de
+                        Minciaco militis </seg>
+                    <seg rend="19,223,508,246">ex altera, move<expan>n</expan>s
+                        <expan>etiam</expan>, ut dicit<expan>ur</expan>, de feodo quod
+                            dil<expan>e</expan>c<expan>t</expan>us et fidelis n<expan>oste</expan>r</seg>
+                    <seg rend="518,214,993,233">comes Suession<expan>ensis</expan> tenet a
+                            nob<expan>is</expan>, pro quatuor milib<expan>us</expan> et
+                        ce<expan>n</expan>-</seg>
+                    <seg rend="19,254,487,279">-tum libr<expan>is</expan>
+                        turon<expan>ensium</expan>, nos ad
+                        requisit<expan>i</expan>o<expan>n</expan>em p<expan>re</expan>fati
+                            Rad<expan>ulphi</expan> militis,</seg>
+                    <seg rend="494,245,987,266">vendit<expan>i</expan>o<expan>n</expan>em
+                            h<expan>u</expan>j<expan>us</expan>mo<expan>d</expan>i ratam habentes et
+                        gratam, eam q<expan>u</expan>a<expan>n</expan>tum</seg>
+                    <seg n="poly"
+                        rend="23,297,114,294,192,295,280,290,318,291,381,288,429,285,494,281,516,278,516,300,436,304,350,308,279,312,175,315,104,315,60,317,21,317"
+                        >in nob<expan>is</expan> est volum<expan>us</expan>, et
+                            <expan>con</expan>cedim<expan>us</expan> divini amoris intuitu
+                            q<expan>uod</expan>
+                        p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>e
+                        eccl<expan>es</expan>ie, </seg>
+                    <seg rend="520,276,989,297">scilic<expan>et</expan> utraq<expan>ue</expan> pro
+                        medietate, p<expan>re</expan>d<expan>i</expan>c<expan>tu</expan>m boscum, ut
+                            d<expan>i</expan>c<expan>tu</expan>m est, vendi- </seg>
+                    <seg rend="23,324,430,349">-tum possint tenere
+                        imp<expan>er</expan>petuu<expan>m</expan> et pacifice possidere </seg>
+                    <seg rend="434,307,992,333">absque coactione aliqua vendendi v<expan>e</expan>l
+                        extra manu<expan>m</expan> suam ponendi, sal-</seg>
+                    <seg rend="19,360,437,378">-vo in om<expan>n</expan>ib<expan>us</expan> aliis
+                        jure n<expan>ost</expan>ro et jure ecia<expan>m</expan> in
+                            om<expan>n</expan>ib<expan>us</expan> alieno.</seg>
+                    <seg rend="449,343,993,368">Quod ut ratu<expan>m</expan> et stabile
+                        p<expan>er</expan>maneat in fut<expan>uru</expan>m,
+                        p<expan>re</expan>sentibus litt<expan>er</expan>is
+                            n<expan>ost</expan>r<expan>u</expan>m</seg>
+                    <seg rend="15,394,415,420">fecimus apponi sigillum. Actu<expan>m</expan> apud
+                            Sumydriu<expan>m</expan>,</seg>
+                    <seg rend="420,378,879,404">anno D<expan>omi</expan>ni mill<expan>esim</expan>o
+                            ducent<expan>esim</expan>o septuag<expan>esim</expan>o, mense
+                    mayo.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Lud<expan>ovicus</expan>, Dei gr<expan>ati</expan>a <term
+                            n="Francorum rex demeure le titre usuel du roi de France en chancellerie (et seulement en chancellerie), quand on dit par ailleurs “roi de France” et rex Francie."
+                                >Franc<expan>orum</expan></term> rex. </l>
+                    <l>Notum facim<expan>us</expan> univ<expan>er</expan>sis ta<expan>m</expan>
+                            p<expan>re</expan>sentib<expan>us</expan>
+                    </l>
+                    <l>q<expan>u</expan>a<expan>m</expan> fut<expan>ur</expan>is
+                        q<expan>uo</expan>d, cu<expan>m</expan>
+                        <term
+                            n="Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II."
+                                >Radulph<expan>us</expan> de </term></l>
+                    <l><term
+                            n="Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II."
+                                >Suession<expan>is</expan> miles</term>, sicut datu<expan>m</expan>
+                        est nob<expan>is</expan>
+                    </l>
+                    <l>intelligi, vendid<expan>er</expan>it et
+                        imp<expan>er</expan>petuu<expan>m</expan>
+                    </l>
+                    <l>quittav<expan>er</expan>it integre <term
+                            n="Saint-Jean-des-Vignes, abbaye de chanoines réguliers fondée à Soissons, tête d&#x2019;une petite congrégation régionale.."
+                                >S<expan>an</expan>c<expan>t</expan>i Joh<expan>ann</expan>is in
+                        </term></l>
+                    <l><term
+                            n="Saint-Jean-des-Vignes, abbaye de chanoines réguliers fondée à Soissons, tête d&#x2019;une petite congrégation régionale.."
+                            >Vineis</term> et <term
+                            n="Notre-Dame de Soissons, abbaye de moniales ; l&#x2019;appellation est ici précisée pour éviter une confusion avec le chapitre soissonnais de Notre-Dame-des-Vignes."
+                                >B<expan>ea</expan>te Marie ad moniales</term> de </l>
+                    <l>Suessionis ecclesiis, videlic<expan>et</expan> utriq<expan>ue</expan>
+                            p<expan>ro</expan>
+                    </l>
+                    <l>medietate, boscum suu<expan>m</expan> quod vocat<expan>ur</expan>
+                    </l>
+                    <l>boscum de <term n="Sec-Aulnois, bois sur la commune de Missy-aux-Bois.">Sicco
+                            Alneto</term>, p<expan>ro</expan>ut se </l>
+                    <l>co<expan>m</expan>portat, trecenta et sexaginta arpenta </l>
+                    <l>v<expan>e</expan>l circit<expan>er</expan>, ut dicit<expan>ur</expan>,
+                        continens, contiguu<expan>m</expan>
+                    </l>
+                    <l>ex una p<expan>ar</expan>te, ut dicit<expan>ur</expan>, boscis
+                        n<expan>ost</expan>ris et </l>
+                    <l>boscis Roberti de <term n="Missy-aux-Bois, Aisne, cant. Soissons-sud."
+                            >Minciaco</term> militis ex </l>
+                    <l>altera, move<expan>n</expan>s <expan>etiam</expan>, ut
+                        dicit<expan>ur</expan>, de feodo </l>
+                    <l>quod dil<expan>e</expan>c<expan>t</expan>us et fidelis n<expan>oste</expan>r
+                            <term
+                            n="Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades."
+                            >comes</term>
+                    </l>
+                    <l><term
+                            n="Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades."
+                                >Suession<expan>ensis</expan></term> tenet a nob<expan>is</expan>,
+                        pro quatuor </l>
+                    <l>milib<expan>us</expan> et ce<expan>n</expan>tum libr<expan>is</expan>
+                        <term
+                            n="Tournois : l&#x2019;une des deux grandes monnaies royales capétiennes, avec le parisis ; elle a été acquise quand Philippe Auguste a saisi la Touraine."
+                                >turon<expan>ensium</expan></term>, nos </l>
+                    <l>ad requisit<expan>i</expan>o<expan>n</expan>em p<expan>re</expan>fati
+                            Rad<expan>ulphi</expan> militis,</l>
+                    <l>vendit<expan>i</expan>o<expan>n</expan>em
+                            h<expan>u</expan>j<expan>us</expan>mo<expan>d</expan>i ratam habentes et </l>
+                    <l>gratam, eam q<expan>u</expan>a<expan>n</expan>tum in nob<expan>is</expan> est </l>
+                    <l>volum<expan>us</expan>, et <expan>con</expan>cedim<expan>us</expan> divini
+                        amoris </l>
+                    <l>intuitu q<expan>uod</expan>
+                        p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>e
+                        eccl<expan>es</expan>ie, scilic<expan>et</expan>
+                    </l>
+                    <l>utraq<expan>ue</expan> pro medietate,
+                            p<expan>re</expan>d<expan>i</expan>c<expan>tu</expan>m boscum, </l>
+                    <l>ut d<expan>i</expan>c<expan>tu</expan>m est, venditum possint tenere </l>
+                    <l>imp<expan>er</expan>petuu<expan>m</expan> et pacifice possidere absque </l>
+                    <l>coactione aliqua vendendi v<expan>e</expan>l <term
+                            n="L&#x2019;expression “mettre hors de sa main” désigne l&#x2019;obligation faite à des institutions ecclésiastiques recueillant des biens grevés d&#x2019;obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d&#x2019;une perte de service féodal) d&#x2019;abandonner leur acquisition… sauf à verser une taxe compensatoire, ce dont elles sont ici exemptées."
+                            >extra</term>
+                    </l>
+                    <l><term
+                            n="L&#x2019;expression “mettre hors de sa main” désigne l&#x2019;obligation faite à des institutions ecclésiastiques recueillant des biens grevés d&#x2019;obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d&#x2019;une perte de service féodal) d&#x2019;abandonner leur acquisition… sauf à verser une taxe compensatoire, ce dont elles sont ici exemptées."
+                                >manu<expan>m</expan> suam ponendi</term>, salvo in
+                            om<expan>n</expan>ib<expan>us</expan>
+                    </l>
+                    <l>aliis jure n<expan>ost</expan>ro et jure ecia<expan>m</expan> in
+                            om<expan>n</expan>ib<expan>us</expan>
+                    </l>
+                    <l>alieno. Quod ut ratu<expan>m</expan> et stabile p<expan>er</expan>maneat </l>
+                    <l>in fut<expan>uru</expan>m, p<expan>re</expan>sentibus litt<expan>er</expan>is
+                            n<expan>ost</expan>r<expan>u</expan>m</l>
+                    <l>fecimus apponi sigillum. Actu<expan>m</expan> apud </l>
+                    <l><term
+                            n="Sommières (Gard, ch.-l. cant.). Saint Louis et ses croisés durent attendre avant de pouvoir embarquer à Aigues-Mortes (Gard, ch.-l. cant.), le 1er juillet 1270. Plusieurs actes royaux sont donnés alentour, dans les deux mois précédents ; on en connaît un autre précisément daté de Sommières le 8 mai (itinéraire du roi, dans Recueil des historiens de la France, t. XXI, p. 423)."
+                                >Sumydriu<expan>m</expan></term>, anno D<expan>omi</expan>ni
+                            mill<expan>esim</expan>o </l>
+                    <l>ducent<expan>esim</expan>o septuag<expan>esim</expan>o, mense mayo.</l>
+
+                </div>
+                <div type="traduction">
+                    <l>Louis, par la grâce de Dieu roi de <term
+                            n="Francorum rex demeure le titre usuel du roi de France en chancellerie (et seulement en chancellerie), quand on dit par ailleurs “roi de France” et rex Francie."
+                            >France</term>.</l>
+                    <l>Nous faisons savoir à tous, présents et à</l>
+                    <l>venir, que, comme <term
+                            n="Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II."
+                            >Raoul de Soissons,</term></l>
+                    <l><term
+                            n="Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II."
+                            >chevalier</term>, ainsi qu&#x2019;il nous a été donné à</l>
+                    <l>comprendre, a vendu et à perpétuité</l>
+                    <l>abandonné intégralement aux églises de</l>
+                    <l><term
+                            n="Saint-Jean-des-Vignes, abbaye de chanoines réguliers fondée à Soissons, tête d&#x2019;une petite congrégation régionale.."
+                            >Saint-Jean-des-Vignes</term> et de <term
+                            n="Notre-Dame de Soissons, abbaye de moniales ; l&#x2019;appellation est ici précisée pour éviter une confusion avec le chapitre soissonnais de Notre-Dame-des-Vignes."
+                            >Notre-Dame-</term></l>
+                    <l><term
+                            n="Notre-Dame de Soissons, abbaye de moniales ; l&#x2019;appellation est ici précisée pour éviter une confusion avec le chapitre soissonnais de Notre-Dame-des-Vignes."
+                            >aux-Nonnains</term> de Soissons, chacune pour</l>
+                    <l>moitié, son bois que l&#x2019;on appelle le bois de</l>
+                    <l><term n="Sec-Aulnois, bois sur la commune de Missy-aux-Bois."
+                        >Sec-Aulnois</term>, tel qu&#x2019;il s&#x2019;étend [en long et en</l>
+                    <l>large], contenant, dit-on, trois cent soixante</l>
+                    <l>arpents ou environ, contigu d&#x2019;un côté,</l>
+                    <l>dit-on, à nos bois et aux bois de</l>
+                    <l>Robert de <term n="Missy-aux-Bois, Aisne, cant. Soissons-sud.">Missy</term>,
+                        chevalier, de</l>
+                    <l>l&#x2019;autre, mouvant aussi, dit-on, du fief</l>
+                    <l>que notre aimé et féal <term
+                            n="Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades."
+                            >comte de</term></l>
+                    <l><term
+                            n="Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades."
+                            >Soissons</term> tient de nous, pour quatre</l>
+                    <l>mille cent livres <term
+                            n="Tournois : l&#x2019;une des deux grandes monnaies royales capétiennes, avec le parisis ; elle a été acquise quand Philippe Auguste a saisi la Touraine."
+                            >tournois</term>, nous, à la</l>
+                    <l>requête du susdit chevalier Raoul,</l>
+                    <l>ratifiant et agréant cette vente, la</l>
+                    <l>voulons, autant qu&#x2019;il est en nous,</l>
+                    <l>et concédons pour l&#x2019;amour de Dieu</l>
+                    <l>que les susdites églises, chacune pour</l>
+                    <l>moitié, puissent tenir le bois vendu,</l>
+                    <l>comme il a été dit, à perpétuité</l>
+                    <l>et en paix, sans être aucunement</l>
+                    <l>contraintes à le vendre ou</l>
+                    <l><term
+                            n="L&#x2019;expression “mettre hors de sa main” désigne l&#x2019;obligation faite à des institutions ecclésiastiques recueillant des biens grevés d&#x2019;obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d&#x2019;une perte de service féodal) d&#x2019;abandonner leur acquisition… sauf à verser une taxe compensatoire, dont elles sont ici exemptées."
+                            >mettre hors de leur main</term>, sauf en toutes</l>
+                    <l>autres choses notre droit, et le droit</l>
+                    <l>d&#x2019;autrui en toutes. Pour que cela demeure</l>
+                    <l>ratifié et stable à l&#x2019;avenir, nous avons fait</l>
+                    <l>apposer notre sceau aux présentes lettres.</l>
+                    <l>Fait à <term
+                            n="Sommières (Gard, ch.-l. cant.). Saint Louis et ses croisés durent attendre avant de pouvoir embarquer à Aigues-Mortes (Gard, ch.-l. cant.), le 1er juillet 1270. Plusieurs actes royaux sont donnés alentour, dans les deux mois précédents ; on en connaît un autre précisément daté de Sommières le 8 mai (itinéraire du roi, dans Recueil des historiens de la France, t. XXI, p. 423)."
+                            >Sommières</term>, l&#x2019;an du Seigneur mille</l>
+                    <l>deux cent soixante-dix, au mois de mai.</l>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                        <p><figure rend="24/faxexternes.jpg"/></p>                         
+                        <p>La justification à gauche mais aussi à droite, le blanc ménagé dans la
+                            partie supérieure du parchemin, l'initiale, l'application de l'écriture
+                            (mais sans autre ornementation), le repli où l'on voit deux perforations
+                            en forme de losange (elles doivent donc accueillir des lacs de soie) :
+                            autant de traits évoquant une certaine solennité, que confirme l'étude
+                            du discours.</p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="suscription" rend="color:#FF0000">Ludovicus, Dei gratia
+                                Francorum rex.<note id="suscription" type="bulle">Suscription</note></seg>
+                            <seg corresp="notification" rend="color:#009966">Notum facimus universis
+                                tam presentibus quam futuris quod<note id="notification"
+                                    type="bulle">Notification universelle</note></seg>
+                            <seg corresp="expose" rend="color:color:#000099">cum Radulphus de
+                                Suessionis miles, sicut datum est nobis intelligi, vendiderit et
+                                imperpetuum quittaverit integre Sancti Johannis in Vineis et Beate
+                                Marie ad moniales de Suessionis ecclesiis, videlicet utrique pro
+                                medietate, boscum suum quod vocatur boscum de Sicco Alneto, prout se
+                                comportat, trecenta et sexaginta arpenta vel circiter, ut dicitur,
+                                continens, contiguum ex una parte, ut dicitur, boscis nostris et
+                                boscis Roberti de Minciaco militis ex altera, movens etiam, ut
+                                dicitur, de feodo quod dilectus et fidelis noster comes
+                                Suessionensis tenet a nobis, pro quatuor milibus et centum libris
+                                    turonensium,<note id="expose" type="bulle">Exposé.</note></seg>
+                            <seg corresp="dispositif" rend="color:#FF00FF">nos ad requisitionem
+                                prefati Radulphi militis, venditionem hujusmodi ratam habentes et
+                                gratam, eam quantum in nobis est volumus, et concedimus divini
+                                amoris intuitu quod predicte ecclesie, scilicet utraque pro
+                                medietate, predictum boscum, ut dictum est, venditum possint tenere
+                                imperpetuum et pacifice possidere absque coactione aliqua vendendi
+                                vel extra manum suam ponendi,<note id="dispositif" type="bulle"
+                                    >Dispositif (l&#x2019;acte est une confirmation doublée
+                                    d&#x2019;un don).</note></seg>
+                            <seg corresp="clause" rend="color:#0099CC">salvo in omnibus aliis jure
+                                nostro et jure eciam in omnibus alieno<note id="clause" type="bulle"
+                                    >Clause de réserve.</note></seg>
+                            <seg corresp="corroboration" rend="color:#CC3366">Quod ut ratum et
+                                stabile permaneat in futurum, presentibus litteris nostrum fecimus
+                                apponi sigillum.<note id="corroboration" type="bulle">Corroboration
+                                    perpétuelle avec annonce du sceau</note></seg>
+                            <seg corresp="date_temps" rend="color:#009966">Actum apud Sumydrium,
+                                anno Domini millesimo ducentesimo septuagesimo, mense mayo.<note
+                                    id="date_temps" type="bulle">Date de temps.</note></seg>
+                        </p>
+                    </div>
+                </div>
+                <div n="4">
+                    <head>Synthèse</head>
+                    <div type="contenu_commentaire">
+                        <p>Même si l’acte se qualifie lui-même, dans la corroboration, de <hi rend="italic">lettres</hi> 
+                            (air du temps oblige), il n’est pas coulé dans un moule épistolaire : 
+                            la suscription est présentée isolée, sans adresse (ne 
+                            pas prendre pour une adresse le complément d’objet indirect de la 
+                            notification qui suit) ni salut. Les diplomatistes, de fait, qualifient 
+                            ce type de "charte", par opposition aux "lettres 
+                            patentes". Il appelle une notification universelle, une corroboration 
+                            comportant la mention de la perpétuité de l’acte. Tous les 
+                            traits rédactionnels et sigillographiques (cire verte, lacs de soie 
+                            verte et rouge) ne sont pas définitivement fixés avant le 
+                            règne de Philippe le Bel, mais il est déjà clair ici 
+                            que la volonté de délivrer un acte perpétuel est traduite 
+                            de façon explicite et cohérente.</p>
+                        <p>Bien des traits du style royal du XIII<hi rend="exposant">e</hi> siècle 
+                            peuvent être relevés en relisant le texte : même s’il 
+                            va droit au but, il importe d’élégantes tournures 
+                            des lettres pontificales (<hi rend="italic">Sancti Johannis in Vineis et Beate 
+                                Marie ad moniales de Suessionis ecclesiis..., ratam habentes et gratam..., 
+                                quantum in nobis est... ; sicut datum est nobis intelligi</hi> semble 
+                            aussi développer une saveur curiale). Un peu dans le même sens, on 
+                            notera la motivation d’empreinte quasi théologique, <hi rend="italic">divini amoris 
+                                intuitu</hi>, plus conceptualisée qu’un banal "pour le salut 
+                            de mon âme" ou "en aumône". La langue du praticien 
+                            ne fournit pas moins de tournures, dont une débauche de <hi rend="italic">ut dicitur</hi> 
+                            et autres <hi rend="italic">vel circiter</hi>, qui signent moins l’incertitude et l’imprécision 
+                            que la hantise de voir l’acte mis en péril si une affirmation trop 
+                            tranchée vient à être contestée sur un point de détail. 
+                            Plus évidemment encore, le rédacteur s’applique à une 
+                            description très méticuleuse des situations : 
+                            le texte est presque un cas d’école sur la façon dont le siècle 
+                            s’applique à borner et décrire, circonscrire et hiérarchiser 
+                            droits, terres et hommes. </p>                        
+                        <p>Proposition de regeste : Le roi Louis [IX] ratifie 
+                            la vente faite par Raoul de Soissons aux abbayes de Saint-Jean-des-Vignes 
+                            et de Notre-Dame de Soissons, à parts égales, pour 4100 livres 
+                            tournois, du bois de Sec-Aulnois, d’une superficie de 360 arpents, contigu 
+                            aux bois du roi et de Robert de Missy, qui mouvait du fief que le comte 
+                            de Soissons tenait du roi et que ce dernier pour l’amour de Dieu autorise 
+                            les abbayes à tenir.</p>                       
+                </div>
+          </div>      
+            </div>
+        </body>
+    </text>
+</TEI>

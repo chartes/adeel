@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1596, 14 novembre. Acte de petite chancellerie (Lyon) 1596, 14 novembre. (Lyon). <hi rend="italic">Mandement royal délivré par la petite chancellerie des Grands Jours du parlement de Paris expédié (Lyon).</hi>
+                    <hi rend="italic">La justice du roi contre le beau-père assassin : confirmation de la condamnation de Jean de Thélis par les Grands Jours de Lyon</hi>
+                </title>
+                <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
+                <author/>
+                <respStmt>
+                    <resp>document encodé par</resp>
+                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">116</idno>
+                <publisher>École nationale des Chartes</publisher>
+                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archives nationales, K 2381, pièce n<hi rend="exposant">°</hi> 43.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="168,21,755,72">Henry par la grace de Dieu roy de France et de Navarre, </seg>
+                    <seg rend="764,38,1187,83">au premier des huissiers de n<expan>ot</expan>re cours de parlement</seg>
+                    <seg rend="1191,43,1514,86">ou aultre n<expan>ot</expan>re huissier ou sergent sur ce </seg>
+                    <seg rend="176,76,737,95">requis, salut. Comme ce jour d’huy veu par n<expan>ot</expan>re court des grandz</seg>
+                    <seg rend="737,87,1512,107">jours à Lion la requeste à elle p<expan>rese</expan>ntée par Perrine Denouetz, demoiselle v<expan>eu</expan>ve de feu Charles </seg>
+                    <seg rend="186,101,720,119">de Thelis dict de Sainct Romain, tant en son nom que comme</seg>
+                    <seg rend="731,111,1503,130"> tutrice de Georges et Geoffroy de Thelis, enffans mineurs dud. deffunct et d’elle, contenant </seg>
+                    <seg rend="179,124,763,144">que po<expan>ur</expan> raison de l’homicide et assasinat commis à la personne</seg>
+                    <seg rend="770,134,1505,158"> dud. deffunct, le procés extraordinaire auroit esté faict et parfaict par le prevost des </seg>
+                    <seg rend="181,150,704,169">mareschaulx de Beaujoloys à Jehan de Thelis dict de S<expan>ainc</expan>t-Romain, </seg>
+                    <seg rend="710,162,1513,183">sieur de Vatorgues pere d’icelluy deffunct, Jehan de Thelis dict de Croizel, son filz, frere dud deffunct, François </seg>
+                    <seg rend="181,174,671,197">Boudot, Jacques Lasne dict La Conduicte, Damyen Charasson, </seg>
+                    <seg rend="677,186,1507,209">Jacques Perrasse, Benoist Gojet, Anthoine Foucelas, Loys Fayot, Jehan Ferrabourg dict Protierre, Pierre </seg>
+                    <seg rend="182,200,674,225">Covent, Jehan Charassin, dit L’Orenge, François Chairneron,</seg>
+                    <seg rend="680,212,1508,232">Romide et Leonard Coquet accusez, contre lesquelz sentence de <expan>con</expan>tumace auroit esté donnée </seg>
+                    <seg rend="182,235,797,254">le vingt-quatriesme may ; par laquelle ilz auroient esté <expan>con</expan>damnez, </seg>
+                    <seg rend="799,238,1509,268">sçavoir led. pere et frere dud. assasiné à avoir les testes tranchees, lesd. Bodot, </seg>
+                    <seg rend="185,260,774,281">Fayot et La Conduicte à estre rompuz sur la roue et lesd. Damien </seg>
+                    <seg rend="781,275,1514,296">et au<expan>tr</expan>es accusez à estre penduz et estranglez, laquelle sentence, n’ayans iceulx accusez </seg>
+                    <seg rend="184,289,804,318">peu estre aprehendez, auroit esté executée en effigie. En l’execution</seg>
+                    <seg rend="810,301,1512,323">de laquelle la suppliante crainct avoir quelque difficulté pour le credit </seg>
+                    <seg rend="184,326,858,341">que peulvent avoir les accusez au pays de Beaujolois et que les huissiers </seg>
+                    <seg rend="858,330,1511,350">ou sergents et aultres officiers de justice facent reffuz d’executer lad. senten<expan>ce</expan>
+                    </seg>
+                    <seg rend="180,346,682,377">sy elle n’estoit confirmée et auctorisée par lad. co<expan>urt</expan>, </seg>
+                    <seg rend="689,356,1500,379">et à ceste fin auroit presenté req<expan>ues</expan>te ; sur laquelle arrest seroit intervenu le vingt-huictiesme </seg>
+                    <seg rend="177,383,825,403">novembre dernier, par lequel auroit esté ordonné que dans huictaine</seg>
+                    <seg rend="4835,384,1499,406">après la signification d’iceluy, les dessusd. se rendroient en l’estat en la </seg>
+                    <seg rend="183,410,1197,433">conciergerye du Palais et à faulte de ce f<expan>air</expan>e, q<expan>u’i</expan>l seroit <expan>con</expan>tre eulx procedé suivans les arrestz de n<expan>ot</expan>red. cours. </seg>
+                    <seg rend="1208,415,1512,439">Lequel arrest auroit esté signifié </seg>
+                    <seg rend="180,439,1175,462">au domicile des accusez les neuf et dixiesme du mois d’octob<expan>re</expan>, à quoy ilz n’auroient tenu compte d’obeyr. </seg>
+                    <seg rend="1188,445,1508,467">Requeroit attendu l’enormité </seg>
+                    <seg rend="181,467,1081,491">dud. crime et assasinat ordonner que lad. sentence sera executée de l’auctorité de n<expan>ot</expan>red. co<expan>urt</expan>
+                    </seg>
+                    <seg rend="1085,473,1506,498">et aura pareille force que si iceulx </seg>
+                    <seg rend="176,503,538,532">accusez estoient <expan>con</expan>damnez par arrest </seg>
+                    <seg rend="545,502,1507,530">et oultre que
+                        <expan>com</expan>mand<expan>emen</expan>t sera faict à tous juges, huissiers et autres officiers de justice </seg>
+                    <seg rend="177,537,1082,561">icelle mettre ou faire mettre a execution a peyne d’estre declarez refractaires à n<expan>ot</expan>red. court. </seg>
+                    <seg rend="1092,536,1506,559">Veu aussy lad. sentence, arrest et </seg>
+                    <seg rend="180,566,650,588">exploictz, conclusions de n<expan>ot</expan>re procureur general </seg>
+                    <seg rend="659,564,1501,590">auquel le tout a esté communicqué de l’ordonnance d’icelle, et tout consideré </seg>
+                    <seg rend="151,593,525,618">n<expan>ot</expan>red. court a ordonné et ordonne </seg>
+                    <seg rend="531,593,1494,615">que lad. sentence sera executée à l’encontre d’iceulx accusez selon sa forme et teneur, mesme </seg>
+                    <seg rend="171,623,949,647">pour le regard de leur capture et reparations civiles adjugées par icelle </seg>
+                    <seg rend="957,623,1508,650">et enjoinct à tous huissiers ou sergens et aultres </seg>
+                    <seg rend="173,654,1169,676">officiers de justice de ce faire, sur peyne d’estre declarez refractaires aux arrestz de n<expan>ot</expan>red. court. </seg>
+                    <seg rend="1176,659,1509,677">Si te mandons a la req<expan>ues</expan>te </seg>
+                    <seg rend="168,682,769,710">de lad. suppliante mettre ce present arrest a execution, </seg>
+                    <seg rend="781,683,1507,710">de ce f<expan>air</expan>e donnons pouvoir, commandons à tous noz subjetz qu’à toy </seg>
+                    <seg rend="163,716,389,743">en ce faisant soit obey. </seg>
+                    <seg rend="401,717,1512,744">Donné a Lion esd. grandz jours le quatorziesme jour de novembre, l’an de grace mil cinq cent quatre </seg>
+                    <seg rend="145,749,648,782">vingtz-seize et de n<expan>ot</expan>re reigne le huict<expan>ies</expan>me.</seg>
+                </p>
+                <p>
+                    <seg rend="170,798,629,907">Par la chambre des grandz jours :</seg>
+                    <seg rend="631,916,849,1002">V<hi rend="small caps">OYSIN</hi>.</seg>
+                </p>
+                <p>
+                    <seg rend="51,240,178,345">
+                        <add place="margin-left">veu, D<hi rend="small caps">UGUE</hi>.</add>
+                    </seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <p> Henry par la grace de Dieu roy de France et de Navarre, au premier des <term n="Les huissiers sont des officiers attachés aux cours chargés de l’introduction des parties mais aussi  du port et de la proclamation des décisions de justice." >huissiers</term> de notre cours de <lb/> parlement ou aultre notre huissier ou sergent sur ce requis, salut. Comme ce jour d’huy veu par notre
+                        <lb/> court des <term n="Les Grands Jours sont une formation exceptionnelle d’un parlement dont une partie des juges se  déplacent hors du siège originaire de la cour pour juger rapidement des affaires en souffrance dans  une partie de son ressort. Ils durent généralement plusieurs semaines, voire plusieurs mois. Ceux  de Lyon se sont tenus de juin à noël 1596." >grandz jours à Lion</term> la requeste à elle presentée par Perrine Denouetz, demoiselle veuve de <lb/> feu <term n="Charles de Thelis dit de Saint-Romain est le fils aîné de Jean de Thélis de Saint-Romain et de  Charlotte du Crox, sa première épouse en 1567. Il a épousé Perrine Denouetz (encore écrit selon les sources  de Nouault, Denouet, de Naoulx ou de Neaux) par contrat du 4 novembre 1593. Elle est la fille de Guillaume  Denouezt et de Marie Heloin. Elle meurt après 1620. La famille de Thélis est possessionnée près de  l’actuelle commune de Sainte-Marguerite (Haute-Loire, arr. de Brioude)." >Charles de Thelis dict de Sainct Romain</term>, tant en son nom que comme tutrice de <term n="Georges de Thélis est baptisé le 10 septembre 1595. Il est enterré à Lyon le 16 février 1668." >Georges</term><!-- pas d'appel pour cette note. J'y pallie.  --> et
+                        <lb/> Geoffroy de Thelis, enffans mineurs dud. deffunct et d’elle, contenant que pour raison de l’homicide et <lb/> assasinat commis à la personne dud. deffunct, le procés extraordinaire auroit esté faict et parfaict par le <lb/>
+                        <term n="Le prévôt des maréchaux est un magistrat qui exerce au nom des maréchaux de France une justice  militaire extraordinaire, notamment pour les crimes commis sur les grands chemins. " >prevost des mareschaulx</term> de Beaujoloys à Jehan de Thelis dict de Sainct-Romain, sieur de <term n="Vatorgues : aujourd’hui Saint-Cyr-de-Valorges (Loire, arr. de Roanne)." >Vatorgues</term>
+                        <lb/> pere d’icelluy deffunct, Jehan de Thelis dict de Croizel, son filz, frere dud deffunct, François Boudot, <lb/> Jacques Lasne dict La Conduicte, Damyen Charasson, Jacques Perrasse, Benoist Gojet, Anthoine <lb/> Foucelas, Loys Fayot, Jehan Ferrabourg dict Protierre, Pierre Covent, Jehan Charassin, dit L’Orenge, <lb/> François Chairneron, Romide et Leonard Coquet accusez, contre lesquelz sentence de contumace <lb/> auroit esté donnée le vingt-quatriesme may ; par laquelle ilz auroient esté condamnez, sçavoir led. pere <lb/> et frere dud. assasiné à avoir les testes tranchees, lesd. Bodot, Fayot et La Conduicte à estre rompuz <lb/> sur la roue et lesd. Damien et autres accusez à estre penduz et estranglez, laquelle sentence, n’ayans <lb/> iceulx accusez peu estre aprehendez, auroit esté <term n="L’exécution en effigie consiste à exécuter une sentence sur la représentation (mannequin) du  condamné. Elle n’est qu’une anticipation symbolique de l’exécution réelle et ne se substitue pas  à la peine." >executée en effigie</term>. En l’execution de laquelle la <lb/> suppliante crainct avoir quelque difficulté pour le credit que peulvent avoir les accusez au pays de <lb/> Beaujolois et que les huissiers ou sergents et aultres officiers de justice facent reffuz d’executer lad. <lb/> sentence sy elle n’estoit confirmée et auctorisée par lad. court, et à ceste fin auroit presenté requeste ; <lb/> sur laquelle arrest seroit intervenu le vingt-huictiesme novembre dernier, par lequel auroit esté
+                        <lb/><!-- le "bre" de "novembre" est en gras. Sans doute une erreur --> ordonné que dans huictaine après la <term n="La signification désigne la procédure par laquelle un huissier ou un sergent annonce une décision  de justice à une partie." >signification</term> d’iceluy, les dessusd. se rendroient en l’estat en la <lb/>
+                        <term n="La conciergerie du Palais désigne la prison du parlement de Paris qui a son siège dans l’ancien  palais des rois de France sur l’île de la Cité." >conciergerye du Palais</term> et à faulte de ce faire, qu’il seroit contre eulx procedé suivans les arrestz de <lb/> notred. cours. Lequel arrest auroit esté signifié au domicile des accusez les neuf et dixiesme du mois <lb/> d’octobre, à quoy ilz n’auroient tenu compte d’obeyr. Requeroit attendu l’enormité dud. crime et <lb/> assasinat ordonner que lad. sentence sera executée de l’auctorité de notred. court et aura pareille force <lb/> que si iceulx accusez estoient condamnez par arrest et oultre que commandement sera faict à tous <lb/> juges, huissiers et autres officiers de justice icelle mettre ou faire mettre a execution a peyne d’estre <lb/> declarez refractaires à notred. court. Veu aussy lad. sentence, arrest et
+                            <term n="L’exploit est le document écrit rapportant la signification d’un arrêt. " >exploictz</term>, conclusions de notre <lb/> procureur general auquel le tout a esté communicqué de l’ordonnance d’icelle, et tout consideré <lb/> notred. court a ordonné et ordonne que lad. sentence sera executée à l’encontre d’iceulx accusez selon <lb/> sa forme et teneur, mesme pour le regard de leur capture et reparations civiles adjugées par icelle et <lb/> enjoinct à tous huissiers ou sergens et aultres officiers de justice de ce faire, sur peyne d’estre declarez <lb/> refractaires aux arrestz de notred. court. Si te mandons a la requeste de lad. suppliante mettre ce <lb/> present arrest a execution, de ce faire donnons pouvoir, commandons à tous noz subjetz qu’à toy en ce <lb/> faisant soit obey. Donné a Lion esd. grandz jours le quatorziesme jour de novembre, l’an de grace mil <lb/> cinq cent quatre-vingtz-seize et de notre reigne le huictiesme. </p>
+                    <p> Par la chambre des grandz jours : <term n="Daniel Voysin (v. 1563-1621) seigneur de Villebourg et de La Noraye, secrétaire du roi, l’un des quatre  notaire-secrétaires de la cour de Parlement, pourvu le 22 octobre 1593, et enfin greffier en chef criminel le  11 décembre 1599." >V<hi rend="small caps">OYSIN</hi></term>.<lb/><!-- pas d'appel sur "Voysin". J'y pallie. -->                      veu, D<hi rend="small caps">UGUE</hi>.<lb/>
+                    </p>
+                </div>
+            <div type="regeste">
+                <head>1596, 14 novembre — Lyon</head>
+                <p> À la demande de Perrine Denouetz, veuve de Charles de Thelis dit de Saint-Romain, le parlement de Paris dans sa session des Grands Jours à Lyon confirment la condamnation de Jean de Thelis et de ses complices, pour le meurtre de son mari, prononcée par le prévôt des maréchaux de Beaujolais le 26 mai 1596. Le roi donne ordre d’exécuter cette sentence. </p>
+            </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="suscription" rend="color:#0099CC">Henry par la grace de Dieu roy de France et de Navarre, <note xml:id="suscription" type="bulle">Suscription</note></seg>
+                            <seg corresp="adresse" rend="color:#f90808">au premier des huissiers de notre cours de parlement ou aultre notre huissier ou sergent sur ce requis,<note xml:id="adresse" type="bulle">Adresse</note></seg>
+                            <seg corresp="salut" rend="color:#f808c8">salut.<note xml:id="salut" type="bulle">Salut</note></seg>
+                            <seg corresp="exposé" rend="color:#01def8">Comme ce jour d’huy veu par notre court des grandz jours à Lion la requeste à elle presentée par Perrine Denouetz, demoiselle veuve de feu Charles de Thelis dict de Sainct Romain, tant en son nom que comme tutrice de Georges et Geoffroy de Thelis, enffans mineurs dud. deffunct et d’elle, contenant que pour raison de l’homicide et assasinat commis à la personne dud. deffunct, le procés extraordinaire auroit esté faict et parfaict par le prevost des mareschaulx de Beaujoloys à Jehan de Thelis dict de Sainct-Romain, sieur de Vatorgues pere d’icelluy deffunct, Jehan de Thelis dict de Croizel, son filz, frere dud deffunct, François Boudot, Jacques Lasne dict La Conduicte, Damyen Charasson, Jacques Perrasse, Benoist Gojet, Anthoine Foucelas, Loys Fayot, Jehan Ferrabourg dict Protierre, Pierre Covent, Jehan Charassin, dit L’Orenge, François Chairneron, Romide et Leonard Coquet accusez, contre lesquelz sentence de contumace auroit esté donnée le vingt-quatriesme may ; par laquelle ilz auroient esté condamnez, sçavoir led. pere et frere dud. assasiné à avoir les testes tranchees, lesd. Bodot, Fayot et La Conduicte à estre rompuz sur la roue et lesd. Damien et autres accusez à estre penduz et estranglez, laquelle sentence, n’ayans iceulx accusez peu estre aprehendez, auroit esté executée en effigie. En l’execution de laquelle la suppliante crainct avoir quelque difficulté pour le credit que peulvent avoir les accusez au pays de Beaujolois et que les huissiers ou sergents et aultres officiers de justice facent reffuz d’executer lad. sentence sy elle n’estoit confirmée et auctorisée par lad. court, et à ceste fin auroit presenté requeste ; sur laquelle arrest seroit intervenu le vingt-huictiesme novembre dernier, par lequel auroit esté ordonné que dans huictaine après la signification d’iceluy, les dessusd. se rendroient en l’estat en la conciergerye du Palais et à faulte de ce faire, qu’il seroit contre eulx procedé suivans les arrestz de notred. cours. Lequel arrest auroit esté signifié au domicile des accusez les neuf et dixiesme du mois d’octobre, à quoy ilz n’auroient tenu compte d’obeyr. Requeroit attendu l’enormité dud. crime et assasinat ordonner que lad. sentence sera executée de l’auctorité de notred. court et aura pareille force que si iceulx accusez estoient condamnez par arrest et oultre que commandement sera faict à tous juges, huissiers et autres officiers de justice icelle mettre ou faire mettre a execution a peyne d’estre declarez refractaires à notred. court. Veu aussy lad. sentence, arrest et exploictz, conclusions de notre procureur general auquel le tout a esté communicqué de l’ordonnance d’icelle, et tout consideré notred. court a ordonné et ordonne que lad. sentence sera executée à l’encontre d’iceulx accusez selon sa forme et teneur, mesme pour le regard de leur capture et reparations civiles adjugées par icelle et enjoinct à tous huissiers ou sergens et aultres officiers de justice de ce faire, sur peyne d’estre declarez refractaires aux arrestz de notred. court<note xml:id="exposé" type="bulle">Exposé</note></seg>
+                            <seg corresp="dispositif" rend="color:#0099CC"> >Si te mandons a la requeste de lad. suppliante mettre ce present arrest a execution, de ce faire donnons pouvoir, commandons à tous noz subjetz qu’à toy en ce faisant soit obey. <note xml:id="dispositif" type="bulle" >Dispositif</note></seg>
+                            <seg corresp="date" rend="color:#24b37f">Donné a Lion esd. grandz jours le quatorziesme jour de novembre, l’an de grace mil cinq cent quatre-vingtz-seize et de notre reigne le huictiesme.<note xml:id="date" type="bulle">Date</note></seg>
+                            <seg corresp="jussio" rend="color:#9999FF">Par la chambre des grandz jours : <note xml:id="jussio" type="bulle">Mention de jussio</note></seg>
+                            <seg corresp="signature" rend="color:#0099CC">V<hi rend="small caps" >OYSIN</hi><note xml:id="signature" type="bulle">Signature du rédacteur de l’acte</note></seg>
+                            <seg corresp="vide" rend="color:#f90808">Sy donnons en mandement aud. viconte ou commys faire payement de lad. somme aud. Neron et par rapportant ces presentes avecques quictance, lad. somme leur soit allouée a l’audition de leurs comptes. <note xml:id="vide" type="bulle"/></seg>
+                            <!-- pas d'intitulé pour l'ajout en marge -->
+                        </p>
+                    </div>
+                </div>
+                <div n="2">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p> L’acte est un mandement royal expédié par la petite chancellerie de la chambre des Grands jours du parlement de Paris. Comme le Parlement, la Chambre des comptes, l’Hôtel du roi et le Conseil avant eux, les Grands Jours du Parlement peuvent établir des actes au nom du roi depuis le début du <hi rend="small caps">XIV</hi><hi rend="exposant">e</hi> siècle. Les caractères externes et internes d’une petite lettre patente ou (mandement) de la chancellerie royale y sont respectées : la datation au quantième du mois et par année de règne, la présence du sceau royal sur simple queue de parchemin (aujourd’hui disparu). Mais hormis la suscription royale et la datation, l’exposé et le dispositif reprennent intégralement ceux de l’arrêt des Grands Jours dont la minute est conservée (Arch. nat., X<hi rend="exposant">1B</hi> 9706, fol. 252, 14 novembre 1596). </p>
+                        <p> Le rédacteur et signataire de l’acte est Daniel Voysin, un des quatre notaires et secrétaires du roi servant près la cour de Parlement. Ceux-ci détiennent en théorie le monopole de l’expédition des lettres de justice depuis 1318. Mais jusqu’au début du <hi rend="small caps">XVII</hi>
+                            <hi rend="exposant">e</hi> siècle, ils sont en conflit avec les notaires du Châtelet pour la rédaction des actes ordinaires de la pratique notariale. La délimitation de leurs compétences vis-à-vis des greffiers et des secrétaires du roi non spécialement affectés au Parlement, comme ceux de la Grande Chancellerie ou des petites chancelleries, ne semble jamais avoir été parfaitement tranchée. Tous peuvent en effet dresser et signer actes au nom du roi, de même que des arrêts exécutoires, qu’ils soient ou non scellés du Grand sceau. Et comme les greffiers, chargés de prendre en minutes les délibérations et les arrêts et d’en délivrer des expéditions, les notaires et secrétaires de la cour sont aptes à suppléer le greffier civil dans ses fonctions. Daniel Voysin a par exemple signé la mention d’enregistrement de l’édit de Nantes par le parlement de Paris le 25 février 1599 (AN J 943-2) plusieurs mois avant d’être reçu greffier en chef criminel le 11 décembre 1599. </p>
+                        <p> L’acte porte le vidimus
+                            <!-- je ne comprends pas la présence des italiques : vidimus n'est-il pas,  malgré sa forme latine prononcée, un mot français ?  -->du contrôleur de la chancellerie. </p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Bibliographie complémentaire</head>
+                    <div type="contenu_commentaire">
+                        <listBibl>
+                            <bibl>
+                                <author>A<hi rend="small caps">UBERT</hi> (Félix)</author>, <title level="m">Recherches sur l’organisation du parlement de Paris au XVI<hi rend="exposant">e</hi> siècle (1515-1589)</title>,
+                                    <pubPlace>Paris</pubPlace>, <publisher>Sirey</publisher>, <date when-iso="1912">1912</date>. </bibl>
+                            <bibl>
+                                <author>L<hi rend="small caps">APEYRE</hi> (André) et S<hi rend="small caps">CHEURER</hi> (Remy)</author>, <title level="m">Les notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>,
+                                    <pubPlace>Paris</pubPlace>, <publisher>Bibl. nat. de France</publisher>, <date when-iso="1978">1978</date>. </bibl>
+                            <bibl>
+                                <author>L<hi rend="small caps">AURAIN</hi>[-P<hi rend="small caps" >ORTEMER</hi>] (Madeleine) </author>, <title level="u">Les Grands Jours du parlement de Paris de l’avènement de François Ier à la mort d’Henri II</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title level="s">Positions des thèses (…)</title>, <pubPlace>Paris</pubPlace>, <date when-iso="1940">1940</date>, <biblScope type="pp">p. 71-79</biblScope>. </bibl>
+                            <bibl>
+                                <author>L<hi rend="small caps">E</hi> L<hi rend="small caps" >ABOUREUR</hi> (Claude)</author>, <title level="m">Les masures de l’Ile-Barbe</title>, <editor>Marie-Claude Guigue et Georges Guige</editor>, <pubPlace>Lyon</pubPlace>,
+                                    <publisher>Vitte et Perrussel</publisher>, <date when-iso="1887" >1887</date>. </bibl>
+                            <bibl>
+                                <author>L<hi rend="small caps">IGNEREUX</hi> (Yann)</author>, <title level="m">Lyon et le roi. De la « bonne ville » à l’absolutisme municipal (1594-1654)</title>, <pubPlace>Seyssel</pubPlace>,
+                                    <publisher>Champ Vallon</publisher>, <date when-iso="2003" >2003</date>, <biblScope type="pp">p. 92-113</biblScope>. </bibl>
+                            <bibl>
+                                <author>R<hi rend="small caps">IVERIEUX</hi> D<hi rend="small caps" >E</hi> V<hi rend="small caps">ARAX</hi> (vicomte Paul de)</author>, <title level="m">Généalogie de la maison de Sainte-Colombe</title>, <pubPlace>Lyon</pubPlace>,
+                                    <publisher>Imprimerie générale</publisher>, <date when-iso="1881">1881</date>, <biblScope type="pp">p. 156-157</biblScope>. </bibl>
+                            <bibl>
+                                <author>V<hi rend="small caps">IGNON</hi> (Joseph)</author>, <title level="m">Valorges. Petit fief sans justice</title>,
+                                    <pubPlace>Sain-Just la Pendue</pubPlace>, <publisher>imp. Chirat</publisher>, <date when-iso="1977">1977</date>, <biblScope type="pp">p. 23-25</biblScope>. </bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+
+            <div type="commentaire" n="histoire">
+                <head>Commentaire historique</head>
+                <div n="1">
+                    <div type="contenu_commentaire">
+                        <p> Les Grands Jours de Lyon sont convoqués par lettres patentes d’Henri IV données à La Fère le 4 mai 1596, six mois après son entrée dans la ville (4 septembre 1595). La lettre de commission désignant les magistrats est adressée au Parlement le 24 mai, aussi depuis La Fère (Arch. nat., X<hi rend="exposant">1A</hi> 8642, enregistrement du 22 juin 1596). La délégation, qui commence ses travaux le 15 août 1596, se compose d’un maître des requêtes, d’un président et de quinze conseillers au Parlement. Les magistrats disposent au criminel d’une compétence illimitée, mais s’occupent avant tout des crimes « énormes », catégorie dont relève indubitablement le meurtre domestique. Jean de Thélis de Saint-Romain a en effet tué l’aîné de ses fils, Charles, issu du premier lit. Sa bru, Perrine Denouetz, a d’abord eu recours à la juridiction criminelle du prévôt des maréchaux ; puis elle a renforcé la condamnation par une procédure dont la chronologie n’est très claire. La sentence du prévôt des maréchaux de Beaujolais condamnant sans appel possible les accusés date du 26 mai 1596 (les archives de la prévôté ne sont conservées qu’à partir de 1680 dans les Archives départementales de la Loire, B 778 et suiv.). Le 28 septembre (c’est le mois porté par la minute de l’arrêt, Arch. nat., X<hi rend="exposant">1B</hi> 9706, fol. 252) intervient un arrêt ordonnant aux accusés de venir se livrer qui leur est signifié en octobre. Enfin, l’arrêt rendu par les Grands Jours de Lyon le 14 novembre 1596 confirme et ordonne l’application de la sentence initiale. </p>
+                        <p> Plus qu’à faire appliquer les condamnations, la veuve a sans doute voulu impressionner son beau-père car cinq jours plus tard, ils passent une transaction qui éteint les poursuites en échange d’un dédommagement matériel de 8 000 écus. </p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

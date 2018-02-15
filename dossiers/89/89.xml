@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?oxygen RNGSchema="file:/C:/Users/Standard/Desktop/TravauxALexandre-Helene/myTei.rng" type="xml"?> -->
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1298. Acte de l'administration royale (bailli de Bourges)</title>
+                <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
+                <author>Dufossé, Colette (élève à l'École nationale des Chartes)</author>
+                <respStmt>
+                    <resp>document encodé par</resp>
+                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">89</idno>
+                <publisher>École nationale des Chartes</publisher>
+                <date when-iso="2007-09">octobre 2007</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Fac-sim. ENC : NF 136 (héliogravure).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="frm"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="10,14,425,24,426,54,247,46,222,51,154,49,148,55,142,48,10,52" n="poly">A touz ceus qui cez p<expan>re</expan>sentes
+                            lett<expan>r</expan>es verront, </seg>
+                    <seg
+                        rend="438,24,469,26,483,17,492,24,918,35,917,70,864,67,857,74,852,66,806,65,801,74,793,70,790,62,703,61,653,58,650,70,644,58,555,61,538,64,531,54,437,52"
+                        n="poly">Robert Maug<expan>er</expan>, baillif de Borges, saluz. Sachent</seg>
+                    <seg
+                        rend="13,54,140,51,148,58,157,51,227,53,248,49,451,58,451,79,407,79,404,87,396,79,396,77,309,75,307,84,301,73,161,74,156,82,154,70,71,72,65,79,58,71,43,73,39,77,41,82,35,79,36,71,13,70"
+                        n="poly">touz que nous por certene cause avons ostroié </seg>
+                    <seg
+                        rend="453,55,527,57,536,67,557,64,622,61,641,62,647,72,656,69,655,61,785,66,792,74,801,77,808,68,850,69,859,78,866,70,913,73,913,95,701,86,691,91,678,95,669,94,661,87,658,84,638,85,625,90,614,89,611,83,453,78"
+                        n="poly"><expan>et</expan> doné licence a religieux home au comandeur de</seg>
+                    <seg
+                        rend="13,74,32,74,32,83,44,86,44,77,56,74,63,83,73,75,150,76,155,85,166,77,297,79,308,90,316,78,391,80,405,91,411,82,577,85,578,118,523,118,498,118,422,114,418,120,412,111,379,106,337,112,323,115,316,112,315,107,187,105,184,113,178,113,174,101,71,100,68,115,63,102,46,101,48,105,53,109,49,111,42,105,40,100,13,101"
+                        n="poly">la meson dou Temple de L’Ormethyaut de fere une husserie </seg>
+                    <seg
+                        rend="580,86,607,86,612,92,627,95,658,91,672,98,685,98,701,90,920,99,917,129,869,125,870,136,862,128,860,125,672,118,668,130,663,117,651,117,652,126,645,129,642,124,641,117,581,118"
+                        n="poly">ou une posterne en une des archieres</seg>
+                    <seg
+                        rend="13,105,38,105,46,115,57,110,61,110,68,119,74,106,171,105,179,117,190,115,192,111,253,111,252,139,240,139,240,147,230,136,14,134"
+                        n="poly">de leur celier d’Issodum </seg>
+                    <seg
+                        rend="257,112,312,114,321,119,363,113,378,110,408,115,418,123,423,118,510,122,638,120,642,132,656,126,669,133,677,122,858,128,868,140,882,130,930,132,930,163,920,164,924,185,911,160,909,155,880,155,875,164,870,161,867,153,737,149,735,160,729,161,727,150,608,146,605,155,598,155,590,147,588,145,531,145,528,155,519,152,518,144,503,144,500,151,480,149,475,143,440,142,437,153,432,142,417,143,420,149,413,147,408,141,310,134,305,143,301,137,301,133,270,133,266,144,259,139,258,134,257,132"
+                        n="poly">qui est en leur meson assise sus les murs de la cloeson de la ville d’Issodum,</seg>
+                    <seg
+                        rend="14,140,225,140,237,152,247,147,256,140,269,148,363,142,406,144,420,154,428,148,438,157,445,146,499,154,512,149,523,157,534,157,535,148,565,150,565,177,518,177,516,188,504,180,504,176,305,167,302,180,297,167,284,166,286,178,276,166,207,164,204,174,198,162,188,162,183,167,186,170,189,170,189,176,181,173,178,168,178,162,42,162,42,170,38,173,32,167,32,163,12,161"
+                        n="poly">e se tient ladite meson a la meson de La Vernuce d’une part </seg>
+                    <seg
+                        rend="570,152,591,152,597,159,610,159,614,151,721,155,729,164,740,162,743,153,863,159,874,169,882,158,904,159,918,180,915,193,889,188,887,199,881,194,879,187,870,186,868,198,861,194,859,183,778,183,777,196,771,183,747,186,737,190,734,188,732,183,666,180,663,193,658,179,642,180,643,193,633,183,633,179,570,177"
+                        n="poly"><expan>et</expan> aus mesons de l’eglise Saint Johan</seg>
+                    <seg
+                        rend="12,172,31,172,38,178,48,168,175,168,183,178,193,178,194,174,208,175,209,169,241,171,239,197,210,197,207,207,200,207,193,195,100,190,91,194,91,208,85,208,85,193,49,194,45,208,36,208,34,194,12,194"
+                        n="poly">d’Issodum de l’autre p<expan>ar</expan>t, </seg>
+                    <seg
+                        rend="247,172,274,172,286,181,308,183,308,172,496,181,510,191,522,189,521,181,629,182,641,195,659,190,661,194,668,192,670,184,728,188,735,193,766,187,774,198,781,197,781,187,851,188,859,199,867,200,872,199,877,191,882,201,892,200,892,191,905,191,922,200,922,215,890,216,888,224,884,225,879,214,753,211,751,225,745,223,744,211,584,207,584,217,580,214,578,205,541,204,540,214,534,214,528,207,528,203,516,204,515,220,509,205,446,199,443,213,440,199,424,200,424,214,419,213,417,197,396,198,395,213,389,196,384,195,382,212,374,211,371,201,369,197,245,194"
+                        n="poly">sauve tant q<expan>ue</expan>, se mestiers est por peril de guerre ou por autre cause</seg>
+                    <seg
+                        rend="13,207,29,207,36,213,47,212,52,202,80,205,84,213,93,212,96,200,190,202,190,228,174,227,179,237,172,233,169,229,169,226,74,226,72,237,66,236,62,227,11,226"
+                        n="poly">neccessaire au roy, </seg>
+                    <seg
+                        rend="193,209,211,209,215,200,363,204,369,215,429,217,440,212,441,215,447,212,450,206,506,208,514,223,519,220,532,217,546,216,545,210,575,210,579,217,584,221,590,211,738,218,740,227,752,228,757,216,875,220,882,230,887,227,893,220,920,222,920,243,769,241,764,252,761,242,750,244,750,255,745,256,741,256,736,242,672,240,669,251,662,247,661,238,645,238,642,241,647,249,637,247,636,238,509,236,506,249,495,241,495,231,446,230,443,241,434,241,432,228,408,230,403,241,399,229,380,231,375,234,376,245,372,243,369,232,353,231,341,234,333,234,330,227,323,227,322,240,316,240,310,231,311,224,282,225,281,226,284,233,282,236,275,230,276,225,211,225,208,236,201,235,194,227"
+                        n="poly">que le roy <expan>et</expan> ses gens puissent joïr de ladite husserie ou post<expan>er</expan>ne en totes les</seg>
+                    <seg
+                        rend="12,235,62,237,66,241,68,238,72,239,74,235,82,237,150,235,179,239,309,237,314,242,326,242,327,237,366,239,367,265,331,263,330,275,323,275,320,260,275,260,272,275,267,258,263,259,261,273,255,272,251,266,250,258,131,258,127,269,122,270,118,269,116,256,11,258"
+                        n="poly">manieres q<expan>ue</expan> il verront q<expan>ue</expan> sera a fere </seg>
+                    <seg
+                        rend="370,248,385,247,396,244,439,244,450,240,491,240,498,247,506,251,510,242,629,243,632,250,650,252,664,252,671,254,675,245,732,248,740,260,752,259,758,254,769,254,770,247,929,247,929,275,920,273,916,284,911,273,897,275,897,280,902,287,896,286,890,276,892,271,825,275,820,285,816,274,708,273,706,287,702,273,662,272,657,286,655,272,636,272,633,286,629,271,472,265,472,272,467,272,462,263,404,262,404,278,399,278,395,271,394,264,370,263"
+                        n="poly"><expan>et</expan> por la fere reclorre <expan>et</expan> estoper se bon leur est. Derechef</seg>
+                    <seg
+                        rend="12,264,110,265,117,275,131,272,136,264,245,265,252,275,276,277,316,272,320,278,334,278,339,270,390,271,399,283,408,277,408,271,461,270,471,278,473,296,416,295,408,306,403,304,399,294,316,293,312,305,306,303,302,292,249,291,246,304,242,291,141,290,138,301,130,302,128,288,12,287"
+                        n="poly">avons accenssé, baillé <expan>et</expan> ostroié par accensseme<expan>n</expan>t </seg>
+                    <seg
+                        rend="477,273,512,272,624,275,631,287,645,280,656,288,665,282,697,281,703,288,709,287,711,278,810,281,820,289,829,280,886,282,893,288,905,289,927,286,926,309,903,308,897,321,891,312,891,304,836,305,837,317,833,316,830,304,811,305,811,310,814,318,810,318,804,308,806,303,477,293"
+                        n="poly">audit comandeur ou non de ladite meson <expan>et</expan> a ses</seg>
+                    <seg
+                        rend="14,295,123,296,125,306,142,305,143,296,236,296,244,309,252,297,298,297,303,305,312,306,319,298,395,301,395,327,286,323,281,340,273,330,273,324,197,321,190,324,194,332,186,324,189,320,144,320,140,334,135,333,131,326,131,319,72,321,69,332,59,329,59,320,21,320,15,334"
+                        n="poly">successeurs, por doze den<expan>ier</expan>s par<expan>isis</expan> de cens, </seg>
+                    <seg
+                        rend="398,309,410,308,423,301,653,302,801,310,804,312,807,322,813,320,883,312,895,322,908,313,914,313,915,336,833,336,833,351,826,352,822,336,782,334,780,345,773,344,763,345,755,338,755,331,726,333,721,346,717,345,712,329,564,327,561,338,557,326,399,325"
+                        n="poly">une alee de toise <expan>et</expan> demie de lé por yssir <expan>et</expan> por aller</seg>
+                    <seg
+                        rend="8,341,27,332,70,336,89,325,119,325,139,338,146,327,185,330,194,337,252,329,280,344,287,330,353,332,354,357,314,355,310,371,305,355,294,355,289,371,282,366,281,353,209,354,206,365,199,365,197,352,179,353,174,362,172,368,176,374,177,376,168,371,168,363,171,353,8,354"
+                        n="poly"><expan>et</expan> venir de celle husserie ou post<expan>er</expan>ne </seg>
+                    <seg
+                        rend="359,333,552,334,559,344,569,332,705,338,716,349,722,348,728,338,750,339,760,349,786,347,787,338,817,339,822,358,834,353,839,344,933,344,932,371,907,390,891,381,864,380,850,369,777,367,773,375,776,383,771,383,767,376,769,367,543,358,541,369,536,371,531,363,531,357,509,357,509,372,503,373,498,367,498,358,483,360,479,367,474,383,470,380,472,369,463,370,456,362,444,367,433,359,372,359,367,370,364,370,359,360"
+                        n="poly">par les fossez qui sunt davant ladite archiere ou marchié</seg>
+                    <seg
+                        rend="8,363,105,360,163,363,163,373,176,380,181,374,177,369,178,363,193,364,195,366,209,367,212,364,269,367,269,388,253,393,253,407,247,407,246,394,249,388,212,388,208,395,200,395,199,386,9,386"
+                        n="poly"><expan>et</expan> ou cimetiere d’Issodum </seg>
+                    <seg
+                        rend="274,368,290,375,297,366,304,366,310,375,316,371,316,364,356,366,363,374,370,374,374,366,457,370,465,375,471,387,480,374,497,373,501,376,517,371,532,372,537,376,548,366,762,369,767,385,781,385,780,372,850,374,854,379,858,379,865,384,891,383,895,390,909,391,910,402,766,398,761,408,756,409,753,405,753,397,664,396,664,405,658,406,654,397,654,393,556,392,553,410,550,393,485,394,482,407,475,400,471,392,274,387"
+                        n="poly"><expan>et</expan> aus autres leus que mestier leur seront, e por totes leur</seg>
+                    <seg
+                        rend="10,395,169,395,212,398,243,398,246,409,256,409,259,397,373,396,470,398,482,409,486,409,489,398,546,400,553,414,553,424,344,420,338,433,332,428,328,419,210,418,205,428,201,417,173,417,171,430,167,431,161,426,161,418,103,418,97,431,93,416,10,417"
+                        n="poly">autres esances qui seront neccessaires au comandeur </seg>
+                    <seg
+                        rend="555,411,563,398,650,397,654,408,667,409,668,400,746,401,752,410,759,411,769,403,927,408,928,433,878,433,874,446,866,439,866,432,824,430,820,447,811,438,806,442,803,444,796,441,792,433,681,429,670,442,667,438,674,429,622,431,555,422"
+                        n="poly"><expan>et</expan> aus habitanz de ladite meson, paier</seg>
+                    <seg
+                        rend="9,425,89,425,95,435,105,422,154,425,157,431,171,434,175,426,199,427,205,430,213,425,324,427,337,437,348,426,634,437,634,462,598,461,595,470,587,467,587,459,571,459,567,471,563,457,397,456,382,464,379,462,380,455,335,455,331,462,324,461,322,451,262,451,260,461,256,450,180,450,169,454,170,461,166,460,166,452,73,449,69,454,66,453,66,449,30,449,25,459,23,456,25,449,10,448"
+                        n="poly">chacun an les doze den<expan>ier</expan>s par<expan>isis</expan> dessusdiz en l’andemain de Pâques, </seg>
+                    <seg
+                        rend="638,437,662,438,670,446,680,435,790,441,798,449,804,445,812,443,815,444,819,452,827,437,862,439,876,451,881,438,921,441,921,467,881,468,881,478,874,480,871,475,870,468,834,466,833,474,830,475,827,471,820,474,817,478,810,474,810,465,684,462,683,475,679,473,677,461,647,461,646,474,642,474,637,459"
+                        n="poly">sus poinne de cinq sol<expan>s</expan> por</seg>
+                    <seg
+                        rend="10,458,26,462,67,457,162,458,168,463,177,456,242,456,255,463,264,464,265,456,317,457,326,466,335,466,339,458,374,461,379,468,394,462,418,462,419,488,281,483,276,490,271,488,271,481,239,480,237,496,234,481,190,480,180,484,179,501,175,497,176,481,180,480,137,480,135,492,128,492,116,493,105,482,10,478"
+                        n="poly">amende a Yssodum au p<expan>re</expan>vost doudit leu </seg>
+                    <seg
+                        rend="423,468,495,463,529,466,597,476,610,469,637,474,645,479,653,469,680,476,686,479,689,470,801,472,821,484,840,475,863,475,874,483,882,483,913,471,920,472,920,502,750,497,749,506,744,510,735,501,737,494,655,496,648,498,649,511,643,499,645,494,569,495,568,502,562,507,558,503,557,491,533,492,531,504,525,504,520,494,520,490,423,487"
+                        n="poly">ou a celui qui por le roy auroit poer les recevoir,</seg>
+                    <seg
+                        rend="10,488,104,491,114,498,138,496,149,492,169,490,169,498,180,505,183,489,228,490,238,501,248,488,316,498,333,489,513,496,524,509,562,511,574,499,636,505,647,514,660,504,716,512,711,536,686,535,681,548,675,546,669,538,654,545,651,532,591,529,587,538,584,527,485,524,480,538,478,522,396,519,392,530,386,527,366,528,331,519,293,515,288,525,280,525,258,526,216,518,165,524,148,527,141,519,140,512,10,511"
+                        n="poly">sauve tant q<expan>u</expan>e, se ladite husserie ou posterne estoit reclose ou estopee, </seg>
+                    <seg rend="721,513,756,514,771,503,918,509,916,541,735,533,726,546,717,544,717,530" n="poly">que le devantdit </seg>
+                    <seg
+                        rend="10,521,132,520,144,531,213,523,282,532,294,524,302,525,303,552,192,546,190,558,186,559,180,551,180,544,80,544,75,549,76,556,73,557,72,550,72,544,10,544"
+                        n="poly">cens cherroit <expan>et</expan> seroit nul. </seg>
+                    <seg
+                        rend="313,530,420,533,440,529,472,530,479,541,490,531,581,533,585,542,595,534,642,537,652,551,666,543,677,552,692,541,727,552,736,539,914,546,912,575,902,575,894,589,891,589,893,577,897,572,834,568,833,578,827,577,822,567,684,566,679,571,677,565,667,565,663,570,664,576,666,578,662,578,657,572,658,566,610,561,608,568,603,569,599,569,598,562,472,555,462,557,470,566,468,569,458,562,458,558,386,552,383,566,379,551,312,551"
+                        n="poly">Ou tesmoin <expan>et</expan> memoire de laquele chose nous avons seellé cez</seg>
+                    <seg
+                        rend="9,553,68,554,71,561,80,558,79,552,175,554,185,563,195,563,197,554,220,554,220,580,184,579,179,591,172,585,172,577,137,578,136,593,132,594,128,590,127,579,8,578"
+                        n="poly">lett<expan>r</expan>es de nostre seau, </seg>
+                    <seg
+                        rend="228,555,374,559,383,571,392,560,452,563,467,573,477,561,590,566,598,574,611,574,614,567,651,569,652,576,663,582,673,574,686,574,689,570,818,573,827,584,835,576,887,578,887,590,892,595,898,595,903,581,915,582,916,609,890,608,887,615,880,616,877,607,854,605,849,618,846,605,764,600,764,609,757,613,753,606,753,598,650,596,648,607,640,603,640,593,588,592,588,606,581,593,573,593,573,602,566,605,562,597,562,589,430,585,430,597,425,599,420,593,421,584,315,581,296,587,294,582,271,582,262,586,254,586,255,581,227,577"
+                        n="poly"><expan>et</expan> a greigneur confirmacion les feymes seeller dou seau de la p<expan>re</expan>vosté</seg>
+                    <seg rend="9,583,114,586,113,616,91,617,93,626,89,626,83,617,99,609,51,610,48,624,38,624,37,609,9,608" n="poly">d’Issodum. </seg>
+                    <seg
+                        rend="125,603,142,592,173,593,178,597,189,587,410,595,423,602,436,598,437,589,550,595,563,609,586,609,595,604,635,604,647,610,651,604,746,601,754,615,765,615,771,608,797,607,839,610,846,622,878,618,884,620,892,617,892,614,917,616,914,642,869,650,794,646,742,645,687,630,596,645,554,637,519,621,476,630,443,621,407,632,322,623,293,617,202,615,196,627,178,614,164,624,124,611"
+                        n="poly">Ce fut fet en l’an de grace M CC quatre vinz diz <expan>et</expan> huict, le dyme<expan>n</expan>che pruchen</seg>
+                    <seg
+                        rend="7,618,31,618,32,627,50,629,55,617,79,617,84,631,98,628,98,622,147,623,161,629,173,622,182,622,193,630,207,622,298,622,350,634,393,634,394,654,289,657,279,675,250,660,138,660,113,664,98,651,6,647"
+                        n="poly">avant la feste de Touz Sains.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <p>A touz ceus qui cez presentes lettres verront, <term n="Robert Mauger, bailli de Touraine (1294-1296), prévôt de Paris
+                            (1297-1298), est ensuite attesté comme bailli de Bourges en 1298-1299.">Robert Mauger</term>, baillif de Borges,
+                        saluz.<lb/> Sachent touz que nous por certene cause avons ostroié et doné licence a religieux home au<lb/> comandeur de la
+                        meson dou Temple de <term n="La commanderie templière de L’Ormeteau, dont les ruines sont visibles sur le territoire de la
+                            commune de Reuilly (Indre, cant. Issoudun-nord), était aussi à la tête d’une modeste baillie, circonscription templière de
+                            base réunissant quelques maisons ; à ce titre, son commandeur était aussi en charge des biens de l’ordre du Temple à
+                            Bourges.">L’Ormethyaut</term> de fere une <term n="Husserie : ouverture, entrée, porte ; le sens est précisé par le terme
+                            « poterne », qui désigne une petite ouverture pratiquée dans une enceinte (« cloeson »).">husserie</term> ou une<lb/>
+                        posterne en une des <term n="L’archère étant une meurtrière autorisant le tir d’un arc, il faut comprendre que les Templiers
+                            demandent en fait l’agrandissement de cette étroite ouverture sur l’extérieur en une petite porte (poterne) permettant
+                            d’accéder directement au marché et au cimetière, sis hors les murs.">archieres</term> de leur celier d’<term n="Issoudun
+                            (Indre, ch.-l. arr.).">Issodum</term> qui est en leur meson assise sus les<lb/> murs de la cloeson de la ville d’Issodum,
+                        e se tient ladite meson a la meson de La Vernuce<lb/> d’une part et aus mesons de l’eglise <term n="Saint-Jean, église
+                            paroissiale d’Issoudun.">Saint Johan</term> d’Issodum de l’autre part, sauve tant que,<lb/> se mestiers est por peril de
+                        guerre ou por autre cause neccessaire au roy, que le roy et ses<lb/> gens puissent joïr de ladite husserie ou posterne en
+                        totes les manieres que il verront que<lb/> sera a fere et por la fere reclorre et <term n="Estoper (cf. étoupe) : boucher,
+                            clore, refermer.">estoper</term> se bon leur est. Derechef avons accenssé, baillé<lb/> et ostroié par accenssement audit
+                        comandeur ou non de ladite meson et a ses successeurs,<lb/> por doze deniers parisis de cens, une alee de <term n="toise :
+                            unité de longueur dont la valeur, avec de multiples variations, tournait en général autour des 2 m.">toise</term> et demie
+                        de lé por yssir et por aller et<lb/> venir de celle husserie ou posterne par les fossez qui sunt davant ladite archiere
+                        ou<lb/> marchié et ou cimetiere d’Issodum et aus autres leus que mestier leur seront, e por totes<lb/> leur autres <term
+                            n="esances (lat. aisentie) : besoins, avec une nuance d’usage, de droit coutumier.">esances</term> qui seront neccessaires
+                        au comandeur et aus habitanz de ladite meson,<lb/> paier chacun an les doze deniers parisis dessusdiz en l’andemain de Pâques,
+                        sus poinne de<lb/> cinq sols por amende a Yssodum au prevost doudit leu ou a celui qui por le roy auroit<lb/> poer les
+                        recevoir, sauve tant que, se ladite husserie ou posterne estoit reclose ou estopee,<lb/> que le devantdit cens cherroit et
+                        seroit nul. Ou tesmoin et memoire de laquele chose nous<lb/> avons seellé cez lettres de nostre seau, et a greigneur
+                        confirmacion les feymes seeller dou<lb/> seau de la prevosté d’Issodum. Ce fut fet en l’an de grace M CC quatre vinz diz et
+                        huict, le<lb/>
+                        <term n="En 1298, la Toussaint tombe un samedi ; le dimanche précédent est donc le 26 octobre.">dymenche</term> pruchen avant
+                        la feste de Touz Sains.</p>
+                </div>
+                <div type="regeste">
+                    <head>1298, 26 octobre.</head>
+                    <p>Robert Mauger, bailli de Bourges, octroie au commandeur du Temple de L’Ormeteau la permission de faire une poterne dans
+                        l’enceinte d’Issoudun à partir de l’une des archères du cellier de la maison qu’il a en ville. Il concède au commandeur,
+                        contre un cens de 12 deniers parisis à acquitter le lendemain de Pâques au prévôt d’Issoudun et une pénalité de 5 sous, une
+                        allée large d’une toise et demi qui, par les fossés, mènera de la poterne au marché et au cimetière de la ville. Le roi et ses
+                        agents se réservent le droit de fermer la poterne en cas de nécessité, ce qui fera tomber le cens. – Acte passé sous les
+                        sceaux du bailli et de la prévôté d’Issoudun.</p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Commentaire diplomatique</head>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <figure rend="89/faxexterne.jpg"/>
+                        </p>
+                        <p>En une époque où la production des agents du roi est encore plus soumise à l’air du temps, voire à des usages locaux, qu’à
+                            un strict modèle diffusé depuis le centre royal, cet acte du bailli de Bourges se définit avant tout par son caractère
+                            fonctionnel, la concision de son formulaire, la clarté et la précision de sa langue et de son lexique, qui use, avec
+                            modération et pertinence, de binômes synonymiques (« husserie ou posterne », « reclorre et estoper », « accensé, baillé et
+                            ostroié », « por yssir et por aller et venir »). Le souci de la défense des droits et du domaine, de l’utilité publique
+                            aussi, est affiché, comme le souci d’une validation diplomatique qui fait joindre au sceau du bailli celui de la prévôté
+                            du lieu. Toutes solutions que l’on trouve aussi bien appliquées dans les actes de juridiction gracieuse.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

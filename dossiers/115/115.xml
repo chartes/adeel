@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1590, 16 janvier. Acte royal (Paris) <hi rend="italic">1590, 16 janvier</hi>
+                    <hi rend="italic">Mandement (Paris)</hi>. Composer en temps de guerre : Remise de bail à un fermier d’impôts de la Ligue. </title>
+                <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
+                <author/>
+                <respStmt>
+                    <resp>document encodé par</resp>
+                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">115</idno>
+                <publisher>École nationale des Chartes</publisher>
+                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archives nationales, AN, K 2381 (2).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="9,13,511,89">Charles par la grace de Dieu roy de France, </seg>
+                    <seg rend="517,53,1070,98">a noz amez et feaux les gens de noz comptes, tresoriers de France au bureau des </seg>
+                    <seg rend="58,93,700,116">finances estably a Paris, esleuz sur le faict des aydes et tailles en l’election de Soissons, salut.</seg>
+                    <seg rend="704,101,1072,118">Veu la requete p<expan>rese</expan>ntee en n<expan>ot</expan>re conseil le XXVII<hi rend="exposant">e</hi> septembre </seg>
+                    <seg rend="59,118,486,135">dernier par Pierre Terlan, fermier des huict et vingt<expan>ie</expan>me du vin, </seg>
+                    <seg rend="494,122,1073,142">boucherie, mercerie, poisson de mer, d’eaue douce, tannerie, pelleterie, menu mestier, </seg>
+                    <seg rend="61,141,731,160">toille, chevaux, pied fourché, plastre, thuille, chaux et au<expan>tr</expan>es imp<expan>ositi</expan>ons de la ville de Soissons </seg>
+                    <seg rend="736,145,1096,167">tendant, en considera<expan>ti</expan>on des pertes par luy souffertes </seg>
+                    <seg rend="62,162,456,180">et la non jouissance desd. fermes au moien des guerres, </seg>
+                    <seg rend="458,170,1094,188">il nous pleust luy faire rabaiz et modera<expan>ti</expan>on des trois quartz d’icelles, l’informa<expan>ti</expan>on faicte </seg>
+                    <seg rend="62,184,515,203">par les esleuz dud. Soissons desd. pertes et leur advis cy ataché, </seg>
+                    <seg rend="518,191,1093,210">ensemble la confirma<expan>ti</expan>on d’icelluy par vousd. tresoriers g<expan>e</expan>n<expan>er</expan>aux, avons, de l’advis </seg>
+                    <seg rend="62,209,677,226">de n<expan>ot</expan>red. conseil et conformement a celluy desd. esleus led. Terlan quitté et deschargé, </seg>
+                    <seg rend="681,214,1096,235">quictons et deschargeons par ces p<expan>rese</expan>ntes de la moictié du pris </seg>
+                    <seg rend="60,231,787,251">et adjudica<expan>ti</expan>on desd. fermes sans que pour l’advenir pour raison de ce luy en puisse estre demandé aucune chose. </seg>
+                    <seg rend="792,238,1096,257">Si vous mandons et ordonnons qu’en </seg>
+                    <seg rend="62,252,381,269">faisant led. Terlan joir du contenu en cesd. p<expan>rese</expan>ntes, </seg>
+                    <seg rend="384,254,1099,274">vous aiez par le receveur des aydes dud Soissons et tous aut®es qu’il apartiendra à le faire tenir quitté et </seg>
+                    <seg rend="62,273,504,293">deschargé des sommes a quoy se trouverront monter lesd descharges. </seg>
+                    <seg rend="507,277,1102,295">Et raportant par led. receveur sesd. p<expan>rese</expan>ntes avec certifficat dud. Terlan, comme il ne luy </seg>
+                    <seg rend="61,295,330,315"> aura aucune chose paié pour raison de ce, </seg>
+                    <seg rend="334,296,1099,316">voulons le tout estre passé et alloué en la despence des comptes dud. receveur et rabatue de sa re<expan>cep</expan>te par vous gens </seg>
+                    <seg rend="61,318,677,336">de nosd. comptes ausquelz mandons ainsy a le faire sans difficulté, car tel est n<expan>ost</expan>re plaisir. </seg>
+                    <seg rend="680,319,1094,364">Donné à Paris le XVI<hi rend="exposant">e</hi> jour de </seg>
+                    <seg rend="66,340,674,364">janvier l’an de grace mil cinq cens quatre-vingtz-dix et de n<expan>ost</expan>re regne le premier. </seg>
+                    <seg rend="71,386,411,430">Par le roy, au conseil estably prés </seg>
+                    <seg rend="78,437,411,463">monseigneur le duc de Mayenne </seg>
+                    <seg rend="77,468,254,490">lieutenant general.</seg>
+                    <seg rend="271,478,476,659">N<hi rend="small caps">ICOLAS</hi>.</seg>
+                    <!-- Le signe "#" manque alors qu'il est indiqué à la fin de la transcription à longues lignes -->
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <p>
+                        <term n="Charles de Bourbon (1528-1590), cardinal (1548) et archevêque de Rouen (1550-1590), est proclamé  roi de France pour le compte de la Ligue par un arrêt du parlement de Paris du 21 novembre 1589 qui  enjoint de le reconnaître sous le nom de Charles X. Prisonnier de son neveu Henri IV, il meurt le 9 mai  1590 à Fontenay-le-Comte." >Charles</term> par la grace de Dieu roy de France, a noz amez et feaux les <term n="gens de noz comptes : la Chambre des comptes, cour souveraine chargée de veiller à la préservation  du domaine royal et de là à la vérification des comptes publics. " >gens de noz comptes</term>, <term n="tresoriers de France : les trésoriers généraux de France, formant les bureaux des finances sont des  officiers dont la création remonte à 1552. Ils sont au nombre d’une dizaine par siège à l’époque du texte  et ont en charge notamment l’adjudication des baux à ferme et la surveillance du domaine royal." >tresoriers <lb/> de France</term> au bureau des finances estably a Paris, <term n="esleuz sur le faict des aydes et tailles : les élus sont des officiers chargés depuis le XIVe siècle de  la perception des impôts royaux directs, la taille, et des aides, taxes pesant sur les transactions des  principaux produits." >esleuz sur le faict des aydes et tailles</term> en l’election de <lb/> Soissons, salut. Veu la requete presentee en notre conseil le <hi rend="small caps">XXVII</hi><hi rend="exposant">e</hi> septembre dernier par Pierre <lb/> Terlan, fermier des <term n="huict et vingtieme du vin : droits d’octroi perçus sur la valeur du vin entrant en ville." >huict et vingtieme du vin</term>, boucherie, mercerie, poisson de mer, d’eaue douce, <lb/> tannerie, pelleterie, <term n="menu mestier : professions de moindre importance que les précédentes.  " >menu mestier</term>, toille, chevaux, <term n="pied fourché : droit d’octroi sur la viande de boucherie perçu à l’entrée des villes sur les bovins, les  ovins et les porcins. " >pied fourché</term>, pastre, thuille, chaux et autres <lb/> impositions de la ville de Soissons tendant, en consideration des pertes par luy souffertes et la non <lb/> jouissance desd. fermes au moien des guerres, il nous pleust luy faire rabaiz et moderation des trois <lb/> quartz d’icelles, l’information faicte par les esleuz dud. Soissons desd. pertes et leur advis cy ataché, <lb/> ensemble la confirmation d’icelluy par vousd. tresoriers generaux, avons, de l’advis de notred. conseil <lb/> et conformement a celluy desd. esleus led. Terlan quitté et deschargé, quictons et deschargeons par ces <lb/> presentes de la moictié du pris et adjudication desd. fermes sans que pour l’advenir pour raison de ce <lb/> luy en puisse estre demandé aucune chose. Si vous mandons et ordonnons qu’en faisant led. Terlan <lb/> joir du contenu en cesd. presentes, vous aiez par le receveur des aydes dud Soissons et tous autres qu’il <lb/> apartiendra à le faire tenir quitté et deschargé des sommes a quoy se trouverront monter lesd <lb/> descharges. Et raportant par led. receveur sesd. presentes avec certifficat dud. Terlan, comme il ne luy <lb/> aura aucune chose paié pour raison de ce, voulons le tout estre <term n="passé et alloué : la réduction consentie figurera comme un manque à gagner dans les comptes présentés  par le receveur et sera reconnue comme valable lors de leur examen." >passé et alloué</term> en la despence des <lb/> comptes dud. receveur et <term n="rabatue : déduite">rabatue</term> de sa recepte par vous gens de nosd. comptes ausquelz mandons <lb/> ainsy a le faire sans difficulté, <term n="car tel est nostre plaisir :  est la traduction de la formule latine Ita placitum est dont le sens littéral est : « ainsi  en avons-nous décidé ». Sa présence dans les lettres de chancellerie de l’époque moderne et purement formelle." > car tel est nostre plaisir</term>. </p>
+                    <p> Donné à Paris le <hi rend="small caps">XVI</hi><hi rend="small caps">e</hi> jour de janvier l’an de grace mil cinq cens quatre-vingtz-dix et de <term n="Notre regne : la première année du règne de Charles X commence théoriquement au 1er août 1589, date  de l’assassinat d’Henri III." >nostre <lb/> regne</term> le premier. Par le roy, au conseil estably prés monseigneur le <term n="Charles de Lorraine (1554-1611), duc de Mayenne, chef de la Ligue après la mort de son frère Henri de  Guise, reçoit le titre inédit de lieutenant général de l’état royal et couronne de France le 4 mars 1589." >duc de Mayenne lieutenant <lb/> general</term>. </p>
+                    <p> N<hi rend="small caps">ICOLAS</hi>. #
+                        <!-- Cf. ci-dessus : comment l'encoder ? Ce signe renvoie-t-il à un paraphe ? -->
+                    </p>
+                </div>
+                <div type="regeste">
+                    <head>1590, 16 janvier. — Paris.</head>
+                    <p> Charles X, roi de France, accorde à Pierre Terlan, fermier des aides et traites de Soissons, une réduction de moitié du montant de sa ferme en raison des difficultés de perception causées par les guerres. </p>
+                </div>
+            </div>
+
+
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+
+                <div n="1">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                    </div>
+
+                    <div type="contenu_commentaire">
+                        <p>
+
+                            <seg corresp="suscription" rend="color:#0099CC">Charles par la grace de Dieu roy de France<note xml:id="suscription" type="bulle" >Suscription</note></seg>
+                            <seg corresp="adresse" rend="color:#f90808">a noz amez et feaux les gens de noz comptes, tresoriers de France au bureau des finances estably a Paris, esleuz sur le faict des aydes et tailles en l’election de Soissons<note xml:id="adresse" type="bulle">Adresse</note></seg>
+                            <seg corresp="salut" rend="color:#f808c8">, salut.<note xml:id="salut" type="bulle">Salut</note></seg>
+                            <seg corresp="expose" rend="color:#01def8">Veu la requete presentee en notre conseil le <hi rend="small caps">XXVII</hi>
+                                <hi rend="exposant">e</hi> septembre dernier par Pierre Terlan, fermier des huict et vingtieme du vin, boucherie, mercerie, poisson de mer, d’eaue douce, tannerie, pelleterie, menu mestier, toille, chevaux, pied fourché, pastre, thuille, chaux et autres impositions de la ville de Soissons tendant, en consideration des pertes par luy souffertes et la non jouissance desd. fermes au moien des guerres, il nous pleust luy faire rabaiz et moderation des trois quartz d’icelles, l’information faicte par les esleuz dud. Soissons desd. pertes et leur advis cy ataché, ensemble la confirmation d’icelluy par vousd. tresoriers generaux, avons, de l’advis de notred. conseil et conformement a celluy desd. esleus led. Terlan quitté et deschargé, quictons et deschargeons par ces presentes de la moictié du pris et adjudication desd. fermes sans que pour l’advenir pour raison de ce luy en puisse estre demandé aucune chose.<note xml:id="expose" type="bulle">Exposé</note>
+                            </seg>
+                            <seg corresp="dispositif" rend="color:#0099CC">Si vous mandons et ordonnons qu’en faisant led. Terlan joir du contenu en cesd. presentes, vous aiez par le receveur des aydes dud Soissons et tous autres qu’il apartiendra à le faire tenir quitté et deschargé des sommes a quoy se trouverront monter lesd descharges. Et raportant par led. receveur sesd. presentes avec certifficat dud. Terlan, comme il ne luy aura aucune chose paié pour raison de ce, voulons le tout estre passé et alloué en la despence des comptes dud. receveur et rabatue de sa recepte par vous gens de nosd. comptes ausquelz mandons ainsy a le faire sans difficulté,<note xml:id="dispositif" type="bulle">Dispositif</note></seg>
+                            <seg corresp="clause_intentionnelle" rend="color:#f808c8">car tel est nostre plaisir. <note xml:id="clause_intentionnelle" type="bulle" >Clause intentionnelle</note></seg>
+                            <seg corresp="date" rend="color:#24b37f">Donné à Paris le <hi rend="small caps">XVI</hi><hi rend="exposant">e</hi> jour de janvier l’an de grace mil cinq cens quatre-vingtz-dix et de nostre regne le premier.<note xml:id="date" type="bulle">Date</note></seg>
+                            <seg corresp="jussio" rend="color:#f808c8">Par le roy, au conseil estably prés monseigneur le duc de Mayenne lieutenant general.<note xml:id="jussio" type="bulle">Mention de la jussio</note></seg>
+                            <seg corresp="signature" rend="color:#9999FF">N<hi rend="small caps" >ICOLAS</hi>(paraphe)<note xml:id="signature" type="bulle" >Signature et seing manuel du rédacteur</note></seg>
+                        </p>
+                    </div>
+                </div>
+                <div n="2">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p> L’expédition de ce mandement, établi au nom de Charles X par le conseil, est adressée à la Chambre des comptes (à la place de l’expression «gens de nos comptes » on rencontre aussi « genz tenant notre Chambre des comptes, etc... »<!-- la seconde guillemet est à l'envers dans le fichier Word : je rétablis --> ), aux trésoriers de France du bureau des finances de Paris et aux élus de Soissons. L’élection de Soissons dépend en effet de la généralité de Paris jusqu’en 1595, date de création d’une généralité indépendante pour inciter la ville à rejoindre le parti du roi. </p>
+                        <p> L’exposé précise que le fermier a adressé une requête au Conseil, lequel a commandé une enquête aux élus pour constater l’état véritable de la situation, avis ensuite confirmé par les trésoriers de France. Ce même mécanisme est utilisé par les communauté d’habitants sollicitant des rabais d’imposition pour diverses causes (calamités naturelles, etc..). Ainsi informé, le Conseil (dont on n’a pas conservé les registres pour cette période) arrête le taux de la réduction et mande aux différents officiers appelés à contrôler les comptes du receveur et l’exécution du bail du fermier de prendre en compte cette diminution (décharge). On n’en sait guère plus sur la genèse de l’acte, les registres d’audience du bureau des finances de Paris étant en déficit pour cette période, tout comme les archives fiscales de Soissons. </p>
+                        <p> Ce mandement en forme de petites lettres patentes suit le style habituel de la chancellerie royale : double datation par l’année de l‘incarnation et par l’année de règne, présence de la mention de <hi rend="italic" >jussio</hi> ici adaptée à la titulature et à la position politique inédites du duc de Mayenne, scellement sur simple queue de parchemin. Il porte en haut la mention des droit de chancellerie (<hi rend="small caps">XX</hi> l. <hi rend="small caps">VIII</hi> s. parisis). Ce mandement était jadis accompagné de lettres d’attache portant l’avis des élus et la confirmation des trésoriers de France, et scellé du sceau de Charles X sur simple queue. Une petite croix précède le corps du texte, qui paraît de la même encre que le reste du texte : il est délicat d’en proposer une interprétation dans l’attente d’un catalogue des actes royaux de la Ligue. </p>
+                        <p> Le paraphe du secrétaire s’apparente à un seing manuel de notaire, très développé, ce qui constitue, à cette époque et à la Grande Chancellerie, une forme d’archaïsme. </p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Bibliographie complémentaire</head>
+                    <div type="contenu_commentaire">
+                        <listBibl>
+                            <bibl><author>A<hi rend="small caps">SHTA</hi> (Emmanuelle)</author>,
+                                    <title level="u">Les trésoriers généraux de la généralité de Paris (1577-1643)</title>, thèse inédite de l’École nationale des Chartes,
+                                <!-- j'ajoute une majuscule au "c" de "Chartes" -->résumée dans
+                                    <title level="s">Positions des thèses des élèves de l’École nationale des chartes</title>, <pubPlace>Paris</pubPlace>, <date when-iso="1999">1999</date>, <biblScope type="pp">p. 25-31</biblScope>. </bibl>
+                            <bibl>
+                                <author>D<hi rend="small caps">ELAUME</hi> (Geneviève)</author>,
+                                    <title level="m">Le bureau des finances de la généralité de Paris</title>, <pubPlace>Paris</pubPlace>, <publisher>éd Cujas</publisher>, <date when-iso="1966">1966</date>, <biblScope type="pp">270 p</biblScope>. </bibl>
+                        </listBibl>
+                    </div>
+                </div>
+            </div>
+            <div type="commentaire" n="histoire">
+                <head>Commentaire historique</head>
+                <div n="1">
+                    <div type="contenu_commentaire">
+                        <p> Après l’exécution par le pouvoir royal le 23 décembre 1588 du duc Henri de Guise, la Ligue met en place une structure dirigeante bicéphale : le Conseil général de la Sainte Union et le duc de Mayenne. Ce dernier, proclamé lieutenant général de la couronne le 4 mars 1589, est assisté d’un Conseil d’État et il impose bientôt la présence de secrétaires d’État. La déchéance proclamée d’Henri III par un décret de la Faculté de théologie du 7 janvier puis son assassinat le 1<hi rend="exposant" >er</hi> août 1589 conduisent les ligueurs à proclamer roi de France le cardinal Charles de Bourbon qu’un arrêt du parlement de Paris du 21 novembre 1589 enjoint de reconnaître comme roi légitime sous le nom de Charles X. Prisonnier d’Henri IV, il meurt le 8 mai 1590 à Fontenay-le-Comte. </p>
+                        <p> Le cadre normal des institutions monarchiques est toutefois maintenu comme en témoigne cet acte. Il souligne aussi les difficultés rencontrées dans la perception des impôts du fait des troubles, et ce même dans les villes fidèles à la Ligue comme Soissons où Mayenne nomme régulièrement des officiers ; la ville lui sera d’ailleurs concédée comme place de sûreté par le traité de Follembray du 31 janvier 1596. Pierre Terlan, qui a pris à ferme des droits prélevés sur certaines marchandises entrant ou vendues à Soissons, obtient ainsi une réduction de la moitié du montant de son bail qu’il doit verser à l’administration ligueuse (en l’occurrence au receveur des aides de Soissons) au lieu des trois-quarts demandés. Il est possible qu’en échange, le Conseil qui a besoin d’argent frais, ait obtenu le paiement immédiat et en argent d’une partie de la somme. De tout façon, à la fin de l’année 1592, Mayenne accorde un affranchissement général d’impositions pour neuf ans aux habitants de Soissons, ce qui n’a pas dû faciliter le travail du fermier (Arch. nat., P 2747, fol. 417, 2 décembre 1592). </p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

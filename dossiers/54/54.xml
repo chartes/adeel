@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>1096. Notice (Poitou)</title>
+   </titleStmt>
+   <publicationStmt>
+    <idno type="numero">54</idno>
+    <publisher>Ecole nationale des chartes</publisher>
+   </publicationStmt>
+   <sourceDesc>
+    <p>Orig. : Archives privées au XIXe siècle ( " Cabinet B. Fillon à Fontenay-Vendée " )</p>
+    <p>Fac-sim. : ENC AF 490 (lithographie)</p>
+   </sourceDesc>
+  </fileDesc>
+  <profileDesc> </profileDesc>
+ </teiHeader>
+ <text>
+  <front> </front>
+  <body>
+   <div type="facsimile" rend="fax.jpg">
+    <p>
+     <seg rend="32,58,442,88">Posteror<expan>um</expan> multitudini notificare volumus </seg>
+     <seg rend="446,62,955,96">quod Jordanus Froterius de om<expan>n</expan>ibus
+      æccl<expan>es</expan>iis quas habe-</seg>
+     <seg rend="26,100,327,125">-[be]bat in vita sua ubicu<expan>m</expan>q<expan>ue</expan> essent </seg>
+     <seg rend="332,100,943,129">dedit feoda
+       pr<expan>es</expan>b<expan>i</expan>t<expan>er</expan>or<expan>um</expan> Fulconi filio suo
+      quando obtulit eu<expan>m</expan> D<expan>e</expan>o et Ademaro</seg>
+     <seg rend="28,132,421,161">ep<expan>iscop</expan>o ad clericu<expan>m</expan> et corona ei fuit
+      benedicta. </seg>
+     <seg rend="424,135,921,167">Postea ego Emma mater sua post morte<expan>m</expan> patri{s} sui
+      dedi</seg>
+     <seg rend="27,169,522,196">eu<expan>m</expan> s<expan>an</expan>c<expan>t</expan>o adjutori
+       Maxe<expan>n</expan>tio ad monachu<expan>m</expan> esse p<expan>er</expan>petuum </seg>
+     <seg rend="524,176,931,207">cu<expan>m</expan> om<expan>n</expan>ibus donis
+       æccl<expan>esi</expan>aru<expan>m</expan> sup<expan>r</expan>adictis et ipsa
+      c<expan>on</expan>cessi</seg>
+     <seg rend="34,208,611,237">et tradidi in manib<expan>us</expan> Archimbaudi
+      p<expan>r</expan>ioris et Goffredi de Roth<expan>e</expan>mancio </seg>
+     <seg rend="613,213,942,242">et Petri Fulcherii monachor<expan>um</expan>
+       s<expan>an</expan>c<expan>t</expan>i Maxe<expan>n</expan>tii,</seg>
+     <seg rend="26,245,517,276">videntib<expan>us</expan> testibus Guidone D<expan>avi</expan>d et
+      Fulcaudo de Salacans. </seg>
+     <seg rend="519,242,964,278">Ite<expan>m</expan> quoq<expan>ue</expan> ego
+      Guill<expan>el</expan>mus Jordanus et fr<expan>atre</expan>s mei Gi&#x2019;
+       {Rob<expan>er</expan>t<expan>us</expan>}, Go&#x2019; {Jorda}</seg>
+     <seg rend="25,284,407,315">Fulconi fr<expan>atr</expan>i n<expan>ost</expan>ro karissimo
+       ja<expan>m</expan> monaco facto </seg>
+     <seg rend="418,287,938,322">et Joh<expan>ann</expan>i de Gasnachia et Petro Fulcherio monachis
+      eodem modo</seg>
+     <seg rend="26,333,459,358">quo et mater n<expan>ost</expan>ra dedimus
+       s<expan>an</expan>c<expan>t</expan>o adjutori Maxentio </seg>
+     <seg rend="464,335,939,362">in p<expan>er</expan>petuu<expan>m</expan> absq<expan>ue</expan>
+      ulla requisicione cum capite corrigie</seg>
+     <seg rend="22,368,654,400">qua<expan>m</expan> habebam in manu, videntibus Petro Escarpil et
+      Constantino Calvello. </seg>
+     <seg rend="657,374,922,400">Et in capitulo etia<expan>m</expan>, quando</seg>
+     <seg rend="26,402,430,428">ad Pascha D<expan>omi</expan>ni recepit monachicu<expan>m</expan>
+       habitu<expan>m</expan>, </seg>
+     <seg rend="437,404,922,430">Garnerio abb<expan>at</expan>e tribuente et
+      p<expan>re</expan>sidente et om<expan>n</expan>ibus fr<expan>atr</expan>ib<expan>us</expan></seg>
+     <seg rend="26,449,664,476">in capitulo, ubi accepim<expan>us</expan>[us]
+      societate<expan>m</expan> et beneficiu<expan>m</expan> totius monasterii, </seg>
+     <seg rend="667,451,899,475">concessimus sicut <expan>et</expan> prius,</seg>
+     <seg rend="26,485,270,508">videntibus istis testibus. </seg>
+     <seg rend="277,477,910,514">S<expan>ubscripsit</expan> Guill<expan>el</expan>mus
+       {Jordan<expan>us</expan>}. S<expan>ubscripsit</expan> Goffredus fr<expan>ater</expan> ejus.
+       S<expan>ubscripsit</expan> Audeerius. S<expan>ubscripsit</expan> Giraudola.</seg>
+     <seg rend="25,514,478,549">S<expan>ubscripsit</expan> Bernardus {Gisleb<expan>er</expan>tus}.
+       S<expan>ubscripsit</expan> Archimbaudus {Aufred}. S<expan>ubscripsit</expan> Ugo
+       {monac<expan>us</expan>}. </seg>
+     <seg rend="484,514,881,545">S<expan>ubscripsit</expan> Joh<expan>anne</expan>s
+      {monac<expan>us</expan>}. S<expan>ubscripsit</expan> Constantinus {monac<expan>us</expan>}.
+       Om<expan>ne</expan>sq<expan>ue</expan> fr<expan>atre</expan>s simul.</seg>
+     <seg rend="25,559,414,589">Primu<expan>m</expan> donu<expan>m</expan> fuit
+      factu<expan>m</expan> t<expan>em</expan>p<expan>o</expan>re abb<expan>at</expan>is Ade </seg>
+     <seg rend="418,557,870,587">et s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>m Garnerii
+       t<expan>em</expan>p<expan>o</expan>rib<expan>us</expan> cu<expan>m</expan> supradictis
+      testibus.</seg>
+     <seg rend="29,629,290,664">Anno ab I<expan>n</expan>car<expan>natione</expan>
+      D<expan>omini</expan> M C VI, </seg>
+     <seg rend="298,629,904,664">quando Urbanus papa fuit S<expan>an</expan>c<expan>t</expan>onas et
+      signum crucis apparuit</seg>
+     <seg rend="30,677,569,706">in cælo, REGNANTE PHILIP{P}O REGE IN FRANTIA ET </seg>
+     <seg rend="572,671,880,696">Guill<expan>el</expan>mo comite in Aquitania,</seg>
+     <seg rend="24,714,678,748">Petro Pictaviense presule et Garnerio abbate
+      regentib<expan>us</expan> æccl<expan>es</expan>is suis.</seg>
+    </p>
+   </div>
+   <div type="transcription">
+    <div type="texte">
+     <l>Posteror<expan>um</expan> multitudini notificare volumus </l>
+     <l>quod Jordanus Froterius de om<expan>n</expan>ibus </l>
+     <l>æccl<expan>es</expan>iis quas habe[be]bat in vita sua </l>
+     <l>ubicu<expan>m</expan>q<expan>ue</expan> essent dedit <term
+       n="Le &#34;fief presbytéral&#34; désigne ce dont le prêtre de paroisse est investi pour vivre, le &#34;manse presbytéral&#34; des temps carolingiens, soit la dotation de l&#x2019;église (ici à la disposition d&#x2019;un patron laïque, qui finit par s&#x2019;en défaire) ; dans certains textes, l&#x2019;expression englobe les revenus perçus par le prêtre dans l&#x2019;exercice des ses fonctions (part des offrandes, etc.)."
+       >feoda</term>
+     </l>
+     <l><term
+       n="Le &#34;fief presbytéral&#34; désigne ce dont le prêtre de paroisse est investi pour vivre, le &#34;manse presbytéral&#34; des temps carolingiens, soit la dotation de l&#x2019;église (ici à la disposition d&#x2019;un patron laïque, qui finit par s&#x2019;en défaire) ; dans certains textes, l&#x2019;expression englobe les revenus perçus par le prêtre dans l&#x2019;exercice des ses fonctions (part des offrandes, etc.)."
+        >pr<expan>es</expan>b<expan>i</expan>t<expan>er</expan>or<expan>um</expan></term> Fulconi
+      filio suo </l>
+     <l>quando obtulit eu<expan>m</expan> D<expan>e</expan>o et <term
+       n="Adémar, évêque d&#x2019;Angoulême (1076-1101).">Ademaro</term>
+     </l>
+     <l>ep<expan>iscop</expan>o ad clericu<expan>m</expan> et corona ei fuit </l>
+     <l>benedicta. Postea ego Emma mater sua </l>
+     <l>post morte<expan>m</expan> patri{s} sui dedi eu<expan>m</expan>
+     </l>
+     <l>s<expan>an</expan>c<expan>t</expan>o adjutori <term
+       n="Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l&#x2019;École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l&#x2019;initiale de &#34;saint&#34;, car c&#x2019;est la personne même de celui-ci qui est invoquée comme patron."
+        >Maxe<expan>n</expan>tio</term> ad </l>
+     <l>monachu<expan>m</expan> esse p<expan>er</expan>petuum cu<expan>m</expan>
+     </l>
+     <l>om<expan>n</expan>ibus donis æccl<expan>esi</expan>aru<expan>m</expan>
+     </l>
+     <l>sup<expan>r</expan>adictis et ipsa c<expan>on</expan>cessi <expan>et</expan>
+     </l>
+     <l>tradidi in manib<expan>us</expan>
+      <term n="Archambaud : prieur de Saint-Maixent de 1096 à 1104 environ.">Archimbaudi</term>
+       p<expan>r</expan>ioris </l>
+     <l><expan>et</expan> Goffredi de <term
+       n="Romans (Deux-Sèvres, cant. Saint-Maixent-l&#x2019;École)."
+      >Roth<expan>e</expan>mancio</term> e et Petri </l>
+     <l>Fulcherii monachor<expan>um</expan> s<expan>an</expan>c<expan>t</expan>i </l>
+     <l>Maxe<expan>n</expan>tii, videntib<expan>us</expan> testibus Guidone </l>
+     <l><term
+       n="La restitution &#34;David&#34;, usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de &#34;Guido Davit&#34;."
+        >D<expan>avi</expan>d</term> et Fulcaudo de Salacans. Ite<expan>m</expan>
+     </l>
+     <l>quoq<expan>ue</expan> ego Guill<expan>el</expan>mus Jordanus et </l>
+     <l>fr<expan>atre</expan>s mei Gi' {Rob<expan>er</expan>t<expan>us</expan>}, Go' </l>
+     <l>{Jorda} Fulconi fr<expan>atr</expan>i n<expan>ost</expan>ro karissimo </l>
+     <l>ja<expan>m</expan> monaco facto et Joh<expan>ann</expan>i de </l>
+     <l><term n="La Garnache (Vendée, cant. Challans).">Gasnachia</term> et Petro Fulcherio monachis </l>
+     <l>eodem modo quo et mater n<expan>ost</expan>ra </l>
+     <l>dedimus s<expan>an</expan>c<expan>t</expan>o adjutori Maxentio in </l>
+     <l>p<expan>er</expan>petuu<expan>m</expan> absq<expan>ue</expan> ulla requisicione </l>
+     <l>cum <term
+       n="Dans un large sud-ouest, des courroies (nouées par les parties et/ou des témoins privilégiés) servaient traditionnellement d&#x2019;objet symbolique de passation des contrats."
+       >capite corrigie</term> qua<expan>m</expan> habebam in </l>
+     <l>manu, videntibus Petro Escarpil et </l>
+     <l>Constantino Calvello. Et in capitulo etia<expan>m</expan>, </l>
+     <l>quando ad pascha D<expan>omi</expan>ni recepit </l>
+     <l>monachicu<expan>m</expan> habitu<expan>m</expan>, <term
+       n="Garnier, abbé de Saint-Maixent de 1093 à 1106.">Garnerio</term>
+     </l>
+     <l>abb<expan>at</expan>e tribuente <expan>et</expan> p<expan>re</expan>sidente
+      <expan>et</expan>
+     </l>
+     <l>om<expan>n</expan>ibus fr<expan>atr</expan>ib<expan>us</expan> in capitulo, ubi </l>
+     <l>accepim<expan>us</expan>[us] <term
+       n="La &#34; société &#34; permet d&#x2019;associer un fidèle aux bienfaits spirituels de la communauté de prière."
+        >societate<expan>m</expan> et beneficiu<expan>m</expan></term>
+     </l>
+     <l>totius monasterii, concessimus sicut <expan>et</expan>
+     </l>
+     <l>prius, videntibus istis testibus. </l>
+     <l>S<expan>ubscripsit</expan>
+     </l>
+     <l>Guill<expan>el</expan>mus {Jordan<expan>us</expan>}. S<expan>ubscripsit</expan>
+     </l>
+     <l>Goffredus fr<expan>ater</expan> ejus. S<expan>ubscripsit</expan>
+     </l>
+     <l>Audeerius. S<expan>ubscripsit</expan> Giraudola. </l>
+     <l>S<expan>ubscripsit</expan> Bernardus {Gisleb<expan>er</expan>tus}. </l>
+     <l>S<expan>ubscripsit</expan> Archimbaudus {Aufred}. </l>
+     <l>S<expan>ubscripsit</expan> Ugo {monac<expan>us</expan>}. S<expan>ubscripsit</expan>
+     </l>
+     <l>Joh<expan>anne</expan>s {monac<expan>us</expan>}. S<expan>ubscripsit</expan>
+     </l>
+     <l>Constantinus {monac<expan>us</expan>}. Om<expan>ne</expan>sq<expan>ue</expan>
+     </l>
+     <l>fr<expan>atre</expan>s simul.</l>
+     <l>Primu<expan>m</expan> donu<expan>m</expan> fuit factu<expan>m</expan>
+       t<expan>em</expan>p<expan>o</expan>re </l>
+     <l>abb<expan>at</expan>is <term n="Adam, abbé de Saint-Maixent de 1087 à 1091.">Ade</term> et
+       s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>m Garnerii </l>
+     <l>t<expan>em</expan>p<expan>o</expan>rib<expan>us</expan> cu<expan>m</expan> supradictis
+      testibus.</l>
+     <l>Anno ab I<expan>n</expan>car<expan>natione</expan> D<expan>omini</expan> M C VI, </l>
+     <l>quando <term n="Urbain II, pape de 1088 à 1099.">Urbanus</term> papa fuit
+       S<expan>an</expan>c<expan>t</expan>onas </l>
+     <l><expan>et</expan> signum crucis apparuit in cælo, </l>
+     <l>RE GNANTE <term n="Philippe Ier, roi de France de 1060 à 1108.">PHILIP{P}O</term> REGE </l>
+     <l>IN FRANTIA ET <term
+       n="Guillaume le Jeune, VIIe comte de Poitou et IXe duc d&#x2019;Aquitaine de 1086/1087 à 1127."
+        >Guill<expan>el</expan>mo</term> comite </l>
+     <l>in Aquitania, <term n="Pierre II, évêque de Poitiers de 1087 à 1115.">Petro</term>
+      Pictaviense presule </l>
+     <l>et Garnerio abbate regentib<expan>us</expan>
+     </l>
+     <l>æccl<expan>es</expan>is suis.</l>
+    </div>
+    <div type="traduction">
+     <l>Nous voulons faire savoir à la multitude des </l>
+     <l>hommes à venir que Jourdain Frotier, de toutes </l>
+     <l>les églises qu'il avait de son vivant, où qu'elles </l>
+     <l>fussent, a donné les <term
+       n="Le &#34;fief presbytéral&#34; désigne ce dont le prêtre de paroisse est investi pour vivre, le &#34;manse presbytéral&#34; des temps carolingiens, soit la dotation de l&#x2019;église (ici à la disposition d&#x2019;un patron laïque, qui finit par s&#x2019;en défaire) ; dans certains textes, l&#x2019;expression englobe les revenus perçus par le prêtre dans l&#x2019;exercice des ses fonctions (part des offrandes, etc.)."
+       >fiefs presbytéraux</term> à son </l>
+     <l>fils Foulque quand il l'a offert comme clerc à </l>
+     <l>Dieu et à l'évêque <term n="Adémar, évêque d&#x2019;Angoulême (1076-1101)."
+      >Adémar</term> et que sa tonsure </l>
+     <l>a été bénie. Par la suite, moi, Emma, sa mère, </l>
+     <l>après la mort de son père, je l'ai donné au </l>
+     <l>saint adjuteur <term
+       n="Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l&#x2019;École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l&#x2019;initiale de &#34;saint&#34;, car c&#x2019;est la personne même de celui-ci qui est invoquée comme patron."
+       >Maixent</term> pour qu'il soit moine </l>
+     <l>pour toujours, avec tous les dons susdits </l>
+     <l>des églises, et j'en ai fait concession et </l>
+     <l>remise dans les mains d'<term
+       n="Archambaud : prieur de Saint-Maixent de 1096 à 1104 environ.">Archambaud</term>, prieur, </l>
+     <l>de Geoffroy de <term n="Romans (Deux-Sèvres, cant. Saint-Maixent-l&#x2019;École)."
+       >Romans</term> et de Pierre Foucher, </l>
+     <l>moines de saint Maixent ; étaient témoins </l>
+     <l>oculaires Guy <term
+       n="La restitution &#34;David&#34;, usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de &#34;Guido Davit&#34;."
+       >David</term> et Foulcaud de Salacans. </l>
+     <l>De même, moi, Guillaume Jourdain, et mes </l>
+     <l>frères Gi' Robert et Geo[ffroy] Jourdain, nous </l>
+     <l>avons donné [cela] à notre très cher frère </l>
+     <l>Foulque, quand il a été fait moine, à Jean de </l>
+     <l><term n="La Garnache (Vendée, cant. Challans).">La Garnache</term> et Pierre Foucher,
+      moines, </l>
+     <l>comme l'avait fait notre mère, en don </l>
+     <l>perpétuel au saint adjuteur Maixent, sans </l>
+     <l>réserve aucune, avec le <term
+       n="Dans un large sud-ouest, des courroies (nouées par les parties et/ou des témoins privilégiés) servaient traditionnellement d&#x2019;objet symbolique de passation des contrats."
+       >bout de la courroie</term>
+     </l>
+     <l>que j'avais dans la main ; sous les yeux de </l>
+     <l>Pierre Escarpil et Constantin Calvelle. Et une </l>
+     <l>fois encore, au chapitre, quand à la Pâque </l>
+     <l>du Seigneur il a reçu l'habit monastique des </l>
+     <l>mains et sous la présidence de l'abbé </l>
+     <l><term n="Garnier, abbé de Saint-Maixent de 1093 à 1106.">Garnier</term> avec tous les moines
+      en chapitre, où </l>
+     <l>nous avons reçu l'<term
+       n="La &#34; société &#34; permet d&#x2019;associer un fidèle aux bienfaits spirituels de la communauté de prière."
+       >association et bienfait</term> de </l>
+     <l>tout le monastère, nous avons fait la même </l>
+     <l>concession qu'auparavant ; devant les témoins </l>
+     <l>oculaires qui suivent.</l>
+     <l/>
+     <l/>
+     <l/>
+     <l>A souscrit Guillaume </l>
+     <l>Jourdain. A souscrit Geoffroy son frère. A </l>
+     <l>souscrit Audier. A souscrit Giraudole. A souscrit </l>
+     <l>Bernard Gilbert. A souscrit Archambaud </l>
+     <l>Aufred. A souscrit Hugues, moine. A souscrit </l>
+     <l>Jean, moine. A souscrit Constantin, moine. </l>
+     <l>Et tous les frères ensemble.</l>
+     <l/>
+     <l/>
+     <l/>
+     <l>Le premier don fut fait du temps de l'abbé </l>
+     <l><term n="Adam, abbé de Saint-Maixent de 1087 à 1091.">Adam</term> et le second aux temps de
+      Garnier </l>
+     <l>avec les susdits témoins.</l>
+     <l>En l'an 1106 de l'Incarnation du Seigneur, </l>
+     <l>quand le pape <term n="Urbain II, pape de 1088 à 1099.">Urbain</term> fut à Saintes et que
+      le </l>
+     <l>signe de la croix apparut dans le ciel, SOUS </l>
+     <l>LE RÈGNE DU ROI <term n="Philippe Ier, roi de France de 1060 à 1108.">PHILIPPE</term> EN
+      FRANCE </l>
+     <l>et sous <term
+       n="Guillaume le Jeune, VIIe comte de Poitou et IXe duc d&#x2019;Aquitaine de 1086/1087 à 1127."
+       >Guillaume</term> comte en Aquitaine, sous </l>
+     <l><term n="Pierre II, évêque de Poitiers de 1087 à 1115.">Pierre</term> évêque de Poitiers,
+      l'abbé Garnier </l>
+     <l>régissant ses églises.</l>
+    </div>
+    <div type="commentaires">
+     <div>
+      <head>Note sur la transcription</head>
+      <p>Les &#34;e cédillés&#34; sont rendus par &#34;æ&#34; ; les crochets droits
+       [ ] encadrent des lettres inscrites par erreur par le scribe, les accolades { } des mots ou
+       lettres par lui écrits en interligne.</p>
+     </div>
+     <div>
+      <head>Observation sur la date</head>
+      <p>La mention faite du pape Urbain II (mort en 1099) est inconciliable avec l&#x2019;année
+       indiquée par l&#x2019;acte, 1106. Or l&#x2019;on sait que le pape Urbain II a
+       séjourné à Saintes du 12 au 20 avril 1096, ce qui permet d&#x2019;incriminer une erreur
+       de graphie, le scribe omettant (en recopiant un modèle ou sous le seul effet d&#x2019;une
+       dictée intérieure) le X de MXCVI. La date corrigée est conciliable avec les dates connues de
+       tous les autres personnages cités, et concorde mieux avec ce que l&#x2019;on connaît des
+       dates du prieur Archambaud.</p>
+     </div>
+    </div>
+    <div type="regeste">
+     <head>1096.</head>
+     <p>Notice rapportant qu&#x2019;Emma, puis ses fils Guillaume Jourdain, Gi&#x2019;
+      Robert et Geoffroy Jourdain ont approuvé, à l&#x2019;occasion de la prise
+      d&#x2019;habit au monastère de Saint-Maixent, sous l&#x2019;abbatiat de Garnier, de
+      leur fils et frère Foulque, l&#x2019;abandon fait par son feu père, Jourdain Frotier, des
+      fiefs presbytéraux de toutes les églises que possédait ce dernier, lorsque Foulque a été
+      offert comme clerc et tonsuré par l&#x2019;évêque [d&#x2019;Angoulême] Adémar, au
+      temps de l&#x2019;abbé Adam.</p>
+     <div type="precision">
+      <p>L&#x2019;acte a déjà été édité par Alfred Richard, <hi rend="italique">Chartes et
+        documents pour servir à l&#x2019;histoire de l&#x2019;abbaye de Saint-Maixent</hi>,
+       t. I, Poitiers, 1886 (<hi rend="italique">Archives historiques du Poitou</hi>, 16), n° 191,
+       p. 223-224.</p>
+     </div>
+    </div>
+   </div>
+
+   <div type="commentaire" n="diplomatique">
+    <head>Commentaire diplomatique</head>
+    <div n="1">
+     <head>Caractères externes</head>
+     <div type="contenu_commentaire">
+      <p>
+       <figure rend="54/faxexternes.jpg">
+        <figDesc>
+         <seg type="circle" rend="21,32,20">Initiale grossie et ornée.</seg>
+         <seg type="circle" rend="232,85,10">Signe de ponctuation majeure en forme de point et
+          virgule (scande le discours et est suivi d?une initiale majuscule).</seg>
+         <seg type="circle" rend="292,105,11">Signe de ponctuation mineur en forme de point en
+          milieu de ligne (annonce des périodes mineures et isole la plupart des noms propres dans
+          les listes).</seg>
+
+         <seg type="circle" rend="518,145,14">Disposition typique dans l’Ouest : des désignations
+          anthroponymiques complémentaires sont inscrites en interligne, au-dessus du nom personnel.</seg>
+         <seg type="circle" rend="369,258,9">Autre signe de ponctuation mineur.</seg>
+        </figDesc>
+       </figure>
+      </p>
+      <p>Le format est relativement modeste, assez courant dans ses dimensions plus larges que
+       hautes. Le texte n’est pas justifié à droite, peut-être parce que le scribe évite les
+       coupures en fin de ligne (une coupure unique en fin de ligne 1), plutôt parce qu’il ne s’en
+       soucie pas. L’interlignage est en revanche régulier, sauf entre les lignes 11 et 12, sans que
+       l’organisation de l’acte le justifie.</p>
+      <p>On n’en perçoit que plus clairement la volonté de séparer, au bas du parchemin, la riche
+       formule de date, sur trois lignes. Une telle disposition est traditionnelle, aussi bien dans
+       les formules de date des actes royaux et pontificaux que dans les formules de souscriptions
+       de rédacteurs d'actes privés. Il est vraisemblable que le complément de datation (« Primum
+       donum... », quatrième ligne avant la fin) a été ajouté par le scribe dans un second temps,
+       comme en écho à la formule finale de date.</p>
+      <p>La graphie se veut d’une très grande clarté. Les abréviations sont assez légères ; la
+       ponctuation, pertinente, reste discrète. L’écriture, comme souvent aux X<hi rend="exposant"
+        >e</hi>-XI<hi rend="exposant">e</hi> siècles, n’a pas une forte spécificité diplomatique.
+       Les “i” sont pointés et les signes d’abréviation clairement distingués. Le “c” et le “t” sont
+       nettement différenciés et les jambages sont clairement assemblés (peu de confusions possibles
+       entre “u” et “n”...). Les capitales sont nettement marquées, mais sans ornementation. Seule
+       l’initiale est grossie et pourvue d’une ébauche d’ornementation. À part, la mention du règne
+       du roi se détache au bas de l’acte, en capitales. Le tout apparaît donc soigné, mais sans
+       effort notable de solennité.</p>
+
+      <p>Au reste, quelques bourdes sont à noter : “habebat” est coupé entre les lignes 1 et 2,
+       mais, si le scribe a pris la peine de ménager un trait en fin de ligne, il a répété par
+       erreur la syllabe “be” au début de la ligne suivante ; à la ligne 11, il a porté une
+       abréviation “us” après le m de “accepimus”, alors qu'il avait écrit le mot en toutes lettres
+       ; enfin et surtout, il a défiguré l’année de l’Incarnation (MCVI pour MXCVI). On ne peut par
+       contre mettre au chapitre des bévues la façon de noter l’abréviation de “ab Incarnatione”, où
+       le tilde placé sur le “b” porte en fait sur le “i” : les coupures de mots sont devenues
+       normales à l’époque, mais elles ne concernent pas la plupart du temps les outils comme les
+       prépositions, soudés au mot sur lequel ils portent.</p>
+
+     </div>
+    </div>
+    <div n="4">
+     <head>La langue et le style</head>
+     <div type="contenu_commentaire">
+      <p>Comme les caractères externes, la langue et le style dénoncent à la fois le soin apporté à
+       la rédaction et l’absence de toute solennité. Le latin est clair, facile à traduire ; il est
+       perméable à la langue vulgaire quand il faut citer des noms propres. Le rédacteur scande le
+       texte de façon sobre et efficace, mais sans grâce, pour préciser les différents temps des
+       actions à répétitions, sur un canevas assez simple, où reviennent avec insistance les
+       mentions de témoignages oculaires et de cérémonies, comme pour mieux ancrer la donation et
+       ses confirmations dans le réel (<hi rend="italic">Postea... videntibus... Item quoque...
+        videntibus... Et... quando... videntibus...</hi>). </p>
+      <p> Tourné en forme subjective au cours du long récit auquel il se résume presque, l’acte
+       semble enregistrer la prise de parole successive de la mère et des frères de l’oblat devenu
+       moine. La notification initiale, pourtant, avec un “nous” collectif pas mieux explicité,
+       porte à faux. De même, le traditionnel “S” barré du <hi rend="italic">signum</hi> (plus ou
+       moins autographe) des souscripteurs est manié de curieuse façon : il est suivi d’un
+       nominatif, en lieu et place du génitif usuel (“Ceci est le seing d’Untel”) ; quand bien même
+       l’on a choisi de le transcrire “Subscripsit”, pour être mieux en accord avec la grammaire,
+       l’introduction (qui annonce une liste de témoins) et la conclusion (<hi rend="italic"
+        >omnesque fratres simul</hi>) montrent que ce “S” barré a plus une valeur de marqueur
+       graphique de la présence et du consentement, qu’une fonction grammaticale et technique de
+       “seing de souscription”, et ce d’autant que personne n’est apparemment prié de souscrire...
+       L’acte enfin ne porte aucune souscription-recognition de rédacteur. </p>
+
+      <p>En bref, s’il est encore présent par lambeaux, le système strict de l’acte privé du haut
+       Moyen Âge a bel et bien cessé de vivre. Les diplomatistes anciens ont souvent traité avec
+       mépris cette évolution, lue sur le mode de la décadence, plutôt que sur celui du maintien de
+       formes traditionnelles, subverties en sous-œuvre. </p>
+      <p>L’emphase rédactionnelle et graphique mise sur la formule de date est remarquable. Si les
+       actes royaux sont normalement datés de l’Incarnation depuis plus d’un siècle, celle-ci
+       connaît alors une étape essentielle de diffusion dans l’acte « privé ». Plus caractéristiques
+       encore sont le souci de croiser les datations exprimées par rapport aux puissances, pape et
+       roi, duc et évêque (avec une prime au roi de France, qui appelle des majuscules : la
+       référence aux années du roi était la seule usuelle dans l’acte du haut Moyen Âge), et encore
+       le croisement avec des notations annalistiques régionales, passage du pape, signe céleste...</p>
+      <p>La date exprimée dans de tels actes est difficile à interpréter et, ici aussi, dévoile de
+       redoutables difficultés. Le scribe a certes eu ici la volonté tardive de préciser la datation
+       relative des deux dons successifs par rapport à deux abbatiats successifs (le don initial du
+       père, apparemment décédé, puis les donations-confirmations de la mère et des frères). Mais
+       que conclure, quand on trouve dans le chartrier de Saint-Maixent un autre acte au double nom
+       du père et de la mère, Jourdain et Emma, tout uniment daté de 1096, sous l’abbatiat de
+       Garnier, et où le père est présenté comme encore en vie (éd. A. Richard, n° 190) ?</p>
+      <p>Par petites touches, l’examen détaillé de l’acte impose donc l’idée que ces inflexions et
+       apparentes bizarreries sont moins l’effet d’une dégénerescence que d’un changement de
+       perspective, dû au fait que l’acte n’est plus composé par un rédacteur professionnel assumant
+       un point de vue extérieur, mais par l’un des protagonistes, le bénéficiaire monastique en
+       l’occurrence. Avec des lambeaux des formulaires anciens, il a créé un type entièrement
+       nouveau, une « notice » qui vise à garder par écrit un trésor de mémoire, confié au “Nous” de
+       la grande communauté des moines présents et futurs ; un document par ailleurs assez couvert
+       par la sacralité du lieu pour qu’il puisse, du moins l’espère-t-on, garder un pouvoir actif
+       sur la société, avant que les instances supérieures, à nouveau, n’imposent au cours du XII<hi
+        rend="exposant">e</hi> siècle de nouveaux standards transcendant progressivement ces usages
+       “particularistes” mais tout autres que décadents. </p>
+     </div>
+    </div>
+   </div>
+  </body>
+ </text>
+</TEI>

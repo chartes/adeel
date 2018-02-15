@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1467. Milan. Salluste, De conjuratione Catilinae.</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">8</idno>
+				<publisher>Ecole nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : Bibl. nat. Fr., ms. lat. 18272, fol. 1.</p>
+				<p>Fac-sim. ENC : NF 347 (héliogravure).</p>
+				<p>(I, 1-6). Ms. exécuté pour Ludovic-Marie Sforza.</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+        	                                <p>
+                                                    <seg rend="13,11,105,87">HIC VERGES NIT</seg>
+                                                    <seg rend="571,8,676,86">MERITO ET TEMPORE</seg>
+                                                    <seg n="circle" rend="622,444,52">A BON DROIT</seg>
+                                                    <seg rend="566,811,668,965">MIT RAIT [lire : ZAIT]</seg>
+                                                    <seg rend="381,252,553,273">Omnes homines</seg>
+                                                    <seg rend="382,281,552,294">qui sese student (i)</seg>
+                                                    <seg rend="382,306,553,322">prestare ceteris ani-</seg>
+                                                    <seg rend="383,329,554,346">-mantibus su<expan>m</expan>ma (o)</seg>
+                                                    <seg rend="381,355,555,369">ope niti decet ne</seg>
+                                                    <seg rend="382,379,555,394">vitam silentio tra<expan>n</expan>-</seg>
+                                                    <seg rend="384,403,554,417">-seant veluti pecora</seg>
+                                                    <seg rend="380,429,550,442">quae natura prona</seg>
+                                                    <seg rend="382,451,547,467">atq<expan>ue</expan> ventri obedie<expan>n</expan>-</seg>
+                                                    <seg rend="378,478,553,491">-tia fincxit; sed om<expan>n</expan>is</seg>
+                                                    <seg rend="381,503,558,514">nostra jus [lire vis] in animo</seg>
+                                                    <seg rend="102,523,554,536">et corpore sita est. Animi imperio corporis qua<expan>m</expan> [lire que] ser-</seg>
+                                                    <seg rend="105,548,542,560">-vitio magis utimur. Alterum nobis cum diis, al-</seg>
+                                                    <seg rend="102,571,545,584">-terum cum beluis comune est. Quo mihi recti<expan>us</expan></seg>
+                                                    <seg rend="106,596,546,609">esse videtur ingenii qua<expan>m</expan> virium opibus gloriam (i)</seg>
+                                                    <seg rend="105,621,552,633">querere et, quoniam ipsa vita qua fruimur brevis</seg>
+                                                    <seg rend="105,646,546,659">est, memoriam nostri quam maxim(a)e longam efficere.</seg>
+                                                    <seg rend="106,670,540,681">Nam divitiarum et formae gloria fluxa atq<expan>ue</expan> fragi-</seg>
+                                                    <seg rend="104,693,542,705">-lis est, virtus clara aeternaque habetur. Sed diu int<expan>er</expan></seg>
+                                                    <seg rend="104,718,545,734">mortales magnum certamen fuit vine corporis (i)</seg>
+                                                    <seg rend="103,743,544,755">an virtute animi re<expan>s</expan> militaris magis proced<expan>er</expan>et. Nam</seg>
+                                                    <seg rend="106,764,553,777">priusq<expan>u</expan>a<expan>m</expan> incipias consulto et postq<expan>u</expan>a<expan>m</expan> consulueris ma- [ture facto opus est...</seg>
+                                                </p>
+			</div>
+			<div type="transcription">
+			    <div type="texte">
+			        <l>[Devises dans la bordure :]</l>
+			        <l>HIC VERGES NIT</l>
+                                                    <l>MERITO ET TEMPORE</l>
+                                                    <l>A BON DROIT</l>
+                                                    <l>MIT RAIT [lire : ZAIT]</l>
+                                                    <l/>
+                                                    <l>Omnes homines qui sese student (i)</l>
+                                                    <l>prestare ceteris animantibus su<expan>m</expan>ma </l>
+                                                    <l>(o) ope niti decet ne vitam silentio tra<expan>n</expan>-</l>
+                                                    <l>-seant veluti pecora quae natura prona atq<expan>ue</expan> ventri </l>
+                                                    <l>obedie<expan>n</expan>tia fincxit; sed om<expan>n</expan>is nostra jus [lire vis] in animo</l>
+                                                    <l>et corpore sita est. Animi imperio corporis qua<expan>m</expan> [lire que] </l>
+                                                    <l>servitio magis utimur. Alterum nobis cum diis, al-</l>
+                                                    <l>-terum cum beluis comune est. Quo mihi recti<expan>us</expan></l>
+                                                    <l>esse videtur ingenii qua<expan>m</expan> virium opibus gloriam (i)</l>
+                                                    <l>querere et, quoniam ipsa vita qua fruimur brevis</l>
+                                                    <l>est, memoriam nostri quam maxim(a)e longam efficere.</l>
+                                                    <l>Nam divitiarum et formae gloria fluxa atq<expan>ue</expan> fragi-</l>
+                                                    <l>-lis est, virtus clara aeternaque habetur. Sed diu int<expan>er</expan></l>
+                                                    <l>mortales magnum certamen fuit vine corporis (i)</l>
+                                                    <l>an virtute animi re<expan>s</expan> militaris magis proced<expan>er</expan>et. Nam</l>
+                                                    <l>priusq<expan>u</expan>a<expan>m</expan> incipias consulto et postq<expan>u</expan>a<expan>m</expan> consulueris </l>
+                                                    <l>ma- [ture facto opus est...</l> 
+			    </div>
+			    <div type="traduction">
+			        <l>[Devises dans la bordure :]</l>
+                                                    <l>[Allemand :] Je n&#x2019;oublie pas.</l>
+                                                    <l>Par le mérite et le temps.</l>
+                                                    <l>A bon droit.</l>
+                                                    <l>[Allemand :] Avec le temps.</l>
+                                                    <l/>
+                                                    <l>Tous ceux qui s&#x2019;efforcent de s&#x2019;élever au-dessus des autres êtres </l>
+                                                    <l>doivent travailler de toutes leurs forces à ne point passer leur </l>
+                                                    <l>vie dans un obscur silence comme les animaux que la nature a </l>
+                                                    <l>penchés  vers la terre et asservis à leur ventre. Or toute notre force</l>
+                                                    <l> réside dans l&#x2019;esprit et dans le corps. L&#x2019;esprit est fait davantage pour </l>
+                                                    <l>commander, le corps pour obéir ; l&#x2019;un nous est commun avec </l>
+                                                    <l>les dieux, l&#x2019;autre avec les bêtes. Aussi me paraît-il plus juste de</l>
+                                                    <l>recourir à l&#x2019;intelligence plutôt qu&#x2019;à la force pour conquérir</l>
+                                                    <l>la gloire et, puisque la vie même dont nous jouissons est courte,</l>
+                                                    <l>pour prolonger le plus possible le souvenir que nous laisserons.</l>
+                                                    <l>Car la gloire des richesses et de la beauté est fragile et périssable ;</l>
+                                                    <l>l&#x2019;éclat de la vertu demeure éternellement. Mais, depuis longtemps,</l>
+                                                    <l>les mortels disputent ardemment : est-ce la force physique</l>
+                                                    <l>ou la vigueur de l&#x2019;esprit qui l&#x2019;emporte dans l&#x2019;art militaire ? Car</l>
+                                                    <l>avant d&#x2019;agir il faut réfléchir, et après la réflexion, vite</l>
+                                                    <l>[passer à l&#x2019;action...</l>
+                                                    <l/>
+                                                    <l>[D&#x2019;après la traduction d&#x2019;A. Ernout (Coll. des universités de France).]</l>
+			    </div>
+			</div>
+		    <div type="commentaire" n="paleographie">
+		        <head>Commentairepaléographique</head>
+		        <div n="1">  
+		            <head>Ecriture</head>
+		            <div type="contenu_commentaire">
+		                         
+		                <p> 		                    
+		                    Ce manuscrit présente les traits typiques d'un <hi rend="bold">livre de luxe</hi> 
+		                    destiné à la bibliothèque d'un prince, à la fois 
+		                    par le soin formel apporté à l'écriture et au décor, 
+		                    et par la médiocre qualité du texte.</p>
+		                <p>Cette<hi rend="bold"> littera antiqua</hi> ou humanistique, est loin 
+		                    d'être parfaitement maîtrisée et régulièe, 
+		                    mais appartient à un type très formel. La<hi rend="bold"> littera antiqua 
+		                    </hi>est issue des recherches entreprises par les humanistes florentins à 
+		                    partir de la seconde moitié du XIVe siècle, abouties au début 
+		                    du XVe, et visant à retrouver l'élégance et la clarté 
+		                    de la minuscule caroline. Elle a été utilisée d'abord 
+		                    pour copier les textes de l'Antiquité latine, puis son transfert du 
+		                    manuscrit à l'imprimé et du latin aux langues vernaculaires 
+		                    de l'Europe lui a assuré une hégémonie universelle jusqu'à 
+		                    nos jours.</p>		                
+		                <p>Les lettres <hi rend="bold">i</hi> et  <hi rend="bold">o</hi> biffées en fin de ligne
+		                    (2, 4, 15, 20) sont les marques les plus claires de la prééminence 
+		                    accordée à l'esthétique : selon un usage déjà 
+		                    répandu dans les manuscrits gothiques, elles n'ont été 
+		                    placées là que pour limiter le blanc avant la marge de droite.</p>
+		                <p> <hi rend="bold">Les erreurs</hi> de copie et de latin ne manquent pas : 
+		                    voir, dès la 11e ligne du manuscrit, la confusion élémentaire 
+		                    <hi rend="bold">ius/uis</hi> ( <hi rend="bold">jus/vis</hi>). Les  <hi rend="bold">e</hi> cédillés, 
+		                    représentant en principe la diphtongue  <hi rend="bold">ae</hi>, sont distribués 
+		                    sans grand discernement : voir  <hi rend="bold">prestare</hi> (3) ou  <hi rend="bold">maxime</hi> 
+		                    (17).</p>
+		            </div>
+		        </div>
+		        <div n="2">	
+		            <head>Abréviations</head>
+		            <div type="contenu_commentaire">
+		                <p>Les numéros entre parenthèses renvoient 
+		                    aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>
+		                <p> 		                    
+		                    Les abréviations, en nombre modéré (autre caractéristique 
+		                    des livres de luxe) portent principalement sur la lettre <hi rend="bold">q</hi> et sur 
+		                        la fin des lignes, où apparaissent le tilde et les signes <em>us</em> 
+		                    (14) et  <hi rend="bold">er</hi> (19), en vue d'optimiser la longueur de la ligne en fonction 
+		                    de la coupure syllabique. Non sans des erreurs d'anticipation : raccourcissant 
+		                    le mot <hi rend="bold">summa</hi> (4) par un tilde intempestif, le copiste 
+		                    s'oblige à ajouter un <em>o</em> biffé pour compléter la 
+		                    ligne.</p>
+		                
+		                <p> <hi rend="bold">Les ambiguïtés</hi> intrinsèques de cette écriture 
+		                    à première vue bien formalisée peuvent être illustrées 
+		                    en décortiquant l'abréviation de la syllabe  <hi rend="bold">quam</hi>, 
+		                    où se révèlent des contaminations entre des signes d'origine 
+		                    diverse. Cette abréviation comprend en principe un  <hi rend="bold">a 
+		                        suscrit </hi>, représenté ici par une forme semblable à 
+		                    un oméga qui, normalement, correspondrait plutôt à une 
+		                    variété de simple tilde (variété empruntée 
+		                    à l'écriture des inscriptions). Le <hi rend="bold">a</hi> suscrit habituel, 
+		                    sous forme de trait fortement ondulé, reparaît dans <hi rend="bold">priusquam</hi> 
+		                    et <hi rend="bold">postquam</hi> (dernière ligne). Le copiste utilise pourtant 
+		                    ailleurs ce même signe pour l'abréviation <hi rend="bold">er/re</hi> : 
+		                    dans <hi rend="bold">procederet</hi> (avant-dernière ligne).</p>
+		                
+		                <p>De même, une forme unique, ressemblant au chiffre <hi rend="bold">3</hi>, 
+		                    sert à représenter deux signes différents : </p>
+		                <ul>
+		                    <li>une simple variante graphique,<hi rend="bold">m</hi> vertical, 
+		                        sans valeur abréviative, ici employée dans <hi rend="bold">nam</hi> (avant-dernière 
+		                        ligne) pour serrer la fin de la ligne, selon un usage déjà 
+		                        répandu dans les manuscrits gothiques ;</li>
+		                    <li>le signe qui accompagne <hi rend="bold">q</hi> dans les abréviations 
+		                        de <hi rend="bold">-que</hi> (conjonction enclitique) et <em>quam</em>, signe issu de l'évolution 
+		                        cursive d'une ancienne abréviation en forme de point-virgule ; 
+		                        ici comme pour le <hi rend="bold">a</hi> suscrit, le copiste commence par une variante 
+		                        très formelle d'inspiration épigraphique, mais retourne dès 
+		                        la fin de la page à une forme plus banale dans les manuscrits et 
+		                        les documents (<hi rend="bold">postquam</hi>, dernière ligne).</li>
+		                    
+		                </ul>
+		                <p>Sans ce lapsus final, on aurait pu croire que <hi rend="bold">quam</hi> était tracé 
+		                    dans ce texte de manière aberrante, avec un <hi rend="bold">m</hi> final vertical 
+		                    au lieu d'un simple signe d'abréviation sur <hi rend="bold">q</hi> (le résultat 
+		                    de la lecture serait de toute façon le même).</p>
+		                
+		               
+		            </div>
+		            </div>
+		        
+		        
+		        
+		        </div>
+		    
+		    
+		</body>
+	</text>
+</TEI>
+

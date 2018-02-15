@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1277, 19 mai. Acte capitulaire (Toulouse)</title>
+         </titleStmt>
+         <publicationStmt>
+            <idno type="numero">42</idno>
+            <publisher>Ecole nationale des chartes</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Orig. : Bibl. nat. Fr.</p>
+            <p>Fac-sim. : ENC Ancien fonds 496 (lithographie).</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc> </profileDesc>
+   </teiHeader>
+   <text>
+      <front> </front>
+      <body>
+         <div type="facsimile" rend="fax.jpg">
+            <p>
+               <seg rend="11,11,267,42">Nov<expan>er</expan>int univ<expan>er</expan>si
+                  q<expan>uod</expan> nos Vital<expan>is</expan>, </seg>
+               <seg rend="268,15,678,40">Dei gr<expan>ati</expan>a prepositus
+                  ecc<expan>lesi</expan>e S<expan>an</expan>c<expan>t</expan>i Stephani sedis
+                     Thol<expan>ose</expan>, <expan>et</expan> capitulu<expan>m</expan></seg>
+               <seg rend="29,49,294,73">ej<expan>us</expan>d<expan>em</expan>
+                  ecc<expan>lesi</expan>e facim<expan>us</expan>,
+                  <expan>con</expan>stituim<expan>us</expan>
+               </seg>
+               <seg rend="294,48,653,74"><expan>et</expan> et<expan>iam</expan>
+                  ordinam<expan>us</expan> c<expan>er</expan>tum et sp<expan>ecia</expan>lem
+                     p<expan>ro</expan>curatore<expan>m</expan>
+                  n<expan>ost</expan>r<expan>u</expan>m</seg>
+               <seg rend="28,82,417,112">disc<expan>re</expan>tum viru<expan>m</expan>
+                     mag<expan>ist</expan>r<expan>u</expan>m Arnaldum Bartholomei, </seg>
+               <seg rend="423,82,677,106">jur<expan>is</expan>p<expan>er</expan>itu<expan>m</expan>,
+                     p<expan>re</expan>sentis p<expan>ro</expan>c<expan>ur</expan>atorii exibi-</seg>
+               <seg rend="27,116,392,141">-torem, ad comparendu<expan>m</expan>
+                  <expan>et</expan> existendu<expan>m</expan> p<expan>ro</expan>
+                  nob<expan>is</expan>
+               </seg>
+               <seg rend="394,112,674,138"><expan>et</expan> no<expan>m</expan>i<expan>n</expan>e
+                     n<expan>ost</expan>ro in p<expan>ro</expan>xi<expan>m</expan>o concilio
+                     ap<expan>ud</expan></seg>
+               <seg rend="27,148,293,178">Bitterr<expan>im</expan> convocato p<expan>er</expan>
+                     rev<expan>er</expan>endu<expan>m</expan>
+               </seg>
+               <seg rend="296,146,689,176">in Chr<expan>ist</expan>o patre<expan>m</expan>
+                     d<expan>omi</expan>n<expan>u</expan>m P., D<expan>e</expan>i
+                  p<expan>ro</expan>videncia s<expan>an</expan>c<expan>t</expan>e</seg>
+               <seg rend="27,183,248,211">Narbon<expan>ensis</expan> ecc<expan>lesi</expan>e
+                     archiep<expan>iscopu</expan>m, </seg>
+               <seg rend="249,183,675,212">et ad audiendu<expan>m</expan>
+                  <expan>et</expan> suscipie<expan>n</expan>du<expan>m</expan> mandata
+                  <expan>et</expan> ordinat<expan>i</expan>o<expan>n</expan>es</seg>
+               <seg rend="27,223,271,244">que in d<expan>i</expan>c<expan>t</expan>o fient concilio, </seg>
+               <seg rend="274,218,670,248">sic<expan>ut</expan> ea suscipie<expan>n</expan>t
+                     ven<expan>er</expan>abiles patres et d<expan>omi</expan>ni
+                  p<expan>re</expan>lati</seg>
+               <seg rend="22,257,393,279">p<expan>ro</expan>vincie Narbon<expan>ensis</expan>,
+                     <expan>et</expan> ad faciendu<expan>m</expan> ea que </seg>
+               <seg rend="396,250,670,283">nos fac<expan>er</expan>em<expan>us</expan> in
+                     d<expan>i</expan>c<expan>t</expan>o concilio <expan>et</expan>
+                  q<expan>ue</expan></seg>
+               <seg rend="30,293,431,318">facie<expan>n</expan>t d<expan>omi</expan>ni
+                  p<expan>re</expan>lati an<expan>te</expan>d<expan>i</expan>c<expan>t</expan>i,
+                     ratu<expan>m</expan>
+                  <expan>et</expan> gratu<expan>m</expan> h<expan>abe</expan>ntes</seg>
+               <seg rend="439,286,670,314">q<expan>u</expan>icq<expan>u</expan>id p<expan>er</expan>
+                     d<expan>i</expan>c<expan>tu</expan>m
+                     p<expan>ro</expan>c<expan>ur</expan>atore<expan>m</expan> in</seg>
+               <seg rend="27,326,337,354">p<expan>re</expan>missis actu<expan>m</expan>
+                  fu<expan>er</expan>it seu et<expan>iam</expan>
+                  p<expan>ro</expan>c<expan>ur</expan>atum. </seg>
+               <seg rend="338,322,672,348">In cuj<expan>us</expan> rei testimo<expan>n</expan>ium,
+                  nos p<expan>re</expan>posit<expan>us</expan>
+                  <expan>et</expan></seg>
+               <seg rend="28,365,360,390">capitulu<expan>m</expan>
+                     sup<expan>r</expan>ad<expan>i</expan>c<expan>t</expan>i huic
+                  p<expan>re</expan>senti p<expan>ro</expan>c<expan>ur</expan>atorio </seg>
+               <seg rend="365,362,678,387">sigilla n<expan>ost</expan>ra duxim<expan>us</expan>
+                     appone<expan>n</expan>da. Dat<expan>um</expan></seg>
+               <seg rend="19,396,387,429">Thol<expan>ose</expan>, die m<expan>er</expan>curii post
+                     festu<expan>m</expan> Pentecostes, </seg>
+               <seg rend="390,397,680,422">an<expan>n</expan>o D<expan>omi</expan>ni M° CC° LXX°
+                  VII°.</seg>
+            </p>
+         </div>
+         <div type="transcription">
+            <div type="texte">
+               <l>Nov<expan>er</expan>int univ<expan>er</expan>si q<expan>uod</expan> nos
+                     Vital<expan>is</expan>, Dei gr<expan>ati</expan>a </l>
+               <l>prepositus ecc<expan>lesi</expan>e S<expan>an</expan>c<expan>t</expan>i Stephani
+                  sedis </l>
+               <l>Thol<expan>ose</expan>, <expan>et</expan> capitulu<expan>m</expan>
+                     ej<expan>us</expan>d<expan>em</expan> ecc<expan>lesi</expan>e
+                  facim<expan>us</expan>, </l>
+               <l><expan>con</expan>stituim<expan>us</expan>
+                  <expan>et</expan> et<expan>iam</expan> ordinam<expan>us</expan>
+                  c<expan>er</expan>tum et </l>
+               <l>sp<expan>ecia</expan>lem p<expan>ro</expan>curatore<expan>m</expan>
+                     n<expan>ost</expan>r<expan>u</expan>m <term
+                     n="discretus vir : Titre de courtoisie, mot à mot &#34; homme qui a du discernement &#34; (donc, par défaut, qui n&#x2019;est pas noble, nobilis vir)."
+                        >disc<expan>re</expan>tum </term></l>
+               <l><term
+                     n="discretus vir : Titre de courtoisie, mot à mot &#34; homme qui a du discernement &#34; (donc, par défaut, qui n&#x2019;est pas noble, nobilis vir)."
+                        >viru<expan>m</expan></term>
+                  <term
+                     n="magister : Le titre de &#34; maître &#34; peut renvoyer à plusieurs réalités de qualification professionnelle ; il est ici très vraisemblablement lié à la détention d&#x2019;un grade obtenu dans une école de droit."
+                        >mag<expan>ist</expan>r<expan>u</expan>m</term> Arnaldum <term
+                     n="Bartholomei : Patronyme au génitif singulier : Arnaud [fils/descendant] de Barthélemy ; la forme latine donne dans le Midi des patronymes comme Barthomieu ou Bartholomé (on a choisi arbitrairement la première dans la traduction)."
+                     >Bartholomei</term>, </l>
+               <l><term
+                     n="jurisperitus : Qualificatif savant, d&#x2019;empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat."
+                        >jur<expan>is</expan>p<expan>er</expan>itu<expan>m</expan></term>,
+                     p<expan>re</expan>sentis p<expan>ro</expan>c<expan>ur</expan>atorii </l>
+               <l><term
+                     n="exibitorem : Incise signifiant que le procureur aura à exhiber sa procuration. L&#x2019;expression lator presentium, &#34; porteur des présentes [lettres] &#34;, sera ensuite plus fréquente."
+                     >exibitorem</term>, ad comparendu<expan>m</expan>
+                  <expan>et</expan> existendu<expan>m</expan>
+               </l>
+               <l>p<expan>ro</expan> nob<expan>is</expan>
+                  <expan>et</expan> no<expan>m</expan>i<expan>n</expan>e n<expan>ost</expan>ro in
+                     p<expan>ro</expan>xi<expan>m</expan>o concilio </l>
+               <l>ap<expan>ud</expan>
+                  <term
+                     n="Bitterim : On pourrait aussi développer &#34; Bitterras &#34; : les deux formes Bitteris, -is (sg.) et Biterre, -arum (pl., d&#x2019;où Bitterris > &#34; [à] Béziers &#34;) sont attestées dans les textes médiévaux."
+                        >Bitterr<expan>im</expan></term> convocato p<expan>er</expan>
+                     rev<expan>er</expan>endu<expan>m</expan> in </l>
+               <l>Chr<expan>ist</expan>o patre<expan>m</expan> d<expan>omi</expan>n<expan>u</expan>m
+                     <term n="P. : Pierre de Montbrun, archevêque de Narbonne de 1272 à 1286."
+                  >P.</term>, D<expan>e</expan>i p<expan>ro</expan>videncia </l>
+               <l>s<expan>an</expan>c<expan>t</expan>e Narbon<expan>ensis</expan>
+                  ecc<expan>lesi</expan>e archiep<expan>iscopu</expan>m, et </l>
+               <l>ad audiendu<expan>m</expan>
+                  <expan>et</expan> suscipie<expan>n</expan>du<expan>m</expan> mandata
+                  <expan>et</expan>
+               </l>
+               <l>ordinat<expan>i</expan>o<expan>n</expan>es que in
+                  d<expan>i</expan>c<expan>t</expan>o fient concilio, sic<expan>ut</expan> ea </l>
+               <l>suscipie<expan>n</expan>t ven<expan>er</expan>abiles patres et
+                  d<expan>omi</expan>ni <term
+                     n="prelati : Le terme de &#34; prélat &#34; (&#34; placé au dessus &#34;) semble désigner ici de façon assez vague le groupe de tous ceux qui ont des responsabilités, un pouvoir de gestion et de juridiction au sein des diocèses : archidiacres, doyens de chrétienté, supérieurs de maisons religieuses. Le terme de &#34; pères &#34; est plus lâche encore, qui désigne tous les participants du concile (&#34; pères conciliaires &#34;). La double expression semble indiquer que ce concile provincial ne réunissait que le haut de la hiérarchie, à la différence des conciles diocésains qui en principe regroupent aussi tous les curés."
+                        >p<expan>re</expan>lati</term></l>
+               <l>p<expan>ro</expan>vincie Narbon<expan>ensis</expan>, <expan>et</expan> ad
+                     faciendu<expan>m</expan> ea que </l>
+               <l>nos fac<expan>er</expan>em<expan>us</expan> in d<expan>i</expan>c<expan>t</expan>o
+                  concilio <expan>et</expan> q<expan>ue</expan> facie<expan>n</expan>t </l>
+               <l>d<expan>omi</expan>ni p<expan>re</expan>lati
+                     an<expan>te</expan>d<expan>i</expan>c<expan>t</expan>i, ratu<expan>m</expan>
+                  <expan>et</expan> gratu<expan>m</expan>
+               </l>
+               <l>h<expan>abe</expan>ntes q<expan>u</expan>icq<expan>u</expan>id p<expan>er</expan>
+                     d<expan>i</expan>c<expan>tu</expan>m
+                     p<expan>ro</expan>c<expan>ur</expan>atore<expan>m</expan> in</l>
+               <l>p<expan>re</expan>missis actu<expan>m</expan> fu<expan>er</expan>it seu
+                     et<expan>iam</expan> p<expan>ro</expan>c<expan>ur</expan>atum. In </l>
+               <l>cuj<expan>us</expan> rei testimo<expan>n</expan>ium, <term
+                     n="nos : Le graveur de la lithographie a dessiné &#34; nus &#34;, mais la forme est si étrange qu&#x2019;il faut sans doute rétablir &#34; nos &#34;."
+                     >nos</term> p<expan>re</expan>posit<expan>us</expan>
+                  <expan>et</expan></l>
+               <l>capitulu<expan>m</expan> sup<expan>r</expan>ad<expan>i</expan>c<expan>t</expan>i
+                  huic p<expan>re</expan>senti p<expan>ro</expan>c<expan>ur</expan>atorio </l>
+               <l>sigilla n<expan>ost</expan>ra duxim<expan>us</expan> appone<expan>n</expan>da.
+                     Dat<expan>um</expan></l>
+               <l>Thol<expan>ose</expan>, die m<expan>er</expan>curii post festu<expan>m</expan>
+                  <term
+                     n="date : En 1277, la Pentecôte tombe le dimanche 16 mai ; l&#x2019;acte est donc du mercredi 19 mai 1277."
+                     >Pentecostes</term>, </l>
+               <l>an<expan>n</expan>o D<expan>omi</expan>ni M° CC° LXX° VII°.</l>
+            </div>
+            <div type="traduction">
+               <l>Sachent tous que nous Vital, par la grâce de Dieu </l>
+               <l>prévôt de l&#x2019;église cathédrale Saint-Étienne de </l>
+               <l>Toulouse, et le chapitre de ladite église faisons, </l>
+               <l>constituons et aussi établissons comme notre </l>
+               <l>certain et spécial procureur <term
+                     n="discretus vir : Titre de courtoisie, mot à mot &#34; homme qui a du discernement &#34; (donc, par défaut, qui n&#x2019;est pas noble, nobilis vir)."
+                     >discrète personne</term>
+               </l>
+               <l><term
+                     n="magister : Le titre de &#34; maître &#34; peut renvoyer à plusieurs réalités de qualification professionnelle ; il est ici très vraisemblablement lié à la détention d&#x2019;un grade obtenu dans une école de droit."
+                     >maître</term> Arnaud <term
+                     n="Bartholomei : Patronyme au génitif singulier : Arnaud [fils/descendant] de Barthélemy ; la forme latine donne dans le Midi des patronymes comme Barthomieu ou Bartholomé (on a choisi arbitrairement la première dans la traduction)."
+                     >Barthomieu</term>, <term
+                     n="jurisperitus : Qualificatif savant, d&#x2019;empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat."
+                     >légiste</term>, <term
+                     n="exibitorem : Incise signifiant que le procureur aura à exhiber sa procuration. L&#x2019;expression lator presentium, &#34; porteur des présentes [lettres] &#34;, sera ensuite plus fréquente."
+                     >exhibant</term> la</l>
+               <l>présente procuration, pour comparaître et assister </l>
+               <l>pour nous et en notre nom au prochain concile </l>
+               <l>convoqué à <term
+                     n="Bitterim : On pourrait aussi développer &#34; Bitterras &#34; : les deux formes Bitteris, -is (sg.) et Biterre, -arum (pl., d&#x2019;où Bitterris > &#34; [à] Béziers &#34;) sont attestées dans les textes médiévaux."
+                     >Béziers</term> par révérend père en Christ, </l>
+               <l>monseigneur <term
+                     n="P. : Pierre de Montbrun, archevêque de Narbonne de 1272 à 1286.">P.</term>,
+                  par la providence divine </l>
+               <l>archevêque de la sainte église de Narbonne, et pour </l>
+               <l>entendre et recueillir les mandements et injonctions </l>
+               <l>qui seront faits lors dudit concile, comme les </l>
+               <l>recueilleront les vénérables pères et seigneurs </l>
+               <l><term
+                     n="prelati : Le terme de &#34; prélat &#34; (&#34; placé au dessus &#34;) semble désigner ici de façon assez vague le groupe de tous ceux qui ont des responsabilités, un pouvoir de gestion et de juridiction au sein des diocèses : archidiacres, doyens de chrétienté, supérieurs de maisons religieuses. Le terme de &#34; pères &#34; est plus lâche encore, qui désigne tous les participants du concile (&#34; pères conciliaires &#34;). La double expression semble indiquer que ce concile provincial ne réunissait que le haut de la hiérarchie, à la différence des conciles diocésains qui en principe regroupent aussi tous les curés."
+                     >prélats</term> de la province de Narbonne, et pour faire ce </l>
+               <l>que nous ferions lors dudit concile et ce que feront </l>
+               <l>les susdits seigneurs prélats ; et nous tiendrons </l>
+               <l>pour approuvé et agréable tout ce que ledit </l>
+               <l>procureur aura fait et fait faire par procuration, au </l>
+               <l>regard de ce qui est susdit. En témoignage de quoi, </l>
+               <l>nous prévôt et chapitre susdits avons fait apposer </l>
+               <l>nos sceaux à la présente procuration. Donné à </l>
+               <l>Toulouse, le mercredi après la fête de la </l>
+               <l><term
+                     n="date : En 1277, la Pentecôte tombe le dimanche 16 mai ; l&#x2019;acte est donc du mercredi 19 mai 1277."
+                     >Pentecôte</term>, l&#x2019;an du Seigneur 1277.</l>
+            </div>
+            <div type="regeste">
+               <head>1277, 19 mai. - Toulouse.</head>
+               <p>Procuration donnée par le prévôt, Vital, et le chapitre de la cathédrale
+                  Saint-Étienne de Toulouse à maître Arnaud Barthomieu, légiste, pour les
+                  représenter au concile provincial convoqué à Béziers par P[ierre] archévêque de
+                  Narbonne.</p>
+            </div>
+         </div>
+         <div type="commentaire" n="diplomatique">
+            <head>Commentaire diplomatique</head>
+            <div n="1">
+               <head>Examen de l'acte</head>
+               <div type="contenu_commentaire">
+                  <p>
+                     <figure rend="42/faxexternes.jpg"/>
+                  </p>
+                  <p>La présentation matérielle et la rédaction concordent. L’acte, assez bref mais
+                     précis, n’est ni négligé ni solennel, sans autre ornementation que le
+                     grossissement de l’initiale du premier mot et le redoublement de trait de
+                     quelques autres (<hi rend="italic">N</hi> de <foreign>nos</foreign>, <hi
+                        rend="italic">P.</hi> initiale de l’archevêque) ; l’écriture est rapide
+                     quoique peu liée ; les abréviations abondent. La langue est claire et
+                     technique, les clauses détaillant les pouvoirs du procureur et la ratification
+                     de son action sont bien là, mais relativement sobres. L’acte en bref est un
+                     outil pratique et savant à la fois ; à deux reprises il s’auto-désigne d’un
+                     terme précis, <foreign>procuratorium</foreign> (l. 3, 11), dont l’écho est répété par le
+                     substantif <foreign>procurator</foreign> (l. 2, 9) et par le verbe
+                     <foreign>procurare</foreign> (l. 10).</p>
+                  <p>Le double scellement, solidement fixé au repli, fait écho de son côté à la
+                     double suscription. L’un et l’autre renvoient aux exigences du droit canon sur
+                     la prise de décision dans les communautés religieuses et sur le nécessaire
+                     consentement du convent ou du chapitre à certaines décisions de son supérieur,
+                     abbé, doyen ou prévôt… Noter au passage que le sceau du prévôt comme celui du
+                     chapitre représentent la lapidation de saint Étienne.</p>
+               </div>
+            </div>
+            <div n="3">
+               <head>Parties du discours</head>
+               <div type="recommandation">
+                  <p>Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+               </div>
+               <div type="contenu_commentaire">
+                  <p>
+                     <seg corresp="notif" rend="color:#000099">Noverint universi quod <note
+                           id="notif" type="bulle">Notification.</note>
+                     </seg>
+                     <seg corresp="suscription" rend="color:#0099CC">nos Vitalis, Dei gratia
+                        prepositus ecclesie Sancti Stephani sedis Tholose, et capitulum ejusdem
+                        ecclesie <note id="suscription" type="bulle">Suscription.</note>
+                     </seg>
+                     <seg corresp="dispositif" rend="color:#FF00FF">facimus, constituimus et etiam
+                        ordinamus certum et specialem procuratorem nostrum discretum virum magistrum
+                        Arnaldum Bartholomei, jurisperitum, presentis procuratorii exibitorem, ad
+                        comparendum et existendum pro nobis et nomine nostro in proximo concilio
+                        apud Bitterrim convocato per reverendum in Christo patrem dominum P., Dei
+                        providencia sancte Narbonensis ecclesie archiepiscopum, et ad audiendum et
+                        suscipiendum mandata et ordinationes que in dicto fient concilio, sicut ea
+                        suscipient venerabiles patres et domini prelati provincie Narbonensis, et ad
+                        faciendum ea que nos faceremus in dicto concilio et que facient domini
+                        prelati antedicti, <note id="dispositif" type="bulle">Dispositif.</note>
+                     </seg>
+                     <seg corresp="obligation" rend="color:#FF0000">ratum et gratum habentes
+                        quicquid per dictum procuratorem in premissis actum fuerit seu etiam
+                        procuratum. <note id="obligation" type="bulle">Clause
+                           d&#x2019;obligation.</note>
+                     </seg>
+                     <seg corresp="corroboration" rend="color:#9999FF">In cujus rei testimonium, nus
+                        prepositus et capitulum supradicti huic presenti procuratorio sigilla nostra
+                        duximus apponenda. <note id="corroboration" type="bulle">Corroboration
+                           probatoire avec annonce de sceau</note>
+                     </seg>
+                     <seg corresp="date" rend="color:#006600">Datum Tholose, die mercurii post
+                        festum Pentecostes, anno Domini M° CC° LXX° VII°. <note id="date"
+                           type="bulle">Date.</note>
+                     </seg>
+                  </p>
+               </div>
+            </div>
+            </div>
+      </body>
+   </text>
+</TEI>

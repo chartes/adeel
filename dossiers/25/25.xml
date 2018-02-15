@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1317, 21 février. Paris. Mandement du roi Philippe V.</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">25</idno>
+                <publisher>École nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Orig. : collection privée.</p>
+                <p>Fac-sim. ENC : AF 363 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="frm">Ancien français</language>
+                <language id="fre">Français</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="39,47,540,67">Ph<expan>ilippus</expan>, Dei gr<expan>ati</expan>a
+                            Franc<expan>orum</expan> et Navarre rex, sen<expan>escall</expan>o
+                            Petragoricen<expan>si</expan> et Caturcen<expan>si</expan></seg>
+                    <seg rend="549,44,989,60">aut ejus locumten<expan>enti</expan>,
+                            sal<expan>u</expan>t<expan>em</expan>. Dil<expan>ectus</expan> et
+                        fidelis n<expan>oste</expan>r Archambaudus</seg>
+                    <seg rend="42,75,588,97">comes Petragoric<expan>ensis</expan>
+                        nob<expan>is</expan> fecit exponi, gravit<expan>er</expan>
+                        co<expan>n</expan>querendo, q<expan>uo</expan>d, cu<expan>m</expan>
+                        carissimus d<expan>omi</expan>n<expan>u</expan>s</seg>
+                    <seg rend="591,69,980,88">et genitor n<expan>oste</expan>r dud<expan>um</expan>
+                        eidem comiti seu genitori suo</seg>
+                    <seg rend="45,101,474,122">castrum et castellania<expan>m</expan> de Calciata
+                            cu<expan>m</expan> om<expan>n</expan>ib<expan>us</expan>
+                            pertinen<expan>ciis</expan>, jurib<expan>us</expan>, </seg>
+                    <seg rend="478,99,974,118">redditib<expan>us</expan>, redibenciis, justicia alta
+                        et bassa et o<expan>mn</expan>ib<expan>us</expan> aliis
+                        jurib<expan>us</expan> q<expan>ue</expan>
+                        d<expan>i</expan>c<expan>t</expan>o</seg>
+                    <seg rend="40,131,462,150">d<expan>omi</expan>no et genitori
+                        n<expan>ost</expan>ro p<expan>er</expan>tine<expan>re</expan>
+                        pot<expan>er</expan>unt quomodol<expan>ibet</expan> in
+                        p<expan>re</expan>missis, </seg>
+                    <seg rend="469,125,975,144">sup<expan>er</expan>ioritate et ressorto
+                        du<expan>m</expan>taxat exceptis, tradid<expan>er</expan>it in recompesa- </seg>
+                    <seg rend="42,156,395,176">-cione<expan>m</expan> vicecomitatuu<expan>m</expan>
+                            Leomann<expan>ie</expan> et Altivillaris, </seg>
+                    <seg rend="399,151,976,167">et licet d<expan>i</expan>c<expan>t</expan>us
+                        genitor n<expan>oste</expan>r in d<expan>i</expan>c<expan>t</expan>is castro
+                        et castellania cavalcata<expan>m</expan> h<expan>ab</expan>eret</seg>
+                    <seg rend="42,181,615,199">et eam int<expan>er</expan>du<expan>m</expan>
+                            recep<expan>er</expan>it, nichilominus habitatores
+                            d<expan>i</expan>c<expan>t</expan>oru<expan>m</expan> castri et
+                        castellanie</seg>
+                    <seg rend="621,179,981,199">d<expan>i</expan>c<expan>t</expan>am
+                            cavalcata<expan>m</expan> p<expan>re</expan>fato comiti
+                        solv<expan>er</expan>e cont<expan>r</expan>adicu<expan>n</expan>t</seg>
+                    <seg rend="42,208,421,228">indebite et injuste <expan>et</expan>
+                        <expan>contr</expan>a p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>e
+                            tradic<expan>i</expan>onis tenorem. </seg>
+                    <seg rend="435,206,980,223">Unde mandam<expan>us</expan> vob<expan>is</expan>
+                            q<expan>ua</expan>t<expan>inus</expan>, si, visis
+                        litt<expan>er</expan>is sup<expan>er</expan>
+                        d<expan>i</expan>c<expan>t</expan>a
+                        assignac<expan>i</expan>o<expan>n</expan>e confectis, voc<expan>atis</expan></seg>
+                    <seg rend="42,237,517,252">d<expan>i</expan>c<expan>t</expan>is
+                            h<expan>ab</expan>itatorib<expan>us</expan>,
+                            p<expan>ro</expan>cur<expan>atore</expan> n<expan>ost</expan>ro et aliis
+                            evocand<expan>is</expan>, co<expan>n</expan>stit<expan>er</expan>it ita
+                        esse,</seg>
+                    <seg rend="527,234,978,248">d<expan>i</expan>c<expan>t</expan>am
+                            cavalcata<expan>m</expan> faciatis
+                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>o comiti
+                            lib<expan>er</expan>ari <expan>et</expan> sine diffi-</seg>
+                    <seg rend="42,259,719,278">-cultate p<expan>er</expan>solvi,
+                        p<expan>ro</expan>ut fu<expan>er</expan>it r<expan>aci</expan>onis, ad
+                            h<expan>oc</expan> illos quos ad h<expan>oc</expan>
+                        ten<expan>er</expan>i noveritis debite co<expan>m</expan>pellendo.</seg>
+                    <seg rend="726,258,977,276">Dat<expan>um</expan> Par<expan>isius</expan>, die
+                        lune post Bran-</seg>
+                    <seg rend="42,288,288,309">-dones, anno D<expan>omi</expan>ni Mo CCCo
+                    XVIto.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l>Ph<expan>ilippus</expan>, Dei gr<expan>ati</expan>a <term
+                            n="Francorum : dès qu&#x2019;elle a commencé à employer le français, la chancellerie royale a parlé, comme les contemporains, de &#34;roi de France&#34; ; mais même ensuite elle a maintenu en latin (uniquement dans les actes et sur les légendes des sceaux du roi) l&#x2019;ancienne formule &#34;rex Francorum&#34; (qui ne veut pas dire autre chose) ; dans tous les autres textes, on dit tout naturellement &#34;rex Francie&#34;."
+                                >Franc<expan>orum</expan></term> et </l>
+                    <l><term
+                            n="La Navarre est venue à Philippe (futur Philippe le Bel) de son mariage avec l&#x2019;héritière du royaume, Jeanne ; mais il abandonné le titre de &#34;roi de Navarre&#34; à son propre avènement au trône de France. Ses fils sont, au Moyen Âge, les seuls à avoir pris, de 1314 à 1328, le titre de &#34;roi de France et de Navarre&#34;. Ce seul trait permet d&#x2019;attribuer l&#x2019;acte à Philippe V."
+                            >Navarre</term> rex, sen<expan>escall</expan>o
+                        Petragoricen<expan>si</expan> et </l>
+                    <l>Caturcen<expan>si</expan> aut ejus locumten<expan>enti</expan>,
+                            sal<expan>u</expan>t<expan>em</expan>. </l>
+                    <l>Dil<expan>ectus</expan> et fidelis n<expan>oste</expan>r <term
+                            n="Archambaud II comte de Périgord.">Archambaudus</term></l>
+                    <l>comes Petragoric<expan>ensis</expan> nob<expan>is</expan> fecit exponi, </l>
+                    <l>gravit<expan>er</expan> co<expan>n</expan>querendo, q<expan>uo</expan>d,
+                            cu<expan>m</expan>
+                    </l>
+                    <l>
+                        <term n="Philippe IV le Bel, roi de 1285 à 1314.">carissimus
+                                d<expan>omi</expan>n<expan>u</expan>s</term>
+                    </l>
+                    <l>
+                        <term n="Philippe IV le Bel, roi de 1285 à 1314.">et genitor
+                            n<expan>oste</expan>r</term>
+                    </l>
+                    <l>dud<expan>um</expan> eidem comiti seu genitori suo</l>
+                    <l>castrum et castellania<expan>m</expan> de <term
+                            n="Caussade (Tarn-et-Garonne, ch.-l. cant.). La châtellenie a été donnée avec deux autres, en 1304, au comte de Périgord par le roi de France, qui venait de céder au roi d&#x2019;Angleterre des terres précédemment échangées avec le comte."
+                            >Calciata</term> cu<expan>m</expan>
+                    </l>
+                    <l>om<expan>n</expan>ib<expan>us</expan> pertinen<expan>ciis</expan>,
+                            jurib<expan>us</expan>, redditib<expan>us</expan>, </l>
+                    <l>redibenciis, justicia alta et bassa et o<expan>mn</expan>ib<expan>us</expan>
+                    </l>
+                    <l>aliis jurib<expan>us</expan> q<expan>ue</expan>
+                        d<expan>i</expan>c<expan>t</expan>o d<expan>omi</expan>no et genitori </l>
+                    <l>n<expan>ost</expan>ro p<expan>er</expan>tine<expan>re</expan>
+                        pot<expan>er</expan>unt quomodol<expan>ibet</expan> in </l>
+                    <l>p<expan>re</expan>missis, <term
+                            n="La &#34;souveraineté et ressort&#34;, d&#x2019;empreinte fondamentalement judiciaire, désigne les droits suprêmes que se conserve le roi de France dans les apanages ou les seigneuries aliénées ; le &#34;ressort&#34; lui laisse en particulier le droit de juger en dernier ressort les affaires jugées par le nouveau détenteur des terres."
+                                >sup<expan>er</expan>ioritate et ressorto</term>
+                    </l>
+                    <l>du<expan>m</expan>taxat exceptis, tradid<expan>er</expan>it in </l>
+                    <l>recompesacione<expan>m</expan>[sic] vicecomitatuu<expan>m</expan>
+                    </l>
+                    <l><term
+                            n="Lomagne (région couvrant le nord-est de l&#x2019;actuel dép. du Gers, ancien diocèse de Lectoure) et Auvillar (Tarn-et-Garonne, ch.-l. de cant.). Les vicomtés avaient été acquises en novembre 1301 par le roi de France au terme d&#x2019;un échange avec Élie Talleyrand, comte de Périgord."
+                                >Leomann<expan>ie</expan> et Altivillaris</term>, et licet
+                            d<expan>i</expan>c<expan>t</expan>us </l>
+                    <l>genitor n<expan>oste</expan>r in d<expan>i</expan>c<expan>t</expan>is castro
+                        et castellania </l>
+                    <l><term
+                            n="La &#34;chevauchée&#34; peut être aussi bien l&#x2019;obligation faite de participer à l&#x2019;ost du seigneur qu&#x2019;une taxe de remplacement ; le second sens semble plus vraisemblable ici du fait de l&#x2019;emploi du verbe solvere, &#34;payer&#34;. "
+                                >cavalcata<expan>m</expan></term> h<expan>ab</expan>eret et eam
+                            int<expan>er</expan>du<expan>m</expan>
+                    </l>
+                    <l>recep<expan>er</expan>it, nichilominus habitatores </l>
+                    <l>d<expan>i</expan>c<expan>t</expan>oru<expan>m</expan> castri et castellanie
+                            d<expan>i</expan>c<expan>t</expan>am </l>
+                    <l>cavalcata<expan>m</expan> p<expan>re</expan>fato comiti
+                        solv<expan>er</expan>e </l>
+                    <l>cont<expan>r</expan>adicu<expan>n</expan>t indebite et injuste <expan>et</expan>
+                        <expan>contr</expan>a </l>
+                    <l>p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>e
+                        tradic<expan>i</expan>onis tenorem. Unde </l>
+                    <l>mandam<expan>us</expan> vob<expan>is</expan>
+                        q<expan>ua</expan>t<expan>inus</expan>, si, visis litt<expan>er</expan>is </l>
+                    <l>sup<expan>er</expan> d<expan>i</expan>c<expan>t</expan>a
+                            assignac<expan>i</expan>o<expan>n</expan>e confectis,
+                        voc<expan>atis</expan>
+                    </l>
+                    <l>d<expan>i</expan>c<expan>t</expan>is
+                        h<expan>ab</expan>itatorib<expan>us</expan>, <term
+                            n="Le procureur du roi est l&#x2019;un des rouages essentiels des cours royales (centrales comme de bailliage ou de sénéchaussée), où il représente les intérêts du souverain."
+                                >p<expan>ro</expan>cur<expan>atore</expan></term>
+                        n<expan>ost</expan>ro et </l>
+                    <l>aliis evocand<expan>is</expan>, co<expan>n</expan>stit<expan>er</expan>it ita
+                        esse, d<expan>i</expan>c<expan>t</expan>am </l>
+                    <l>cavalcata<expan>m</expan> faciatis
+                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>o comiti
+                            lib<expan>er</expan>ari </l>
+                    <l><expan>et</expan> sine difficultate p<expan>er</expan>solvi,
+                        p<expan>ro</expan>ut fu<expan>er</expan>it </l>
+                    <l>r<expan>aci</expan>onis, ad h<expan>oc</expan> illos quos ad
+                        h<expan>oc</expan> ten<expan>er</expan>i </l>
+                    <l>noveritis debite co<expan>m</expan>pellendo. Dat<expan>um</expan>
+                    </l>
+                    <l>Par<expan>isius</expan>, die <term
+                            n="Le nom de &#34;Brandons&#34; (ou &#34;Bordes&#34;) est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l&#x2019;acte que parce que l&#x2019;on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l&#x2019;on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n&#x2019;a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février."
+                            >lune post Brandones, anno </term></l>
+                    <l>
+                        <term
+                            n="Le nom de &#34;Brandons&#34; (ou &#34;Bordes&#34;) est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l&#x2019;acte que parce que l&#x2019;on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l&#x2019;on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n&#x2019;a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février."
+                                >D<expan>omi</expan>ni M<hi rend="exposant">o</hi> CCC<hi
+                                rend="exposant">o</hi> XVIt<hi rend="exposant">o</hi>.</term>
+                    </l>
+                </div>
+                <div type="traduction">
+                    <l>Philippe, par la grâce de Dieu <term
+                            n="Francorum : dès qu&#x2019;elle a commencé à employer le français, la chancellerie royale a parlé, comme les contemporains, de &#34;roi de France&#34; ; mais même ensuite elle a maintenu en latin (uniquement dans les actes et sur les légendes des sceaux du roi) l&#x2019;ancienne formule &#34;rex Francorum&#34; (qui ne veut pas dire autre chose) ; dans tous les autres textes, on dit tout naturellement &#34;rex Francie&#34;."
+                            >roi de France</term></l>
+                    <l>et de <term
+                            n="La Navarre est venue à Philippe (futur Philippe le Bel) de son mariage avec l&#x2019;héritière du royaume, Jeanne ; mais il abandonné le titre de &#34;roi de Navarre&#34; à son propre avènement au trône de France. Ses fils sont, au Moyen Âge, les seuls à avoir pris, de 1314 à 1328, le titre de &#34;roi de France et de Navarre&#34;. Ce seul trait permet d&#x2019;attribuer l&#x2019;acte à Philippe V."
+                            >Navarre</term>, au sénéchal de Périgord et</l>
+                    <l>Quercy ou à son lieutenant, salut.</l>
+                    <l>Notre aimé et féal <term n="Archambaud II comte de Périgord."
+                        >Archambaud</term></l>
+                    <l>comte de Périgord nous a fait exposer,</l>
+                    <l>en une plainte appuyée, que, comme</l>
+                    <l>
+                        <term n="Philippe IV le Bel, roi de 1285 à 1314.">notre très cher seigneur
+                            et père</term>
+                    </l>
+                    <l>avait jadis remis audit comte ou à son père</l>
+                    <l>les château et châtellenie de <term
+                            n="Caussade (Tarn-et-Garonne, ch.-l. cant.). La châtellenie a été donnée avec deux autres, en 1304, au comte de Périgord par le roi de France, qui venait de céder au roi d&#x2019;Angleterre des terres précédemment échangées avec le comte."
+                            >Caussade</term> avec</l>
+                    <l>toutes leurs dépendances, droits, revenus,</l>
+                    <l>redevances, justice haute et basse et tous</l>
+                    <l>les autres droits qui pouvaient appartenir à</l>
+                    <l>notredit seigneur et père, de quelque façon</l>
+                    <l>que ce fût, en cesdits lieux, excepté toutefois</l>
+                    <l><term
+                            n="La &#34;souveraineté et ressort&#34;, d&#x2019;empreinte fondamentalement judiciaire, désigne les droits suprêmes que se conserve le roi de France dans les apanages ou les seigneuries aliénées ; le &#34;ressort&#34; lui laisse en particulier le droit de juger en dernier ressort les affaires jugées par le nouveau détenteur des terres."
+                            >la souveraineté et le ressort</term>, en</l>
+                    <l>compensation des vicomtés de</l>
+                    <l><term
+                            n="Lomagne (région couvrant le nord-est de l&#x2019;actuel dép. du Gers, ancien diocèse de Lectoure) et Auvillar (Tarn-et-Garonne, ch.-l. de cant.). Les vicomtés avaient été acquises en novembre 1301 par le roi de France au terme d&#x2019;un échange avec Élie Talleyrand, comte de Périgord."
+                            >Lomagne et d'Auvillar</term>, et bien que notredit</l>
+                    <l>père eût possédé et de temps à autre perçu</l>
+                    <l>dans lesdits château et châtellenie le droit de</l>
+                    <l><term
+                            n="La &#34;chevauchée&#34; peut être aussi bien l&#x2019;obligation faite de participer à l&#x2019;ost du seigneur qu&#x2019;une taxe de remplacement ; le second sens semble plus vraisemblable ici du fait de l&#x2019;emploi du verbe solvere, &#34;payer&#34;. "
+                            >chevauchée</term>, néanmoins les habitants</l>
+                    <l>desdits château et châtellenie refusent</l>
+                    <l>d&#x2019;acquitter au susdit comte ledit droit de</l>
+                    <l>chevauchée, indûment, injustement et contre</l>
+                    <l>la teneur de la susdite donation. Aussi</l>
+                    <l>vous mandons-nous que si, après avoir vu les</l>
+                    <l>lettres rédigées sur ladite assignation, convoqué</l>
+                    <l>lesdits habitants, notre <term
+                            n="Le procureur du roi est l&#x2019;un des rouages essentiels des cours royales (centrales comme de bailliage ou de sénéchaussée), où il représente les intérêts du souverain."
+                            >procureur</term> et tous autres</l>
+                    <l>qu&#x2019;il faudrait convoquer, il vous appert en être</l>
+                    <l>ainsi, vous fassiez remettre et acquitter sans</l>
+                    <l>difficulté ledit droit de chevauchée au susdit</l>
+                    <l>comte, selon ce qui sera légitime, en contraignant dûment ceux dont vous
+                        saurez qu&#x2019;ils y sont</l>
+                    <l>astreints. Donné à Paris, <term
+                            n="Le nom de &#34;Brandons&#34; (ou &#34;Bordes&#34;) est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l&#x2019;acte que parce que l&#x2019;on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l&#x2019;on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n&#x2019;a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février."
+                            >le lundi après les</term></l>
+                    <l><term
+                            n="Le nom de &#34;Brandons&#34; (ou &#34;Bordes&#34;) est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l&#x2019;acte que parce que l&#x2019;on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l&#x2019;on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n&#x2019;a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février."
+                            >Brandons</term>, l&#x2019;an du Seigneur 1316.</l>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">                 
+                        <p>
+                            <figure rend="25/faxexternes.jpg"/>
+                        </p>
+                        <p>Sans être négligées, l’écriture et la présentation trahissent l’absence
+                            de solennité d’un acte qui est, avant tout, pièce d’une action
+                            administrative. Une marge, étroite, n’est ménagée qu’à gauche. Ni en
+                            haut, ni moins encore en bas le scripteur ne laisse subsister beaucoup
+                            de blanc. Le format allongé est typique de cette catégorie d’actes.</p>
+                        <p>Le trait le plus évident est le scellement sur simple queue de parchemin,
+                            c’est-à-dire sur une langue découpée dans le support même de l’acte (en
+                            bas, sur environ les trois quarts de la largeur). Cela n’empêche pas ce
+                            type d’acte de recevoir normalement, à l’égal des autres, le grand sceau
+                            royal, une galette de cire (simplement "jaune" et non "verte" comme dans
+                            les chartes à valeur perpétuelle), dont les dimensions (diamètre de 96
+                            mm à l’époque) et le poids expliquent sans peine que la queue, comme
+                            bien souvent, a été arrachée.</p>
+                    </div>
+                </div>
+            <div n="3">
+                <head>Parties du discours</head>
+                <div type="recommandation">
+                    <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                </div>
+                <div type="contenu_commentaire">
+                    <p>
+                        <seg corresp="suscription" rend="color:#FF0000">Philippus, Dei gratia
+                            Francorum et Navarre rex,<note id="suscription" type="bulle">Suscription
+                                (nom, formule de dévotion, titre)</note></seg>
+                        <seg corresp="adresse" rend="color:#009966">senescallo Petragoricensi et
+                            Caturcensi aut ejus locumtenenti,<note id="adresse" type="bulle">Adresse
+                                individuelle.</note></seg>
+                        <seg corresp="salut" rend="color:#993399">salutem.<note id="salut"
+                                type="bulle">Salut (l&#x2019;acte est rédigé en forme de
+                            lettre)</note></seg>
+                        <seg corresp="expose" rend="color:#000099">Dilectus et fidelis noster
+                            Archambaudus comes Petragoricensis nobis fecit exponi, graviter
+                            conquerendo, quod, cum carissimus dominus et genitor noster dudum eidem
+                            comiti seu genitori suo castrum et castellaniam de Calciata cum omnibus
+                            pertinenciis, juribus, redditibus, redibenciis, justicia alta et bassa
+                            et omnibus aliis juribus que dicto domino et genitori nostro pertinere
+                            poterunt quomodolibet in premissis, superioritate et ressorto dumtaxat
+                            exceptis, tradiderit in recompesacionem [<hi rend="italic">sic</hi>]
+                            vicecomitatuum Leomannie etAltivillaris, et licet dictus genitor noster
+                            in dictis castro et castellania cavalcatam haberet et eam interdum
+                            receperit, nichilominus habitatores dictorum castri et castellanie
+                            dictam cavalcatam prefato comiti solvere contradicunt indebite et
+                            injuste et contra predicte tradicionis tenorem.<note id="expose"
+                                type="bulle">Exposé.</note></seg>
+                        <seg corresp="dispositif" rend="color:#FF00FF">Unde mandamus vobis quatinus,
+                            si, visis litteris super dicta assignacione confectis, vocatis dictis
+                            habitatoribus, procuratore nostro et aliis evocandis, constiterit ita
+                            esse, dictam cavalcatam faciatis predicto comiti liberari et sine
+                            difficultate persolvi, prout fuerit racionis, ad hoc illos quos ad hoc
+                            teneri noveritis debite compellendo.<note id="dispositif" type="bulle"
+                                >Dispositif (ordre exprimé par le terme mandamus)</note></seg>
+                        <seg corresp="date" rend="color:#009966">Datum Parisius, die lune post
+                            Brandones, anno Domini M° CCC° XVI°<note id="date" type="bulle">Date de
+                                de temps.</note></seg>
+                    </p>
+                </div>
+            </div>
+                <div n="4">
+                    <head>Synthèse</head>
+                    <div type="contenu_commentaire">
+                        <p>Scellement sur simple queue de parchemin, pour les caractères 
+                            externes ; absence de corroboration, pour le texte : 
+                            l’un seul de ces deux critères absolus permet de voir en cet acte 
+                            un représentant de la plus modeste des trois grandes catégories 
+                            d’actes produits par la chancellerie du roi de France, selon une typologie 
+                            désormais très rigide : le mandement, 
+                            appellation à laquelle Georges Tessier a proposé de substituer 
+                            celle de "lettres patentes scellées de cire jaune sur simple 
+                            queue de parchemin". Il suffit de s’entendre : le terme de "mandement" 
+                            doit être, à ce niveau d’analyse, entendu d’un type purement diplomatique, 
+                            et non d’un type juridique (acte donnant un ordre). Les deux se confondent 
+                            souvent, comme c’est ici le cas. Mais des mandements au sens diplomatique 
+                            peuvent être utilisés à notifier d’autres actions (jusqu’à 
+                            des rémissions) que des ordres à des agents du roi (il peuvent 
+                            alors avoir une adresse générale) ; on peut alors, pour 
+                            éviter les méprises, parler de lettres… sur simple 
+                            queue.</p>
+                        <p>Cet acte est modeste (certes pas pour son bénéficiaire, 
+                            un peu plus pour ses destinataires). Pourtant, même pour cet exercice très 
+                            banal de communication "administrative", le texte montre, après 
+                            la langue souvent sèche, en tout cas concise, des actes du XIII<hi rend="exposant">e</hi> siècle, 
+                            un style très élaboré, fondé 
+                            sur des périodes amples et savamment construites, avec un goût très notarial pour les redoublements et énumérations 
+                            de termes. La langue est à l’évidence marquée autant 
+                            par les légistes que par la Curie, en un latin qui sait déployer 
+                            de nouveaux attraits face à la pression de la langue vernaculaire 
+                            (outre qu’il se prête mieux à la communication avec les terres d’oc). 
+                            Comme la fermeté de la typologie des actes, ce trait a pris son essor 
+                            principal sous le règne de Philippe le Bel.</p>
+                        <p>Proposition de regeste : Le roi Philippe [V] mande 
+                            au sénéchal de Périgord et Quercy d’instruire la plainte 
+                            qui lui a été adressée par le comte de Périgord 
+                            Archambaud [II] : celui-ci ne parvient pas à percevoir le droit 
+                            de chevauchée (<hi rend="italic">cavalcata</hi>) des habitants du château et de 
+                            la châtellenie de Caussade qui ont été remis au comte ou à 
+                            son père par le feu roi [Philippe le Bel], avec tous leurs droits 
+                            et la justice haute et basse, sauf la souveraineté et le ressort, 
+                            en compensation des vicomtés de Lomagne et d’Auvillar.</p>
+                    </div>
+                    </div>                 
+                </div>
+        </body>
+   </text>
+</TEI>

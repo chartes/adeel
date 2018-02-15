@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>1636, 6 août. Acte royal (Paris) <hi rend="italic">1636, 6 août (Paris)</hi>
+                    <hi rend="italic">ordre du roi (Paris)</hi>. Les laquais aux armées : <hi
+                        rend="italic">Ordre du roi pour l’enrôlement des domestiques</hi>. </title>
+                <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à
+                    l’École, avec la collaboration d’Olivier Poncet et l'aide de Robert Descimon</author>
+                <author/>
+                <respStmt>
+                    <resp>document encodé par</resp>
+                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École
+                        nationale des Chartes)</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">108</idno>
+                <publisher>École nationale des Chartes</publisher>
+                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Archives nationales, H<hi rend="exposant">2</hi> 1962, pièce n<hi rend="exposant"
+                        >°</hi> 88.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="24,22,192,71">1636 6 aout.</seg>
+                    <seg rend="17,73,202,110">XXVIII<hi rend="exposant">e</hi> registre</seg>
+                    <seg rend="18,110,157,150">Fol. 9 v<expan>ers</expan>o.</seg>
+                    <seg rend="211,3,517,63">Cotte M, 4<hi rend="exposant">e</hi> liasse.</seg>
+                    <seg rend="204,64,561,146">De par le roy</seg>
+                    <seg rend="16,152,574,197">Il est ordonné et très expressement enjoint </seg>
+                    <seg rend="576,155,742,194">aux prevost </seg>
+                    <seg rend="168,200,416,229">des marchans et eschevins </seg>
+                    <seg rend="421,198,742,225">de la ville de Paris en faisant </seg>
+                    <seg rend="167,233,531,260">faire la reveue d’ordonner aux quarteniers </seg>
+                    <seg rend="534,227,739,255">de faire roolle</seg>
+                    <seg rend="167,259,508,287">des lacquais capables de porter armes </seg>
+                    <seg rend="510,259,742,287">qui se trouveront </seg>
+                    <seg rend="167,289,512,315">dans les maisons et charger les
+                        m<expan>aistr</expan>es </seg>
+                    <seg rend="515,289,742,315">de les envoyer sur </seg>
+                    <seg rend="167,316,511,344">le boullevar pour s’enrooller à peine</seg>
+                    <seg rend="513,320,741,348">aux m<expan>aistr</expan>es de cinq </seg>
+                    <seg rend="165,346,493,372">cens livres d’amende et des gallaires</seg>
+                    <seg rend="494,348,742,378">contre les lacquais.</seg>
+                    <seg rend="165,373,505,399">Et à cette fin Sad. Ma<expan>jes</expan>té veut et
+                        entend qu’il soit depputté </seg>
+                    <seg rend="508,377,742,405">qu’il soit depputté </seg>
+                    <seg rend="166,399,407,427">deux con<expan>seill</expan>ers de ville pour</seg>
+                    <seg rend="407,401,742,434">en faire l’enroollement et que </seg>
+                    <seg rend="166,428,561,458">le payement en soit faict par les bourgeois </seg>
+                    <seg rend="563,435,742,465">et que la p<expan>rese</expan>nte </seg>
+                    <seg rend="166,459,571,489">ordonnance soit leue et publiée à son de trompe</seg>
+                    <seg rend="572,466,742,491">et cry public </seg>
+                    <seg rend="166,490,551,516">à ce que personne n’en pretende cause d’ignorance</seg>
+                    <seg rend="555,491,743,525">Faict à Paris </seg>
+                    <seg rend="167,517,454,547">le VI<hi rend="exposant">e</hi> jour d’aoust 1636.</seg>
+                    <seg rend="263,550,433,611">L<hi rend="small caps">OUIS</hi></seg>
+                    <seg rend="245,887,689,1074">D<hi rend="small caps">E</hi>
+                        <hi rend="small caps">LOMENIE</hi>.</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <p> De par le roy. Il est ordonné et très expressement enjoint aux <term
+                            n="Le prévôt des marchands est alors Michel Moreau, lieutenant civil au Châtelet. "
+                            >prevost des marchans</term> et <term
+                            n="Les quatre échevins de Paris sont élus deux par deux pour des mandats de deux ans, le 
+                                jour de la Saint Roch (16 août) par le Grand Bureau (le prévôt, les quatre échevins, le procureur, 
+                                le greffier et le receveur), les vingt-quatre conseillers de ville, les seize quarteniers et des bourgeois 
+                                mandés mandés (notables désignés par leurs pairs pour cette fonction élective)."
+                            >eschevins</term>
+                        <lb/> de la ville de Paris en faisant faire la reveue d’ordonner aux <term
+                            n="Les quarteniers sont des officiers municipaux chargés de la surveillance et de l’administration d’un 
+                            des seize quartiers de la ville."
+                            >quarteniers</term> de faire roolle des <lb/>
+                        <term n="Le terme de laquais désigne les domestiques masculins."
+                        >lacquais</term> capables de porter armes qui se trouveront dans les maisons
+                        et charger les maistres de les <lb/> envoyer sur le <term
+                            n="Le boulevard désigne l’espace de circulation au pied des remparts au  nord de Paris, entre les 
+                            portes Saint-Denis et Saint-Martin principalement."
+                            >boullevar</term> pour s’enrooller à peine aux maistres de cinq cens
+                        livres d’amende et des <lb/>
+                        <term
+                            n="La peine des galères est une peine afflictive couramment employée par la justice criminelle."
+                            >gallaires </term> contre les lacquais. Et à cette fin Sad. Majesté veut
+                        et entend qu’il soit depputté deux <lb/>
+                        <term
+                            n="Les vingt-quatre conseillers de ville sont des officiers propriétaires de leur charge qui participent à 
+                            l’administration de la ville et surtout à l’élection des échevins."
+                            >conseillers de ville</term> pour en faire l’enroollement et que le
+                        payement en soit faict par les <term
+                            n="Le statut de bourgeois de Paris, obtenu par une résidence continue d’une année et un jour dans la 
+                            ville, accorde des exemptions fiscales importantes. Il réunit la plupart des habitants domiciliés à Paris."
+                            > bourgeois</term>
+                        <lb/> et que la presente ordonnance soit leue et publiée à son de trompe et
+                        cry public à ce que personne <lb/> n’en pretende cause d’ignorance. Faict à
+                        Paris le <hi rend="small caps">VI</hi><hi rend="exposant">e</hi> jour
+                        d’aoust 1636.<lb/>
+                        <term n="Louis XIII, roi de France de 1610 à 1643.">L<hi rend="small caps"
+                                >OUIS</hi></term><lb/>
+                        <term
+                            n="Henri-Auguste de Loménie (1594-1666), comte de Brienne, secrétaire 
+                            d&#8217;État de la maison du roi (1615-1643), puis des Affaires étrangères (1643-1663)."
+                                >D<hi rend="small caps">E</hi> L<hi rend="small caps">OMENIE</hi></term>
+                        <expan>paraphe</expan>.<!-- cf.  -->
+                    </p>
+                </div>
+                <div type="regeste">
+                    <head>6 août 1636.— Paris.</head>
+                    <p> Le roi ordonne au bureau de la ville de Paris de procéder à l’enrôlement des
+                        laquais en état de porter les armes à peine des galères pour eux-mêmes et
+                        d’une amende de 500 livres pour leurs maîtres. </p>
+                </div>
+            </div>
+
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p>
+                            <seg corresp="suscription" rend="color:#0099CC">De par le roy.<note
+                                    xml:id="suscription" type="bulle">Suscription</note></seg>
+                            <seg corresp="adresse" rend="color:#f90808">Il est ordonné et très
+                                expressement enjoint aux prevost des marchans et eschevins de la
+                                ville de Paris<note xml:id="adresse" type="bulle">Adresse</note></seg>
+                            <seg corresp="dispositif" rend="color:#01def8">en faisant faire la
+                                reveue d’ordonner aux quarteniers de faire roolle des lacquais
+                                capables de porter armes qui se trouveront dans les maisons et
+                                charger les maistres de les envoyer sur le boullevar pour
+                                s’enrooller à peine aux maistres de cinq cens livres d’amende et des
+                                gallaires contre les lacquais. Et à cette fin Sad. Majesté veut et
+                                entend qu’il soit depputté deux conseillers de ville pour en faire
+                                l’enroollement et que le payement en soit faict par les
+                                    bourgeois.<note xml:id="dispositif" type="bulle"
+                                >Dispositif</note></seg>
+                            <seg corresp="mention_publication" rend="color:#0099CC"> et que la
+                                presente ordonnance soit leue et publiée à son de trompe et cry
+                                public à ce que personne n’en pretende cause d’ignorance.<note
+                                    xml:id="mention_publication" type="bulle">Mention de
+                                publication</note></seg>
+                            <seg corresp="date" rend="color:#24b37f">Faict à Paris le VI<hi
+                                    rend="exposant">e</hi> jour d’aoust 1636.<note xml:id="date"
+                                    type="bulle">Date</note></seg>
+                            <seg corresp="signature" rend="color:#9999FF">L<hi rend="small caps"
+                                    >OUIS</hi><note xml:id="signature" type="bulle"
+                                >Signature</note></seg>
+                            <seg corresp="contreseing" rend="color:#0099CC"><hi rend="small caps"
+                                >DE</hi> L<hi rend="small caps">OMENIE</hi>
+                                (paraphe).<note xml:id="contreseing" type="bulle"
+                                    >Contreseing du secrétaire d’Etat de la Maison du
+                            roi</note></seg>
+                        </p>
+                    </div>
+                </div>
+                <div n="2">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>L’ordre du roi prend la forme diplomatique d’une lettre de cachet,
+                            portant la signature du roi suivie du contreseing du secrétaire d’état
+                            de la Maison du roi. La surveillance de Paris fait en effet partie des
+                            attributions traditionnelles de ce dernier. L’acte est adressé au bureau
+                            de la ville et comporte une mention de publication générale. Le
+                            mandement a été enregistré comme indiqué sur l’acte lui-même dans les
+                            registres de délibération du bureau de la ville (Arch. nat., H2 1805A*,
+                            fol. 9v.) et a ensuite été archivé comme en témoigne la mention hors
+                            teneur figurant dans le coin supérieur gauche (« cotté M, 4e liasse »),
+                            répétée dans le registre de délibération (« minutes cotté M, 4e
+                            liasse»). </p>
+                    </div>
+                </div>
+            </div>
+            <div type="commentaire" n="histoire">
+                <head>Commentaire historique.</head>
+                <div n="1">
+                    <div type="contenu_commentaire">
+                        <p> La campagne militaire de l’été 1636 tourne au désastre : l’armée
+                            espagnole s’enfonce profondément dans le royaume depuis la frontière
+                            nord. Roye est prise le 6 août et Corbie, investie le lendemain, tombe
+                            dès le 16 août. Pour constituer une armée de secours, la monarchie
+                            décide de lever des troupes et de pratiquer l’enrôlement forcé des
+                            personnes jugées les moins indispensables au fonctionnement urbain comme
+                            les domestiques. </p>
+                    </div>
+                    <div type="commentaire">
+                        <head>Commentaire diplomatique.</head>
+                        <p> L’ordre du roi prend la forme diplomatique d’une lettre de cachet,
+                            portant la signature du roi suivie du contreseing du secrétaire d’Etat
+                            de la Maison du roi. La surveillance de Paris fait en effet partie des
+                            attributions traditionnelles de ce dernier. L’acte est adressé au bureau
+                            de la ville et comporte une mention de publication générale. </p>
+                        <p> Le mandement a été enregistré comme indiqué sur l’acte lui-même dans les
+                            registres de délibération du bureau de la ville (Arch. nat., H<hi
+                                rend="exposant">2</hi> 1805<hi rend="exposant">A*</hi>, fol. 9v.) et
+                            a ensuite été archivé comme en témoigne la mention hors teneur figurant
+                            dans le coin supérieur gauche («cotté M, 4<hi rend="exposant">e</hi>
+                            liasse»), répétée dans le registre de délibération («minutes cotté M,
+                                4<hi rend="exposant">e</hi> liasse»). </p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

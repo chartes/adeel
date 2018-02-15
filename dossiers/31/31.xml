@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> 1447. Mandement delphinal. Commission pour la prise de possession
+                    d&#x2019;une seigneurie échangée.</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="numero">31</idno>
+                <publisher>École nationale des chartes</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Fac-sim. ENC : AF 300 (lithographie).</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="frm">Ancien français</language>
+                <language id="fre">Français</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="facsimile" rend="fax.jpg">
+                <p>
+                    <seg rend="30,52,696,76">Loys, ainsné filz du roy de France, daulphin de
+                        Viennoys, conte de Valentinoys</seg>
+                    <seg rend="700,59,1088,76">et de Dioys, a n<expan>ost</expan>re amé
+                        <expan>et</expan> feal Girault Aymar,</seg>
+                    <seg rend="37,79,465,92">escuier, seigneur de Granhan, salut et dilection.</seg>
+                    <seg rend="473,79,1087,93">Comme par l&#x2019;accort et traictié fait entre
+                        nous, d&#x2019;une part, et vous, d&#x2019;aut<expan>re</expan>,</seg>
+                    <seg rend="65,94,714,106">sur le fait de l&#x2019;eschange de la place,
+                        terre et seigneurie de Grillen a la terre</seg>
+                    <seg rend="719,94,1086,104"><expan>et</expan> seigneurie de Marsenne
+                        <expan>et</expan> la moitié du</seg>
+                    <seg rend="66,109,597,122">peage de Laine et des empses de Savasse vous nous
+                        doiez</seg>
+                    <seg rend="599,109,1090,119">p<expan>resen</expan>tement delivrer et mettre en
+                        noz mains ladicte place,</seg>
+                    <seg rend="35,124,428,137">terre <expan>et</expan> seigneurie de Grillen
+                        ensemble</seg>
+                    <seg rend="431,125,1083,137">toutes les rentes et reven<expan>ue</expan>s, ainsi
+                        que par le traictié sur ce fait peut app<expan>ar</expan>oir,</seg>
+                    <seg rend="51,139,663,153">savoir vous faisons que, nous confians a plain de la
+                        loyauté,</seg>
+                    <seg rend="667,140,1086,156">souffisance <expan>et</expan> bonne preudomie de
+                            n<expan>ost</expan>re amé <expan>et</expan> feal</seg>
+                    <seg rend="68,159,486,172">escuier d&#x2019;escuierie Hugues de Verdun,</seg>
+                    <seg rend="496,157,1083,169">seigneur de S<expan>ain</expan>te Camelle, icelui
+                        avons co<expan>m</expan>mis et ordonné, co<expan>m</expan>mettons</seg>
+                    <seg rend="66,174,566,189">et ordonnons par ces p<expan>resen</expan>tes a
+                        prandre la possession,</seg>
+                    <seg rend="572,174,1087,190">la garde et joïssance de lad<expan>icte</expan>
+                        place de Grillen, pour et</seg>
+                    <seg rend="67,193,664,206">en n<expan>ost</expan>re nom. Si vous mandons et
+                        expressement enjoingnons</seg>
+                    <seg rend="673,194,1095,206">que icelle place de Grillen avec toute la
+                            reven<expan>ue</expan>,</seg>
+                    <seg rend="65,212,571,224">ainsi que ledit traictié le contient, vous lui
+                        baillez et</seg>
+                    <seg rend="577,212,1096,225">mettez en ses mains pour et en
+                        n<expan>ost</expan>re nom. Et en ce faisant</seg>
+                    <seg rend="61,228,696,239">nous vous en tendrons quitte et deschargé partout ou
+                        besoing sera,</seg>
+                    <seg rend="705,227,1098,239">sans aucunem<expan>en</expan>t all<expan>e</expan>r
+                        au contraire. Car ainsi</seg>
+                    <seg rend="62,245,424,258">nous plaist il et voulons estre fait.</seg>
+                    <seg rend="332,243,1091,261">Donné au Monteil Aymart, le XXVIme jour de may,
+                        l&#x2019;an de grace</seg>
+                    <seg rend="61,264,367,279">mil CCCC quarante <expan>et</expan> sept.</seg>
+                    <seg rend="101,326,357,349">Par monseigneur le daulphin</seg>
+                    <seg rend="145,358,267,372">en son conseil</seg>
+                    <seg rend="273,374,444,434">[signé :] Bochetel [paraphe]</seg>
+                </p>
+            </div>
+            <div type="transcription">
+                <div type="texte">
+                    <l><term
+                            n="Loys : Le futur Louis XI, détenteur du Dauphiné en tant que fils aîné du roi de France, a porté une grande attention à la province, qu&#x2019;il a en particulier activement administrée après s&#x2019;être brouillé avec son père en 1446."
+                            >Loys</term>, ainsné filz du roy de France, <term
+                            n="daulphin de Viennoys : Acquis par le roi de France Philippe VI en 1343, le Dauphiné de Viennois, terre d&#x2019;Empire, passe dès 1344 au futur Jean II. La règle s&#x2019;observe jusqu&#x2019;en 1461 de le confier au fils aîné du roi de France. Le maintien des institutions régionales se marque aussi dans le domaine diplomatique, avec l&#x2019;usage d&#x2019;un sceau (le « sceau dauphin ») et d&#x2019;une chancellerie propres."
+                            >daulphin de Viennoys</term>, <term
+                            n="conte de Valentinoys et de Dioys :Éléments complémentaires de la titulature delphinale à compter de 1419, date à laquelle le Valentinois (région de Valence) et une partie du Diois (région de Die) sont rattachés au Dauphiné ; ces terres correspondaient à peu près à la partie de l&#x2019;actuel département de la Drôme qui ne relevait pas à l&#x2019;origine du Dauphiné."
+                            >conte de Valentinoys et de Dioys</term>, </l>
+                    <l>a n<expan>ost</expan>re amé <expan>et</expan> feal Girault Aymar,</l>
+                    <l>escuier, seigneur de <term n="Granhan : Grignan (Drôme, ch.-l. cant.)."
+                            >Granhan</term>, salut et dilection.</l>
+                    <l>Comme par l&#x2019;<term
+                            n="accort et traictié : L&#x2019;échange dont il va être question a été conclu le 25 mai (E. Pilot de Thorey, Catalogue des actes du dauphin Louis II…, Grenoble, 1899-1911, n° 455, qui ignore le présent acte)."
+                            >accort et traictié</term> fait entre nous, d&#x2019;une part, et
+                        vous, d&#x2019;aut<expan>re</expan>,</l>
+                    <l>sur le fait de l&#x2019;eschange de la place, terre et seigneurie de
+                            <term
+                            n="Grillen : Grillon, aujourd&#x2019;hui dans le Vaucluse (cant. Valréas), est à 5 km au sud-est de Grignan. Le dauphin Louis s&#x2019;était engagé dès le 13 mai à remettre la seigneurie au pape."
+                            >Grillen</term>
+                        <term n="a la terre : Comprendre « avec la terre ».">a la terre</term></l>
+                    <l><expan>et</expan> seigneurie de <term
+                            n="Marsenne : Marsanne (Drôme, ch.-l. cant.).">Marsenne</term>
+                        <expan>et</expan> la moitié du</l>
+                    <l><term
+                            n="peage de Laine et des empses de Savasse : Leyne (Drôme, cant. Marsanne, comm. Savasse) était un ancien château des comtes de Valentinois ; supprimé au XVIIe siècle, le péage dit « de Leyne et des anses de Savasse » est attesté dès 1207."
+                            >peage de Laine et des empses de Savasse</term> vous nous doiez</l>
+                    <l>p<expan>resen</expan>tement delivrer et mettre en noz mains ladicte place,</l>
+                    <l>terre <expan>et</expan> seigneurie de Grillen ensemble</l>
+                    <l>toutes les rentes et reven<expan>ue</expan>s, ainsi que par le traictié sur
+                        ce fait peut app<expan>ar</expan>oir,</l>
+                    <l>savoir vous faisons que, nous confians a plain de la loyauté,</l>
+                    <l>souffisance <expan>et</expan> bonne preudomie de n<expan>ost</expan>re amé
+                            <expan>et</expan> feal</l>
+                    <l>escuier d&#x2019;escuierie <term
+                            n="Hugues de Verdun : Personnage non retrouvé ; mais plus tard une lettre du roi Louis XI (éd. J. Vaesen, t. III, p. 1) cite un « Jeannot de Sainte-Camelle », écuyer d&#x2019;écurie du roi, implanté à Montpellier. On peut donc identifier ici Verdun avec Verdun-en-Lauragais (Aude, cant. Castelnaudary)."
+                            >Hugues de Verdun</term>,</l>
+                    <l>seigneur de <term
+                            n="Sainte Camelle : Sainte-Camelle (Aude, cant. Salles-sur-l&#x2019;Hers)."
+                                >S<expan>ain</expan>te Camelle</term>, icelui avons
+                        co<expan>m</expan>mis et ordonné, co<expan>m</expan>mettons</l>
+                    <l>et ordonnons par ces p<expan>resen</expan>tes a prandre la possession,</l>
+                    <l>la garde et joïssance de lad<expan>icte</expan> place de Grillen, pour et</l>
+                    <l>en n<expan>ost</expan>re nom. Si vous mandons et expressement enjoingnons</l>
+                    <l>que icelle place de Grillen avec toute la reven<expan>ue</expan>,</l>
+                    <l>ainsi que ledit traictié le contient, vous lui baillez et</l>
+                    <l>mettez en ses mains pour et en n<expan>ost</expan>re nom. Et en ce faisant</l>
+                    <l>nous vous en tendrons quitte et deschargé partout ou besoing sera,</l>
+                    <l>sans aucunem<expan>en</expan>t all<expan>e</expan>r au contraire. Car ainsi</l>
+                    <l>nous plaist il et voulons estre fait.</l>
+                    <l>Donné au <term
+                            n="Monteil Aymart : Montélimar (Drôme, ch.-l. cant.). On sait d&#x2019;après les actes que le dauphin Louis y réside au moins du 16 mai au 29 juin 1447."
+                            >Monteil Aymart</term>, le XXVIme jour de may, l&#x2019;an de grace</l>
+                    <l>mil CCCC quarante <expan>et</expan> sept.</l>
+                    <l>Par monseigneur le daulphin</l>
+                    <l>en son conseil</l>
+                    <l>[signé :] <term
+                            n="Bochetel : Jean Bochetel, secrétaire (depuis 1439 au moins) et fidèle serviteur du dauphin Louis, apparaît comme contrôleur des finances du Dauphiné en décembre 1447 ; il sert ensuite le roi Louis XI jusqu&#x2019;à sa mort en 1470."
+                            >Bochetel</term> [paraphe]</l>
+                </div>
+                <div type="regeste">
+                    <head> </head>
+                    <p> Le dauphin Louis [II] fait savoir à Géraud Adhémar, seigneur de Grignan,
+                        qu'il a commis son écuyer Hugues de Verdun, seigneur de Sainte-Camelle, pour
+                        prendre possession de la seigneurie de Grillon, que Giraud a par un accord
+                        précédent abandonné au dauphin en échange de la seigneurie de Marsanne et de
+                        la moitié du péage de Leyne et des anses de Savasse. </p>
+                </div>
+            </div>
+            <div type="commentaire" n="diplomatique">
+                <head>Commentaire diplomatique</head>
+                <div n="1">
+                    <head>Caractères externes</head>
+                    <div type="contenu_commentaire">
+                        <div class="recommandation">
+                            <p>Passer la souris sur les cercles rouges pour des commentaires de
+                                détail</p>
+                        </div>
+                        <p>
+                            <figure rend="31/faxexternes.jpg">
+                                <figDesc>
+                                    <seg type="rect" rend="167,411,479,432">Caractéristique qu?il
+                                        faudrait examiner sur l?original : le trait occupe un espace
+                                        blanc que, sans doute, le nom de « Hugues de Verdun » n?a
+                                        pas réussi à couvrir suffisamment, pour avoir été porté dans
+                                        un second temps. Cette pratique du « blanc » est courante
+                                        dans les actes royaux de la seconde moitié du XVe siècle :
+                                        elle permet de préparer un acte d?administration courante
+                                        avant même que tous les éléments en soient décidés.</seg>
+                                    <seg type="rect" rend="215,441,268,495">Comme dans l?acte royal
+                                        français, le « S » initial de la clause injonctive est
+                                        grossi.</seg>
+                                    <seg type="poly"
+                                        rend="226,12,232,19,232,26,234,30,233,34,231,43,226,45,221,40,219,34,219,27,221,18"
+                                        >Étirement vers le haut des deux points qui servent à
+                                        pointer le « y ».</seg>
+                                    <seg type="poly"
+                                        rend="354,23,364,25,369,29,373,35,375,41,370,47,363,51,358,56,352,52,345,49,339,41,340,37,342,29,347,27"
+                                        >Héritier indirect des lettres allongées du haut Moyen Âge,
+                                        pourtant appliqué ici à un acte modeste, noter l?étirement
+                                        en hauteur de la plupart des initiales de la première ligne.</seg>
+                                    <seg type="poly"
+                                        rend="475,25,483,34,486,46,488,58,488,71,488,83,488,97,487,108,486,118,483,124,480,131,479,136,476,138,469,131,467,121,464,112,462,103,461,91,460,73,463,58,464,43,468,34"
+                                        >La large marge laissée à gauche n?a guère de répondant à
+                                        droite, où la marge est plus étroite, sans souci de
+                                        justification ; aucun mot n?est coupé</seg>
+                                    <seg type="poly" rend="206,84,212,87,213,92,206,92,202,89"
+                                        >Caractéristique qu?il faudrait examiner sur l?original : le
+                                        trait occupe un espace blanc que, sans doute, le nom de «
+                                        Hugues de Verdun » n?a pas réussi à couvrir suffisamment,
+                                        pour avoir été porté dans un second temps. Cette pratique du
+                                        « blanc » est courante dans les actes royaux de la seconde
+                                        moitié du XVe siècle : elle permet de préparer un acte
+                                        d?administration courante avant même que tous les éléments
+                                        en soient décidés.</seg>
+                                    <seg type="poly"
+                                        rend="103,96,114,97,115,105,108,108,101,108,96,106,90,101,92,97,97,97"
+                                        >Comme dans l?acte royal français, le « S » initial de la
+                                        clause injonctive est grossi.</seg>
+                                    <seg type="poly"
+                                        rend="351,156,373,164,381,177,387,191,386,204,384,217,380,227,374,236,365,244,360,244,349,247,341,244,327,232,321,224,316,212,316,202,316,190,322,176,328,167,333,162,340,159,344,156,360,158"
+                                        >Fragment de la simple queue de parchemin, portant la trace
+                                        du sceau.</seg>
+                                    <seg type="poly"
+                                        rend="190,145,202,153,207,156,210,163,211,172,213,182,210,190,205,198,201,204,193,207,185,207,179,200,172,190,170,179,170,170,172,162,177,154,182,145"
+                                        >Paraphe concluant la signature du nom du
+                                        notaire-secrétaire. Sa forme est à rapprocher des formes
+                                        pratiquées en chancellerie royale à l?époque.</seg>
+
+                                    <seg type="poly"
+                                        rend="44,237,51,239,56,246,54,252,50,258,43,257,36,253,34,247,38,241"
+                                        >Trace de déchirure de la bandelette de parchemin qui,
+                                        découpée sous la simple queue, permettait de clore le
+                                        document tout en protégeant le sceau, sur lequel le
+                                        parchemin plié était rabattu puis “ficelé”.</seg>
+                                    <seg type="poly"
+                                        rend="387,118,399,119,411,123,414,127,405,129,398,129,393,129,388,129,383,125,408,120,392,120,391,119,386,123"
+                                        >Le quantième et le mois semblent eux aussi avoir été portés
+                                        dans un second temps. On peut très bien imaginer la présente
+                                        lettre de commission préparée sitôt « l?accord et traité »
+                                        du 25 mai conclu, puis complétée le lendemain, où l?on a
+                                        désigné un commissaire disponible.</seg>
+                                </figDesc>
+                            </figure>
+                        </p>
+                    </div>
+                </div>
+                <div n="3">
+                    <head>Parties du discours</head>
+                    <div type="recommandation">
+                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        détail</p>
+                    </div>
+                    <div type="contenu_commentaire">
+                        <p><seg corresp="suscription" rend="color:#FF0000">Loys, ainsné filz du roy
+                                de France, daulphin de Viennoys, conte de Valentinoys et de Dioys,
+                                    <note id="suscription" type="bulle">Suscription</note>
+                            </seg><seg corresp="adresse" rend="color:#993399">a nostre amé et feal
+                                Girault Aymar, escuier, seigneur de Granhan<note id="adresse"
+                                    type="bulle">Adresse (placée après la suscription, dénote une
+                                    infériorité hiérarchique ou sociale</note></seg>, <seg
+                                        corresp="salut" rend="color:#009966">Salut et dilection<note
+                                    id="salut" type="bulle">Salut</note></seg>. <seg
+                                corresp="expose" rend="color:#000099">Comme par l'accort et traictié
+                                fait entre nous, d'une part, et vous, d'autre, sur le fait de
+                                l'eschange de la place, terre et seigneurie de Grillen a la terre et
+                                seigneurie de Marsenne et la moitié du peage de Laine et des empses
+                                de Savasse vous nous doiez presentement delivrer et mettre en noz
+                                mains ladicte place, terre et seigneurie de Grillen ensemble toutes
+                                les rentes et revenues, ainsi que par le traictié sur ce fait peut
+                                apparoir, <note id="expose" type="bulle">Exposé.</note></seg>
+                            <seg
+                                corresp="notification" rend="color:#009966">savoir
+                                vous faisons que<note id="notification" type="bulle"
+                                    >Notification (personnelle)</note></seg>, 
+                            <seg
+                                corresp="substitut" rend="color:#FF00FF">nous confians a plain de la loyauté,
+                                souffisance et bonne preudomie de nostre amé et feal escuie r
+                                d'escuierie Hugues de Verdun, seigneur de Sainte Camelle, icelui
+                                avons commis et ordonné, commettons et ordonnons par ces presentes a
+                                prandre la possession, la garde et joïssance de ladicte place de
+                                Grillen, pour et en nostre nom<note id="substitut" type="bulle"
+                                    >Substitut de Dispositif (verbe-clef :
+                                    &#x2019;commettons&#x2019;)</note></seg>,                        
+                            <seg corresp="clause_injonctive" rend="color:#0099CC">Si vous mandons et
+                                expressement enjoingnons que icelle place de Grillen avec toute la
+                                revenue, ainsi que ledit traictié le contient, vous lui baillez et
+                                mettez en ses mains pour et en nostre nom.<note
+                                    id="clause_injonctive" type="bulle">Clause
+                                injonctive</note></seg><seg corresp="Clause_decharge"
+                                rend="color:#CC3366">Et en ce faisant nous vous en tendrons quitte
+                                et deschargé partout ou besoing sera, sans aucunement aller au
+                                    contraire.<note id="Clause_decharge" type="bulle">Clause de
+                                    décharge</note></seg>
+                            <seg corresp="clause_intentionnelle" rend="color:#9999FF">Car ainsi nous
+                                plaist il et voulons estre fait<note id="clause_intentionnelle"
+                                    type="bulle">Clause intentionnelle</note></seg>. <seg
+                                corresp="date_finale" rend="color:#006600">Donné au Monteil Aymart,
+                                le XXVI<sup>me</sup> jour de may, l'an de grace mil CCCC quarante et
+                                    sept<note id="date_finale" type="bulle">Date finale de lieu et
+                                    de temps.</note></seg>. <seg corresp="mention"
+                                rend="color:#CC0000">Par monseigneur le daulphin en son conseil<note
+                                    id="mention" type="bulle">Mention hors-teneur (mention de
+                                    commandement)</note></seg>.</p>
+                        <p>
+                            <seg corresp="Nom_signature" rend="color:#999999"><hi rend="bold">(Signé
+                                    :</hi>) Bochetel (<hi rend="bold">paraphe</hi>)<note
+                                    id="Nom_signature" type="bulle">Nom-signature du notaire et
+                                    sécrétaire responsable de
+                            l&#x2019;établissement</note></seg>
+                        </p>
+                    </div>
+                </div>
+                <div n="4">
+                    <head>Interprétation</head>
+                    <div type="contenu_commentaire">
+                        <p>La captation du modèle royal est aussi forte qu'attendue. L'organisation
+                            du discours, de multiples formules viennent tout droit de la
+                            chancellerie royale (qui d'ailleurs fournit en personnel les princes du
+                            sang). On notera au passage la clause de décharge (nous créons ici cette
+                            expression, faute de mieux, car les manuels et vocabulaires de
+                            diplomatique ne la citent pas) : elle est inspirée des lettres royaux en
+                            matière financière, ce qui n'étonne pas vu le profil de la carrière de
+                            Bochetel (comprendre que, s'il agit comme il est ordonné, <hi
+                                rend="italic">en ce faisant</hi>, le comptable sera tenu pour
+                            quitte, déchargé de l'obligation qui lui est faite ; l'expression <hi
+                                rend="italic">partout ou besoing sera</hi> désigne à l'origine les
+                            différentes cours qui pourraient avoir à juger ses comptes).</p>
+                        <p>La typologie diplomatique est elle aussi « sous influence » : la forme
+                            matérielle (le format allongé, le scellement sur simple queue de
+                            parchemin), quelques traits du discours (l'adresse individuelle et
+                            surtout l'absence de corroboration) désignent sans hésitation un «
+                            mandement », acte ponctuel d'administration courante.</p>
+                        <p>Mandement au sens diplomatique, mais beaucoup moins nettement au sens
+                            juridique : il ne faut pas prendre la très courante clause injonctive («
+                            Si vous mandons… ») pour un dispositif. L'organisation du discours est
+                            certes traversée par l'expression sans détour, presque véhémente, d'une
+                            volonté, d'un ordre, auxquels on ne pourrait sans péril se soustraire ;
+                            elle suggère l'inégalité des positions. Elle est pourtant plus riche.
+                            D'abord parce qu'il n'y a pas de dispositif à proprement parler ; le
+                            document est, sous cet aspect, informatif : c'est une lettre, tournée
+                            dans la forme d'un acte de chancellerie (à rapprocher d'ailleurs, en
+                            sens inverse, dans l'écriture épistolaire moderne, du sens dérivé et
+                            affaibli de « mander » au sens de « faire savoir » : « Je vous mande
+                            que… »). Ensuite parce qu'il n'y a pas deux protagonistes, mais trois
+                            (le roi, le seigneur, le commissaire), ni une action, mais deux (la
+                            notification au seigneur, la commission au commissaire).</p>
+
+                        <p>C'est, en fin de compte, qu'il y a deux actes en un, et l'on doit
+                            imaginer le commissaire delphinal quittant Montélimar, muni de ce
+                            mandement dont il n'est pas destinataire mais exécuteur, pour ensuite le
+                            présenter au seigneur de Grignan (qui le gardera dans ses archives pour
+                            sa valeur de décharge) ; ce trait rapproche le document des lettres de
+                            créance des ambassadeurs.</p>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

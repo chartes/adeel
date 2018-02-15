@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>1203 (n. st.), février. Paris. Diplôme du roi Philippe Auguste</title>
+			</titleStmt>
+			<publicationStmt>
+				<idno type="numero">10</idno>
+				<publisher>École nationale des chartes</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Orig. : Arch. nat., K 27, n° 8 A.</p>
+				<p>Fac-sim. ENC : ENC : NF 279 (héliogravure).</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc> </profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="facsimile" rend="fax.jpg">
+				<p>
+					<seg rend="29,37,730,80">In nomine s<expan>an</expan>c<expan>t</expan>e et
+						individue Trinitatis, amen.</seg>
+					<seg rend="735,44,989,104">Ph<expan>ilippus</expan> D<expan>e</expan>i
+							gr<expan>ati</expan>a Franc<expan>orum</expan> rex.</seg>
+					<seg rend="18,101,183,119">Noverint universi</seg>
+					<seg rend="193,105,370,125">presentes parit<expan>er</expan>
+						<expan>et</expan> futuri</seg>
+					<seg rend="377,106,611,125">quod Gilo de Flagiaco tenebat</seg>
+					<seg rend="615,110,798,137">quodda<expan>m</expan> feodum de nobis,</seg>
+					<seg rend="800,122,994,145">scil<expan>ice</expan>t avoeriam de Emant</seg>
+					<seg rend="16,141,116,164"><expan>et</expan> lignariu<expan>m</expan>.</seg>
+					<seg rend="123,150,342,169">De lignario aut<expan>em</expan> erat dissensio</seg>
+					<seg rend="347,150,570,168">int<expan>er</expan> Gilonem <expan>et</expan> alios
+						advocatos</seg>
+					<seg rend="576,149,739,173">qui dicebant se de jure</seg>
+					<seg rend="743,156,985,183">partem hab<expan>er</expan>e in lignario illo si</seg>
+					<seg rend="19,191,226,211">manentes essent in Must<expan>er</expan>iolo.</seg>
+					<seg rend="235,193,552,213">Inquisita aut<expan>em</expan>
+						<expan>et</expan> cognita veritate hujus rei,</seg>
+					<seg rend="557,194,774,215">didicimus quod nichil hab<expan>er</expan>ent</seg>
+					<seg rend="777,198,975,224">de jure illi alii advocati</seg>
+					<seg rend="17,234,152,253">in pred<expan>i</expan>c<expan>t</expan>o lignario.</seg>
+					<seg rend="167,237,290,256">Illud aut<expan>em</expan> totum</seg>
+					<seg rend="299,235,497,259">q<expan>uo</expan>d prefatus Gilo habebat</seg>
+					<seg rend="500,236,655,258">in avoeria <expan>et</expan> lignario</seg>
+					<seg rend="659,239,842,259">tam in feodo q<expan>u</expan>am in
+						d<expan>omi</expan>nio</seg>
+					<seg rend="846,243,973,265">vendidit Roberto</seg>
+					<seg rend="12,268,146,291">abb<expan>at</expan>i <expan>et</expan> conventui</seg>
+					<seg rend="157,273,335,293">S<expan>an</expan>c<expan>t</expan>i Germani de
+						Pratis.</seg>
+					<seg rend="345,276,637,296">Quitavit etiam eis quicq<expan>u</expan>id
+						reclamabat</seg>
+					<seg rend="639,280,980,304">in uxore Herois <expan>et</expan> sororibus ejusdem
+						uxoris de Taste-</seg>
+					<seg rend="16,308,376,335">-dos. Nos aut<expan>em</expan> ad petitionem
+							pred<expan>i</expan>c<expan>t</expan>i Gilonis</seg>
+					<seg rend="383,314,595,335">hanc venditione<expan>m</expan>
+						<expan>con</expan>firmamus</seg>
+					<seg rend="602,312,802,335"><expan>et</expan>, ut
+							p<expan>er</expan>petuu<expan>m</expan> robur obtineat,</seg>
+					<seg rend="805,316,983,339">sigilli n<expan>ost</expan>ri munimine</seg>
+					<seg rend="-17,350,310,373"><expan>et</expan> regii no<expan>min</expan>is
+							karact<expan>er</expan>e inferius annotato</seg>
+					<seg rend="318,349,538,374">presente<expan>m</expan> paginam roboramus.</seg>
+					<seg rend="549,353,777,376">Actum Parisius,</seg>
+					<seg rend="784,357,980,381">anno ab incarnatione D<expan>omi</expan>ni</seg>
+					<seg rend="12,391,127,413">M° CC° s<expan>e</expan>c<expan>un</expan>do,</seg>
+					<seg rend="134,391,382,414">regni n<expan>ost</expan>ri anno vicesimo quarto.</seg>
+					<seg rend="401,388,588,413">Astantibus in palatio n<expan>ost</expan>ro</seg>
+					<seg rend="596,396,851,418">quoru<expan>m</expan>
+						no<expan>m</expan>i<expan>n</expan>a supposita sunt <expan>et</expan> signa.</seg>
+					<seg rend="860,401,973,422">Dapifero n<expan>u</expan>llo.</seg>
+					<seg rend="8,422,328,450">Signum Guidonis buticularii.</seg>
+					<seg rend="337,424,607,449">S. Mathei camerarii.</seg>
+					<seg rend="613,432,928,456">S. Droconis constabularii. </seg>
+					<seg rend="18,524,355,550">Data vacante </seg>
+					<seg rend="621,528,928,559">cancellaria</seg>
+					<seg rend="19,559,207,584">p<expan>er</expan> manum f<expan>rat</expan>ris
+						Garini.</seg>
+					<seg rend="392,458,598,581">[Monogramme] PHILIPPUS</seg>
+				</p>
+			</div>
+			<div type="transcription">
+				<div type="texte">
+					<l>In nomine s<expan>an</expan>c<expan>t</expan>e et [i]ndividue Trinitatis, </l>
+					<l>amen. Ph<expan>ilippus</expan> D<expan>e</expan>i gr<expan>ati</expan>a
+							Franc<expan>orum</expan> rex.</l>
+					<l>Noverint universi presentes parit<expan>er</expan>
+						<expan>et</expan> futuri </l>
+					<l>quod Gilo de <term
+							n="Seine-et-Marne, cant. Lorrez-le-Bocage-Préaux (à égale distance environ de Nemours et Montereau)."
+							>Flagiaco</term> tenebat quodda<expan>m</expan> feodum </l>
+					<l>de nobis, scil<expan>ice</expan>t avoeriam de <term
+							n="Seine-et-Marne, cant. Montereau-Fault-Yonne.">Emant</term></l>
+					<l><expan>et</expan> lignariu<expan>m</expan>. De <term
+							n="Droit de couper ou de prendre du bois (lat. lignum).">lignario</term>
+							aut<expan>em</expan> erat dissensio </l>
+					<l>int<expan>er</expan> Gilonem <expan>et</expan> alios advocatos qui dicebant </l>
+					<l>se de jure partem hab<expan>er</expan>e in lignario illo si</l>
+					<l>manentes essent in Must<expan>er</expan>iolo. Inquisita </l>
+					<l>aut<expan>em</expan>
+						<expan>et</expan> cognita veritate hujus rei, didicimus </l>
+					<l>quod nichil hab<expan>er</expan>ent de jure illi alii advocati</l>
+					<l>in pred<expan>i</expan>c<expan>t</expan>o lignario. Illud
+						aut<expan>em</expan> totum q<expan>uo</expan>d </l>
+					<l>prefatus Gilo habebat in avoeria <expan>et</expan> lignario </l>
+					<l>tam in feodo q<expan>u</expan>am in d<expan>omi</expan>nio vendidit Roberto</l>
+					<l>abb<expan>at</expan>i <expan>et</expan> conventui
+						S<expan>an</expan>c<expan>t</expan>i Germani de Pratis. </l>
+					<l>Quitavit etiam eis quicq<expan>u</expan>id reclamabat in uxore </l>
+					<l>Herois <expan>et</expan> sororibus ejusdem uxoris de Taste-</l>
+					<l>dos. Nos aut<expan>em</expan> ad petitionem
+						pred<expan>i</expan>c<expan>t</expan>i Gilonis </l>
+					<l>hanc venditione<expan>m</expan>
+						<expan>con</expan>firmamus <expan>et</expan>, ut
+							p<expan>er</expan>petuu<expan>m</expan>
+					</l>
+					<l>robur obtineat, sigilli n<expan>ost</expan>ri munimine</l>
+					<l><expan>et</expan> regii no<expan>min</expan>is karact<expan>er</expan>e
+						inferius annotato </l>
+					<l>presente<expan>m</expan> paginam roboramus. Actum </l>
+					<l>Parisius, anno ab incarnatione D<expan>omi</expan>ni </l>
+					<l>
+						<term
+							n="L&#x2019;année 1202 (a.st.) est, comme il est déjà usuel à la chancellerie royale sous le règne de Philippe Auguste, exprimée dans le style de Pâques ; elle va donc du 14 avril 1202 au 5 avril 1203 (n.st.). De leur côté, les années de règne de Philippe Auguste partent de son sacre, le 1er novembre 1179 (et non, comme ce sera la règle après lui, du jour de la mort du prédécesseur) ; sa 24e année de règne va donc du 1er novembre 1202 au 31 octobre 1203. L&#x2019;acte est donc compris entre le 1er novembre 1202 et le 5 avril 1203 (n.st.). Par un hasard insigne, on dispose d&#x2019;une autre version du même acte : elle est datée, plus précisément, de février 1202 (a.st.)."
+							>M° CC° s<expan>e</expan>c<expan>un</expan>do, regni
+							n<expan>ost</expan>ri anno vicesimo </term>
+					</l>
+					<l><term
+							n="L&#x2019;année 1202 (a.st.) est, comme il est déjà usuel à la chancellerie royale sous le règne de Philippe Auguste, exprimée dans le style de Pâques ; elle va donc du 14 avril 1202 au 5 avril 1203 (n.st.). De leur côté, les années de règne de Philippe Auguste partent de son sacre, le 1er novembre 1179 (et non, comme ce sera la règle après lui, du jour de la mort du prédécesseur) ; sa 24e année de règne va donc du 1er novembre 1202 au 31 octobre 1203. L&#x2019;acte est donc compris entre le 1er novembre 1202 et le 5 avril 1203 (n.st.). Par un hasard insigne, on dispose d&#x2019;une autre version du même acte : elle est datée, plus précisément, de février 1202 (a.st.)."
+							>quarto. </term>Astantibus in palatio n<expan>ost</expan>ro
+							quoru<expan>m</expan>
+					</l>
+					<l>no<expan>m</expan>i<expan>n</expan>a supposita sunt <expan>et</expan> signa.
+							<term
+							n="La charge de sénéchal a été laissée vacante depuis la mort de Thibaud de Blois en 1191."
+							>Dapifero n<expan>u</expan>llo.</term></l>
+					<l>Signum Guidonis <term
+							n="La charge est traditionnellement détenue par une famille de puissants chevaliers de Senlis, qui prirent le nom de Bouteillers."
+							>buticularii.</term> S. <term n="Mathieu comte de Beaumont-sur-Oise."
+							>Mathei </term></l>
+					<l>camerarii. S. <term n="Dreu de Mello.">Droconis</term> constabularii.</l>
+					<l/>
+					<l>Data <term
+							n="La chancellerie elle aussi a été laissée vacante par Philippe Auguste, depuis 1185. Elle était dirigée par un chef effectif, qui prit rapidement le titre de garde des sceaux, &quot;cil qui porte le scel&quot;. Dès la fin du XIIIe siècle, on lui donna par courtoisie (ou il prit par ailleurs) le titre de &quot;chancelier&quot;, qui fut bientôt officiellement réintroduit à la chancellerie (alors qu&#x2019;il restait hors d&#x2019;usage à la Curie pontificale où la charge avait elle aussi été laissée vacante)."
+							>vacante cancellaria</term></l>
+					<l>p<expan>er</expan> manum <term
+							n="L&#x2019;un des principaux conseillers du roi, frère hospitalier, élu évêque de Senlis en 1213/14. A compter de 1201, son intervention dans l&#x2019;administration du royaume et plus spécialement à la chancellerie est marquée par cette formule &quot;Donné... par la main de frère Guérin&quot;, qui bien sûr ne se rapporte pas à l&#x2019;exécution matérielle , mais au rôle de chef de la chancellerie (la formule &quot;Data par manum...&quot;, introduite à l&#x2019;imitation évidente des privilèges pontificaux, est devenue dès les années 1110 la formule usuelle de la souscription de chancellerie au bas des actes royaux). Guérin sera d&#x2019;ailleurs orné du titre de chancelier à la fin de sa vie (1223-1227)."
+								>f<expan>rat</expan>ris Garini.</term></l>
+					<l/>
+					<l>[Monogramme] PHILIPPUS.</l>
+				</div>
+				<div type="traduction">
+					<l>Au nom de la sainte et indivisible Trinité, amen. </l>
+					<l>Philippe par la grâce de Dieu roi de France.</l>
+					<l>Sachent tous, présents et à venir, </l>
+					<l>que Gilles de <term
+							n="Seine-et-Marne, cant. Lorrez-le-Bocage-Préaux (à égale distance environ de Nemours et Montereau)."
+							>Flagy</term> tenait un fief</l>
+					<l>de nous, à savoir l&#x2019;avouerie d&#x2019;<term
+							n="Seine-et-Marne, cant. Montereau-Fault-Yonne.">Esmans</term></l>
+					<l>et le lignage. Mais le <term
+							n="Droit de couper ou de prendre du bois (lat. lignum).">lignage</term>
+						était en litige </l>
+					<l>entre Gilles et d&#x2019;autres avoués qui disaient </l>
+					<l>avoir en droit part à ce lignage s&#x2019;ils</l>
+					<l>séjournaient à Montereau. La vérité de la chose </l>
+					<l>ayant été établie par enquête, nous avons appris </l>
+					<l>que ces autres avoués ne possédaient en droit </l>
+					<l>rien du susdit lignage. Or, tout ce que ledit </l>
+					<l>Gilles possédait de l&#x2019;avouerie et du lignage, tant </l>
+					<l>en fief qu&#x2019;en seigneurie, il l&#x2019;a vendu à
+						l&#x2019;abbé Robert </l>
+					<l>et à la communauté de Saint-Germain-des-Prés. </l>
+					<l>Il les a aussi quittés de tout ce qu&#x2019;il réclamait sur la </l>
+					<l>femme d&#x2019;Heros et sur les soeurs de ladite femme à </l>
+					<l>Tastedos. Nous, à la requête dudit Gilles, </l>
+					<l>confirmons cette vente, et, afin qu&#x2019;elle conserve une </l>
+					<l>valeur perpétuelle, par l&#x2019;apposition de notre sceau </l>
+					<l>et par le monogramme du nom royal tracé ci-dessous, </l>
+					<l>nous corroborons la présente charte. Fait </l>
+					<l>à Paris, l&#x2019;an de l&#x2019;incarnation de notre Seigneur</l>
+					<l>
+						<term
+							n="L&#x2019;année 1202 (a.st.) est, comme il est déjà usuel à la chancellerie royale sous le règne de Philippe Auguste, exprimée dans le style de Pâques ; elle va donc du 14 avril 1202 au 5 avril 1203 (n.st.). De leur côté, les années de règne de Philippe Auguste partent de son sacre, le 1er novembre 1179 (et non, comme ce sera la règle après lui, du jour de la mort du prédécesseur) ; sa 24e année de règne va donc du 1er novembre 1202 au 31 octobre 1203. L&#x2019;acte est donc compris entre le 1er novembre 1202 et le 5 avril 1203 (n.st.). Par un hasard insigne, on dispose d&#x2019;une autre version du même acte : elle est datée, plus précisément, de février 1202 (a.st.)."
+							>1202, vingt-quatrième de notre règne. </term>
+					</l>
+					<l>Étant présents dans notre palais ceux dont les noms </l>
+					<l>et les souscriptions suivent. <term
+							n="La charge de sénéchal a été laissée vacante depuis la mort de Thibaud de Blois en 1191."
+							>Nul n&#x2019;étant sénéchal.</term></l>
+					<l>Souscription de Guy, <term
+							n="La charge est traditionnellement détenue par une famille de puissants chevaliers de Senlis, qui prirent le nom de Bouteillers."
+							>bouteiller. </term>S. de <term n="Mathieu comte de Beaumont-sur-Oise."
+							>Mathieu, </term></l>
+					<l>chambrier. S. de <term n="Dreu de Mello.">Dreu</term>, connétable.</l>
+					<l/>
+					<l>Donné <term
+							n="La chancellerie elle aussi a été laissée vacante par Philippe Auguste, depuis 1185. Elle était dirigée par un chef effectif, qui prit rapidement le titre de garde des sceaux, &quot;cil qui porte le scel&quot;. Dès la fin du XIIIe siècle, on lui donna par courtoisie (ou il prit par ailleurs) le titre de &quot;chancelier&quot;, qui fut bientôt officiellement réintroduit à la chancellerie (alors qu&#x2019;il restait hors d&#x2019;usage à la Curie pontificale où la charge avait elle aussi été laissée vacante)."
+							>la chancellerie étant vacante,</term></l>
+					<l>par la main de <term
+							n="L&#x2019;un des principaux conseillers du roi, frère hospitalier, élu évêque de Senlis en 1213/14. A compter de 1201, son intervention dans l&#x2019;administration du royaume et plus spécialement à la chancellerie est marquée par cette formule &quot;Donné... par la main de frère Guérin&quot;, qui bien sûr ne se rapporte pas à l&#x2019;exécution matérielle , mais au rôle de chef de la chancellerie (la formule &quot;Data par manum...&quot;, introduite à l&#x2019;imitation évidente des privilèges pontificaux, est devenue dès les années 1110 la formule usuelle de la souscription de chancellerie au bas des actes royaux). Guérin sera d&#x2019;ailleurs orné du titre de chancelier à la fin de sa vie (1223-1227)."
+							>frère Guérin.</term></l>
+					<l/>
+					<l>PHILIPPE.</l>
+				</div>
+			</div>
+			<div type="commentaire" n="diplomatique">
+				<head>Commentaire diplomatique</head>
+				<div n="1">
+					<head>Caractères externes</head>
+					<div type="contenu_commentaire">
+						<div class="recommandation">
+							<p>Passer la souris sur les cercles rouges pour des commentaires de
+								détail</p>
+						</div>
+
+						<p>
+							<figure rend="10/faxexternes.jpg">
+								<figDesc>
+									<seg type="poly"
+										rend="361,50,415,47,463,46,499,43,544,39,575,34,591,31,594,26,585,23,569,20,539,14,508,10,493,10,458,8,440,7,414,7,400,5,351,6,336,4,306,4,281,4,250,6,222,5,173,8,152,8,134,9,101,12,77,14,66,15,45,14,25,19,16,23,6,27,26,34,60,40,85,42,134,45,172,48,234,49,285,50"
+										>Premières lignes en caractères allongés (invocation et
+										suscription)</seg>
+									<seg type="poly"
+										rend="342,70,348,81,347,88,340,94,338,88,334,81,338,74">"s"
+										longs à treillis</seg>
+									<seg type="poly" rend="152,72,159,80,153,87,149,82,146,77">Tilde
+										en noeud</seg>
+									<seg type="poly"
+										rend="358,200,380,197,397,200,407,201,410,206,402,210,391,212,380,212,367,211,353,209,347,207,344,205,350,201"
+										>ligature "ct" étirée</seg>
+									<seg type="poly"
+										rend="226,246,246,248,268,249,271,257,260,265,245,268,228,266,216,264,209,263,205,258,206,253,212,250,219,250"
+										>S" abrégé étiré</seg>
+									<seg type="poly"
+										rend="306,261,330,264,346,272,355,281,359,288,363,294,366,302,367,311,359,322,354,327,342,338,335,342,328,346,312,348,289,345,280,344,270,337,262,333,255,327,251,320,248,309,247,300,250,293,254,281,265,272,276,267,286,261,297,260,318,261"
+										>Monogramme royal : le scribe inscrit un "h" en bas à
+										gauche, alors que la structure du monogramme lui offrait
+										déjà la lettre "H". Identique redoublement du "S", une fois
+										dans la barre médiane, une autre dans
+										l&#x2019;abbréviation finale "us"</seg>
+
+								</figDesc>
+							</figure>
+						</p>
+						<p>L'acte montre des caractères éminents de <strong>solennité</strong>. </p>
+
+						<p><strong>Dans l'écriture, l'influence de la chancellerie pontificale
+							</strong>se manifeste dans la plupart des caractéristiques suivantes :</p>
+						<ul>
+							<li><strong>première ligne</strong> en caractères allongés (allongement
+								dont l'origine remonte aussi, au-delà des diplômes carolingiens, à
+								l'Antiquité tardive) et au besoin étirés en largeur afin que la
+								première ligne soit entièrement occupée par l' invocation et la
+								suscription ; la suscription est ponctuée fortement, en fin de
+								ligne, par trois points superposés (une ponctuation de style
+								"épigraphique", qui accentue la monumentalité de l'acte) ;</li>
+							<li><strong>ligature <em>ct</em> étirée</strong> (mais une seule
+								occurrence ici, pour mettre en valeur <em>Actum</em>, premier mot de
+								la date, et aucune sur le couple <em>st</em>) ;</li>
+
+							<li><strong>majuscules</strong> agrandies et ornées de traits de
+								doublement ;</li>
+							<li><strong>tildes en n&#156;ud</strong> ;</li>
+							<li><em>
+									<strong>s</strong>
+								</em><strong> longs à treillis</strong> (boucles au sommet).</li>
+
+						</ul>
+						<p><strong>Les souscriptions,</strong> mises en relief à la fin du texte par
+								l'<strong>étirement de l'abréviation <em>s(ignum)</em></strong>, se
+							limitent maintenant à celles, purement factices, des <strong>quatre
+								grands officiers</strong> : sénéchal, bouteiller, chambrier,
+							connétable. On fait souscrire ceux-ci, évidemment sans aucune
+							implication graphique réelle, et même quand ils sont absents de la cour.
+							Ces souscriptions, uniquement présentes, comme le monogramme du roi, sur
+							les actes les plus solennels, sont une sorte de "butte-témoin" des
+							souscriptions qui ont fleuri au bas de l'acte royal au XI<sup>e</sup>
+							siècle : la chancellerie capétienne, qui a toujours organisé dans un
+							ordre très savant les souscriptions au bas de ses actes, a très tôt (dès
+							le règne de Philippe I<sup>er</sup>) mis en relief, à part, les
+							souscriptions des quatre grands officiers du palais royal, qui
+							apparaissent dans les années 1050. La présentation de l'acte a donc déjà
+							un siècle de tradition derrière elle, alors même que le roi cherche à
+							contrebalancer l'importance que pourrait prendre tel des grands
+							officiers à sa cour (alternativement par vacance, rupture de la tendance
+							à la formation de dynasties dans une charge, recours à un proche très
+							fidèle...). Ces souscriptions fictives constituent ainsi une sorte
+							d'annuaire, enregistrant jusqu'aux vacances de charge (ici pour le
+							sénéchalat).</p>
+						<p><strong>Le monogramme royal</strong>, comprenant l'ensemble des lettres
+							du nom PHILIPPUS, est sensiblement le même, pour tous les Capétiens
+							nommés Philippe, de Philippe I<sup>er</sup> jusqu'à Philippe VI, le
+							dernier roi qui en usera au bas d'un acte. A la différence des
+							monogrammes de type "carolin" (monogramme des Charles, à base d'un
+							losange central), celui-ci est centré sur un H majuscule, comme pour les
+							rois nommés Louis (Hludowicus au haut Moyen Age), à l'image du
+							monogramme de l'empereur Louis le Pieux. Noter aussi la disposition
+							traditionnelle du monogramme, enchâssé non plus dans un énoncé
+							explicatif (<em>Signum Talis... regis</em>), mais dans la souscription
+							de chancellerie (position usuelle depuis Louis VII).</p>
+
+						<p><strong>Le scellement</strong> est fait sur <strong>lacs de
+							soie</strong>.</p>
+						<p><strong>La genérosité du repli</strong> destiné à supporter le poids du
+							sceau est-elle même un élément de solennité : on ne marchande pas sur la
+							quantité de parchemin.</p>
+						<p align="left"><strong>La recherche de </strong><strong>symétrie</strong>
+							est évidente, depuis le XII<sup>e</sup> siècle, <strong/>entre
+							monogramme et sceau, comme re-présentations actives du pouvoir royal,
+							pivots où l'acte trouve sa stabilité et sa permanence.</p>
+
+						<p align="left">Noter que le soin apporté à la mise par écrit n'exclut
+							pourtant pas une <strong>bourde</strong> dans la première ligne, dû au
+							manque de lisibilité des lettres allongées (<em>i </em>initial omis dans
+								<em>[i]ndividue</em>).</p>
+						<p id="suite">
+							<a href="diplomatique10-3.php">Suite : Parties du discours.</a>
+						</p>
+
+					</div>
+				</div>
+				<div n="3">
+					<head>Parties du discours</head>
+					<div type="recommandation">
+						<p> Passer la souris sur le texte pour obtenir des commentaires de
+						détail</p>
+					</div>
+					<div type="contenu_commentaire">
+						<p>La solennité de la présentation et l'éclat des caractères graphiques ne
+							sont nullement incompatibles (trait caractéristique des
+								XII<sup>e</sup>-XIII<sup>e</sup> siècles, contrastant avec le
+							maniérisme de la rédaction des actes les plus solennels à compter de
+							Philippe le Bel) avec une relative économie du discours, qui confine
+							parfois à la sécheresse, qui rejette progressivement le préambule sans
+							encore multiplier les clauses finales, et qui, par-dessus tout, use d'un
+							vocabulaire précis, technique, juridique. </p>
+
+						<p>
+							<seg corresp="invocation" rend="color:#0000FF">In nomine sancte et
+								[i]ndividue Trinitatis, amen.<note id="invocation" type="bulle"
+									>Invocation trinitaire complétée d&#x2019;un amen : forme
+									canonique à la chancellerie.</note></seg>
+							<seg corresp="suscription" rend="color:#FF0000">Philippus Dei gratia
+								Francorum rex.<note id="suscription" type="bulle">Suscription : nom,
+									formule de dévotion, titre (toujours Francorum en latin). La
+									suscription est isolée, sans adresse ni salut, c&#x2019;est
+									un trait distinctif de solennité : l&#x2019;acte
+									n&#x2019;est pas conçu comme une lettre, mais comme la
+									transcription d&#x2019;une parole souveraine</note></seg>
+							<seg corresp="notification" rend="color:#009966">Noverint universi
+								presentes pariter et futuri quod<note id="notification" type="bulle"
+									>Notification universelle (projection dans le futur : indice de
+									perpétuité)</note></seg>
+							<seg corresp="expose" rend="color:#990066">Gilo de Flagiaco tenebat
+								quoddam feodum de nobis, scilicet avoeriam de Emant et lignarium. De
+								lignario autem erat dissensio inter Gilonem et alios advocatos qui
+								dicebant se de jure partem habere in lignario illo si manentes
+								essent in Musteriolo. Inquisita autem et cognita veritate hujus rei,
+								didicimus quod nichil haberent de jure illi alii advocati in
+								predicto lignario. Illud autem totum quod prefatus Gilo habebat in
+								avoeria et lignario tam in feodo quam in dominio vendidit Roberto
+								abbati et conventui Sancti Germani de Pratis. Quitavit etiam eis
+								quicquid reclamabat in uxore Herois et sororibus ejusdem uxoris de
+									Tastedos.<note id="expose" type="bulle">Exposé.</note></seg>
+							<seg corresp="dispositif" rend="color:#FF00FF">Nos autem ad petitionem
+								predicti Gilonis hanc venditionem confirmamus<note id="dispositif"
+									type="bulle">Dispositif : l&#x2019;acte est une
+								confirmation</note></seg>
+							<seg corresp="corroboration" rend="color:#000099">et, ut perpetuum robur
+								obtineat, sigilli nostri munimine et regii nominis karactere
+								inferius annotato presentem paginam roboramus.<note
+									id="corroboration" type="bulle">Corroboration probatoire avec
+									mention de perpétuit&#201; annonce du sceau et du
+								monogramme</note></seg>
+							<seg corresp="date" rend="color:#FF0000">Actum Parisius, anno ab
+								incarnatione Domini M° CC° secundo, regni nostri anno vicesimo
+									quarto.<note id="date" type="bulle">Date de lieu et de
+								temps</note></seg>
+							<seg corresp="corroboration_2" rend="color:#990066">Nos Astantibus in
+								palatio nostro quorum nomina supposita sunt et signa.<note
+									id="corroboration_2" type="bulle">Second volet de la
+									corroboration : annonce des souscriptions des grands
+								officiers</note></seg>
+							<seg corresp="souscription" rend="color:#FF00FF">Dapifero nullo. Signum
+								Guidonis buticularii. S. Mathei camerarii. S. Droconis
+									constabularii.<note id="souscription" type="bulle">Souscriptions
+									des grands officiers</note></seg>
+							<seg corresp="monogramme" rend="color:#009966">Data vacante [PHILIPPUS]
+								cancellaria per manum fratris Garini.<note id="monogramme"
+									type="bulle">Monogramme royal enchâssé dans la récognition de
+									chancellerie</note></seg>
+						</p>
+
+
+
+
+					</div>
+				</div>
+				<div n="4">
+					<head>Commentaire final</head>
+					<div type="contenu_commentaire">
+						<p>De nombreux traits, graphiques et rédactionnels, dénoncent le caractère
+							solennel et perpétuel de l'acte. Il dérive en ligne droite, quoique au
+							prix d'incessantes et modestes retouches, des préceptes ordinaires de
+							l'époque carolingienne. Les diplomatistes ont pris l'habitude de le
+							désigner du nom de "diplôme" ; la chancellerie capétienne en produira
+							les derniers exemplaires sous le règne de Philippe VI. Il sera alors
+							entièrement remplacé par la "charte", elle aussi perpétuelle et
+							solennelle, mais sans monogramme. </p>
+						<p>Tout au long du XIII<hi rend="exposant">e</hi> siècle, la chancellerie
+							royale n'a pas encore adopté, pour distinguer formellement les
+							différentes catégories d'actes, un usage parfaitement normalisé des
+							caractéristiques qui permettent aux siècles suivants de le faire d'un
+							coup d'œil (couleur de la cire, nature de l'attache, présence et type
+							d'adresse, etc.). Mais, dès le règne de Philippe Auguste, même si ces
+							usages se cherchent un peu, la chancellerie a déjà un vocabulaire très
+							ferme pour désigner les différents niveaux de sa production : privilèges
+							(c'est la catégorie de notre "diplôme"), chartes et lettres.</p>
+					</div>
+				</div>
+
+
+			</div>
+
+		</body>
+	</text>
+</TEI>
