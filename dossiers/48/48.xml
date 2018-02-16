@@ -33,11 +33,11 @@
                     <seg rend="541,176,1069,206"><ex>et</ex> ad q<ex>u</ex>itat<ex>i</ex>one<ex>m</ex> <ex>et</ex> refutat<ex>i</ex>one<ex>m</ex> <ex>con</ex>cedendu<ex>m</ex> tanq<ex>u</ex>am in rem sua<ex>m</ex></seg>
                     <seg rend="37,234,555,255">p<ex>ro</ex>priam p<ex>ro</ex>curatore<ex>m</ex> <ex>con</ex>stituo, sp<ex>ec</ex>iale<ex>m</ex> pactu<ex>m</ex> sibi faciens</seg>
                     <seg rend="565,220,1073,248">de ult<ex>er</ex>i<ex>us</ex> no<ex>n</ex> petendo, ratu<ex>m</ex> <ex>et</ex> firmu<ex>m</ex> p<ex>er</ex>petuo h<ex>ab</ex>itur<ex>us</ex></seg>
-                    <seg rend="42,290,42,308,759,286,762,269,349,275" n="poly" >q<ex>u</ex>icq<ex>u</ex>id de p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is p<ex>er</ex> ip<ex>su</ex>m receptu<ex>m</ex>, levatu<ex>m</ex>, q<ex>u</ex>itatu<ex>m</ex> fu<ex>er</ex>it v<ex>e</ex>l q<ex>u</ex>omodo<ex>libet</ex> ordinatu<ex>m</ex>.</seg>
-                    <seg rend="783,265,778,287,1091,298,1091,280" n="poly">Datu<ex>m</ex> Tarvie in p<ex>re</ex>missor<ex>um</ex> testi-</seg>
-                    <seg rend="37,332,38,355,642,329,642,310" n="poly">-mo<ex>n</ex>ium sub meo sigillo, in vigilia Annu<ex>n</ex>ciat<ex>i</ex>o<ex>n</ex>is b<ex>eat</ex>e Marie,</seg>
-                    <seg rend="653,312,653,331,1064,335,1065,322" n="poly">anno D<ex>omi</ex>ni M° CCC° XXI°. Et ego, D<ex>omi</ex>nic<ex>us</ex></seg>
-                    <seg rend="38,373,39,395,105,392,248,404,596,374,665,373,674,357,572,353,258,386,132,375" n="poly">p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>s, sigillu<ex>m</ex> meu<ex>m</ex> apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut sup<ex>r</ex>a.</seg>
+                    <seg rend="42,290,42,308,759,286,762,269,349,275" >q<ex>u</ex>icq<ex>u</ex>id de p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is p<ex>er</ex> ip<ex>su</ex>m receptu<ex>m</ex>, levatu<ex>m</ex>, q<ex>u</ex>itatu<ex>m</ex> fu<ex>er</ex>it v<ex>e</ex>l q<ex>u</ex>omodo<ex>libet</ex> ordinatu<ex>m</ex>.</seg>
+                    <seg rend="783,265,778,287,1091,298,1091,280">Datu<ex>m</ex> Tarvie in p<ex>re</ex>missor<ex>um</ex> testi-</seg>
+                    <seg rend="37,332,38,355,642,329,642,310">-mo<ex>n</ex>ium sub meo sigillo, in vigilia Annu<ex>n</ex>ciat<ex>i</ex>o<ex>n</ex>is b<ex>eat</ex>e Marie,</seg>
+                    <seg rend="653,312,653,331,1064,335,1065,322">anno D<ex>omi</ex>ni M° CCC° XXI°. Et ego, D<ex>omi</ex>nic<ex>us</ex></seg>
+                    <seg rend="38,373,39,395,105,392,248,404,596,374,665,373,674,357,572,353,258,386,132,375">p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>s, sigillu<ex>m</ex> meu<ex>m</ex> apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut sup<ex>r</ex>a.</seg>
                </p>
             </div>
             <div type="text">
@@ -87,7 +87,7 @@
                     <l>apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut </l>
                     <l>sup<ex>r</ex>a.</l>
                 </div>
-                <div type="traduction">
+                <div type="translation">
                     <l>Sachent tous que moi, Dominique de </l>
                     <l><term n="L&#x2019;Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour." >L&#x2019;Estellou</term>, notaire, de plein gré et volonté </l>
                     <l>spontanée donne et concède à <term n="Le titre de &#34; maître &#34; renvoie sans doute ici à la détention d&#x2019;un grade universitaire." >maître</term>

@@ -97,7 +97,7 @@
         <div type="transcription">
           <p>4 mars 1763. Délibération pour faire transporter à la bibliothèque de la ville des livres qui étoient au greffe.</p>
           <p>Du vendredy quatre mars mil sept cent soixante-trois.</p>
-          <p>Ce jour, nous,<term n="Le Prévot des marchands est le chef de la municipalité parisienne. Au XVIIIe siècle,  il s&#8217;agit toujours d&#8217;un maître des requêtes de l&#8217;hôtel du roi;  en principe élu, il est de facto désigné par le roi. " >prévosts des marchands</term> et <term n="Les quatre échevins de Paris sont élus deux par deux pour des mandats de deux ans, le jour de la Saint-Roch  (16 août) par le Grand bureau, les vingt-quatre conseillers de ville (des officiers propriétaires de leur charge),  les seize quarteniers (chefs de la milice bourrgeoise dans les seize quartiers de Paris) et des bourgeois mandés (notables désignés par leurs pairs pour cette fonction élective)." >échevins </term>de la ville de Paris assemblés au <term n="Le bureau de la ville, héritier de la confrérie des marchands de l’eau, fait office de  municipalité à Paris depuis le Moyen Âge. Il se divise en un Petit Bureau  (le prévôt et les quatre échevins) et un Grand Bureau (les mêmes, le procureur, le greffier et le receveur)." >bureau de lad. ville</term> avec le <term n="Le procureur du roi et de la ville est un officier représentant les intérêts du roi et du public auprès de la municipalité." >procureur du roy et de la ville</term> pour les affaires d’icelle, monsieur le prévost des marchands a dit que le bureau ayant ordonné par sa délibération du deux septembre mil sept cent soixante l’établissement à
+          <p>Ce jour, nous,<term n="Le Prévot des marchands est le chef de la municipalité parisienne. Au XVIIIe siècle,  il s’agit toujours d’un maître des requêtes de l’hôtel du roi;  en principe élu, il est de facto désigné par le roi. " >prévosts des marchands</term> et <term n="Les quatre échevins de Paris sont élus deux par deux pour des mandats de deux ans, le jour de la Saint-Roch  (16 août) par le Grand bureau, les vingt-quatre conseillers de ville (des officiers propriétaires de leur charge),  les seize quarteniers (chefs de la milice bourrgeoise dans les seize quartiers de Paris) et des bourgeois mandés (notables désignés par leurs pairs pour cette fonction élective)." >échevins </term>de la ville de Paris assemblés au <term n="Le bureau de la ville, héritier de la confrérie des marchands de l’eau, fait office de  municipalité à Paris depuis le Moyen Âge. Il se divise en un Petit Bureau  (le prévôt et les quatre échevins) et un Grand Bureau (les mêmes, le procureur, le greffier et le receveur)." >bureau de lad. ville</term> avec le <term n="Le procureur du roi et de la ville est un officier représentant les intérêts du roi et du public auprès de la municipalité." >procureur du roy et de la ville</term> pour les affaires d’icelle, monsieur le prévost des marchands a dit que le bureau ayant ordonné par sa délibération du deux septembre mil sept cent soixante l’établissement à
             <term n="L’hôtel de Lamoignon, bâti dans le quartier du marais à la fin du XVIè siècle, reste l’hôtel de la  famille des magistrats de Lamoignon jusqu’en 1750. Il abrite aujourd’hui la Bibliothèque historique de la ville de Paris. " > l’hôtel de Lamoignon </term>de la bibliothèque léguée à la ville par feu <term n="Antoine Moriau (1699-1760), procureur du roi et de la ville de 1722 à 1755.  Il lègue sa bibliothèque à la ville par son testament du  20 mai 1759." >Antoine Moriau </term>avocat et <term n="Le procureur du roi et de la ville est un officier représentant les  intérêts du roi et du public auprès de la municipalité." >procureur du roy et de la ville</term> honnoraire, il croyoit nécessaire avant l’ouverture de ladite bibliothèque au public qui devoit avoir son effet dans le courant du mois prochain d’y ajouter encore les livres qui avoient été acquis par la ville en mil sept cent trente-quatre dans l’idée de former un commencement de bibliothèque, lesquels consistent dans l’état qu’il nous mettoit sous les yeux et qui sont depuis ce temps déposés dans une des pièces dépendantes du greffe de lad. ville. Sur quoy, la matière mise en délibération, ouy et ce consentant le procureur du roi et de la ville, nous avons arresté et délibéré, arrestons et delibérons que les livres contenus en l’état qui demeurera joint à ces presentes après avoir été paraphé de nous et du procureur du roy et de la ville seront transportés incessament à l’hôtel de Lamoignon pour y être incorporés avec les autres livres de la bibliothèque de la ville des-quels le <term n="Le bibliothécaire de la ville est alors l’abbé Pierre-Nicolas Bonamy (1694-1770),  également pensionnaire de l’académie royale des Inscriptions et belles-lettres et historiographe de la ville" > bibliotéquaire</term> se chargera par l’inventaire de la totalité qu’il est tenu de remettre au greffe de la ville et au moyen de la-quelle remise des livres contenus aud. état cy-joint le greffier de la ville en demeurera bien et valablement déchargé. Fait au bureau de la ville lesd. jour et an que dessus. <term n="Jean-Baptiste-Élie Camus de Pontcarré (1702-1775), seigneur de Viarmes,  conseiller d’État, prévôt des marchands en charge de 1758 à 1764." >Camus</term>
             <term n="Louis Mercier (1709-après 1786), marchand, conseiller de ville (1747-1786), échevin en 1761." >Mercier</term>
             <term n="Laurent-Jean Babille (1712-1789), avocat au Parlement, conseiller de ville (1731), échevin en 1761." >Babille</term>
@@ -112,76 +112,67 @@
           </p>
         </div>
       </div>
+      <div type="speech">
+        <head>Parties du discours</head>
+        <div>
+          <p>
+            <seg corresp="vide">Registré folio 131verso. <note xml:id="vide"/></seg>
+            <seg corresp=" minute">
+              <add place="margin-left">4 mars 1763.</add>
+              <note xml:id=" minute">Références de la minute de la délibération</note>
+            </seg>
+            <seg corresp="analyse"><add place="margin-left" />Délibération pour faire transporter à la bibliothèque de la ville des livres qui étoient au greffe.<note xml:id="analyse" >Analyse</note></seg>
+            <seg corresp="date_1">Du vendredy quatre mars mil sept cent soixante-trois.<note xml:id="date_1" >Date</note></seg>
+            <seg corresp="exposé">Ce jour, nous, prévost des marchands et échevins de la ville de Paris assemblés au bureau de lad. ville avec le procureur du roy et de la ville pour les affaires d’icelle, monsieur le prévost des marchands a dit que le bureau ayant ordonné par sa délibération du deux septembre mil sept cent soixante l’établissement à l’hôtel de Lamoignon de la bibliothèque léguée à la ville par feu Antoine Moriau avocat et procureur du roy et de la ville honnoraire, il croyoit nécessaire avant l’ouverture de ladite bibliothèque au public qui devoit avoir son effet dans le courant du mois prochain d’y ajouter encore les livres qui avoient été acquis par la ville en mil sept cent trente-quatre dans l’idée de former un commencement de bibliothèque, lesquels consistent dans l’état qu’il nous mettoit sous les yeux et qui sont depuis ce temps déposés dans une des pièces dépendantes du greffe de lad. ville. Sur quoy, la matière mise en délibération, ouy et ce consentant le procureur du roi et de la ville,<note xml:id="exposé" >Exposé</note></seg>
+            <seg corresp="dispositif">nous avons arresté et délibéré, arrestons et delibérons que les livres contenus en l’état qui demeurera joint à ces presentes après avoir été paraphé de nous et du procureur du roy et de la ville seront transportés incessament à l’hôtel de Lamoignon pour y être incorporés avec les autres livres de la bibliothèque de la ville des-quels le bibliotéquaire se chargera par l’inventaire de la totalité qu’il est tenu de remettre au greffe de la ville et au moyen de la-quelle remise des livres contenus aud. état cy-joint le greffier de la ville en demeurera bien et valablement déchargé. <note xml:id="dispositif" >Dispositif</note></seg>
+            <seg corresp="date_2">Fait au bureau de la ville lesd. jour et an que dessus.<note xml:id="date_2" >Date</note></seg>
+            <seg corresp="signatures"> Camus Mercier Babille de Varenne  Deshayes <ex>paraphe</ex> Jollivet <note xml:id="signatures">Signatures des membres du bureau</note></seg>
+          </p>
+        </div>
+      </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Parties du discours</head>
-          <div>
-            <p>
-              <seg corresp="vide">Registré folio 131verso. <note xml:id="vide"/></seg>
-              <seg corresp=" minute">
-                <add place="margin-left">4 mars 1763.</add>
-                <note xml:id=" minute">Références de la minute de la délibération</note>
-              </seg>
-              <seg corresp="analyse"><add place="margin-left" />Délibération pour faire transporter à la bibliothèque de la ville des livres qui étoient au greffe.<note xml:id="analyse" >Analyse</note></seg>
-              <seg corresp="date_1">Du vendredy quatre mars mil sept cent soixante-trois.<note xml:id="date_1" >Date</note></seg>
-              <seg corresp="exposé">Ce jour, nous, prévost des marchands et échevins de la ville de Paris assemblés au bureau de lad. ville avec le procureur du roy et de la ville pour les affaires d’icelle, monsieur le prévost des marchands a dit que le bureau ayant ordonné par sa délibération du deux septembre mil sept cent soixante l’établissement à l’hôtel de Lamoignon de la bibliothèque léguée à la ville par feu Antoine Moriau avocat et procureur du roy et de la ville honnoraire, il croyoit nécessaire avant l’ouverture de ladite bibliothèque au public qui devoit avoir son effet dans le courant du mois prochain d’y ajouter encore les livres qui avoient été acquis par la ville en mil sept cent trente-quatre dans l’idée de former un commencement de bibliothèque, lesquels consistent dans l’état qu’il nous mettoit sous les yeux et qui sont depuis ce temps déposés dans une des pièces dépendantes du greffe de lad. ville. Sur quoy, la matière mise en délibération, ouy et ce consentant le procureur du roi et de la ville,<note xml:id="exposé" >Exposé</note></seg>
-              <seg corresp="dispositif">nous avons arresté et délibéré, arrestons et delibérons que les livres contenus en l’état qui demeurera joint à ces presentes après avoir été paraphé de nous et du procureur du roy et de la ville seront transportés incessament à l’hôtel de Lamoignon pour y être incorporés avec les autres livres de la bibliothèque de la ville des-quels le bibliotéquaire se chargera par l’inventaire de la totalité qu’il est tenu de remettre au greffe de la ville et au moyen de la-quelle remise des livres contenus aud. état cy-joint le greffier de la ville en demeurera bien et valablement déchargé. <note xml:id="dispositif" >Dispositif</note></seg>
-              <seg corresp="date_2">Fait au bureau de la ville lesd. jour et an que dessus.<note xml:id="date_2" >Date</note></seg>
-              <seg corresp="signatures"> Camus Mercier Babille de Varenne  Deshayes <ex>paraphe</ex> Jollivet <note xml:id="signatures">Signatures des membres du bureau</note></seg>
-              <!-- Tout comme l'a fait  Alexandre Monnin pour, par exemple, le dossier Theleme-1763-05,   j'ai remplacé, dans ce document, le signe "#" (hors xml:id et assimilés) par "<ex>paraphe</ex>" -->
-            </p>
-          </div>
-        </div>
-        <div>
           <head>Interprétation</head>
-          <div>
-            <p>Arrêt du bureau de la ville (le Petit Bureau et le procureur) expédié sur papier timbré à en-tête de la généralité de Paris. L’original de la délibération figure dans le registre correspondant (AN, H*1870, fol. 131v.), comme l’indique l’en-tête du document. Il porte les signatures du prévôt des marchands, du procureur du roi et de la ville, et des quatre échevins en charge. Le notaire Deshayes, échevin cette année-là, y ajoute son paraphe professionnel. Le contenu de la bibliothèque transférée, donnée en pièce jointe à la suite de l’expédition, a été publié par Alfred Franklin, Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc..., Paris, Imprimerie nationale, t. III, 1873, p. 224-225, pièce n°IX.</p>
-          </div>
+          <p>Arrêt du bureau de la ville (le Petit Bureau et le procureur) expédié sur papier timbré à en-tête de la généralité de Paris. L’original de la délibération figure dans le registre correspondant (AN, H*1870, fol. 131v.), comme l’indique l’en-tête du document. Il porte les signatures du prévôt des marchands, du procureur du roi et de la ville, et des quatre échevins en charge. Le notaire Deshayes, échevin cette année-là, y ajoute son paraphe professionnel. Le contenu de la bibliothèque transférée, donnée en pièce jointe à la suite de l’expédition, a été publié par Alfred Franklin, Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc..., Paris, Imprimerie nationale, t. III, 1873, p. 224-225, pièce n°IX.</p>
         </div>
         <div>
           <head>Bibliographie</head>
           <div>
-            <div>
-              <listBibl>
-                <bibl>
-                  <author>C<hi rend="sc">OUSIN</hi> (Mathieu)</author>,
-                  <title>« Les conférences historiques des conseillers de ville au xviiie siècle »</title>, <title>Bulletin de la Fédération des sociétés historiques de Paris</title>
-                  <date when="1883">1883</date>
-                  <biblScope type="vol">12</biblScope>, <biblScope type="pp" >p.170-176</biblScope>
-                </bibl>
-                <bibl>
-                  <author>C<hi rend="smalls caps">ROQ</hi>(Laurence)</author>,
-                  <title>« La municipalité parisienne à l’épreuve des absolutismes : démantèlement d’une structure politique et création d’une administration (1660-1789) »</title>, <title >Le prince, la ville et le bourgeois (xive-xviiie siècles)</title>, <editor>Laurence Croq éd.</editor>,
-                  <pubPlace>Paris</pubPlace>, <publisher>Nolin</publisher>,
-                  <date when="2004">2004</date>, <biblScope type="pp" >p. 175-201</biblScope>. </bibl>
-                <bibl>
-                  <author>F<hi rend="smalls caps">RANKLIN</hi> (Alfred)</author>,
-                  <title> Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc...</title>,
-                  <pubPlace>Paris</pubPlace>, <publisher>Imprimerie nationale</publisher>, <biblScope type="vol">t. III</biblScope>,
-                  <date when="1873">1873</date>
-                  <biblScope type="pp">p. 181-300</biblScope>. </bibl>
-                <bibl>
-                  <author>J<hi rend="smalls caps">UNGES</hi>(Catherine)</author>,
-                  <title>Les échevins parisiens au xviiie siècle</title>,
-                  <title> thèse inédite de l’École des chartes
-                  </title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>
-                  <date when="1996">1996</date>, <biblScope type="pp" >p. 163-170</biblScope>. </bibl>
-                <bibl>
-                  <author>S<hi rend="smalls caps">URIREY</hi>D<hi rend="smalls caps">E</hi>S<hi rend="smalls caps" >AINT</hi>-R<hi rend="smalls caps">EMY</hi>(Henry de)</author>, <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, <date when="1969"/>
-                  <biblScope type="vol">(14-2)</biblScope>, <biblScope type="pp" >p. 47-62</biblScope>, : <note> [en ligne sur http://bbf.enssib.fr]</note>. </bibl>
-              </listBibl>
-            </div>
+            <listBibl>
+              <bibl>
+                <author>C<hi rend="sc">OUSIN</hi> (Mathieu)</author>,
+                <title>« Les conférences historiques des conseillers de ville au xviiie siècle »</title>, <title>Bulletin de la Fédération des sociétés historiques de Paris</title>
+                <date when="1883">1883</date>
+                <biblScope type="vol">12</biblScope>, <biblScope type="pp" >p.170-176</biblScope>
+              </bibl>
+              <bibl>
+                <author>C<hi rend="smalls caps">ROQ</hi>(Laurence)</author>,
+                <title>« La municipalité parisienne à l’épreuve des absolutismes : démantèlement d’une structure politique et création d’une administration (1660-1789) »</title>, <title >Le prince, la ville et le bourgeois (xive-xviiie siècles)</title>, <editor>Laurence Croq éd.</editor>,
+                <pubPlace>Paris</pubPlace>, <publisher>Nolin</publisher>,
+                <date when="2004">2004</date>, <biblScope type="pp" >p. 175-201</biblScope>. </bibl>
+              <bibl>
+                <author>F<hi rend="smalls caps">RANKLIN</hi> (Alfred)</author>,
+                <title> Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc...</title>,
+                <pubPlace>Paris</pubPlace>, <publisher>Imprimerie nationale</publisher>, <biblScope type="vol">t. III</biblScope>,
+                <date when="1873">1873</date>
+                <biblScope type="pp">p. 181-300</biblScope>. </bibl>
+              <bibl>
+                <author>J<hi rend="smalls caps">UNGES</hi>(Catherine)</author>,
+                <title>Les échevins parisiens au xviiie siècle</title>,
+                <title> thèse inédite de l’École des chartes
+                </title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>
+                <date when="1996">1996</date>, <biblScope type="pp" >p. 163-170</biblScope>. </bibl>
+              <bibl>
+                <author>S<hi rend="smalls caps">URIREY</hi>D<hi rend="smalls caps">E</hi>S<hi rend="smalls caps" >AINT</hi>-R<hi rend="smalls caps">EMY</hi>(Henry de)</author>, <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, <date when="1969"/>
+                <biblScope type="vol">(14-2)</biblScope>, <biblScope type="pp" >p. 47-62</biblScope>, : <note> [en ligne sur http://bbf.enssib.fr]</note>. </bibl>
+            </listBibl>
           </div>
         </div>
       </div>
       <div type="history">
         <head>Commentaire historique.</head>
-        <div>
-          <div>
-            <p>Les premiers jalons de la bibliothèque de la ville de Paris, ouverte au public le 13 avril 1763, sont posés grâce au legs fait par le procureur du roi et de la ville Antoine Moriau (1699-1760). Comme il habitait l’hôtel Lamoignon, sa bibliothèque est laissée sur place par la ville qui prend le bail des lieux (6 000  livres de loyer) à sa charge. Les fonds s’enrichissent ensuite rapidement grâce à plusieurs apports, dont celui des livres conservés avec les archives de la ville, dans les chambres dites du Grand et Petit Trésor. Ils comprenaient des annales et des poèmes à la gloire de Paris mais aussi, du fait d’un premier projet non abouti sous la prévôté de Turgot (1729-1740), une cinquantaine de volumes de livres d’histoire et de droit. La ville achète aussi en décembre 1762 la collection de gravures, dessins et manuscrits de l’abbé de La Grive, géographe de la ville, et en 1764 les livres de son bibliothécaire Pierre-Nicolas Bonamy (1694-1770). L’Hôtel-de-ville prend ainsi sa part au développement des bibliothèques publiques dans l’Europe des Lumières. La sienne ouvre deux jours par semaine, le mercredi et le samedi.</p>
-          </div>
-        </div>
+        <p>Les premiers jalons de la bibliothèque de la ville de Paris, ouverte au public le 13 avril 1763, sont posés grâce au legs fait par le procureur du roi et de la ville Antoine Moriau (1699-1760). Comme il habitait l’hôtel Lamoignon, sa bibliothèque est laissée sur place par la ville qui prend le bail des lieux (6 000  livres de loyer) à sa charge. Les fonds s’enrichissent ensuite rapidement grâce à plusieurs apports, dont celui des livres conservés avec les archives de la ville, dans les chambres dites du Grand et Petit Trésor. Ils comprenaient des annales et des poèmes à la gloire de Paris mais aussi, du fait d’un premier projet non abouti sous la prévôté de Turgot (1729-1740), une cinquantaine de volumes de livres d’histoire et de droit. La ville achète aussi en décembre 1762 la collection de gravures, dessins et manuscrits de l’abbé de La Grive, géographe de la ville, et en 1764 les livres de son bibliothécaire Pierre-Nicolas Bonamy (1694-1770). L’Hôtel-de-ville prend ainsi sa part au développement des bibliothèques publiques dans l’Europe des Lumières. La sienne ouvre deux jours par semaine, le mercredi et le samedi.</p>
       </div>
     </body>
   </text>

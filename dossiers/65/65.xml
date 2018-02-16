@@ -22,286 +22,107 @@
     <body>
       <div type="facsimile">
         <p>
-	  <seg rend="26,108,36,86,84,85,92,94,427,86,428,108,83,118,59,135,64,142,49,154,32,147" n="poly">
-	    Manifestum sit cu<ex>n</ex>c<ex>ti</ex>s
-	    q<ex>uo</ex>d nos N[uno]
-	    Sanc<ex>ii</ex>, D<ex>e</ex>i
-	    gr<ex>ati</ex>a
-	    d<ex>omi</ex>n<ex>u</ex>s Rossil<ex>ionis</ex>,
+	  <seg rend="26,108,36,86,84,85,92,94,427,86,428,108,83,118,59,135,64,142,49,154,32,147"> Manifestum sit cu<ex>n</ex>c<ex>ti</ex>s q<ex>uo</ex>d nos N[uno] Sanc<ex>ii</ex>, D<ex>e</ex>i gr<ex>ati</ex>a d<ex>omi</ex>n<ex>u</ex>s Rossil<ex>ionis</ex>,
 	 </seg>
-	  <seg rend="432,86,850,114">
-	  Vall<ex>is</ex> Asp<ex>er</ex>ii,
-	  Confl<ex>uentis</ex> <ex>et</ex>
-	  Cerritan<ex>ie</ex>, p<ex>er</ex> nos <ex>et</ex>
-	  om<ex>ne</ex>s n<ex>ost</ex>ros in
-	  p<ex>er</ex>petuu<ex>m</ex> concedim<ex>us</ex>
+	  <seg rend="432,86,850,114"> Vall<ex>is</ex> Asp<ex>er</ex>ii, Confl<ex>uentis</ex> <ex>et</ex> Cerritan<ex>ie</ex>, p<ex>er</ex> nos <ex>et</ex> om<ex>ne</ex>s n<ex>ost</ex>ros in p<ex>er</ex>petuu<ex>m</ex> concedim<ex>us</ex>
 	 </seg>
-	  <seg rend="71,122,426,132">
-	  v<ex>o</ex>b<ex>is</ex>, d<ex>omi</ex>no Jacobo,
-	  D<ex>e</ex>i gr<ex>ati</ex>a regi
-	  Aragon<ex>um</ex>, regni Major<ex>icarum</ex>
+	  <seg rend="71,122,426,132"> v<ex>o</ex>b<ex>is</ex>, d<ex>omi</ex>no Jacobo, D<ex>e</ex>i gr<ex>ati</ex>a regi Aragon<ex>um</ex>, regni Major<ex>icarum</ex>
 	  <ex>et</ex> Val<ex>e</ex>n<ex>cie</ex>, 
 	 </seg>
-	  <seg rend="431,115,852,133">
-	  comiti Barch<ex>inone</ex> <ex>et</ex> Urgelli
-	  <ex>et</ex> d<ex>omi</ex>no Montispessulani,
-	  q<ex>uo</ex>d possitis post vita<ex>m</ex>
-	  n<ex>ost</ex>ram 
+	  <seg rend="431,115,852,133"> comiti Barch<ex>inone</ex> <ex>et</ex> Urgelli
+	  <ex>et</ex> d<ex>omi</ex>no Montispessulani, q<ex>uo</ex>d possitis post vita<ex>m</ex> n<ex>ost</ex>ram 
 	 </seg>
-	  <seg rend="42,149,385,153">
-	  vos <ex>et</ex> v<ex>est</ex>ri pon<ex>er</ex>e
-	  <ex>et</ex> mitt<ex>er</ex>e vicariu<ex>m</ex> in
-	  civitate Major<ex>icarum</ex> p<ex>er</ex> vos, 
+	  <seg rend="42,149,385,153"> vos <ex>et</ex> v<ex>est</ex>ri pon<ex>er</ex>e
+	  <ex>et</ex> mitt<ex>er</ex>e vicariu<ex>m</ex> in civitate Major<ex>icarum</ex> p<ex>er</ex> vos, 
 	 </seg>
-	  <seg rend="389,139,853,158">
-	  q<ex>u</ex>i teneat<ex>ur</ex> dare <ex>et</ex>
-	  s<ex>er</ex>vare jura n<ex>ost</ex>ra <ex>et</ex>
-	  n<ex>ost</ex>ror<ex>um</ex>,
-	  v<ex>o</ex>b<ex>is</ex> t<ex>ame</ex>n
-	  s<ex>er</ex>vantib<ex>us</ex> in vita
-	  n<ex>ost</ex>ra 
+	  <seg rend="389,139,853,158"> q<ex>u</ex>i teneat<ex>ur</ex> dare <ex>et</ex> s<ex>er</ex>vare jura n<ex>ost</ex>ra <ex>et</ex> n<ex>ost</ex>ror<ex>um</ex>, v<ex>o</ex>b<ex>is</ex> t<ex>ame</ex>n s<ex>er</ex>vantib<ex>us</ex> in vita n<ex>ost</ex>ra 
 	 </seg>
-	  <seg rend="41,170,456,176">
-	  carta<ex>m</ex> q<ex>u</ex>a<ex>m</ex>
-	  n<ex>o</ex>b<ex>is</ex> fecistis, q<ex>uo</ex>d
-	  p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>m
-	  vicariu<ex>m</ex> co<ex>n</ex>censu <ex>et</ex>
-	  voluntate n<ex>ost</ex>ra 
+	  <seg rend="41,170,456,176"> carta<ex>m</ex> q<ex>u</ex>a<ex>m</ex> n<ex>o</ex>b<ex>is</ex> fecistis, q<ex>uo</ex>d p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>m vicariu<ex>m</ex> co<ex>n</ex>censu <ex>et</ex> voluntate n<ex>ost</ex>ra 
 	 </seg>
-	  <seg rend="459,159,831,184">
-	  v<ex>e</ex>l locu<ex>m</ex>
-	  n<ex>ost</ex>r<ex>u</ex>m tene<ex>n</ex>tis in vita
-	  n<ex>ost</ex>ra in Major<ex>icis</ex>
-	  pone<ex>re</ex>tis. Dat<ex>um</ex> 
+	  <seg rend="459,159,831,184"> v<ex>e</ex>l locu<ex>m</ex> n<ex>ost</ex>r<ex>u</ex>m tene<ex>n</ex>tis in vita n<ex>ost</ex>ra in Major<ex>icis</ex> pone<ex>re</ex>tis. Dat<ex>um</ex> 
 	 </seg>
-	  <seg rend="39,193,472,206">
-	  ap<ex>u</ex>d Castilione<ex>m</ex>, IIII
-	  id<ex>us</ex> nov<ex>em</ex>br<ex>is</ex>, anno
-	  D<ex>omi</ex>ni M CC XL.
+	  <seg rend="39,193,472,206"> ap<ex>u</ex>d Castilione<ex>m</ex>, IIII id<ex>us</ex> nov<ex>em</ex>br<ex>is</ex>, anno D<ex>omi</ex>ni M CC XL.
 	 </seg>
-	  <seg rend="43,249,330,270">
-	  Signum <ex>étoile</ex> d<ex>omi</ex>ni N[unonis]
-	  Sanc<ex>ii</ex>.
+	  <seg rend="43,249,330,270"> Signum <ex>étoile</ex> d<ex>omi</ex>ni N[unonis] Sanc<ex>ii</ex>.
 	 </seg>
-	  <seg rend="47,320,196,335">
-	  Testes huj<ex>us</ex> rei sunt :
+	  <seg rend="47,320,196,335"> Testes huj<ex>us</ex> rei sunt :
 	 </seg>
-	  <seg rend="321,325,397,342">
-	  G. d<ex>e</ex> Pavo
+	  <seg rend="321,325,397,342"> G. d<ex>e</ex> Pavo
 	 </seg>
-	  <seg rend="571,318,648,339">
-	  F[errarius] d<ex>e</ex> Olzeto
+	  <seg rend="571,318,648,339"> F[errarius] d<ex>e</ex> Olzeto
 	 </seg>
-	  <seg rend="48,343,150,361">
-	  Rotland<ex>us</ex> Lain
+	  <seg rend="48,343,150,361"> Rotland<ex>us</ex> Lain
 	 </seg>
-	  <seg rend="319,345,403,368">
-	  B<ex>er</ex>n<ex>ardus</ex> d<ex>e</ex> Pavo
+	  <seg rend="319,345,403,368"> B<ex>er</ex>n<ex>ardus</ex> d<ex>e</ex> Pavo
 	 </seg>
-	  <seg rend="574,350,654,366">
-	  G<ex>arsi</ex>a Repost<ex>er</ex>
+	  <seg rend="574,350,654,366"> G<ex>arsi</ex>a Repost<ex>er</ex>
 	 </seg>
-	  <seg rend="38,367,138,383">
-	  A[rnaldus] d<ex>e</ex> V<ex>er</ex>neto
+	  <seg rend="38,367,138,383"> A[rnaldus] d<ex>e</ex> V<ex>er</ex>neto
 	 </seg>
-	  <seg rend="323,372,387,388">
-	  Jo<ex>hannes</ex> Roiz
+	  <seg rend="323,372,387,388"> Jo<ex>hannes</ex> Roiz
 	 </seg>
-	  <seg rend="573,372,687,386">
-	  Martin<ex>us</ex> d’Oblites
+	  <seg rend="573,372,687,386"> Martin<ex>us</ex> d’Oblites
 	 </seg>
-	  <seg rend="41,388,235,382,332,392,469,392,468,414,40,408" n="poly">
-	  Raimu<ex>n</ex>d<ex>us</ex> Carl<ex>e</ex>s mandato
-	  d<ex>omi</ex>ni N[unonis] Sanc<ex>ii</ex>
-	  <ex>et</ex> vic<ex>e</ex> mag<ex>ist</ex>ri
-	  Jo<ex>hannis not<ex>arii</ex></ex> 
+	  <seg rend="41,388,235,382,332,392,469,392,468,414,40,408"> Raimu<ex>n</ex>d<ex>us</ex> Carl<ex>e</ex>s mandato d<ex>omi</ex>ni N[unonis] Sanc<ex>ii</ex>
+	  <ex>et</ex> vic<ex>e</ex> mag<ex>ist</ex>ri Jo<ex>hannis not<ex>arii</ex></ex> 
 	 </seg>
-	  <seg rend="473,393,565,400,661,390,678,403,721,379,804,378,855,404,857,438,731,445,473,422" n="poly">
-	  sui ha<ex>n</ex>c carta<ex>m</ex>
-	  sc<ex>r</ex>ipsit <ex>et</ex> hoc
-	  sig-<ex>seing</ex>-n<ex>um</ex> fec<ex>it</ex>.
+	  <seg rend="473,393,565,400,661,390,678,403,721,379,804,378,855,404,857,438,731,445,473,422"> sui ha<ex>n</ex>c carta<ex>m</ex> sc<ex>r</ex>ipsit <ex>et</ex> hoc sig-<ex>seing</ex>-n<ex>um</ex> fec<ex>it</ex>.
 	 </seg>
 	</p>
       </div>	    
       <div type="text">
         <div type="transcription">
-	  <l>Manifestum sit cunctis quod nos <term n="Nunyo Sanche (Nunó Sanç
-	  en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin
-	  germain de Blanche de Castille, était issu d’une branche cadette des
-	  comtes de Barcelone. Il était vassal du roi d’Aragon pour le
-	  Roussillon, le Conflent, la Cerdagne et le Vallespir.">N[uno]
-	  Sancii</term>, Dei gratia</l>
+	  <l>Manifestum sit cunctis quod nos <term n="Nunyo Sanche (Nunó Sanç en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin germain de Blanche de Castille, était issu d’une branche cadette des comtes de Barcelone. Il était vassal du roi d’Aragon pour le Roussillon, le Conflent, la Cerdagne et le Vallespir.">N[uno] Sancii</term>, Dei gratia</l>
 	  <l>dominus Rossilionis, Vallis Asperii, Confluentis et Cerritanie,</l>
 	  <l>per nos et omnes nostros in perpetuum concedimus vobis</l>
-	  <l>domino <term n="Jacques (Jaume) Ier le Conquérant, roi d’Aragon
-	  (1213-1276), reprit les Baléares (1229-1235) et Valence (1238) sur
-	  les Sarrazins.">Jacobo</term>, Dei gratia regi Aragonum, regni
-	  Majoricarum </l>
+	  <l>domino <term n="Jacques (Jaume) Ier le Conquérant, roi d’Aragon (1213-1276), reprit les Baléares (1229-1235) et Valence (1238) sur les Sarrazins.">Jacobo</term>, Dei gratia regi Aragonum, regni Majoricarum </l>
 	  <l>et Valencie, comiti Barchinone et Urgelli et domino Montispessulani,</l>
 	  <l>quod possitis post vitam nostram vos et vestri ponere et mittere</l>
-	  <l>vicarium in civitate <term n="Lorsque Jacques Ier, en
-	  1228, proposa à ses vassaux d’aller reconquérir les Baléares, il fut
-	  décidé que les conquêtes seraient partagées entre les vainqueurs, qui
-	  les tiendraient en fief du roi, par l’entremise d’une commission où
-	  siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de la
-	  ville de Majorque, tombée le 31 décembre 1229. C’est apparemment sur
-	  ces possessions urbaines (si importantes qu’il laissa un bailli pour
-	  les administrer) que porte l’acte, qui permet au roi d’Aragon
-	  d’affermir son contrôle sur les possessions de son
-	  cousin.">Majoricarum</term> per vos, qui teneatur</l> <l>dare et
-	  servare jura nostra et nostrorum,</l>
+	  <l>vicarium in civitate <term n="Lorsque Jacques Ier, en 1228, proposa à ses vassaux d’aller reconquérir les Baléares, il fut décidé que les conquêtes seraient partagées entre les vainqueurs, qui les tiendraient en fief du roi, par l’entremise d’une commission où siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de la ville de Majorque, tombée le 31 décembre 1229. C’est apparemment sur ces possessions urbaines (si importantes qu’il laissa un bailli pour les administrer) que porte l’acte, qui permet au roi d’Aragon d’affermir son contrôle sur les possessions de son cousin.">Majoricarum</term> per vos, qui teneatur</l> <l>dare et servare jura nostra et nostrorum,</l>
 	  <l>vobis tamen servantibus in vita nostra cartam quam nobis fecistis,</l>
 	  <l>quod predictum vicarium concensu et voluntate nostra</l>
 	  <l>vel locum nostrum tenentis in vita nostra in Majoricis poneretis</l>
-	  <l>Datum apud <term n="Castello d’Empuries ou plutôt Castello de la
-	  Plana, si l’on admet que le roi Jacques Ier, qui séjournait alors
-	  dans la région de Valence, n’aurait pas manqué d’assister à un acte
-	  aussi important, argument qui se heurte au fait que le roi n’est pas
-	  cité parmi les témoins, alors que certains de ses proches y
-	  sont.">Castilionem</term>, IIII idus novembris, anno Domini M CC
-	  XL.</l> <l>Signum (étoile) domini N[unonis] Sancii.</l>
-	  <l>Testes hujus rei sunt : G. de <term n="G. et Bernardus de Pavo
-	  rappellent le nom de Bernat de Pau (localité catalane, Alt Empordà),
-	  vassal de Nunyo, qui obtint un fief à Majorque en 1229, et de Guillem
-	  de Pau, mentionné à deux reprises en 1243 et 1265.">Pavo</term>,
-	  F[errarius] de <term n="Le nom est peut-être à rapprocher de
-	  celui de la famille d’Olcet (un certain Bernard Olcet est mentionné
-	  en 1243), ou plutôt d’un F. Salzet/Solzet qui souscrit d’autres actes
-	  de Nunyo.">Olzeto</term>. <term n="Rotllan Lain ou Lainez est
-	  fréquemment attesté comme témoin à la cour de Jacques Ier. Peut-être
-	  avec Arnaud de Verneto constituait-il l’« ambassade » envoyée par ce
-	  dernier à son cousin pour lui demander l’acte.">Rotlandus
-	  Lain</term>.</l> <l>Bernardus de Pavo.
-	  <term n="Garsia Reboster (sobriquet signifiant à l’origine
-	  « intendant pour les vivres et provisions ») apparaît ailleurs dans
-	  l’entourage de Nunyo.">Garsia Reposter</term>. <term n="Il existe plusieurs famille de Verneto (et au moins deux localités du nom de Vernet, en Conflent et près de Perpignan). Arnau de Vernet, d’après la fréquence des mentions dans les actes du roi, semble faire partie de l’entourage de Jacques Ier.">A[rnaldus] de
-		  Verneto</term>.</l> 
-	  <l><term n="Joan Royz est peut-être apparenté à Cascalla Royz,
-	  « noble baron de Castille » d’après B. Alart, et qui est mentionné
-	  avec Arnau de Vernet à Majorque.">Johannes Roiz</term>. Martinus
-	  d’Oblites.</l> 
-	  <l><term n="Ramon Carles est un scribe souvent cité de Nunyo Sanche :
-	  il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en
-	  1241. Il était aussi notaire public de Perpignan.">Raimundus
-	  Carles</term> mandato domini N[unonis] Sancii et vice <term n="Maître Joan, notaire, est responsable de la mise en forme des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu un moment sans activité entre 1237 et 1240.">magistri Johannis</term></l>
+	  <l>Datum apud <term n="Castello d’Empuries ou plutôt Castello de la Plana, si l’on admet que le roi Jacques Ier, qui séjournait alors dans la région de Valence, n’aurait pas manqué d’assister à un acte aussi important, argument qui se heurte au fait que le roi n’est pas cité parmi les témoins, alors que certains de ses proches y sont.">Castilionem</term>, IIII idus novembris, anno Domini M CC XL.</l> <l>Signum (étoile) domini N[unonis] Sancii.</l>
+	  <l>Testes hujus rei sunt : G. de <term n="G. et Bernardus de Pavo rappellent le nom de Bernat de Pau (localité catalane, Alt Empordà), vassal de Nunyo, qui obtint un fief à Majorque en 1229, et de Guillem de Pau, mentionné à deux reprises en 1243 et 1265.">Pavo</term>, F[errarius] de <term n="Le nom est peut-être à rapprocher de celui de la famille d’Olcet (un certain Bernard Olcet est mentionné en 1243), ou plutôt d’un F. Salzet/Solzet qui souscrit d’autres actes de Nunyo.">Olzeto</term>. <term n="Rotllan Lain ou Lainez est fréquemment attesté comme témoin à la cour de Jacques Ier. Peut-être avec Arnaud de Verneto constituait-il l’« ambassade » envoyée par ce dernier à son cousin pour lui demander l’acte.">Rotlandus Lain</term>.</l> <l>Bernardus de Pavo.
+	  <term n="Garsia Reboster (sobriquet signifiant à l’origine « intendant pour les vivres et provisions ») apparaît ailleurs dans l’entourage de Nunyo.">Garsia Reposter</term>. <term n="Il existe plusieurs famille de Verneto (et au moins deux localités du nom de Vernet, en Conflent et près de Perpignan). Arnau de Vernet, d’après la fréquence des mentions dans les actes du roi, semble faire partie de l’entourage de Jacques Ier.">A[rnaldus] de Verneto</term>.</l> 
+	  <l><term n="Joan Royz est peut-être apparenté à Cascalla Royz, « noble baron de Castille » d’après B. Alart, et qui est mentionné avec Arnau de Vernet à Majorque.">Johannes Roiz</term>. Martinus d’Oblites.</l> 
+	  <l><term n="Ramon Carles est un scribe souvent cité de Nunyo Sanche : il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en 1241. Il était aussi notaire public de Perpignan.">Raimundus Carles</term> mandato domini N[unonis] Sancii et vice <term n="Maître Joan, notaire, est responsable de la mise en forme des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu un moment sans activité entre 1237 et 1240.">magistri Johannis</term></l>
 	  <l>notarii sui hanc cartam scripsit et hoc sig-(seing)-num fecit.</l>
 	</div>
-	<div type="traduction">
-	  <l>Qu’il soit connu de tous que nous, <term n="Nunyo Sanche (Nunó
-	  Sanç en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin
-	  germain de Blanche de Castille, était issu d’une branche cadette des
-	  comtes de Barcelone. Il était vassal du roi d’Aragon pour le
-	  Roussillon, le Conflent, la Cerdagne et le Vallespir.">Nunyo
-	  Sanche</term>, par la grâce de Dieu</l> 
-	  <l>seigneur de Roussillon, de Vallespir, de Conflent et de
-	  Cerdagne,</l>
+	<div type="translation">
+	  <l>Qu’il soit connu de tous que nous, <term n="Nunyo Sanche (Nunó Sanç en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin germain de Blanche de Castille, était issu d’une branche cadette des comtes de Barcelone. Il était vassal du roi d’Aragon pour le Roussillon, le Conflent, la Cerdagne et le Vallespir.">Nunyo Sanche</term>, par la grâce de Dieu</l> 
+	  <l>seigneur de Roussillon, de Vallespir, de Conflent et de Cerdagne,</l>
 	  <l>en notre nom et celui de tous les nôtres, à perpétuité accordons à vous,</l>
-	  <l>seigneur <term n="Jacques (Jaume) Ier le Conquérant, roi d’Aragon
-	  (1213-1276), reprit les Baléares (1229-1235) et  Valence (1238) sur
-	  les Sarrazins.">Jacques</term>, par la grâce de Dieu roi d’Aragon et
-	  du royaume de Majorque</l> 
-	  <l>et de Valence, comte de Barcelone et d’Urgel et seigneur de
-	  Montpellier,</l>
+	  <l>seigneur <term n="Jacques (Jaume) Ier le Conquérant, roi d’Aragon (1213-1276), reprit les Baléares (1229-1235) et  Valence (1238) sur les Sarrazins.">Jacques</term>, par la grâce de Dieu roi d’Aragon et du royaume de Majorque</l> 
+	  <l>et de Valence, comte de Barcelone et d’Urgel et seigneur de Montpellier,</l>
 	  <l>de pouvoir, vous et les vôtres, après que nous aurons vécu, établir et nommer</l>
-	  <l>un viguier dans la cité de <term n="Lorsque Jacques Ier,
-	  en 1228, proposa à ses vassaux d’aller reconquérir les Baléares, il
-	  fut décidé que les conquêtes seraient partagées entre les vainqueurs,
-	  qui les tiendraient en fief du roi, par l’entremise d’une commission
-	  où siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de
-	  la ville de Majorque, tombée le 31 décembre 1229. C’est apparemment
-	  sur ces possessions urbaines (si importantes qu’il laissa un bailli
-	  pour les administrer) que porte l’acte, qui permet au roi d’Aragon
-	  d’affermir son contrôle sur les possessions de son
-	  cousin.">Majorque</term> en votre nom, qui sera tenu</l>
+	  <l>un viguier dans la cité de <term n="Lorsque Jacques Ier, en 1228, proposa à ses vassaux d’aller reconquérir les Baléares, il fut décidé que les conquêtes seraient partagées entre les vainqueurs, qui les tiendraient en fief du roi, par l’entremise d’une commission où siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de la ville de Majorque, tombée le 31 décembre 1229. C’est apparemment sur ces possessions urbaines (si importantes qu’il laissa un bailli pour les administrer) que porte l’acte, qui permet au roi d’Aragon d’affermir son contrôle sur les possessions de son cousin.">Majorque</term> en votre nom, qui sera tenu</l>
 	  <l>d’appliquer et conserver nos droits, à nous et aux nôtres ;</l>
 	  <l>vous observerez cependant, tant que nous vivrons, la charte que vous nous avez [précédemment] faite,</l>
 	  <l>aux termes de laquelle vous devez établir, de notre vivant, ledit viguier à Majorque avec notre accord et selon notre volonté ou celle de notre représentant</l>
-	  <l>Donné à <term n="Castello d’Empuries ou plutôt Castello de la
-	  Plana, si l’on admet que le roi Jacques Ier, qui séjournait alors
-	  dans la région de Valence, n’aurait pas manqué d’assister à un acte
-	  aussi important, argument qui se heurte au fait que le roi n’est pas
-	  cité parmi les témoins, alors que certains de ses proches y
-	  sont.">Castello</term>, le quatrième jour des ides de novembre,
-	  l’année du Seigneur 1240.</l> 
+	  <l>Donné à <term n="Castello d’Empuries ou plutôt Castello de la Plana, si l’on admet que le roi Jacques Ier, qui séjournait alors dans la région de Valence, n’aurait pas manqué d’assister à un acte aussi important, argument qui se heurte au fait que le roi n’est pas cité parmi les témoins, alors que certains de ses proches y sont.">Castello</term>, le quatrième jour des ides de novembre, l’année du Seigneur 1240.</l> 
 	  <l>Seing [étoile] du seigneur Nunyo Sanche.</l>
-	  <l>De quoi sont témoins : G. de <term n="G. et Bernardus de Pavo
-	  rappellent le nom de Bernat de Pau (localité catalane, Alt Empordà),
-	  vassal de Nunyo, qui obtint un fief à Majorque en 1229, et de Guillem
-	  de Pau, mentionné à deux reprises en 1243 et 1265.">Pau</term>.
-	  F[errer] d’<term n="Le nom est peut-être à rapprocher de celui
-	  de la famille d’Olcet (un certain Bernard Olcet est mentionné en
-	  1243), ou plutôt d’un F. Salzet/Solzet qui souscrit d’autres actes de
-	  Nunyo.">Olzet</term>. <term n="Rotllan Lain ou Lainez est fréquemment attesté comme témoin à la cour de Jacques Ier. Peut-être avec Arnaud de Verneto constituait-il l’« ambassade » envoyée par ce dernier à son cousin pour lui demander l’acte.">Rotllan Lain</term>.</l> 
-	  <l>Bernat de Pau. <term n="Garsia Reboster (sobriquet signifiant à
-	  l’origine « intendant pour les vivres et provisions ») apparaît
-	  ailleurs dans l’entourage de Nunyo.">Garsia Reboster</term>. Arnau de
-	  <term n="Il existe plusieurs famille de Verneto (et au moins
-	  deux localités du nom de Vernet, en Conflent et près de Perpignan).
-	  Arnau de Vernet, d’après la fréquence des mentions dans les actes du
-	  roi, semble faire partie de l’entourage de
-	  Jacques Ier.">Vernet</term>.</l> 
-	  <l><term n="Joan Royz est peut-être
-	  apparenté à Cascalla Royz, « noble baron de Castille » d’après B.
-	  Alart, et qui est mentionné avec Arnau de Vernet à Majorque.">Joan
-	  Royz</term>. Martí d’Oblites.</l>
-	  <l><term n="Ramon Carles est un scribe souvent cité de Nunyo Sanche :
-	  il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en
-	  1241. Il était aussi notaire public de Perpignan.">Ramon
-	  Carles</term> sur ordre de Nunyo Sanche et en lieu et place de</l>
-	  <l><term n="Maître Joan, notaire, est responsable de la mise en forme
-	  des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu
-	  un moment sans activité entre 1237 et 1240.">maître Joan</term> son
-	  notaire écrivit cette charte, et fit cet sig-[seing]-ne.</l>
+	  <l>De quoi sont témoins : G. de <term n="G. et Bernardus de Pavo rappellent le nom de Bernat de Pau (localité catalane, Alt Empordà), vassal de Nunyo, qui obtint un fief à Majorque en 1229, et de Guillem de Pau, mentionné à deux reprises en 1243 et 1265.">Pau</term>. F[errer] d’<term n="Le nom est peut-être à rapprocher de celui de la famille d’Olcet (un certain Bernard Olcet est mentionné en 1243), ou plutôt d’un F. Salzet/Solzet qui souscrit d’autres actes de Nunyo.">Olzet</term>. <term n="Rotllan Lain ou Lainez est fréquemment attesté comme témoin à la cour de Jacques Ier. Peut-être avec Arnaud de Verneto constituait-il l’« ambassade » envoyée par ce dernier à son cousin pour lui demander l’acte.">Rotllan Lain</term>.</l> 
+	  <l>Bernat de Pau. <term n="Garsia Reboster (sobriquet signifiant à l’origine « intendant pour les vivres et provisions ») apparaît ailleurs dans l’entourage de Nunyo.">Garsia Reboster</term>. Arnau de
+	  <term n="Il existe plusieurs famille de Verneto (et au moins deux localités du nom de Vernet, en Conflent et près de Perpignan). Arnau de Vernet, d’après la fréquence des mentions dans les actes du roi, semble faire partie de l’entourage de Jacques Ier.">Vernet</term>.</l> 
+	  <l><term n="Joan Royz est peut-être apparenté à Cascalla Royz, « noble baron de Castille » d’après B. Alart, et qui est mentionné avec Arnau de Vernet à Majorque.">Joan Royz</term>. Martí d’Oblites.</l>
+	  <l><term n="Ramon Carles est un scribe souvent cité de Nunyo Sanche : il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en 1241. Il était aussi notaire public de Perpignan.">Ramon Carles</term> sur ordre de Nunyo Sanche et en lieu et place de</l>
+	  <l><term n="Maître Joan, notaire, est responsable de la mise en forme des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu un moment sans activité entre 1237 et 1240.">maître Joan</term> son notaire écrivit cette charte, et fit cet sig-[seing]-ne.</l>
 	</div>
 	<div type="regeste">
 	  <head>1240, 10 novembre. — Castello.</head>
-	  <p>Nunyo Sanche, seigneur de Roussillon, Vallespir, Conflent et
-	      Cerdagne, accorde à Jacques [I<hi rend="sup">er</hi>], roi d’Aragon, de Majorque et de
-	  Valence, comte de Barcelone et d’Urgel et seigneur de Montpellier, le
-	      pouvoir d’instituer à Majorque, après sa mort, un viguier (<hi rend="i">vicarius</hi>)
-	  royal. Du vivant de Nunyo, le roi continuera à appliquer un accord
-	  précédent, qui prévoyait l’institution du viguier avec l’accord de
-	  Nunyo ou de son lieutenant.</p>
-	
+	  <p>Nunyo Sanche, seigneur de Roussillon, Vallespir, Conflent et Cerdagne, accorde à Jacques [I<hi rend="sup">er</hi>], roi d’Aragon, de Majorque et de Valence, comte de Barcelone et d’Urgel et seigneur de Montpellier, le pouvoir d’instituer à Majorque, après sa mort, un viguier (<hi rend="i">vicarius</hi>) royal. Du vivant de Nunyo, le roi continuera à appliquer un accord précédent, qui prévoyait l’institution du viguier avec l’accord de Nunyo ou de son lieutenant.</p> 
 	</div></div>
 	<div type="diplomatic">
 	  <head>Commentaire diplomatique</head>
 	  <div>
 	  <head>Interprétation</head>
 	  <div>
-	  <p>Il s’agit d’un petit acte, écrit sur la longueur du parchemin. Il
-	  est très court (316 mots), et les marges sont quasiment inexistantes.
-	  La présentation est relativement soignée, la justification inégale.
-	  La mise en page, avec la souscription (sans doute autographe) de
-	  l’auteur, bien mise en valeur au centre de l’acte, séparée du corps
-	  de texte et de la liste des témoins, est conforme aux usages de
-		l’époque et de la région : les actes de Jacques I<hi rend="sup">er</hi> sont présentés de
-	  la même façon.</p> 
-	  <p>Cette présentation est le résultat d’une hybridation, ou plutôt
-	  d’un traitement spécial de l’acte privé (corps du texte,
-	  souscriptions de l’auteur et des témoins, souscription notariale),
-	  tiré vers l’affirmation de l’autorité publique de Nunyo, dont la
-	  souscription est mise en relief, tandis que les témoins s’organisent
-	  en colonnes comme au bas d’un acte royal et que la souscription
-	  notariale prend un moment la forme d’une récognition de chancellerie.
-	  Mais, s’il fallait quantifier les proportions, elles pencheraient
-	  très nettement vers l’acte privé, comme le montrent d’ailleurs
-	  l’insistance mise sur le seing manuel du notaire et sa
-	  complexité.</p> <p>Notaire public, le scripteur a une bonne maîtrise
-	  de la plume, mais sans guère de recherche : seule l’initiale est tant
-	  soit peu ornementée. On peut relever le marquage des i, qui plongent
-	  souvent (mais pas systématiquement) en dessous de la ligne pour les
-	  différencier des autres jambages, et une ébauche de ponctuation.
-	  L’objectif est avant tout de produire un acte fonctionnel et
-	  incontestable.</p>
-	  <p>Les observations sur les caractères internes concordent : même
-	  technicité du style, avec ce qu’il faut de maîtrise du latin et
-	  d’opacité des formules stéréotypées ; même opposition entre le
-		formulaire de la <hi rend="i">carta</hi> privée et la longue énumération des titres
-	  princiers accompagnés de formules de dévotion.</p> 
+	  <p>Il s’agit d’un petit acte, écrit sur la longueur du parchemin. Il est très court (316 mots), et les marges sont quasiment inexistantes. La présentation est relativement soignée, la justification inégale. La mise en page, avec la souscription (sans doute autographe) de l’auteur, bien mise en valeur au centre de l’acte, séparée du corps de texte et de la liste des témoins, est conforme aux usages de l’époque et de la région : les actes de Jacques I<hi rend="sup">er</hi> sont présentés de la même façon.</p> 
+	  <p>Cette présentation est le résultat d’une hybridation, ou plutôt d’un traitement spécial de l’acte privé (corps du texte, souscriptions de l’auteur et des témoins, souscription notariale), tiré vers l’affirmation de l’autorité publique de Nunyo, dont la souscription est mise en relief, tandis que les témoins s’organisent en colonnes comme au bas d’un acte royal et que la souscription notariale prend un moment la forme d’une récognition de chancellerie. Mais, s’il fallait quantifier les proportions, elles pencheraient très nettement vers l’acte privé, comme le montrent d’ailleurs l’insistance mise sur le seing manuel du notaire et sa complexité.</p> <p>Notaire public, le scripteur a une bonne maîtrise de la plume, mais sans guère de recherche : seule l’initiale est tant soit peu ornementée. On peut relever le marquage des i, qui plongent souvent (mais pas systématiquement) en dessous de la ligne pour les différencier des autres jambages, et une ébauche de ponctuation. L’objectif est avant tout de produire un acte fonctionnel et incontestable.</p>
+	  <p>Les observations sur les caractères internes concordent : même technicité du style, avec ce qu’il faut de maîtrise du latin et d’opacité des formules stéréotypées ; même opposition entre le formulaire de la <hi rend="i">carta</hi> privée et la longue énumération des titres princiers accompagnés de formules de dévotion.</p> 
 	  </div>
-	  </div>
-	  
+	  </div> 
       </div>
     </body>
     <back></back>

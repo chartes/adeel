@@ -98,7 +98,7 @@
           <l>roboravi. Dat<ex>um</ex> anno D<ex>omi</ex>ni M° CC° LX° </l>
           <l>p<ex>r</ex>imo, mense novembri.</l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l>Moi, Thomas dit Goulart d&#x2019;<term n="Oissery (Seine-et-Marne, cant. Dammartin-en-Goële). Noter deux graphies différentes, ici &#171; Osseriacum &#187;, plus bas &#171; Oisseriacum &#187;.">Oissery</term>,</l>
           <l>chevalier. Je fais savoir à tous ceux qui</l>
           <l>verront les présentes lettres que, comme</l>
@@ -151,28 +151,17 @@
         <div type="regeste">
           <head>
           </head>
-          <p>
-            Thomas dit Goulart d’Oissery, chevalier, s’engage pour cent livres parisis 
-            à garantir à l’abbaye de Chaalis la libre d&#201;tention en mainmorte, 
-            qu’il a naguère autoris&#201;e, de deux terres de sa censive au finage 
-            d’Oissery, acquises par l’abbaye de Guillaume le Fauconnier, &#201;cuyer, 
-            de sa mère, Marie la Fauconnière et de sa femme, Ermenarde (l’une d’environ 
-            quatre arpents un quartier à L’Épine-Henri, l’autre d’environ un arpent 
-            et demi près du chemin d’Acy), et ce contre une &#201;ventuelle action  
-            intent&#201;e par Guillaume de Saint-Pathus, dont les moines craignent 
-            que les terres ne meuvent.
+          <p> Thomas dit Goulart d’Oissery, chevalier, s’engage pour cent livres parisis  à garantir à l’abbaye de Chaalis la libre d&#201;tention en mainmorte,  qu’il a naguère autoris&#201;e, de deux terres de sa censive au finage  d’Oissery, acquises par l’abbaye de Guillaume le Fauconnier, &#201;cuyer,  de sa mère, Marie la Fauconnière et de sa femme, Ermenarde (l’une d’environ  quatre arpents un quartier à L’Épine-Henri, l’autre d’environ un arpent  et demi près du chemin d’Acy), et ce contre une &#201;ventuelle action   intent&#201;e par Guillaume de Saint-Pathus, dont les moines craignent  que les terres ne meuvent.
           </p>
         </div>
-      </div>
-      
+      </div> 
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
           <div>
             <div class="recommandation">
-              <p>Passer la souris sur les cercles rouges pour des commentaires de
-                détail</p>
+              <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
             </div>		
             <p><figure rend="23/faxexternes.jpg"><figDesc>
               <seg type="rect" rend="50,21,76,53">Souci décoratif.</seg>
@@ -183,85 +172,22 @@
               <seg type="rect" rend="167,411,479,432">Trait interdisant un ajout.</seg>
               <seg type="rect" rend="215,441,268,495">Double queue de parchemin.</seg>
             </figDesc></figure></p>
-            <p>Comme pour les traits rédactionnels, on comparera utilement le document 
-              avec un autre dossier disponible sur le site, l’<xref to="notice22.php">acte 
-                de l’officialité de Meaux de 1251</xref>. A dix années d’écart 
-              seulement, ils concernent la même zone (Marchémoret est à 4 km d’Oissery) 
-              et impliquent le même bénéficiaire, l’abbaye cistercienne 
-              de Chaalis.</p>
-            <p>Au plan des caractères externes, les traits sont largement partagés 
-              (sauf que les coupures de mot en fin de ligne réapparaissent ici). 
-              Mais cet acte-ci, à l’écriture moins cursive, se distingue aussi 
-              par un discret supplément d’application, de souci décoratif : 
-              si le repli supportant la double queue est assez modeste, le scripteur ménage 
-              une marge assez bien justifiée non seulement à gauche, mais encore 
-              à droite. La majuscule initiale, certaines lettres finales (en particulier 
-              le <hi rend="i">s</hi>, ligne 1) renforcent ce trait. En bref, on donne un peu 
-              plus de lustre à un acte qui, différence essentielle, n’est pas scellé 
-              (toujours sur double queue) d’un sceau institutionnel, mais du sceau personnel 
-              d’un membre de la bonne société locale.</p>		                
+            <p>Comme pour les traits rédactionnels, on comparera utilement le document  avec un autre dossier disponible sur le site, l’<xref to="notice22.php">acte  de l’officialité de Meaux de 1251</xref>. A dix années d’écart  seulement, ils concernent la même zone (Marchémoret est à 4 km d’Oissery)  et impliquent le même bénéficiaire, l’abbaye cistercienne  de Chaalis.</p>
+            <p>Au plan des caractères externes, les traits sont largement partagés  (sauf que les coupures de mot en fin de ligne réapparaissent ici).  Mais cet acte-ci, à l’écriture moins cursive, se distingue aussi  par un discret supplément d’application, de souci décoratif :  si le repli supportant la double queue est assez modeste, le scripteur ménage  une marge assez bien justifiée non seulement à gauche, mais encore  à droite. La majuscule initiale, certaines lettres finales (en particulier  le <hi rend="i">s</hi>, ligne 1) renforcent ce trait. En bref, on donne un peu  plus de lustre à un acte qui, différence essentielle, n’est pas scellé  (toujours sur double queue) d’un sceau institutionnel, mais du sceau personnel  d’un membre de la bonne société locale.</p>		                
           </div>
         </div>
         <div>
           <head>Langue, mots, style</head>                
           <div>
-            <p>Ego Thomas dictus <hi rend="bold">Goulart</hi> de Osseriaco miles. <seg>Notum 
-              facio universis presentes litteras inspecturis</seg> quod, cum 
-              ego concesserim et imperpetuum <seg>in manu 
-                mortua quittaverim</seg> viris religiosis abbati et conventui 
-              Karoliloci, Cisterciensis ordinis, Silvanectensis dyocesis, ac eorum monasterio 
-              duas terre pecias in territorio de Oisseriaco et <seg>in 
-                censiva</seg> mea sitas, a Guillelmo <hi rend="bold">le Fauconnier</hi>, armigero, 
-              et domina Maria <hi rend="bold">la Fauconnire</hi>, matre sua, ac Ermengarde, uxore 
-              ejusdem, dictis religiosis venditas, unam videlicet ad Spinam Henrici, quatuor 
-              arpenta et unum quarterium vel circiter ad arpentum illius territorii continentem, 
-              et aliam sitam juxta viam qua itur versus Aciacum, arpentum unum et dimidium 
-              vel circiter continentem ad arpentum supradictum, et ego tenear eisdem religiosis 
-              dictas duas pecias <seg>contra omnes imperpetuum 
-                garandire</seg> et ipsi religiosi sibi metuant ne a domino Guillelmo 
-              de Sancto Patusio terra prefata moveat ac per hoc ipsos valeat molestare, 
-              ego me et heredes meos post me ad hoc <seg>obligo</seg> 
-              quod, si predictus miles dominus Guillelmus de Sancto Patusio super dicta 
-              terra <seg>calumpniam moveret</seg> 
-              vel inde modo quolibet dictos fratres aut eorum ecclesiam molestaret, ego 
-              et heredes mei post me teneremur ipsum Guillelmum compescere et heredes 
-              suos similiter et ab omni calumpnia dicte terre et juris cujuslibet in dicta 
-              terra <seg>cessare</seg> facere, 
-              sub pena centum librarum parisiensium me, si ab hoc deficerem, et heredes 
-              meos post me, si ab hoc deficerent, similiter <seg>astringendo</seg>, 
-              dictis abbati et conventui solvendarum. <seg>Quod 
-                ut ratum et firmum permaneat, presentes litteras sigilli mei munimine roboravi</seg>. 
-              Datum anno Domini M° CC° LX° primo, mense novembri.</p>		                
+            <p>Ego Thomas dictus <hi rend="b">Goulart</hi> de Osseriaco miles. <seg>Notum  facio universis presentes litteras inspecturis</seg> quod, cum  ego concesserim et imperpetuum <seg>in manu  mortua quittaverim</seg> viris religiosis abbati et conventui  Karoliloci, Cisterciensis ordinis, Silvanectensis dyocesis, ac eorum monasterio  duas terre pecias in territorio de Oisseriaco et <seg>in  censiva</seg> mea sitas, a Guillelmo <hi rend="b">le Fauconnier</hi>, armigero,  et domina Maria <hi rend="b">la Fauconnire</hi>, matre sua, ac Ermengarde, uxore  ejusdem, dictis religiosis venditas, unam videlicet ad Spinam Henrici, quatuor  arpenta et unum quarterium vel circiter ad arpentum illius territorii continentem,  et aliam sitam juxta viam qua itur versus Aciacum, arpentum unum et dimidium  vel circiter continentem ad arpentum supradictum, et ego tenear eisdem religiosis  dictas duas pecias <seg>contra omnes imperpetuum  garandire</seg> et ipsi religiosi sibi metuant ne a domino Guillelmo  de Sancto Patusio terra prefata moveat ac per hoc ipsos valeat molestare,  ego me et heredes meos post me ad hoc <seg>obligo</seg>  quod, si predictus miles dominus Guillelmus de Sancto Patusio super dicta  terra <seg>calumpniam moveret</seg>  vel inde modo quolibet dictos fratres aut eorum ecclesiam molestaret, ego  et heredes mei post me teneremur ipsum Guillelmum compescere et heredes  suos similiter et ab omni calumpnia dicte terre et juris cujuslibet in dicta  terra <seg>cessare</seg> facere,  sub pena centum librarum parisiensium me, si ab hoc deficerem, et heredes  meos post me, si ab hoc deficerent, similiter <seg>astringendo</seg>,  dictis abbati et conventui solvendarum. <seg>Quod  ut ratum et firmum permaneat, presentes litteras sigilli mei munimine roboravi</seg>.  Datum anno Domini M° CC° LX° primo, mense novembri.</p>		                
           </div>
           <div class="recommandation">Commentaire</div>
           <div class="contenu_commentaire"> 
-            <p>Les différences relevées au plan des caractères externes 
-              ne se retrouvent pourtant pas au plan de la langue et du style, où l'emportent 
-              de loin les traits communs.</p>
-            <p>Le rédacteur a coulé son acte dans un cadre passe-partout 
-              (<seg>bleu</seg>). Même s'il a 
-              abandonné nombre des formules typiques de l'acte d'officialité, 
-              le latin et sa régularité grammaticale (mais la relatinisation 
-              ne touche que les toponymes, pas les surnoms), la technicité du vocabulaire 
-              (<seg>rouge</seg>), le soin mis 
-              à la description des "raisons" sociales et des rapports de droit 
-              nous plongent exactement dans la même ambiance.</p>
-            <p>On peut aussi relever au fil de la lecture le souci, presque teinté 
-              de préciosité, mis à varier les expressions pour désigner, 
-              de façon d'ailleurs très pertinente selon les situations, l'abbaye 
-              et ses occupants : le don initial a été fait à une communauté 
-              ("abbé" + "convent") regroupée dans une personne morale ("monastère") ; 
-              ce sont des "religieux", des "frères" qui sont ensuite mis en scène, 
-              au nom de leur "église". C'est au même mouvement que l'on pourrait 
-              rapporter le choix du verbe latin classique, et plutôt poétique, 
-              <hi rend="bold">compescere</hi> (étymologiquement, mettre des entraves au pied), 
-              apparemment assez rare dans les actes médiévaux.</p>		                
-            <p>Rien non plus n'est laissé au hasard dans la qualification des trois 
-              niveaux de la noblesse locale qui sont ici impliqués : un modeste 
-              écuyer (pas encore et sans doute jamais adoubé chevalier) 
-              et sa mère, qui tiennent des biens à cens ; l'auteur de l'acte, 
-              chevalier mais pas "seigneur" ; au-dessus encore, un "seigneur" 
-              (dont on craint le revendication féodale) qui est aussi chevalier. 
+            <p>Les différences relevées au plan des caractères externes  ne se retrouvent pourtant pas au plan de la langue et du style, où l'emportent  de loin les traits communs.</p>
+            <p>Le rédacteur a coulé son acte dans un cadre passe-partout  (<seg>bleu</seg>). Même s'il a  abandonné nombre des formules typiques de l'acte d'officialité,  le latin et sa régularité grammaticale (mais la relatinisation  ne touche que les toponymes, pas les surnoms), la technicité du vocabulaire  (<seg>rouge</seg>), le soin mis  à la description des "raisons" sociales et des rapports de droit  nous plongent exactement dans la même ambiance.</p>
+            <p>On peut aussi relever au fil de la lecture le souci, presque teinté  de préciosité, mis à varier les expressions pour désigner,  de façon d'ailleurs très pertinente selon les situations, l'abbaye  et ses occupants : le don initial a été fait à une communauté  ("abbé" + "convent") regroupée dans une personne morale ("monastère") ;  ce sont des "religieux", des "frères" qui sont ensuite mis en scène,  au nom de leur "église". C'est au même mouvement que l'on pourrait  rapporter le choix du verbe latin classique, et plutôt poétique, 
+              <hi rend="b">compescere</hi> (étymologiquement, mettre des entraves au pied),  apparemment assez rare dans les actes médiévaux.</p>		                
+            <p>Rien non plus n'est laissé au hasard dans la qualification des trois  niveaux de la noblesse locale qui sont ici impliqués : un modeste  écuyer (pas encore et sans doute jamais adoubé chevalier)  et sa mère, qui tiennent des biens à cens ; l'auteur de l'acte,  chevalier mais pas "seigneur" ; au-dessus encore, un "seigneur"  (dont on craint le revendication féodale) qui est aussi chevalier. 
             </p>
           </div>
         </div>
@@ -270,83 +196,26 @@
           <div>
             <p>
               <seg corresp="suscriptio">Ego Thomas dictus <hi rend="i">Goulart</hi> de Osseriaco miles.
-                <note id="suscriptio"
-                  >Suscription (isolée)</note></seg>
+                <note id="suscriptio" >Suscription (isolée)</note></seg>
               <seg corresp="notification"> Notum facio universis presentes litteras inspecturis quod
-                <note id="notification"
-                  >Notification universelle</note></seg>
-              <seg corresp="expose">ego concesserim et imperpetuum in manu mortua quittaverim viris religiosis 
-                abbati et conventui Karoliloci, Cisterciensis ordinis, Silvanectensis dyocesis, 
-                ac eorum monasterio duas terre pecias in territorio de Oisseriaco et in 
-                censiva mea sitas, a Guillelmo <hi rend="i">le Fauconnier</hi>, armigero, et domina 
-                Maria <hi rend="i">la Fauconnire</hi>, matre sua, ac Ermengarde, uxore ejusdem, dictis 
-                religiosis venditas, unam videlicet ad Spinam Henrici, quatuor arpenta et 
-                unum quarterium vel circiter ad arpentum illius territorii continentem, 
-                et aliam sitam juxta viam qua itur versus Aciacum, arpentum unum et dimidium 
-                vel circiter continentem ad arpentum supradictum, et ego tenear eisdem religiosis 
-                dictas duas pecias contra omnes imperpetuum garandire et ipsi religiosi 
-                sibi metuant ne a domino Guillelmo de Sancto Patusio terra prefata moveat 
-                ac per hoc ipsos valeat molestare,<note id="expose"
-                  >Exposé</note></seg>
-              <seg corresp="dispositif">ergo 
-                me et heredes meos post me ad hoc obligo quod, si predictus miles dominus 
-                Guillelmus de Sancto Patusio super dicta terra calumpniam moveret vel inde 
-                modo quolibet dictos fratres aut eorum ecclesiam molestaret, ego et heredes 
-                mei post me teneremur ipsum Guillelmum compescere et heredes suos similiter 
-                et ab omni calumpnia dicte terre et juris cujuslibet in dicta terra cessare 
-                facere,<note id="dispositif"
-                  >Dispositif (verbe clef : obligo).</note></seg>
-              <seg corresp="clause_penale">sub 
-                pena centum librarum parisiensium me, si ab hoc deficerem, et heredes meos 
-                post me, si ab hoc deficerent, similiter astringendo, dictis abbati et conventui 
-                solvendarum.<note
-                  id="clause_penale">Clause pénale</note></seg>
+                <note id="notification" >Notification universelle</note></seg>
+              <seg corresp="expose">ego concesserim et imperpetuum in manu mortua quittaverim viris religiosis  abbati et conventui Karoliloci, Cisterciensis ordinis, Silvanectensis dyocesis,  ac eorum monasterio duas terre pecias in territorio de Oisseriaco et in  censiva mea sitas, a Guillelmo <hi rend="i">le Fauconnier</hi>, armigero, et domina  Maria <hi rend="i">la Fauconnire</hi>, matre sua, ac Ermengarde, uxore ejusdem, dictis  religiosis venditas, unam videlicet ad Spinam Henrici, quatuor arpenta et  unum quarterium vel circiter ad arpentum illius territorii continentem,  et aliam sitam juxta viam qua itur versus Aciacum, arpentum unum et dimidium  vel circiter continentem ad arpentum supradictum, et ego tenear eisdem religiosis  dictas duas pecias contra omnes imperpetuum garandire et ipsi religiosi  sibi metuant ne a domino Guillelmo de Sancto Patusio terra prefata moveat  ac per hoc ipsos valeat molestare,<note id="expose" >Exposé</note></seg>
+              <seg corresp="dispositif">ergo  me et heredes meos post me ad hoc obligo quod, si predictus miles dominus  Guillelmus de Sancto Patusio super dicta terra calumpniam moveret vel inde  modo quolibet dictos fratres aut eorum ecclesiam molestaret, ego et heredes  mei post me teneremur ipsum Guillelmum compescere et heredes suos similiter  et ab omni calumpnia dicte terre et juris cujuslibet in dicta terra cessare  facere,<note id="dispositif" >Dispositif (verbe clef : obligo).</note></seg>
+              <seg corresp="clause_penale">sub  pena centum librarum parisiensium me, si ab hoc deficerem, et heredes meos  post me, si ab hoc deficerent, similiter astringendo, dictis abbati et conventui  solvendarum.<note id="clause_penale">Clause pénale</note></seg>
               <seg corresp="corroboration">ut ratum et firmum permaneat, presentes litteras sigilli mei munimine roboravi.. 
                 <note id="corroboration">Corroboration probatoire avec annonce du sceau</note></seg>
-              <seg corresp="date"> Datum 
-                anno Domini M° CC° LX° primo, mense novembri<note id="date"
-                  >Date de temps.</note></seg>		                 
+              <seg corresp="date"> Datum  anno Domini M° CC° LX° primo, mense novembri<note id="date" >Date de temps.</note></seg>		                 
             </p>
           </div>
         </div>
         <div>
           <head>Interprétation</head>
           <div>
-            <p>On vient de voir que le rédacteur n'a pas coulé son acte 
-              dans un moule épistolaire (même si, époque oblige, il 
-              le qualifie de "lettres"). Ni adresse ni salut : c'est un 
-              indice supplémentaire de solennité, qui donne du "poids" 
-              à l'auteur et à l'acte, la formule étant lointainement dérivée 
-              des préceptes/diplômes royaux à valeur perpétuelle.</p>
-            <p>Expert dans la langue et l'écriture, le rédacteur/scripteur 
-              de l'acte (pas moyen de savoir si les deux interventions sont réunies 
-              ou disjointes) est aussi un excellent observateur de la complexité 
-              des rapports juridiques et sociaux, où s'entrecroisent quatre types 
-              d'intervenants et trois plans (détention et vente de la terre, droit 
-              éminent censuel, droit éminent féodal), disséqués 
-              et décrits avec efficacité, jusque dans les zones d'incertitude 
-              qui rompent la chaîne du tissu féodal.</p>
-            <p>On a vu aussi, dans la lecture diplomatique du document, le jeu de ressemblances/dissemblances 
-              avec l'acte d'officialité, qui ramène à la question de fond : 
-              qui et pourquoi ?</p>
-            <p>A la première question on ne peut répondre que par des hypothèses. 
-              Vu son niveau assez médiocre, il est assez peu vraisemblable que 
-              l'auteur de l'acte lui-même ait eu les moyens de disposer d'une "chancellerie", 
-              voire d'un chapelain assez expert... Deux solutions restent, que seule 
-              la comparaison d'autres documents permettraient d'affiner : une rédaction 
-              à l'abbaye ; non moins vraisemblable, sinon plus, le recours à l'un 
-              de ces écrivains publics dont on pressent alors la multiplication, 
-              personnel de formation commune, parfois de profession partagée, avec 
-              les "clercs notaires jurés" des officialités.</p>		                
-            <p>Le pourquoi se dégage plus facilement. Parmi toutes les solutions 
-              possibles (l'officialité, une juridiction gracieuse princière qui 
-              commence à peine à s'organiser, une notification par un grand baron ou le 
-              roi, tout de même très haut et très cher), on a choisi celle qui offrait 
-              le meilleur rapport qualité/prix, la plus adaptée aussi au 
-              règlement judiciaire du possible litige : une matière féodale, 
-              où face à ses pairs le chevalier s'engage sous son sceau et ses armes, 
-              de notoriété et de poids social suffisants pour donner de 
-              l'autorité à l'acte.</p>		               		                
+            <p>On vient de voir que le rédacteur n'a pas coulé son acte  dans un moule épistolaire (même si, époque oblige, il  le qualifie de "lettres"). Ni adresse ni salut : c'est un  indice supplémentaire de solennité, qui donne du "poids"  à l'auteur et à l'acte, la formule étant lointainement dérivée  des préceptes/diplômes royaux à valeur perpétuelle.</p>
+            <p>Expert dans la langue et l'écriture, le rédacteur/scripteur  de l'acte (pas moyen de savoir si les deux interventions sont réunies  ou disjointes) est aussi un excellent observateur de la complexité  des rapports juridiques et sociaux, où s'entrecroisent quatre types  d'intervenants et trois plans (détention et vente de la terre, droit  éminent censuel, droit éminent féodal), disséqués  et décrits avec efficacité, jusque dans les zones d'incertitude  qui rompent la chaîne du tissu féodal.</p>
+            <p>On a vu aussi, dans la lecture diplomatique du document, le jeu de ressemblances/dissemblances  avec l'acte d'officialité, qui ramène à la question de fond :  qui et pourquoi ?</p>
+            <p>A la première question on ne peut répondre que par des hypothèses.  Vu son niveau assez médiocre, il est assez peu vraisemblable que  l'auteur de l'acte lui-même ait eu les moyens de disposer d'une "chancellerie",  voire d'un chapelain assez expert... Deux solutions restent, que seule  la comparaison d'autres documents permettraient d'affiner : une rédaction  à l'abbaye ; non moins vraisemblable, sinon plus, le recours à l'un  de ces écrivains publics dont on pressent alors la multiplication,  personnel de formation commune, parfois de profession partagée, avec  les "clercs notaires jurés" des officialités.</p>		                
+            <p>Le pourquoi se dégage plus facilement. Parmi toutes les solutions  possibles (l'officialité, une juridiction gracieuse princière qui  commence à peine à s'organiser, une notification par un grand baron ou le  roi, tout de même très haut et très cher), on a choisi celle qui offrait  le meilleur rapport qualité/prix, la plus adaptée aussi au  règlement judiciaire du possible litige : une matière féodale,  où face à ses pairs le chevalier s'engage sous son sceau et ses armes,  de notoriété et de poids social suffisants pour donner de  l'autorité à l'acte.</p>		               		                
           </div>
         </div>
       </div>

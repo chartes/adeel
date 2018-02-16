@@ -124,9 +124,7 @@
                 <div>
                     <head>Caractères externes</head>
                     <div>
-                        <p>
-			  <figure rend="62/faxexternes.jpg">
-			    <figDesc>
+                        <p> 	  <figure rend="62/faxexternes.jpg"> 	    <figDesc>
                                 <seg type="circle" rend="33,31,26">Initiale grossie, noircie.</seg>
                                 <seg type="circle" rend="273,25,12">Initiale en majuscule à redoublement.</seg>
                                 <seg type="circle" rend="47,67,15">Graphie développée de "chascon".</seg>
@@ -137,9 +135,7 @@
                                 <seg type="rect" rend="157,257,204,280">Autre forme d&#x2019;abréviation de "soirement"</seg>
                                 <seg type="circle" rend="73,307,17">Graphie abrégée de "seignour"</seg>
                                 <seg type="rect" rend="239,319,339,343">Suite de traits, marqueurs de la fin de l&#x2019;acte"</seg>
-                                <seg type="circle" rend="255,372,21">Incision verticale par où passe la double queue de parchemin du sceau ; ici dédoublée parce que l&#x2019;acte est dessiné repli déplié</seg>
-			    </figDesc>
-			  </figure>
+                                <seg type="circle" rend="255,372,21">Incision verticale par où passe la double queue de parchemin du sceau ; ici dédoublée parce que l&#x2019;acte est dessiné repli déplié</seg> 	    </figDesc> 	  </figure>
                        </p>
                         <p>Noter avant tout, caractère très commun, la modestie des abréviations, généralement beaucoup plus nombreuses et sévères dans les actes latins contemporains. Plusieurs mots d'ailleurs sont abrégés de façon différente ou alternativement abrégés et développés au fil du texte (quelques exemples signalés en notes), ce qui donne plus de sûreté dans leur développement par l'éditeur.</p>
                     </div>

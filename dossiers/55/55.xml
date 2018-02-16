@@ -111,7 +111,7 @@
           <l>p<ex>re</ex>sentem carta<ex>m</ex> jussi sigilli mei munimi<ex>n</ex>e</l>
           <l>roborari in testimoniu<ex>m</ex> veritatis.</l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l>Sachent tous ceux qui verront le présent parchemin </l>
           <l>que, en l'an du Seigneur 1243, le 2 des calendes </l>
           <l>d'août, moi Isoard <term n="Aix-en-Diois (Drôme, cant. Die).">d'Aix</term>, seigneur de <term n="Châtillon-en-Diois (Drôme, ch.-l. cant.).">Châtillon</term>, </l>
@@ -162,18 +162,13 @@
             <p>L'acte a été édité par l'abbé Paul Guillaume, <hi rend="italique">Chartes de Notre-Dame de Bertaud</hi>, Gap, Paris, 1888, n° 48, p. 38-39.</p>
           </div>
         </div>
-      </div>
-      
-      
-      
-      
+      </div>    
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>               
         <div>
           <head>Caractères externes</head>
           <div>
-            <div class="recommandation"><p>Passer la souris sur les cercles rouges pour des 
-              commentaires de détail</p></div>                     
+            <div class="recommandation"><p>Passer la souris sur les cercles rouges pour des  commentaires de détail</p></div>                     
             <p>
               <figure rend="55/faxexternes.jpg"><figDesc>
                 <seg type="circle" rend="75,18,11">Tilde à boucle</seg>
@@ -184,122 +179,36 @@
                 <seg type="rect" rend="18,124,209,141">Des points servent à séparer les clauses ou termes juridiques</seg>
                 <seg type="circle" rend="116,358,15">"m" plongeant en position médiane</seg>
               </figDesc> </figure>
-            </p>                     
-            
-            <p>La capitale redoublée à l’initiale, deux tildes à boucle sont les maigres 
-              ornementations du début de l’acte, dont la sobriété graphique est exemplaire, 
-              jusque dans le trait simple, peu soigné, qui occupe (presque) la fin de 
-              la dernière ligne. L’écriture, où affleurent des indices de cursivité, reste 
-              claire. On peut noter quelques particularités : “s” finaux ronds ; “i” finaux 
-              plongeant sous la ligne (le même procédé peut être utilisé en milieu de 
-              mot pour faciliter la lecture des jambages). La ponctuation, limitée à des 
-              points, est discrète, sauf lorsqu’il s’agit d’individualiser des clauses, 
-              des incises, des termes importants qui forment le fond de la concession 
-              (ligne 6), des anthroponymes ou des surnoms (p. ex. 6<sup>e</sup>-4<sup>e</sup> ligne avant la 
-              fin, mais de façon assez irrégulière : “Lantelmo de Jarjaya. Willelmi. de 
-              Pontisio. juvenis.”).</p>
-            
-            <p>Même constatation pour le scellement : le repli est modeste ; le nœud fait 
-              à la double queue de parchemin offre solidité et amorce d’enjolivement.</p>
-            
-            
-            
+            </p>                      
+            <p>La capitale redoublée à l’initiale, deux tildes à boucle sont les maigres  ornementations du début de l’acte, dont la sobriété graphique est exemplaire,  jusque dans le trait simple, peu soigné, qui occupe (presque) la fin de  la dernière ligne. L’écriture, où affleurent des indices de cursivité, reste  claire. On peut noter quelques particularités : “s” finaux ronds ; “i” finaux  plongeant sous la ligne (le même procédé peut être utilisé en milieu de  mot pour faciliter la lecture des jambages). La ponctuation, limitée à des  points, est discrète, sauf lorsqu’il s’agit d’individualiser des clauses,  des incises, des termes importants qui forment le fond de la concession  (ligne 6), des anthroponymes ou des surnoms (p. ex. 6<sup>e</sup>-4<sup>e</sup> ligne avant la  fin, mais de façon assez irrégulière : “Lantelmo de Jarjaya. Willelmi. de  Pontisio. juvenis.”).</p> 
+            <p>Même constatation pour le scellement : le repli est modeste ; le nœud fait  à la double queue de parchemin offre solidité et amorce d’enjolivement.</p>   
           </div>
         </div>
         <div>
-          <head>Parties du discours</head>
-          
+          <head>Parties du discours</head> 
           <div>
             <p>
-              <seg corresp="notification">Noverint 
-                universi presentem paginam inspecturi quod<note
-                  xml:id="notification">Notification universelle</note></seg>
-              <seg corresp=" date_temps">
-                anno 
-                Domini M° CC° XLIII°, II kalendas augusti,
+              <seg corresp="notification">Noverint  universi presentem paginam inspecturi quod<note xml:id="notification">Notification universelle</note></seg>
+              <seg corresp=" date_temps"> anno  Domini M° CC° XLIII°, II kalendas augusti,
                 <note xml:id=" date_temps">Date de temps</note>
               </seg>
-              <seg corresp="dispositif">
-                ego 
-                Isoardus d’Ays dominus de Chasteillono, spontaneus, non coactus, non deceptus 
-                neque dolo inductus, sed de mea propria voluntate donavi et concessi Deo 
-                et domui de Bertaudo et Durando Clari et Durando Escofer, fratribus ejusdem 
-                domus recipientibus nomine ipsius domus, ob remedium anime mee et parentum 
-                meorum, in feudum francum et liberum ab omni servitute, soudazione, laudimio 
-                et omni alia exactione quicquid dicta domus de Bertaudo vel alius nomine 
-                ipsius domus acquisierat de meo dominio vel posset juste acquirere in futurum 
-                in territorio de Monte Mauro et in territorio de Clusa, et hoc tantum in 
-                quantum protenditur condamina dicte domus et condamina de Borno usque ad 
-                rivum de Labeos et usque ad summitatem rupis de Serraut, quod dicte domui 
-                donavi et concessi ad habendum, tenendum et possidendum in perpetuo, pacifice 
-                et quiete.<note xml:id="dispositif"
-                  >Dispositif</note></seg>
-              <seg corresp="clause_promesse">Quam 
-                donationem et concessionem ego dictus Isoardus promisi bona fide firmam 
-                tenere per me et per Raimundum de Monte Albano, meum filium et heredes meos 
-                sive successores et ratam habere perpetuo et ullo jure vel occasione contra 
-                decetero non venire in toto vel in aliqua parte.<note xml:id="clause_promesse"
-                  >Clause de promesse</note></seg>
-              <seg corresp="exposé">Ce jour, nous, prévost des
-                marchands et échevins de la ville de Paris assemblés au bureau de
-                lad. ville avec le procureur du roy et de la ville pour les affaires
-                d’icelle, monsieur le prévost des marchands a dit que le bureau
-                ayant ordonné par sa délibération du deux septembre mil sept cent
-                soixante l’établissement à l’hôtel de Lamoignon de la bibliothèque
-                léguée à la ville par feu Antoine Moriau avocat et procureur du roy
-                et de la ville honnoraire, il croyoit nécessaire avant l’ouverture
-                de ladite bibliothèque au public qui devoit avoir son effet dans le
-                courant du mois prochain d’y ajouter encore les livres qui avoient
-                été acquis par la ville en mil sept cent trente-quatre dans l’idée
-                de former un commencement de bibliothèque, lesquels consistent dans
-                l’état qu’il nous mettoit sous les yeux et qui sont depuis ce temps
-                déposés dans une des pièces dépendantes du greffe de lad. ville. Sur
-                quoy, la matière mise en délibération, ouy et ce consentant le
-                procureur du roi et de la ville,<note xml:id="exposé"
-                  >Exposé</note></seg>
-              <seg corresp="date_lieu">Actum 
-                in ecclesia domus militie de Rocha, <note xml:id="date_lieu"
-                  >Date de lieu</note></seg>
-              <seg corresp="Liste_temoins">in 
-                presentia testium subscriptorum, videlicet Ossasicce, Lantelmi de Jarjaia, 
-                Willelmi de Pontisio juvenis, Odonis de Rocha, Lantelmi de Petra, Rodulfi 
-                de Fonte, Lantelmi de Trisoaut, militum, Petri Rostagni clerici, Arnaudi 
-                filii dicti Ossasicce, Alamanni de Clusa.<note xml:id="Liste_temoins"
-                  >Liste de témoins</note></seg>
-              <seg corresp="corroboration"> Et 
-                ad majorem hujus rei certitudinem et perpetuam firmitatem et ad preces dictorum 
-                fratrum domus de Bertaudo, ego dictus Issoardus presentem cartam jussi sigilli 
-                mei munimine roborari in testimonium veritatis.<note
-                  xml:id="corroboration">Corroboration avec annonce du sceau</note></seg>
-              
-              <!-- Tout comme l'a fait  Alexandre Monnin pour, par exemple, le dossier Theleme-1763-05,  
-                j'ai remplacé, dans ce document, le signe "#" (hors xml:id et assimilés) par "<ex>paraphe</ex>" -->
+              <seg corresp="dispositif"> ego  Isoardus d’Ays dominus de Chasteillono, spontaneus, non coactus, non deceptus  neque dolo inductus, sed de mea propria voluntate donavi et concessi Deo  et domui de Bertaudo et Durando Clari et Durando Escofer, fratribus ejusdem  domus recipientibus nomine ipsius domus, ob remedium anime mee et parentum  meorum, in feudum francum et liberum ab omni servitute, soudazione, laudimio  et omni alia exactione quicquid dicta domus de Bertaudo vel alius nomine  ipsius domus acquisierat de meo dominio vel posset juste acquirere in futurum  in territorio de Monte Mauro et in territorio de Clusa, et hoc tantum in  quantum protenditur condamina dicte domus et condamina de Borno usque ad  rivum de Labeos et usque ad summitatem rupis de Serraut, quod dicte domui  donavi et concessi ad habendum, tenendum et possidendum in perpetuo, pacifice  et quiete.<note xml:id="dispositif" >Dispositif</note></seg>
+              <seg corresp="clause_promesse">Quam  donationem et concessionem ego dictus Isoardus promisi bona fide firmam  tenere per me et per Raimundum de Monte Albano, meum filium et heredes meos  sive successores et ratam habere perpetuo et ullo jure vel occasione contra  decetero non venire in toto vel in aliqua parte.<note xml:id="clause_promesse" >Clause de promesse</note></seg>
+              <seg corresp="exposé">Ce jour, nous, prévost des marchands et échevins de la ville de Paris assemblés au bureau de lad. ville avec le procureur du roy et de la ville pour les affaires d’icelle, monsieur le prévost des marchands a dit que le bureau ayant ordonné par sa délibération du deux septembre mil sept cent soixante l’établissement à l’hôtel de Lamoignon de la bibliothèque léguée à la ville par feu Antoine Moriau avocat et procureur du roy et de la ville honnoraire, il croyoit nécessaire avant l’ouverture de ladite bibliothèque au public qui devoit avoir son effet dans le courant du mois prochain d’y ajouter encore les livres qui avoient été acquis par la ville en mil sept cent trente-quatre dans l’idée de former un commencement de bibliothèque, lesquels consistent dans l’état qu’il nous mettoit sous les yeux et qui sont depuis ce temps déposés dans une des pièces dépendantes du greffe de lad. ville. Sur quoy, la matière mise en délibération, ouy et ce consentant le procureur du roi et de la ville,<note xml:id="exposé" >Exposé</note></seg>
+              <seg corresp="date_lieu">Actum  in ecclesia domus militie de Rocha, <note xml:id="date_lieu" >Date de lieu</note></seg>
+              <seg corresp="Liste_temoins">in  presentia testium subscriptorum, videlicet Ossasicce, Lantelmi de Jarjaia,  Willelmi de Pontisio juvenis, Odonis de Rocha, Lantelmi de Petra, Rodulfi  de Fonte, Lantelmi de Trisoaut, militum, Petri Rostagni clerici, Arnaudi  filii dicti Ossasicce, Alamanni de Clusa.<note xml:id="Liste_temoins" >Liste de témoins</note></seg>
+              <seg corresp="corroboration"> Et  ad majorem hujus rei certitudinem et perpetuam firmitatem et ad preces dictorum  fratrum domus de Bertaudo, ego dictus Issoardus presentem cartam jussi sigilli  mei munimine roborari in testimonium veritatis.<note xml:id="corroboration">Corroboration avec annonce du sceau</note></seg> 
+              <!-- Tout comme l'a fait  Alexandre Monnin pour, par exemple, le dossier Theleme-1763-05,   j'ai remplacé, dans ce document, le signe "#" (hors xml:id et assimilés) par "<ex>paraphe</ex>" -->
             </p>                    
           </div>
         </div>              
         <div>
           <head>Interprétation</head>                                    
           <div>
-            <p>La lecture et l’interprétation historique et juridique de l’acte inciteraient 
-              à le qualifier sans hésiter d’« acte seigneurial ». Hormis pourtant 
-              la suscription et son répondant au bas de l’acte, le sceau, qui attribuent 
-              la rédaction et la validation à l’auteur de l’action juridique, cette impression 
-              est superficielle sous l’aspect diplomatique : l’écriture, les formules 
-              savantes (expression de la libre volonté, clause de promesse), la langue 
-              maîtrisée et technicienne, la description claire et sèche, tout renvoie 
-              à une composition d’esprit « notarial ». Il n’est jusqu’à l’articulation 
-              même du discours qui ne renforce cette impression, puisque, à la façon des 
-              actes notariés, la date de temps est mise en tête. Derrière l’habillage 
-              en « acte seigneurial » se cache à l’évidence un écrivain professionnel, 
-              qui peut avoir une clientèle élargie et qui, sans être forcément notaire, 
-              est déjà profondément marqué par la culture documentaire du notariat.</p>
-            
-          </div>
-          
+            <p>La lecture et l’interprétation historique et juridique de l’acte inciteraient  à le qualifier sans hésiter d’« acte seigneurial ». Hormis pourtant  la suscription et son répondant au bas de l’acte, le sceau, qui attribuent  la rédaction et la validation à l’auteur de l’action juridique, cette impression  est superficielle sous l’aspect diplomatique : l’écriture, les formules  savantes (expression de la libre volonté, clause de promesse), la langue  maîtrisée et technicienne, la description claire et sèche, tout renvoie  à une composition d’esprit « notarial ». Il n’est jusqu’à l’articulation  même du discours qui ne renforce cette impression, puisque, à la façon des  actes notariés, la date de temps est mise en tête. Derrière l’habillage  en « acte seigneurial » se cache à l’évidence un écrivain professionnel,  qui peut avoir une clientèle élargie et qui, sans être forcément notaire,  est déjà profondément marqué par la culture documentaire du notariat.</p> 
+          </div> 
         </div>    
-      </div>
-      
-      
+      </div>  
     </body>
   </text>
 </TEI>

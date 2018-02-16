@@ -21,7 +21,7 @@
         <body>
             <div type="facsimile">
                 <p>
-                    <seg n="poly" rend="138,178,134,88,228,86,231,104,477,100,480,117,224,119,226,174">La caritat fervent que li ve-</seg>
+                    <seg rend="138,178,134,88,228,86,231,104,477,100,480,117,224,119,226,174">La caritat fervent que li ve-</seg>
                     <seg rend="227,123,480,137">raia amiga de Dieu ma don-</seg>
                     <seg rend="228,140,479,155">na s<ex>an</ex>c<ex>t</ex>a Doucelina avia, qui</seg>
                     <seg rend="228,161,479,175">poiria retraire ? car illh era to-</seg>
@@ -79,7 +79,7 @@
                     <l>un creator <ex>e</ex> un comensament. Maiorme<ex>n</ex>s</l>
                     <l>s'estendia li sieua caritatz als paures e</l>
                 </div>
-                <div type="traduction">
+                <div type="translation">
                     <l>La fervente charité que la vraie</l>
                     <l>amie de Dieu, madame</l>
                     <l>sainte Douceline, avait</l>

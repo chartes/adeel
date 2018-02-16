@@ -175,7 +175,7 @@
                     </l>
                     <l>et servit cum filiis ejus. Illa autem quae sursum est [...]</l>
                 </div>
-                <div type="traduction">
+                <div type="translation">
                     <l>[...] comment retournez-vous à ces pauvres et faibles</l>
                     <l>rudiments, auxquels vous voulez de nouveau vous soumettre <add place="left">
                             <p>Pourquoi dit-il : &#x2019;auxquels vous voulez…&#x2019; &#x2019; Est-ce que les</p>
@@ -268,103 +268,18 @@
                     <l>qui est esclave avec ses enfants. Mais celle d&#x2019;en haut [...]</l>
                 </div>
             </div>
-	    <div type="commentaire" n="paleographie">
-	      <div>
-		<head>Morphologie</head>
-		<div>
-		  <p>
-		  <figure rend="4/faxexterne.jpg">
-		  </figure>
-		 </p>
-		<p>
-		  Cette page très abondamment glosée est écrite dans une 
-		  <hi rend="strong">minuscule caroline</hi> classique de qualité moyenne, où 
-		se détache quelques <hi rend="strong">traits archaïques</hi>.</p>
-		<p>D'abord l'alternance indifférente de deux formes équivalentes 
-		(allographes) de la <hi rend="strong">lettre 'a'</hi> :</p>
-		<hi rend="i">a</hi> rond en trois traits (2 courbes parallèles et un trait
-		pour fermer la partie supérieure) ;
-		<hi rend="i">a</hi> à crosse, qui s'est généralisé à 
-		partir du IX<hi rend="sup">e</hi> siècle, ici avec une panse relativement 
-		étirée en pointue.
-		
-		<p>Ces deux formes s'opposent à l'ancien <hi rend="i">a</hi> ouvert en haut, qui 
-		a été supplanté comme susceptible d'être confondu 
-		avec <hi rend="i">u</hi> : c'est l'un des aspects de l'effort méthodique 
-		de clarification et de distinction des formes qui a fait de la minuscule caroline 
-		le modèle idéal auquel notre écriture est toujours revenue. 
-		</p>
-		<p>S'y ajoutent des <hi rend="strong">ligatures</hi>, habituelles comme le couple 
-		<hi rend="strong">e-t (&amp;)</hi>, mais aussi plus inattendues dans la minuscule 
-		caroline, comme le couple <hi rend="strong">r-t</hi> avec <hi rend="i">r</hi> prolongé 
-		en pointe vers le haut (18), forme qui survit plus abondamment et plus lontemps 
-		dans l'écriture des documents que dans celle des livres.</p>
-		<p>L'écriture des gloses se distingue par quelques traits propres, l'allongement 
-		(irrégulier et modéré) de <hi rend="i">s</hi> et <hi rend="i">r</hi> sous 
-		la ligne, <hi rend="i">e</hi> avec très longue cédille pour la diphtongue 
-		<hi rend="i">ae</hi>.</p>
+	    <div type="paleography">
+	      <div> 	<head>Morphologie</head> 	<div> 	  <p> 	  <figure rend="4/faxexterne.jpg"> 	  </figure> 	 </p> 	<p> Cette page très abondamment glosée est écrite dans une  	  <hi rend="strong">minuscule caroline</hi> classique de qualité moyenne, où  se détache quelques <hi rend="strong">traits archaïques</hi>.</p> 	<p>D'abord l'alternance indifférente de deux formes équivalentes  (allographes) de la <hi rend="strong">lettre 'a'</hi> :</p> 	<hi rend="i">a</hi> rond en trois traits (2 courbes parallèles et un trait pour fermer la partie supérieure) ; 	<hi rend="i">a</hi> à crosse, qui s'est généralisé à  partir du IX<hi rend="sup">e</hi> siècle, ici avec une panse relativement  étirée en pointue.  	<p>Ces deux formes s'opposent à l'ancien <hi rend="i">a</hi> ouvert en haut, qui  a été supplanté comme susceptible d'être confondu  avec <hi rend="i">u</hi> : c'est l'un des aspects de l'effort méthodique  de clarification et de distinction des formes qui a fait de la minuscule caroline  le modèle idéal auquel notre écriture est toujours revenue.  	</p> 	<p>S'y ajoutent des <hi rend="strong">ligatures</hi>, habituelles comme le couple  	<hi rend="strong">e-t (&amp;)</hi>, mais aussi plus inattendues dans la minuscule  caroline, comme le couple <hi rend="strong">r-t</hi> avec <hi rend="i">r</hi> prolongé  en pointe vers le haut (18), forme qui survit plus abondamment et plus lontemps  dans l'écriture des documents que dans celle des livres.</p> 	<p>L'écriture des gloses se distingue par quelques traits propres, l'allongement  (irrégulier et modéré) de <hi rend="i">s</hi> et <hi rend="i">r</hi> sous  la ligne, <hi rend="i">e</hi> avec très longue cédille pour la diphtongue  	<hi rend="i">ae</hi>.</p>
 	      </div>
 	    </div>
 	    <div>
 	      <head>Abréviations</head>
-	      <div>
-		<p>    
-		  Le système abréviatif recourt à des formes banales : 
-		  abréviations génériques de nasales, abréviations 
-		sur <hi rend="i">p</hi>, <hi rend="i">nomina sacra</hi>, etc.</p>
-		<p>Comme souvent, il est plus développé dans la glose, où 
-		figurent en particulier abondamment l'abréviation tironienne pour <hi rend="i">est</hi> 
-		(÷) et les formes en une lettre de <hi rend="i">idest</hi> (.<hi rend="i">i</hi>.), <hi rend="i">scilicet</hi> 
-		(.<hi rend="i">s</hi>.), <hi rend="i">vel</hi> (<hi rend="i">l</hi> barré).</p>
+	      <div> 	<p>     Le système abréviatif recourt à des formes banales :  abréviations génériques de nasales, abréviations  sur <hi rend="i">p</hi>, <hi rend="i">nomina sacra</hi>, etc.</p> 	<p>Comme souvent, il est plus développé dans la glose, où  figurent en particulier abondamment l'abréviation tironienne pour <hi rend="i">est</hi>  (÷) et les formes en une lettre de <hi rend="i">idest</hi> (.<hi rend="i">i</hi>.), <hi rend="i">scilicet</hi>  (.<hi rend="i">s</hi>.), <hi rend="i">vel</hi> (<hi rend="i">l</hi> barré).</p>
 	      </div>
 	    </div>
 	    <div>
 	      <head>Structuraction</head>
-	      <div>
-		<p>
-		  
-		 <hi rend="strong">La séparation des mots</hi> est à peu près 
-		  régulière. Cependant les monosyllabes, prépositions et 
-		  conjonctions, comme c'est très souvent le cas, s'agglutinent au mot 
-		  voisin, et les adjectifs peuvent de même se souder au substantif auquel 
-		  ils se rapportent. Ces groupements constituent des unités surtout pour 
-		  la prononciation (avec un accent tonique unique ou principal), et accessoirement 
-		pour le sens.</p>
-		<p><hi rend="strong">La ponctuation</hi> utilise avec régularité les 
-		trois signes habituels :</p>
-		
-		<hi rend="i">comma</hi>, un point légèrement élevé 
-		= pause courte (cf. notre virgule) ;
-		<hi rend="i">colon</hi>, un point-virgule renversé = pause moyenne (cf. notre 
-		point-virgule) ;
-		<hi rend="i">periodus</hi>, ici un point-virgule simple = pause forte (cf. notre 
-		point).
-		
-		<p>Le <hi rend="i">periodus</hi> est systématiquement suivi d'une initiale agrandie, 
-		dont la morphologie est essentiellement empruntée à l'onciale, 
-		et dont la dimension variable introduit une hiérarchie supplémentaire 
-		dans le découpage du texte.</p>
-		<p><hi rend="strong">La disposition de la glose</hi> par rapport au texte n'est pas 
-		planifiée à l'avance, bien que tous deux soient de la même 
-		main. La glose n'est même pas rédigée dans l'ordre du 
-		texte, ce qui interdit toute mise en page logique. Elle est placée 
-		d'abord au plus près du passage commenté, soit dans l'interligne, 
-		soit, si elle est plus longue, dans la marge voisine, et introduite par <hi rend="i">idest</hi> 
-		ou <hi rend="i">scilicet</hi>. Au fur et à mesure du remplissage de la marge, 
-		il devient nécessaire de recourir à des signes de renvoi et 
-		de placer les gloses en fonction de l'espace nécessaire pour chacune, 
-		jusque dans les marges supérieure et inférieure. Les <hi rend="strong">signes 
-		de renvoi</hi> sont des dessins arbitraires, qui ne peuvent constituer 
-		une série logique (comme nos notes appelées par des numéros 
-		ou des lettres), et dont les formes peuvent éventuellement prêter 
-		à confusion ; aussi les mots à commenter sont-ils repris 
-		par précaution au début de la glose. Le repérage est 
-		au total bien incommode, et exige de donner aux signes de renvoi une assez 
-		grande dimension pour qu'ils soient bien visibles. L'aspect de la page n'en 
-		est que plus touffu.</p>
-		
-		  </div>
-		</div>
+	      <div> 	<p>  	 <hi rend="strong">La séparation des mots</hi> est à peu près  régulière. Cependant les monosyllabes, prépositions et  conjonctions, comme c'est très souvent le cas, s'agglutinent au mot  voisin, et les adjectifs peuvent de même se souder au substantif auquel  ils se rapportent. Ces groupements constituent des unités surtout pour  la prononciation (avec un accent tonique unique ou principal), et accessoirement  pour le sens.</p> 	<p><hi rend="strong">La ponctuation</hi> utilise avec régularité les  trois signes habituels :</p>  	<hi rend="i">comma</hi>, un point légèrement élevé  = pause courte (cf. notre virgule) ; 	<hi rend="i">colon</hi>, un point-virgule renversé = pause moyenne (cf. notre  point-virgule) ; 	<hi rend="i">periodus</hi>, ici un point-virgule simple = pause forte (cf. notre  point).  	<p>Le <hi rend="i">periodus</hi> est systématiquement suivi d'une initiale agrandie,  dont la morphologie est essentiellement empruntée à l'onciale,  et dont la dimension variable introduit une hiérarchie supplémentaire  dans le découpage du texte.</p> 	<p><hi rend="strong">La disposition de la glose</hi> par rapport au texte n'est pas  planifiée à l'avance, bien que tous deux soient de la même  main. La glose n'est même pas rédigée dans l'ordre du  texte, ce qui interdit toute mise en page logique. Elle est placée  d'abord au plus près du passage commenté, soit dans l'interligne,  soit, si elle est plus longue, dans la marge voisine, et introduite par <hi rend="i">idest</hi>  ou <hi rend="i">scilicet</hi>. Au fur et à mesure du remplissage de la marge,  il devient nécessaire de recourir à des signes de renvoi et  de placer les gloses en fonction de l'espace nécessaire pour chacune,  jusque dans les marges supérieure et inférieure. Les <hi rend="strong">signes  de renvoi</hi> sont des dessins arbitraires, qui ne peuvent constituer  une série logique (comme nos notes appelées par des numéros  ou des lettres), et dont les formes peuvent éventuellement prêter  à confusion ; aussi les mots à commenter sont-ils repris  par précaution au début de la glose. Le repérage est  au total bien incommode, et exige de donner aux signes de renvoi une assez  grande dimension pour qu'ils soient bien visibles. L'aspect de la page n'en  est que plus touffu.</p>  	  </div> 	</div>
 	    </div>
         </body>
     </text>

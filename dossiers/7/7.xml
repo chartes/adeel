@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>1297. Saint-Omer. Vincent de Beauvais, Speculum historiale (liv. I, chap. 121, et liv. II, chap. 1)</title>
-			</titleStmt>
-			<publicationStmt>
-				<idno type="numero">7</idno>
-				<publisher>École nationale des chartes</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Orig. : Bibl. mun. Boulogne-sur-Mer, ms. 131.</p>
-				<p>Fac-sim. ENC : NF 339 (héliogravure).</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language id="frm">Ancien français</language>
-				<language id="fre">Français</language>
-			</langUsage>
-		</profileDesc>
+	<teiHeader> 	<fileDesc> 	<titleStmt> 	<title>1297. Saint-Omer. Vincent de Beauvais, Speculum historiale (liv. I, chap. 121, et liv. II, chap. 1)</title> 	</titleStmt> 	<publicationStmt> 	<idno type="numero">7</idno> 	<publisher>École nationale des chartes</publisher> 	</publicationStmt> 	<sourceDesc> 	<p>Orig. : Bibl. mun. Boulogne-sur-Mer, ms. 131.</p> 	<p>Fac-sim. ENC : NF 339 (héliogravure).</p> 	</sourceDesc> 	</fileDesc> 	<profileDesc> 	<langUsage> 	<language id="frm">Ancien français</language> 	<language id="fre">Français</language> 	</langUsage> 	</profileDesc>
 	</teiHeader>
-	<text>
-		<body>
-			<div type="facsimile">
-			    <p>
+	<text> 	<body> 	<div type="facsimile"> 	    <p>
                                                     <seg rend="2,8,382,35">Testat<ex>ur</ex> a<ex>utem</ex> Epyfani<ex>us</ex> q<ex>uod</ex> no<ex>n</ex> sit passus cor<ex>por</ex>is mutatione<ex>m</ex> s<ex>ed</ex> m<ex>en</ex>-</seg>
                                                     <seg rend="4,37,371,61">-tis alienat<ex>i</ex>one<ex>m</ex>, <ex>et</ex> ablat<ex>us</ex> e<ex>st</ex> ei usus lingue ad loque<ex>n</ex>du<ex>m</ex></seg>
                                                     <seg rend="4,63,360,84">dataq<ex>ue</ex> <ex>es</ex>t h<ex>er</ex>ba n<ex>atu</ex>re cib<ex>us</ex> humane. Videbat<ex>ur</ex> a<ex>utem</ex> ei q<ex>uod</ex> bos e<ex>ss</ex>et</seg>
@@ -71,11 +49,7 @@
                                                     <seg rend="6,1049,365,1072">regnu<ex>m</ex> t<ex>r</ex>ansituru<ex>m</ex> ad filia<ex>m</ex>, filiu<ex>m</ex> ip<ex>s</ex>i<ex>us</ex> v<ex>er</ex>itus e<ex>st</ex> occid<ex>er</ex>e <ex>et</ex></seg>
                                                     <seg rend="6,1074,357,1096">uni de pastorib<ex>us</ex> regis t<ex>r</ex>adidit p<ex>ar</ex>vulu<ex>m</ex> expone<ex>n</ex>du<ex>m</ex> i<ex>n</ex></seg>
                                                     <seg rend="8,1098,367,1119">nemore. Qui cu<ex>m</ex> exposuiss<ex>et</ex> eu<ex>m</ex> <ex>et</ex> id i<ex>n</ex>dicass<ex>et</ex> uxori, q<ex>ue</ex></seg>
-                                                    <seg rend="6,1120,366,1144">i<ex>n</ex> dieb<ex>us</ex> ill<ex>is</ex> pepererat, supplicavit ei m<ex>u</ex>l<ex>ie</ex>r ut ei par[vulu<ex>m</ex> deferret alend<ex>um</ex>…]</seg>
-			   </p>
-			</div>
-			<div type="text">
-			    <div type="transcription">
+                                                    <seg rend="6,1120,366,1144">i<ex>n</ex> dieb<ex>us</ex> ill<ex>is</ex> pepererat, supplicavit ei m<ex>u</ex>l<ex>ie</ex>r ut ei par[vulu<ex>m</ex> deferret alend<ex>um</ex>…]</seg> 	   </p> 	</div> 	<div type="text"> 	    <div type="transcription">
                                                     <l>Testatur autem Epyfanius quod non sit</l>
                                                     <l>passus corporis mutationem sed men-</l>
                                                     <l>tis alienationem, et ablatus est</l>
@@ -157,9 +131,7 @@
                                                     <l>eum et id indicasset uxori, que</l>
                                                     <l>in diebus illis pepererat,</l>
                                                     <l>supplicavit ei mulier ut ei par-</l>
-                                                    <l>[vulum deferret alendum...]</l>
-			    </div>
-			    <div type="traduction">
+                                                    <l>[vulum deferret alendum...]</l> 	    </div> 	    <div type="translation">
                                                     <l>Épiphane atteste en effet qu’il ne subit pas</l>
                                                     <l>une transformation physique mais une</l>
                                                     <l>aliénation mentale : il perdit</l>
@@ -241,193 +213,6 @@
                                                     <l>en informa son épouse, qui</l>
                                                     <l>venait elle-même d’enfanter ;</l>
                                                     <l>la femme le supplia de lui donner</l>
-                                                    <l>[le petit enfant à nourrir...]</l>
-			    </div>
-			</div>
-		    <div type="commentaire" n="paleographie">
-		        <head>Commentaire paléographique</head>
-		        <div>
-		            <head>Ecriture</head>                
-		            <div>		    		    
-		    <p>Les numéros entre parenthèses renvoient 
-		        aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>		       
-		        <p>
-		            
-		            L'écriture de ce manuscrit, écrit 
-		            
-		            à Saint-Omer en 1297, est une écriture « textuelle » 
-		            
-		            gothique d'assez bonne qualité, qui peut servir d'exemple pour 
-		            
-		            une description des caractères généraux de l'écriture 
-		            
-		            gothique, environ un siècle après qu'elle a commencé 
-		            
-		            à se distinguer de l'ancienne minuscule caroline.</p>
-		        
-		        <ul>
-		            
-		            <li>Verticalité et rythme serré : lettres composées 
-		                
-		                d'éléments normalisés, essentiellement des segments 
-		                
-		                rectilignes en succession régulière, avec un effet de 
-		                
-		                compression latérale.</li>
-		            
-		            <li>Empattements supérieurs et inférieurs en forme 
-		                
-		                de crochets opposés, plus ou moins anguleux. Le copiste veille 
-		                
-		                cependant à éviter la confusion entre ces crochets et 
-		                
-		                les traits de liaison entre deux jambages : ainsi il reste une 
-		                
-		                différence visible entre <hi rend="bold">u</hi> et <hi rend="bold">n</hi>, entre <hi rend="bold">iu</hi> 
-		                
-		                et <hi rend="bold">m</hi>, etc., et cela malgré l'absence presque générale 
-		                
-		                de point sur les <hi rend="bold">i</hi>. Ces crochets sont ici produits pour la plupart 
-		                
-		                par un simple retour de la plume, plutôt que par l'application 
-		                
-		                d'un trait supplémentaire croisant l'extrémité 
-		                
-		                du jambage, comme c'est le cas dans la variété plus calligraphique 
-		                
-		                dite <hi rend="bold">textualis quadrata</hi>, particulièrement employée 
-		                
-		                dans les beaux manuscrits liturgiques.</li>
-		            
-		            <li>Sur les hastes montantes, l'ancien empattement (de forme massuée 
-		                
-		                puis triangulaire) a évolué vers une forme fourchue, avec 
-		                
-		                un crochet plus ou moins marqué à gauche (ex. : 1<sup>re</sup> col., 
-		                
-		                2, plusieurs <hi rend="bold">l</hi>).</li>
-		            
-		            <li>Superposition de courbes opposées (règle dite 
-		                
-		                de Meyer) : afin de ne pas rompre le rythme continu du mot par l'insertion 
-		                
-		                d'un blanc là où on ne peut enchaîner deux lettres 
-		                
-		                successives par des crochets, les courbes opposées de deux lettres 
-		                
-		                voisines se superposent (ex. : col. a, 3, <hi rend="bold">vi<u>de</u>batur</hi>)</li>
-		            
-		            <li>Le <hi rend="bold">d</hi> oncial (incliné à gauche), 
-		                
-		                qui a désormais supplanté le <hi rend="bold">d</hi> droit, est particulièrement 
-		                
-		                concerné par la règle de Meyer.</li>
-		            
-		            <li>L'abréviation tironienne de <hi rend="bold">et</hi>, ici en forme 
-		                
-		                de <hi rend="bold">z</hi> barré, a remplacé pour l'essentiel l'ancienne 
-		                
-		                conjonction <hi rend="bold">&amp;</hi>. Celle-ci n'a pas pour autant disparu (voir 
-		                    
-		                    ci-après)</li>
-		            
-		        </ul>
-		            </div>
-		        </div>
-		        
-		            <div>
-		                <head>Structuration</head>                
-		                <div>
-		                    <p>Les numéros entre parenthèses renvoient 
-		                        aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>
-		             
-		                <hr/>
-		                
-		                    <p>
-		                        
-		                        Sans être aussi dense que celui des textes plus techniques destinés 
-		                        à des lecteurs spécialisés, le système abréviatif 
-		                        de ce manuscrit emploie pratiquement toute la gamme des signes et modes d'abréviation 
-		                        habituels dans les livres. Principalement :</p>
-		                    
-		                    <ul>
-		                        <li>tilde avec diverses valeurs, abréviations particulières 
-		                            de <hi rend="bold">p</hi> et <hi rend="bold">q</hi>, signes spéciaux pour <hi rend="bold">et</hi> (voir 
-		                            <xref to="paleographie.php?id=7&amp;page=1">morphologie</xref>), <hi rend="bold">con-, er, us, 
-		                                ur, -rum, -que</hi> ;</li>
-		                        
-		                        <li>contraction de mots fréquents, jusqu'à la réduction 
-		                            à une lettre de mots-outils comme<hi rend="bold"> autem</hi> ou <hi rend="bold">secundum</hi>. 
-		                        </li>
-		                        <li>voyelle suscrite pour une syllabe (mais non pour contracter un mot) ; 
-		                        </li>
-		                    </ul>
-		                    
-		                </div>
-		                </div>
-		        
-		        <div>
-		            <head>Suite et fin - Structuration</head>                
-		            <div>
-		                <p id="explications_paleo">Les numéros entre parenthèses renvoient 
-		                    aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>
-		            </div>
-		            <hr/>
-		           
-		                <p>
-		                    
-		                    La ponctuation repose sur deux signes 
-		                    
-		                    seulement, mais qui valent pour trois selon la manière dont ils 
-		                    
-		                    se combinent avec les lettres :</p>
-		                
-		                <ul>
-		                    
-		                    <li>point suivi de minuscule = pause faible ;</li>
-		                    
-		                    <li>point-virgule renversé = pause moyenne ;</li>
-		                    
-		                    <li>point suivi de majuscule = pause forte.</li>
-		                    
-		                </ul>
-		                
-		                <p>La séparation des mots est soigneusement observée.</p>
-		                
-		                <p>Au niveau supérieur, la hiérarchie de la page est 
-		                    
-		                    organisée par l'initiale historiée dans la colonne 
-		                    
-		                    a (on y voit le roi Astiage rêvant de sa fille) et par une lettrine 
-		                        
-		                        filigranée dans la colonne b (non visible ici).</p>
-		                
-		                <p>Les débuts de chapitre sont en outre signalés par des titres 
-		                    
-		                    en rouge, les rubriques, dont la différence de couleur n'apparaît 
-		                    
-		                    pas sur ce fac-similé héliographique, mais dont on voit 
-		                    
-		                    d'autant mieux qu'elles sont tracées d'une autre plume. Le copiste 
-		                    
-		                    est peut-être le même (l'écriture est très semblable), 
-		                    
-		                    ou bien un autre, éventuellement un spécialiste, le rubricateur. 
-		                    
-		                    La rubrique est toujours tracée après le texte, dans un 
-		                    
-		                    espace réservé pour cela. C'est ce qui explique les ajustements 
-		                    
-		                    parfois nécessaires (comme ici l'emploi de <hi rend="bold">s</hi> spéciaux), 
-		                    
-		                    quand l'espace prévu est trop étroit ou trop large.</p>
-		                
-		                <p>Les noms soulignes sont ceux des auteurs cités.</p>
-		                
-		            </div>
-		            </div>
-		    
-		</body>
+                                                    <l>[le petit enfant à nourrir...]</l> 	    </div> 	</div> 	    <div type="paleography"> 	        <head>Commentaire paléographique</head> 	        <div> 	            <head>Ecriture</head>                 	            <div>		    		     	    <p>Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>		        	        <p>  L'écriture de ce manuscrit, écrit   à Saint-Omer en 1297, est une écriture « textuelle »   gothique d'assez bonne qualité, qui peut servir d'exemple pour   une description des caractères généraux de l'écriture   gothique, environ un siècle après qu'elle a commencé   à se distinguer de l'ancienne minuscule caroline.</p>  	        <ul>  	            <li>Verticalité et rythme serré : lettres composées   d'éléments normalisés, essentiellement des segments   rectilignes en succession régulière, avec un effet de   compression latérale.</li>  	            <li>Empattements supérieurs et inférieurs en forme   de crochets opposés, plus ou moins anguleux. Le copiste veille   cependant à éviter la confusion entre ces crochets et   les traits de liaison entre deux jambages : ainsi il reste une   différence visible entre <hi rend="b">u</hi> et <hi rend="b">n</hi>, entre <hi rend="b">iu</hi>   et <hi rend="b">m</hi>, etc., et cela malgré l'absence presque générale   de point sur les <hi rend="b">i</hi>. Ces crochets sont ici produits pour la plupart   par un simple retour de la plume, plutôt que par l'application   d'un trait supplémentaire croisant l'extrémité   du jambage, comme c'est le cas dans la variété plus calligraphique   dite <hi rend="b">textualis quadrata</hi>, particulièrement employée   dans les beaux manuscrits liturgiques.</li>  	            <li>Sur les hastes montantes, l'ancien empattement (de forme massuée   puis triangulaire) a évolué vers une forme fourchue, avec   un crochet plus ou moins marqué à gauche (ex. : 1<sup>re</sup> col.,   2, plusieurs <hi rend="b">l</hi>).</li>  	            <li>Superposition de courbes opposées (règle dite   de Meyer) : afin de ne pas rompre le rythme continu du mot par l'insertion   d'un blanc là où on ne peut enchaîner deux lettres   successives par des crochets, les courbes opposées de deux lettres   voisines se superposent (ex. : col. a, 3, <hi rend="b">vi<u>de</u>batur</hi>)</li>  	            <li>Le <hi rend="b">d</hi> oncial (incliné à gauche),   qui a désormais supplanté le <hi rend="b">d</hi> droit, est particulièrement   concerné par la règle de Meyer.</li>  	            <li>L'abréviation tironienne de <hi rend="b">et</hi>, ici en forme   de <hi rend="b">z</hi> barré, a remplacé pour l'essentiel l'ancienne   conjonction <hi rend="b">&amp;</hi>. Celle-ci n'a pas pour autant disparu (voir   ci-après)</li>  	        </ul> 	            </div> 	        </div>  	            <div> 	                <head>Structuration</head>                 	                <div> 	                    <p>Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>  	                <hr/>  	                    <p>  Sans être aussi dense que celui des textes plus techniques destinés  à des lecteurs spécialisés, le système abréviatif  de ce manuscrit emploie pratiquement toute la gamme des signes et modes d'abréviation  habituels dans les livres. Principalement :</p>  	                    <ul> 	                        <li>tilde avec diverses valeurs, abréviations particulières  de <hi rend="b">p</hi> et <hi rend="b">q</hi>, signes spéciaux pour <hi rend="b">et</hi> (voir  	                            <xref to="paleographie.php?id=7&amp;page=1">morphologie</xref>), <hi rend="b">con-, er, us,  ur, -rum, -que</hi> ;</li>  	                        <li>contraction de mots fréquents, jusqu'à la réduction  à une lettre de mots-outils comme<hi rend="b"> autem</hi> ou <hi rend="b">secundum</hi>.  	                        </li> 	                        <li>voyelle suscrite pour une syllabe (mais non pour contracter un mot) ;  	                        </li> 	                    </ul>  	                </div> 	                </div>  	        <div> 	            <head>Suite et fin - Structuration</head>                 	            <div> 	                <p id="explications_paleo">Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p> 	            </div> 	            <hr/>  	                <p>  La ponctuation repose sur deux signes   seulement, mais qui valent pour trois selon la manière dont ils   se combinent avec les lettres :</p>  	                <ul>  	                    <li>point suivi de minuscule = pause faible ;</li>  	                    <li>point-virgule renversé = pause moyenne ;</li>  	                    <li>point suivi de majuscule = pause forte.</li>  	                </ul>  	                <p>La séparation des mots est soigneusement observée.</p>  	                <p>Au niveau supérieur, la hiérarchie de la page est   organisée par l'initiale historiée dans la colonne   a (on y voit le roi Astiage rêvant de sa fille) et par une lettrine   filigranée dans la colonne b (non visible ici).</p>  	                <p>Les débuts de chapitre sont en outre signalés par des titres   en rouge, les rubriques, dont la différence de couleur n'apparaît   pas sur ce fac-similé héliographique, mais dont on voit   d'autant mieux qu'elles sont tracées d'une autre plume. Le copiste   est peut-être le même (l'écriture est très semblable),   ou bien un autre, éventuellement un spécialiste, le rubricateur.   La rubrique est toujours tracée après le texte, dans un   espace réservé pour cela. C'est ce qui explique les ajustements   parfois nécessaires (comme ici l'emploi de <hi rend="b">s</hi> spéciaux),   quand l'espace prévu est trop étroit ou trop large.</p>  	                <p>Les noms soulignes sont ceux des auteurs cités.</p>  	            </div> 	            </div>  	</body>
 	</text>
-</TEI>
-			        
+</TEI> 

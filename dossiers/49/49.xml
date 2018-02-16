@@ -21,79 +21,45 @@
     <body>
       <div type="facsimile">
         <p>
-          <seg
-            rend="44,114,26,170,41,232,88,276,482,279,481,262,231,261,226,212,141,205,143,102,93,85"
-            n="poly">Clemens ep<ex>iscopu</ex>s, servus servor<ex>um</ex>
-            Dei,</seg>
-          <seg rend="502,253,1160,276">dilectis filiis . . ministro et fratribus domus
-            Sancti Maturini</seg>
-          <seg rend="57,295,719,317">Parisien<ex>sis</ex>, ordinis sancte Trinitatis
-            et redemptionis captivor<ex>um</ex>,</seg>
-          <seg rend="733,299,1156,315">sal<ex>u</ex>t<ex>em</ex> et
-            ap<ex>osto</ex>licam ben<ex>edictionem</ex>. Cum a nobis
-            petitur</seg>
-          <seg rend="58,335,856,350">quod justum est et honestum, tam vigor equitatis
-            qua<ex>m</ex> ordo exigit rationis</seg>
+          <seg rend="44,114,26,170,41,232,88,276,482,279,481,262,231,261,226,212,141,205,143,102,93,85">Clemens ep<ex>iscopu</ex>s, servus servor<ex>um</ex> Dei,</seg>
+          <seg rend="502,253,1160,276">dilectis filiis . . ministro et fratribus domus Sancti Maturini</seg>
+          <seg rend="57,295,719,317">Parisien<ex>sis</ex>, ordinis sancte Trinitatis et redemptionis captivor<ex>um</ex>,</seg>
+          <seg rend="733,299,1156,315">sal<ex>u</ex>t<ex>em</ex> et ap<ex>osto</ex>licam ben<ex>edictionem</ex>. Cum a nobis petitur</seg>
+          <seg rend="58,335,856,350">quod justum est et honestum, tam vigor equitatis qua<ex>m</ex> ordo exigit rationis</seg>
           <seg rend="866,335,1158,353">ut id per solicitudinem officii</seg>
           <seg rend="54,375,463,389">n<ex>ost</ex>ri ad debitum perducatur effectum.</seg>
-          <seg rend="482,373,1148,384">Eapropter, dilecti in Domino filii,
-            v<ex>est</ex>ris justis postulationibus</seg>
-          <seg rend="55,405,689,423">grato concurrentes assensu, omnes libertates et
-            immunitate[s]</seg>
-          <seg rend="705,411,1156,423">a predecessoribus n<ex>ost</ex>ris
-            Roman<ex>is</ex> pontificibus</seg>
+          <seg rend="482,373,1148,384">Eapropter, dilecti in Domino filii, v<ex>est</ex>ris justis postulationibus</seg>
+          <seg rend="55,405,689,423">grato concurrentes assensu, omnes libertates et immunitate[s]</seg>
+          <seg rend="705,411,1156,423">a predecessoribus n<ex>ost</ex>ris Roman<ex>is</ex> pontificibus</seg>
           <seg rend="51,440,561,457">sive per privilegia seu alias indulgentias vobis</seg>
-          <seg rend="578,443,1159,458">et domui v<ex>est</ex>re concessas necnon
-            libertates et exemptiones</seg>
-          <seg rend="53,477,844,494">secularium exactionum a regibus et principibus et
-            aliis Chr<ex>ist</ex>i fidelibus</seg>
+          <seg rend="578,443,1159,458">et domui v<ex>est</ex>re concessas necnon libertates et exemptiones</seg>
+          <seg rend="53,477,844,494">secularium exactionum a regibus et principibus et aliis Chr<ex>ist</ex>i fidelibus</seg>
           <seg rend="862,481,1147,493">rationabiliter vobis indultas,</seg>
-          <seg rend="54,513,670,531">sicut eas juste ac pacifice obtinetis, vobis et per
-            vos</seg>
-          <seg rend="691,519,1156,531">eidem domui auctoritate ap<ex>osto</ex>lica
-            confirma-</seg>
-          <seg rend="51,550,535,566">-mus et presentis scripti patrocinio
-            co<ex>m</ex>munimus.</seg>
-          <seg rend="553,553,1134,570">Nulli ergo omnino hominum liceat hanc paginam
-            nostre</seg>
-          <seg rend="53,584,646,607">confirmationis infringere vel ei ausu temerario
-            contraire.</seg>
+          <seg rend="54,513,670,531">sicut eas juste ac pacifice obtinetis, vobis et per vos</seg>
+          <seg rend="691,519,1156,531">eidem domui auctoritate ap<ex>osto</ex>lica confirma-</seg>
+          <seg rend="51,550,535,566">-mus et presentis scripti patrocinio co<ex>m</ex>munimus.</seg>
+          <seg rend="553,553,1134,570">Nulli ergo omnino hominum liceat hanc paginam nostre</seg>
+          <seg rend="53,584,646,607">confirmationis infringere vel ei ausu temerario contraire.</seg>
           <seg rend="664,587,1166,604">Si quis autem hoc attemptare presumpserit, indi-</seg>
-          <seg rend="51,624,733,641">-gnationem omnipotentis Dei et
-            beator<ex>um</ex> Petri et Pauli
-            ap<ex>osto</ex>lor<ex>um</ex> ejus</seg>
-          <seg rend="739,628,1153,639">se noverit incurs[ur]um. Datum
-            Avinion<ex>e</ex>,</seg>
+          <seg rend="51,624,733,641">-gnationem omnipotentis Dei et beator<ex>um</ex> Petri et Pauli ap<ex>osto</ex>lor<ex>um</ex> ejus</seg>
+          <seg rend="739,628,1153,639">se noverit incurs[ur]um. Datum Avinion<ex>e</ex>,</seg>
           <seg rend="52,657,398,680">X kalendas aprilis,</seg>
           <seg rend="526,660,1156,676">pontificatus n<ex>ost</ex>ri anno secundo.</seg>
-          <seg rend="203,690,399,721">[C]lemens ep<ex>iscop</ex>us
-            servit<ex>or</ex></seg>
+          <seg rend="203,690,399,721">[C]lemens ep<ex>iscop</ex>us servit<ex>or</ex></seg>
           <seg rend="975,774,1166,799">Pro B. Testagay,</seg>
           <seg rend="1117,805,1162,817">Christianus</seg>
-          <seg rend="432,746,515,777">S<ex>ANCTUS</ex> PA<ex>ULUS</ex>,
-            S<ex>ANCTUS</ex> P<ex>ETRUS</ex></seg>
-          <seg rend="701,749,822,880">CLEMENS P<ex>A</ex>P<ex>A</ex> VI</seg>
-          
+          <seg rend="432,746,515,777">S<ex>ANCTUS</ex> PA<ex>ULUS</ex>, S<ex>ANCTUS</ex> P<ex>ETRUS</ex></seg>
+          <seg rend="701,749,822,880">CLEMENS P<ex>A</ex>P<ex>A</ex> VI</seg> 
         </p>
       </div>
       <div type="text">
         <div type="transcription">
-          <l><term
-            n="L&#x2019;ordinal n&#x2019;est donné que par la bulle de plomb. En l&#x2019;absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI."
-            >Clemens</term> ep<ex>iscopu</ex>s, servus servor<ex>um</ex>
-            Dei, </l>
+          <l><term n="L&#x2019;ordinal n&#x2019;est donné que par la bulle de plomb. En l&#x2019;absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI." >Clemens</term> ep<ex>iscopu</ex>s, servus servor<ex>um</ex> Dei, </l>
           <l>dilectis filiis . . ministro et fratribus domus </l>
-          <l><term
-            n="Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l&#x2019;évêque Guillaume d&#x2019;Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l&#x2019;usage aux frères, dits « Mathurins »."
-            >Sancti Maturini</term> Parisien<ex>sis</ex>, <term
-              n="L&#x2019;ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d&#x2019;Islam."
-              >ordinis sancte</term>
+          <l><term n="Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l&#x2019;évêque Guillaume d&#x2019;Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l&#x2019;usage aux frères, dits « Mathurins »." >Sancti Maturini</term> Parisien<ex>sis</ex>, <term n="L&#x2019;ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d&#x2019;Islam." >ordinis sancte</term>
           </l>
-          <l><term
-            n="L&#x2019;ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d&#x2019;Islam."
-            >Trinitatis</term> et redemptionis captivor<ex>um</ex>, </l>
-          <l>sal<ex>u</ex>t<ex>em</ex> et ap<ex>osto</ex>licam
-            ben<ex>edictionem</ex>. </l>
+          <l><term n="L&#x2019;ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d&#x2019;Islam." >Trinitatis</term> et redemptionis captivor<ex>um</ex>, </l>
+          <l>sal<ex>u</ex>t<ex>em</ex> et ap<ex>osto</ex>licam ben<ex>edictionem</ex>. </l>
           <l>Cum a nobis petitur quod justum est et </l>
           <l>honestum, tam vigor equitatis qua<ex>m</ex> ordo </l>
           <l>exigit rationis ut id per solicitudinem officii</l>
@@ -120,34 +86,22 @@
           <l>omnipotentis Dei et beator<ex>um</ex> Petri et Pauli </l>
           <l>ap<ex>osto</ex>lor<ex>um</ex> ejus se noverit incurs[ur]um. </l>
           <l>Datum Avinion<ex>e</ex>, X kalendas aprilis, </l>
-          <l>pontificatus n<ex>ost</ex>ri <term
-            n="Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l&#x2019;acte est du 23 mars 1344."
-            >anno secundo</term>.</l>
+          <l>pontificatus n<ex>ost</ex>ri <term n="Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l&#x2019;acte est du 23 mars 1344." >anno secundo</term>.</l>
           <l/>
-          <l>[Essai de plume postérieur : ] [C]lemens ep<ex>iscop</ex>us
-            servit<ex>or</ex>..</l>
+          <l>[Essai de plume postérieur : ] [C]lemens ep<ex>iscop</ex>us servit<ex>or</ex>..</l>
           <l/>
-          <l>[Sur le repli, à droite : ] <term
-            n="Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l&#x2019;époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie."
-            >Pro</term> B. Testagay, </l>
+          <l>[Sur le repli, à droite : ] <term n="Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l&#x2019;époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie." >Pro</term> B. Testagay, </l>
           <l>Christianus</l>
           <l/>
-          <l>[Sur la bulle : ] S<ex>ANCTUS</ex> PA<ex>ULUS</ex>,
-            S<ex>ANCTUS</ex>
+          <l>[Sur la bulle : ] S<ex>ANCTUS</ex> PA<ex>ULUS</ex>, S<ex>ANCTUS</ex>
           </l>
           <l>P<ex>ETRUS</ex> / CLEMENS P<ex>A</ex>P<ex>A</ex> VI.</l>
         </div>
-        <div type="traduction">
-          <l><term
-            n="L&#x2019;ordinal n&#x2019;est donné que par la bulle de plomb. En l&#x2019;absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI."
-            >Clément</term>, évêque, serviteur des serviteurs </l>
+        <div type="translation">
+          <l><term n="L&#x2019;ordinal n&#x2019;est donné que par la bulle de plomb. En l&#x2019;absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI." >Clément</term>, évêque, serviteur des serviteurs </l>
           <l>de Dieu, à nos chers fils . . le ministre et les </l>
-          <l>frères de la maison <term
-            n="Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l&#x2019;évêque Guillaume d&#x2019;Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l&#x2019;usage aux frères, dits « Mathurins »."
-            >Saint-Mathurin</term> de </l>
-          <l>Paris, de l&#x2019;<term
-            n="L&#x2019;ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d&#x2019;Islam."
-            >ordre de la sainte Trinité</term> et du </l>
+          <l>frères de la maison <term n="Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l&#x2019;évêque Guillaume d&#x2019;Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l&#x2019;usage aux frères, dits « Mathurins »." >Saint-Mathurin</term> de </l>
+          <l>Paris, de l&#x2019;<term n="L&#x2019;ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d&#x2019;Islam." >ordre de la sainte Trinité</term> et du </l>
           <l>rachat des captifs, salut et bénédiction </l>
           <l>apostolique. Quand on nous présente une </l>
           <l>demande juste et honnête, la puissance de </l>
@@ -176,16 +130,12 @@
           <l>l&#x2019;indignation de Dieu tout-puissant et des </l>
           <l>bienheureux Pierre et Paul ses apôtres. </l>
           <l>Donné à Avignon, le 10 des calendes </l>
-          <l>d&#x2019;avril, l&#x2019;<term
-            n="Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l&#x2019;acte est du 23 mars 1344."
-            >an deuxième</term> de notre pontificat. </l>
+          <l>d&#x2019;avril, l&#x2019;<term n="Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l&#x2019;acte est du 23 mars 1344." >an deuxième</term> de notre pontificat. </l>
           <l/>
           <l>[Essai de plume postérieur :] [C]lément </l>
           <l>évêque, serviteur...</l>
           <l/>
-          <l>[Sur le repli, à droite :] <term
-            n="Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l&#x2019;époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie."
-            >Pour</term> B. Testagay, </l>
+          <l>[Sur le repli, à droite :] <term n="Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l&#x2019;époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie." >Pour</term> B. Testagay, </l>
           <l>Chrétien.</l>
           <l/>
           <l>[Bulle :] Saint Paul, saint Pierre/Clément VI </l>
@@ -193,148 +143,62 @@
         </div>
         <div type="regeste">
           <head>1344, 23 mars. - Avignon.</head>
-          <p>Clément VI confirme au couvent Saint-Mathurin de Paris, de l&#x2019;ordre
-            des Trinitaires, les privilèges obtenus des papes ses prédécesseurs
-            (libertates et immunitates) et des laïques (libertates et exemptiones
-            secularium exactionum).</p>
+          <p>Clément VI confirme au couvent Saint-Mathurin de Paris, de l&#x2019;ordre des Trinitaires, les privilèges obtenus des papes ses prédécesseurs (libertates et immunitates) et des laïques (libertates et exemptiones secularium exactionum).</p>
           <div type="precision">
-            <p>Le document est recensé par Bernard Barbiche, <hi rend="italique">Les
-              actes pontificaux originaux des Archives nationales de Paris</hi>,
-              Vatican, 3 vol., 1975-1982, t. III, n° 2883 (transcrit aussi les autres
-              mentions hors-teneur qui ne sont pas visibles ici : le nom du taxator
-              ayant perçu la taxe de chancellerie, sous le repli ; le nom du procureur
-              ayant retiré l&#x2019;acte en Curie pour le compte du couvent, au
-              dos).</p>
+            <p>Le document est recensé par Bernard Barbiche, <hi rend="italique">Les actes pontificaux originaux des Archives nationales de Paris</hi>, Vatican, 3 vol., 1975-1982, t. III, n° 2883 (transcrit aussi les autres mentions hors-teneur qui ne sont pas visibles ici : le nom du taxator ayant perçu la taxe de chancellerie, sous le repli ; le nom du procureur ayant retiré l&#x2019;acte en Curie pour le compte du couvent, au dos).</p>
           </div>
         </div>
-      </div>
-      
+      </div> 
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Caractères externes</head>
-          
+          <head>Caractères externes</head> 
           <div>
             <p>
               <figure rend="49/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="70,95,59">Le nom du pape est tout
-                    entier écrit en lettres agrandies et son initiale est
-                    filigranée.</seg>
-                  <seg type="circle" rend="266,123,21">Initiale de l’adresse
-                    grossie et noircie.</seg>
-                  <seg type="circle" rend="345,138,6">Deux points précédant le
-                    titre d’une personne citée ex officio.</seg>
-                  
-                  <seg type="circle" rend="491,153,11">Initiale du préambule
-                    grossie et noircie.</seg>
-                  <seg type="circle" rend="429,186,10">Tilde en forme de 8 ouvert
-                    par le bas.</seg>
+                  <seg type="circle" rend="70,95,59">Le nom du pape est tout entier écrit en lettres agrandies et son initiale est filigranée.</seg>
+                  <seg type="circle" rend="266,123,21">Initiale de l’adresse grossie et noircie.</seg>
+                  <seg type="circle" rend="345,138,6">Deux points précédant le titre d’une personne citée ex officio.</seg> 
+                  <seg type="circle" rend="491,153,11">Initiale du préambule grossie et noircie.</seg>
+                  <seg type="circle" rend="429,186,10">Tilde en forme de 8 ouvert par le bas.</seg>
                   <seg type="circle" rend="454,267,13">Ligature c-t allongée.</seg>
-                  <seg type="circle" rend="284,284,18">Initiale de la clause
-                    prohibitive grossie et noircie.</seg>
-                  <seg type="circle" rend="345,298,11">Initiale de la clause
-                    comminatoire grossie et noircie.</seg>
-                  <seg type="rect" rend="474,308,591,330">Blanc intercalé dans la
-                    datation pour parer aux nombreuses impossibilités de coupure
-                    de la formule et, à la ligne suivante, pour occuper toute la
-                    largeur de la justification.</seg>
-                  <seg type="rect" rend="103,340,202,370">Mention d’origine
-                    inconnue, mais qui ne peut être attribuée à la chancellerie
-                    pontificale, sa position et formulation (servitor pou
-                    servus) étant également incongrues ; il s’agit sans doute
-                    d’un essai de plume, plutôt que d’une mention d’archivage.</seg>
-                  <seg type="circle" rend="317,427,34">Attache de la bulle ;
-                    diverses caractéristiques graphiques impliquent qu?il s?agit
-                    de fils de soie.</seg>
+                  <seg type="circle" rend="284,284,18">Initiale de la clause prohibitive grossie et noircie.</seg>
+                  <seg type="circle" rend="345,298,11">Initiale de la clause comminatoire grossie et noircie.</seg>
+                  <seg type="rect" rend="474,308,591,330">Blanc intercalé dans la datation pour parer aux nombreuses impossibilités de coupure de la formule et, à la ligne suivante, pour occuper toute la largeur de la justification.</seg>
+                  <seg type="rect" rend="103,340,202,370">Mention d’origine inconnue, mais qui ne peut être attribuée à la chancellerie pontificale, sa position et formulation (servitor pou servus) étant également incongrues ; il s’agit sans doute d’un essai de plume, plutôt que d’une mention d’archivage.</seg>
+                  <seg type="circle" rend="317,427,34">Attache de la bulle ; diverses caractéristiques graphiques impliquent qu?il s?agit de fils de soie.</seg>
                 </figDesc>
               </figure>
             </p>
           </div>
         </div>
         <div>
-          <head>Parties du discours</head>
-          
+          <head>Parties du discours</head> 
           <div>
             <p>
-              <seg corresp="suscription">Clemens episcopus,
-                servus servorum Dei<note id="suscription"
-                  >Suscription.</note></seg>
-              <seg corresp="adresse">dilectis filiis . . ministro
-                et fratribus domus Sancti Maturini Parisiensis, ordinis sancte
-                Trinitatis et redemptionis captivorum<note id="adresse"
-                  >Adresse (personnelle puis collective).</note></seg>
-              <seg corresp="salut">salutem.<note id="salut"
-                >salutem et apostolicam benedictionem.</note></seg>
-              <seg corresp="preambule">Cum a nobis petitur quod
-                justum est et honestum, tam vigor equitatis quam ordo exigit
-                rationis ut id per solicitudinem officii nostri ad debitum
-                perducatur effectum.<note id="preambule"
-                  >Préambule</note></seg>
-              <seg corresp="dispositif">Eapropter, dilecti in
-                Domino filii, vestris justis postulationibus grato concurrentes
-                assensu, omnes libertates et immunitate[s] a predecessoribus nostris
-                Romanis pontificibus sive per privilegia seu alias indulgentias
-                vobis et domui vestre concessas necnon libertates et exemptiones
-                secularium exactionum a regibus et principibus et aliis Christi
-                fidelibus rationabiliter vobis indultas, sicut eas juste ac pacifice
-                obtinetis, vobis et per vos eidem domui auctoritate apostolica
-                <strong>confirmamus</strong> et presentis scripti patrocinio
-                communimus.<note id="dispositif">Dispositif</note></seg>
-              <seg corresp="clause_prohi">Nulli ergo omnino
-                hominum liceat hanc paginam nostre confirmationis infringere vel ei
-                ausu temerario contraire.<note id="clause_prohi">Clause
-                  prohibitive</note></seg>
-              <seg corresp="clause_comm">Si quis autem hoc
-                attemptare presumpserit, indignationem omnipotentis Dei et beatorum
-                Petri et Pauli apostolorum ejus se noverit incurs[ur]um.<note
-                  id="clause_comm">Clause comminatoire</note></seg>
-              <seg corresp="date">Datum Avinione, X kalendas
-                aprilis, pontificatus nostri anno secundo.<note id="date"
-                  >Date de lieu et de temps</note></seg>
-              <seg corresp="mention">Pro B. Testagay,
-                Christianus.<note id="mention">Mention hors-teneur
-                  (nom du scriptor)</note></seg>
+              <seg corresp="suscription">Clemens episcopus, servus servorum Dei<note id="suscription" >Suscription.</note></seg>
+              <seg corresp="adresse">dilectis filiis . . ministro et fratribus domus Sancti Maturini Parisiensis, ordinis sancte Trinitatis et redemptionis captivorum<note id="adresse" >Adresse (personnelle puis collective).</note></seg>
+              <seg corresp="salut">salutem.<note id="salut" >salutem et apostolicam benedictionem.</note></seg>
+              <seg corresp="preambule">Cum a nobis petitur quod justum est et honestum, tam vigor equitatis quam ordo exigit rationis ut id per solicitudinem officii nostri ad debitum perducatur effectum.<note id="preambule" >Préambule</note></seg>
+              <seg corresp="dispositif">Eapropter, dilecti in Domino filii, vestris justis postulationibus grato concurrentes assensu, omnes libertates et immunitate[s] a predecessoribus nostris Romanis pontificibus sive per privilegia seu alias indulgentias vobis et domui vestre concessas necnon libertates et exemptiones secularium exactionum a regibus et principibus et aliis Christi fidelibus rationabiliter vobis indultas, sicut eas juste ac pacifice obtinetis, vobis et per vos eidem domui auctoritate apostolica
+                <strong>confirmamus</strong> et presentis scripti patrocinio communimus.<note id="dispositif">Dispositif</note></seg>
+              <seg corresp="clause_prohi">Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis infringere vel ei ausu temerario contraire.<note id="clause_prohi">Clause prohibitive</note></seg>
+              <seg corresp="clause_comm">Si quis autem hoc attemptare presumpserit, indignationem omnipotentis Dei et beatorum Petri et Pauli apostolorum ejus se noverit incurs[ur]um.<note id="clause_comm">Clause comminatoire</note></seg>
+              <seg corresp="date">Datum Avinione, X kalendas aprilis, pontificatus nostri anno secundo.<note id="date" >Date de lieu et de temps</note></seg>
+              <seg corresp="mention">Pro B. Testagay, Christianus.<note id="mention">Mention hors-teneur (nom du scriptor)</note></seg>
             </p>
           </div>
         </div>
         <div>
           <head>Interprétation</head>
           <div>
-            <p>Diverses caractéristiques graphiques, parfois aussi l’organisation du
-              discours (mais pas la présence d’un préambule, qui n’est pas
-              discriminante de ce point de vue) signalent de façon éclatante la nature
-              diplomatique du document : des lettres bullées sur lacs de soie (cum
-              serico), à valeur perpétuelle, distinctes des lettres bullées sur fil de
-              chanvre (cum filo canapis), qui notifient des mesures ou interventions
-              transitoires (voir par exemple le commentaire des <xref
-                to="notice45.php">lettres de 1245</xref> adressées au roi de France)
-              :</p>
-            <p>Lacs de soie (perpétuelles) Fil de chanvre (transitoires) Pas
-              d’invocation initiale, suscription, adresse, salut (graphié « salt et
-              aplicam ben) Nom du pape grossi, initiale souvent filigranée Seule
-              initiale grossie Initiales secondaires (adresse, Statuentes, Nulli,
-              Si...) systématiquement grossies ? (sauf éventuellement adresse ou début
-              du texte) Ligatures ct/st allongées ? Tilde bouclé Tilde plat Clause
-              prohibitive (« Nulli ergo hominum... » ou « Statuentes ut... ») ? Clause
-              comminatoire (« Si quis... ») ? Pas de corroboration Date de lieu,
-              comput romain des jours, année de pontificat (année de l’Incarnation à
-              partir de 1431), impossibilité de couper entre deux lignes chaque
-              élément de la date Seule validation : bulle de plomb</p>
-            <p>Une rapide lecture aussi suffit pour percevoir le stéréotype qui marque
-              l’expression — stéréotype qui ne veut pas dire affaiblissement de la
-              portée de la confirmation, avidement recherchée, fortement recommandée
-              selon les cas. Des formes séculaires revivent ici, préambule ou clauses.
-              C’est à ce trait plus qu’à un souci maintenant moins systématique, que
-              l’on doit les traces d’emploi de cursus en fin de période (velox «
-              patrocinio communimus », « temerario contraire », mais significativement
-              pas de velox à la fin du préambule).</p>
-            
+            <p>Diverses caractéristiques graphiques, parfois aussi l’organisation du discours (mais pas la présence d’un préambule, qui n’est pas discriminante de ce point de vue) signalent de façon éclatante la nature diplomatique du document : des lettres bullées sur lacs de soie (cum serico), à valeur perpétuelle, distinctes des lettres bullées sur fil de chanvre (cum filo canapis), qui notifient des mesures ou interventions transitoires (voir par exemple le commentaire des <xref to="notice45.php">lettres de 1245</xref> adressées au roi de France) :</p>
+            <p>Lacs de soie (perpétuelles) Fil de chanvre (transitoires) Pas d’invocation initiale, suscription, adresse, salut (graphié « salt et aplicam ben) Nom du pape grossi, initiale souvent filigranée Seule initiale grossie Initiales secondaires (adresse, Statuentes, Nulli, Si...) systématiquement grossies ? (sauf éventuellement adresse ou début du texte) Ligatures ct/st allongées ? Tilde bouclé Tilde plat Clause prohibitive (« Nulli ergo hominum... » ou « Statuentes ut... ») ? Clause comminatoire (« Si quis... ») ? Pas de corroboration Date de lieu, comput romain des jours, année de pontificat (année de l’Incarnation à partir de 1431), impossibilité de couper entre deux lignes chaque élément de la date Seule validation : bulle de plomb</p>
+            <p>Une rapide lecture aussi suffit pour percevoir le stéréotype qui marque l’expression — stéréotype qui ne veut pas dire affaiblissement de la portée de la confirmation, avidement recherchée, fortement recommandée selon les cas. Des formes séculaires revivent ici, préambule ou clauses. C’est à ce trait plus qu’à un souci maintenant moins systématique, que l’on doit les traces d’emploi de cursus en fin de période (velox « patrocinio communimus », « temerario contraire », mais significativement pas de velox à la fin du préambule).</p> 
           </div>
         </div>
-      </div>
-      
-      
+      </div>  
     </body>
   </text>
 </TEI>

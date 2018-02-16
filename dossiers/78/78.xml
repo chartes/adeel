@@ -17,40 +17,39 @@
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <text>
-    
+  <text> 
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="28,26,130,21,280,27,461,42,455,68,395,75,147,69,27,71" n="poly">Nicholaus, decan<ex>us</ex> c<ex>hrist</ex>ianitatis de Verberia,</seg>
-          <seg rend="471,29,1013,25,1061,32,1039,67,785,72,577,76,463,71" n="poly">om<ex>n</ex>ibus p<ex>re</ex>sentes litt<ex>er</ex>as insp<ex>e</ex>cturis, salutem <ex>et</ex> om<ex>n</ex>e bonu<ex>m</ex>. No-</seg>
-          <seg rend="25,79,97,75,399,82,386,116,264,112,81,105,27,101" n="poly">-veritis quod, in p<ex>re</ex>sencia n<ex>ost</ex>ra constituti,</seg>
-          <seg rend="407,81,589,83,741,79,906,74,1023,78,1039,92,1031,110,737,113,505,113,440,116,398,116" n="poly">Pet<ex>r</ex>us Pagator civis de Co<ex>m</ex>pendio <ex>et</ex> Maria uxor ej<ex>us</ex> concesserunt</seg>
-          <seg rend="27,109,240,117,374,118,466,123,610,124,611,149,353,149,148,142,20,143" n="poly">ut abbas <ex>et</ex> convent<ex>us</ex> eccl<ex>es</ex>ie Karoliloci teneant in p<ex>er</ex>petuum</seg>
-          <seg rend="618,119,818,120,1039,115,1035,141,792,148,616,147" n="poly"><ex>et</ex> possideant decem arpennos <ex>et</ex> tria quar-</seg>
-          <seg rend="21,150,327,155,479,154,609,153,666,158,695,169,688,181,468,186,233,185,150,184,86,183,21,180" n="poly">-teria terre, de quibus duo sunt in Campis Reinbout j<ex>us</ex>ta Hueleu,</seg>
-          <seg rend="705,153,868,154,1055,148,1057,179,1015,176,807,181,699,181" n="poly">octo v<ex>er</ex>o <ex>et</ex> t<ex>r</ex>ia quarteria in territorio</seg>
-          <seg rend="20,185,174,189,322,193,468,197,469,219,407,222,183,216,16,216" n="poly">de Henriviler <ex>et</ex> in tribus peciis terre site</seg>
-          <seg rend="477,191,687,187,858,189,957,184,1055,183,1057,208,877,218,669,218,571,220,477,220" n="poly">sub Lonbonne <ex>et</ex> in duab<ex>us</ex> peciis que sunt in Via Monnaise.</seg>
-          <seg rend="16,221,328,231,473,225,539,232,540,251,375,262,191,257,22,255" n="poly">Et sciendum q<ex>uo</ex>d dicti Petrus <ex>et</ex> Maria dederunt</seg>
-          <seg rend="548,227,891,224,1053,215,1053,251,903,253,708,260,548,259" n="poly">sex arpennos in elemosinam p<ex>re</ex>fate eccl<ex>es</ex>ie p<ex>ro</ex> Joh<ex>ann</ex>e</seg>
-          <seg rend="22,265,260,264,381,266,500,264,506,288,486,298,279,299,94,296,17,300" n="poly">consanguineo dicti Pet<ex>r</ex>i, q<ex>u</ex>atuor v<ex>er</ex>o in exca<ex>m</ex>bium,</seg>
-          <seg rend="507,263,686,265,881,258,993,258,1053,257,1055,287,1007,287,792,290,617,295,509,295" n="poly">scilic<ex>et</ex> p<ex>ro</ex> decem <ex>et</ex> octo minis bladi ap<ex>u</ex>d Frenoi</seg>
-          <seg rend="15,307,160,303,291,305,465,302,498,318,490,325,446,339,177,334,15,331" n="poly"><ex>et</ex> ap<ex>u</ex>d Saciacu<ex>m</ex> parvu<ex>m</ex> annuatim recipiendis,</seg>
-          <seg rend="503,303,695,300,874,295,1047,297,1039,325,881,323,723,329,500,332" n="poly">tria quart<ex>er</ex>ia simil<ex>ite</ex>r p<ex>ro</ex> t<ex>r</ex>ibus solidis <ex>et</ex> t<ex>r</ex>ibus denariis</seg>
-          <seg rend="13,338,240,343,439,344,599,338,665,340,677,365,643,370,209,373,104,374,12,369" n="poly"><ex>et</ex> duobus caponibus singulis annis ap<ex>u</ex>d Co<ex>m</ex>pendium recipiendis.</seg>
-          <seg rend="680,336,902,333,1011,335,1057,332,1057,357,918,365,683,367" n="poly">Hec om<ex>n</ex>ia voluerunt <ex>et</ex> concesserunt</seg>
-          <seg rend="15,375,218,382,351,377,478,382,525,390,512,413,304,405,107,408,11,411" n="poly">p<ex>re</ex>nominati P. <ex>et</ex> M., fidem p<ex>re</ex>stantes corporalem</seg>
-          <seg rend="533,382,647,374,827,375,1045,372,1056,401,1032,410,786,406,574,406,528,411" n="poly">quod cont<ex>r</ex>a hanc elemosinam <ex>et</ex> concessionem p<ex>er</ex> se</seg>
-          <seg rend="11,418,178,411,357,411,359,448,115,449,13,448" n="poly">v<ex>e</ex>l p<ex>er</ex> alios n<ex>on</ex> venient in futuru<ex>m</ex></seg>
-          <seg rend="367,412,503,422,642,415,874,416,983,414,1049,412,1040,439,792,444,536,448,440,449,367,445" n="poly">n<ex>e</ex>c cont<ex>r</ex>a dictam ecclesiam questionem movebunt, set p<ex>ro</ex> posse suo</seg>
-          <seg rend="9,453,149,455,403,459,400,484,229,492,44,488,9,490" n="poly">legitimam garandiam portabunt.</seg>
-          <seg rend="408,458,600,456,763,449,939,446,1058,447,1060,475,939,481,708,485,513,488,408,490" n="poly">Quod ut ratum <ex>et</ex> stabile p<ex>er</ex>severet n<ex>e</ex>c aliq<ex>u</ex>or<ex>um</ex> malignitate</seg>
-          <seg rend="14,498,271,501,571,497,630,495,733,496,733,517,509,530,294,529,182,531,70,528,11,531" n="poly">p<ex>er</ex> succedencium tempor<ex>um</ex> curricula valeat in irritum revocari,</seg>
-          <seg rend="739,492,860,490,1059,490,1058,516,849,525,740,522" n="poly">p<ex>re</ex>sentem paginam inde factam</seg>
-          <seg rend="13,539,69,535,242,538,478,538,625,532,834,531,845,558,771,567,440,568,210,574,69,569,14,571" n="poly">ad peticionem dictor<ex>um</ex> P. <ex>et</ex> M. siggilli n<ex>ost</ex>ri munimine duxim<ex>us</ex> roborandum.</seg>
-          <seg rend="843,532,1054,525,1076,546,1053,563,852,563" n="poly">Actum anno D<ex>omi</ex>ni M°</seg>
-          <seg rend="11,577,43,574,217,578,415,578,500,577,497,610,371,617,198,616,11,609" n="poly">CC° tricesimo octavo, mense februario.</seg>
+          <seg rend="28,26,130,21,280,27,461,42,455,68,395,75,147,69,27,71">Nicholaus, decan<ex>us</ex> c<ex>hrist</ex>ianitatis de Verberia,</seg>
+          <seg rend="471,29,1013,25,1061,32,1039,67,785,72,577,76,463,71">om<ex>n</ex>ibus p<ex>re</ex>sentes litt<ex>er</ex>as insp<ex>e</ex>cturis, salutem <ex>et</ex> om<ex>n</ex>e bonu<ex>m</ex>. No-</seg>
+          <seg rend="25,79,97,75,399,82,386,116,264,112,81,105,27,101">-veritis quod, in p<ex>re</ex>sencia n<ex>ost</ex>ra constituti,</seg>
+          <seg rend="407,81,589,83,741,79,906,74,1023,78,1039,92,1031,110,737,113,505,113,440,116,398,116">Pet<ex>r</ex>us Pagator civis de Co<ex>m</ex>pendio <ex>et</ex> Maria uxor ej<ex>us</ex> concesserunt</seg>
+          <seg rend="27,109,240,117,374,118,466,123,610,124,611,149,353,149,148,142,20,143">ut abbas <ex>et</ex> convent<ex>us</ex> eccl<ex>es</ex>ie Karoliloci teneant in p<ex>er</ex>petuum</seg>
+          <seg rend="618,119,818,120,1039,115,1035,141,792,148,616,147"><ex>et</ex> possideant decem arpennos <ex>et</ex> tria quar-</seg>
+          <seg rend="21,150,327,155,479,154,609,153,666,158,695,169,688,181,468,186,233,185,150,184,86,183,21,180">-teria terre, de quibus duo sunt in Campis Reinbout j<ex>us</ex>ta Hueleu,</seg>
+          <seg rend="705,153,868,154,1055,148,1057,179,1015,176,807,181,699,181">octo v<ex>er</ex>o <ex>et</ex> t<ex>r</ex>ia quarteria in territorio</seg>
+          <seg rend="20,185,174,189,322,193,468,197,469,219,407,222,183,216,16,216">de Henriviler <ex>et</ex> in tribus peciis terre site</seg>
+          <seg rend="477,191,687,187,858,189,957,184,1055,183,1057,208,877,218,669,218,571,220,477,220">sub Lonbonne <ex>et</ex> in duab<ex>us</ex> peciis que sunt in Via Monnaise.</seg>
+          <seg rend="16,221,328,231,473,225,539,232,540,251,375,262,191,257,22,255">Et sciendum q<ex>uo</ex>d dicti Petrus <ex>et</ex> Maria dederunt</seg>
+          <seg rend="548,227,891,224,1053,215,1053,251,903,253,708,260,548,259">sex arpennos in elemosinam p<ex>re</ex>fate eccl<ex>es</ex>ie p<ex>ro</ex> Joh<ex>ann</ex>e</seg>
+          <seg rend="22,265,260,264,381,266,500,264,506,288,486,298,279,299,94,296,17,300">consanguineo dicti Pet<ex>r</ex>i, q<ex>u</ex>atuor v<ex>er</ex>o in exca<ex>m</ex>bium,</seg>
+          <seg rend="507,263,686,265,881,258,993,258,1053,257,1055,287,1007,287,792,290,617,295,509,295">scilic<ex>et</ex> p<ex>ro</ex> decem <ex>et</ex> octo minis bladi ap<ex>u</ex>d Frenoi</seg>
+          <seg rend="15,307,160,303,291,305,465,302,498,318,490,325,446,339,177,334,15,331"><ex>et</ex> ap<ex>u</ex>d Saciacu<ex>m</ex> parvu<ex>m</ex> annuatim recipiendis,</seg>
+          <seg rend="503,303,695,300,874,295,1047,297,1039,325,881,323,723,329,500,332">tria quart<ex>er</ex>ia simil<ex>ite</ex>r p<ex>ro</ex> t<ex>r</ex>ibus solidis <ex>et</ex> t<ex>r</ex>ibus denariis</seg>
+          <seg rend="13,338,240,343,439,344,599,338,665,340,677,365,643,370,209,373,104,374,12,369"><ex>et</ex> duobus caponibus singulis annis ap<ex>u</ex>d Co<ex>m</ex>pendium recipiendis.</seg>
+          <seg rend="680,336,902,333,1011,335,1057,332,1057,357,918,365,683,367">Hec om<ex>n</ex>ia voluerunt <ex>et</ex> concesserunt</seg>
+          <seg rend="15,375,218,382,351,377,478,382,525,390,512,413,304,405,107,408,11,411">p<ex>re</ex>nominati P. <ex>et</ex> M., fidem p<ex>re</ex>stantes corporalem</seg>
+          <seg rend="533,382,647,374,827,375,1045,372,1056,401,1032,410,786,406,574,406,528,411">quod cont<ex>r</ex>a hanc elemosinam <ex>et</ex> concessionem p<ex>er</ex> se</seg>
+          <seg rend="11,418,178,411,357,411,359,448,115,449,13,448">v<ex>e</ex>l p<ex>er</ex> alios n<ex>on</ex> venient in futuru<ex>m</ex></seg>
+          <seg rend="367,412,503,422,642,415,874,416,983,414,1049,412,1040,439,792,444,536,448,440,449,367,445">n<ex>e</ex>c cont<ex>r</ex>a dictam ecclesiam questionem movebunt, set p<ex>ro</ex> posse suo</seg>
+          <seg rend="9,453,149,455,403,459,400,484,229,492,44,488,9,490">legitimam garandiam portabunt.</seg>
+          <seg rend="408,458,600,456,763,449,939,446,1058,447,1060,475,939,481,708,485,513,488,408,490">Quod ut ratum <ex>et</ex> stabile p<ex>er</ex>severet n<ex>e</ex>c aliq<ex>u</ex>or<ex>um</ex> malignitate</seg>
+          <seg rend="14,498,271,501,571,497,630,495,733,496,733,517,509,530,294,529,182,531,70,528,11,531">p<ex>er</ex> succedencium tempor<ex>um</ex> curricula valeat in irritum revocari,</seg>
+          <seg rend="739,492,860,490,1059,490,1058,516,849,525,740,522">p<ex>re</ex>sentem paginam inde factam</seg>
+          <seg rend="13,539,69,535,242,538,478,538,625,532,834,531,845,558,771,567,440,568,210,574,69,569,14,571">ad peticionem dictor<ex>um</ex> P. <ex>et</ex> M. siggilli n<ex>ost</ex>ri munimine duxim<ex>us</ex> roborandum.</seg>
+          <seg rend="843,532,1054,525,1076,546,1053,563,852,563">Actum anno D<ex>omi</ex>ni M°</seg>
+          <seg rend="11,577,43,574,217,578,415,578,500,577,497,610,371,617,198,616,11,609">CC° tricesimo octavo, mense februario.</seg>
         </p>
       </div>
       <div type="text">
@@ -75,7 +74,7 @@
           <l>P. et M. siggilli nostri munimine duximus roborandum. Actum anno Domini M° CC°</l>
           <l>tricesimo octavo, mense februario.</l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l>Nicolas, <term n="Le doyen de chrétienté ou archiprêtre était à la tête d’un groupe de paroisses. Cette subdivision de base du diocèse joue un rôle très important à compter du XIIIe siècle.">doyen de chrétienté</term> de <term n="Verberie (Oise, cant. Pont-Sainte-Maxence), n’est plus au XVIe siècle chef-lieu de doyenné, mais dépend alors de celui de Béthisy (diocèse Soissons).">Verberie</term>, à tous ceux qui verront les présentes</l>
           <l>lettres, salut et tout le bien possible. Sachez que, établis en notre présence, Pierre le</l>
           <l>Payeur, bourgeois de <term n="Compiègne (Oise, ch.-l. arr.).">Compiègne</term>, et Marie son épouse ont concédé à l’abbé et au</l>
@@ -119,49 +118,38 @@
           </div>
         </div>
         <div>
-          <head>Parties du discours</head>
-          
+          <head>Parties du discours</head> 
           <div>
             <p>
-              <seg corresp="suscription">
-                Nicholaus, decanus christianitatis de Verberia,
+              <seg corresp="suscription"> Nicholaus, decanus christianitatis de Verberia,
                 <note id="suscription">Suscription</note>
               </seg>
-              <seg corresp="adresse">
-                omnibus presentes litteras inspecturis,
+              <seg corresp="adresse"> omnibus presentes litteras inspecturis,
                 <note id="adresse">Adresse</note>
               </seg>
-              <seg corresp="salut">
-                salutem et omne bonum.
+              <seg corresp="salut"> salutem et omne bonum.
                 <note id="salut">Salut</note>
               </seg>
-              <seg corresp="notification">
-                Noveritis quod,
+              <seg corresp="notification"> Noveritis quod,
                 <note id="notification">Notification</note>
               </seg>
-              <seg corresp="dispositif">
-                in presencia nostra constituti, Petrus Pagator civis de Compendio et Maria uxor ejus concesserunt ut abbas et conventus ecclesie Karoliloci teneant in perpetuum et possideant decem arpennos et tria quarteria terre, de quibus duo sunt in Campis <hi rend="i">Reinbout</hi> justa <hi rend="i">Hueleu</hi>, octo vero et tria quarteria in territorio de <hi rend="i">Henriviler</hi> et in tribus peciis terre site <hi rend="i">sub Lonbonne</hi> et in duabus peciis que sunt in <hi rend="i">Via Monnaise</hi>.
+              <seg corresp="dispositif"> in presencia nostra constituti, Petrus Pagator civis de Compendio et Maria uxor ejus concesserunt ut abbas et conventus ecclesie Karoliloci teneant in perpetuum et possideant decem arpennos et tria quarteria terre, de quibus duo sunt in Campis <hi rend="i">Reinbout</hi> justa <hi rend="i">Hueleu</hi>, octo vero et tria quarteria in territorio de <hi rend="i">Henriviler</hi> et in tribus peciis terre site <hi rend="i">sub Lonbonne</hi> et in duabus peciis que sunt in <hi rend="i">Via Monnaise</hi>.
                 <note id="dispositif">Pas de dispositif à proprement parler, mais le rapport en forme de procès-verbal de l’action juridique
                 </note>
               </seg>
-              <seg corresp="notification_secondaire">
-                Et sciendum quod
+              <seg corresp="notification_secondaire"> Et sciendum quod
                 <note id="notification_secondaire">Notification secondaire</note>
               </seg>
-              <seg corresp="complements">
-                dicti Petrus et Maria dederunt sex arpennos in elemosinam prefate ecclesie pro Johanne consanguineo dicti Petri, quatuor vero in excambium, scilicet pro decem et octo minis bladi apud <hi rend="i">Frenoi</hi> et apud Saciacum parvum annuatim recipiendis, tria quarteria similiter pro tribus solidis et tribus denariis et duobus caponibus singulis annis apud Compendium recipiendis.
+              <seg corresp="complements"> dicti Petrus et Maria dederunt sex arpennos in elemosinam prefate ecclesie pro Johanne consanguineo dicti Petri, quatuor vero in excambium, scilicet pro decem et octo minis bladi apud <hi rend="i">Frenoi</hi> et apud Saciacum parvum annuatim recipiendis, tria quarteria similiter pro tribus solidis et tribus denariis et duobus caponibus singulis annis apud Compendium recipiendis.
                 <note id="complements">Compléments des dispositions</note>
               </seg>
-              <seg corresp="clause_intentionnelle">
-                Hec omnia voluerunt et concesserunt prenominati P. et M., fidem prestantes corporalem quod contra hanc elemosinam et concessionem per se vel per alios non venient in futurum nec contra dictam ecclesiam questionem movebunt, set pro posse suo legitimam garandiam portabunt.
+              <seg corresp="clause_intentionnelle"> Hec omnia voluerunt et concesserunt prenominati P. et M., fidem prestantes corporalem quod contra hanc elemosinam et concessionem per se vel per alios non venient in futurum nec contra dictam ecclesiam questionem movebunt, set pro posse suo legitimam garandiam portabunt.
                 <note id="clause_intentionnelle">Clauses intentionnelles, de promesse, de garantie</note>
               </seg>
-              <seg corresp="corroboration">
-                Quod ut ratum et stabile perseveret nec aliquorum malignitate per succedencium temporum curricula valeat in irritum revocari, presentem paginam inde factam ad peticionem dictorum P. et M. siggilli nostri munimine duximus roborandum.
+              <seg corresp="corroboration"> Quod ut ratum et stabile perseveret nec aliquorum malignitate per succedencium temporum curricula valeat in irritum revocari, presentem paginam inde factam ad peticionem dictorum P. et M. siggilli nostri munimine duximus roborandum.
                 <note id="corroboration">Corroboration</note>
               </seg>
-              <seg corresp="date">
-                Actum anno Domini M° CC° tricesimo octavo, mense februario.
+              <seg corresp="date"> Actum anno Domini M° CC° tricesimo octavo, mense februario.
                 <note id="date">Date de temps</note>
               </seg>
             </p>

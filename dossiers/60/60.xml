@@ -207,7 +207,7 @@
                     <l><term n="Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l&#x2019;année. La double mention, complétée de l&#x2019;indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L&#x2019;acte est donc du 24 juillet." >Jacobi et Ch<ex>rist</ex>ofori</term>, anno D<ex>omi</ex>ni Mo </l>
                     <l>CCo LXo nono, mense julii.</l>
                 </div>
-                <div type="traduction">
+                <div type="translation">
                     <l>Au nom du Seigneur, amen. Moi, </l>
                     <l>Étienne, seigneur de <term n="Châtillon-Guyotte (Doubs, cant. Roulans)." >Châtillon</term>, sain </l>
                     <l>d'esprit et en possession de toutes </l>
@@ -314,15 +314,13 @@
                     <head>Caractères externes</head>
                     <div>
                         <p>
-                            <figure rend="60/faxexternes.jpg">
-			      <figDesc>
+                            <figure rend="60/faxexternes.jpg"> 	      <figDesc>
                                 <seg type="rect" rend="14,86,59,226">Marge généreuse et bien respectée à gauche</seg>
                                 <seg type="circle" rend="68,74,16">Initiale simplement grossie.</seg>
                                 <seg type="rect" rend="463,48,495,182">Marge droite quasi inexistante, sans recherche de justification.</seg>
                                 <seg type="circle" rend="82,278,12">Forme typique du "q" (ici avec "i" suscrit).</seg>
                                 <seg type="rect" rend="175,513,249,539">Hastes très peu élevées.</seg>
-                                <seg type="rect" rend="93,651,422,693">Repli avec trois fentes, vestiges du triple scellement annoncé".</seg>
-			      </figDesc>
+                                <seg type="rect" rend="93,651,422,693">Repli avec trois fentes, vestiges du triple scellement annoncé".</seg> 	      </figDesc>
                             </figure>
                        </p>
                     </div>

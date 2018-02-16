@@ -82,7 +82,7 @@
             <term n="date : En 1277, la Pentecôte tombe le dimanche 16 mai ; l&#x2019;acte est donc du mercredi 19 mai 1277." >Pentecostes</term>, </l>
           <l>an<ex>n</ex>o D<ex>omi</ex>ni M° CC° LXX° VII°.</l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l>Sachent tous que nous Vital, par la grâce de Dieu </l>
           <l>prévôt de l&#x2019;église cathédrale Saint-Étienne de </l>
           <l>Toulouse, et le chapitre de ladite église faisons, </l>
@@ -128,8 +128,7 @@
           </div>
         </div>
         <div>
-          <head>Parties du discours</head>
-          
+          <head>Parties du discours</head> 
           <div>
             <p>
               <seg corresp="notif">Noverint universi quod <note id="notif">Notification.</note></seg>

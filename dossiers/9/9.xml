@@ -112,7 +112,7 @@
                <l>Arnall<ex>us</ex> mo<ex>na</ex>chus et p<ex>res</ex>b<ex>yte</ex>r et </l>
                <l>h<ex>oc</ex> sc<ex>ri</ex>psit die et anno q<ex>u</ex>o [croix] sup<ex>r</ex>a.</l>
             </div>
-            <div type="traduction">
+            <div type="translation">
                <l>Au nom de Dieu, qu&#x2019;il soit connu à tous </l>
                <l>que moi, Pons de <term n="D&#x2019;après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan." >Vernet</term>, et mon fils Ermen-</l>
                <l>gaud, nous donnons en fief à toi, Raymond de </l>
@@ -160,11 +160,10 @@
                </div>
             </div>
          </div>
-         <div type="commentaire" n="paleographie">
+         <div type="paleography">
             <head>Commentaire pal&#232;ographique</head>
             <div>
-               <head>Morphologie générale</head>
-               
+               <head>Morphologie générale</head> 
                <div>
                   <p>
                      <xref to="http://theleme.enc.sorbonne.fr/dossiers/vue9.php">
@@ -180,8 +179,7 @@
                </div>
             </div>
             <div>
-               <head>Éléments d'écriture diplomatique</head>
-               
+               <head>Éléments d'écriture diplomatique</head> 
                <div>
                   <p>
                      <xref to="http://theleme.enc.sorbonne.fr/dossiers/vue9.php">
@@ -196,8 +194,7 @@
                </div>
             </div>
             <div>
-               <head>Abréviations</head>
-               
+               <head>Abréviations</head> 
                <div>
                   <p>
                      <xref to="http://theleme.enc.sorbonne.fr/dossiers/vue9.php">
@@ -215,8 +212,7 @@
          <div type="diplomatic">
             <head>Commentaire diplomatique</head>
             <div>
-               <head>Caractères externes</head>
-               
+               <head>Caractères externes</head> 
                <div>
                   <p>
                      <figure rend="9/faxexternes.jpg">

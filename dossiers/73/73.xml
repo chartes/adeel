@@ -17,37 +17,36 @@
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <text>
-    
+  <text> 
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="54,75,75,54,111,71,111,81,296,73,461,70,625,70,625,91,518,89,401,92,232,94,167,93,123,95,94,94,62,96" n="poly">A mes t<ex>re</ex>s ch<ex>ie</ex>rs et redoubtés seigneurs, mess<ex>eigneurs</ex> tenans les requestes du roy n<ex>ost</ex>re s<ex>eigneur</ex></seg>
-          <seg rend="632,69,727,64,882,66,938,59,1078,74,1076,90,1001,90,877,86,737,88,681,90,629,89" n="poly">ou palais royal a Par<ex>is</ex>, co<ex>m</ex>missair<ex>es</ex> en ceste p<ex>ar</ex>tie, Denisot le Bourguignon,</seg>
-          <seg rend="91,106,125,103,241,103,374,101,437,99,515,100,515,113,424,115,259,116,150,116,90,118" n="poly">s<ex>er</ex>g<ex>ent</ex> du roy n<ex>ost</ex>re s<ex>eigneur</ex> en son Chastelet de Par<ex>is</ex> et li vostres, ho<ex>n</ex>neur,</seg>
-          <seg rend="521,99,758,97,869,97,1032,98,1084,97,1086,108,895,112,730,111,611,113,517,113" n="poly">service <ex>et</ex> rev<ex>er</ex>ence avecques toute obeïss<ex>ance</ex>. Mes t<ex>re</ex>s ch<ex>ie</ex>rs seigne<ex>ur</ex>s, plaise vo<ex>us</ex> savoir q<ex>ue</ex>, p<ex>ar</ex> vertu</seg>
-          <seg rend="83,125,160,121,250,122,402,120,584,117,664,119,660,139,413,137,246,138,115,136,83,138" n="poly">de c<ex>er</ex>tain<ex>es</ex> l<ex>ett</ex>rez royaulx a moy adrec<ex>iees</ex>, ausq<ex>ue</ex>lles ceste moye p<ex>rese</ex>nte relac<ex>i</ex>on est attach<ex>iee</ex>,</seg>
-          <seg rend="668,119,790,119,906,116,1004,114,1085,115,1088,137,945,136,787,136,668,138" n="poly">qui se co<ex>m</ex>menchent ainsi&#160;: «&#160;Charles, p<ex>ar</ex> la g<ex>r</ex>ace de Dieu roy de France&#160;»,</seg>
-          <seg rend="88,144,179,143,369,142,454,146,455,159,217,161,84,157" n="poly">et fenissent&#160;: «&#160;Donn<ex>ees</ex> a Par<ex>is</ex>, le XIII<hi rend="sup">e</hi> jour de novembre,</seg>
-          <seg rend="460,143,526,144,603,142,747,142,871,145,965,143,1089,145,1091,161,871,163,706,162,597,161,463,160,462,160,460,149" n="poly">l’an de grace mil CCC LX treze&#160;», et presentees p<ex>ar</ex> le t<ex>re</ex>sor<ex>ier</ex>, chanoin<ex>es</ex> et chapit<ex>re</ex> de la saincte chapelle</seg>
-          <seg rend="83,163,197,165,366,167,507,169,507,187,262,183,126,182,89,180" n="poly">du palais royal a Par<ex>is</ex> ou p<ex>ar</ex> leur p<ex>ro</ex>cur<ex>eur</ex> et a leur requeste,</seg>
-          <seg rend="513,165,674,167,801,168,879,167,1016,168,1089,168,1084,184,883,187,719,188,605,184,526,188,510,189" n="poly">je, le mardi XXII<hi rend="sup">e</hi> jour du mois de may, l’an mil CCC LXXV, me transportay en la ville</seg>
-          <seg rend="86,184,142,187,316,189,468,192,538,193,552,193,554,213,355,212,195,209,82,208" n="poly">de Corbueil, present avecq<ex>ue</ex>s moy Jeh<ex>an</ex> de Mons, s<ex>er</ex>g<ex>ent</ex> de lad<ex>ic</ex>te ville,</seg>
-          <seg rend="559,196,582,192,700,193,837,194,932,193,1035,192,1089,192,1087,217,905,214,729,214,616,209,560,214" n="poly">en l’ostel <ex>et</ex> domicile de Vincent le Mire, a p<ex>rese</ex>nt mari de la fe<ex>m</ex>me qui fu feu Jehan</seg>
-          <seg rend="82,213,193,216,351,217,474,218,573,220,566,237,368,237,188,233,84,233" n="poly">de Grigny, tant en son nom co<ex>m</ex>me a cause de sa fe<ex>m</ex>me et co<ex>m</ex>me tute<ex>ur</ex>s,</seg>
-          <seg rend="577,219,678,217,775,221,833,220,957,221,1063,222,1085,224,1085,237,1071,241,916,239,723,237,634,240,573,237" n="poly">curate<ex>ur</ex>s ou aians la garde des enfans de lad<ex>ic</ex>te fe<ex>m</ex>me <ex>et</ex> dudit feu son mary,</seg>
-          <seg rend="84,241,172,239,271,240,399,242,546,241,641,244,643,264,365,260,188,261,84,256" n="poly">a le p<ex>er</ex>sonne de laq<ex>ue</ex>lle fe<ex>m</ex>me je fis co<ex>m</ex>mandem<ex>en</ex>t p<ex>ar</ex> vertu desd<ex>ic</ex>tez l<ex>ett</ex>rez royaulx</seg>
-          <seg rend="648,248,736,245,824,244,918,244,1031,246,1089,247,1090,265,917,261,764,262,672,262,648,266" n="poly">que ilz paient auxdis t<ex>re</ex>sor<ex>ier</ex>, chanoin<ex>es</ex> <ex>et</ex> chapit<ex>re</ex> les arrierages</seg>
-          <seg rend="87,263,218,267,395,268,391,292,220,286,87,284" n="poly">de la rente dont esd<ex>ic</ex>tez l<ex>ett</ex>rez est f<ex>ai</ex>c<ex>t</ex>e menc<ex>i</ex>on,</seg>
-          <seg rend="401,265,557,269,712,270,817,268,929,270,1019,270,1057,269,1088,271,1084,284,923,285,686,290,553,287,454,289,421,290,406,289,401,283" n="poly">et doresenava<ex>n</ex>t lad<ex>ic</ex>te rente en la fourme <ex>et</ex> man<ex>er</ex>e q<ex>ue</ex> contenu est esd<ex>ic</ex>tez l<ex>ett</ex>rez royaulx, laq<ex>ue</ex>lle fe<ex>m</ex>me</seg>
-          <seg rend="85,289,203,292,272,293,333,295,367,296,362,311,203,304,83,302" n="poly">me respondi q<ex>ue</ex> elle ne savoit q<ex>ue</ex> c’estoit.</seg>
-          <seg rend="372,297,475,297,620,294,647,296,648,314,511,312,420,313,371,311" n="poly">Et pour ce q<ex>ue</ex> sa response sentoit opp<ex>ositi</ex>on,</seg>
-          <seg rend="654,294,769,294,925,290,987,289,1083,291,1081,308,904,308,778,312,654,314" n="poly">je adjournay ledit Vincent <ex>et</ex> sa fe<ex>m</ex>me esdis no<ex>m</ex>s a la p<ex>er</ex>sonne</seg>
-          <seg rend="78,306,185,310,304,315,445,319,499,319,494,339,294,334,167,331,85,327" n="poly">d’icelle fe<ex>m</ex>me a est<ex>re</ex> <ex>et</ex> comparoir p<ex>ar</ex> deva<ex>n</ex>t vous au m<ex>er</ex>credi</seg>
-          <seg rend="505,319,617,319,693,320,835,318,947,316,1072,314,1071,332,821,336,673,340,552,340,501,341" n="poly">ap<ex>ré</ex>s la feste saint Jeh<ex>an</ex> Baptiste p<ex>ro</ex>ch<ex>ain</ex> ven<ex>ant</ex> po<ex>ur</ex> p<ex>ro</ex>ceder sur lad<ex>ic</ex>te opp<ex>ositi</ex>on <ex>et</ex> r<ex>espo</ex>ndre auxdis</seg>
-          <seg rend="83,334,189,338,335,342,489,346,554,346,554,369,317,362,158,354,80,349" n="poly">t<ex>re</ex>sor<ex>ier</ex>, chanoin<ex>es</ex> <ex>et</ex> chapit<ex>re</ex> selon la fourme <ex>et</ex> teneur desd<ex>ic</ex>tez l<ex>ett</ex>rez.</seg>
-          <seg rend="560,346,689,347,848,345,1026,343,1088,344,1080,368,761,371,633,371,564,369" n="poly">Et ce, mes t<ex>re</ex>s ch<ex>ie</ex>rs seigne<ex>ur</ex>s, je vous c<ex>er</ex>tefie avoir fait p<ex>ar</ex> ceste moye relac<ex>i</ex>on,</seg>
-          <seg rend="85,357,184,362,303,367,385,369,488,371,618,377,625,404,450,395,212,387,85,380" n="poly">seell<ex>ee</ex> de mon seel duquel je use en mon office, l’an et le jour dess<ex>us</ex>dis.</seg>
+          <seg rend="54,75,75,54,111,71,111,81,296,73,461,70,625,70,625,91,518,89,401,92,232,94,167,93,123,95,94,94,62,96">A mes t<ex>re</ex>s ch<ex>ie</ex>rs et redoubtés seigneurs, mess<ex>eigneurs</ex> tenans les requestes du roy n<ex>ost</ex>re s<ex>eigneur</ex></seg>
+          <seg rend="632,69,727,64,882,66,938,59,1078,74,1076,90,1001,90,877,86,737,88,681,90,629,89">ou palais royal a Par<ex>is</ex>, co<ex>m</ex>missair<ex>es</ex> en ceste p<ex>ar</ex>tie, Denisot le Bourguignon,</seg>
+          <seg rend="91,106,125,103,241,103,374,101,437,99,515,100,515,113,424,115,259,116,150,116,90,118">s<ex>er</ex>g<ex>ent</ex> du roy n<ex>ost</ex>re s<ex>eigneur</ex> en son Chastelet de Par<ex>is</ex> et li vostres, ho<ex>n</ex>neur,</seg>
+          <seg rend="521,99,758,97,869,97,1032,98,1084,97,1086,108,895,112,730,111,611,113,517,113">service <ex>et</ex> rev<ex>er</ex>ence avecques toute obeïss<ex>ance</ex>. Mes t<ex>re</ex>s ch<ex>ie</ex>rs seigne<ex>ur</ex>s, plaise vo<ex>us</ex> savoir q<ex>ue</ex>, p<ex>ar</ex> vertu</seg>
+          <seg rend="83,125,160,121,250,122,402,120,584,117,664,119,660,139,413,137,246,138,115,136,83,138">de c<ex>er</ex>tain<ex>es</ex> l<ex>ett</ex>rez royaulx a moy adrec<ex>iees</ex>, ausq<ex>ue</ex>lles ceste moye p<ex>rese</ex>nte relac<ex>i</ex>on est attach<ex>iee</ex>,</seg>
+          <seg rend="668,119,790,119,906,116,1004,114,1085,115,1088,137,945,136,787,136,668,138">qui se co<ex>m</ex>menchent ainsi&#160;: «&#160;Charles, p<ex>ar</ex> la g<ex>r</ex>ace de Dieu roy de France&#160;»,</seg>
+          <seg rend="88,144,179,143,369,142,454,146,455,159,217,161,84,157">et fenissent&#160;: «&#160;Donn<ex>ees</ex> a Par<ex>is</ex>, le XIII<hi rend="sup">e</hi> jour de novembre,</seg>
+          <seg rend="460,143,526,144,603,142,747,142,871,145,965,143,1089,145,1091,161,871,163,706,162,597,161,463,160,462,160,460,149">l’an de grace mil CCC LX treze&#160;», et presentees p<ex>ar</ex> le t<ex>re</ex>sor<ex>ier</ex>, chanoin<ex>es</ex> et chapit<ex>re</ex> de la saincte chapelle</seg>
+          <seg rend="83,163,197,165,366,167,507,169,507,187,262,183,126,182,89,180">du palais royal a Par<ex>is</ex> ou p<ex>ar</ex> leur p<ex>ro</ex>cur<ex>eur</ex> et a leur requeste,</seg>
+          <seg rend="513,165,674,167,801,168,879,167,1016,168,1089,168,1084,184,883,187,719,188,605,184,526,188,510,189">je, le mardi XXII<hi rend="sup">e</hi> jour du mois de may, l’an mil CCC LXXV, me transportay en la ville</seg>
+          <seg rend="86,184,142,187,316,189,468,192,538,193,552,193,554,213,355,212,195,209,82,208">de Corbueil, present avecq<ex>ue</ex>s moy Jeh<ex>an</ex> de Mons, s<ex>er</ex>g<ex>ent</ex> de lad<ex>ic</ex>te ville,</seg>
+          <seg rend="559,196,582,192,700,193,837,194,932,193,1035,192,1089,192,1087,217,905,214,729,214,616,209,560,214">en l’ostel <ex>et</ex> domicile de Vincent le Mire, a p<ex>rese</ex>nt mari de la fe<ex>m</ex>me qui fu feu Jehan</seg>
+          <seg rend="82,213,193,216,351,217,474,218,573,220,566,237,368,237,188,233,84,233">de Grigny, tant en son nom co<ex>m</ex>me a cause de sa fe<ex>m</ex>me et co<ex>m</ex>me tute<ex>ur</ex>s,</seg>
+          <seg rend="577,219,678,217,775,221,833,220,957,221,1063,222,1085,224,1085,237,1071,241,916,239,723,237,634,240,573,237">curate<ex>ur</ex>s ou aians la garde des enfans de lad<ex>ic</ex>te fe<ex>m</ex>me <ex>et</ex> dudit feu son mary,</seg>
+          <seg rend="84,241,172,239,271,240,399,242,546,241,641,244,643,264,365,260,188,261,84,256">a le p<ex>er</ex>sonne de laq<ex>ue</ex>lle fe<ex>m</ex>me je fis co<ex>m</ex>mandem<ex>en</ex>t p<ex>ar</ex> vertu desd<ex>ic</ex>tez l<ex>ett</ex>rez royaulx</seg>
+          <seg rend="648,248,736,245,824,244,918,244,1031,246,1089,247,1090,265,917,261,764,262,672,262,648,266">que ilz paient auxdis t<ex>re</ex>sor<ex>ier</ex>, chanoin<ex>es</ex> <ex>et</ex> chapit<ex>re</ex> les arrierages</seg>
+          <seg rend="87,263,218,267,395,268,391,292,220,286,87,284">de la rente dont esd<ex>ic</ex>tez l<ex>ett</ex>rez est f<ex>ai</ex>c<ex>t</ex>e menc<ex>i</ex>on,</seg>
+          <seg rend="401,265,557,269,712,270,817,268,929,270,1019,270,1057,269,1088,271,1084,284,923,285,686,290,553,287,454,289,421,290,406,289,401,283">et doresenava<ex>n</ex>t lad<ex>ic</ex>te rente en la fourme <ex>et</ex> man<ex>er</ex>e q<ex>ue</ex> contenu est esd<ex>ic</ex>tez l<ex>ett</ex>rez royaulx, laq<ex>ue</ex>lle fe<ex>m</ex>me</seg>
+          <seg rend="85,289,203,292,272,293,333,295,367,296,362,311,203,304,83,302">me respondi q<ex>ue</ex> elle ne savoit q<ex>ue</ex> c’estoit.</seg>
+          <seg rend="372,297,475,297,620,294,647,296,648,314,511,312,420,313,371,311">Et pour ce q<ex>ue</ex> sa response sentoit opp<ex>ositi</ex>on,</seg>
+          <seg rend="654,294,769,294,925,290,987,289,1083,291,1081,308,904,308,778,312,654,314">je adjournay ledit Vincent <ex>et</ex> sa fe<ex>m</ex>me esdis no<ex>m</ex>s a la p<ex>er</ex>sonne</seg>
+          <seg rend="78,306,185,310,304,315,445,319,499,319,494,339,294,334,167,331,85,327">d’icelle fe<ex>m</ex>me a est<ex>re</ex> <ex>et</ex> comparoir p<ex>ar</ex> deva<ex>n</ex>t vous au m<ex>er</ex>credi</seg>
+          <seg rend="505,319,617,319,693,320,835,318,947,316,1072,314,1071,332,821,336,673,340,552,340,501,341">ap<ex>ré</ex>s la feste saint Jeh<ex>an</ex> Baptiste p<ex>ro</ex>ch<ex>ain</ex> ven<ex>ant</ex> po<ex>ur</ex> p<ex>ro</ex>ceder sur lad<ex>ic</ex>te opp<ex>ositi</ex>on <ex>et</ex> r<ex>espo</ex>ndre auxdis</seg>
+          <seg rend="83,334,189,338,335,342,489,346,554,346,554,369,317,362,158,354,80,349">t<ex>re</ex>sor<ex>ier</ex>, chanoin<ex>es</ex> <ex>et</ex> chapit<ex>re</ex> selon la fourme <ex>et</ex> teneur desd<ex>ic</ex>tez l<ex>ett</ex>rez.</seg>
+          <seg rend="560,346,689,347,848,345,1026,343,1088,344,1080,368,761,371,633,371,564,369">Et ce, mes t<ex>re</ex>s ch<ex>ie</ex>rs seigne<ex>ur</ex>s, je vous c<ex>er</ex>tefie avoir fait p<ex>ar</ex> ceste moye relac<ex>i</ex>on,</seg>
+          <seg rend="85,357,184,362,303,367,385,369,488,371,618,377,625,404,450,395,212,387,85,380">seell<ex>ee</ex> de mon seel duquel je use en mon office, l’an et le jour dess<ex>us</ex>dis.</seg>
         </p>
       </div>
       <div type="text">
@@ -84,8 +83,7 @@
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Commentaire diplomatique </head>
-          
+          <head>Commentaire diplomatique </head> 
           <div>
             <p>
               <figure rend="73/faxexterne.jpg">

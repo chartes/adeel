@@ -21,7 +21,7 @@
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="33,5,4,27,58,76,453,73,454,52,64,47" n="poly">Univ<ex>er</ex>sis presentes litt<ex>er</ex>as inspecturis,</seg>
+          <seg rend="33,5,4,27,58,76,453,73,454,52,64,47">Univ<ex>er</ex>sis presentes litt<ex>er</ex>as inspecturis,</seg>
           <seg rend="463,49,868,69">Richardus dict<ex>us</ex> Mouche, sal<ex>u</ex>t<ex>em</ex> in Domino.</seg>
           <seg rend="30,82,381,104">Ad noticiam sing<ex>u</ex>lor<ex>um</ex> volo p<ex>er</ex>venire</seg>
           <seg rend="390,82,878,97">quod ego vendidi <ex>et</ex> concessi et om<ex>n</ex>ino d<ex>er</ex>eliqui</seg>
@@ -51,8 +51,8 @@
           <seg rend="478,471,882,495">p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is f<ex>rat</ex>rib<ex>us</ex> et suis h<ex>er</ex>edib<ex>us</ex> firmitate<ex>m</ex></seg>
           <seg rend="28,491,253,511">obtineat in post<ex>er</ex>um,</seg>
           <seg rend="274,498,864,527">p<ex>re</ex>sentib<ex>us</ex> litt<ex>er</ex>is impressione<ex>m</ex> sigilli mei appon<ex>er</ex>e dignu<ex>m</ex></seg>
-          <seg rend="28,520,28,537,281,546,457,550,456,533" n="poly">duxi. Act<ex>um</ex> an<ex>n</ex>o gr<ex>ati</ex>e M° CC° L° III°,</seg>
-          <seg rend="477,533,477,553,866,566,868,547" n="poly">me<ex>n</ex>se decembr<ex>is</ex>, cora<ex>m</ex> parrochia S<ex>an</ex>c<ex>t</ex>e</seg>
+          <seg rend="28,520,28,537,281,546,457,550,456,533">duxi. Act<ex>um</ex> an<ex>n</ex>o gr<ex>ati</ex>e M° CC° L° III°,</seg>
+          <seg rend="477,533,477,553,866,566,868,547">me<ex>n</ex>se decembr<ex>is</ex>, cora<ex>m</ex> parrochia S<ex>an</ex>c<ex>t</ex>e</seg>
           <seg rend="27,547,126,570">Columbe.</seg>
         </p>
       </div>
@@ -107,7 +107,7 @@
           </l>
           <l>parrochia S<ex>an</ex>c<ex>t</ex>e Columbe.</l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l>À tous ceux qui verront les présentes </l>
           <l>lettres, Richard dit Mouche, salut dans le </l>
           <l>Seigneur. Je veux qu&#x2019;il vienne à la </l>
@@ -156,8 +156,7 @@
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Caractères externes</head>
-          
+          <head>Caractères externes</head> 
           <div>
             <p>
               <figure rend="46/faxexternes.jpg">
@@ -182,8 +181,7 @@
           </div>
         </div>
         <div>
-          <head>Parties du discours</head>
-          
+          <head>Parties du discours</head> 
           <div>
             <p>
               <seg corresp="adresse">Universis presentes litteras inspecturis,<note id="adresse">Adresse universelle</note></seg>
