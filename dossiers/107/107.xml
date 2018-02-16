@@ -3,20 +3,14 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>1636, 6 août. Acte du bureau de la ville (Paris) <hi rend="i">1636, 6
-          août (Paris)</hi>
-          <hi rend="i">mandement du bureau de la ville (Paris).</hi> Tous aux armes,
-          sauf nous : <hi rend="i">Mandement du Bureau de la ville <q>pour faire
-            revue des hommes capables de porter les
-            armes</q></hi>
+        <title>1636, 6 août. Acte du bureau de la ville (Paris) <hi rend="i">1636, 6 août (Paris)</hi>
+          <hi rend="i">mandement du bureau de la ville (Paris).</hi> Tous aux armes, sauf nous : <hi rend="i">Mandement du Bureau de la ville <q>pour faire revue des hommes capables de porter les armes</q></hi>
         </title>
-        <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à
-          l’École, avec la collaboration d’Olivier Poncet et l'aide de Robert Descimon</author>
+        <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet et l'aide de Robert Descimon</author>
         <author/>
         <respStmt>
           <resp>document encodé par</resp>
-          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École
-            nationale des Chartes)</name>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -25,8 +19,7 @@
         <date when="2008-03/2008-04">mars-avril 2008</date>
       </publicationStmt>
       <sourceDesc>
-        <p>Archives nationales, H<hi rend="sup">2</hi> 1962, pièce n<hi rend="exposant"
-          >°</hi> 87.</p>
+        <p>Archives nationales, H<hi rend="sup">2</hi> 1962, pièce n<hi rend="sup" >°</hi> 87.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -36,189 +29,74 @@
     </profileDesc>
   </teiHeader>
   <text>
-    
     <body>
       <div type="facsimile">
         <p>
           <seg rend="37,1,317,45">1636, 6 août</seg>
           <seg rend="322,0,709,47">cotté M, 4<hi rend="sup">e</hi> liasse,</seg>
-          <seg rend="38,46,317,92"><hi rend="sc">XXVIII</hi><hi rend="exposant"
-            >e</hi> registre,</seg>
+          <seg rend="38,46,317,92"><hi rend="sc">XXVIII</hi><hi rend="sup" >e</hi> registre,</seg>
           <seg rend="38,94,219,130">fol. 9v<ex>ers</ex>o.</seg>
           <seg rend="321,48,693,92">De par les prevost des marchans</seg>
           <seg rend="307,93,693,152">et eschevins de la ville de Paris.</seg>
-          <seg rend="88,163,949,236">Sire Simon Marcès, quartinier, nous vous mandons que
-            vo<ex>us</ex> aillier et</seg>
-          <seg rend="141,238,943,276">envoyez vos cinquantiniers et dixeniers par
-            v<ex>ot</ex>re quartier pour faire reveue</seg>
-          <seg rend="144,278,946,306">du nombre d’hommes capables de porter les armes au
-            dessus de dix-huict</seg>
-          <seg rend="144,308,948,343">ans jusq<ex>ues</ex> à soixante et de la
-            quantité d’armes offencives et deffencives,</seg>
-          <seg rend="144,345,949,376">poudres et chevaux qui s’y trouveront. Comme aussy
-            dresser un roolle</seg>
-          <seg rend="122,377,948,416">des bourgeois de v<ex>ot</ex>red. quartier sur
-            lequel seront escriptz ce que chacun</seg>
-          <seg rend="122,418,948,456">voudra fournir d’hommes et d’argent pour la solde
-            des regim<ex>ents</ex> qui se lèvent</seg>
-          <seg rend="129,458,948,489">à Paris po<ex>ur</ex> le service de Sa
-            Ma<ex>jes</ex>té, dans leq<ex>ue</ex>l roolle vous ne
-            comprendrez</seg>
-          <seg rend="125,490,948,531">aucun des compagnies souveraines, corps de
-            marchandises, officiers de ville</seg>
-          <seg rend="127,532,948,571">ny jurez de mestiers, ains seulem<ex>ent</ex>
-            les bons bourgeois et au<ex>tr</ex>es gens vivans</seg>
-          <seg rend="127,574,947,607">de leurs rentes ou financiers conformement aux
-            ordonnances. De quoy vous</seg>
-          <seg rend="127,610,946,644">nous envoyrez les procés verbaux au bureau de la
-            ville pour en</seg>
-          <seg rend="128,646,940,678">certiffier Sa Ma<ex>sjes</ex>té, suyvant
-            l’ordre que nous en avons, dont no<ex>us</ex> vous</seg>
-          
-          <seg rend="129,680,939,719">envoyons des copies imprimées po<ex>ur</ex>
-            vous en servir où il vo<ex>us</ex> sera besoing.</seg>
-          <seg rend="129,721,938,768">Sy n’y failte faulte. Faict au bureau de la ville ce
-            VIe aoust 1636.</seg>
-          <seg rend="108,764,316,819">D<hi rend="sc">E</hi> B<hi rend="small caps"
-            >OURGES</hi></seg>
-          <!--  Pas de "<ex>paraphe</ex>", ici ?? 
-            Dans le document 09, le paraphe est indiqué dans les deux transcriptions et dans les parties du discours. Cf. aussi document 10-11, de 1744 -->
-          <seg rend="346,770,536,820">N. D<hi rend="sc">E</hi> C<hi
-            rend="small caps">REIL</hi></seg>
+          <seg rend="88,163,949,236">Sire Simon Marcès, quartinier, nous vous mandons que vo<ex>us</ex> aillier et</seg>
+          <seg rend="141,238,943,276">envoyez vos cinquantiniers et dixeniers par v<ex>ot</ex>re quartier pour faire reveue</seg>
+          <seg rend="144,278,946,306">du nombre d’hommes capables de porter les armes au dessus de dix-huict</seg>
+          <seg rend="144,308,948,343">ans jusq<ex>ues</ex> à soixante et de la quantité d’armes offencives et deffencives,</seg>
+          <seg rend="144,345,949,376">poudres et chevaux qui s’y trouveront. Comme aussy dresser un roolle</seg>
+          <seg rend="122,377,948,416">des bourgeois de v<ex>ot</ex>red. quartier sur lequel seront escriptz ce que chacun</seg>
+          <seg rend="122,418,948,456">voudra fournir d’hommes et d’argent pour la solde des regim<ex>ents</ex> qui se lèvent</seg>
+          <seg rend="129,458,948,489">à Paris po<ex>ur</ex> le service de Sa Ma<ex>jes</ex>té, dans leq<ex>ue</ex>l roolle vous ne comprendrez</seg>
+          <seg rend="125,490,948,531">aucun des compagnies souveraines, corps de marchandises, officiers de ville</seg>
+          <seg rend="127,532,948,571">ny jurez de mestiers, ains seulem<ex>ent</ex> les bons bourgeois et au<ex>tr</ex>es gens vivans</seg>
+          <seg rend="127,574,947,607">de leurs rentes ou financiers conformement aux ordonnances. De quoy vous</seg>
+          <seg rend="127,610,946,644">nous envoyrez les procés verbaux au bureau de la ville pour en</seg>
+          <seg rend="128,646,940,678">certiffier Sa Ma<ex>sjes</ex>té, suyvant l’ordre que nous en avons, dont no<ex>us</ex> vous</seg>
+          <seg rend="129,680,939,719">envoyons des copies imprimées po<ex>ur</ex> vous en servir où il vo<ex>us</ex> sera besoing.</seg>
+          <seg rend="129,721,938,768">Sy n’y failte faulte. Faict au bureau de la ville ce VIe aoust 1636.</seg>
+          <seg rend="108,764,316,819">D<hi rend="sc">E</hi> B<hi rend="sc" >OURGES</hi></seg>
+          <!--  Pas de "<ex>paraphe</ex>", ici ??  Dans le document 09, le paraphe est indiqué dans les deux transcriptions et dans les parties du discours. Cf. aussi document 10-11, de 1744 -->
+          <seg rend="346,770,536,820">N. D<hi rend="sc">E</hi> C<hi rend="sc">REIL</hi></seg>
           <seg rend="563,769,747,835"> J. T<hi rend="sc">OUQUOY</hi>.</seg>
           <seg rend="33,815,460,882">Pareil envoyé à chacun des quartiniers.</seg>
         </p>
       </div>
-      <div type="texte">
+      <div type="text">
         <div type="transcription">
           <p>De par les prevost des marchans et eschevins de la ville de Paris. Sire
-            <term
-              n="Simon Marcès, marchand orfèvre et marchand de bois, a été échevin en 1624."
-              >Simon Marcès</term>, <term
-                n="Les seize quartiniers ou quarteniers sont des officiers municipaux chargés de la surveillance 
-                et de l’administration des seize quartiers de la ville. "
-                >quartinier</term>, <lb/> nous vous mandons que vous aillier et envoyez
-            vos <term
-              n="Les seize quartiniers ou quarteniers sont des officiers municipaux chargés de la surveillance et 
-              de l’administration des seize quartiers de la ville. "
-              >cinquantiniers et dixeniers</term> par votre quartier
-            <lb/>
-            pour faire reveue du nombre d’hommes capables de porter les armes au dessus
-            de dix-huict ans <lb/> jusques à soixante et de la quantité d’armes
-            offencives et deffencives, poudres et chevaux qui s’y <lb/> trouveront.
-            Comme aussy dresser un roolle des bourgeois de votred. quartier sur lequel
-            seront escriptz <lb/> ce que chacun voudra fournir d’hommes et d’argent pour
-            la solde des regiments qui se lèvent à Paris <lb/> pour le service de Sa
-            Majesté, dans lequel roolle vous ne comprendrez aucun des <term
-              n="Les cours souveraines de la capitale, dont les décisions sont prises en dernier ressort, sont au nombre de 
-              quatre : le Parlement, la Chambre des comptes, la Cour des aides et la Cour des monnaies. "
-              >compagnies <lb/> souveraines</term>, <term
-                n="L’expression corps de marchandises désigne les corporations marchandes, celles des Six-Corps 
-                (drapiers, épiciers, merciers, orfèvres, pelletiers et bonnetiers de 1625 à 1776) et sans doute aussi les 
-                libraires et les marchands de vin."
-                >corps de marchandises</term>, <term
-                  n="La notion d’officier de ville englobe les échevins, le procureur du roi, les vingt-quatre conseillers de 
-                  ville, les seize quarteniers, le greffier de la ville et le receveur. Mais elle peut aussi s’étendre aux 
-                  cinquantenierx, dizeniers et à une quantité de menus officiers dépendants de la municipalité (mesureurs 
-                  de grain, vendeurs, crieurs, courtiers et déchargeurs de vin, etc...)."
-                  >officiers de ville</term> ny <term
-                    n="Les jurés des métiers sont les membres dirigeants élus des corporations « mécaniques » ou 
-                    artisanales. "
-                    >jurez de mestiers</term>, ains seulement les bons <lb/> bourgeois et
-            autres gens vivans de leurs rentes ou financiers (conformement aux
-            ordonnances [dans la
-            <lb/><!-- Je veux bien encoder à l'aide de la balise <del> ce passage, comme pour la transcription ligne à lignes. Seulement, le point qui achève la phrase sera d'office sur une autre ligne qu'icelle puisque l'annotation de N.L.-C. est traitée comme un élément du texte et non comme une intervention de l'éditeur ! Je ne touche pas à cette phrase, sachant qu'il y a là pourtant quelque chose à revoir.   -->
-            transcription plus bas, notez que ce passage est biffé]). De quoy vous nous
-            envoyrez les procés <lb/> verbaux au bureau de la ville pour en certiffier
-            Sa Masjesté, suyvant l’ordre que nous en avons, dont <lb/> nous vous
-            envoyons des copies imprimées pour vous en servir où il vous sera besoing.
-            Sy n’y failte faulte. <lb/> Faict au bureau de la ville ce <hi
-              rend="small caps">VI</hi><hi rend="sup">e</hi> aoust 1636.</p>
+            <term n="Simon Marcès, marchand orfèvre et marchand de bois, a été échevin en 1624." >Simon Marcès</term>, <term n="Les seize quartiniers ou quarteniers sont des officiers municipaux chargés de la surveillance  et de l’administration des seize quartiers de la ville. " >quartinier</term>, <lb/> nous vous mandons que vous aillier et envoyez vos <term n="Les seize quartiniers ou quarteniers sont des officiers municipaux chargés de la surveillance et  de l’administration des seize quartiers de la ville. " >cinquantiniers et dixeniers</term> par votre quartier
+            <lb/> pour faire reveue du nombre d’hommes capables de porter les armes au dessus de dix-huict ans <lb/> jusques à soixante et de la quantité d’armes offencives et deffencives, poudres et chevaux qui s’y <lb/> trouveront. Comme aussy dresser un roolle des bourgeois de votred. quartier sur lequel seront escriptz <lb/> ce que chacun voudra fournir d’hommes et d’argent pour la solde des regiments qui se lèvent à Paris <lb/> pour le service de Sa Majesté, dans lequel roolle vous ne comprendrez aucun des <term n="Les cours souveraines de la capitale, dont les décisions sont prises en dernier ressort, sont au nombre de  quatre : le Parlement, la Chambre des comptes, la Cour des aides et la Cour des monnaies. " >compagnies <lb/> souveraines</term>, <term n="L’expression corps de marchandises désigne les corporations marchandes, celles des Six-Corps  (drapiers, épiciers, merciers, orfèvres, pelletiers et bonnetiers de 1625 à 1776) et sans doute aussi les  libraires et les marchands de vin." >corps de marchandises</term>, <term n="La notion d’officier de ville englobe les échevins, le procureur du roi, les vingt-quatre conseillers de  ville, les seize quarteniers, le greffier de la ville et le receveur. Mais elle peut aussi s’étendre aux  cinquantenierx, dizeniers et à une quantité de menus officiers dépendants de la municipalité (mesureurs  de grain, vendeurs, crieurs, courtiers et déchargeurs de vin, etc...)." >officiers de ville</term> ny <term n="Les jurés des métiers sont les membres dirigeants élus des corporations « mécaniques » ou  artisanales. " >jurez de mestiers</term>, ains seulement les bons <lb/> bourgeois et autres gens vivans de leurs rentes ou financiers (conformement aux ordonnances [dans la
+            <lb/><!-- Je veux bien encoder à l'aide de la balise <del> ce passage, comme pour la transcription ligne à lignes. Seulement, le point qui achève la phrase sera d'office sur une autre ligne qu'icelle puisque l'annotation de N.L.-C. est traitée comme un élément du texte et non comme une intervention de l'éditeur ! Je ne touche pas à cette phrase, sachant qu'il y a là pourtant quelque chose à revoir.   --> transcription plus bas, notez que ce passage est biffé]). De quoy vous nous envoyrez les procés <lb/> verbaux au bureau de la ville pour en certiffier Sa Masjesté, suyvant l’ordre que nous en avons, dont <lb/> nous vous envoyons des copies imprimées pour vous en servir où il vous sera besoing. Sy n’y failte faulte. <lb/> Faict au bureau de la ville ce <hi rend="sc">VI</hi><hi rend="sup">e</hi> aoust 1636.</p>
           <p>
-            <term n="Jean de Bourges, marchand épicier, échevin élu en 1635.">D<hi
-              rend="small caps">E</hi> B<hi rend="sc">OURGES</hi></term>,
-            <term
-              n="Nicolas de Creil, marchand mercier, quartenier, élu échevin en 1634"
-              >N. D<hi rend="sc">E</hi> C<hi rend="small caps"
-                >REIL</hi></term>, <term
-                  n="Jean Touquoy, avocat, maître des requêtes de la reine, échevin en charge élu en 1634"
-                  >J. T<hi rend="sc">OUQUOY</hi></term>.</p>
+            <term n="Jean de Bourges, marchand épicier, échevin élu en 1635.">D<hi rend="sc">E</hi> B<hi rend="sc">OURGES</hi></term>,
+            <term n="Nicolas de Creil, marchand mercier, quartenier, élu échevin en 1634" >N. D<hi rend="sc">E</hi> C<hi rend="sc" >REIL</hi></term>, <term n="Jean Touquoy, avocat, maître des requêtes de la reine, échevin en charge élu en 1634" >J. T<hi rend="sc">OUQUOY</hi></term>.</p>
           <p>Pareil envoyé à chacun des quartiniers.</p>
         </div>
         <div type="regeste">
           <head>1636, 6 août — Paris.</head>
-          <p>Le bureau de ville ordonne au quartenier Simon Marcès de dresser pour son
-            quartier la liste des hommes en âge de prendre les armes et d’établir un
-            rôle de taxation des bourgeois, d’où sont exclus les magistrats des cours
-            souveraines et les marchands et maîtres des métiers.</p>
+          <p>Le bureau de ville ordonne au quartenier Simon Marcès de dresser pour son quartier la liste des hommes en âge de prendre les armes et d’établir un rôle de taxation des bourgeois, d’où sont exclus les magistrats des cours souveraines et les marchands et maîtres des métiers.</p>
         </div>
       </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
-        
         <div>
           <head>Parties du discours</head>
-          
           <div>
-            
             <p>
-              
-              <seg corresp="suscription">De par les prevost des
-                marchans et eschevins de la ville de Paris.<note
-                  xml:id="suscription">Suscription</note></seg>
-              <seg corresp="adresse">Sire Simon Marcès,
-                quartinier, <note xml:id="adresse">Adresse</note></seg>
-              <seg corresp="dispositif">nous vous mandons que
-                vous aillier et envoyez vos cinquantiniers et dixeniers par votre
-                quartier pour faire reveue du nombre d’hommes capables de porter les
-                armes au dessus de dix-huict ans jusques à soixante et de la
-                quantité d’armes offencives et deffencives, poudres et chevaux qui
-                s’y trouveront. Comme aussy dresser un roolle des bourgeois de
-                votred. quartier sur lequel seront escriptz ce que chacun voudra
-                fournir d’hommes et d’argent pour la solde des regiments qui se
-                lèvent à Paris pour le service de Sa Majesté, dans lequel roolle
-                vous ne comprendrez aucun des compagnies souveraines, corps de
-                marchandises, officiers de ville ny jurez de mestiers, ains
-                seulement les bons bourgeois et autres gens vivans de leurs rentes
-                ou financiers. De quoy vous nous envoyrez les procés verbaux au
-                bureau de la ville pour en certiffier Sa Masjesté, suyvant l’ordre
-                que nous en avons, dont nous vous envoyons des copies imprimées pour
-                vous en servir où il vous sera besoing. Sy n’y failte faulte.<note
-                  xml:id="dispositif">Dispositif</note></seg>
-              <seg corresp="date">Faict au bureau de la ville ce
-                VI<hi rend="sup">e</hi> aoust 1636.<note xml:id="date"
-                  >Date</note></seg>
-              <seg corresp="signatures"> D<hi rend="small caps"
-                >E</hi> B<hi rend="sc">OURGES</hi>, N. D<hi
-                  rend="small caps">E</hi> C<hi rend="sc">REIL</hi>
-                (paraphe),
-                
-                J. T<hi rend="sc">OUQUOY</hi>.<note xml:id="signatures"
-                  >Signatures</note></seg>
-              <seg corresp="mention_copie">Pareil envoyé à
-                chacun des quartiniers.<note xml:id="mention_copie"
-                  >Mention de copie</note></seg>
-              <seg corresp="reference_minute"><hi
-                rend="small caps">xxviii</hi><hi rend="sup">e</hi>
-                registre, fol.9v<hi rend="sup">o</hi><note
-                  xml:id="reference_minute">Référence de l’enregistrement</note></seg>
+              <seg corresp="suscription">De par les prevost des marchans et eschevins de la ville de Paris.<note xml:id="suscription">Suscription</note></seg>
+              <seg corresp="adresse">Sire Simon Marcès, quartinier, <note xml:id="adresse">Adresse</note></seg>
+              <seg corresp="dispositif">nous vous mandons que vous aillier et envoyez vos cinquantiniers et dixeniers par votre quartier pour faire reveue du nombre d’hommes capables de porter les armes au dessus de dix-huict ans jusques à soixante et de la quantité d’armes offencives et deffencives, poudres et chevaux qui s’y trouveront. Comme aussy dresser un roolle des bourgeois de votred. quartier sur lequel seront escriptz ce que chacun voudra fournir d’hommes et d’argent pour la solde des regiments qui se lèvent à Paris pour le service de Sa Majesté, dans lequel roolle vous ne comprendrez aucun des compagnies souveraines, corps de marchandises, officiers de ville ny jurez de mestiers, ains seulement les bons bourgeois et autres gens vivans de leurs rentes ou financiers. De quoy vous nous envoyrez les procés verbaux au bureau de la ville pour en certiffier Sa Masjesté, suyvant l’ordre que nous en avons, dont nous vous envoyons des copies imprimées pour vous en servir où il vous sera besoing. Sy n’y failte faulte.<note xml:id="dispositif">Dispositif</note></seg>
+              <seg corresp="date">Faict au bureau de la ville ce VI<hi rend="sup">e</hi> aoust 1636.<note xml:id="date" >Date</note></seg>
+              <seg corresp="signatures"> D<hi rend="sc" >E</hi> B<hi rend="sc">OURGES</hi>, N. D<hi rend="sc">E</hi> C<hi rend="sc">REIL</hi> (paraphe), J. T<hi rend="sc">OUQUOY</hi>.<note xml:id="signatures" >Signatures</note></seg>
+              <seg corresp="mention_copie">Pareil envoyé à chacun des quartiniers.<note xml:id="mention_copie" >Mention de copie</note></seg>
+              <seg corresp="reference_minute"><hi rend="sc">xxviii</hi><hi rend="sup">e</hi> registre, fol.9v<hi rend="sup">o</hi><note xml:id="reference_minute">Référence de l’enregistrement</note></seg>
             </p>
           </div>
         </div>
         <div>
           <head>Interprétation</head>
           <div>
-            <p>Mandement sur papier portant les signature de trois des quatre échevins
-              en charge (le conseiller au Châtelet Joseph Charlot manque, tout comme
-              le prévôt des marchands, Michel Moreau). Le texte original figure, comme
-              indiqué en référence sur le mandement, dans les registres de la ville à
-              la suite de l’ordre du roi concernant les laquais (Arch. nat., H<hi
-                rend="exposant">2*</hi> 1805<hi rend="sup">1</hi>, fol. 9v-10r
-              <!-- Note de N.L.-C. : "ici renvoi automatique vers le texte 09" -->).
-              Un exemplaire est envoyé à chacun des seize quarteniers, mais on n’a pas
-              conservé trace des formulaires d’enregistrement pré-imprimés qui leur
-              ont été envoyés. L’acte porte également une mention d’archivage («cotté
-              M, 4<hi rend="sup">e</hi> liasse»).</p>
+            <p>Mandement sur papier portant les signature de trois des quatre échevins en charge (le conseiller au Châtelet Joseph Charlot manque, tout comme le prévôt des marchands, Michel Moreau). Le texte original figure, comme indiqué en référence sur le mandement, dans les registres de la ville à la suite de l’ordre du roi concernant les laquais (Arch. nat., H<hi rend="sup">2*</hi> 1805<hi rend="sup">1</hi>, fol. 9v-10r
+              <!-- Note de N.L.-C. : "ici renvoi automatique vers le texte 09" -->). Un exemplaire est envoyé à chacun des seize quarteniers, mais on n’a pas conservé trace des formulaires d’enregistrement pré-imprimés qui leur ont été envoyés. L’acte porte également une mention d’archivage («cotté M, 4<hi rend="sup">e</hi> liasse»).</p>
           </div>
         </div>
         <div>
@@ -227,19 +105,11 @@
             <listBibl>
               <bibl>
                 <author>D<hi rend="sc">URBEC</hi> (Joseph-Antoine)</author>,
-                <title>L’activité des Six Corps</title>, dans <title
-                  >Bulletin de la chambre de commerce de Paris</title>,
-                <date when="1954-05">mai 1954</date>, <biblScope type="pp"
-                  >p. 337-362</biblScope>. </bibl>
+                <title>L’activité des Six Corps</title>, dans <title >Bulletin de la chambre de commerce de Paris</title>,
+                <date when="1954-05">mai 1954</date>, <biblScope type="pp" >p. 337-362</biblScope>. </bibl>
               <bibl>
-                <author>L<hi rend="sc">E</hi> M<hi rend="small caps"
-                  >ARESQUIER</hi>- K<hi rend="sc">ESTELOOT</hi>
-                  (Yvonne-Hélène)</author>, <title>Les officiers
-                    municipaux de la ville de Paris au XV<hi rend="sup">e</hi>
-                    siècle</title>, <pubPlace>Paris</pubPlace>,
-                <publisher>Commission des travaux historiques de la ville de
-                  Paris</publisher>, <date when="1997">1997</date>, <biblScope
-                    type="pp">431 p</biblScope>. </bibl>
+                <author>L<hi rend="sc">E</hi> M<hi rend="sc" >ARESQUIER</hi>- K<hi rend="sc">ESTELOOT</hi> (Yvonne-Hélène)</author>, <title>Les officiers municipaux de la ville de Paris au XV<hi rend="sup">e</hi> siècle</title>, <pubPlace>Paris</pubPlace>,
+                <publisher>Commission des travaux historiques de la ville de Paris</publisher>, <date when="1997">1997</date>, <biblScope type="pp">431 p</biblScope>. </bibl>
             </listBibl>
           </div>
         </div>
@@ -248,31 +118,8 @@
         <head>Commentaire historique.</head>
         <div>
           <div>
-            <p>La campagne militaire de l’été 1636 tourne au désastre : l’armée
-              espagnole s’enfonce profondément dans le royaume depuis la frontière du
-              nord. Roye est prise le 6 août et Corbie investie le lendemain, tombe le
-              16. En conséquence, la ville réactive le rôle militaire des officiers
-              municipaux des seize quarteniers et de leurs subordonnées, dizainiers et
-              cinquanteniers qui forme l’ossature de la milice bourgeoisie. Lors d’une
-              assemblée du bureau tenue le 6 août pour « adviser à la garde, seureté
-              et conservation » de la ville (Arch. nat., H<hi rend="sup">2</hi>
-              1805<hi rend="sup">A*</hi>, fol. 8), est organisée une
-              concertation avec les colonels de la milice afin de faire vérifier les
-              armes, dresser les listes des hommes de chaque compagnie.</p>
-            <p>D’autre part, pour répondre aux demandes de la monarchie, des procédures
-              de collectes fiscales sont mises au point : les quarteniers doivent
-              établir des rôles de contribution. Des exemptions sont établies à
-              l’initiative de la ville (la biffure de la mention « selon les
-              ordonnances » trahit l’absence de foncement juridique explicite) en
-              faveur des cours souveraines (Parlement, Comptes, Aides et Monnaies),
-              des marchands (en gros les Six Corps) et des jurés des métiers et du
-              personnel municipal, en nombre sans doute réduit car lorsqu’il est
-              question d’exemption, la notion d’officier semble très restreinte. Dans
-              l’esprit du bureau sont donc concernés les simples maîtres artisans, les
-              compagnons, les gagne-deniers et tous les autres bourgeois, dont les
-              financiers qui servent de repoussoir idéologique aux magistrats. Les
-              exemptés s’imposent eux-mêmes de manière indépendante et forfaitaire :
-              les Six Corps promettent par exemple 37 000 livres au roi.</p>
+            <p>La campagne militaire de l’été 1636 tourne au désastre : l’armée espagnole s’enfonce profondément dans le royaume depuis la frontière du nord. Roye est prise le 6 août et Corbie investie le lendemain, tombe le 16. En conséquence, la ville réactive le rôle militaire des officiers municipaux des seize quarteniers et de leurs subordonnées, dizainiers et cinquanteniers qui forme l’ossature de la milice bourgeoisie. Lors d’une assemblée du bureau tenue le 6 août pour « adviser à la garde, seureté et conservation » de la ville (Arch. nat., H<hi rend="sup">2</hi> 1805<hi rend="sup">A*</hi>, fol. 8), est organisée une concertation avec les colonels de la milice afin de faire vérifier les armes, dresser les listes des hommes de chaque compagnie.</p>
+            <p>D’autre part, pour répondre aux demandes de la monarchie, des procédures de collectes fiscales sont mises au point : les quarteniers doivent établir des rôles de contribution. Des exemptions sont établies à l’initiative de la ville (la biffure de la mention « selon les ordonnances » trahit l’absence de foncement juridique explicite) en faveur des cours souveraines (Parlement, Comptes, Aides et Monnaies), des marchands (en gros les Six Corps) et des jurés des métiers et du personnel municipal, en nombre sans doute réduit car lorsqu’il est question d’exemption, la notion d’officier semble très restreinte. Dans l’esprit du bureau sont donc concernés les simples maîtres artisans, les compagnons, les gagne-deniers et tous les autres bourgeois, dont les financiers qui servent de repoussoir idéologique aux magistrats. Les exemptés s’imposent eux-mêmes de manière indépendante et forfaitaire : les Six Corps promettent par exemple 37 000 livres au roi.</p>
           </div>
         </div>
       </div>
