@@ -1,126 +1,117 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1199. Charte du roi d’Angleterre</title>
-                <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
-                <author>Naud, Mariette (élève à l'Ecole nationale des Chartes)</author>
-                <respStmt>
-                    <resp>document encodé par</resp>
-                    <name>Jouguet, Hélène (responsable des applications documentaires)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">87</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when="2007-10">octobre 2007</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Fac-sim. ENC : NF 286 (héliogravure).</p>
-                <p>Original conservé à la British Library.</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="lat"/>
-                <language ident="frm"/>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="facsimile">
-                <div type="remarque">
-                    <p>Note sur la transcription. Les “e cédillés” sont rendus par “æ” (on transcrit donc "ae" les lettres conjointes “æ” employées une fois par le scribe.</p>
-                </div>
-                <div>
-                    <p>
-                        <seg rend="28,51,554,56,554,152,25,146">Johannes, Dei gr<ex>ati</ex>a rex Angl<ex>ie</ex>, d<ex>omi</ex>n<ex>u</ex>s Hyb<ex>er</ex>nie,</seg>
-                        <seg rend="559,60,1070,77,1069,172,747,159,558,149">dux Norm<ex>annie</ex>, Aquit<ex>annie</ex> <ex>et</ex> com<ex>es</ex> Andeg<ex>avie</ex>, archiep<ex>iscop</ex>is,</seg>
-                        <lb/>
-                        <seg rend="25,152,489,159,489,209,329,209,42,205,41,152,41,153">ep<ex>iscop</ex>is, abb<ex>at</ex>ib<ex>us</ex>, comit<ex>ibus</ex>, baron<ex>ibus</ex>, justic<ex>iiis</ex>, vicecom<ex>itibus</ex></seg>
-                        <seg rend="493,160,1080,171,1079,227,492,210"><ex> et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis <ex>et</ex> fidelib<ex>us</ex> suis Norm<ex>anie</ex>, <ex>et</ex> nomi<ex>n</ex>atim majori,</seg>
-                        <lb/>
-                        <seg rend="36,214,555,221,552,273,42,266,44,213">vic<ex>ecomiti</ex> <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis suis Rothomag<ex>ensibus</ex>, sal<ex>u</ex>t<ex>em</ex>.</seg>
-                        <seg rend="560,222,1098,230,1097,285,557,271">Sciatis nos concessisse <ex>et</ex> hac presenti carta nost<ex>r</ex>a confirmasse</seg>
-                        <lb/>
-                        <seg rend="34,276,535,290,536,338,37,321">Bonis ho<ex>min</ex>ib<ex>us</ex> Grandi Montis fundacione<ex>m</ex> domus</seg>
-                        <seg rend="542,280,1098,297,1100,358,540,334">q<ex>u</ex>am pat<ex>er</ex> nost<ex>er</ex> H<ex>enricus</ex> bone memorie in d<ex>omi</ex>nico suo juxta Rhoto-</seg>
-                        <lb/>
-                        <seg rend="33,329,738,349,734,405,41,381">-mag<ex>um</ex> fecit, <ex>et</ex> donatione<ex>m</ex> q<ex>u</ex>am idem p<ex>ate</ex>r nost<ex>er</ex> eis fecit ad victualia sua,</seg>
-                        <seg rend="742,350,741,404,1099,421,1091,365">scil<ex>i</ex>c<ex>et</ex> ducentas lib<ex>r</ex>as andeg<ex>avensium</ex> reci-</seg>
-                        <lb/>
-                        <seg rend="40,389,538,402,537,455,35,449">-piendas annuati<ex>m</ex> de vicecomitatu Rothomagen<ex>si</ex>,</seg>
-                        <seg rend="544,404,1098,426,1094,478,543,454">videlicet cent<ex>um</ex> libras ad Pascha et cent<ex>um</ex> ad fest<ex>um</ex> S<ex>an</ex>c<ex>t</ex>i</seg>
-                        <lb/>
-                        <seg rend="46,451,523,462,522,511,38,497">Michael<ex>is</ex>. Quare volum<ex>us</ex> <ex>et</ex> firmit<ex>er</ex> precipim<ex>us</ex></seg>
-                        <seg rend="527,463,1086,483,1084,529,527,510">quod ip<ex>s</ex>i eas h<ex>abe</ex>ant in lib<ex>er</ex>am <ex>et</ex> p<ex>er</ex>petuam elemosina<ex>m</ex> <ex>et</ex> singul<ex>is</ex></seg>
-                        <lb/>
-                        <seg rend="34,507,660,521,657,565,34,553">annis ad pred<ex>i</ex>c<ex>t</ex>os t<ex>er</ex>mi<ex>n</ex>os eas in pred<ex>i</ex>c<ex>t</ex>o vicecomitatu recipiant,</seg>
-                        <seg rend="666,522,1098,540,1095,585,664,563">sicut in carta d<ex>omi</ex>ni H<ex>enrici</ex> p<ex>at</ex>ris n<ex>ost</ex>ri <ex>con</ex>tinet<ex>ur</ex>.</seg>
-                        <lb/>
-                        <seg rend="37,557,440,566,443,617,37,609">Hiis test<ex>ibus</ex> R<ex>ogerio</ex> ep<ex>iscop</ex>o S<ex>an</ex>c<ex>t</ex>i Andree,</seg>
-                        <seg rend="445,565,1094,580,1097,636,448,617">Will<ex>elm</ex>o Lunge Espee com<ex>ite</ex> Saresb’, Will<ex>elm</ex>o com<ex>ite</ex> Arundell’, Hug<ex>one</ex></seg>
-                        <lb/>
-                        <seg rend="39,617,493,628,490,678,41,667">de Gornaco, Rog<ex>erio</ex> constab<ex>u</ex>lario Cest’,</seg>
-                        <seg rend="499,626,1083,644,1088,699,500,676">Will<ex>elm</ex>o de Cantilupo, Petro de Stok’. Dat<ex>um</ex> p<ex>er</ex> man<ex>us</ex></seg>
-                        <lb/>
-                        <seg rend="37,676,568,680,569,739,35,730">Symon<ex>is</ex> archid<ex>iaconi</ex> Wellen<ex>sis</ex> <ex>et</ex> Joh<ex>ann</ex>is de Gra[…],</seg>
-                        <seg rend="577,682,1081,705,1075,751,577,738">apud Chynon<ex>em</ex>, XXVI die septembris, anno</seg>
-                        <lb/>
-                        <seg rend="48,739,46,784,874,805,875,797,1069,802,1071,752,449,735">regni nostri primo.</seg>
-                        <lb/>
-                   </p>
-                </div>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <p>
-                        <term n="Jean sans Terre, roi d’Angleterre à la suite de son frère Richard Cœur-de-Lion (mort le 6 avril 1199), de 1199 à 1216.">Johannes</term>, Dei gratia <term n="Rompant avec la tradition suivie par ses prédécesseurs, Jean sans Terre use des noms de pays et non plus des ethniques dans sa                              titulature (rex Anglie pour rex Anglorum etc.) ; comme pour ses prédécesseurs, les mots ne sont jamais développés dans les actes,                              mais le sont sur les sceaux du roi.">rex Anglie</term>, <term n="Le titre de seigneur d’Irlande, qu’il portait avant son avènement, a été conservé                                  par Jean dans sa titulature royale.">dominus Hybernie</term>, dux Normannie, Aquitannie et <lb/> comes Andegavie, archiepiscopis, episcopis, abbatibus, comitibus, baronibus, justiciis, <lb/> vicecomitibus et omnibus ballivis et fidelibus suis Normanie, et nominatim <term n="Le maire de Rouen, flanqué de pairs et de jurés, représentait la ville,                              dotée de franchises, face au duc-roi, qui conservait sur elle des pouvoirs étendus : il est caractéristique de voir ici le maire incorporé                              à une liste d’officiers royaux.">majori</term>, <lb/>
-                        <term n="Les vicomtés étaient un rouage essentiel de l’administration de la Normandie, mais les charges étaient souvent prises à ferme (ainsi à Rouen par des bourgeois) ; les baillis sont d’institution plus récente." >vicecomiti et omnibus ballivis</term> suis Rothomagensibus, salutem. Sciatis nos concessisse et <lb/> hac presenti carta nostra confirmasse <term n="Surnom habituel des ermites de Grandmont (Haute-Vienne, cant. Ambazac, comm. Saint-Sylvestre) : développé à partir de l’ermitage                              fondé par Étienne de Muret (mort en 1124), le lieu rayonna et devint la tête d’un ordre qui comptait quelque soixante-dix maisons dès 1170.">Bonis hominibus</term> Grandi Montis fundacionem <lb/>
-                        <term n="Prieuré grandmontain de Notre-Dame du Parc.">domus</term> quam pater noster <term n="Henri II Plantagenêt, duc de Normandie en 1151, roi d’Angleterre en 1154, est mort en 1189.">Henricus</term> bone memorie in dominico suo juxta Rhotomagum <lb/> fecit, et donationem quam idem pater noster eis fecit ad victualia sua, scilicet ducentas
-                        <lb/> libras andegavensium recipiendas annuatim de vicecomitatu Rothomagensi, videlicet <lb/> centum libras ad Pascha et centum ad festum <term n="Terme très fréquent de paiement en Normandie, le 29 septembre.">Sancti Michaelis</term>. Quare volumus et firmiter <lb/> precipimus quod ipsi eas habeant in liberam et perpetuam elemosinam et singulis annis ad <lb/> predictos terminos eas in predicto vicecomitatu recipiant, sicut in carta domini Henrici <lb/> patris nostri continetur. Hiis testibus <term n="Roger, évêque de Saint-Andrews en Écosse (1189-1202).">Rogerio</term> episcopo Sancti Andree, <term n="Guillaume Longue-Épée, fils illégitime du roi Henri II, comte de Salisbury (Wiltshire) dont il avait épousé                              l’héritière vers 1196 (mort en 1226).">Willelmo</term>
-                        <foreign xml:lang="frm">Lunge <lb/> Espee</foreign> comite <term n="Les graphies des toponymes sont sujettes à de multiples variantes dans les actes anglais, qui les abrègent volontiers. À l’exemple des éditeurs anglais, nous ne les restituons pas.">Saresb’</term>, <term n="Guillaume [III] d’Aubigny, comte d’Arundel (West Sussex) de 1193 à 1221.">Willelmo</term> comite Arundell’, Hugone de Gornaco, <term n="Roger de Lacy, connétable de Chester, baron de l’entourage royal.">Rogerio</term>
-                        <lb/> constabulario Cest’, <term n="Guillaume de Cantilupe, membre assidu de l’entourage de Jean avant même son accession au trône.">Willelmo</term> de Cantilupo, <term n="Pierre de Stoke-on-Trent (Staffordshire), sénéchal du roi                             Jean.">Petro</term> de Stok’. Datum per manus <term n="Simon archidiacre de Wells (Somerset).">Symonis</term>
-                        <lb/> archidiaconi Wellensis et <term n="Jean de Gray, chancelier de Jean avant son accession au trône, puis membre de la chancellerie royale.">Johannis</term> de Gra[…], apud <term n="Chinon (Indre-et-Loire, ch.-l. arr.).">Chynonem</term>, XXVI die septembris, <lb/> anno regni nostri <term n="L’année de règne part du couronnement de Jean, le 27 mai 1199. Elle ne figure au bas des actes royaux anglais que depuis le                              règne de son frère et prédécesseur Richard (sans doute à l’imitation des lettres pontificales),  et sert aussi à                              ordonner les différentes séries de registres qui commencent alors à se multiplier.">primo</term>.</p>
-                </div>
-                <div type="translation">
-                    <p>
-                        <term n="Jean sans Terre, roi d’Angleterre à la suite de son frère Richard Cœur-de-Lion (mort le 6 avril 1199), de 1199 à 1216.">Jean</term>, par la grâce de Dieu <term n="Rompant avec la tradition suivie par ses prédécesseurs,                                  Jean sans Terre use des noms de pays et non plus des ethniques dans sa                                  titulature (rex Anglie pour rex Anglorum etc.) ; comme pour ses prédécesseurs, les mots ne sont jamais                                  développés dans les actes, mais le sont sur les sceaux du roi.">roi d’Angleterre</term>, <term n="Le titre de seigneur d’Irlande, qu’il portait avant son avènement, a été conservé par Jean dans sa                              titulature royale.">seigneur d’Irlande</term>, duc de Normandie, <lb/> d’Aquitaine et comte d’Anjou, à ses archevêques, évêques, abbés, comtes, barons, <lb/> justiciers, vicomtes et tous les baillis et à ses fidèles de Normandie, et particulièrement
-                        <lb/> aux <term n="Le maire de Rouen, flanqué de pairs et de jurés, représentait la ville, dotée de franchises, face au duc-roi, qui conservait sur elle des pouvoirs étendus : il est caractéristique de voir ici le maire incorporé à une liste d’officiers royaux.">maire</term>, <term n="Les vicomtés étaient un rouage essentiel de l’administration de la Normandie, mais les charges étaient                              souvent prises à ferme (ainsi à Rouen par des bourgeois) ; les baillis sont d’institution plus récente.">vicomte et tous ses baillis</term> de Rouen, salut. Sachez que nous avons concédé et <lb/> par notre présente charte confirmé aux <term n="Surnom habituel des ermites de Grandmont                              (Haute-Vienne, cant. Ambazac, comm. Saint-Sylvestre) : développé à partir de l’ermitage fondé par                              Étienne de Muret (mort en 1124), le lieu rayonna et devint la tête d’un ordre qui comptait quelque soixante-dix maisons dès 1170.">Bonshommes</term> de Grandmont la fondation de leur <lb/>
-                        <term n="Prieuré grandmontain de Notre-Dame du Parc.">maison</term> que notre père <term n="Henri II Plantagenêt, duc de Normandie en 1151, roi d’Angleterre en 1154, est mort en 1189.">Henri</term>, de bonne mémoire, a faite sur son domaine près de Rouen, <lb/> et la donation que notredit père leur a faite pour leur subsistance, à savoir deux cent livres <lb/> angevines à recevoir chaque année sur [les recettes de] la vicomté de Rouen, soit cent <lb/> livres à Pâques et cent à la <term n="Terme très fréquent de paiement en Normandie, le 29 septembre." >Saint-Michel</term>. C’est pourquoi nous voulons et prescrivons <lb/> fermement qu’ils les aient en aumône libre et perpétuelle, et que chaque année, aux termes <lb/> susdits, ils les reçoivent sur ladite vicomté, comme il est dit dans la charte du seigneur <lb/> Henri notre père. En sont témoins <term n="Roger, évêque de Saint-Andrews en Écosse (1189-1202).">Roger</term> évêque de Saint-Andrews, <term n="Guillaume Longue-Épée, fils illégitime du roi Henri II, comte de Salisbury (Wiltshire)                              dont il avait épousé l’héritière vers 1196 (mort en 1226).">Guillaume</term> Longue- <lb/> Épée comte de Salisbury, <term n="Guillaume [III] d’Aubigny, comte d’Arundel (West Sussex)                              de 1193 à 1221.">Guillaume</term> comte d’Arundel, Hugues de Gurnay, <term n="Roger de Lacy, connétable de Chester,                                  baron de l’entourage royal.">Roger</term>
-                        <lb/> connétable de Chester, <term n="Guillaume de Cantilupe, membre assidu de l’entourage de Jean avant même son accession au trône.">Guillaume</term> de Cantilupe, <term n="Pierre de Stoke-on-Trent (Staffordshire), sénéchal du roi Jean.">Pierre</term> de Stoke. Fait des mains de <term n="Simon archidiacre de Wells (Somerset).">Simon</term>
-                        <lb/> archidiacre de Wells et de <term n="Jean de Gray, chancelier de Jean avant son accession au trône, puis membre de la chancellerie royale.">Jean</term> de Gray, à <term n="Chinon (Indre-et-Loire, ch.-l. arr.)." >Chinon</term>, le 26e jour de septembre, <term n="L’année de règne part du couronnement de Jean, le 27 mai 1199. Elle ne figure au bas des actes                              royaux anglais que depuis le règne de son frère et prédécesseur Richard (sans doute à l’imitation des lettres                              pontificales), et sert aussi à ordonner les différentes séries de registres qui commencent alors à se multiplier.">première <lb/>année</term> de notre règne.</p>
-                </div>
-                <div type="regeste">
-                    <head>1199, 26 septembre. – Chinon.</head>
-                    <p>Jean [sans Terre], roi d’Angleterre, confirme la fondation par son feu père Henri [II Plantagenêt] de la maison des Bonshommes de Grandmont [du Parc] près de Rouen et la donation qu’il leur a faite d’une rente de 200 livres d’angevins assignée sur la vicomté de Rouen, moitié à Pâques et moitié à la Saint-Michel, ainsi que le stipule la charte qu’il leur avait délivrée.</p>
-                </div>
-            </div>
-            <div type="diplomatic">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Caractères externes</head>
-                    <div>
-                        <p>
-                            <figure rend="87/faxexterne.jpg"/>
-                       </p>
-                        <p>Les interlignes sont réguliers et larges. L’espace pourtant est mesuré, et les marges, quasi inexistantes, laissent un règne sans partage à l’écriture.</p>
-                        <p>Celle-ci, soignée et typée, est composée de lettres au corps petit et méticuleusement tracé, et de longues hampes, conférant au tout une allure élégante et une grande lisibilité. Les majuscules à redoublement sont typiques de l’écriture curiale anglaise. Certains tildes, en forme de 8 ouverts par le bas, les traits obliques plongeants et recourbés en fin de <hi rend="i">n</hi> et de <hi rend="i">m</hi>, les <hi rend="i" >a</hi> suscrits, les 9 tironiens (abréviations <hi rend="i">–us</hi>), le haut des <hi rend="i" >s</hi>, les <hi rend="i">R</hi> majuscules (<hi rend="i">Rex</hi>, à la première ligne, et les témoins <hi rend="i">R</hi>. et <hi rend="i">Rogerius</hi> aux lignes 9-10) intègrent tous, de façon variée, des ornements graphiques qui proclament le caractère travaillé du produit graphique.</p>
-                        <p>L’écriture n’en est pas moins extrêmement abrégée, surtout quand les mots sont connus et attendus. Caractéristique des actes anglo-normands en général, la sévérité des abréviations sur les noms de personnes est tout particulièrement notable (cf. <hi rend="i">H</hi>. pour <hi rend="i">Henricus</hi> à la ligne 8, le <hi rend="i">R</hi>. du premier témoin à la ligne 9).</p>
-                        <p>Le tout, en bref, suggère un mélange de majesté et de pragmatisme.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Interprétation</head>
-                    <div>
-                        <p>Le roi Jean n’est couronné que depuis quelques mois lorsqu’ils délivre, sans doute à la demande des intéressés, cette confirmation d’une fondation peut-être récente, apparemment encore fragile. La fondation de la maison du Parc de Rouen est bien inscrite dans la politique religieuse du roi Henri II, qui a protégé la maison-mère limousine ; elle est parallèle et peut-être rivale de la politique des rois de France, qui autour des années 1160 ont multiplié les fondations grandmontaines dans des parcs et des bois royaux (à Vincennes, en forêt d’Orléans, près de Dourdan). La charte de dotation délivrée par Henri II est mentionnée à la fin du texte, mais celle qui nous est conservée présente des bizarreries qui éveillent le soupçon de falsification (éd. Delisle-Berger, t. II, n° 727).</p>
-                        <p>Il n’en va pas de même de celle-ci, qui répond parfaitement aux standards de la production de chancellerie, dans ses traditions comme dans les innovations apportées dans les années ou mois qui précèdent. Très normalement, elle s’auto-désigne comme « charte » dès le dispositif (ligne 3), soit la catégorie la plus élevée, à valeur perpétuelle et solennelle des actes royaux (même si elle n'est pas ici scellée sur lacs de soie mais plus modestement sur une double queue de parchemin, dont on voit encore la fente dans le repli).</p>
-                        <p>Accessoirement, on notera combien les listes de témoins, qui demeurent détaillées et effectives au bas des chartes royales anglaises, continuent à nourrir l’étude de l’entourage rapproché du souverain, alors que le diplôme capétien a depuis longtemps opté pour les souscriptions factices des seuls grands officiers.</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1199. Charte du roi d’Angleterre</title>
+        <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
+        <author>Naud, Mariette (élève à l'Ecole nationale des Chartes)</author>
+        <respStmt>
+          <resp>document encodé par</resp>
+          <name>Jouguet, Hélène (responsable des applications documentaires)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">87</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2007-10">octobre 2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Fac-sim. ENC : NF 286 (héliogravure).</p>
+        <p>Original conservé à la British Library.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat"/>
+        <language ident="frm"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <div>
+          <p>
+            <seg rend="28,51,554,56,554,152,25,146">Johannes, Dei gr<ex>ati</ex>a rex Angl<ex>ie</ex>, d<ex>omi</ex>n<ex>u</ex>s Hyb<ex>er</ex>nie,</seg>
+            <seg rend="559,60,1070,77,1069,172,747,159,558,149">dux Norm<ex>annie</ex>, Aquit<ex>annie</ex> <ex>et</ex> com<ex>es</ex> Andeg<ex>avie</ex>, archiep<ex>iscop</ex>is,</seg>
+            <lb/>
+            <seg rend="25,152,489,159,489,209,329,209,42,205,41,152,41,153">ep<ex>iscop</ex>is, abb<ex>at</ex>ib<ex>us</ex>, comit<ex>ibus</ex>, baron<ex>ibus</ex>, justic<ex>iiis</ex>, vicecom<ex>itibus</ex></seg>
+            <seg rend="493,160,1080,171,1079,227,492,210"><ex> et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis <ex>et</ex> fidelib<ex>us</ex> suis Norm<ex>anie</ex>, <ex>et</ex> nomi<ex>n</ex>atim majori,</seg>
+            <lb/>
+            <seg rend="36,214,555,221,552,273,42,266,44,213">vic<ex>ecomiti</ex> <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis suis Rothomag<ex>ensibus</ex>, sal<ex>u</ex>t<ex>em</ex>.</seg>
+            <seg rend="560,222,1098,230,1097,285,557,271">Sciatis nos concessisse <ex>et</ex> hac presenti carta nost<ex>r</ex>a confirmasse</seg>
+            <lb/>
+            <seg rend="34,276,535,290,536,338,37,321">Bonis ho<ex>min</ex>ib<ex>us</ex> Grandi Montis fundacione<ex>m</ex> domus</seg>
+            <seg rend="542,280,1098,297,1100,358,540,334">q<ex>u</ex>am pat<ex>er</ex> nost<ex>er</ex> H<ex>enricus</ex> bone memorie in d<ex>omi</ex>nico suo juxta Rhoto-</seg>
+            <lb/>
+            <seg rend="33,329,738,349,734,405,41,381">-mag<ex>um</ex> fecit, <ex>et</ex> donatione<ex>m</ex> q<ex>u</ex>am idem p<ex>ate</ex>r nost<ex>er</ex> eis fecit ad victualia sua,</seg>
+            <seg rend="742,350,741,404,1099,421,1091,365">scil<ex>i</ex>c<ex>et</ex> ducentas lib<ex>r</ex>as andeg<ex>avensium</ex> reci-</seg>
+            <lb/>
+            <seg rend="40,389,538,402,537,455,35,449">-piendas annuati<ex>m</ex> de vicecomitatu Rothomagen<ex>si</ex>,</seg>
+            <seg rend="544,404,1098,426,1094,478,543,454">videlicet cent<ex>um</ex> libras ad Pascha et cent<ex>um</ex> ad fest<ex>um</ex> S<ex>an</ex>c<ex>t</ex>i</seg>
+            <lb/>
+            <seg rend="46,451,523,462,522,511,38,497">Michael<ex>is</ex>. Quare volum<ex>us</ex> <ex>et</ex> firmit<ex>er</ex> precipim<ex>us</ex></seg>
+            <seg rend="527,463,1086,483,1084,529,527,510">quod ip<ex>s</ex>i eas h<ex>abe</ex>ant in lib<ex>er</ex>am <ex>et</ex> p<ex>er</ex>petuam elemosina<ex>m</ex> <ex>et</ex> singul<ex>is</ex></seg>
+            <lb/>
+            <seg rend="34,507,660,521,657,565,34,553">annis ad pred<ex>i</ex>c<ex>t</ex>os t<ex>er</ex>mi<ex>n</ex>os eas in pred<ex>i</ex>c<ex>t</ex>o vicecomitatu recipiant,</seg>
+            <seg rend="666,522,1098,540,1095,585,664,563">sicut in carta d<ex>omi</ex>ni H<ex>enrici</ex> p<ex>at</ex>ris n<ex>ost</ex>ri <ex>con</ex>tinet<ex>ur</ex>.</seg>
+            <lb/>
+            <seg rend="37,557,440,566,443,617,37,609">Hiis test<ex>ibus</ex> R<ex>ogerio</ex> ep<ex>iscop</ex>o S<ex>an</ex>c<ex>t</ex>i Andree,</seg>
+            <seg rend="445,565,1094,580,1097,636,448,617">Will<ex>elm</ex>o Lunge Espee com<ex>ite</ex> Saresb’, Will<ex>elm</ex>o com<ex>ite</ex> Arundell’, Hug<ex>one</ex></seg>
+            <lb/>
+            <seg rend="39,617,493,628,490,678,41,667">de Gornaco, Rog<ex>erio</ex> constab<ex>u</ex>lario Cest’,</seg>
+            <seg rend="499,626,1083,644,1088,699,500,676">Will<ex>elm</ex>o de Cantilupo, Petro de Stok’. Dat<ex>um</ex> p<ex>er</ex> man<ex>us</ex></seg>
+            <lb/>
+            <seg rend="37,676,568,680,569,739,35,730">Symon<ex>is</ex> archid<ex>iaconi</ex> Wellen<ex>sis</ex> <ex>et</ex> Joh<ex>ann</ex>is de Gra[…],</seg>
+            <seg rend="577,682,1081,705,1075,751,577,738">apud Chynon<ex>em</ex>, XXVI die septembris, anno</seg>
+            <lb/>
+            <seg rend="48,739,46,784,874,805,875,797,1069,802,1071,752,449,735">regni nostri primo.</seg>
+            <lb/>
+          </p>
+        </div>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <p>
+            <term n="Jean sans Terre, roi d’Angleterre à la suite de son frère Richard Cœur-de-Lion (mort le 6 avril 1199), de 1199 à 1216.">Johannes</term>, Dei gratia <term n="Rompant avec la tradition suivie par ses prédécesseurs, Jean sans Terre use des noms de pays et non plus des ethniques dans sa                              titulature (rex Anglie pour rex Anglorum etc.) ; comme pour ses prédécesseurs, les mots ne sont jamais développés dans les actes,                              mais le sont sur les sceaux du roi.">rex Anglie</term>, <term n="Le titre de seigneur d’Irlande, qu’il portait avant son avènement, a été conservé                                  par Jean dans sa titulature royale.">dominus Hybernie</term>, dux Normannie, Aquitannie et <lb/>comes Andegavie, archiepiscopis, episcopis, abbatibus, comitibus, baronibus, justiciis, <lb/>vicecomitibus et omnibus ballivis et fidelibus suis Normanie, et nominatim <term n="Le maire de Rouen, flanqué de pairs et de jurés, représentait la ville,                              dotée de franchises, face au duc-roi, qui conservait sur elle des pouvoirs étendus : il est caractéristique de voir ici le maire incorporé                              à une liste d’officiers royaux.">majori</term>, <lb/>
+            <term n="Les vicomtés étaient un rouage essentiel de l’administration de la Normandie, mais les charges étaient souvent prises à ferme (ainsi à Rouen par des bourgeois) ; les baillis sont d’institution plus récente." >vicecomiti et omnibus ballivis</term> suis Rothomagensibus, salutem. Sciatis nos concessisse et <lb/>hac presenti carta nostra confirmasse <term n="Surnom habituel des ermites de Grandmont (Haute-Vienne, cant. Ambazac, comm. Saint-Sylvestre) : développé à partir de l’ermitage                              fondé par Étienne de Muret (mort en 1124), le lieu rayonna et devint la tête d’un ordre qui comptait quelque soixante-dix maisons dès 1170.">Bonis hominibus</term> Grandi Montis fundacionem <lb/>
+            <term n="Prieuré grandmontain de Notre-Dame du Parc.">domus</term> quam pater noster <term n="Henri II Plantagenêt, duc de Normandie en 1151, roi d’Angleterre en 1154, est mort en 1189.">Henricus</term> bone memorie in dominico suo juxta Rhotomagum <lb/>fecit, et donationem quam idem pater noster eis fecit ad victualia sua, scilicet ducentas
+            <lb/>libras andegavensium recipiendas annuatim de vicecomitatu Rothomagensi, videlicet <lb/>centum libras ad Pascha et centum ad festum <term n="Terme très fréquent de paiement en Normandie, le 29 septembre.">Sancti Michaelis</term>. Quare volumus et firmiter <lb/>precipimus quod ipsi eas habeant in liberam et perpetuam elemosinam et singulis annis ad <lb/>predictos terminos eas in predicto vicecomitatu recipiant, sicut in carta domini Henrici <lb/>patris nostri continetur. Hiis testibus <term n="Roger, évêque de Saint-Andrews en Écosse (1189-1202).">Rogerio</term> episcopo Sancti Andree, <term n="Guillaume Longue-Épée, fils illégitime du roi Henri II, comte de Salisbury (Wiltshire) dont il avait épousé                              l’héritière vers 1196 (mort en 1226).">Willelmo</term>
+            <foreign xml:lang="frm">Lunge <lb/>Espee</foreign> comite <term n="Les graphies des toponymes sont sujettes à de multiples variantes dans les actes anglais, qui les abrègent volontiers. À l’exemple des éditeurs anglais, nous ne les restituons pas.">Saresb’</term>, <term n="Guillaume [III] d’Aubigny, comte d’Arundel (West Sussex) de 1193 à 1221.">Willelmo</term> comite Arundell’, Hugone de Gornaco, <term n="Roger de Lacy, connétable de Chester, baron de l’entourage royal.">Rogerio</term>
+            <lb/>constabulario Cest’, <term n="Guillaume de Cantilupe, membre assidu de l’entourage de Jean avant même son accession au trône.">Willelmo</term> de Cantilupo, <term n="Pierre de Stoke-on-Trent (Staffordshire), sénéchal du roi                             Jean.">Petro</term> de Stok’. Datum per manus <term n="Simon archidiacre de Wells (Somerset).">Symonis</term>
+            <lb/>archidiaconi Wellensis et <term n="Jean de Gray, chancelier de Jean avant son accession au trône, puis membre de la chancellerie royale.">Johannis</term> de Gra[…], apud <term n="Chinon (Indre-et-Loire, ch.-l. arr.).">Chynonem</term>, XXVI die septembris, <lb/>anno regni nostri <term n="L’année de règne part du couronnement de Jean, le 27 mai 1199. Elle ne figure au bas des actes royaux anglais que depuis le                              règne de son frère et prédécesseur Richard (sans doute à l’imitation des lettres pontificales),  et sert aussi à                              ordonner les différentes séries de registres qui commencent alors à se multiplier.">primo</term>.</p>
+        </div>
+        <div type="translation">
+          <p>
+            <term n="Jean sans Terre, roi d’Angleterre à la suite de son frère Richard Cœur-de-Lion (mort le 6 avril 1199), de 1199 à 1216.">Jean</term>, par la grâce de Dieu <term n="Rompant avec la tradition suivie par ses prédécesseurs,                                  Jean sans Terre use des noms de pays et non plus des ethniques dans sa                                  titulature (rex Anglie pour rex Anglorum etc.) ; comme pour ses prédécesseurs, les mots ne sont jamais                                  développés dans les actes, mais le sont sur les sceaux du roi.">roi d’Angleterre</term>, <term n="Le titre de seigneur d’Irlande, qu’il portait avant son avènement, a été conservé par Jean dans sa                              titulature royale.">seigneur d’Irlande</term>, duc de Normandie, <lb/>d’Aquitaine et comte d’Anjou, à ses archevêques, évêques, abbés, comtes, barons, <lb/>justiciers, vicomtes et tous les baillis et à ses fidèles de Normandie, et particulièrement
+            <lb/>aux <term n="Le maire de Rouen, flanqué de pairs et de jurés, représentait la ville, dotée de franchises, face au duc-roi, qui conservait sur elle des pouvoirs étendus : il est caractéristique de voir ici le maire incorporé à une liste d’officiers royaux.">maire</term>, <term n="Les vicomtés étaient un rouage essentiel de l’administration de la Normandie, mais les charges étaient                              souvent prises à ferme (ainsi à Rouen par des bourgeois) ; les baillis sont d’institution plus récente.">vicomte et tous ses baillis</term> de Rouen, salut. Sachez que nous avons concédé et <lb/>par notre présente charte confirmé aux <term n="Surnom habituel des ermites de Grandmont                              (Haute-Vienne, cant. Ambazac, comm. Saint-Sylvestre) : développé à partir de l’ermitage fondé par                              Étienne de Muret (mort en 1124), le lieu rayonna et devint la tête d’un ordre qui comptait quelque soixante-dix maisons dès 1170.">Bonshommes</term> de Grandmont la fondation de leur <lb/>
+            <term n="Prieuré grandmontain de Notre-Dame du Parc.">maison</term> que notre père <term n="Henri II Plantagenêt, duc de Normandie en 1151, roi d’Angleterre en 1154, est mort en 1189.">Henri</term>, de bonne mémoire, a faite sur son domaine près de Rouen, <lb/>et la donation que notredit père leur a faite pour leur subsistance, à savoir deux cent livres <lb/>angevines à recevoir chaque année sur [les recettes de] la vicomté de Rouen, soit cent <lb/>livres à Pâques et cent à la <term n="Terme très fréquent de paiement en Normandie, le 29 septembre." >Saint-Michel</term>. C’est pourquoi nous voulons et prescrivons <lb/>fermement qu’ils les aient en aumône libre et perpétuelle, et que chaque année, aux termes <lb/>susdits, ils les reçoivent sur ladite vicomté, comme il est dit dans la charte du seigneur <lb/>Henri notre père. En sont témoins <term n="Roger, évêque de Saint-Andrews en Écosse (1189-1202).">Roger</term> évêque de Saint-Andrews, <term n="Guillaume Longue-Épée, fils illégitime du roi Henri II, comte de Salisbury (Wiltshire)                              dont il avait épousé l’héritière vers 1196 (mort en 1226).">Guillaume</term> Longue- <lb/>Épée comte de Salisbury, <term n="Guillaume [III] d’Aubigny, comte d’Arundel (West Sussex)                              de 1193 à 1221.">Guillaume</term> comte d’Arundel, Hugues de Gurnay, <term n="Roger de Lacy, connétable de Chester,                                  baron de l’entourage royal.">Roger</term>
+            <lb/>connétable de Chester, <term n="Guillaume de Cantilupe, membre assidu de l’entourage de Jean avant même son accession au trône.">Guillaume</term> de Cantilupe, <term n="Pierre de Stoke-on-Trent (Staffordshire), sénéchal du roi Jean.">Pierre</term> de Stoke. Fait des mains de <term n="Simon archidiacre de Wells (Somerset).">Simon</term>
+            <lb/>archidiacre de Wells et de <term n="Jean de Gray, chancelier de Jean avant son accession au trône, puis membre de la chancellerie royale.">Jean</term> de Gray, à <term n="Chinon (Indre-et-Loire, ch.-l. arr.)." >Chinon</term>, le 26e jour de septembre, <term n="L’année de règne part du couronnement de Jean, le 27 mai 1199. Elle ne figure au bas des actes                              royaux anglais que depuis le règne de son frère et prédécesseur Richard (sans doute à l’imitation des lettres                              pontificales), et sert aussi à ordonner les différentes séries de registres qui commencent alors à se multiplier.">première <lb/>année</term> de notre règne.</p>
+        </div>
+        <div type="regeste">
+          <head>1199, 26 septembre. – Chinon.</head>
+          <p>Jean [sans Terre], roi d’Angleterre, confirme la fondation par son feu père Henri [II Plantagenêt] de la maison des Bonshommes de Grandmont [du Parc] près de Rouen et la donation qu’il leur a faite d’une rente de 200 livres d’angevins assignée sur la vicomté de Rouen, moitié à Pâques et moitié à la Saint-Michel, ainsi que le stipule la charte qu’il leur avait délivrée.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          <figure rend="87/faxexterne.jpg"/>
+          <p>Les interlignes sont réguliers et larges. L’espace pourtant est mesuré, et les marges, quasi inexistantes, laissent un règne sans partage à l’écriture.</p>
+          <p>Celle-ci, soignée et typée, est composée de lettres au corps petit et méticuleusement tracé, et de longues hampes, conférant au tout une allure élégante et une grande lisibilité. Les majuscules à redoublement sont typiques de l’écriture curiale anglaise. Certains tildes, en forme de 8 ouverts par le bas, les traits obliques plongeants et recourbés en fin de <hi rend="i">n</hi> et de <hi rend="i">m</hi>, les <hi rend="i" >a</hi> suscrits, les 9 tironiens (abréviations <hi rend="i">–us</hi>), le haut des <hi rend="i" >s</hi>, les <hi rend="i">R</hi> majuscules (<hi rend="i">Rex</hi>, à la première ligne, et les témoins <hi rend="i">R</hi>. et <hi rend="i">Rogerius</hi> aux lignes 9-10) intègrent tous, de façon variée, des ornements graphiques qui proclament le caractère travaillé du produit graphique.</p>
+          <p>L’écriture n’en est pas moins extrêmement abrégée, surtout quand les mots sont connus et attendus. Caractéristique des actes anglo-normands en général, la sévérité des abréviations sur les noms de personnes est tout particulièrement notable (cf. <hi rend="i">H</hi>. pour <hi rend="i">Henricus</hi> à la ligne 8, le <hi rend="i">R</hi>. du premier témoin à la ligne 9).</p>
+          <p>Le tout, en bref, suggère un mélange de majesté et de pragmatisme.</p>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <p>Le roi Jean n’est couronné que depuis quelques mois lorsqu’ils délivre, sans doute à la demande des intéressés, cette confirmation d’une fondation peut-être récente, apparemment encore fragile. La fondation de la maison du Parc de Rouen est bien inscrite dans la politique religieuse du roi Henri II, qui a protégé la maison-mère limousine ; elle est parallèle et peut-être rivale de la politique des rois de France, qui autour des années 1160 ont multiplié les fondations grandmontaines dans des parcs et des bois royaux (à Vincennes, en forêt d’Orléans, près de Dourdan). La charte de dotation délivrée par Henri II est mentionnée à la fin du texte, mais celle qui nous est conservée présente des bizarreries qui éveillent le soupçon de falsification (éd. Delisle-Berger, t. II, n° 727).</p>
+          <p>Il n’en va pas de même de celle-ci, qui répond parfaitement aux standards de la production de chancellerie, dans ses traditions comme dans les innovations apportées dans les années ou mois qui précèdent. Très normalement, elle s’auto-désigne comme « charte » dès le dispositif (ligne 3), soit la catégorie la plus élevée, à valeur perpétuelle et solennelle des actes royaux (même si elle n'est pas ici scellée sur lacs de soie mais plus modestement sur une double queue de parchemin, dont on voit encore la fente dans le repli).</p>
+          <p>Accessoirement, on notera combien les listes de témoins, qui demeurent détaillées et effectives au bas des chartes royales anglaises, continuent à nourrir l’étude de l’entourage rapproché du souverain, alors que le diplôme capétien a depuis longtemps opté pour les souscriptions factices des seuls grands officiers.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

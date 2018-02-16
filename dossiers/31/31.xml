@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> 1447. Mandement delphinal. Commission pour la prise de possession d&#x2019;une seigneurie échangée.</title>
+        <title> 1447. Mandement delphinal. Commission pour la prise de possession d’une seigneurie échangée.</title>
       </titleStmt>
       <publicationStmt>
         <idno type="numero">31</idno>
@@ -28,8 +28,8 @@
           <seg rend="700,59,1088,76">et de Dioys, a n<ex>ost</ex>re amé
             <ex>et</ex> feal Girault Aymar,</seg>
           <seg rend="37,79,465,92">escuier, seigneur de Granhan, salut et dilection.</seg>
-          <seg rend="473,79,1087,93">Comme par l&#x2019;accort et traictié fait entre nous, d&#x2019;une part, et vous, d&#x2019;aut<ex>re</ex>,</seg>
-          <seg rend="65,94,714,106">sur le fait de l&#x2019;eschange de la place, terre et seigneurie de Grillen a la terre</seg>
+          <seg rend="473,79,1087,93">Comme par l’accort et traictié fait entre nous, d’une part, et vous, d’aut<ex>re</ex>,</seg>
+          <seg rend="65,94,714,106">sur le fait de l’eschange de la place, terre et seigneurie de Grillen a la terre</seg>
           <seg rend="719,94,1086,104"><ex>et</ex> seigneurie de Marsenne
             <ex>et</ex> la moitié du</seg>
           <seg rend="66,109,597,122">peage de Laine et des empses de Savasse vous nous doiez</seg>
@@ -38,7 +38,7 @@
           <seg rend="431,125,1083,137">toutes les rentes et reven<ex>ue</ex>s, ainsi que par le traictié sur ce fait peut app<ex>ar</ex>oir,</seg>
           <seg rend="51,139,663,153">savoir vous faisons que, nous confians a plain de la loyauté,</seg>
           <seg rend="667,140,1086,156">souffisance <ex>et</ex> bonne preudomie de n<ex>ost</ex>re amé <ex>et</ex> feal</seg>
-          <seg rend="68,159,486,172">escuier d&#x2019;escuierie Hugues de Verdun,</seg>
+          <seg rend="68,159,486,172">escuier d’escuierie Hugues de Verdun,</seg>
           <seg rend="496,157,1083,169">seigneur de S<ex>ain</ex>te Camelle, icelui avons co<ex>m</ex>mis et ordonné, co<ex>m</ex>mettons</seg>
           <seg rend="66,174,566,189">et ordonnons par ces p<ex>resen</ex>tes a prandre la possession,</seg>
           <seg rend="572,174,1087,190">la garde et joïssance de lad<ex>icte</ex> place de Grillen, pour et</seg>
@@ -49,7 +49,7 @@
           <seg rend="61,228,696,239">nous vous en tendrons quitte et deschargé partout ou besoing sera,</seg>
           <seg rend="705,227,1098,239">sans aucunem<ex>en</ex>t all<ex>e</ex>r au contraire. Car ainsi</seg>
           <seg rend="62,245,424,258">nous plaist il et voulons estre fait.</seg>
-          <seg rend="332,243,1091,261">Donné au Monteil Aymart, le XXVIme jour de may, l&#x2019;an de grace</seg>
+          <seg rend="332,243,1091,261">Donné au Monteil Aymart, le XXVIme jour de may, l’an de grace</seg>
           <seg rend="61,264,367,279">mil CCCC quarante <ex>et</ex> sept.</seg>
           <seg rend="101,326,357,349">Par monseigneur le daulphin</seg>
           <seg rend="145,358,267,372">en son conseil</seg>
@@ -58,12 +58,12 @@
       </div>
       <div type="text">
         <div type="transcription">
-          <l><term n="Loys : Le futur Louis XI, détenteur du Dauphiné en tant que fils aîné du roi de France, a porté une grande attention à la province, qu&#x2019;il a en particulier activement administrée après s&#x2019;être brouillé avec son père en 1446." >Loys</term>, ainsné filz du roy de France, <term n="daulphin de Viennoys : Acquis par le roi de France Philippe VI en 1343, le Dauphiné de Viennois, terre d&#x2019;Empire, passe dès 1344 au futur Jean II. La règle s&#x2019;observe jusqu&#x2019;en 1461 de le confier au fils aîné du roi de France. Le maintien des institutions régionales se marque aussi dans le domaine diplomatique, avec l&#x2019;usage d&#x2019;un sceau (le « sceau dauphin ») et d&#x2019;une chancellerie propres." >daulphin de Viennoys</term>, <term n="conte de Valentinoys et de Dioys :Éléments complémentaires de la titulature delphinale à compter de 1419, date à laquelle le Valentinois (région de Valence) et une partie du Diois (région de Die) sont rattachés au Dauphiné ; ces terres correspondaient à peu près à la partie de l&#x2019;actuel département de la Drôme qui ne relevait pas à l&#x2019;origine du Dauphiné." >conte de Valentinoys et de Dioys</term>, </l>
+          <l><term n="Loys : Le futur Louis XI, détenteur du Dauphiné en tant que fils aîné du roi de France, a porté une grande attention à la province, qu’il a en particulier activement administrée après s’être brouillé avec son père en 1446." >Loys</term>, ainsné filz du roy de France, <term n="daulphin de Viennoys : Acquis par le roi de France Philippe VI en 1343, le Dauphiné de Viennois, terre d’Empire, passe dès 1344 au futur Jean II. La règle s’observe jusqu’en 1461 de le confier au fils aîné du roi de France. Le maintien des institutions régionales se marque aussi dans le domaine diplomatique, avec l’usage d’un sceau (le « sceau dauphin ») et d’une chancellerie propres." >daulphin de Viennoys</term>, <term n="conte de Valentinoys et de Dioys :Éléments complémentaires de la titulature delphinale à compter de 1419, date à laquelle le Valentinois (région de Valence) et une partie du Diois (région de Die) sont rattachés au Dauphiné ; ces terres correspondaient à peu près à la partie de l’actuel département de la Drôme qui ne relevait pas à l’origine du Dauphiné." >conte de Valentinoys et de Dioys</term>, </l>
           <l>a n<ex>ost</ex>re amé <ex>et</ex> feal Girault Aymar,</l>
           <l>escuier, seigneur de <term n="Granhan : Grignan (Drôme, ch.-l. cant.)." >Granhan</term>, salut et dilection.</l>
-          <l>Comme par l&#x2019;<term n="accort et traictié : L&#x2019;échange dont il va être question a été conclu le 25 mai (E. Pilot de Thorey, Catalogue des actes du dauphin Louis II…, Grenoble, 1899-1911, n° 455, qui ignore le présent acte)." >accort et traictié</term> fait entre nous, d&#x2019;une part, et vous, d&#x2019;aut<ex>re</ex>,</l>
-          <l>sur le fait de l&#x2019;eschange de la place, terre et seigneurie de
-            <term n="Grillen : Grillon, aujourd&#x2019;hui dans le Vaucluse (cant. Valréas), est à 5 km au sud-est de Grignan. Le dauphin Louis s&#x2019;était engagé dès le 13 mai à remettre la seigneurie au pape." >Grillen</term>
+          <l>Comme par l’<term n="accort et traictié : L’échange dont il va être question a été conclu le 25 mai (E. Pilot de Thorey, Catalogue des actes du dauphin Louis II…, Grenoble, 1899-1911, n° 455, qui ignore le présent acte)." >accort et traictié</term> fait entre nous, d’une part, et vous, d’aut<ex>re</ex>,</l>
+          <l>sur le fait de l’eschange de la place, terre et seigneurie de
+            <term n="Grillen : Grillon, aujourd’hui dans le Vaucluse (cant. Valréas), est à 5 km au sud-est de Grignan. Le dauphin Louis s’était engagé dès le 13 mai à remettre la seigneurie au pape." >Grillen</term>
             <term n="a la terre : Comprendre « avec la terre ».">a la terre</term></l>
           <l><ex>et</ex> seigneurie de <term n="Marsenne : Marsanne (Drôme, ch.-l. cant.).">Marsenne</term>
             <ex>et</ex> la moitié du</l>
@@ -74,8 +74,8 @@
           <l>savoir vous faisons que, nous confians a plain de la loyauté,</l>
           <l>souffisance <ex>et</ex> bonne preudomie de n<ex>ost</ex>re amé
             <ex>et</ex> feal</l>
-          <l>escuier d&#x2019;escuierie <term n="Hugues de Verdun : Personnage non retrouvé ; mais plus tard une lettre du roi Louis XI (éd. J. Vaesen, t. III, p. 1) cite un « Jeannot de Sainte-Camelle », écuyer d&#x2019;écurie du roi, implanté à Montpellier. On peut donc identifier ici Verdun avec Verdun-en-Lauragais (Aude, cant. Castelnaudary)." >Hugues de Verdun</term>,</l>
-          <l>seigneur de <term n="Sainte Camelle : Sainte-Camelle (Aude, cant. Salles-sur-l&#x2019;Hers)." >S<ex>ain</ex>te Camelle</term>, icelui avons co<ex>m</ex>mis et ordonné, co<ex>m</ex>mettons</l>
+          <l>escuier d’escuierie <term n="Hugues de Verdun : Personnage non retrouvé ; mais plus tard une lettre du roi Louis XI (éd. J. Vaesen, t. III, p. 1) cite un « Jeannot de Sainte-Camelle », écuyer d’écurie du roi, implanté à Montpellier. On peut donc identifier ici Verdun avec Verdun-en-Lauragais (Aude, cant. Castelnaudary)." >Hugues de Verdun</term>,</l>
+          <l>seigneur de <term n="Sainte Camelle : Sainte-Camelle (Aude, cant. Salles-sur-l’Hers)." >S<ex>ain</ex>te Camelle</term>, icelui avons co<ex>m</ex>mis et ordonné, co<ex>m</ex>mettons</l>
           <l>et ordonnons par ces p<ex>resen</ex>tes a prandre la possession,</l>
           <l>la garde et joïssance de lad<ex>icte</ex> place de Grillen, pour et</l>
           <l>en n<ex>ost</ex>re nom. Si vous mandons et expressement enjoingnons</l>
@@ -85,11 +85,11 @@
           <l>nous vous en tendrons quitte et deschargé partout ou besoing sera,</l>
           <l>sans aucunem<ex>en</ex>t all<ex>e</ex>r au contraire. Car ainsi</l>
           <l>nous plaist il et voulons estre fait.</l>
-          <l>Donné au <term n="Monteil Aymart : Montélimar (Drôme, ch.-l. cant.). On sait d&#x2019;après les actes que le dauphin Louis y réside au moins du 16 mai au 29 juin 1447." >Monteil Aymart</term>, le XXVIme jour de may, l&#x2019;an de grace</l>
+          <l>Donné au <term n="Monteil Aymart : Montélimar (Drôme, ch.-l. cant.). On sait d’après les actes que le dauphin Louis y réside au moins du 16 mai au 29 juin 1447." >Monteil Aymart</term>, le XXVIme jour de may, l’an de grace</l>
           <l>mil CCCC quarante <ex>et</ex> sept.</l>
           <l>Par monseigneur le daulphin</l>
           <l>en son conseil</l>
-          <l>[signé :] <term n="Bochetel : Jean Bochetel, secrétaire (depuis 1439 au moins) et fidèle serviteur du dauphin Louis, apparaît comme contrôleur des finances du Dauphiné en décembre 1447 ; il sert ensuite le roi Louis XI jusqu&#x2019;à sa mort en 1470." >Bochetel</term> [paraphe]</l>
+          <l>[signé :] <term n="Bochetel : Jean Bochetel, secrétaire (depuis 1439 au moins) et fidèle serviteur du dauphin Louis, apparaît comme contrôleur des finances du Dauphiné en décembre 1447 ; il sert ensuite le roi Louis XI jusqu’à sa mort en 1470." >Bochetel</term> [paraphe]</l>
         </div>
         <div type="regeste">
           <head> </head>
@@ -130,11 +130,11 @@
               <note id="suscription">Suscription</note>
             </seg><seg corresp="adresse">a nostre amé et feal Girault Aymar, escuier, seigneur de Granhan<note id="adresse" >Adresse (placée après la suscription, dénote une infériorité hiérarchique ou sociale</note></seg>, <seg corresp="salut">Salut et dilection<note id="salut">Salut</note></seg>. <seg corresp="expose">Comme par l'accort et traictié fait entre nous, d'une part, et vous, d'autre, sur le fait de l'eschange de la place, terre et seigneurie de Grillen a la terre et seigneurie de Marsenne et la moitié du peage de Laine et des empses de Savasse vous nous doiez presentement delivrer et mettre en noz mains ladicte place, terre et seigneurie de Grillen ensemble toutes les rentes et revenues, ainsi que par le traictié sur ce fait peut apparoir, <note id="expose">Exposé.</note></seg>
               <seg corresp="notification">savoir vous faisons que<note id="notification" >Notification (personnelle)</note></seg>, 
-              <seg corresp="substitut">nous confians a plain de la loyauté, souffisance et bonne preudomie de nostre amé et feal escuie r d'escuierie Hugues de Verdun, seigneur de Sainte Camelle, icelui avons commis et ordonné, commettons et ordonnons par ces presentes a prandre la possession, la garde et joïssance de ladicte place de Grillen, pour et en nostre nom<note id="substitut" >Substitut de Dispositif (verbe-clef : &#x2019;commettons&#x2019;)</note></seg>,                        
+              <seg corresp="substitut">nous confians a plain de la loyauté, souffisance et bonne preudomie de nostre amé et feal escuie r d'escuierie Hugues de Verdun, seigneur de Sainte Camelle, icelui avons commis et ordonné, commettons et ordonnons par ces presentes a prandre la possession, la garde et joïssance de ladicte place de Grillen, pour et en nostre nom<note id="substitut" >Substitut de Dispositif (verbe-clef : ’commettons’)</note></seg>,                        
               <seg corresp="clause_injonctive">Si vous mandons et expressement enjoingnons que icelle place de Grillen avec toute la revenue, ainsi que ledit traictié le contient, vous lui baillez et mettez en ses mains pour et en nostre nom.<note id="clause_injonctive">Clause injonctive</note></seg><seg corresp="Clause_decharge" >Et en ce faisant nous vous en tendrons quitte et deschargé partout ou besoing sera, sans aucunement aller au contraire.<note id="Clause_decharge">Clause de décharge</note></seg>
               <seg corresp="clause_intentionnelle">Car ainsi nous plaist il et voulons estre fait<note id="clause_intentionnelle" >Clause intentionnelle</note></seg>. <seg corresp="date_finale">Donné au Monteil Aymart, le XXVI<sup>me</sup> jour de may, l'an de grace mil CCCC quarante et sept<note id="date_finale">Date finale de lieu et de temps.</note></seg>. <seg corresp="mention" >Par monseigneur le daulphin en son conseil<note id="mention">Mention hors-teneur (mention de commandement)</note></seg>.</p>
             <p>
-              <seg corresp="Nom_signature"><hi rend="b">(Signé :</hi>) Bochetel (<hi rend="b">paraphe</hi>)<note id="Nom_signature">Nom-signature du notaire et sécrétaire responsable de l&#x2019;établissement</note></seg>
+              <seg corresp="Nom_signature"><hi rend="b">(Signé :</hi>) Bochetel (<hi rend="b">paraphe</hi>)<note id="Nom_signature">Nom-signature du notaire et sécrétaire responsable de l’établissement</note></seg>
             </p>
           </div>
         </div>

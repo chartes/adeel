@@ -11,8 +11,8 @@
         <publisher>École nationale des chartes</publisher>
       </publicationStmt>
       <sourceDesc>
-        <p>Orig.&#160;: Florence, Bibliothèque San Lorenzo</p>
-        <p>Fac-sim. ENC&#160;: NF 255 (héliogravure)</p>
+        <p>Orig. : Florence, Bibliothèque San Lorenzo</p>
+        <p>Fac-sim. ENC : NF 255 (héliogravure)</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -20,7 +20,7 @@
   <text>
     <body>
       <div type="facsimile">
-        <p>Note sur la transcription&#160;: les “e” cédillés sont ici rendus par “æ”</p>
+        <p>Note sur la transcription : les “e” cédillés sont ici rendus par “æ”</p>
         <p>
           <seg rend="28,15,463,38">[I]n nomine s<ex>an</ex>c<ex>t</ex>æ <ex>et</ex> individue Trinitatis, Karolus gr<ex>ati</ex>a D<ex>e</ex>i</seg>
           <seg rend="25,41,482,64">rex. Regalis celsitudinis moris e<ex>st</ex> fideles suos donis mul-</seg>
@@ -58,10 +58,10 @@
       </div>
       <div type="text">
         <div type="remarque">
-          <p>Note sur la transcription&#160;: les “e” cédillés sont ici rendus par “æ”</p>
+          <p>Note sur la transcription : les “e” cédillés sont ici rendus par “æ”</p>
         </div>
         <div type="transcription">
-          <l>[I]n nomine sanctæ et individue Trinitatis, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d&#x2019;une campagne contre Pépin II d&#x2019;Aquitaine, qu&#x2019;il a mis en déroute.">Karolus</term> gratia Dei rex.</l>
+          <l>[I]n nomine sanctæ et individue Trinitatis, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d’une campagne contre Pépin II d’Aquitaine, qu’il a mis en déroute.">Karolus</term> gratia Dei rex.</l>
           <l>Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque</l>
           <l>sublimare. Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes,</l>
           <l>libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de</l>
@@ -80,42 +80,42 @@
           <l>eam manus nostræ propriæ subterfirmaviums et anuli nostri inpressione</l>
           <l>sigillari decrevimus.</l>
           <l>Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.</l>
-          <l>Deormarus notarius advicem <term n="L&#x2019;archichancelier Louis, fils du comte du Maine et d&#x2019;une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu&#x2019;à son décès au début de 867.">Hludovici</term> recognovit.</l>
+          <l>Deormarus notarius advicem <term n="L’archichancelier Louis, fils du comte du Maine et d’une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu’à son décès au début de 867.">Hludovici</term> recognovit.</l>
           <l>Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.</l>
           <l>Actum <term n="Castillon-la-Bataille, Gironde, ch-l. cant.">Castellione</term> super fluvium Dornonia. In Dei nomine feliciter. Amen.</l>
         </div>
         <div type="translation">
-          <l>Au nom de la sainte et indivisble Trinité, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d&#x2019;une campagne contre Pépin II d&#x2019;Aquitaine, qu&#x2019;il a mis en déroute.">Charles</term> roi par la grâce de Dieu.</l>
-          <l>Il est de coutume pour la grandeur d&#x2019;honorer et d&#x2019;élever ses fidèles par de multiples dons et par des honneurs durables.</l>
-          <l>C&#x2019;est pourquoi, suivant la coutume de nos parents, les rois nos prédécesseurs,</l>
-          <l>il a plu à notre hauteur d&#x2019;honorer un fidèle du nom de Roclinus</l>
+          <l>Au nom de la sainte et indivisble Trinité, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d’une campagne contre Pépin II d’Aquitaine, qu’il a mis en déroute.">Charles</term> roi par la grâce de Dieu.</l>
+          <l>Il est de coutume pour la grandeur d’honorer et d’élever ses fidèles par de multiples dons et par des honneurs durables.</l>
+          <l>C’est pourquoi, suivant la coutume de nos parents, les rois nos prédécesseurs,</l>
+          <l>il a plu à notre hauteur d’honorer un fidèle du nom de Roclinus</l>
           <l>de certains biens de notre propriété et de les faire passer sous le pouvoir de son droit, par la grâce de</l>
-          <l>notre libéralité. Aussi, sachent l&#x2019;expérience et le zèle de tous nos fidèles,</l>
+          <l>notre libéralité. Aussi, sachent l’expérience et le zèle de tous nos fidèles,</l>
           <l>présents et à venir, que nous concédons à notredit fidèle du nom de Roclinus,</l>
-          <l>en toute propriété des biens qui nous appartiennent, sis au comté d&#x2019;<term n="Avallon, Yonne, ch-l. arr.">Avallon</term>, dans la <hi rend="i">villa</hi></l>
+          <l>en toute propriété des biens qui nous appartiennent, sis au comté d’<term n="Avallon, Yonne, ch-l. arr.">Avallon</term>, dans la <hi rend="i">villa</hi></l>
           <l>appelée <term n="Dornecy, Nièvre, cant. Clamecy.">Dornecy</term>, à savoir viengt-deux manses, sans église, avec les esclaves, terres,</l>
-          <l>vignes, bois, prés qui en dépendent, eaux et cours d&#x2019;eau, et tout ce qui</l>
-          <l>se trouve relever des manses susdits. Ces biens dans tout ce qu&#x2019;ils comprennent</l>
+          <l>vignes, bois, prés qui en dépendent, eaux et cours d’eau, et tout ce qui</l>
+          <l>se trouve relever des manses susdits. Ces biens dans tout ce qu’ils comprennent</l>
           <l>nous les concédons en totue propriété à notre dit et mentionné fidèle Roclinus par cet écrit émanant de notre autorité</l>
           <l>et nous les transférons de notre droit en son droit et pouvoir par donation solennelle, en sorte que, </l>
-          <l>quoi qu&#x2019;il veuille en faire à partir d&#x2019;aujourd&#x2019;hui et par la suite pour son usage et sa convenance,</l>
+          <l>quoi qu’il veuille en faire à partir d’aujourd’hui et par la suite pour son usage et sa convenance,</l>
           <l>en droit de propriétaire, il ait le libre et très ferme pouvoir de le faire en tout.</l>
           <l>Et pour que le présent précepte de notre largesse et donation reçoive une force perpétuelle,</l>
-          <l>nous l&#x2019;avons validé ci-dessous de notre propre main, et ordonné de le faire sceller de l&#x2019;impression de</l>
+          <l>nous l’avons validé ci-dessous de notre propre main, et ordonné de le faire sceller de l’impression de</l>
           <l>notre anneau.</l>
           <l>Seing de Charles (<hi rend="i">monogramme</hi>) roi très glorieux.</l>
-          <l>Deormarus, notaire, en place de <term n="L&#x2019;archichancelier Louis, fils du comte du Maine et d&#x2019;une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu&#x2019;à son décès au début de 867.">Louis</term>, a reconnu.</l>
+          <l>Deormarus, notaire, en place de <term n="L’archichancelier Louis, fils du comte du Maine et d’une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu’à son décès au début de 867.">Louis</term>, a reconnu.</l>
           <l>Donné la veille des calendes de septembre, indication V<hi rend="sup">e</hi>, III<hi rend="sup">e</hi> année du règne du glorieux roi Charles.</l>
           <l>Fait à <term n="Castillon-la-Bataille, Gironde, ch-l. cant.">Castillon</term> sur le fleuve Dordogne. Au nom de Dieu dans la félicité. Amen.</l>
         </div>
         <div type="commentaire">
           <head>Datation</head>
-          <p>Les actes royaux connus par copie et antérieurs à l&#x2019;adoption de l&#x2019;année de l&#x2019;Incarnation vers 970 posent un problème délicat de datation&#160;: les règles de l&#x2019;onomastique royale excluent la précision de l&#x2019;ordinal à côté du nom personnel, et les années sont exprimées en années de règne. c&#x2019;est donc un mélange d&#x2019;indices diplomatiques et historiques qui oriente vers l&#x2019;identification du souverain. La seule suscription exclut d&#x2019;emblée Charle[magne], à commencer par l&#x2019;absence de <hi rend="i">Francorum</hi> dans le titre royal. Cette absence renvoie à des moments où le "royaume des Francs" est partagé entre plusieurs rois, dans le cas présent au règne de Charles [II] le Chauve ou de Charles [III] le Simple avant 911 et sa mainmise sur la "Lorraine". Des considérations historiques excluent ce dernier au profit de Charles le Chauve&#160;: concordance de la date et de la présence au sud (une campagne militaire contre Pépin d&#x2019;Aquitaine), identification du personnel de chancellerie... Une fois Charles le Chauve retenu, la date est facile à convertir, puisque ses années de règne sont décomptées à partir du 21 juin 840, lendemain de la mort de Louis le Pieux. La 3<hi rend="sup">e</hi> année allant du 21 juin 842 au 20 juin 843, nous sommes la veille du 1<hi rend="sup">er</hi> septembre (31 août) 842, indication qui concorde avec celle de l&#x2019;indiction 5<hi rend="sup">e</hi> (un élément souvent mal calculé à la chancellerie du roi).</p>
+          <p>Les actes royaux connus par copie et antérieurs à l’adoption de l’année de l’Incarnation vers 970 posent un problème délicat de datation : les règles de l’onomastique royale excluent la précision de l’ordinal à côté du nom personnel, et les années sont exprimées en années de règne. c’est donc un mélange d’indices diplomatiques et historiques qui oriente vers l’identification du souverain. La seule suscription exclut d’emblée Charle[magne], à commencer par l’absence de <hi rend="i">Francorum</hi> dans le titre royal. Cette absence renvoie à des moments où le "royaume des Francs" est partagé entre plusieurs rois, dans le cas présent au règne de Charles [II] le Chauve ou de Charles [III] le Simple avant 911 et sa mainmise sur la "Lorraine". Des considérations historiques excluent ce dernier au profit de Charles le Chauve : concordance de la date et de la présence au sud (une campagne militaire contre Pépin d’Aquitaine), identification du personnel de chancellerie... Une fois Charles le Chauve retenu, la date est facile à convertir, puisque ses années de règne sont décomptées à partir du 21 juin 840, lendemain de la mort de Louis le Pieux. La 3<hi rend="sup">e</hi> année allant du 21 juin 842 au 20 juin 843, nous sommes la veille du 1<hi rend="sup">er</hi> septembre (31 août) 842, indication qui concorde avec celle de l’indiction 5<hi rend="sup">e</hi> (un élément souvent mal calculé à la chancellerie du roi).</p>
         </div>
         <div type="regeste">
           <head>842, 31 août. - Castillon[-la-Bataille].</head>
-          <p>Charles [II le Chauve] donne à son fidèle Roclinus, en toute propriété, viengt-deux manses, sans église, et leurs dépendances, dans la <hi rend="i">villa</hi> de Dornecy, au comté d&#x2019;Avallon.</p>
-          <p>N.B.&#160;: L&#x2019;acte est édité par Georges Tessier, <hi rend="i">Recueil des actes de Charles II le Chauve</hi>, t.I (Paris, 1943), n<hi rend="sup">o</hi> 11.</p>
+          <p>Charles [II le Chauve] donne à son fidèle Roclinus, en toute propriété, viengt-deux manses, sans église, et leurs dépendances, dans la <hi rend="i">villa</hi> de Dornecy, au comté d’Avallon.</p>
+          <p>N.B. : L’acte est édité par Georges Tessier, <hi rend="i">Recueil des actes de Charles II le Chauve</hi>, t.I (Paris, 1943), n<hi rend="sup">o</hi> 11.</p>
         </div>
       </div>
       <div type="diplomatic">
@@ -123,20 +123,20 @@
         <div>
           <head>Remarques sur la copie</head>
           <div>
-            <p>Le document sous examen est à l&#x2019;évidence une copie, intégrée à un recueil (l&#x2019;acte ici présenté fait suite à un diplôme du roi Eudes, immédiatement reconnaissable au monogramme et au nom de son notaire Throannus). L&#x2019;extrait ne suffit pas à identifier mieux la source, selon toute vraisemblance le cartulaire d&#x2019;une maison religieuse qui avait, à un moment inconnu entre l&#x2019;acte royal et la compilation du cartulaire, acquis le bien et en même temps l&#x2019;acte, devenu dès lors, dans son chartrier, un <hi rend="i">munimen</hi>.</p>
-            <p>L&#x2019;édition de Georges Tessier permet aussitôt de retrouver la source : un cartulaire de l&#x2019;abbaye bourguignonne de Vézelay, conservé à la bibliothèque S. Lorenzo à Florence, depuis au moins le XVII<hi rend="sup">e</hi> siècle puisque il figure déjà dans le <hi rend="i">Catalogus codicum latinorum Bibliothecae Mediceae Laurentianae de Bandini</hi>.</p>
-            <p>Si le copiste n&#x2019;a pas rendu l&#x2019;aspect d’origine de l&#x2019;acte (la souscription royale, la récognition de chancellerie, la formule de date devaient y constituer autant d&#x2019;alinéas), il a employé quelques majuscules en tête de phrase, qui délimitent en quelque sorte des paragraphes, très pertinemment découpés (initiale, début de la notification, début de la corroboration, début de la récognition de chancellerie). Il manque la première, réservée sans aucun doute pour une initiale ornée qui n&#x2019;a finalement pas été portée. Comme pour l’acte précédent, le copiste a reproduit le monogramme royal, senti comme partie intégrante du texte et comme signe de validation très fort. C&#x2019;est sous ce seul aspect que l&#x2019;on peut qualifier la copie de «&#160;copie figurée&#160;».</p>
-            <p>L&#x2019;écriture, typique du XII<hi rend="sup">e</hi> siècle, est très régulière et très lisible. Les mots sont parfaitement séparés, même si, de manière caractéristique, certains mots-outils restent soudés au mot qu&#x2019;ils complètent, par exemple la préposition <hi rend="i">in</hi>. Les lettres sont encore très rondes. Le copiste emploie déjà le “s” rond et le “d” oncial en fin de mot, gardant le “s” plongeant et le “d” droit pour le reste. Les “n” et les “u” sont clairement distingués. Les empâtements en haut des hastes ou des jambages, causés par une pression sur la plume, sont très visibles. On peut relever quelques archaïsmes comme les “r” plongeants (le second <hi rend="i">honorare</hi>, bas de la p. de gauche), et les “e” cédillés, qui ne sont pas systématiques (et ne peuvent venir de l&#x2019;original carolingien).</p>
-            <p>La ponctuation est très bien marquée avec des points placés en fin de phrase ou employés comme des sortes de virgules fortes. Le scribe utilise deux points et une virgule pour séparer la fin du texte du protocole final, ainsi qu&#x2019;en fin d’acte. Il montre un vrai souci de clarté et d’organisation. Non moins caractéristique d’un souci de faciliter la lecture et la consultation, qui se constate souvent dans les cartulaires anciens, les abréviations sont relativement peu nombreuses. Ce sont surtout des tildes remplaçant une nasale, des p barrés, outre quelques abréviations des plus courantes.</p>
-            <p>La copie du cartulaire est le seul témoin conservé du diplôme de 842. Il est donc impossible d&#x2019;étudier en détail les distorsions qu&#x2019;elle a fait subir au texte. On le devine à l&#x2019;emploi du mot <hi rend="i">actoritas</hi>, car c&#x2019;est bien d&#x2019;<hi rend="i">auctoritas</hi> que parlent couramment les préceptes carolingiens ; la substitution est favorisée par le fréquent glissement <hi rend="i">auctor/actor</hi> du XI<hi rend="sup">e</hi> au XIII<hi rend="sup">e</hi> siècle.</p>
+            <p>Le document sous examen est à l’évidence une copie, intégrée à un recueil (l’acte ici présenté fait suite à un diplôme du roi Eudes, immédiatement reconnaissable au monogramme et au nom de son notaire Throannus). L’extrait ne suffit pas à identifier mieux la source, selon toute vraisemblance le cartulaire d’une maison religieuse qui avait, à un moment inconnu entre l’acte royal et la compilation du cartulaire, acquis le bien et en même temps l’acte, devenu dès lors, dans son chartrier, un <hi rend="i">munimen</hi>.</p>
+            <p>L’édition de Georges Tessier permet aussitôt de retrouver la source : un cartulaire de l’abbaye bourguignonne de Vézelay, conservé à la bibliothèque S. Lorenzo à Florence, depuis au moins le XVII<hi rend="sup">e</hi> siècle puisque il figure déjà dans le <hi rend="i">Catalogus codicum latinorum Bibliothecae Mediceae Laurentianae de Bandini</hi>.</p>
+            <p>Si le copiste n’a pas rendu l’aspect d’origine de l’acte (la souscription royale, la récognition de chancellerie, la formule de date devaient y constituer autant d’alinéas), il a employé quelques majuscules en tête de phrase, qui délimitent en quelque sorte des paragraphes, très pertinemment découpés (initiale, début de la notification, début de la corroboration, début de la récognition de chancellerie). Il manque la première, réservée sans aucun doute pour une initiale ornée qui n’a finalement pas été portée. Comme pour l’acte précédent, le copiste a reproduit le monogramme royal, senti comme partie intégrante du texte et comme signe de validation très fort. C’est sous ce seul aspect que l’on peut qualifier la copie de « copie figurée ».</p>
+            <p>L’écriture, typique du XII<hi rend="sup">e</hi> siècle, est très régulière et très lisible. Les mots sont parfaitement séparés, même si, de manière caractéristique, certains mots-outils restent soudés au mot qu’ils complètent, par exemple la préposition <hi rend="i">in</hi>. Les lettres sont encore très rondes. Le copiste emploie déjà le “s” rond et le “d” oncial en fin de mot, gardant le “s” plongeant et le “d” droit pour le reste. Les “n” et les “u” sont clairement distingués. Les empâtements en haut des hastes ou des jambages, causés par une pression sur la plume, sont très visibles. On peut relever quelques archaïsmes comme les “r” plongeants (le second <hi rend="i">honorare</hi>, bas de la p. de gauche), et les “e” cédillés, qui ne sont pas systématiques (et ne peuvent venir de l’original carolingien).</p>
+            <p>La ponctuation est très bien marquée avec des points placés en fin de phrase ou employés comme des sortes de virgules fortes. Le scribe utilise deux points et une virgule pour séparer la fin du texte du protocole final, ainsi qu’en fin d’acte. Il montre un vrai souci de clarté et d’organisation. Non moins caractéristique d’un souci de faciliter la lecture et la consultation, qui se constate souvent dans les cartulaires anciens, les abréviations sont relativement peu nombreuses. Ce sont surtout des tildes remplaçant une nasale, des p barrés, outre quelques abréviations des plus courantes.</p>
+            <p>La copie du cartulaire est le seul témoin conservé du diplôme de 842. Il est donc impossible d’étudier en détail les distorsions qu’elle a fait subir au texte. On le devine à l’emploi du mot <hi rend="i">actoritas</hi>, car c’est bien d’<hi rend="i">auctoritas</hi> que parlent couramment les préceptes carolingiens ; la substitution est favorisée par le fréquent glissement <hi rend="i">auctor/actor</hi> du XI<hi rend="sup">e</hi> au XIII<hi rend="sup">e</hi> siècle.</p>
           </div>
         </div>
         <div>
           <head>Langue et style</head>
           <div>
-            <p>La langue est dans la droite ligne des diplômes de Louis le Pieux, où elle s&#x2019;est forgé un profil original, sous l&#x2019;action conjointe des réalisations de la “Renaissance carolingienne” et de la pompeuse exaltation de la majesté impériale. Le fond du présent acte est si modeste et si simple que les ressorts stylistiques du diplôme carolingien y apparaissent, si l&#x2019;on peut dire, dans leur pureté, en même temps que dans leur autorité empesée.</p>
-            <p>Le rédacteur use de figures de rhétorique courantes, telles la <hi rend="i">figura etymologica</hi> «&#160;honoribus honorare&#160;» et surtout les métaphores renvoyant au souverain («&#160;celsitudo nostra&#160;») ou à ses fidèles («&#160;industria fidelium&#160;») comme à ses actes («&#160;auctoritas nostra&#160;»). Le formulaire le plus stéréotypé contribue de son côté à la validité du texte, ainsi dans la formule de pertinence archi-courante «&#160;cum mancipiis, terris…&#160;», adaptée au juste à la situation présente par la mention «&#160;sine ecclesia&#160;».</p>
-            <p>Tout aussi normalement, mais en sens inverse, contrairement à ses successeurs des X<hi rend="sup">e</hi>-XI<hi rend="sup">e</hi> siècles, le rédacteur ne se soucie guère de raffiner l&#x2019;expression du préambule, limité à un sec rappel de motif (nécessité de réchauffer les fidélités, ailleurs de faire des dons aux églises). Et, surtout, le texte procède d&#x2019;un assemblage de pièces qui laisse parfois subsister des ruptures fort peu grammaticales de construction : «&#160;Proinde morem parentum… sequentes, libuit celsitudini nostre…&#160;»</p>
+            <p>La langue est dans la droite ligne des diplômes de Louis le Pieux, où elle s’est forgé un profil original, sous l’action conjointe des réalisations de la “Renaissance carolingienne” et de la pompeuse exaltation de la majesté impériale. Le fond du présent acte est si modeste et si simple que les ressorts stylistiques du diplôme carolingien y apparaissent, si l’on peut dire, dans leur pureté, en même temps que dans leur autorité empesée.</p>
+            <p>Le rédacteur use de figures de rhétorique courantes, telles la <hi rend="i">figura etymologica</hi> « honoribus honorare » et surtout les métaphores renvoyant au souverain (« celsitudo nostra ») ou à ses fidèles (« industria fidelium ») comme à ses actes (« auctoritas nostra »). Le formulaire le plus stéréotypé contribue de son côté à la validité du texte, ainsi dans la formule de pertinence archi-courante « cum mancipiis, terris… », adaptée au juste à la situation présente par la mention « sine ecclesia ».</p>
+            <p>Tout aussi normalement, mais en sens inverse, contrairement à ses successeurs des X<hi rend="sup">e</hi>-XI<hi rend="sup">e</hi> siècles, le rédacteur ne se soucie guère de raffiner l’expression du préambule, limité à un sec rappel de motif (nécessité de réchauffer les fidélités, ailleurs de faire des dons aux églises). Et, surtout, le texte procède d’un assemblage de pièces qui laisse parfois subsister des ruptures fort peu grammaticales de construction : « Proinde morem parentum… sequentes, libuit celsitudini nostre… »</p>
           </div>
         </div>
         <div>
@@ -173,8 +173,8 @@
         <div>
           <head>Interprétation</head>
           <div>
-            <p>Trace parmi d’autres, mais peu nombreuses, de donations faites à des fidèles laïques, le document vaut en premier lieu pour nous permettre de rompre le cercle magique des donations aux établissements ecclésiastiques : les rois carolingiens communiquent aussi par l&#x2019;écrit avec des laïques, mais le sortilège est vite reformé puisque, faute de conserver des chartriers laïques, nous restons tributaires des chartriers ecclésiastiques pour les connaître.</p>
-            <p>Le contexte n&#x2019;est pas indifférent, où l&#x2019;on sait que le jeune roi, au pouvoir encore fragile et incertain, a beaucoup dû aux apports de contingents bourguignons dans sa campagne aquitaine. La lecture et l&#x2019;examen diplomatique du texte montrent du reste la volonté de faire un don aussi complet que possible : entier, perpétuel, délibéré (aucune mention ni dans l&#x2019;exposé ni dans la structure diplomatique de la très fréquente <hi rend="i">petitio</hi> faite au souverain).</p>
+            <p>Trace parmi d’autres, mais peu nombreuses, de donations faites à des fidèles laïques, le document vaut en premier lieu pour nous permettre de rompre le cercle magique des donations aux établissements ecclésiastiques : les rois carolingiens communiquent aussi par l’écrit avec des laïques, mais le sortilège est vite reformé puisque, faute de conserver des chartriers laïques, nous restons tributaires des chartriers ecclésiastiques pour les connaître.</p>
+            <p>Le contexte n’est pas indifférent, où l’on sait que le jeune roi, au pouvoir encore fragile et incertain, a beaucoup dû aux apports de contingents bourguignons dans sa campagne aquitaine. La lecture et l’examen diplomatique du texte montrent du reste la volonté de faire un don aussi complet que possible : entier, perpétuel, délibéré (aucune mention ni dans l’exposé ni dans la structure diplomatique de la très fréquente <hi rend="i">petitio</hi> faite au souverain).</p>
             <p>Il reste que, sans fioriture, au degré zéro ou presque du formulaire, le document donne une belle illustration de la structure diplomatique du précepte ordinaire carolingien et un bel indice de sa diffusion dans la pratique du pouvoir royal aux décennies médianes du IX<hi rend="sup">e</hi> siècle — une diffusion dont les aléas ne sauraient être érigés en reflets directs des aléas de la puissance du souverain.</p>
           </div>
         </div>
