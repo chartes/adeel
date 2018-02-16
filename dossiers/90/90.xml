@@ -28,231 +28,70 @@
             </langUsage>
         </profileDesc>
     </teiHeader>
-    <text>
-        <front/>
+    <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
-                    <seg rend="11,14,151,14,346,14,495,22,496,69,13,68" n="poly">IN NOMINE S<ex>AN</ex>C<ex>T</ex>E ET INDIVIDUE
-                        TRINITATIS, AMEN. </seg>
-                    <seg rend="500,20,529,6,740,27,742,78,645,63,563,78,555,78,555,67,537,69,529,82,529,67,515,68,503,83" n="poly"
-                            >Ph<ex>ilippus</ex> D<ex>e</ex>i gr<ex>ati</ex>a Franc<ex>orum</ex> rex.</seg>
-                    <seg rend="15,73,49,71,379,72,381,111,268,107,264,120,262,107,185,110,183,121,178,106,48,103,33,114,9,94" n="poly"
-                        >Noverint univ<ex>er</ex>si presentes parit<ex>er</ex> <ex>et</ex> futuri </seg>
-                    <seg
-                        rend="384,73,497,72,500,88,509,86,516,71,524,71,525,84,539,85,540,71,550,70,555,84,638,67,743,83,743,114,635,109,587,108,576,115,574,109,398,112,389,130,386,125"
-                        n="poly">q<ex>uo</ex>d nos dilecto <ex>et</ex> fideli n<ex>ost</ex>ro Renaldo comiti</seg>
-                    <seg
-                        rend="15,117,40,117,49,106,173,109,184,127,188,113,256,111,263,129,270,112,359,114,360,148,325,150,314,145,281,146,210,147,178,155,167,151,18,150"
-                        n="poly">Bolon<ex>ie</ex> <ex>et</ex> heredib<ex>us</ex> suis dam<ex>us</ex> <ex>et</ex> <ex>con</ex>cedim<ex>us</ex></seg>
-                    <seg
-                        rend="364,120,379,120,386,134,395,133,400,116,566,112,578,120,590,112,750,117,749,150,725,153,645,156,589,150,526,149,510,146,380,150,375,160,361,160"
-                        n="poly">in p<ex>er</ex>petuu<ex>m</ex> comitatu<ex>m</ex> Albemalle cu<ex>m</ex> feodis <ex>et</ex> d<ex>oma</ex>niis</seg>
-                    <seg
-                        rend="16,153,166,155,176,161,200,151,317,150,331,154,354,151,358,163,390,162,390,188,311,187,291,192,290,185,178,187,93,187,78,182,15,184"
-                        n="poly"><ex>et</ex> om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis cit<ex>r</ex>a
-                        forestam de Eaviz, </seg>
-                    <seg
-                        rend="396,156,501,156,510,149,515,155,549,150,596,155,646,162,749,154,750,187,678,193,673,185,627,187,618,196,601,186,572,188,554,197,553,187,483,187,466,194,466,185,423,189,393,187"
-                        n="poly">excepto Arguel <ex>et</ex> feodis <ex>et</ex> p<ex>er</ex>tinentiis
-                        ejusd<ex>em</ex></seg>
-                    <seg
-                        rend="15,191,29,188,78,185,92,194,283,191,291,198,426,191,459,189,462,200,486,190,543,191,543,222,516,226,511,235,504,233,511,218,468,219,464,227,452,228,452,220,422,224,362,222,301,231,281,227,214,220,200,226,188,223,30,226,22,236,11,233,14,222"
-                        n="poly">Arguel. Dam<ex>us</ex> etia<ex>m</ex> et <ex>con</ex>cedim<ex>us</ex> in
-                            p<ex>er</ex>petuu<ex>m</ex> d<ex>i</ex>c<ex>t</ex>o com<ex>iti</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex> suis </seg>
-                    <seg
-                        rend="550,203,574,192,599,191,617,198,630,189,668,189,678,201,749,196,749,232,728,235,726,228,672,231,602,229,550,224"
-                        n="poly">villa<ex>m</ex> S<ex>an</ex>c<ex>t</ex>i Rich<ex>er</ex>ii cum</seg>
-                    <seg
-                        rend="14,241,30,240,33,230,197,232,208,225,308,235,316,232,349,228,351,237,443,235,447,262,304,265,272,272,262,262,193,263,192,275,178,281,169,263,121,277,121,265,90,265,81,276,69,263,66,264,59,272,59,260,14,258"
-                        n="poly">om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis, q<ex>ue</ex> est
-                        int<ex>er</ex> Augu<ex>m</ex> <ex>et</ex> Furcarmont, </seg>
-                    <seg
-                        rend="449,230,463,231,472,222,499,223,501,240,518,240,519,228,571,231,721,236,728,243,750,236,750,267,734,271,726,264,613,261,609,268,598,270,598,263,557,263,533,265,525,275,520,275,518,261,463,261,459,270,451,256"
-                        n="poly">q<ex>ue</ex> fuit Rog<ex>er</ex>i de Mortuomari. Dam<ex>us</ex></seg>
-                    <seg
-                        rend="14,276,29,276,39,262,47,263,59,280,74,282,86,275,115,281,141,279,161,269,174,285,187,285,199,267,217,265,237,278,318,276,318,300,291,313,280,316,275,304,246,304,231,306,216,312,216,303,176,306,164,313,160,304,128,310,114,304,68,304,58,310,43,310,13,295"
-                        n="poly">insup<ex>er</ex> eid<ex>em</ex> com<ex>iti</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex> suis in p<ex>er</ex>p<ex>etuu</ex>m </seg>
-                    <seg
-                        rend="324,277,351,266,387,266,454,271,466,278,524,280,559,267,593,270,596,276,611,274,620,263,631,269,721,268,742,278,756,278,755,306,664,303,643,306,643,300,580,301,551,304,537,302,532,315,523,315,523,302,326,306"
-                        n="poly">castru<ex>m</ex> de Danfront in Passeis cu<ex>m</ex> feodis <ex>et</ex>
-                        d<ex>oma</ex>niis <ex>et</ex></seg>
-                    <seg
-                        rend="13,315,42,317,49,312,61,312,72,308,81,316,153,316,161,314,165,318,186,317,196,307,199,308,207,320,228,309,263,312,282,323,314,311,369,311,369,342,266,341,258,354,251,354,232,348,176,343,83,344,74,352,67,340,12,338"
-                        n="poly">om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis <ex>et</ex> forestam de Andeine. </seg>
-                    <seg
-                        rend="372,309,383,306,517,312,519,317,537,318,548,306,637,307,661,310,749,316,747,340,696,342,694,352,686,359,684,350,683,343,661,347,661,339,600,342,583,349,582,342,516,341,504,345,504,340,387,343,380,355,376,355,369,355,370,349,373,342"
-                        n="poly">Idem aut<ex>em</ex> com<ex>es</ex> nob<ex>is</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex> n<ex>ost</ex>ris quitat</seg>
-                    <seg
-                        rend="12,351,87,354,99,346,179,348,183,355,303,357,312,351,363,349,368,358,380,357,388,350,511,354,506,382,477,383,390,385,374,391,372,380,308,380,299,385,298,380,210,385,202,385,202,380,119,383,56,379,50,392,42,390,31,383,13,373"
-                        n="poly">in p<ex>er</ex>petuu<ex>m</ex> castr<ex>um</ex> de Mortuomari cu<ex>m</ex>
-                            om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis ej<ex>us</ex></seg>
-                    <seg
-                        rend="513,352,513,381,570,380,577,387,588,384,625,384,625,391,681,382,682,377,706,379,708,388,727,378,747,379,748,354,684,359,682,347,675,357"
-                        n="poly"><ex>et</ex> totam t<ex>er</ex>ram Anglicor<ex>um</ex> <ex>et</ex></seg>
-                    <seg rend="12,388,41,392,53,397,239,393,239,422,141,420,136,432,133,418,32,424,11,417" n="poly"
-                        >Normannor<ex>um</ex> qua<ex>m</ex> tenebat </seg>
-                    <seg
-                        rend="244,391,295,388,367,391,370,399,430,392,521,388,682,398,693,381,702,380,711,396,752,397,750,422,711,424,700,438,694,435,691,423,586,423,577,430,577,423,389,423,372,443,373,428,364,424,246,419,241,415"
-                        n="poly"><ex>et</ex> justiciabat p<ex>er</ex> castellu<ex>m</ex> <ex>et</ex> castellania<ex>m</ex> Mortuimaris. H<ex>ec</ex> aut<ex>em</ex></seg>
-                    <seg
-                        rend="13,431,45,428,132,428,136,437,186,429,268,426,319,425,361,426,369,447,386,447,385,466,371,473,371,459,317,464,312,459,234,459,227,466,223,463,221,459,184,460,176,464,173,457,152,458,146,467,138,468,138,456,115,456,110,468,106,455,75,455,73,466,70,456,13,453"
-                        n="poly">om<ex>n</ex>ia que predixim<ex>us</ex> com<ex>iti</ex> Bolon<ex>ie</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex></seg>
-                    <seg
-                        rend="388,436,525,432,546,425,593,435,625,430,659,425,679,428,693,443,705,438,735,425,749,425,748,467,627,468,592,461,588,468,581,458,545,460,536,481,535,460,388,463"
-                        n="poly">ita dam<ex>us</ex> <ex>et</ex> <ex>con</ex>cedim<ex>us</ex> quod ip<ex>s</ex>e <ex>et</ex> h<ex>er</ex>edes sui a
-                            nob<ex>is</ex></seg>
-                    <seg
-                        rend="10,468,31,457,66,461,75,470,97,461,110,473,165,471,173,461,177,469,227,468,234,461,273,468,273,497,107,495,63,499,45,492,32,499,29,491,11,488"
-                        n="poly"><ex>et</ex> h<ex>er</ex>edib<ex>us</ex> n<ex>ost</ex>ris ea tenebu<ex>n</ex>t
-                        in feodu<ex>m</ex></seg>
-                    <seg
-                        rend="275,480,292,462,325,478,362,462,369,482,412,465,479,475,530,463,534,490,596,466,665,472,751,472,750,508,587,504,583,511,578,504,382,502,353,505,344,512,335,501,304,507,294,504,291,502,275,495"
-                        n="poly"><ex>et</ex> ho<ex>m</ex>i<ex>n</ex>agiu<ex>m</ex> ligiu<ex>m</ex>, faciendo
-                        tale s<ex>er</ex>vitiu<ex>m</ex> q<ex>u</ex>ale feoda illa debent.</seg>
-                    <seg
-                        rend="6,495,26,495,33,504,191,497,290,503,303,511,327,513,327,537,250,537,240,541,224,535,180,531,110,535,83,529,30,532,26,537,11,540,7,538,2,510"
-                        n="poly">Ip<ex>s</ex>e aut<ex>em</ex> com<ex>es</ex> de om<ex>n</ex>ib<ex>us</ex>
-                            suprad<ex>i</ex>c<ex>t</ex>is fecit</seg>
-                    <seg
-                        rend="329,523,354,507,453,505,585,515,615,510,752,517,751,545,707,550,700,559,683,549,604,548,589,551,588,543,568,545,527,549,470,544,444,555,416,543,384,549,375,546,331,536"
-                        n="poly">nob<ex>is</ex> ho<ex>m</ex>i<ex>n</ex>agiu<ex>m</ex> ligiu<ex>m</ex>
-                            cont<ex>r</ex>a om<ex>n</ex>es ho<ex>m</ex>i<ex>n</ex>es. Q<ex>uo</ex>d ut
-                            p<ex>er</ex>petuu<ex>m</ex></seg>
-                    <seg
-                        rend="13,548,40,534,82,532,114,540,175,534,247,547,292,539,371,551,412,558,473,558,471,581,365,581,358,591,353,580,311,580,283,587,280,574,250,575,238,585,223,579,150,578,56,573,15,567"
-                        n="poly">robur obtineat, presente<ex>m</ex> pagina<ex>m</ex> sigilli n<ex>ost</ex>ri auctoritate </seg>
-                    <seg rend="476,558,570,554,585,548,591,560,686,555,697,563,751,559,751,588,473,589" n="poly"><ex>et</ex> regii
-                            no<ex>min</ex>is karact<ex>er</ex>e inferi<ex>us</ex> a<ex>n</ex>no-</seg>
-                    <seg rend="17,584,68,583,80,576,153,585,151,617,136,617,126,609,80,608,61,617,18,607" n="poly">-tato <ex>con</ex>firmam<ex>us</ex>. </seg>
-                    <seg
-                        rend="156,585,194,581,234,590,251,581,288,597,350,586,357,596,368,586,579,596,623,592,743,599,742,631,726,631,715,639,713,627,657,628,650,634,640,640,629,637,628,630,501,620,489,628,484,623,458,627,427,622,425,633,412,640,411,623,368,623,362,640,355,637,355,622,276,618,264,625,259,617,211,615,210,623,195,626,195,615,156,612"
-                        n="poly">Act<ex>um</ex> Parisius, anno ab Incarn<ex>atione</ex> D<ex>omi</ex>ni M˚ CC˚ quarto,
-                        regni v<ex>er</ex>o n<ex>ost</ex>ri</seg>
-                    <seg rend="17,620,99,621,114,613,132,623,188,623,192,633,207,632,206,651,172,651,159,659,156,648,18,644" n="poly">anno
-                        vicesimo sexto, </seg>
-                    <seg
-                        rend="210,629,231,618,254,633,279,620,347,626,348,637,364,643,372,630,408,631,410,642,434,631,491,632,502,623,621,635,621,638,644,642,696,635,719,643,728,634,745,635,745,668,717,669,710,678,709,668,656,667,644,676,632,678,630,674,630,665,529,662,525,675,517,680,514,662,442,661,430,669,422,668,421,657,403,657,397,668,393,659,325,655,321,667,318,654,215,649"
-                        n="poly">astantib<ex>us</ex> in palatio n<ex>ost</ex>ro q<ex>u</ex>or<ex>um</ex>
-                            no<ex>m</ex>i<ex>n</ex>a suppo<ex>s</ex>ita sunt <ex>et</ex> signa.
-                        Dapif<ex>er</ex>o</seg>
-                    <seg rend="20,655,43,654,51,647,59,647,162,661,192,655,267,656,267,687,128,689,96,692,18,677" n="poly">nullo.
-                            Sign<ex>um</ex> Guid<ex>onis</ex> butic<ex>u</ex>l<ex>arii</ex></seg>
-                    <seg
-                        rend="271,664,314,665,320,670,328,664,345,659,396,671,510,673,514,683,529,678,531,670,625,674,633,682,662,671,702,673,713,684,720,681,744,681,745,707,686,710,563,707,476,703,469,709,462,709,462,703,426,702,415,708,407,707,404,698,292,696,288,700,281,702,273,698,271,686"
-                        n="poly">S<ex>ignum</ex> Math<ex>e</ex>i camer<ex>arii</ex>. S<ex>ignum</ex> Droconis
-                            constab<ex>u</ex>larii.</seg>
-                    <seg rend="21,694,32,762,217,770,217,751,57,740,37,683" n="poly">Data vacante <ex>
-                            <hi rend="i">monogramme</hi>
+                    <seg rend="11,14,151,14,346,14,495,22,496,69,13,68" n="poly">IN NOMINE S<ex>AN</ex>C<ex>T</ex>E ET INDIVIDUE TRINITATIS, AMEN.</seg>
+                    <seg rend="500,20,529,6,740,27,742,78,645,63,563,78,555,78,555,67,537,69,529,82,529,67,515,68,503,83" n="poly" >Ph<ex>ilippus</ex> D<ex>e</ex>i gr<ex>ati</ex>a Franc<ex>orum</ex> rex.</seg>
+                    <seg rend="15,73,49,71,379,72,381,111,268,107,264,120,262,107,185,110,183,121,178,106,48,103,33,114,9,94" n="poly" >Noverint univ<ex>er</ex>si presentes parit<ex>er</ex> <ex>et</ex> futuri</seg>
+                    <seg rend="384,73,497,72,500,88,509,86,516,71,524,71,525,84,539,85,540,71,550,70,555,84,638,67,743,83,743,114,635,109,587,108,576,115,574,109,398,112,389,130,386,125" n="poly">q<ex>uo</ex>d nos dilecto <ex>et</ex> fideli n<ex>ost</ex>ro Renaldo comiti</seg>
+                    <seg rend="15,117,40,117,49,106,173,109,184,127,188,113,256,111,263,129,270,112,359,114,360,148,325,150,314,145,281,146,210,147,178,155,167,151,18,150" n="poly">Bolon<ex>ie</ex> <ex>et</ex> heredib<ex>us</ex> suis dam<ex>us</ex> <ex>et</ex> <ex>con</ex>cedim<ex>us</ex></seg>
+                    <seg rend="364,120,379,120,386,134,395,133,400,116,566,112,578,120,590,112,750,117,749,150,725,153,645,156,589,150,526,149,510,146,380,150,375,160,361,160" n="poly">in p<ex>er</ex>petuu<ex>m</ex> comitatu<ex>m</ex> Albemalle cu<ex>m</ex> feodis <ex>et</ex> d<ex>oma</ex>niis</seg>
+                    <seg rend="16,153,166,155,176,161,200,151,317,150,331,154,354,151,358,163,390,162,390,188,311,187,291,192,290,185,178,187,93,187,78,182,15,184" n="poly"><ex>et</ex> om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis cit<ex>r</ex>a forestam de Eaviz,</seg>
+                    <seg rend="396,156,501,156,510,149,515,155,549,150,596,155,646,162,749,154,750,187,678,193,673,185,627,187,618,196,601,186,572,188,554,197,553,187,483,187,466,194,466,185,423,189,393,187" n="poly">excepto Arguel <ex>et</ex> feodis <ex>et</ex> p<ex>er</ex>tinentiis ejusd<ex>em</ex></seg>
+                    <seg rend="15,191,29,188,78,185,92,194,283,191,291,198,426,191,459,189,462,200,486,190,543,191,543,222,516,226,511,235,504,233,511,218,468,219,464,227,452,228,452,220,422,224,362,222,301,231,281,227,214,220,200,226,188,223,30,226,22,236,11,233,14,222" n="poly">Arguel. Dam<ex>us</ex> etia<ex>m</ex> et <ex>con</ex>cedim<ex>us</ex> in p<ex>er</ex>petuu<ex>m</ex> d<ex>i</ex>c<ex>t</ex>o com<ex>iti</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex> suis</seg>
+                    <seg rend="550,203,574,192,599,191,617,198,630,189,668,189,678,201,749,196,749,232,728,235,726,228,672,231,602,229,550,224" n="poly">villa<ex>m</ex> S<ex>an</ex>c<ex>t</ex>i Rich<ex>er</ex>ii cum</seg>
+                    <seg rend="14,241,30,240,33,230,197,232,208,225,308,235,316,232,349,228,351,237,443,235,447,262,304,265,272,272,262,262,193,263,192,275,178,281,169,263,121,277,121,265,90,265,81,276,69,263,66,264,59,272,59,260,14,258" n="poly">om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis, q<ex>ue</ex> est int<ex>er</ex> Augu<ex>m</ex> <ex>et</ex> Furcarmont,</seg>
+                    <seg rend="449,230,463,231,472,222,499,223,501,240,518,240,519,228,571,231,721,236,728,243,750,236,750,267,734,271,726,264,613,261,609,268,598,270,598,263,557,263,533,265,525,275,520,275,518,261,463,261,459,270,451,256" n="poly">q<ex>ue</ex> fuit Rog<ex>er</ex>i de Mortuomari. Dam<ex>us</ex></seg>
+                    <seg rend="14,276,29,276,39,262,47,263,59,280,74,282,86,275,115,281,141,279,161,269,174,285,187,285,199,267,217,265,237,278,318,276,318,300,291,313,280,316,275,304,246,304,231,306,216,312,216,303,176,306,164,313,160,304,128,310,114,304,68,304,58,310,43,310,13,295" n="poly">insup<ex>er</ex> eid<ex>em</ex> com<ex>iti</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex> suis in p<ex>er</ex>p<ex>etuu</ex>m</seg>
+                    <seg rend="324,277,351,266,387,266,454,271,466,278,524,280,559,267,593,270,596,276,611,274,620,263,631,269,721,268,742,278,756,278,755,306,664,303,643,306,643,300,580,301,551,304,537,302,532,315,523,315,523,302,326,306" n="poly">castru<ex>m</ex> de Danfront in Passeis cu<ex>m</ex> feodis <ex>et</ex> d<ex>oma</ex>niis <ex>et</ex></seg>
+                    <seg rend="13,315,42,317,49,312,61,312,72,308,81,316,153,316,161,314,165,318,186,317,196,307,199,308,207,320,228,309,263,312,282,323,314,311,369,311,369,342,266,341,258,354,251,354,232,348,176,343,83,344,74,352,67,340,12,338" n="poly">om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis <ex>et</ex> forestam de Andeine.</seg>
+                    <seg rend="372,309,383,306,517,312,519,317,537,318,548,306,637,307,661,310,749,316,747,340,696,342,694,352,686,359,684,350,683,343,661,347,661,339,600,342,583,349,582,342,516,341,504,345,504,340,387,343,380,355,376,355,369,355,370,349,373,342" n="poly">Idem aut<ex>em</ex> com<ex>es</ex> nob<ex>is</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex> n<ex>ost</ex>ris quitat</seg>
+                    <seg rend="12,351,87,354,99,346,179,348,183,355,303,357,312,351,363,349,368,358,380,357,388,350,511,354,506,382,477,383,390,385,374,391,372,380,308,380,299,385,298,380,210,385,202,385,202,380,119,383,56,379,50,392,42,390,31,383,13,373" n="poly">in p<ex>er</ex>petuu<ex>m</ex> castr<ex>um</ex> de Mortuomari cu<ex>m</ex> om<ex>n</ex>ib<ex>us</ex> p<ex>er</ex>tinentiis ej<ex>us</ex></seg>
+                    <seg rend="513,352,513,381,570,380,577,387,588,384,625,384,625,391,681,382,682,377,706,379,708,388,727,378,747,379,748,354,684,359,682,347,675,357" n="poly"><ex>et</ex> totam t<ex>er</ex>ram Anglicor<ex>um</ex> <ex>et</ex></seg>
+                    <seg rend="12,388,41,392,53,397,239,393,239,422,141,420,136,432,133,418,32,424,11,417" n="poly" >Normannor<ex>um</ex> qua<ex>m</ex> tenebat</seg>
+                    <seg rend="244,391,295,388,367,391,370,399,430,392,521,388,682,398,693,381,702,380,711,396,752,397,750,422,711,424,700,438,694,435,691,423,586,423,577,430,577,423,389,423,372,443,373,428,364,424,246,419,241,415" n="poly"><ex>et</ex> justiciabat p<ex>er</ex> castellu<ex>m</ex> <ex>et</ex> castellania<ex>m</ex> Mortuimaris. H<ex>ec</ex> aut<ex>em</ex></seg>
+                    <seg rend="13,431,45,428,132,428,136,437,186,429,268,426,319,425,361,426,369,447,386,447,385,466,371,473,371,459,317,464,312,459,234,459,227,466,223,463,221,459,184,460,176,464,173,457,152,458,146,467,138,468,138,456,115,456,110,468,106,455,75,455,73,466,70,456,13,453" n="poly">om<ex>n</ex>ia que predixim<ex>us</ex> com<ex>iti</ex> Bolon<ex>ie</ex> <ex>et</ex> h<ex>er</ex>edib<ex>us</ex></seg>
+                    <seg rend="388,436,525,432,546,425,593,435,625,430,659,425,679,428,693,443,705,438,735,425,749,425,748,467,627,468,592,461,588,468,581,458,545,460,536,481,535,460,388,463" n="poly">ita dam<ex>us</ex> <ex>et</ex> <ex>con</ex>cedim<ex>us</ex> quod ip<ex>s</ex>e <ex>et</ex> h<ex>er</ex>edes sui a nob<ex>is</ex></seg>
+                    <seg rend="10,468,31,457,66,461,75,470,97,461,110,473,165,471,173,461,177,469,227,468,234,461,273,468,273,497,107,495,63,499,45,492,32,499,29,491,11,488" n="poly"><ex>et</ex> h<ex>er</ex>edib<ex>us</ex> n<ex>ost</ex>ris ea tenebu<ex>n</ex>t in feodu<ex>m</ex></seg>
+                    <seg rend="275,480,292,462,325,478,362,462,369,482,412,465,479,475,530,463,534,490,596,466,665,472,751,472,750,508,587,504,583,511,578,504,382,502,353,505,344,512,335,501,304,507,294,504,291,502,275,495" n="poly"><ex>et</ex> ho<ex>m</ex>i<ex>n</ex>agiu<ex>m</ex> ligiu<ex>m</ex>, faciendo tale s<ex>er</ex>vitiu<ex>m</ex> q<ex>u</ex>ale feoda illa debent.</seg>
+                    <seg rend="6,495,26,495,33,504,191,497,290,503,303,511,327,513,327,537,250,537,240,541,224,535,180,531,110,535,83,529,30,532,26,537,11,540,7,538,2,510" n="poly">Ip<ex>s</ex>e aut<ex>em</ex> com<ex>es</ex> de om<ex>n</ex>ib<ex>us</ex> suprad<ex>i</ex>c<ex>t</ex>is fecit</seg>
+                    <seg rend="329,523,354,507,453,505,585,515,615,510,752,517,751,545,707,550,700,559,683,549,604,548,589,551,588,543,568,545,527,549,470,544,444,555,416,543,384,549,375,546,331,536" n="poly">nob<ex>is</ex> ho<ex>m</ex>i<ex>n</ex>agiu<ex>m</ex> ligiu<ex>m</ex> cont<ex>r</ex>a om<ex>n</ex>es ho<ex>m</ex>i<ex>n</ex>es. Q<ex>uo</ex>d ut p<ex>er</ex>petuu<ex>m</ex></seg>
+                    <seg rend="13,548,40,534,82,532,114,540,175,534,247,547,292,539,371,551,412,558,473,558,471,581,365,581,358,591,353,580,311,580,283,587,280,574,250,575,238,585,223,579,150,578,56,573,15,567" n="poly">robur obtineat, presente<ex>m</ex> pagina<ex>m</ex> sigilli n<ex>ost</ex>ri auctoritate</seg>
+                    <seg rend="476,558,570,554,585,548,591,560,686,555,697,563,751,559,751,588,473,589" n="poly"><ex>et</ex> regii no<ex>min</ex>is karact<ex>er</ex>e inferi<ex>us</ex> a<ex>n</ex>no-</seg>
+                    <seg rend="17,584,68,583,80,576,153,585,151,617,136,617,126,609,80,608,61,617,18,607" n="poly">-tato <ex>con</ex>firmam<ex>us</ex>.</seg>
+                    <seg rend="156,585,194,581,234,590,251,581,288,597,350,586,357,596,368,586,579,596,623,592,743,599,742,631,726,631,715,639,713,627,657,628,650,634,640,640,629,637,628,630,501,620,489,628,484,623,458,627,427,622,425,633,412,640,411,623,368,623,362,640,355,637,355,622,276,618,264,625,259,617,211,615,210,623,195,626,195,615,156,612" n="poly">Act<ex>um</ex> Parisius, anno ab Incarn<ex>atione</ex> D<ex>omi</ex>ni M˚ CC˚ quarto, regni v<ex>er</ex>o n<ex>ost</ex>ri</seg>
+                    <seg rend="17,620,99,621,114,613,132,623,188,623,192,633,207,632,206,651,172,651,159,659,156,648,18,644" n="poly">anno vicesimo sexto,</seg>
+                    <seg rend="210,629,231,618,254,633,279,620,347,626,348,637,364,643,372,630,408,631,410,642,434,631,491,632,502,623,621,635,621,638,644,642,696,635,719,643,728,634,745,635,745,668,717,669,710,678,709,668,656,667,644,676,632,678,630,674,630,665,529,662,525,675,517,680,514,662,442,661,430,669,422,668,421,657,403,657,397,668,393,659,325,655,321,667,318,654,215,649" n="poly">astantib<ex>us</ex> in palatio n<ex>ost</ex>ro q<ex>u</ex>or<ex>um</ex> no<ex>m</ex>i<ex>n</ex>a suppo<ex>s</ex>ita sunt <ex>et</ex> signa. Dapif<ex>er</ex>o</seg>
+                    <seg rend="20,655,43,654,51,647,59,647,162,661,192,655,267,656,267,687,128,689,96,692,18,677" n="poly">nullo. Sign<ex>um</ex> Guid<ex>onis</ex> butic<ex>u</ex>l<ex>arii</ex></seg>
+                    <seg rend="271,664,314,665,320,670,328,664,345,659,396,671,510,673,514,683,529,678,531,670,625,674,633,682,662,671,702,673,713,684,720,681,744,681,745,707,686,710,563,707,476,703,469,709,462,709,462,703,426,702,415,708,407,707,404,698,292,696,288,700,281,702,273,698,271,686" n="poly">S<ex>ignum</ex> Math<ex>e</ex>i camer<ex>arii</ex>. S<ex>ignum</ex> Droconis constab<ex>u</ex>larii.</seg>
+                    <seg rend="21,694,32,762,217,770,217,751,57,740,37,683" n="poly">Data vacante <ex> <hi rend="i">monogramme</hi>
                         </ex></seg>
                     <seg rend="520,760,731,765,723,804,708,802,703,792,522,782" n="poly">cancellaria,</seg>
-                    <seg rend="20,768,192,777,192,801,96,797,86,806,77,794,35,791,28,801,16,794" n="poly">p<ex>er</ex>
-                        man<ex>um</ex> fr<ex>atr</ex>is Garini.</seg>
+                    <seg rend="20,768,192,777,192,801,96,797,86,806,77,794,35,791,28,801,16,794" n="poly">p<ex>er</ex> man<ex>um</ex> fr<ex>atr</ex>is Garini.</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <p>
-                        <lb/>IN NOMINE SANCTE ET INDIVIDUE TRINITATIS, AMEN. <term n="Philippe Auguste (1180-1223) vient de conquérir la
-                            Normandie sur le roi d’Angleterre Jean sans Terre.">Philippus</term> Dei gratia <lb/> Francorum rex. Noverint
-                        universi presentes pariter et futuri quod nos dilecto et fideli <lb/> nostro <term n="Renaud, fils du comte de
-                            Dammartin(-en-Goëlle), a acquis en 1191 le comté de Boulogne, dont il a enlevé l’héritière. Il hésite à
-                            plusieurs reprises entre la fidélité au Capétien et l’alliance avec ses ennemis ; un nouveau conflit avec le roi
-                            de France sera à l’origine de l’affrontement menant à la bataille de Bouvines.">Renaldo</term> comiti<term
-                            n="Boulogne-sur-Mer (Pas-de-Calais, ch.-l. arr.).">Bolonie</term> et heredibus suis damus et concedimus in
-                        perpetuum <lb/> comitatum <term n="Aumale (Seine-Maritime, ch.-l. cant.).">Albemalle</term> cum feodis et domaniis
-                        et omnibus pertinentiis citra forestam de <lb/>
-                        <term xml:lang="frm" n="Forêt d’Eawy, longue écharpe boisée au SSE de Dieppe, entre Torcy et Saint-Saëns."
-                        >Eaviz</term>, excepto <term xml:lang="frm" n="Argueil (Seine-Maritime, ch.-l. cant.).">Arguel</term> et feodis et
-                        pertinentiis ejusdem <foreign xml:lang="frm">Arguel</foreign>. Damus etiam et concedimus <lb/> in perpetuum dicto
-                        comiti et heredibus suis villam <term n="Saint-Riquier-en-Rivière (Seine-Maritime, cant. Blangy-sur-Bresle).">Sancti
-                            Richerii</term> cum omnibus <lb/> pertinentiis, que est inter <term n="Eu (Seine-Maritime, ch.-l. cant.)."
-                        >Augum</term> et <term n="Foucarmont (Seine-Maritime, cant. Blangy-sur-Bresle).">Furcarmont</term>, que fuit <term
-                            n="Roger de Mortemer, seigneur normand demeuré fidèle à Jean sans Terre ; réfugié en Angleterre, il deviendra la
-                            souche des « Mortimer ».">Rogeri de Mortuomari</term>. Damus <lb/> insuper eidem comiti et heredibus suis in
-                        perpetuum castrum de <term n="Domfront (Orne, ch.-l. cant.). Le pays de Passais occupait environ l’angle NW de
-                            l’actuel département de l’Orne.">Danfront in Passeis</term> cum <lb/> feodis et domaniis et omnibus pertinentiis
-                        et forestam de <term n="Actuelle forêt des Andaines, à l’est de Domfront.">Andeine</term>. Idem autem comes <lb/>
-                        nobis et heredibus nostris quitat in perpetuum castrum de <term n="Mortemer (Seine-Maritime, cant.
-                            Neufchâtel-en-Bray).">Mortuomari</term> cum omnibus <lb/> pertinentiis ejus et totam terram Anglicorum et
-                        Normannorum quam tenebat et justiciabat <lb/> per castellum et castellaniam Mortuimaris. Hec autem omnia que
-                        prediximus comiti <lb/> Bolonie et heredibus ita damus et concedimus quod ipse et heredes sui a nobis et <lb/>
-                        heredibus nostris ea tenebunt in feodum et hominagium <term n="L’hommage lige fait passer le seigneur du fief en
-                            premier avant d’autres éventuels seigneurs.">ligium</term>, faciendo tale servitium <lb/> quale feoda illa
-                        debent. Ipse autem comes de omnibus supradictis fecit nobis hominagium <lb/> ligium contra omnes homines. Quod ut
-                        perpetuum robur obtineat, presentem paginam<lb/> sigilli nostri auctoritate et regii nominis karactere inferius
-                        annotato confirmamus. Actum<lb/> Parisius, anno ab Incarnatione Domini M° CC<hi
-                            rend="exposant">°</hi> quarto, regni vero nostri anno <term n="La conjonction de l’année 1204 (dans le style de
-                            Pâques) et de la 26e année de règne (décomptée à partir du couronnement du 1er novembre 1179) donne la
-                            fourchette [1er novembre 1204-9 avril 1205], qu’il est tentant de réduire au mois de décembre 1204, dont est
-                            daté l’acte symétrique par lequel le comte de Boulogne cède Mortemer au roi.">vicesimo<lb/> sexto</term>,
-                        astantibus in palatio nostro quorum nomina supposita sunt et signa. <term n="Le roi a laissé le sénéchalat vacant
-                            depuis la mort de Thibaud V de Blois en 1191.">Dapifero</term><lb/> nullo. Signum <term n="Guy de Senlis,
-                            bouteiller des années 1180 à 1221.">Guidonis</term> buticularii. Signum <term n="Mathieu III comte de Beaumont,
-                            chambrier de 1180 à 1208.">Mathei</term> camerarii. Signum <term n="Dreu de Mello, connétable de 1193 à 1218."
-                            >Droconis</term> constabularii.<lb/></p>
-                    <p>Data vacante (<hi rend="i">monogramme</hi>) <term n="Le roi a laissé la chancellerie vacante depuis 1185."
-                            >cancellaria</term> per manum fratris <term n="Frère Guérin, qui supervise la rédaction des actes (la formule
-                            Data par manum… Guarini est d’usage courant à compter de 1201/1202), recevra le titre de chancelier de 1223 à
-                            1227.">Garini.</term></p>
+                        <lb/>IN NOMINE SANCTE ET INDIVIDUE TRINITATIS, AMEN. <term n="Philippe Auguste (1180-1223) vient de conquérir la Normandie sur le roi d’Angleterre Jean sans Terre.">Philippus</term> Dei gratia <lb/> Francorum rex. Noverint universi presentes pariter et futuri quod nos dilecto et fideli <lb/> nostro <term n="Renaud, fils du comte de Dammartin(-en-Goëlle), a acquis en 1191 le comté de Boulogne, dont il a enlevé l’héritière. Il hésite à plusieurs reprises entre la fidélité au Capétien et l’alliance avec ses ennemis ; un nouveau conflit avec le roi de France sera à l’origine de l’affrontement menant à la bataille de Bouvines.">Renaldo</term> comiti<term n="Boulogne-sur-Mer (Pas-de-Calais, ch.-l. arr.).">Bolonie</term> et heredibus suis damus et concedimus in perpetuum <lb/> comitatum <term n="Aumale (Seine-Maritime, ch.-l. cant.).">Albemalle</term> cum feodis et domaniis et omnibus pertinentiis citra forestam de <lb/>
+                        <term xml:lang="frm" n="Forêt d’Eawy, longue écharpe boisée au SSE de Dieppe, entre Torcy et Saint-Saëns." >Eaviz</term>, excepto <term xml:lang="frm" n="Argueil (Seine-Maritime, ch.-l. cant.).">Arguel</term> et feodis et pertinentiis ejusdem <foreign xml:lang="frm">Arguel</foreign>. Damus etiam et concedimus <lb/> in perpetuum dicto comiti et heredibus suis villam <term n="Saint-Riquier-en-Rivière (Seine-Maritime, cant. Blangy-sur-Bresle).">Sancti Richerii</term> cum omnibus <lb/> pertinentiis, que est inter <term n="Eu (Seine-Maritime, ch.-l. cant.)." >Augum</term> et <term n="Foucarmont (Seine-Maritime, cant. Blangy-sur-Bresle).">Furcarmont</term>, que fuit <term n="Roger de Mortemer, seigneur normand demeuré fidèle à Jean sans Terre ; réfugié en Angleterre, il deviendra la souche des « Mortimer ».">Rogeri de Mortuomari</term>. Damus <lb/> insuper eidem comiti et heredibus suis in perpetuum castrum de <term n="Domfront (Orne, ch.-l. cant.). Le pays de Passais occupait environ l’angle NW de l’actuel département de l’Orne.">Danfront in Passeis</term> cum <lb/> feodis et domaniis et omnibus pertinentiis et forestam de <term n="Actuelle forêt des Andaines, à l’est de Domfront.">Andeine</term>. Idem autem comes <lb/> nobis et heredibus nostris quitat in perpetuum castrum de <term n="Mortemer (Seine-Maritime, cant. Neufchâtel-en-Bray).">Mortuomari</term> cum omnibus <lb/> pertinentiis ejus et totam terram Anglicorum et Normannorum quam tenebat et justiciabat <lb/> per castellum et castellaniam Mortuimaris. Hec autem omnia que prediximus comiti <lb/> Bolonie et heredibus ita damus et concedimus quod ipse et heredes sui a nobis et <lb/> heredibus nostris ea tenebunt in feodum et hominagium <term n="L’hommage lige fait passer le seigneur du fief en premier avant d’autres éventuels seigneurs.">ligium</term>, faciendo tale servitium <lb/> quale feoda illa debent. Ipse autem comes de omnibus supradictis fecit nobis hominagium <lb/> ligium contra omnes homines. Quod ut perpetuum robur obtineat, presentem paginam<lb/> sigilli nostri auctoritate et regii nominis karactere inferius annotato confirmamus. Actum<lb/> Parisius, anno ab Incarnatione Domini M° CC<hi rend="exposant">°</hi> quarto, regni vero nostri anno <term n="La conjonction de l’année 1204 (dans le style de Pâques) et de la 26e année de règne (décomptée à partir du couronnement du 1er novembre 1179) donne la fourchette [1er novembre 1204-9 avril 1205], qu’il est tentant de réduire au mois de décembre 1204, dont est daté l’acte symétrique par lequel le comte de Boulogne cède Mortemer au roi.">vicesimo<lb/> sexto</term>, astantibus in palatio nostro quorum nomina supposita sunt et signa. <term n="Le roi a laissé le sénéchalat vacant depuis la mort de Thibaud V de Blois en 1191.">Dapifero</term><lb/> nullo. Signum <term n="Guy de Senlis, bouteiller des années 1180 à 1221.">Guidonis</term> buticularii. Signum <term n="Mathieu III comte de Beaumont, chambrier de 1180 à 1208.">Mathei</term> camerarii. Signum <term n="Dreu de Mello, connétable de 1193 à 1218." >Droconis</term> constabularii.<lb/></p>
+                    <p>Data vacante (<hi rend="i">monogramme</hi>) <term n="Le roi a laissé la chancellerie vacante depuis 1185." >cancellaria</term> per manum fratris <term n="Frère Guérin, qui supervise la rédaction des actes (la formule Data par manum… Guarini est d’usage courant à compter de 1201/1202), recevra le titre de chancelier de 1223 à 1227.">Garini.</term></p>
                 </div>
                 <div type="traduction">
                     <p>
-                        <lb/>Au nom de la sainte et indivisible Trinité, amen. <term n="Philippe Auguste (1180-1223) vient de conquérir la
-                            Normandie sur le roi d’Angleterre Jean sans Terre.">Philippe</term>, par la grâce de Dieu roi des <lb/>Francs.
-                        Que tous sachent, présents autant que futurs, que nous donnons et avons concédé <lb/> à perpétuité à notre cher et
-                        fidèle <term n="Renaud, fils du comte de Dammartin(-en-Goëlle), a acquis en 1191 le comté de Boulogne, dont il a
-                            enlevé l’héritière. Il hésite à plusieurs reprises entre la fidélité au Capétien et l’alliance avec ses ennemis
-                            ; un nouveau conflit avec le roi de France sera à l’origine de l’affrontement menant à la bataille de Bouvines."
-                            >Renaud</term>, comte de <term n="Boulogne-sur-Mer (Pas-de-Calais, ch.-l. arr.).">Boulogne</term>, et à ses
-                        héritiers le comté <lb/>d’<term n="Aumale (Seine-Maritime, ch.-l. cant.).">Aumale</term> avec ses fiefs, domaines et
-                        toutes ses dépendances en deçà de la forêt d’<term n="Forêt d’Eawy, longue écharpe boisée au SSE de Dieppe, entre
-                            Torcy et Saint-Saëns.">Eawy</term>, <lb/>excepté <term n="Argueil (Seine-Maritime, ch.-l. cant.)."
-                        >Argueil</term> et les fiefs et dépendances dudit <foreign xml:lang="frm">Argueil</foreign>. Nous donnons aussi et
-                        avons <lb/>concédé à perpétuité audit comte et à ses héritiers le village de <term n="Saint-Riquier-en-Rivière
-                            (Seine-Maritime, cant. Blangy-sur-Bresle).">Saint-Riquier</term> avec toutes <lb/>ses dépendances, qui se trouve
-                        entre <term n="Eu (Seine-Maritime, ch.-l. cant.).">Eu</term> et <term n="Foucarmont (Seine-Maritime, cant.
-                            Blangy-sur-Bresle).">Foucarmont</term>, qui fut à <term n="Roger de Mortemer, seigneur normand demeuré fidèle à
-                            Jean sans Terre ; réfugié en Angleterre, il deviendra la souche des « Mortimer ».">Roger de Mortemer</term>.
-                        <lb/>Nous donnons de plus au même comte et à ses héritiers, à perpétuité, le château de <lb/><term n="Domfront
-                            (Orne, ch.-l. cant.). Le pays de Passais occupait environ l’angle NW de l’actuel département de l’Orne."
-                            >Domfront-en-Passais</term> avec ses fiefs, ses domaines et toutes ses dépendances et la forêt<lb/> d’<term
-                            n="Actuelle forêt des Andaines, à l’est de Domfront.">Andaine</term>. Et en échange ce même comte nous livre à
-                        perpétuité, ainsi qu’à nos héritiers, <lb/>le château de Mortemer avec toutes ses dépendances et toutes les terres
-                        des Anglais et des <lb/>Normands qu’il tenait et où il exerçait la justice au titre du château et de la châtellenie
-                        de <lb/><term n="Mortemer (Seine-Maritime, cant. Neufchâtel-en-Bray).">Mortemer</term>. Et tout ce que nous venons
-                        de dire, nous le donnons et l’avons concédé au <lb/>comte de Boulogne et à ses héritiers de telle sorte que lui et
-                        ses héritiers les tiendront en <lb/>fiefs de nous et nos héritiers, et en prêtant un hommage <term n="L’hommage lige
-                            fait passer le seigneur du fief en premier avant d’autres éventuels seigneurs.">lige</term> ils doivent un
-                        service tel que <lb/>le doivent ces fiefs. Et le comte nous a prêté, quant à tout ce qui précède, un hommage lige
-                        <lb/>valable contre tous les autres hommes. Et pour que cela acquière une force perpétuelle, <lb/>nous avons
-                        confirmé le présent parchemin par l’autorité de notre sceau et par le <lb/>monogramme du nom royal, inscrit
-                        ci-dessous. Fait à Paris, l’an de l’Incarnation du <lb/>Seigneur mille deux cent quatre, <term n="La conjonction de
-                            l’année 1204 (dans le style de Pâques) et de la 26e année de règne (décomptée à partir du couronnement du 1er
-                            novembre 1179) donne la fourchette [1er novembre 1204-9 avril 1205], qu’il est tentant de réduire au mois de
-                            décembre 1204, dont est daté l’acte symétrique par lequel le comte de Boulogne cède Mortemer au roi."
-                            >vingt-sixième</term> année de notre règne. Etaient présents <lb/>dans notre palais ceux dont les noms et seings
-                        sont placés ci-dessous. Pas de <term n="Le roi a laissé le sénéchalat vacant depuis la mort de Thibaud V de Blois en
-                            1191.">sénéchal</term>. <lb/>Seing de <term n="Guy de Senlis, bouteiller des années 1180 à 1221.">Guy</term>,
-                        bouteiller. Seing de <term n="Mathieu III comte de Beaumont, chambrier de 1180 à 1208.">Mathieu</term>, chambrier.
-                        Seing de <term n="Dreu de Mello, connétable de 1193 à 1218.">Dreu</term>, connétable.<lb/></p>
-                    <p>Donné, pendant la vacance (<hi rend="i">monogramme</hi>) de la <term n="Le roi a laissé la chancellerie vacante
-                            depuis 1185.">chancellerie</term>, par la main de frère <term n="Frère Guérin, qui supervise la rédaction des
-                            actes (la formule Data par manum… Guarini est d’usage courant à compter de 1201/1202), recevra le titre de
-                            chancelier de 1223 à 1227.">Guérin</term>.</p>
+                        <lb/>Au nom de la sainte et indivisible Trinité, amen. <term n="Philippe Auguste (1180-1223) vient de conquérir la Normandie sur le roi d’Angleterre Jean sans Terre.">Philippe</term>, par la grâce de Dieu roi des <lb/>Francs. Que tous sachent, présents autant que futurs, que nous donnons et avons concédé <lb/> à perpétuité à notre cher et fidèle <term n="Renaud, fils du comte de Dammartin(-en-Goëlle), a acquis en 1191 le comté de Boulogne, dont il a enlevé l’héritière. Il hésite à plusieurs reprises entre la fidélité au Capétien et l’alliance avec ses ennemis ; un nouveau conflit avec le roi de France sera à l’origine de l’affrontement menant à la bataille de Bouvines." >Renaud</term>, comte de <term n="Boulogne-sur-Mer (Pas-de-Calais, ch.-l. arr.).">Boulogne</term>, et à ses héritiers le comté <lb/>d’<term n="Aumale (Seine-Maritime, ch.-l. cant.).">Aumale</term> avec ses fiefs, domaines et toutes ses dépendances en deçà de la forêt d’<term n="Forêt d’Eawy, longue écharpe boisée au SSE de Dieppe, entre Torcy et Saint-Saëns.">Eawy</term>, <lb/>excepté <term n="Argueil (Seine-Maritime, ch.-l. cant.)." >Argueil</term> et les fiefs et dépendances dudit <foreign xml:lang="frm">Argueil</foreign>. Nous donnons aussi et avons <lb/>concédé à perpétuité audit comte et à ses héritiers le village de <term n="Saint-Riquier-en-Rivière (Seine-Maritime, cant. Blangy-sur-Bresle).">Saint-Riquier</term> avec toutes <lb/>ses dépendances, qui se trouve entre <term n="Eu (Seine-Maritime, ch.-l. cant.).">Eu</term> et <term n="Foucarmont (Seine-Maritime, cant. Blangy-sur-Bresle).">Foucarmont</term>, qui fut à <term n="Roger de Mortemer, seigneur normand demeuré fidèle à Jean sans Terre ; réfugié en Angleterre, il deviendra la souche des « Mortimer ».">Roger de Mortemer</term>.
+                        <lb/>Nous donnons de plus au même comte et à ses héritiers, à perpétuité, le château de <lb/><term n="Domfront (Orne, ch.-l. cant.). Le pays de Passais occupait environ l’angle NW de l’actuel département de l’Orne." >Domfront-en-Passais</term> avec ses fiefs, ses domaines et toutes ses dépendances et la forêt<lb/> d’<term n="Actuelle forêt des Andaines, à l’est de Domfront.">Andaine</term>. Et en échange ce même comte nous livre à perpétuité, ainsi qu’à nos héritiers, <lb/>le château de Mortemer avec toutes ses dépendances et toutes les terres des Anglais et des <lb/>Normands qu’il tenait et où il exerçait la justice au titre du château et de la châtellenie de <lb/><term n="Mortemer (Seine-Maritime, cant. Neufchâtel-en-Bray).">Mortemer</term>. Et tout ce que nous venons de dire, nous le donnons et l’avons concédé au <lb/>comte de Boulogne et à ses héritiers de telle sorte que lui et ses héritiers les tiendront en <lb/>fiefs de nous et nos héritiers, et en prêtant un hommage <term n="L’hommage lige fait passer le seigneur du fief en premier avant d’autres éventuels seigneurs.">lige</term> ils doivent un service tel que <lb/>le doivent ces fiefs. Et le comte nous a prêté, quant à tout ce qui précède, un hommage lige
+                        <lb/>valable contre tous les autres hommes. Et pour que cela acquière une force perpétuelle, <lb/>nous avons confirmé le présent parchemin par l’autorité de notre sceau et par le <lb/>monogramme du nom royal, inscrit ci-dessous. Fait à Paris, l’an de l’Incarnation du <lb/>Seigneur mille deux cent quatre, <term n="La conjonction de l’année 1204 (dans le style de Pâques) et de la 26e année de règne (décomptée à partir du couronnement du 1er novembre 1179) donne la fourchette [1er novembre 1204-9 avril 1205], qu’il est tentant de réduire au mois de décembre 1204, dont est daté l’acte symétrique par lequel le comte de Boulogne cède Mortemer au roi." >vingt-sixième</term> année de notre règne. Etaient présents <lb/>dans notre palais ceux dont les noms et seings sont placés ci-dessous. Pas de <term n="Le roi a laissé le sénéchalat vacant depuis la mort de Thibaud V de Blois en 1191.">sénéchal</term>. <lb/>Seing de <term n="Guy de Senlis, bouteiller des années 1180 à 1221.">Guy</term>, bouteiller. Seing de <term n="Mathieu III comte de Beaumont, chambrier de 1180 à 1208.">Mathieu</term>, chambrier. Seing de <term n="Dreu de Mello, connétable de 1193 à 1218.">Dreu</term>, connétable.<lb/></p>
+                    <p>Donné, pendant la vacance (<hi rend="i">monogramme</hi>) de la <term n="Le roi a laissé la chancellerie vacante depuis 1185.">chancellerie</term>, par la main de frère <term n="Frère Guérin, qui supervise la rédaction des actes (la formule Data par manum… Guarini est d’usage courant à compter de 1201/1202), recevra le titre de chancelier de 1223 à 1227.">Guérin</term>.</p>
                 </div>
                 <div type="regeste">
                     <head>1204, [décembre]. – Paris.</head>
-                    <p>Le roi de France Philippe [Auguste] cède en fief et contre hommage lige à Renaud [de Dammartin], comte de Boulogne,
-                        et à ses descendants le comté d’Aumale et toutes ses dépendances en-deçà de la forêt d’Eawy, sauf la seigneurie
-                        d’Argueil, ainsi que Saint- Riquier[-en-Rivière], ancienne possession de Roger de Mortemer, et le château de
-                        Domfront en Passais avec la forêt des Andaines, en échange du château de Mortemer et des terres des Anglais et des
-                        Normands que le comte tenait au château et dans sa châtellenie.<lb/> N.B. : L’acte est édité par Henri-François
-                        Delaborde et Charles Petit-Dutaillis, <hi rend="i">Recueil des actes de Philippe Auguste</hi>, t. II, Paris,
-                        1943 (<hi rend="i">Chartes et diplômes</hi>), n° 862, p. 450-451.</p>
+                    <p>Le roi de France Philippe [Auguste] cède en fief et contre hommage lige à Renaud [de Dammartin], comte de Boulogne, et à ses descendants le comté d’Aumale et toutes ses dépendances en-deçà de la forêt d’Eawy, sauf la seigneurie d’Argueil, ainsi que Saint- Riquier[-en-Rivière], ancienne possession de Roger de Mortemer, et le château de Domfront en Passais avec la forêt des Andaines, en échange du château de Mortemer et des terres des Anglais et des Normands que le comte tenait au château et dans sa châtellenie.<lb/> N.B. : L’acte est édité par Henri-François Delaborde et Charles Petit-Dutaillis, <hi rend="i">Recueil des actes de Philippe Auguste</hi>, t. II, Paris, 1943 (<hi rend="i">Chartes et diplômes</hi>), n° 862, p. 450-451.</p>
                 </div>
             </div>
-            <div type="commentaire" n="diplomatique">
+            <div type="diplomatic">
                 <head>Commentaire diplomatique</head>
                 <div>
                     <head>Commentaire diplomatique</head>
@@ -260,52 +99,15 @@
                         <p>
                             <figure rend="90/faxexterne.jpg"/>
                        </p>
-                        <p>L’acte a tous les caractères du « diplôme » solennel, même s’il n’est pas des plus impressionnants par la taille
-                            ou l’ornementation : invocation trinitaire en lettres allongées ; suscription royale isolée, sans adresse ni
-                            salut (à l’opposé, donc, du modèle épistolaire de rédaction) ; souscriptions (fictives) des grands officiers ;
-                            monogramme royal, enchâssé désormais non plus dans une formule d’annonce/description (<hi rend="i">Signum
-                                Talis regis</hi>), mais dans une mention de chancellerie que les péripéties de la charge rendent un peu
-                            complexe ; scellement sur lacs de soie. Autant de traits rédactionnels et visuels, jusque dans le mélange de
-                            régularité et de rapidité relative de l’écriture, qui disent que la production, très caractéristique de ces
-                            années, est frappée au coin de la perpétuité et d’une certaine solennité, si ce n’est emphase, tout en demeurant
-                            pragmatique, technique du point de vue juridique (précisions sur le statut des terres, sur le lien féodal),
-                            précise dans ses mots, presque sèche dans son style, typée dans ses formules (ainsi le <hi rend="i"
-                                >dilectus et fidelis</hi>, qui donnera « amé et féal », les formules de pertinence comme <hi rend="i"
-                                >cum feodis et pertinentiis, cum pertinentiis, cum feodis et dominiis et omnibus pertinentiis</hi>). Partout
-                            derrière ces formules, que l’on aurait tort de croire floues ou vagues, se devinent des clercs, des listes, des
-                            enquêtes, auxquels se référer pour connaître l’étendue effective des droits et la substance des services dus :
-                            l’acte n’est en quelque sorte que la partie émergée d’une vaste transaction, le parchemin (la circulation des
-                            parchemins, plutôt, puisque le comte remet au roi un acte symétrique) retenant et consacrant l’échange d’amour
-                            et de foi que l’on tente d’activer.</p>
-                        <p>Le phénomène est ici d’autant plus marqué que l’acte est l’une seulement des pièces d’un dispositif plus large de
-                            faveurs, par lesquelles le roi de France cherche à s’attacher, par des cessions de terres et quelques
-                            arrangements matrimoniaux, le puissant et remuant comte de Boulogne, dont l’aide lui a été précieuse durant la
-                            campagne normande, mais dont les intrigues se sont déjà révélées dangereuses.</p>
-                        <p>Les fiefs ici concédés à Renaud de Boulogne forment trois ensembles, dont les deux premiers sont proches à la
-                            fois l’un de l’autre et de ses possessions boulonnaises (mais le domaine royal les en sépare) : d’une part, la
-                            plus grande partie du comté d’Aumale, « en deçà » (côté boulonnais) de la forêt d’Eawy, et en excluant la
-                            seigneurie d’Argueil, rendue stratégique par la présence d’une forteresse, alors terre du comte de Ponthieu ;
-                            d’autre part, le village de Saint-Riquier-en-Rivière et ses dépendances. Ces deux ensembles se situent au
-                            nord-est de l’actuelle Seine-Maritime. Le roi ajoute un troisième ensemble distinct, dans l’Orne actuelle : le
-                            château de Domfront-en-Passais et la forêt d’Andaine toute proche (à l’est).</p>
-                        <p>On pourrait penser au premier abord qu’il s’agit de céder en fief au comte des terres sans lui laisser le moyen
-                            de développer une domination puissante, territorialement continue. Pourtant, on sait par un autre acte que le
-                            roi venait de lui donner en fief le comté de Mortain, voisin de Domfront, parce que Renaud l’avait pris à Jean
-                            sans Terre durant la campagne normande. Ainsi Philippe Auguste récompense avec largesse un grand feudataire
-                            qu’il a du mal à garder dans sa fidélité, en lui offrant des terres nouvellement conquises plutôt que des fiefs
-                            issus du vieux domaine royal.</p>
-                        <p>La châtellenie de Mortemer, cédée au roi en contrepartie, se trouve à un point stratégique, dominant les routes
-                            de Ponthieu et de Normandie, et c‘est pourquoi elle fait l’objet d’une attention particulière du souverain, au
-                            point que la cession est présentée comme un dédommagement, alors que l’on a sans doute affaire à un don forcé.
-                            En fait Renaud ne possède Mortemer que depuis peu, et l’a acquis par conquête : il doit rétrocéder ces terres au
-                            roi, à qui elles appartiennent de droit. Par ailleurs les terres de Mortemer comprenaient, d’après l’acte de
-                            Renaud, le village de Saint-Riquier-en-Rivière, qu’il conserve donc après avoir livré la châtellenie.</p>
-                        <p>L’acte du comte est normalement entré aux archives du roi dès sa confection ; celui-ci, remis au comte, a plus
-                            tard intégré le chartrier royal, peut-être dès la révolte de Renaud et la confiscation du comté de Boulogne en
-                            1212.</p>
+                        <p>L’acte a tous les caractères du « diplôme » solennel, même s’il n’est pas des plus impressionnants par la taille ou l’ornementation : invocation trinitaire en lettres allongées ; suscription royale isolée, sans adresse ni salut (à l’opposé, donc, du modèle épistolaire de rédaction) ; souscriptions (fictives) des grands officiers ; monogramme royal, enchâssé désormais non plus dans une formule d’annonce/description (<hi rend="i">Signum Talis regis</hi>), mais dans une mention de chancellerie que les péripéties de la charge rendent un peu complexe ; scellement sur lacs de soie. Autant de traits rédactionnels et visuels, jusque dans le mélange de régularité et de rapidité relative de l’écriture, qui disent que la production, très caractéristique de ces années, est frappée au coin de la perpétuité et d’une certaine solennité, si ce n’est emphase, tout en demeurant pragmatique, technique du point de vue juridique (précisions sur le statut des terres, sur le lien féodal), précise dans ses mots, presque sèche dans son style, typée dans ses formules (ainsi le <hi rend="i" >dilectus et fidelis</hi>, qui donnera « amé et féal », les formules de pertinence comme <hi rend="i" >cum feodis et pertinentiis, cum pertinentiis, cum feodis et dominiis et omnibus pertinentiis</hi>). Partout derrière ces formules, que l’on aurait tort de croire floues ou vagues, se devinent des clercs, des listes, des enquêtes, auxquels se référer pour connaître l’étendue effective des droits et la substance des services dus : l’acte n’est en quelque sorte que la partie émergée d’une vaste transaction, le parchemin (la circulation des parchemins, plutôt, puisque le comte remet au roi un acte symétrique) retenant et consacrant l’échange d’amour et de foi que l’on tente d’activer.</p>
+                        <p>Le phénomène est ici d’autant plus marqué que l’acte est l’une seulement des pièces d’un dispositif plus large de faveurs, par lesquelles le roi de France cherche à s’attacher, par des cessions de terres et quelques arrangements matrimoniaux, le puissant et remuant comte de Boulogne, dont l’aide lui a été précieuse durant la campagne normande, mais dont les intrigues se sont déjà révélées dangereuses.</p>
+                        <p>Les fiefs ici concédés à Renaud de Boulogne forment trois ensembles, dont les deux premiers sont proches à la fois l’un de l’autre et de ses possessions boulonnaises (mais le domaine royal les en sépare) : d’une part, la plus grande partie du comté d’Aumale, « en deçà » (côté boulonnais) de la forêt d’Eawy, et en excluant la seigneurie d’Argueil, rendue stratégique par la présence d’une forteresse, alors terre du comte de Ponthieu ; d’autre part, le village de Saint-Riquier-en-Rivière et ses dépendances. Ces deux ensembles se situent au nord-est de l’actuelle Seine-Maritime. Le roi ajoute un troisième ensemble distinct, dans l’Orne actuelle : le château de Domfront-en-Passais et la forêt d’Andaine toute proche (à l’est).</p>
+                        <p>On pourrait penser au premier abord qu’il s’agit de céder en fief au comte des terres sans lui laisser le moyen de développer une domination puissante, territorialement continue. Pourtant, on sait par un autre acte que le roi venait de lui donner en fief le comté de Mortain, voisin de Domfront, parce que Renaud l’avait pris à Jean sans Terre durant la campagne normande. Ainsi Philippe Auguste récompense avec largesse un grand feudataire qu’il a du mal à garder dans sa fidélité, en lui offrant des terres nouvellement conquises plutôt que des fiefs issus du vieux domaine royal.</p>
+                        <p>La châtellenie de Mortemer, cédée au roi en contrepartie, se trouve à un point stratégique, dominant les routes de Ponthieu et de Normandie, et c‘est pourquoi elle fait l’objet d’une attention particulière du souverain, au point que la cession est présentée comme un dédommagement, alors que l’on a sans doute affaire à un don forcé. En fait Renaud ne possède Mortemer que depuis peu, et l’a acquis par conquête : il doit rétrocéder ces terres au roi, à qui elles appartiennent de droit. Par ailleurs les terres de Mortemer comprenaient, d’après l’acte de Renaud, le village de Saint-Riquier-en-Rivière, qu’il conserve donc après avoir livré la châtellenie.</p>
+                        <p>L’acte du comte est normalement entré aux archives du roi dès sa confection ; celui-ci, remis au comte, a plus tard intégré le chartrier royal, peut-être dès la révolte de Renaud et la confiscation du comté de Boulogne en 1212.</p>
                     </div>
                 </div>
             </div>
         </body>
     </text>
-</TEI>
+</TEI>

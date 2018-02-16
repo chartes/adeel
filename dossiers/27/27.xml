@@ -18,7 +18,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 				<p>
 					<seg rend="28,51,571,71">Nov<ex>er</ex>int univ<ex>er</ex>si
 						presentes litt<ex>er</ex>as inspecturi q<ex>uo</ex>d nos
@@ -31,7 +31,7 @@
 							Narb<ex>one</ex>, ta<ex>m</ex>q<ex>u</ex>am</seg>
 					<seg rend="26,90,455,105">fideli <ex>et</ex> ligio hom<ex>in</ex>i
 							n<ex>ost</ex>ro q<ex>uod</ex> nos post Pascha
-						p<ex>ro</ex>ximo vent<ex>ur</ex>am bona fide </seg>
+						p<ex>ro</ex>ximo vent<ex>ur</ex>am bona fide</seg>
 					<seg n="poly"
 						rend="456,84,513,81,612,79,707,72,753,70,813,70,880,65,942,64,1008,65,1056,64,1108,63,1110,75,1012,82,740,94,606,97,458,102"
 							><ex>et</ex> s<ex>i</ex>n<ex>e</ex> malo ingenio
@@ -44,7 +44,7 @@
 							pot<ex>er</ex>im<ex>us</ex>, nos trecentas
 						lib<ex>ras</ex> merg<ex>o</ex>l<ex>iensium</ex>
 							vob<ex>is</ex> dabim<ex>us</ex>
-							a<ex>n</ex>nuati<ex>m</ex> don<ex>e</ex>c </seg>
+							a<ex>n</ex>nuati<ex>m</ex> don<ex>e</ex>c</seg>
 					<seg n="poly"
 						rend="475,112,514,110,569,108,626,104,694,101,763,100,811,99,900,93,985,90,1057,89,1096,91,1102,105,883,114,675,120,556,126,476,131"
 							>sup<ex>er</ex> d<ex>i</ex>c<ex>t</ex>o castro
@@ -76,7 +76,7 @@
 						q<ex>uod</ex> hab<ex>e</ex>am<ex>us</ex></seg>
 					<seg rend="25,210,411,232">castru<ex>m</ex> de Lezignano
 						<ex>et</ex>, si hoc fac<ex>er</ex>e non
-						pot<ex>er</ex>itis, q<ex>uod</ex> trecentas </seg>
+						pot<ex>er</ex>itis, q<ex>uod</ex> trecentas</seg>
 					<seg rend="420,203,691,223">lib<ex>ras</ex>
 							marg<ex>o</ex>l<ex>iensium</ex> nob<ex>is</ex>
 							reco<ex>m</ex>pensabitis a<ex>n</ex>nuatim</seg>
@@ -102,7 +102,7 @@
 							pred<ex>i</ex>c<ex>t</ex>is de vob<ex>is</ex> nos
 							tenem<ex>us</ex> plenarie p<ex>ro</ex> pagatis.</seg>
 					<seg rend="695,255,1120,273">Et ut h<ex>e</ex>c om<ex>n</ex>ia robur
-						optineant p<ex>er</ex>petue firmitatis, nos </seg>
+						optineant p<ex>er</ex>petue firmitatis, nos</seg>
 					<seg rend="28,311,376,338">A., D<ex>e</ex>i
 							p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex>,
 							com<ex>es</ex> Tol<ex>os</ex>e ac vic<ex>ecomes</ex>
@@ -119,7 +119,7 @@
 					<seg rend="32,347,608,371">legate, q<ex>uod</ex> vos cu<ex>m</ex>
 							n<ex>ost</ex>ris sigill<ex>is</ex> huic carte
 						p<ex>er</ex> alphabetu<ex>m</ex> divise
-							v<ex>est</ex>r<ex>u</ex>m apponatis sigill<ex>u</ex>m. </seg>
+							v<ex>est</ex>r<ex>u</ex>m apponatis sigill<ex>u</ex>m.</seg>
 					<seg n="poly"
 						rend="618,345,695,339,820,330,896,326,957,322,1000,316,1055,313,1099,314,1108,334,1075,343,946,347,780,352,663,360,621,365"
 						>Et nos B., D<ex>e</ex>i gr<ex>ati</ex>a
@@ -138,8 +138,8 @@
 						D<ex>omi</ex>ni M° CC° XIX°, IIII non<ex>as</ex> januarii.</seg>
 				</p>
 			</div>
-			<div type="transcription">
-				<div type="texte">
+			<div type="texte">
+				<div type="transcription">
 					<l>Nov<ex>er</ex>int univ<ex>er</ex>si presentes
 						litt<ex>er</ex>as </l>
 					<l>inspecturi q<ex>uo</ex>d nos <term
@@ -396,7 +396,7 @@
 					</l>
 				</div>
 			</div>
-			<div type="commentaire" n="diplomatique">
+			<div type="diplomatic">
 				<head>Commentaire diplomatique</head>
 				<div>
 					<head>Caractères externes</head>
@@ -404,8 +404,7 @@
 						<div class="recommandation">
 							<p>Passer la souris sur les cercles rouges pour des commentaires de
 								détail</p>
-						</div>
-
+						</div>
 						<p>
 							<figure rend="27/faxexternes.jpg">
 								<figDesc>
@@ -425,8 +424,7 @@
 									<seg type="poly" rend="173,26,177,32,175,41,169,38,169,31"
 										>Curiosité paléographique : noter que, aux deux premières
 										lignes, coexistent pas moins de quatre graphies du même mot,
-										“quod” : qd, q barré, quod, Q°d.</seg>
-
+										“quod” : qd, q barré, quod, Q°d.</seg>
 									<seg type="poly"
 										rend="369,31,384,27,381,21,370,20,361,20,351,22,353,30">Seul
 										la connaissance, par le moyen d?autres actes, de la
@@ -463,18 +461,14 @@
 										curieuse superposition des fentes, deux à deux, est un effet
 										créé par le dessinateur de la lithographie pour suggérer la
 										présence de deux incisions, l?une sur le repli, l?autre sous
-										le repli, qu?il a tenté de montrer en perspective.</seg>
-
+										le repli, qu?il a tenté de montrer en perspective.</seg>
 								</figDesc>
 							</figure>
 						</p>
 						<p>Noter de façon générale l'écriture posée, et la disposition soignée,
-							encore que sobre, du texte.</p>
-
-
+							encore que sobre, du texte.</p>
 					</div>
-				</div>
-
+				</div>
 				<div>
 					<head>Style, mots, langue</head>
 					<div>
@@ -493,8 +487,7 @@
 							dans <hi rend="i">Bibliothèque de l'École des chartes</hi>, 1873,
 							p. 153-203 et 445-501, n° 177, à la p. 494, et dans Archives nationales,
 								<hi rend="i">Layettes du Trésor des chartes</hi>, t. V, par
-							Henri-François Delaborde, Paris, 1909, n° 251, p. 85.</p>
-
+							Henri-François Delaborde, Paris, 1909, n° 251, p. 85.</p>
 						<p>Comme le montre l'examen du discours, l'acte est aussi hybride dans la
 							forme que dans le fond. Solidement enracinédans les actes traditionnels
 							de promesse (promesse de ne pas nuire, de tenir fidèlement un château…),
@@ -573,4 +566,4 @@
 			</div>
 		</body>
 	</text>
-</TEI>
+</TEI>

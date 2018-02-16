@@ -1,205 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <?oxygen RNGSchema="file:/C:/Users/Standard/Desktop/TravauxALexandre-Helene/myTei.rng" type="xml"?> -->
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1500. Acte</title>
-                <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
-                <author>Combes, Laure (élève à l'École nationale des Chartes)</author>
-                <respStmt>
-                    <resp>document encodé par</resp>
-                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">85</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when="2007-10">octobre 2007</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Fac-sim. ENC : NF : 30 (héliogravure).</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="frm"/>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div type="facsimile" rend="fax.jpg">
-                <p>
-                    <seg
-                        rend="20,21,113,25,117,2,155,1,155,33,526,37,690,31,802,42,800,74,728,71,718,76,706,71,540,69,519,78,511,77,504,71,487,71,480,77,473,64,427,65,357,62,350,67,347,62,324,60,320,70,314,61,259,62,256,74,246,72,240,62,208,62,200,68,197,64,27,63"
-                        n="poly">De noble et puissant seigneur mons<ex>eigneu</ex>r Guillaume de Bricqueville, </seg>
-                    <seg rend="806,43,1000,53,996,79,950,78,934,91,923,80,917,81,910,86,906,74,832,74,816,78,805,70" n="poly">chevalier, seigneur</seg>
-                    <seg
-                        rend="27,65,192,66,202,72,210,63,237,64,247,76,259,76,261,64,310,65,320,73,326,63,344,64,350,71,358,65,469,67,480,78,490,74,503,74,511,84,512,92,506,95,293,91,285,105,275,103,269,92,153,91,146,101,139,88,109,88,103,103,98,89,29,88"
-                        n="poly">de Ausebosc et de Touffreville la Corbelline,</seg>
-                    <seg
-                        rend="518,84,545,71,706,74,721,80,728,75,861,82,881,77,899,79,909,90,918,85,934,95,953,82,1006,81,998,108,905,110,842,106,823,102,813,101,808,120,799,120,793,105,769,105,763,111,757,105,720,103,676,101,517,97"
-                        n="poly">au droit de noble et puissante dame mada<ex>m</ex>e</seg>
-                    <seg
-                        rend="28,91,95,93,103,106,111,91,134,91,145,104,156,93,266,95,273,106,290,107,296,95,307,95,307,122,250,122,243,131,238,121,219,122,211,131,206,118,137,119,124,127,120,127,116,118,59,119,51,126,48,126,43,121,27,124"
-                        n="poly">Jehenne Havart sa femme, </seg>
-                    <seg
-                        rend="310,95,757,108,763,116,771,107,791,108,796,122,811,122,817,104,1020,114,1017,138,890,136,878,141,872,137,813,135,756,135,749,148,743,134,626,130,605,143,600,143,598,137,598,128,559,129,514,127,466,125,309,125"
-                        n="poly">tient et adveue a tenir Guillaume Le Sueur une piece de terre</seg>
-                    <seg
-                        rend="16,129,42,125,50,129,61,121,113,121,120,131,127,128,139,121,202,121,211,135,221,125,234,123,241,134,250,126,448,129,591,132,597,146,608,146,627,133,699,135,698,161,604,159,586,172,582,172,582,167,578,160,490,157,485,173,474,170,469,155,412,155,404,161,400,153,372,153,354,161,354,152,316,153,307,161,300,150,296,150,290,163,281,160,274,150,211,149,197,161,190,158,189,153,143,150,126,163,123,149,113,162,108,148,78,153,69,149,7,151"
-                        n="poly">conten<ex>ant</ex> sept vergues, assise en la paroisse de Valiquierville ; </seg>
-                    <seg
-                        rend="703,135,739,137,749,151,757,137,889,143,1005,142,1005,168,980,168,973,181,967,166,876,166,867,179,859,165,827,167,754,163,751,175,745,176,741,172,741,161,713,162,701,173,708,160,702,161"
-                        n="poly">jouxte d’un costé Ambroise</seg>
-                    <seg
-                        rend="23,153,67,152,83,156,104,152,110,163,129,165,144,153,186,155,197,165,212,152,271,153,282,163,292,166,305,162,309,162,317,156,347,156,354,163,374,155,397,155,405,164,414,158,465,158,477,177,481,186,422,185,414,201,410,184,280,181,260,196,255,194,250,187,251,181,164,180,24,177"
-                        n="poly">de La Court et ledit Guillaume Le Sueur, </seg>
-                    <seg
-                        rend="492,162,575,165,584,177,603,163,663,163,697,169,700,176,713,166,736,165,738,176,753,178,757,166,855,169,867,182,878,169,965,168,973,185,978,181,982,172,1017,171,1018,194,992,198,974,199,960,208,955,205,955,200,959,196,954,194,847,195,834,210,833,204,834,195,716,190,710,210,707,190,677,189,672,197,665,191,601,190,596,209,591,191,485,186"
-                        n="poly">d’autre costé aud. Le Sueur et a Pierres Le Myre,</seg>
-                    <seg
-                        rend="24,179,243,184,254,196,263,199,280,184,407,187,411,203,416,203,424,187,523,190,588,194,596,212,602,194,606,191,676,199,704,204,711,211,721,202,720,223,661,221,654,234,650,220,623,220,615,235,607,235,606,222,371,213,363,227,357,229,354,221,354,214,285,215,275,228,273,226,271,216,210,214,203,220,200,220,199,216,196,211,25,207"
-                        n="poly">d’un bout au chemin perreux et d’autre bout aud. Le Sueur. </seg>
-                    <seg
-                        rend="724,194,827,197,831,213,839,210,851,197,947,197,962,216,975,201,1003,202,1000,222,974,243,971,243,966,247,944,239,940,228,820,227,811,230,807,226,723,224"
-                        n="poly">Et de ce doit aud<ex>it</ex> s<ex>eigneu</ex>r</seg>
-                    <seg
-                        rend="25,209,194,214,198,223,213,216,267,219,274,232,288,218,350,217,354,231,365,230,373,215,416,217,601,226,602,238,620,235,626,222,647,224,651,236,657,236,663,225,671,225,666,252,633,251,623,258,580,255,572,261,569,255,438,245,422,241,383,245,335,241,297,238,274,249,255,242,229,247,205,247,195,242,143,241,136,253,131,253,127,240,25,237"
-                        n="poly">de rente par ch<ex>asc</ex>un an au terme de Nouel ung cappon, </seg>
-                    <seg
-                        rend="674,225,806,229,814,234,936,230,941,242,967,250,971,245,978,245,1006,234,1004,259,875,255,858,268,852,268,851,254,833,254,823,271,818,272,818,267,813,255,686,251,677,248,672,249"
-                        n="poly">au terme de Pasques trente</seg>
-                    <seg
-                        rend="9,239,121,241,129,251,138,250,143,243,194,244,208,249,251,247,278,252,274,272,110,269,96,275,97,264,81,264,77,270,63,270,62,267,8,269"
-                        n="poly">œufz, quatre deniers. </seg>
-                    <seg
-                        rend="279,274,281,248,320,241,388,247,427,243,462,249,568,257,570,262,581,257,626,259,641,253,666,253,673,250,694,252,808,256,817,274,828,271,834,255,848,256,849,270,860,270,875,258,1007,261,1005,286,876,285,867,291,865,285,758,280,723,278,718,289,712,288,706,292,704,278,697,278,692,286,680,292,681,278,490,275,482,291,478,274,440,273,429,281,427,273,379,275,322,273,310,284,306,276"
-                        n="poly">Item led. Le Sueur tient dud. s<ex>eigneu</ex>r une autre piece de terre</seg>
-                    <seg
-                        rend="22,270,64,271,66,277,80,277,98,282,111,273,303,278,309,287,323,277,423,277,428,287,442,277,476,277,482,296,485,293,493,279,675,282,677,295,713,294,726,283,774,284,772,310,668,310,653,320,654,310,537,309,533,323,522,313,517,306,457,305,443,323,441,316,440,305,384,303,375,312,371,311,373,302,309,304,304,312,300,301,289,300,286,317,275,322,272,304,162,302,158,306,155,300,22,299"
-                        n="poly">conten<ex>ant</ex> deux acres, assise en icelle paroisse de Valiquierville ; </seg>
-                    <seg
-                        rend="777,284,859,289,865,298,878,288,1012,290,1002,328,995,332,992,326,992,314,945,314,940,329,936,313,901,317,835,312,826,319,822,320,818,313,778,319"
-                        n="poly">jouxte d’un costé aux</seg>
-                    <seg
-                        rend="22,302,153,303,156,309,162,309,164,304,270,306,269,336,254,348,247,344,243,333,121,327,114,342,112,328,78,325,45,325,36,336,22,329"
-                        n="poly">hoirs Guill<ex>aum</ex>e Bieurry, </seg>
-                    <seg
-                        rend="281,321,288,317,293,305,305,315,312,306,362,305,374,316,385,306,436,308,441,326,457,308,514,308,533,327,537,322,539,311,648,312,649,321,670,312,770,313,770,321,783,322,815,316,821,324,838,314,894,319,932,316,938,332,952,318,988,316,991,332,995,335,1017,329,1014,343,994,344,915,341,850,340,843,356,837,340,792,339,789,348,783,352,779,351,776,338,731,341,691,339,663,335,658,348,652,339,527,336,518,348,512,343,510,334,503,334,496,344,484,334,473,349,469,336,411,334,406,338,401,335,282,333"
-                        n="poly">d’autre costé ausd. hoirs Bieurry et a icelluy Le Sueur, d’un bout</seg>
-                    <seg
-                        rend="24,335,39,338,65,327,107,329,114,344,124,329,240,336,248,350,256,351,272,337,466,340,472,352,484,339,501,347,519,350,529,337,648,341,659,352,676,339,683,340,725,343,725,366,701,366,695,380,692,367,628,365,622,371,611,371,608,364,434,368,248,360,237,375,231,379,226,377,227,370,232,361,117,355,109,362,104,359,104,354,86,355,61,355,59,367,56,355,24,353"
-                        n="poly">ausd. hoirs Bieurry, et d’autre bout a la rue de Asselinbosc. </seg>
-                    <seg
-                        rend="734,344,772,340,778,354,789,352,795,341,833,342,839,359,848,356,852,342,1014,346,1012,372,941,370,776,368,749,371,736,366"
-                        n="poly">Et de ce doit de rente</seg>
-                    <seg
-                        rend="25,356,53,358,59,372,65,358,100,357,108,365,120,358,228,363,222,381,237,381,250,363,356,367,353,398,300,398,284,394,270,400,263,394,214,392,207,404,200,405,200,394,176,387,140,385,130,401,120,403,117,393,117,386,104,385,98,400,93,385,80,387,72,394,72,387,24,385"
-                        n="poly">aud. seigneur par ch<ex>asc</ex>un an </seg>
-                    <seg
-                        rend="359,367,460,371,606,367,609,377,628,375,630,367,687,371,695,384,704,369,749,374,795,370,1020,375,1017,395,1003,398,980,399,974,403,969,399,908,399,892,403,769,396,765,411,761,396,714,398,709,410,701,410,698,397,686,394,677,400,619,395,613,404,607,404,606,397,506,398,504,410,500,395,370,395,365,401,358,401"
-                        n="poly">au terme Saint Michiel dix neuf deniers. Et avecques</seg>
-                    <seg
-                        rend="23,387,69,389,70,396,87,389,98,404,106,388,113,388,116,404,132,404,140,387,170,388,197,395,197,406,209,406,215,394,262,397,270,402,368,403,372,398,497,399,505,416,508,400,542,400,539,433,528,436,521,444,517,426,470,428,291,424,283,433,281,423,264,423,253,442,247,439,248,422,192,421,180,433,159,441,153,418,23,416"
-                        n="poly">ce doit desd<ex>ites</ex> deux pieces de terre reliefs, </seg>
-                    <seg
-                        rend="545,400,603,399,605,406,615,405,623,396,677,403,687,396,694,398,698,414,712,414,717,400,757,399,765,416,773,400,897,406,968,400,973,407,981,400,1027,400,1027,411,998,437,977,451,974,435,956,437,930,439,921,429,870,428,857,440,850,440,854,429,777,428,771,447,767,429,591,428,584,438,572,426,556,438,544,421"
-                        n="poly">XIIImes et aides coustumiers quant ilz esch<ex>eent</ex>.</seg>
-                    <seg
-                        rend="266,426,279,426,281,434,288,433,292,426,475,431,513,429,519,446,546,434,556,441,572,429,585,441,593,430,735,433,733,462,722,463,707,471,705,463,670,463,660,465,656,462,619,463,553,459,540,466,533,461,463,460,438,457,417,459,410,471,411,459,295,455,260,460"
-                        n="poly">Baillee es ples de la s<ex>eigneu</ex>rie d’Auzebosc </seg>
-                    <seg
-                        rend="743,430,762,431,768,452,769,452,774,451,780,430,847,432,846,443,861,443,871,430,919,431,930,443,970,437,975,456,1002,436,1033,436,1029,471,1013,475,1013,469,977,469,968,463,962,462,956,464,937,467,927,472,926,467,903,464,872,464,857,462,854,464,741,462"
-                        n="poly">tenus aud. lieu par moy</seg>
-                    <seg
-                        rend="280,458,316,457,406,459,408,472,419,460,440,457,455,460,530,462,541,467,556,461,645,465,640,482,562,483,556,495,553,483,518,485,435,481,305,480,279,481"
-                        n="poly">Guill<ex>aum</ex>e Desmarés, escuier, </seg>
-                    <seg
-                        rend="650,465,657,467,702,465,706,475,711,472,738,465,853,468,859,464,896,466,923,470,927,476,939,469,963,464,978,472,1010,471,1011,477,1045,470,1045,491,1010,489,977,488,957,490,934,490,891,486,858,487,849,501,844,484,839,485,832,496,822,485,800,485,788,490,777,487,776,484,758,490,738,485,725,500,719,494,710,499,709,486,657,486,649,503,645,479"
-                        n="poly">seneschal dud. fief, le dernier</seg>
-                    <seg
-                        rend="286,480,434,484,520,486,550,485,557,495,568,485,641,486,651,505,664,488,705,488,711,504,719,498,729,503,740,489,761,493,776,486,785,493,793,492,792,510,730,509,708,520,708,511,706,506,654,511,592,499,578,521,566,510,522,504,500,499,488,516,487,502,430,504,424,512,409,522,403,514,414,501,376,506,328,498,304,498,289,513,282,500"
-                        n="poly">jour de juing l’an mil cinq cens </seg>
-                    <seg
-                        rend="800,520,794,506,799,486,820,488,834,500,840,488,848,503,861,489,893,488,940,492,980,490,1044,494,1043,531,995,531,909,520,870,516,863,523,856,508"
-                        n="poly">que fut receue, sauf</seg>
-                    <seg
-                        rend="289,516,305,501,359,505,379,509,407,504,400,517,410,526,430,507,485,504,487,520,502,502,544,510,544,534,488,532,474,545,462,549,427,541,344,542,287,533"
-                        n="poly">a blasmer et ass<ex>ignati</ex>on etc.</seg>
-                    <seg
-                        rend="676,512,677,592,832,592,834,605,891,604,886,520,873,518,862,527,854,511,796,523,791,513,731,512,707,524,704,510,679,511"
-                        n="poly"><ex>Signé :</ex> G. Desmarés <ex>paraphe</ex>.</seg>
-               </p>
-            </div>
-            <div type="transcription">
-                <div type="texte">
-                    <p>De noble et puissant seigneur monseigneur Guillaume de <term n="Guillaume appartient à une famille normande dont le fief
-                            principal, Bricqueville, se trouve en Bessin (Calvados, cant. Trévières). Il avait épousé en 1494 Jeanne Havart, fille et
-                            héritière en partie de Georges, vicomte de Dreux. Par sa mère, Antoinette d’Estouteville, Jeanne était liée aux
-                            Bourbon-Condé.">Bricqueville</term>, chevalier,<lb/> seigneur de <term n="Auzebosc, Seine-Maritime, cant. Yvetot."
-                            >Ausebosc</term> et de <term n="Touffreville-la-Corbeline, Seine-Maritime, cant. Yvetot.">Touffreville la
-                        Corbelline</term>, au droit de noble et puissante<lb/> dame madame Jehenne Havart sa femme, tient et adveue a tenir Guillaume
-                        Le Sueur une<lb/> piece de terre contenant sept <term n="La verge (ou vergée) normande, mesure de superficie de quarante
-                            perches, équivalait à un quart d’acre ; au XVIIIe siècle, la verge ici employée était celle de la vicomté de Rouen et
-                            valait environ 14,19 ares.">vergues</term>, assise en la paroisse de <term n="Valliquerville (Seine-Maritime, cant.
-                            Yvetot) ; le territoire communal jouxte celui d’Auzebosc.">Valiquierville</term> ; <term n="Les confronts de la terre ne
-                            sont pas indiqués d’après les points cardinaux, mais répartis en deux groupes, « côtés » et « bouts ».">jouxte</term>
-                        d’un<lb/> costé Ambroise de La Court et ledit Guillaume Le Sueur, d’autre costé aud. Le Sueur et a<lb/> Pierres Le Myre, d’un
-                        bout au chemin perreux et d’autre bout aud. Le Sueur. Et de ce doit<lb/> audit seigneur de <term n="« Rente », au sens
-                            générique de redevance ; nous dirions « cens ».">rente</term> par chascun an au terme de Nouel ung cappon, au terme
-                        de<lb/> Pasques trente œufz, quatre deniers. Item led. Le Sueur tient dud. seigneur une autre piece<lb/> de terre contenant
-                        deux <term n="L’acre, de 160 perches, valait au XVIIIe siècle, dans les localités usant comme ici des mesures de la vicomté de
-                            Rouen, 56,75 ares.">acres</term>, assise en icelle paroisse de Valiquierville ; jouxte d’un costé<lb/> aux hoirs Guillaume
-                        Bieurry, d’autre costé ausd. hoirs Bieurry et a icelluy Le Sueur, d’un<lb/> bout ausd. hoirs Bieurry, et d’autre bout a la rue
-                        de <term n="Asselimbosc est un hameau de la commune de Valliquerville, au sud-est du centre communal, sur la route
-                            d’Auzebosc.">Asselinbosc</term>. Et de ce doit de rente<lb/> aud. seigneur par chascun an au terme <term n="La
-                            Saint-Michel (29 septembre) est l’un des grands termes de paiement pratiqués en Normandie.">Saint Michiel</term> dix neuf
-                        deniers. Et avecques ce doit<lb/> desdites deux pieces de terre <term n="Reliefs : droit de mutation.">reliefs</term>, <term
-                            n="Treizièmes : droit proportionnel au prix d’une vente.">XIII<hi rend="sup">mes</hi></term> et aides coustumiers
-                        quant ilz escheent.<lb/></p>
-                    <p>Baillee es <term n="Comprendre « plaids », assises de la justice seigneuriale, tenues par le justicier (« sénéchal ») du
-                            seigneur.">ples</term> de la seigneurie d’Auzebosc tenus aud. lieu par moy Guillaume<lb/> Desmarés, escuier, seneschal
-                        dud. fief, le dernier jour de juing l’an mil cinq cens que fut<lb/> receue, sauf a blasmer et assignation etc.</p>
-                    <p>(<hi rend="i">Signé : </hi>) G. Desmarés (<hi rend="i">paraphe</hi>).</p>
-                </div>
-                <div type="regeste">
-                    <head>1500, 30 juin. — Auzebosc.</head>
-                    <p>Guillaume Le Sueur reconnaît tenir de Guillaume de Bricqueville, seigneur d’Auzebosc et de Touffreville-la-Corbeline du chef de
-                        son épouse Jeanne Havart, une pièce de terre de sept verges, dans la paroisse de Valliquerville, pour laquelle il doit un
-                        chapon à Noël et trente œufs et quatre deniers à Pâques ; et une autre pièce de deux acres, en la même paroisse, pour laquelle
-                        il doit dix-neuf deniers à la Saint-Michel. Pour les deux terres, il doit en outre reliefs, treizièmes et aides coutumières. —
-                        Acte passé aux plaids de la seigneurie d’Auzebosc par le sénéchal de celle-ci, Guillaume Desmarés, écuyer.</p>
-                </div>
-            </div>
-            <div type="commentaire" n="diplomatique">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Commentaire diplomatique</head>
-                    <div>
-                        <p>
-                            <figure rend="85/faxexterne.jpg"/>
-                       </p>
-                        <p>L’écriture est exempte de cursivité, avare d’abréviations. Les premiers mots, presque rituels, sont grossis, et leur module
-                            décroît progressivement ; le <hi rend="i">Item</hi> de la l. 8, lui aussi grossi, guide l’œil vers la seconde terre
-                            déclarée.</p>
-                        <p>Mise en retrait, tracée peut-être de la même main, mais d’une écriture plus cursive, validée d’une simple signature, la
-                            mention finale authentifie de l’autorité judiciaire la déclaration préparée auparavant, ici sanctionnée et solennisée sous
-                            réserve d’un droit mesuré à la contestation (« sauf a blasmer… »).</p>
-                        <p>Un annotateur postérieur (XVI<hi rend="sup">e</hi> ou XVII<hi rend="sup">e</hi> siècle ?) a numéroté les
-                            parcelles en marge, sans doute lors de la confection d’un terrier.</p>
-                        <p>Lisible et économe dans ses formes, standardisé dans ses modes descriptifs, le document, écrit à la fois pragmatique et
-                            authentique de la gestion d’une seigneurie foncière, constitue l’unité de base d’un terrier virtuel, constitué du
-                            rassemblement de ces menues pièces. Point ici de recours au notaire ni même au tabellion : tout repose sur la force
-                            prégnante de la justice seigneuriale. La diplomatique que développe celle-ci n’a pourtant rien d’autonome : la
-                            reconnaissance est coulée dans le moule de l’aveu et dénombrement seigneurial (« De noble… seigneur… tient et advoue a
-                            tenir…), même si le tenancier n’a pas droit au « je » du vassal qui scelle honorablement son aveu ; la validation passe
-                            par une signature directement dérivée des formes alors en usage parmi les tabellions.</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1500. Acte</title>
+        <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
+        <author>Combes, Laure (élève à l'École nationale des Chartes)</author>
+        <respStmt>
+          <resp>document encodé par</resp>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">85</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2007-10">octobre 2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Fac-sim. ENC : NF : 30 (héliogravure).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="frm"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text> 
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="20,21,113,25,117,2,155,1,155,33,526,37,690,31,802,42,800,74,728,71,718,76,706,71,540,69,519,78,511,77,504,71,487,71,480,77,473,64,427,65,357,62,350,67,347,62,324,60,320,70,314,61,259,62,256,74,246,72,240,62,208,62,200,68,197,64,27,63" n="poly">De noble et puissant seigneur mons<ex>eigneu</ex>r Guillaume de Bricqueville,</seg>
+          <seg rend="806,43,1000,53,996,79,950,78,934,91,923,80,917,81,910,86,906,74,832,74,816,78,805,70" n="poly">chevalier, seigneur</seg>
+          <seg rend="27,65,192,66,202,72,210,63,237,64,247,76,259,76,261,64,310,65,320,73,326,63,344,64,350,71,358,65,469,67,480,78,490,74,503,74,511,84,512,92,506,95,293,91,285,105,275,103,269,92,153,91,146,101,139,88,109,88,103,103,98,89,29,88" n="poly">de Ausebosc et de Touffreville la Corbelline,</seg>
+          <seg rend="518,84,545,71,706,74,721,80,728,75,861,82,881,77,899,79,909,90,918,85,934,95,953,82,1006,81,998,108,905,110,842,106,823,102,813,101,808,120,799,120,793,105,769,105,763,111,757,105,720,103,676,101,517,97" n="poly">au droit de noble et puissante dame mada<ex>m</ex>e</seg>
+          <seg rend="28,91,95,93,103,106,111,91,134,91,145,104,156,93,266,95,273,106,290,107,296,95,307,95,307,122,250,122,243,131,238,121,219,122,211,131,206,118,137,119,124,127,120,127,116,118,59,119,51,126,48,126,43,121,27,124" n="poly">Jehenne Havart sa femme,</seg>
+          <seg rend="310,95,757,108,763,116,771,107,791,108,796,122,811,122,817,104,1020,114,1017,138,890,136,878,141,872,137,813,135,756,135,749,148,743,134,626,130,605,143,600,143,598,137,598,128,559,129,514,127,466,125,309,125" n="poly">tient et adveue a tenir Guillaume Le Sueur une piece de terre</seg>
+          <seg rend="16,129,42,125,50,129,61,121,113,121,120,131,127,128,139,121,202,121,211,135,221,125,234,123,241,134,250,126,448,129,591,132,597,146,608,146,627,133,699,135,698,161,604,159,586,172,582,172,582,167,578,160,490,157,485,173,474,170,469,155,412,155,404,161,400,153,372,153,354,161,354,152,316,153,307,161,300,150,296,150,290,163,281,160,274,150,211,149,197,161,190,158,189,153,143,150,126,163,123,149,113,162,108,148,78,153,69,149,7,151" n="poly">conten<ex>ant</ex> sept vergues, assise en la paroisse de Valiquierville ;</seg>
+          <seg rend="703,135,739,137,749,151,757,137,889,143,1005,142,1005,168,980,168,973,181,967,166,876,166,867,179,859,165,827,167,754,163,751,175,745,176,741,172,741,161,713,162,701,173,708,160,702,161" n="poly">jouxte d’un costé Ambroise</seg>
+          <seg rend="23,153,67,152,83,156,104,152,110,163,129,165,144,153,186,155,197,165,212,152,271,153,282,163,292,166,305,162,309,162,317,156,347,156,354,163,374,155,397,155,405,164,414,158,465,158,477,177,481,186,422,185,414,201,410,184,280,181,260,196,255,194,250,187,251,181,164,180,24,177" n="poly">de La Court et ledit Guillaume Le Sueur,</seg>
+          <seg rend="492,162,575,165,584,177,603,163,663,163,697,169,700,176,713,166,736,165,738,176,753,178,757,166,855,169,867,182,878,169,965,168,973,185,978,181,982,172,1017,171,1018,194,992,198,974,199,960,208,955,205,955,200,959,196,954,194,847,195,834,210,833,204,834,195,716,190,710,210,707,190,677,189,672,197,665,191,601,190,596,209,591,191,485,186" n="poly">d’autre costé aud. Le Sueur et a Pierres Le Myre,</seg>
+          <seg rend="24,179,243,184,254,196,263,199,280,184,407,187,411,203,416,203,424,187,523,190,588,194,596,212,602,194,606,191,676,199,704,204,711,211,721,202,720,223,661,221,654,234,650,220,623,220,615,235,607,235,606,222,371,213,363,227,357,229,354,221,354,214,285,215,275,228,273,226,271,216,210,214,203,220,200,220,199,216,196,211,25,207" n="poly">d’un bout au chemin perreux et d’autre bout aud. Le Sueur.</seg>
+          <seg rend="724,194,827,197,831,213,839,210,851,197,947,197,962,216,975,201,1003,202,1000,222,974,243,971,243,966,247,944,239,940,228,820,227,811,230,807,226,723,224" n="poly">Et de ce doit aud<ex>it</ex> s<ex>eigneu</ex>r</seg>
+          <seg rend="25,209,194,214,198,223,213,216,267,219,274,232,288,218,350,217,354,231,365,230,373,215,416,217,601,226,602,238,620,235,626,222,647,224,651,236,657,236,663,225,671,225,666,252,633,251,623,258,580,255,572,261,569,255,438,245,422,241,383,245,335,241,297,238,274,249,255,242,229,247,205,247,195,242,143,241,136,253,131,253,127,240,25,237" n="poly">de rente par ch<ex>asc</ex>un an au terme de Nouel ung cappon,</seg>
+          <seg rend="674,225,806,229,814,234,936,230,941,242,967,250,971,245,978,245,1006,234,1004,259,875,255,858,268,852,268,851,254,833,254,823,271,818,272,818,267,813,255,686,251,677,248,672,249" n="poly">au terme de Pasques trente</seg>
+          <seg rend="9,239,121,241,129,251,138,250,143,243,194,244,208,249,251,247,278,252,274,272,110,269,96,275,97,264,81,264,77,270,63,270,62,267,8,269" n="poly">œufz, quatre deniers.</seg>
+          <seg rend="279,274,281,248,320,241,388,247,427,243,462,249,568,257,570,262,581,257,626,259,641,253,666,253,673,250,694,252,808,256,817,274,828,271,834,255,848,256,849,270,860,270,875,258,1007,261,1005,286,876,285,867,291,865,285,758,280,723,278,718,289,712,288,706,292,704,278,697,278,692,286,680,292,681,278,490,275,482,291,478,274,440,273,429,281,427,273,379,275,322,273,310,284,306,276" n="poly">Item led. Le Sueur tient dud. s<ex>eigneu</ex>r une autre piece de terre</seg>
+          <seg rend="22,270,64,271,66,277,80,277,98,282,111,273,303,278,309,287,323,277,423,277,428,287,442,277,476,277,482,296,485,293,493,279,675,282,677,295,713,294,726,283,774,284,772,310,668,310,653,320,654,310,537,309,533,323,522,313,517,306,457,305,443,323,441,316,440,305,384,303,375,312,371,311,373,302,309,304,304,312,300,301,289,300,286,317,275,322,272,304,162,302,158,306,155,300,22,299" n="poly">conten<ex>ant</ex> deux acres, assise en icelle paroisse de Valiquierville ;</seg>
+          <seg rend="777,284,859,289,865,298,878,288,1012,290,1002,328,995,332,992,326,992,314,945,314,940,329,936,313,901,317,835,312,826,319,822,320,818,313,778,319" n="poly">jouxte d’un costé aux</seg>
+          <seg rend="22,302,153,303,156,309,162,309,164,304,270,306,269,336,254,348,247,344,243,333,121,327,114,342,112,328,78,325,45,325,36,336,22,329" n="poly">hoirs Guill<ex>aum</ex>e Bieurry,</seg>
+          <seg rend="281,321,288,317,293,305,305,315,312,306,362,305,374,316,385,306,436,308,441,326,457,308,514,308,533,327,537,322,539,311,648,312,649,321,670,312,770,313,770,321,783,322,815,316,821,324,838,314,894,319,932,316,938,332,952,318,988,316,991,332,995,335,1017,329,1014,343,994,344,915,341,850,340,843,356,837,340,792,339,789,348,783,352,779,351,776,338,731,341,691,339,663,335,658,348,652,339,527,336,518,348,512,343,510,334,503,334,496,344,484,334,473,349,469,336,411,334,406,338,401,335,282,333" n="poly">d’autre costé ausd. hoirs Bieurry et a icelluy Le Sueur, d’un bout</seg>
+          <seg rend="24,335,39,338,65,327,107,329,114,344,124,329,240,336,248,350,256,351,272,337,466,340,472,352,484,339,501,347,519,350,529,337,648,341,659,352,676,339,683,340,725,343,725,366,701,366,695,380,692,367,628,365,622,371,611,371,608,364,434,368,248,360,237,375,231,379,226,377,227,370,232,361,117,355,109,362,104,359,104,354,86,355,61,355,59,367,56,355,24,353" n="poly">ausd. hoirs Bieurry, et d’autre bout a la rue de Asselinbosc.</seg>
+          <seg rend="734,344,772,340,778,354,789,352,795,341,833,342,839,359,848,356,852,342,1014,346,1012,372,941,370,776,368,749,371,736,366" n="poly">Et de ce doit de rente</seg>
+          <seg rend="25,356,53,358,59,372,65,358,100,357,108,365,120,358,228,363,222,381,237,381,250,363,356,367,353,398,300,398,284,394,270,400,263,394,214,392,207,404,200,405,200,394,176,387,140,385,130,401,120,403,117,393,117,386,104,385,98,400,93,385,80,387,72,394,72,387,24,385" n="poly">aud. seigneur par ch<ex>asc</ex>un an</seg>
+          <seg rend="359,367,460,371,606,367,609,377,628,375,630,367,687,371,695,384,704,369,749,374,795,370,1020,375,1017,395,1003,398,980,399,974,403,969,399,908,399,892,403,769,396,765,411,761,396,714,398,709,410,701,410,698,397,686,394,677,400,619,395,613,404,607,404,606,397,506,398,504,410,500,395,370,395,365,401,358,401" n="poly">au terme Saint Michiel dix neuf deniers. Et avecques</seg>
+          <seg rend="23,387,69,389,70,396,87,389,98,404,106,388,113,388,116,404,132,404,140,387,170,388,197,395,197,406,209,406,215,394,262,397,270,402,368,403,372,398,497,399,505,416,508,400,542,400,539,433,528,436,521,444,517,426,470,428,291,424,283,433,281,423,264,423,253,442,247,439,248,422,192,421,180,433,159,441,153,418,23,416" n="poly">ce doit desd<ex>ites</ex> deux pieces de terre reliefs,</seg>
+          <seg rend="545,400,603,399,605,406,615,405,623,396,677,403,687,396,694,398,698,414,712,414,717,400,757,399,765,416,773,400,897,406,968,400,973,407,981,400,1027,400,1027,411,998,437,977,451,974,435,956,437,930,439,921,429,870,428,857,440,850,440,854,429,777,428,771,447,767,429,591,428,584,438,572,426,556,438,544,421" n="poly">XIIImes et aides coustumiers quant ilz esch<ex>eent</ex>.</seg>
+          <seg rend="266,426,279,426,281,434,288,433,292,426,475,431,513,429,519,446,546,434,556,441,572,429,585,441,593,430,735,433,733,462,722,463,707,471,705,463,670,463,660,465,656,462,619,463,553,459,540,466,533,461,463,460,438,457,417,459,410,471,411,459,295,455,260,460" n="poly">Baillee es ples de la s<ex>eigneu</ex>rie d’Auzebosc</seg>
+          <seg rend="743,430,762,431,768,452,769,452,774,451,780,430,847,432,846,443,861,443,871,430,919,431,930,443,970,437,975,456,1002,436,1033,436,1029,471,1013,475,1013,469,977,469,968,463,962,462,956,464,937,467,927,472,926,467,903,464,872,464,857,462,854,464,741,462" n="poly">tenus aud. lieu par moy</seg>
+          <seg rend="280,458,316,457,406,459,408,472,419,460,440,457,455,460,530,462,541,467,556,461,645,465,640,482,562,483,556,495,553,483,518,485,435,481,305,480,279,481" n="poly">Guill<ex>aum</ex>e Desmarés, escuier,</seg>
+          <seg rend="650,465,657,467,702,465,706,475,711,472,738,465,853,468,859,464,896,466,923,470,927,476,939,469,963,464,978,472,1010,471,1011,477,1045,470,1045,491,1010,489,977,488,957,490,934,490,891,486,858,487,849,501,844,484,839,485,832,496,822,485,800,485,788,490,777,487,776,484,758,490,738,485,725,500,719,494,710,499,709,486,657,486,649,503,645,479" n="poly">seneschal dud. fief, le dernier</seg>
+          <seg rend="286,480,434,484,520,486,550,485,557,495,568,485,641,486,651,505,664,488,705,488,711,504,719,498,729,503,740,489,761,493,776,486,785,493,793,492,792,510,730,509,708,520,708,511,706,506,654,511,592,499,578,521,566,510,522,504,500,499,488,516,487,502,430,504,424,512,409,522,403,514,414,501,376,506,328,498,304,498,289,513,282,500" n="poly">jour de juing l’an mil cinq cens</seg>
+          <seg rend="800,520,794,506,799,486,820,488,834,500,840,488,848,503,861,489,893,488,940,492,980,490,1044,494,1043,531,995,531,909,520,870,516,863,523,856,508" n="poly">que fut receue, sauf</seg>
+          <seg rend="289,516,305,501,359,505,379,509,407,504,400,517,410,526,430,507,485,504,487,520,502,502,544,510,544,534,488,532,474,545,462,549,427,541,344,542,287,533" n="poly">a blasmer et ass<ex>ignati</ex>on etc.</seg>
+          <seg rend="676,512,677,592,832,592,834,605,891,604,886,520,873,518,862,527,854,511,796,523,791,513,731,512,707,524,704,510,679,511" n="poly"><ex>Signé :</ex> G. Desmarés <ex>paraphe</ex>.</seg>
+        </p>
+      </div>
+      <div type="texte">
+        <div type="transcription">
+          <p>De noble et puissant seigneur monseigneur Guillaume de <term n="Guillaume appartient à une famille normande dont le fief principal, Bricqueville, se trouve en Bessin (Calvados, cant. Trévières). Il avait épousé en 1494 Jeanne Havart, fille et héritière en partie de Georges, vicomte de Dreux. Par sa mère, Antoinette d’Estouteville, Jeanne était liée aux Bourbon-Condé.">Bricqueville</term>, chevalier,<lb/> seigneur de <term n="Auzebosc, Seine-Maritime, cant. Yvetot." >Ausebosc</term> et de <term n="Touffreville-la-Corbeline, Seine-Maritime, cant. Yvetot.">Touffreville la Corbelline</term>, au droit de noble et puissante<lb/> dame madame Jehenne Havart sa femme, tient et adveue a tenir Guillaume Le Sueur une<lb/> piece de terre contenant sept <term n="La verge (ou vergée) normande, mesure de superficie de quarante perches, équivalait à un quart d’acre ; au XVIIIe siècle, la verge ici employée était celle de la vicomté de Rouen et valait environ 14,19 ares.">vergues</term>, assise en la paroisse de <term n="Valliquerville (Seine-Maritime, cant. Yvetot) ; le territoire communal jouxte celui d’Auzebosc.">Valiquierville</term> ; <term n="Les confronts de la terre ne sont pas indiqués d’après les points cardinaux, mais répartis en deux groupes, « côtés » et « bouts ».">jouxte</term> d’un<lb/> costé Ambroise de La Court et ledit Guillaume Le Sueur, d’autre costé aud. Le Sueur et a<lb/> Pierres Le Myre, d’un bout au chemin perreux et d’autre bout aud. Le Sueur. Et de ce doit<lb/> audit seigneur de <term n="« Rente », au sens générique de redevance ; nous dirions « cens ».">rente</term> par chascun an au terme de Nouel ung cappon, au terme de<lb/> Pasques trente œufz, quatre deniers. Item led. Le Sueur tient dud. seigneur une autre piece<lb/> de terre contenant deux <term n="L’acre, de 160 perches, valait au XVIIIe siècle, dans les localités usant comme ici des mesures de la vicomté de Rouen, 56,75 ares.">acres</term>, assise en icelle paroisse de Valiquierville ; jouxte d’un costé<lb/> aux hoirs Guillaume Bieurry, d’autre costé ausd. hoirs Bieurry et a icelluy Le Sueur, d’un<lb/> bout ausd. hoirs Bieurry, et d’autre bout a la rue de <term n="Asselimbosc est un hameau de la commune de Valliquerville, au sud-est du centre communal, sur la route d’Auzebosc.">Asselinbosc</term>. Et de ce doit de rente<lb/> aud. seigneur par chascun an au terme <term n="La Saint-Michel (29 septembre) est l’un des grands termes de paiement pratiqués en Normandie.">Saint Michiel</term> dix neuf deniers. Et avecques ce doit<lb/> desdites deux pieces de terre <term n="Reliefs : droit de mutation.">reliefs</term>, <term n="Treizièmes : droit proportionnel au prix d’une vente.">XIII<hi rend="sup">mes</hi></term> et aides coustumiers quant ilz escheent.<lb/></p>
+          <p>Baillee es <term n="Comprendre « plaids », assises de la justice seigneuriale, tenues par le justicier (« sénéchal ») du seigneur.">ples</term> de la seigneurie d’Auzebosc tenus aud. lieu par moy Guillaume<lb/> Desmarés, escuier, seneschal dud. fief, le dernier jour de juing l’an mil cinq cens que fut<lb/> receue, sauf a blasmer et assignation etc.</p>
+          <p>(<hi rend="i">Signé : </hi>) G. Desmarés (<hi rend="i">paraphe</hi>).</p>
+        </div>
+        <div type="regeste">
+          <head>1500, 30 juin. — Auzebosc.</head>
+          <p>Guillaume Le Sueur reconnaît tenir de Guillaume de Bricqueville, seigneur d’Auzebosc et de Touffreville-la-Corbeline du chef de son épouse Jeanne Havart, une pièce de terre de sept verges, dans la paroisse de Valliquerville, pour laquelle il doit un chapon à Noël et trente œufs et quatre deniers à Pâques ; et une autre pièce de deux acres, en la même paroisse, pour laquelle il doit dix-neuf deniers à la Saint-Michel. Pour les deux terres, il doit en outre reliefs, treizièmes et aides coutumières. — Acte passé aux plaids de la seigneurie d’Auzebosc par le sénéchal de celle-ci, Guillaume Desmarés, écuyer.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Commentaire diplomatique</head>
+          <div>
+            <p>
+              <figure rend="85/faxexterne.jpg"/>
+            </p>
+            <p>L’écriture est exempte de cursivité, avare d’abréviations. Les premiers mots, presque rituels, sont grossis, et leur module décroît progressivement ; le <hi rend="i">Item</hi> de la l. 8, lui aussi grossi, guide l’œil vers la seconde terre déclarée.</p>
+            <p>Mise en retrait, tracée peut-être de la même main, mais d’une écriture plus cursive, validée d’une simple signature, la mention finale authentifie de l’autorité judiciaire la déclaration préparée auparavant, ici sanctionnée et solennisée sous réserve d’un droit mesuré à la contestation (« sauf a blasmer… »).</p>
+            <p>Un annotateur postérieur (XVI<hi rend="sup">e</hi> ou XVII<hi rend="sup">e</hi> siècle ?) a numéroté les parcelles en marge, sans doute lors de la confection d’un terrier.</p>
+            <p>Lisible et économe dans ses formes, standardisé dans ses modes descriptifs, le document, écrit à la fois pragmatique et authentique de la gestion d’une seigneurie foncière, constitue l’unité de base d’un terrier virtuel, constitué du rassemblement de ces menues pièces. Point ici de recours au notaire ni même au tabellion : tout repose sur la force prégnante de la justice seigneuriale. La diplomatique que développe celle-ci n’a pourtant rien d’autonome : la reconnaissance est coulée dans le moule de l’aveu et dénombrement seigneurial (« De noble… seigneur… tient et advoue a tenir…), même si le tenancier n’a pas droit au « je » du vassal qui scelle honorablement son aveu ; la validation passe par une signature directement dérivée des formes alors en usage parmi les tabellions.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

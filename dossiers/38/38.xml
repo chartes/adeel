@@ -19,7 +19,7 @@
 	<text>
 		<front> </front>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 				<p>
 					<seg rend="20,23,471,61">Nov<ex>er</ex>int univ<ex>er</ex>si
 							q<ex>uo</ex>d nos Nicolaus de Ermenonvilla,</seg>
@@ -68,8 +68,8 @@
 					<seg rend="14,383,96,408">tercio.</seg>
 				</p>
 			</div>
-			<div type="transcription">
-				<div type="texte">
+			<div type="texte">
+				<div type="transcription">
 					<l>Nov<ex>er</ex>int univ<ex>er</ex>si q<ex>uo</ex>d nos <term
 							n="Nicolas d&#x2019;Ermenonville est déjà attesté comme &#34; receveur de Toulouse &#34; en 1290. Même qualifiées du seul nom de la ville, les fonctions de receveur et de trésorier s&#x2019;étendent à toute la sénéchaussée ; comme le rattachement direct au nom du roi, cette formulation (qui n&#x2019;a rien à voir avec une fonction municipale) insiste sur la non-subordination au sénéchal."
 							>Nicolaus de Ermenonvilla</term>, </l>
@@ -182,7 +182,7 @@
 						équivalent reste à acquitter.</p>
 				</div>
 			</div>
-			<div type="commentaire" n="diplomatique">
+			<div type="diplomatic">
 				<head>Commentaire diplomatique</head>
 				<div>					
 					<head>Caractères externes</head>
@@ -249,8 +249,7 @@
 							avec la légère erreur faite dans les calculs !) que le type et le
 							montage documentaires sont plus complexes que dans le tout-venant des
 							mandats de paiement et des quittances que nous a légués l'administration
-							financière royale.</p>
-
+							financière royale.</p>
 						<p>Le document n'a pas de dispositif à proprement parler : il ne transmet
 							pas d'ordre, ni n'exprime de volonté. Le trésorier constate, sous son
 							sceau, et sa parole suffit sans qu'il soit besoin d'obligation expresse
@@ -284,11 +283,10 @@
 							représenter. Toutefois, comme il y a toutes les chances que le document
 							nous soit parvenu par le biais des archives de la Chambre des comptes et
 							non des archives privées de Guilhem de Pezens, on peut être quasi
-							certain que le remboursement a été intégral.</p>
-
+							certain que le remboursement a été intégral.</p>
 					</div>
 				</div>
 			</div>
 		</body>
 	</text>
-</TEI>
+</TEI>

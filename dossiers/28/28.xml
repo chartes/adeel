@@ -20,44 +20,44 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 				<p>
 					<seg rend="13,29,430,49">Anno ab incarnatione D<ex>omi</ex>ni M° CC° III°.</seg>
 					<seg rend="438,19,839,37">Eu, Uc, coms de Rodes, <ex>et</ex> eu, <ex>Guillem</ex>, coms de Ro</seg>
 					<seg rend="66,54,384,72">des, sos fills, p<ex>er</ex> nos e p<ex>er</ex> totz los n<ex>ost</ex>res,</seg>
 					<seg rend="392,53,842,69">p<ex>er</ex> bona fe e ses engan, <ex>et</ex> ab aquesta carta, p<ex>er</ex> amor</seg>
-					<seg rend="15,80,363,99">de Deu e de ma do<ex>n</ex>na s<ex>an</ex>c<ex>t</ex>a Maria </seg>
-					<seg rend="370,76,788,94">e dellas armas de n<ex>ost</ex>res paires e de </seg>
-					<seg rend="16,105,399,123">n<ex>ost</ex>ras maires e de tot n<ex>ost</ex>re linnatgue, </seg>
-					<seg rend="406,100,834,118">donam e lauda<ex>m</ex> e liura<ex>m</ex> <ex>et</ex> ab titol p<ex>er</ex>feig de do </seg>
+					<seg rend="15,80,363,99">de Deu e de ma do<ex>n</ex>na s<ex>an</ex>c<ex>t</ex>a Maria</seg>
+					<seg rend="370,76,788,94">e dellas armas de n<ex>ost</ex>res paires e de</seg>
+					<seg rend="16,105,399,123">n<ex>ost</ex>ras maires e de tot n<ex>ost</ex>re linnatgue,</seg>
+					<seg rend="406,100,834,118">donam e lauda<ex>m</ex> e liura<ex>m</ex> <ex>et</ex> ab titol p<ex>er</ex>feig de do</seg>
 					<seg rend="16,135,309,152">nazo p<ex>er</ex> totz temps autorga<ex>m</ex>,</seg>
 					<seg rend="316,129,825,144">so es saubut las maisos del borc de S<ex>anct</ex>i Amanz q<ex>ue</ex> foro</seg>
 					<seg rend="12,157,458,177">d’en Guill<ex>em</ex> Echor e de Feiriol so fill, ab las cortz</seg>
 					<seg rend="462,150,840,169"><ex>et</ex> ab l’ort <ex>et</ex> ab los intrars <ex>et</ex> ab los issirs <ex>et</ex></seg>
-					<seg rend="15,183,437,198">ab totz los p<ex>er</ex>tenementz que p<ex>er</ex>tener i devo, </seg>
+					<seg rend="15,183,437,198">ab totz los p<ex>er</ex>tenementz que p<ex>er</ex>tener i devo,</seg>
 					<seg rend="448,178,837,192">a Deu <ex>et</ex> a sancta Maria d’a Bona Cumba</seg>
-					<seg rend="20,206,319,223"><ex>et</ex> a.n Bertran Labat <ex>et</ex> als fraires </seg>
+					<seg rend="20,206,319,223"><ex>et</ex> a.n Bertran Labat <ex>et</ex> als fraires</seg>
 					<seg rend="322,202,835,219">que ara i so ni p<ex>er</ex>adena<ex>n</ex>t i serau p<ex>er</ex> totz temps ; e desves</seg>
 					<seg rend="13,227,316,247">tem ne nos e veste<ex>m</ex> ne la maiso.</seg>
 					<seg rend="321,227,835,240"><ex>Et</ex> aquestas maisos sobredichas aiatz e tengatz franca</seg>
 					<seg rend="10,253,485,269">ment e quitiament e soltas de comus e de gachas</seg>
 					<seg rend="497,250,844,265">e de totz usatgues. Et aquest dos fo faigz</seg>
 					<seg rend="19,277,579,294">ella ma d’en Ugo de Panat que era cellarers de Bona Cu<ex>m</ex>ba.</seg>
-					<seg rend="592,275,847,290">S<ex>ignum</ex> Bec della Barreira, e W. </seg>
-					<seg rend="11,305,381,321">della Barreira sos botz, B<ex>er</ex>nart Gausb<ex>er</ex>t, </seg>
+					<seg rend="592,275,847,290">S<ex>ignum</ex> Bec della Barreira, e W.</seg>
+					<seg rend="11,305,381,321">della Barreira sos botz, B<ex>er</ex>nart Gausb<ex>er</ex>t,</seg>
 					<seg rend="387,299,839,315">W. B<ex>er</ex>inguer de Cambolaz, B<ex>er</ex>nart B<ex>er</ex>inguer de Pa</seg>
 					<seg rend="10,329,406,344">nat, D. Mala Mosca, Espero, R. Cordura,</seg>
 					<seg rend="413,323,819,338">P. Gros, Corbeira. D. Socada, Ponz de Pebrac</seg>
 					<seg rend="11,353,408,368">e fraire Isarnz. Tot aquest dos sobredigz,</seg>
-					<seg rend="412,351,830,363">eu Uc, coms de Rodes <ex>et</ex> eu Guillem, sos fills, coms </seg>
+					<seg rend="412,351,830,363">eu Uc, coms de Rodes <ex>et</ex> eu Guillem, sos fills, coms</seg>
 					<seg rend="13,376,419,390">de Rodes, volem q<ex>ue</ex> sia tengutz p<ex>er</ex> totz te<ex>m</ex>ps</seg>
-					<seg rend="424,377,825,389">p<ex>er</ex> nos e p<ex>er</ex> totz n<ex>ost</ex>res successors e p<ex>er</ex> zo q<ex>ue</ex> sia </seg>
+					<seg rend="424,377,825,389">p<ex>er</ex> nos e p<ex>er</ex> totz n<ex>ost</ex>res successors e p<ex>er</ex> zo q<ex>ue</ex> sia</seg>
 					<seg rend="9,399,437,419">plus ferm, avem i faigz pausar n<ex>ost</ex>res sagels.</seg>
 					<seg rend="446,396,802,413">S<ex>ignum</ex> R. Bornadels que aquesta carta fez.</seg>
 				</p>
 			</div>
-			<div type="transcription">
-				<div type="texte">
+			<div type="texte">
+				<div type="transcription">
 					<l>Anno ab incarnatione D<ex>omi</ex>ni M° CC° III°. Eu, <term n="Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.">Uc, </term></l>
 					<l><term n="Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.">coms de Rodes, <ex>et</ex> eu, <ex>Guillem</ex>, coms de Rodes</term>, sos</l>
 					<l>fills, p<ex>er</ex> nos e per totz los n<ex>ost</ex>res, p<ex>er</ex></l>
@@ -133,10 +133,9 @@
 					<l>ferme, nous y avons fait poser nos sceaux. </l>
 					
 					<l>[Rédacteur :] Souscription de R. Bornadel,</l>
-					<l>qui fit cette charte.</l>
-
+					<l>qui fit cette charte.</l>
 				</div>
 			</div>
 		</body>
 	</text>
-</TEI.2>
+</TEI.2>

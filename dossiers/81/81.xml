@@ -3,8 +3,7 @@
 <TEI.2 n="81">
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                <!-- Aménagement à faire, pour le nota bene&#160;: deux titres -->
+            <titleStmt>
                 <title>999. Acte royal <ex>1279, copie authentique</ex></title>
             </titleStmt>
             <publicationStmt>
@@ -18,10 +17,9 @@
         </fileDesc>
         <profileDesc/>
     </teiHeader>
-    <text>
-        <front/>
+    <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
                     <seg rend="71,171,85,157,99,166,102,185,614,203,617,233,417,223,196,219,61,220,61,219,68,192,69,192,71,168" n="poly">A touz ceuls qui ces leittres v<ex>er</ex>ront, Guy du Mes, garde de la p<ex>re</ex>vosté de Paris, salut.</seg>
                     <seg rend="623,203,842,210,857,206,878,213,964,226,955,258,743,239,620,233" n="poly">Nous faisons asavoir que, l’an de grace mil</seg>
@@ -82,8 +80,8 @@
                     <seg rend="570,1143,657,1141,819,1135,900,1140,914,1167,697,1170,576,1172" n="poly">de Paris l’an <ex>et</ex> le mois desusdiz.</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <l>A touz ceuls qui ces leittres verront, <term n="Guy du Més est attesté comme prévôt de Paris (plus exactement comme «&#160;garde de la prévôté&#160;», ne tenant pas la prévôté à ferme), représentant direct du pouvoir royal dans la ville et alentour, entre 1277 et 1281.">Guy du Mes</term>, garde de la prevosté de Paris, salut.</l>
                     <l>Nous faisons asavoir que, l’an de grace mil CC soissante dis et neuf, ou mois de decembre,</l>
                     <l>veimes unes leittres en la fourme qui s’ensuit&#160;:</l>
@@ -174,7 +172,7 @@
                     <p>L’acte est décrit par W.M. Newman, <hi rend="i">Catalogue des actes de Robert II, roi de France</hi>, Paris, 1937, n° 13.</p>
                 </div>
             </div>
-            <div type="commentaire" n="diplomatique">
+            <div type="diplomatic">
                 <head>Commentaire diplomatique</head>
                 <div>
                     <head>Commentaire de l&#x2019;acte de 999</head>

@@ -20,8 +20,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
-        	                                <p>
+			<div type="facsimile"> 	                                <p>
                                                     <seg rend="13,11,105,87">HIC VERGES NIT</seg>
                                                     <seg rend="571,8,676,86">MERITO ET TEMPORE</seg>
                                                     <seg n="circle" rend="622,444,52">A BON DROIT</seg>
@@ -50,8 +49,8 @@
                                                     <seg rend="106,764,553,777">priusq<ex>u</ex>a<ex>m</ex> incipias consulto et postq<ex>u</ex>a<ex>m</ex> consulueris ma- [ture facto opus est...</seg>
                                                </p>
 			</div>
-			<div type="transcription">
-			    <div type="texte">
+			<div type="texte">
+			    <div type="transcription">
 			        <l>[Devises dans la bordure :]</l>
 			        <l>HIC VERGES NIT</l>
                                                     <l>MERITO ET TEMPORE</l>
@@ -199,5 +198,4 @@
 		    
 		</body>
 	</text>
-</TEI>
-
+</TEI>

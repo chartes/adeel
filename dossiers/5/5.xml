@@ -18,7 +18,7 @@
     </teiHeader>
     <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
                     <seg rend="17,17,753,35">Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles, m<ex>od</ex>o Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant gr<ex>ati</ex>æ D<ex>e</ex>i.  - Paulus hebraice, Quiet<ex>us</ex>...</seg>
                     <seg rend="18,38,751,50">g<ex>ræ</ex>ce, Modic<ex>us</ex> latine, pri<ex>us</ex> Saul<ex>us</ex> a Saule p<ex>er</ex>secutore. Co<ex>m</ex>m<ex>en</ex>dat p<ex>er</ex>sonam et negocium <ex>et</ex> auctorem negocii, in quibus congrue captat. - Servus : nomen humili-</seg>
@@ -37,7 +37,7 @@
                     <seg rend="181,237,254,255">D<ex>eu</ex>s pat<ex>er</ex>, <ex>et</ex> g<ex>r</ex>atis.</seg>
                     <seg rend="280,235,341,243">Qui magni.</seg>
                     <seg rend="399,239,482,249">N<ex>on</ex> m<ex>od</ex>o v<ex>er</ex>b<ex>is</ex>, ne daret<ex>ur</ex>.</seg>
-                    <seg rend="276,245,360,254">Qui ex Deo, n<ex>on</ex> ex se. </seg>
+                    <seg rend="276,245,360,254">Qui ex Deo, n<ex>on</ex> ex se.</seg>
                     <seg rend="185,255,484,268">p<ex>ro</ex>miserat p<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as suos in Scrip-</seg>
                     <seg rend="182,272,486,286">oblivioni. - Q<ex>uia</ex> o<ex>mne</ex>s ad Filiu<ex>m</ex>. - P<ex>ro</ex>p<ex>r</ex>io. - <ex>Com</ex>mendatio auct<ex>orita</ex>tis.</seg>
                     <seg rend="183,293,504,305">-turis s<ex>an</ex>c<ex>t</ex>is de filio suo qui factus e<ex>st</ex></seg>
@@ -74,11 +74,10 @@
                     <seg rend="183,968,484,984">-termissione memoriam vestri [...]</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <l rend="rouge">EP<ex>ISTU</ex>LA AD ROMANOS<add place="left">
-                            <p>Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles</p>,<p>m<ex>od</ex>o
-                                Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant</p>
+                            <p>Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles</p>,<p>m<ex>od</ex>o Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant</p>
                             <p>gr<ex>ati</ex>æ D<ex>e</ex>i.</p>
                         </add>
                     </l>
@@ -88,8 +87,7 @@
                             <p>negocii, in quibus congrue captat.</p>
                         </add> servus <add place="left">
                             <p>Servus : nomen humilitatis, ut ad eam p<ex>ro</ex>vocet ap<ex>osto</ex>l[o]s. "Ecce de</p>
-                            <p>humili altus."</p></add>
-                         Jh<ex>es</ex>u* <ex>Christ</ex>i**</l>
+                            <p>humili altus."</p></add> Jh<ex>es</ex>u* <ex>Christ</ex>i**</l>
                     <l>*Salvatoris. **Regis et <ex>sacer</ex>doti, cui merito o<ex>mne</ex>s servi.</l>
                     <l rend="rouge">vocatus <add place="left">
                             <p>Non a se, s<ex>ed</ex> a D<ex>e</ex>o vocatus, <ex>ve</ex>l vocat<ex>us</ex> ab hominib<ex>us</ex>, dictus</p>
@@ -136,8 +134,7 @@
                     <l rend="rouge">gratiam et apostolatum* ad obediendum</l>
                     <l>*Remissionem peccatorum et dona.</l>
                     <l rend="rouge">fidei* in omnibus gentibus** pro nomine</l>
-                    <l>*Ut faciam obedire fidei, pro ejus gl<ex>ori</ex>a, n<ex>on</ex> p<ex>ro</ex> n<ex>ost</ex>ra sic<ex>ut</ex> vos facitis.
-                        **Jud<ex>e</ex>i cohabitatione sunt in gentib<ex>us</ex>.</l>
+                    <l>*Ut faciam obedire fidei, pro ejus gl<ex>ori</ex>a, n<ex>on</ex> p<ex>ro</ex> n<ex>ost</ex>ra sic<ex>ut</ex> vos facitis. **Jud<ex>e</ex>i cohabitatione sunt in gentib<ex>us</ex>.</l>
                     <l rend="rouge">ejus*, in quib<ex>us</ex>** estis et vos vocati***</l>
                     <l>*Vice ej<ex>us</ex>. **Int<ex>er</ex> q<ex>u</ex>os, ut familiari<ex>us</ex> admoneat. </l>
                     <l>***P<ex>er</ex> gr<ex>ati</ex>am.</l>
@@ -164,21 +161,16 @@
                     </l>
                     <l rend="rouge">PAUL <add place="left"><p>Paul en hébreu, "Tranquille" en grec," Modéré" en latin, et</p>
                     <p>auparavant Saul, d'après le persécuteur Saül. Il recommande sa</p>
-                    <p>personne et sa mission et l'auteur de sa mission, dans lequels...</p></add>, 
-                    serviteur <add place="left"><p>Serviteur : titre d'humilité, pour inciter à l'humilité les apôtres. "Voici</p><p>que l'humble est élevé".</p></add> 
-                    de Jésus* Christ**,</l>
+                    <p>personne et sa mission et l'auteur de sa mission, dans lequels...</p></add>,  serviteur <add place="left"><p>Serviteur : titre d'humilité, pour inciter à l'humilité les apôtres. "Voici</p><p>que l'humble est élevé".</p></add>  de Jésus* Christ**,</l>
                     <l>*Sauveur. ** Roi et prêtre, dont tous sont à juste titre serviteurs.</l>
-                    <l rend="rouge">appelé <add place="left"><p>Appelé : non par lui mais par Dieu, ou bien appelé par les hommes,</p><p>dit d'un nom privilégié.</p></add> 
-                    apôtre, mis à part 
-                    <add place="left"><p>Séparé : de la doctrine des pharisiens (ceci est dit contre les juifs) ou</p><p>bien des autres apôtres. D'où : "Séparez de moi de b. et p."</p></add> 
-                    pour l'Évangile* <add place="left"><p>L'Évangile est la bonne nouvelle, qui [concerne] le salut. Celle-ci</p><p>cependant concerne ce qui se rapporte à la foi et aux m?urs.</p></add> </l>
+                    <l rend="rouge">appelé <add place="left"><p>Appelé : non par lui mais par Dieu, ou bien appelé par les hommes,</p><p>dit d'un nom privilégié.</p></add>  apôtre, mis à part 
+                    <add place="left"><p>Séparé : de la doctrine des pharisiens (ceci est dit contre les juifs) ou</p><p>bien des autres apôtres. D'où : "Séparez de moi de b. et p."</p></add>  pour l'Évangile* <add place="left"><p>L'Évangile est la bonne nouvelle, qui [concerne] le salut. Celle-ci</p><p>cependant concerne ce qui se rapporte à la foi et aux m?urs.</p></add> </l>
                     <l rend="rouge">de Dieu**, <add place="left"><p>De Dieu : non inventé par un homme.</p></add> que d'avance*** 
                     <add place="left"><p>D'avance : avant l'accomplissement, non aussitôt. D'où : "La parole</p><p>est vraie en ceci que c'est l'un qui sème et l'autre qui récolte".</p></add> il avait</l>
                     <l>*Pour le prêcher. Éloge de l'Évangile. **Dieu le Père. </l>
                     <l>***Et gratuitement.</l>
                     <l rend="rouge">promis par ses prophètes 
-                    <add place="left"><p>Par les prophètes, d'où Jérémie : "Voici que les jours viennent, et je</p><p>consommerais mon nouveau testament. Les autres de même.</p></add> 
-                    dans les saintes</l>
+                    <add place="left"><p>Par les prophètes, d'où Jérémie : "Voici que les jours viennent, et je</p><p>consommerais mon nouveau testament. Les autres de même.</p></add>  dans les saintes</l>
                     <l>*Les grands. Ils [parlent] de par Dieu, non d'eux-mêmes.</l>
                     <l rend="rouge">Écritures* touchant son** fils***, fait 
                         <add n="10" place="left"><p>Fait : même s'il a été tué. L'union est telle entre les deux natures que le tout est dit Dieu et</p><p>le tout également homme, et tour à tour Dieu-</p><p>homme et homme-Dieu, ce qui n'est pas dans les substances des</p><p>hommes.[??]</p></add></l>
@@ -224,4 +216,4 @@
             </div>
         </body>
     </text>
-</TEI>
+</TEI>

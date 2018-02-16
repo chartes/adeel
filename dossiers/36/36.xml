@@ -18,7 +18,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 				<p>
 					<seg rend="21,24,660,56">Conoguda chausa sia q<ex>ue</ex>
 						p<ex>er</ex> II tortas de ceu redens ad</seg>
@@ -52,8 +52,8 @@
 							q<ex>ui</ex>nto.</seg>
 				</p>
 			</div>
-			<div type="transcription">
-				<div type="texte">
+			<div type="texte">
+				<div type="transcription">
 					<l>Conoguda chausa sia <term
 							n="q surmonté d&#x2019;un tilde est la seule forme que le texte offre pour la conjonction ou le relatif que : si l&#x2019;on trouve des formes Pasqes (l. 3), chasqe (l.), aqest, l&#x2019;on trouve en revanche le relatif sous la forme developpée qui. Cette dernière forme peut justifier la transcription que."
 								>q<ex>ue</ex></term> p<ex>er</ex> II tortas de ceu
@@ -115,8 +115,7 @@
 					<l>sur cet étal de J. Arnau ainsi qu'il est dit dessus. Donné à la demande</l>
 					<l>des deux parties, après l'investiture dudit W., au mois de janvier 1245.</l>
 				</div>
-				<div type="regeste">
-
+				<div type="regeste">
 					<head>Cession d'étal.</head>
 					<p>Cet accord concernant la redevance levée sur un étal de boucher a été publié
 						dans Alfred Leroux, Émile Molinier et Antoine Thomas, <hi rend="i"
@@ -125,7 +124,7 @@
 						t. I, p. 170, n° LIII.</p>
 				</div>
 			</div>
-			<div type="commentaire" n="diplomatique">
+			<div type="diplomatic">
 				<head>Commentaire diplomatique</head>
 				<div>
 					<div>
@@ -158,8 +157,7 @@
 							trait archaïsant. Ce n'est pas à dire que le sceau soit utilisé au
 							hasard ; le bas du parchemin montre que le scribe a bien prévu la place,
 							un peu chiche certes, pour ménager le repli accueillant la double queue
-							du sceau.</p>
-
+							du sceau.</p>
 						<p>Ce sceau, aujourd'hui fragmentaire, peut être identifié, grâce au dessin
 							ancien d'une autre empreinte médiévale aujourd'hui perdue, grâce aussi
 							aux empreintes conservées de l'époque moderne : c'est le sceau du
@@ -228,4 +226,4 @@
 			</div>
 		</body>
 	</text>
-</TEI>
+</TEI>

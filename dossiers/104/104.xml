@@ -4,13 +4,11 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">L’<hi rend="i">Histoire de l’Église</hi> d’Hugues de Fleury</title>
-                <title type="sub">Écrire l’histoire : exemple d’une histoire chrétienne de la
-                    création à la mort de Lothaire I<hi rend="i">er</hi> (855). </title>
+                <title type="sub">Écrire l’histoire : exemple d’une histoire chrétienne de la création à la mort de Lothaire I<hi rend="i">er</hi> (855). </title>
                 <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
                 <respStmt>
                     <resp>document encodé par</resp>
-                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École
-                        nationale des Chartes)</name>
+                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -30,404 +28,124 @@
         <profileDesc>
             <langUsage>
                 <language ident="lat"/>
-                <!-- Le document, "Eléments utiles pour l'indexation des dossiers 
-                    documentaires indique que ce texte est en français or, manifestement, ce n'est pas le 
-                    cas. Je rétablis (idem pour le document 1002, 1r).  -->
+                <!-- Le document, "Eléments utiles pour l'indexation des dossiers  documentaires indique que ce texte est en français or, manifestement, ce n'est pas le  cas. Je rétablis (idem pour le document 1002, 1r).  -->
             </langUsage>
         </profileDesc>
     </teiHeader>
-    <text>
-        <front/>
+    <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>Colonne a<lb/>
-                    <seg
-                        rend="160,54,161,145,151,167,138,177,126,183,99,186,70,183,61,194,53,196,44,192,41,186,45,180,51,170,29,147,13,120,12,86,25,54,51,33,75,24,119,23,141,27,156,31,165,5,176,13,345,13,344,48,308,50,163,45"
-                        n="poly">Glorioso et sapien-</seg>
+                    <seg rend="160,54,161,145,151,167,138,177,126,183,99,186,70,183,61,194,53,196,44,192,41,186,45,180,51,170,29,147,13,120,12,86,25,54,51,33,75,24,119,23,141,27,156,31,165,5,176,13,345,13,344,48,308,50,163,45" n="poly">Glorioso et sapien-</seg>
                     <seg rend="175,49,345,52,343,75,174,70" n="poly">–ti Ivoni Carnotensi</seg>
-                    <seg rend="175,73,339,77,340,99,196,97,188,102,175,90" n="poly"
-                        >ep<ex>iscop</ex>o f<ex>rate</ex>r Hugo mona-</seg>
-                    <seg rend="173,102,190,104,196,100,329,101,328,127,172,124" n="poly">–chus
-                            S<ex>an</ex>c<ex>t</ex>i Benedicti</seg>
+                    <seg rend="175,73,339,77,340,99,196,97,188,102,175,90" n="poly" >ep<ex>iscop</ex>o f<ex>rate</ex>r Hugo mona-</seg>
+                    <seg rend="173,102,190,104,196,100,329,101,328,127,172,124" n="poly">–chus S<ex>an</ex>c<ex>t</ex>i Benedicti</seg>
                     <seg rend="172,127,334,129,334,152,172,149" n="poly">Floriacensis cenobii</seg>
-                    <seg rend="171,152,341,155,341,178,245,178,238,184,188,182,183,176,171,175"
-                        n="poly">se<ex>m</ex>pit<ex>er</ex>na pace et felici-</seg>
-                    <seg
-                        rend="65,191,70,187,109,187,121,187,135,184,221,185,339,182,339,203,240,208,185,203,111,207,64,201"
-                        n="poly">–tate p<ex>er</ex>frui. Ecce tibi precellentis-</seg>
-                    <seg
-                        rend="65,206,114,211,138,208,207,207,244,210,331,209,331,230,116,229,112,238,107,230,64,231"
-                        n="poly">–sime pat<ex>er</ex> et d<ex>omi</ex>ne duo humilitatis</seg>
-                    <seg
-                        rend="67,235,105,234,112,240,118,231,341,232,341,257,303,260,282,255,123,253,118,261,114,260,109,253,66,254"
-                        n="poly">mee opuscula transmitto, ut si q<ex>u</ex>id ibi</seg>
-                    <seg
-                        rend="67,257,107,256,114,264,118,264,125,255,283,257,305,263,346,260,347,284,323,283,317,290,311,283,66,282"
-                        n="poly">videris indecens et incultu<ex>m</ex> lima pru-</seg>
-                    <seg
-                        rend="68,284,309,285,318,293,324,286,343,286,342,311,212,309,205,316,198,317,197,309,67,309"
-                        n="poly">–dentie tue corrigas et exornes, et</seg>
-                    <seg
-                        rend="66,312,194,311,196,321,208,319,213,312,343,314,343,339,139,336,134,344,130,343,130,337,81,337,79,341,76,341,75,337,66,336"
-                        n="poly">q<ex>u</ex>od tibi placuerit corrobores et con-</seg>
-                    <seg
-                        rend="65,338,72,338,75,342,80,343,82,340,126,339,126,345,138,346,139,338,332,341,332,364,64,362"
-                        n="poly">–firmes. Arma mea adversus otium</seg>
-                    <seg rend="65,365,345,367,345,392,224,393,153,395,65,389" n="poly">sunt hec
-                        opuscula que nunc vides.</seg>
-                    <seg rend="64,392,158,397,336,395,335,419,253,421,64,417" n="poly"
-                        >Na<ex>m</ex> malo studio vacare qua<ex>m</ex> in otio</seg>
-                    <seg
-                        rend="66,422,334,425,341,417,347,418,347,446,210,445,205,452,203,452,201,445,121,443,122,449,118,452,115,450,116,444,65,444"
-                        n="poly">et torpore sicut pecus inutile vita<ex>m</ex></seg>
-                    <seg
-                        rend="65,448,112,447,112,452,123,453,123,446,196,447,202,455,212,447,334,449,333,471,107,470,104,475,98,478,91,477,91,470,72,473,66,474,65,468"
-                        n="poly">exigere. Sed hec om<ex>n</ex>ia v<ex>est</ex>ro deside-</seg>
-                    <seg
-                        rend="66,476,87,472,87,479,100,482,106,476,107,472,339,474,339,498,287,496,284,503,281,503,281,497,66,495"
-                        n="poly">–ro judicio discuti et v<ex>est</ex>ra sapientia</seg>
-                    <seg
-                        rend="67,496,274,499,279,504,287,505,288,499,335,500,335,523,273,521,270,528,267,528,267,521,154,521,150,525,149,525,149,521,66,522"
-                        n="poly">condiri, q<ex>uonia</ex>m vacillare n<ex>on</ex>
-                        poterit</seg>
-                    <seg
-                        rend="67,524,146,522,146,528,154,523,265,523,265,530,272,530,275,523,333,525,332,551,81,549,77,554,73,554,73,549,66,547"
-                        n="poly">q<ex>u</ex>od semel auctoritatis v<ex>est</ex>re nodus</seg>
-                    <seg
-                        rend="65,551,70,552,70,555,79,556,82,551,336,553,335,578,200,578,198,582,194,582,196,577,66,575"
-                        n="poly">corroboraverit. At m<ex>ih</ex>i forsitan ali-</seg>
-                    <seg
-                        rend="66,577,189,578,189,584,199,584,201,580,337,580,337,603,84,602,75,607,73,601,66,599"
-                        n="poly">-q<ex>u</ex>is dicet : tam vilia et inutilia cur</seg>
-                    <seg
-                        rend="66,608,338,607,338,630,277,632,276,636,274,637,273,631,119,630,117,636,112,638,111,631,66,630"
-                        n="poly">viro prudenti et in su<ex>m</ex>ma phyloso-</seg>
-                    <seg
-                        rend="66,634,107,634,109,642,119,638,120,632,271,634,271,640,278,637,279,634,338,633,338,658,74,657,72,664,69,664,65,651"
-                        n="poly">–phie arce sedenti mittere n<ex>on</ex> erubu-</seg>
-                    <seg rend="66,667,71,668,75,659,341,660,341,685,227,685,220,690,218,684,66,683"
-                        n="poly">–isti, cu<ex>m</ex> scias e<ex>ss</ex>e
-                        scriptu<ex>m</ex> q<ex>u</ex>ia orationi</seg>
-                    <seg
-                        rend="66,686,215,686,219,694,227,687,340,687,339,714,305,716,238,714,232,719,224,718,224,711,182,711,181,716,178,717,177,711,67,710"
-                        n="poly">et carmini est parva g<ex>rati</ex>a, n<ex>is</ex>i
-                        eloquen-</seg>
-                    <seg
-                        rend="67,713,173,713,178,719,183,718,184,713,222,713,222,720,234,721,240,716,316,717,341,716,340,739,304,739,303,745,299,746,298,739,203,740,198,745,192,746,192,739,67,738"
-                        n="poly">–tia sit su<ex>m</ex>ma ? Ego v<ex>er</ex>o ad hec
-                        respon-</seg>
-                    <seg
-                        rend="66,739,188,741,189,747,200,748,204,741,295,741,298,748,305,745,305,741,340,743,339,766,236,765,229,772,228,765,113,764,107,771,106,766,67,764"
-                        n="poly">–deo q<ex>uonia</ex>m malo justo sapientis judicio</seg>
-                    <seg
-                        rend="67,768,102,768,106,774,114,766,225,767,226,776,238,767,338,768,338,792,213,791,209,797,200,797,199,791,146,790,146,796,142,798,141,792,89,792,87,799,84,800,78,798,76,798,67,789"
-                        n="poly">co<ex>m</ex>p<ex>ro</ex>bari, qua<ex>m</ex>
-                            arrogantiu<ex>m</ex> sententia</seg>
-                    <seg
-                        rend="67,796,73,801,89,803,90,793,138,793,140,803,148,796,148,792,197,793,198,800,211,799,214,794,340,794,340,817,304,817,303,822,299,825,298,818,67,818"
-                        n="poly">conde<ex>m</ex>nari. Laboriosu<ex>m</ex>
-                        tam<ex>en</ex> est pater</seg>
-                    <seg
-                        rend="67,821,296,821,297,827,307,822,307,819,347,821,347,845,282,842,275,840,261,840,261,842,245,842,239,852,231,852,231,844,67,843"
-                        n="poly">honestissime tue integritatis adjecti-</seg>
-                    <seg
-                        rend="68,846,228,846,228,853,242,854,247,844,276,842,285,843,342,847,342,869,261,868,68,868"
-                        n="poly">–ones et detractiones huic adhibere vo-</seg>
-                    <seg rend="68,870,340,870,339,886,326,894,278,898,268,892,68,893" n="poly"
-                        >–lumini, sed fruct<ex>us</ex> laboris p<ex>re</ex>ciosior</seg>
-                    <seg rend="68,896,225,895,225,920,68,920" n="poly">auro caritas est.
-                            V<ex>a</ex>l<ex>e</ex>.</seg>
+                    <seg rend="171,152,341,155,341,178,245,178,238,184,188,182,183,176,171,175" n="poly">se<ex>m</ex>pit<ex>er</ex>na pace et felici-</seg>
+                    <seg rend="65,191,70,187,109,187,121,187,135,184,221,185,339,182,339,203,240,208,185,203,111,207,64,201" n="poly">–tate p<ex>er</ex>frui. Ecce tibi precellentis-</seg>
+                    <seg rend="65,206,114,211,138,208,207,207,244,210,331,209,331,230,116,229,112,238,107,230,64,231" n="poly">–sime pat<ex>er</ex> et d<ex>omi</ex>ne duo humilitatis</seg>
+                    <seg rend="67,235,105,234,112,240,118,231,341,232,341,257,303,260,282,255,123,253,118,261,114,260,109,253,66,254" n="poly">mee opuscula transmitto, ut si q<ex>u</ex>id ibi</seg>
+                    <seg rend="67,257,107,256,114,264,118,264,125,255,283,257,305,263,346,260,347,284,323,283,317,290,311,283,66,282" n="poly">videris indecens et incultu<ex>m</ex> lima pru-</seg>
+                    <seg rend="68,284,309,285,318,293,324,286,343,286,342,311,212,309,205,316,198,317,197,309,67,309" n="poly">–dentie tue corrigas et exornes, et</seg>
+                    <seg rend="66,312,194,311,196,321,208,319,213,312,343,314,343,339,139,336,134,344,130,343,130,337,81,337,79,341,76,341,75,337,66,336" n="poly">q<ex>u</ex>od tibi placuerit corrobores et con-</seg>
+                    <seg rend="65,338,72,338,75,342,80,343,82,340,126,339,126,345,138,346,139,338,332,341,332,364,64,362" n="poly">–firmes. Arma mea adversus otium</seg>
+                    <seg rend="65,365,345,367,345,392,224,393,153,395,65,389" n="poly">sunt hec opuscula que nunc vides.</seg>
+                    <seg rend="64,392,158,397,336,395,335,419,253,421,64,417" n="poly" >Na<ex>m</ex> malo studio vacare qua<ex>m</ex> in otio</seg>
+                    <seg rend="66,422,334,425,341,417,347,418,347,446,210,445,205,452,203,452,201,445,121,443,122,449,118,452,115,450,116,444,65,444" n="poly">et torpore sicut pecus inutile vita<ex>m</ex></seg>
+                    <seg rend="65,448,112,447,112,452,123,453,123,446,196,447,202,455,212,447,334,449,333,471,107,470,104,475,98,478,91,477,91,470,72,473,66,474,65,468" n="poly">exigere. Sed hec om<ex>n</ex>ia v<ex>est</ex>ro deside-</seg>
+                    <seg rend="66,476,87,472,87,479,100,482,106,476,107,472,339,474,339,498,287,496,284,503,281,503,281,497,66,495" n="poly">–ro judicio discuti et v<ex>est</ex>ra sapientia</seg>
+                    <seg rend="67,496,274,499,279,504,287,505,288,499,335,500,335,523,273,521,270,528,267,528,267,521,154,521,150,525,149,525,149,521,66,522" n="poly">condiri, q<ex>uonia</ex>m vacillare n<ex>on</ex> poterit</seg>
+                    <seg rend="67,524,146,522,146,528,154,523,265,523,265,530,272,530,275,523,333,525,332,551,81,549,77,554,73,554,73,549,66,547" n="poly">q<ex>u</ex>od semel auctoritatis v<ex>est</ex>re nodus</seg>
+                    <seg rend="65,551,70,552,70,555,79,556,82,551,336,553,335,578,200,578,198,582,194,582,196,577,66,575" n="poly">corroboraverit. At m<ex>ih</ex>i forsitan ali-</seg>
+                    <seg rend="66,577,189,578,189,584,199,584,201,580,337,580,337,603,84,602,75,607,73,601,66,599" n="poly">-q<ex>u</ex>is dicet : tam vilia et inutilia cur</seg>
+                    <seg rend="66,608,338,607,338,630,277,632,276,636,274,637,273,631,119,630,117,636,112,638,111,631,66,630" n="poly">viro prudenti et in su<ex>m</ex>ma phyloso-</seg>
+                    <seg rend="66,634,107,634,109,642,119,638,120,632,271,634,271,640,278,637,279,634,338,633,338,658,74,657,72,664,69,664,65,651" n="poly">–phie arce sedenti mittere n<ex>on</ex> erubu-</seg>
+                    <seg rend="66,667,71,668,75,659,341,660,341,685,227,685,220,690,218,684,66,683" n="poly">–isti, cu<ex>m</ex> scias e<ex>ss</ex>e scriptu<ex>m</ex> q<ex>u</ex>ia orationi</seg>
+                    <seg rend="66,686,215,686,219,694,227,687,340,687,339,714,305,716,238,714,232,719,224,718,224,711,182,711,181,716,178,717,177,711,67,710" n="poly">et carmini est parva g<ex>rati</ex>a, n<ex>is</ex>i eloquen-</seg>
+                    <seg rend="67,713,173,713,178,719,183,718,184,713,222,713,222,720,234,721,240,716,316,717,341,716,340,739,304,739,303,745,299,746,298,739,203,740,198,745,192,746,192,739,67,738" n="poly">–tia sit su<ex>m</ex>ma ? Ego v<ex>er</ex>o ad hec respon-</seg>
+                    <seg rend="66,739,188,741,189,747,200,748,204,741,295,741,298,748,305,745,305,741,340,743,339,766,236,765,229,772,228,765,113,764,107,771,106,766,67,764" n="poly">–deo q<ex>uonia</ex>m malo justo sapientis judicio</seg>
+                    <seg rend="67,768,102,768,106,774,114,766,225,767,226,776,238,767,338,768,338,792,213,791,209,797,200,797,199,791,146,790,146,796,142,798,141,792,89,792,87,799,84,800,78,798,76,798,67,789" n="poly">co<ex>m</ex>p<ex>ro</ex>bari, qua<ex>m</ex> arrogantiu<ex>m</ex> sententia</seg>
+                    <seg rend="67,796,73,801,89,803,90,793,138,793,140,803,148,796,148,792,197,793,198,800,211,799,214,794,340,794,340,817,304,817,303,822,299,825,298,818,67,818" n="poly">conde<ex>m</ex>nari. Laboriosu<ex>m</ex> tam<ex>en</ex> est pater</seg>
+                    <seg rend="67,821,296,821,297,827,307,822,307,819,347,821,347,845,282,842,275,840,261,840,261,842,245,842,239,852,231,852,231,844,67,843" n="poly">honestissime tue integritatis adjecti-</seg>
+                    <seg rend="68,846,228,846,228,853,242,854,247,844,276,842,285,843,342,847,342,869,261,868,68,868" n="poly">–ones et detractiones huic adhibere vo-</seg>
+                    <seg rend="68,870,340,870,339,886,326,894,278,898,268,892,68,893" n="poly" >–lumini, sed fruct<ex>us</ex> laboris p<ex>re</ex>ciosior</seg>
+                    <seg rend="68,896,225,895,225,920,68,920" n="poly">auro caritas est. V<ex>a</ex>l<ex>e</ex>.</seg>
                </p>
                 <p>Colonne b<lb/>
-                    <seg
-                        rend="390,16,620,24,641,39,641,63,607,52,562,50,550,48,489,45,479,48,438,48,397,46,392,53,392,42"
-                        n="poly">Incipit eccl<ex>esi</ex>astice liber histo-</seg>
-                    <seg
-                        rend="391,56,399,48,480,51,490,47,589,54,599,54,642,67,642,90,606,78,542,73,532,80,522,78,527,69,470,70,462,73,461,70,391,71"
-                        n="poly">–rie que<ex>m</ex> Hugo de
-                        S<ex>an</ex>c<ex>t</ex>a Maria</seg>
-                    <seg
-                        rend="392,74,510,75,522,71,523,71,520,80,532,82,542,76,616,83,643,92,642,111,610,102,492,95,392,95"
-                        n="poly">monachus S<ex>an</ex>c<ex>t</ex>i Benedicti Flori-</seg>
-                    <seg
-                        rend="393,98,492,98,580,102,610,104,642,114,642,140,604,130,532,124,392,121"
-                        n="poly">–acensis a diversis defloravit</seg>
-                    <seg rend="392,123,543,126,605,133,644,143,643,164,588,154,516,151,392,152"
-                        n="poly">historie locis, anno ab incar-</seg>
-                    <seg rend="393,154,520,152,587,157,644,167,642,192,603,182,509,177,393,176"
-                        n="poly">–natione D<ex>omi</ex>ni millesimo centesi-</seg>
-                    <seg
-                        rend="392,179,525,179,576,182,603,184,643,195,643,214,601,207,514,201,392,201"
-                        n="poly">–mo decimo, gr<ex>ati</ex>a do<ex>mi</ex>ne Adele</seg>
-                    <seg rend="448,205,566,208,646,217,646,243,572,234,450,227" n="poly"
-                            >Carnotensiu<ex>m</ex>, Meldensiu<ex>m</ex></seg>
-                    <seg
-                        rend="480,232,589,237,633,244,631,264,593,259,512,256,497,260,468,254,480,237"
-                        n="poly">atq<ex>ue</ex> Blesensiu<ex>m</ex> comi-</seg>
-                    <seg
-                        rend="478,261,520,262,530,258,602,263,650,269,648,292,617,288,571,285,570,290,566,292,564,285,530,284,522,292,508,289,478,283"
-                        n="poly">–tisse. Incipit lib<ex>er</ex> prim<ex>us</ex>.</seg>
-                    <seg
-                        rend="441,203,397,204,373,201,373,205,395,207,383,272,366,373,359,402,347,402,347,406,378,404,379,390,500,394,501,404,512,399,544,398,544,395,537,394,502,335,477,292,458,253,473,244,477,236,470,231,458,230,451,236"
-                        n="poly">Assirioru<ex>m</ex> igitur rex</seg>
-                    <seg
-                        rend="498,293,584,294,590,290,647,298,647,319,593,314,515,312,506,319,499,313"
-                        n="poly">potentissim<ex>us</ex> fuit olim</seg>
-                    <seg rend="514,315,648,322,648,348,565,342,559,347,559,342,514,341" n="poly"
-                            >Nin<ex>us</ex> q<ex>u</ex>i bellu<ex>m</ex> finitimis</seg>
-                    <seg
-                        rend="527,345,556,344,557,350,565,344,648,350,647,374,614,369,612,374,606,377,603,377,604,370,527,368"
-                        n="poly">inferens regib<ex>us</ex> om<ex>ne</ex>s </seg>
-                    <seg
-                        rend="549,371,600,372,601,378,611,377,616,372,647,377,647,396,631,395,631,402,627,402,615,394,601,403,582,401,550,398"
-                        n="poly">Asie pop<ex>u</ex>los p<ex>re</ex>ter</seg>
-                    <seg
-                        rend="394,393,495,398,496,406,515,402,608,404,616,399,624,404,637,404,637,397,647,397,647,423,522,421,517,428,508,428,508,420,394,420"
-                        n="poly">Indos sibi subjugavit et annis in ea q<ex>u</ex>in-</seg>
-                    <seg
-                        rend="394,424,503,423,503,429,522,429,525,424,647,427,647,450,600,451,500,447,493,453,484,453,484,446,434,446,431,453,423,453,424,446,407,446,405,450,403,451,402,446,394,445"
-                        n="poly">–quaginta regnavit. Quib<ex>us</ex> exactis, de-</seg>
-                    <seg
-                        rend="395,453,420,453,420,455,432,455,435,450,480,449,480,456,494,457,501,449,644,454,644,475,576,473,576,479,571,480,571,474,395,474"
-                        n="poly">–cessit relicto adhuc in pubere filio</seg>
-                    <seg
-                        rend="396,478,566,477,569,481,578,481,580,474,648,477,647,502,535,502,530,504,526,499,395,498"
-                        n="poly">Nina nomine et uxore Semiramide</seg>
-                    <seg
-                        rend="396,501,525,502,529,507,537,505,646,504,646,526,623,525,619,531,612,526,555,525,553,529,549,529,549,524,396,525"
-                        n="poly">que nec inmaturo puero imp<ex>er</ex>ium </seg>
-                    <seg
-                        rend="396,528,545,526,545,531,556,532,557,529,608,529,618,534,624,528,646,528,644,554,571,553,566,559,565,553,543,554,543,558,537,559,537,552,396,552"
-                        n="poly">ausa tradere, nec ipsa pala<ex>m</ex> tracta-</seg>
-                    <seg
-                        rend="396,556,533,554,533,562,547,561,546,556,563,556,563,561,572,556,649,556,648,581,621,579,619,583,615,584,596,583,525,584,517,578,395,579"
-                        n="poly">–re, tot ac tantis gentib<ex>us</ex> vix
-                        patient<ex>er</ex></seg>
-                    <seg
-                        rend="395,582,515,581,526,588,621,587,625,582,647,584,648,604,585,604,579,613,578,606,562,607,396,603"
-                        n="poly">uni viro nedum femine parituris si-</seg>
-                    <seg
-                        rend="396,608,574,610,576,617,585,607,647,607,648,631,625,631,623,638,615,637,613,632,502,633,496,636,493,632,484,632,485,639,474,637,472,630,396,631"
-                        n="poly">–mulat se p<ex>ro</ex> uxore Nini filiu<ex>m</ex>,
-                            p<ex>ro</ex> femi-</seg>
-                    <seg
-                        rend="396,636,470,634,471,640,488,641,488,637,611,636,613,639,627,639,627,635,649,634,649,656,632,658,629,662,627,658,432,658,427,664,423,664,423,659,396,658"
-                        n="poly">–na pueru<ex>m</ex>. Nam et statura utriq<ex>ue</ex>
-                        me-</seg>
-                    <seg
-                        rend="396,662,419,662,420,666,430,667,433,661,621,660,628,664,635,660,649,659,648,685,571,687,567,693,559,693,558,687,529,690,491,688,396,683"
-                        n="poly">–diocris et vox eque gracilis et linia-</seg>
-                    <seg
-                        rend="396,687,532,693,555,689,556,696,569,695,573,690,648,688,648,711,526,713,434,715,396,712"
-                        n="poly">–m<ex>en</ex>tor<ex>um</ex> qualitas matri ac filio
-                        simi-</seg>
-                    <seg rend="396,716,440,719,649,714,649,736,607,739,535,743,396,739" n="poly"
-                        >–lis erat, brachiaq<ex>ue</ex> et crura vestis vi-</seg>
-                    <seg
-                        rend="397,741,536,745,650,739,650,762,588,767,583,772,576,773,576,766,458,772,397,765"
-                        n="poly">–rilis, caput v<ex>er</ex>o thiara tegebat. Et ne </seg>
-                    <seg
-                        rend="397,767,461,775,573,769,574,775,585,775,589,769,646,766,646,791,571,797,563,793,397,792"
-                        n="poly">forte novo habitu aliq<ex>u</ex>id occultare</seg>
-                    <seg
-                        rend="397,796,557,796,570,801,644,797,645,817,608,819,606,825,604,824,587,825,585,820,398,819"
-                        n="poly">videret<ex>ur</ex>, eode<ex>m</ex> ornatu et
-                            pop<ex>u</ex>l<ex>u</ex>m ve-</seg>
-                    <seg
-                        rend="397,822,583,823,585,829,607,827,609,822,646,819,647,842,612,848,396,846"
-                        n="poly">–stiri jubet. Que<ex>m</ex> more<ex>m</ex> vestis
-                        exinde</seg>
-                    <seg
-                        rend="396,851,616,850,644,845,643,866,608,871,607,877,605,872,411,871,404,878,397,877,396,865"
-                        n="poly">gens illa univ<ex>er</ex>sa tenet. Sed primis</seg>
-                    <seg
-                        rend="397,879,408,879,412,874,600,874,604,880,611,875,611,873,649,868,649,888,596,894,567,897,562,901,556,896,456,899,397,893"
-                        n="poly">initiis sexu<ex>m</ex> mentita, puer esse credi-</seg>
-                    <seg
-                        rend="398,895,457,902,554,899,564,907,569,899,650,891,648,915,609,921,606,926,598,928,597,924,563,926,487,927,477,926,399,918"
-                        n="poly">–ta est. Magnas deniq<ex>ue</ex> res gessit. Qua-</seg>
-                    <seg
-                        rend="400,922,500,931,593,927,597,930,615,925,648,920,647,946,620,952,454,953,399,947"
-                        n="poly">–ru<ex>m</ex> amplitudine ubi invidia<ex>m</ex>
-                    putat…</seg>
+                    <seg rend="390,16,620,24,641,39,641,63,607,52,562,50,550,48,489,45,479,48,438,48,397,46,392,53,392,42" n="poly">Incipit eccl<ex>esi</ex>astice liber histo-</seg>
+                    <seg rend="391,56,399,48,480,51,490,47,589,54,599,54,642,67,642,90,606,78,542,73,532,80,522,78,527,69,470,70,462,73,461,70,391,71" n="poly">–rie que<ex>m</ex> Hugo de S<ex>an</ex>c<ex>t</ex>a Maria</seg>
+                    <seg rend="392,74,510,75,522,71,523,71,520,80,532,82,542,76,616,83,643,92,642,111,610,102,492,95,392,95" n="poly">monachus S<ex>an</ex>c<ex>t</ex>i Benedicti Flori-</seg>
+                    <seg rend="393,98,492,98,580,102,610,104,642,114,642,140,604,130,532,124,392,121" n="poly">–acensis a diversis defloravit</seg>
+                    <seg rend="392,123,543,126,605,133,644,143,643,164,588,154,516,151,392,152" n="poly">historie locis, anno ab incar-</seg>
+                    <seg rend="393,154,520,152,587,157,644,167,642,192,603,182,509,177,393,176" n="poly">–natione D<ex>omi</ex>ni millesimo centesi-</seg>
+                    <seg rend="392,179,525,179,576,182,603,184,643,195,643,214,601,207,514,201,392,201" n="poly">–mo decimo, gr<ex>ati</ex>a do<ex>mi</ex>ne Adele</seg>
+                    <seg rend="448,205,566,208,646,217,646,243,572,234,450,227" n="poly" >Carnotensiu<ex>m</ex>, Meldensiu<ex>m</ex></seg>
+                    <seg rend="480,232,589,237,633,244,631,264,593,259,512,256,497,260,468,254,480,237" n="poly">atq<ex>ue</ex> Blesensiu<ex>m</ex> comi-</seg>
+                    <seg rend="478,261,520,262,530,258,602,263,650,269,648,292,617,288,571,285,570,290,566,292,564,285,530,284,522,292,508,289,478,283" n="poly">–tisse. Incipit lib<ex>er</ex> prim<ex>us</ex>.</seg>
+                    <seg rend="441,203,397,204,373,201,373,205,395,207,383,272,366,373,359,402,347,402,347,406,378,404,379,390,500,394,501,404,512,399,544,398,544,395,537,394,502,335,477,292,458,253,473,244,477,236,470,231,458,230,451,236" n="poly">Assirioru<ex>m</ex> igitur rex</seg>
+                    <seg rend="498,293,584,294,590,290,647,298,647,319,593,314,515,312,506,319,499,313" n="poly">potentissim<ex>us</ex> fuit olim</seg>
+                    <seg rend="514,315,648,322,648,348,565,342,559,347,559,342,514,341" n="poly" >Nin<ex>us</ex> q<ex>u</ex>i bellu<ex>m</ex> finitimis</seg>
+                    <seg rend="527,345,556,344,557,350,565,344,648,350,647,374,614,369,612,374,606,377,603,377,604,370,527,368" n="poly">inferens regib<ex>us</ex> om<ex>ne</ex>s</seg>
+                    <seg rend="549,371,600,372,601,378,611,377,616,372,647,377,647,396,631,395,631,402,627,402,615,394,601,403,582,401,550,398" n="poly">Asie pop<ex>u</ex>los p<ex>re</ex>ter</seg>
+                    <seg rend="394,393,495,398,496,406,515,402,608,404,616,399,624,404,637,404,637,397,647,397,647,423,522,421,517,428,508,428,508,420,394,420" n="poly">Indos sibi subjugavit et annis in ea q<ex>u</ex>in-</seg>
+                    <seg rend="394,424,503,423,503,429,522,429,525,424,647,427,647,450,600,451,500,447,493,453,484,453,484,446,434,446,431,453,423,453,424,446,407,446,405,450,403,451,402,446,394,445" n="poly">–quaginta regnavit. Quib<ex>us</ex> exactis, de-</seg>
+                    <seg rend="395,453,420,453,420,455,432,455,435,450,480,449,480,456,494,457,501,449,644,454,644,475,576,473,576,479,571,480,571,474,395,474" n="poly">–cessit relicto adhuc in pubere filio</seg>
+                    <seg rend="396,478,566,477,569,481,578,481,580,474,648,477,647,502,535,502,530,504,526,499,395,498" n="poly">Nina nomine et uxore Semiramide</seg>
+                    <seg rend="396,501,525,502,529,507,537,505,646,504,646,526,623,525,619,531,612,526,555,525,553,529,549,529,549,524,396,525" n="poly">que nec inmaturo puero imp<ex>er</ex>ium</seg>
+                    <seg rend="396,528,545,526,545,531,556,532,557,529,608,529,618,534,624,528,646,528,644,554,571,553,566,559,565,553,543,554,543,558,537,559,537,552,396,552" n="poly">ausa tradere, nec ipsa pala<ex>m</ex> tracta-</seg>
+                    <seg rend="396,556,533,554,533,562,547,561,546,556,563,556,563,561,572,556,649,556,648,581,621,579,619,583,615,584,596,583,525,584,517,578,395,579" n="poly">–re, tot ac tantis gentib<ex>us</ex> vix patient<ex>er</ex></seg>
+                    <seg rend="395,582,515,581,526,588,621,587,625,582,647,584,648,604,585,604,579,613,578,606,562,607,396,603" n="poly">uni viro nedum femine parituris si-</seg>
+                    <seg rend="396,608,574,610,576,617,585,607,647,607,648,631,625,631,623,638,615,637,613,632,502,633,496,636,493,632,484,632,485,639,474,637,472,630,396,631" n="poly">–mulat se p<ex>ro</ex> uxore Nini filiu<ex>m</ex>, p<ex>ro</ex> femi-</seg>
+                    <seg rend="396,636,470,634,471,640,488,641,488,637,611,636,613,639,627,639,627,635,649,634,649,656,632,658,629,662,627,658,432,658,427,664,423,664,423,659,396,658" n="poly">–na pueru<ex>m</ex>. Nam et statura utriq<ex>ue</ex> me-</seg>
+                    <seg rend="396,662,419,662,420,666,430,667,433,661,621,660,628,664,635,660,649,659,648,685,571,687,567,693,559,693,558,687,529,690,491,688,396,683" n="poly">–diocris et vox eque gracilis et linia-</seg>
+                    <seg rend="396,687,532,693,555,689,556,696,569,695,573,690,648,688,648,711,526,713,434,715,396,712" n="poly">–m<ex>en</ex>tor<ex>um</ex> qualitas matri ac filio simi-</seg>
+                    <seg rend="396,716,440,719,649,714,649,736,607,739,535,743,396,739" n="poly" >–lis erat, brachiaq<ex>ue</ex> et crura vestis vi-</seg>
+                    <seg rend="397,741,536,745,650,739,650,762,588,767,583,772,576,773,576,766,458,772,397,765" n="poly">–rilis, caput v<ex>er</ex>o thiara tegebat. Et ne</seg>
+                    <seg rend="397,767,461,775,573,769,574,775,585,775,589,769,646,766,646,791,571,797,563,793,397,792" n="poly">forte novo habitu aliq<ex>u</ex>id occultare</seg>
+                    <seg rend="397,796,557,796,570,801,644,797,645,817,608,819,606,825,604,824,587,825,585,820,398,819" n="poly">videret<ex>ur</ex>, eode<ex>m</ex> ornatu et pop<ex>u</ex>l<ex>u</ex>m ve-</seg>
+                    <seg rend="397,822,583,823,585,829,607,827,609,822,646,819,647,842,612,848,396,846" n="poly">–stiri jubet. Que<ex>m</ex> more<ex>m</ex> vestis exinde</seg>
+                    <seg rend="396,851,616,850,644,845,643,866,608,871,607,877,605,872,411,871,404,878,397,877,396,865" n="poly">gens illa univ<ex>er</ex>sa tenet. Sed primis</seg>
+                    <seg rend="397,879,408,879,412,874,600,874,604,880,611,875,611,873,649,868,649,888,596,894,567,897,562,901,556,896,456,899,397,893" n="poly">initiis sexu<ex>m</ex> mentita, puer esse credi-</seg>
+                    <seg rend="398,895,457,902,554,899,564,907,569,899,650,891,648,915,609,921,606,926,598,928,597,924,563,926,487,927,477,926,399,918" n="poly">–ta est. Magnas deniq<ex>ue</ex> res gessit. Qua-</seg>
+                    <seg rend="400,922,500,931,593,927,597,930,615,925,648,920,647,946,620,952,454,953,399,947" n="poly">–ru<ex>m</ex> amplitudine ubi invidia<ex>m</ex> putat…</seg>
                </p>
                 <p>Dans la marge inférieure<lb/>
-                    <seg rend="193,969,651,975,648,991,612,999,405,995,298,993,255,991,193,987"
-                        n="poly">Asia<ex>m</ex> pleriq<ex>ue</ex>
-                        sermog<ex>r</ex>aphi t<ex>er</ex>cia<ex>m</ex>
-                            toti<ex>us</ex> orbis parte<ex>m</ex> appellavere
-                            trib<ex>us</ex> <ex>et</ex> orb<ex>is</ex> orbe<ex>m</ex>
-                        partib<ex>us</ex> divio<ex>n</ex>entes.</seg>
-                    <seg
-                        rend="197,989,377,998,609,1003,648,994,647,1009,618,1019,555,1021,490,1019,482,1021,480,1017,335,1015,304,1014,272,1010,239,1010,198,1007"
-                        n="poly">Quaru<ex>m</ex> partiu<ex>m</ex> Europa a
-                            septent<ex>r</ex>ione ad occidente<ex>m</ex>
-                            porrigit<ex>ur</ex> et Affrica ab occidente ad
-                        meridie<ex>m</ex>.</seg>
-                    <seg
-                        rend="198,1010,282,1013,322,1017,395,1018,477,1019,483,1024,492,1021,585,1023,610,1021,622,1021,648,1012,648,1025,630,1033,549,1038,400,1033,289,1032,278,1028,197,1026"
-                        n="poly">Asia v<ex>er</ex>o a meridie p<ex>er</ex>
-                            oriente<ex>m</ex> ad septent<ex>r</ex>ione<ex>m</ex>
-                            extendit<ex>ur</ex>. Vident<ex>ur</ex>q<ex>ue</ex> due
-                        partes orbe<ex>m</ex> tenere dimidiu<ex>m</ex>,</seg>
-                    <seg
-                        rend="399,1034,560,1040,612,1037,645,1033,645,1047,624,1054,534,1057,399,1050"
-                        n="poly">Affrica videlicet et Europa et dimidiu<ex>m</ex> Asia
-                    sola.</seg>
+                    <seg rend="193,969,651,975,648,991,612,999,405,995,298,993,255,991,193,987" n="poly">Asia<ex>m</ex> pleriq<ex>ue</ex> sermog<ex>r</ex>aphi t<ex>er</ex>cia<ex>m</ex> toti<ex>us</ex> orbis parte<ex>m</ex> appellavere trib<ex>us</ex> <ex>et</ex> orb<ex>is</ex> orbe<ex>m</ex> partib<ex>us</ex> divio<ex>n</ex>entes.</seg>
+                    <seg rend="197,989,377,998,609,1003,648,994,647,1009,618,1019,555,1021,490,1019,482,1021,480,1017,335,1015,304,1014,272,1010,239,1010,198,1007" n="poly">Quaru<ex>m</ex> partiu<ex>m</ex> Europa a septent<ex>r</ex>ione ad occidente<ex>m</ex> porrigit<ex>ur</ex> et Affrica ab occidente ad meridie<ex>m</ex>.</seg>
+                    <seg rend="198,1010,282,1013,322,1017,395,1018,477,1019,483,1024,492,1021,585,1023,610,1021,622,1021,648,1012,648,1025,630,1033,549,1038,400,1033,289,1032,278,1028,197,1026" n="poly">Asia v<ex>er</ex>o a meridie p<ex>er</ex> oriente<ex>m</ex> ad septent<ex>r</ex>ione<ex>m</ex> extendit<ex>ur</ex>. Vident<ex>ur</ex>q<ex>ue</ex> due partes orbe<ex>m</ex> tenere dimidiu<ex>m</ex>,</seg>
+                    <seg rend="399,1034,560,1040,612,1037,645,1033,645,1047,624,1054,534,1057,399,1050" n="poly">Affrica videlicet et Europa et dimidiu<ex>m</ex> Asia sola.</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
-                    <p>Colonne a<lb/> Glorioso et sapienti <term
-                            n="évêque de Chartres (1090-1116), Yves est également 
-                            l’auteur de plusieurs recueils canoniques, de sermons et d’une importante 
-                            correspondance. "
-                            >Ivoni Carnotensi episcopo</term>, <lb/> frater Hugo monachus <lb/>
-                        <term
-                            n="fondé au VIIe siècle sur la rive nord de la Loire en amont d’Orléans, le 
-                            monastère se développe grâce à la présence des reliques de saint Benoît et 
-                            connaît son apogée intellectuel aux Xe et XIe siècles. "
-                            >Sancti Benedicti Floriacensis cenobii</term><lb/> sempiterna pace et
-                        felicitate perfrui. <lb/> Ecce tibi, precellentissime pater et domine, <lb/>
-                        <term
-                            n="un recueil de poésies apparemment perdu et l’Histoire ecclésiastique. "
-                            >duo</term> humilitatis mee <term
-                            n="un recueil de poésies apparemment perdu et l’Histoire ecclésiastique. "
-                            >opuscula</term> transmitto, <lb/> ut si quid ibi videris indecens et
-                        incultum<lb/> lima prudentie tue corrigas et exornes, <lb/> et quod tibi
-                        placuerit corrobores et confirmes. <lb/> Arma mea adversus otium sunt <lb/>
-                        hec opuscula que nunc vides.<lb/> Nam malo studio vacare <lb/> quam in otio
-                        et torpore <lb/> sicut pecus inutile vitam exigere. <lb/> Sed hec omnia
-                        vestro desidero judicio discuti <lb/> et vestra sapientia condiri,<lb/>
-                        quoniam vacillare non poterit<lb/> quod semel auctoritatis vestre nodus
-                        corroboraverit. <lb/> At mihi forsitan aliquis dicet : <lb/> tam vilia et
-                        inutilia cur <lb/> viro prudenti et in summa phylosophie arce sedenti <lb/>
-                        mittere non erubuisti, <lb/> cum scias esse scriptum<lb/>
-                        <term n="Pline le Jeune, Lettres, livre 5, lettre 8. ">quia orationi et
-                            carmini est parva gratia, <lb/> nisi eloquentia sit summa ?</term>
-                        <lb/> Ego vero ad hec respondeo <lb/> quoniam malo justo sapientis judicio
-                        comprobari, <lb/> quam arrogantium sententia condemnari. <lb/> Laboriosum
-                        tamen est, pater honestissime, <lb/> tue integritatis adjectiones et
-                        detractiones<lb/> huic adhibere volumini, <lb/> sed fructus laboris<lb/>
-                        preciosior auro caritas est. Vale.<lb/>
+            <div type="texte">
+                <div type="transcription">
+                    <p>Colonne a<lb/> Glorioso et sapienti <term n="évêque de Chartres (1090-1116), Yves est également  l’auteur de plusieurs recueils canoniques, de sermons et d’une importante  correspondance. " >Ivoni Carnotensi episcopo</term>, <lb/> frater Hugo monachus <lb/>
+                        <term n="fondé au VIIe siècle sur la rive nord de la Loire en amont d’Orléans, le  monastère se développe grâce à la présence des reliques de saint Benoît et  connaît son apogée intellectuel aux Xe et XIe siècles. " >Sancti Benedicti Floriacensis cenobii</term><lb/> sempiterna pace et felicitate perfrui. <lb/> Ecce tibi, precellentissime pater et domine, <lb/>
+                        <term n="un recueil de poésies apparemment perdu et l’Histoire ecclésiastique. " >duo</term> humilitatis mee <term n="un recueil de poésies apparemment perdu et l’Histoire ecclésiastique. " >opuscula</term> transmitto, <lb/> ut si quid ibi videris indecens et incultum<lb/> lima prudentie tue corrigas et exornes, <lb/> et quod tibi placuerit corrobores et confirmes. <lb/> Arma mea adversus otium sunt <lb/> hec opuscula que nunc vides.<lb/> Nam malo studio vacare <lb/> quam in otio et torpore <lb/> sicut pecus inutile vitam exigere. <lb/> Sed hec omnia vestro desidero judicio discuti <lb/> et vestra sapientia condiri,<lb/> quoniam vacillare non poterit<lb/> quod semel auctoritatis vestre nodus corroboraverit. <lb/> At mihi forsitan aliquis dicet : <lb/> tam vilia et inutilia cur <lb/> viro prudenti et in summa phylosophie arce sedenti <lb/> mittere non erubuisti, <lb/> cum scias esse scriptum<lb/>
+                        <term n="Pline le Jeune, Lettres, livre 5, lettre 8. ">quia orationi et carmini est parva gratia, <lb/> nisi eloquentia sit summa ?</term>
+                        <lb/> Ego vero ad hec respondeo <lb/> quoniam malo justo sapientis judicio comprobari, <lb/> quam arrogantium sententia condemnari. <lb/> Laboriosum tamen est, pater honestissime, <lb/> tue integritatis adjectiones et detractiones<lb/> huic adhibere volumini, <lb/> sed fructus laboris<lb/> preciosior auro caritas est. Vale.<lb/>
                    </p>
                 </div>
-                <div type="texte">
-                    <p>Colonne b<lb/> Incipit ecclesiastice liber historie <lb/> quem Hugo de Sancta
-                        Maria<lb/> monachus Sancti Benedicti Floriacensis<lb/> a diversis defloravit
-                        historie locis, <lb/> anno ab incarnatione Domini millesimo centesimo
-                        decimo, <lb/> gratia <term
-                            n="fille de Guillaume le Conquérant et de Mathilde de Flandre, Adèle de Normandie 
-                            († 1137) épouse Étienne-Henri de Blois (ca. 1047-1102) vers 1080 à Chartres et 
-                            devient alors comtesse de Blois, Chartres et Meaux. Régente du comté pendant les 
-                            croisades de son mari et durant la minorité de ses enfants, elle finit ses jours au 
-                            prieuré clunisien de Marcigny où elle se retire en 1122. "
-                            >domine Adele Carnotensium, <lb/> Meldensium atque Blesensium
-                        comitisse</term>.<lb/> Incipit liber primus.<lb/> Assiriorum igitur rex
-                        potentissimus fuit olim <term
-                            n="roi des Assyriens, fondateur mythique de Ninive selon la légende grecque. "
-                            >Ninus</term>
-                        <lb/> qui bellum finitimis inferens regibus <lb/> omnes Asie populos preter
-                        Indos sibi subjugavit <lb/> et annis in ea quinquaginta regnavit. <lb/>
-                        Quibus exactis, decessit <lb/> relicto adhuc in pubere filio Nina nomine
-                        <lb/> et uxore <term
-                            n="reine orientale de la légende grecque. Régente pour son fils, elle conquiert la 
-                            majeure partie de l’Orient."
-                            >Semiramide</term>
-                        <lb/> que nec inmaturo puero imperium ausa tradere, <lb/> nec ipsa palam
-                        tractare.<lb/> Tot ac tantis gentibus vix patienter <lb/> uni viro, nedum
-                        femine, parituris<lb/> simulat se pro uxore Nini filium, <lb/> pro femina
-                        puerum. <lb/> Nam et statura utrique mediocris <lb/> et vox eque gracilis
-                        <lb/> et liniamentorum qualitas matri ac filio similis erat,<lb/> brachiaque
-                        et crura vestis virilis, <lb/> caput vero thiara tegebat.<lb/> Et ne forte
-                        novo habitu <lb/> aliquid occultare videretur, <lb/> eodem ornatu et populum
-                        vestiri jubet. <lb/> Quem morem vestis exinde <lb/> gens illa universa
-                        tenet.<lb/> Sed primis initiis sexum mentita, <lb/> puer esse credita est.
+                <div type="transcription">
+                    <p>Colonne b<lb/> Incipit ecclesiastice liber historie <lb/> quem Hugo de Sancta Maria<lb/> monachus Sancti Benedicti Floriacensis<lb/> a diversis defloravit historie locis, <lb/> anno ab incarnatione Domini millesimo centesimo decimo, <lb/> gratia <term n="fille de Guillaume le Conquérant et de Mathilde de Flandre, Adèle de Normandie  († 1137) épouse Étienne-Henri de Blois (ca. 1047-1102) vers 1080 à Chartres et  devient alors comtesse de Blois, Chartres et Meaux. Régente du comté pendant les  croisades de son mari et durant la minorité de ses enfants, elle finit ses jours au  prieuré clunisien de Marcigny où elle se retire en 1122. " >domine Adele Carnotensium, <lb/> Meldensium atque Blesensium comitisse</term>.<lb/> Incipit liber primus.<lb/> Assiriorum igitur rex potentissimus fuit olim <term n="roi des Assyriens, fondateur mythique de Ninive selon la légende grecque. " >Ninus</term>
+                        <lb/> qui bellum finitimis inferens regibus <lb/> omnes Asie populos preter Indos sibi subjugavit <lb/> et annis in ea quinquaginta regnavit. <lb/> Quibus exactis, decessit <lb/> relicto adhuc in pubere filio Nina nomine
+                        <lb/> et uxore <term n="reine orientale de la légende grecque. Régente pour son fils, elle conquiert la  majeure partie de l’Orient." >Semiramide</term>
+                        <lb/> que nec inmaturo puero imperium ausa tradere, <lb/> nec ipsa palam tractare.<lb/> Tot ac tantis gentibus vix patienter <lb/> uni viro, nedum femine, parituris<lb/> simulat se pro uxore Nini filium, <lb/> pro femina puerum. <lb/> Nam et statura utrique mediocris <lb/> et vox eque gracilis
+                        <lb/> et liniamentorum qualitas matri ac filio similis erat,<lb/> brachiaque et crura vestis virilis, <lb/> caput vero thiara tegebat.<lb/> Et ne forte novo habitu <lb/> aliquid occultare videretur, <lb/> eodem ornatu et populum vestiri jubet. <lb/> Quem morem vestis exinde <lb/> gens illa universa tenet.<lb/> Sed primis initiis sexum mentita, <lb/> puer esse credita est.
                         <lb/> Magnas denique res gessit. <lb/>
                    </p>
-                    <p>Dans la marge inférieure<lb/> Asiam plerique sermographi<lb/> terciam totius
-                        orbis partem appellavere<lb/> tribus et orbis orbem partibus
-                        divionentes.<lb/> Quarum partium Europa<lb/> a septentrione ad occidentem
-                        porrigitur <lb/> et Affrica ab occidente ad meridiem.<lb/> Asia vero a
-                        meridie per orientem<lb/> ad septentrionem extenditur. <lb/> Videnturque due
-                        partes orbem tenere dimidium,<lb/> Affrica videlicet et Europa, et dimidium
-                        Asia sola.<lb/>
+                    <p>Dans la marge inférieure<lb/> Asiam plerique sermographi<lb/> terciam totius orbis partem appellavere<lb/> tribus et orbis orbem partibus divionentes.<lb/> Quarum partium Europa<lb/> a septentrione ad occidentem porrigitur <lb/> et Affrica ab occidente ad meridiem.<lb/> Asia vero a meridie per orientem<lb/> ad septentrionem extenditur. <lb/> Videnturque due partes orbem tenere dimidium,<lb/> Affrica videlicet et Europa, et dimidium Asia sola.<lb/>
                    </p>
                 </div>
                 <div type="traduction">
-                    <p>Colonne a<lb/> Au glorieux et sage <term
-                            n="évêque de Chartres (1090-1116), Yves est également l’auteur de plusieurs 
-                            recueils canoniques, de sermons et d’une importante correspondance. "
-                            >Yves évêque de Chartres</term>, <lb/> frère Hugues moine<lb/> du <term
-                            n="fondé au VIIe siècle sur la rive nord de la Loire en amont d’Orléans, le 
-                            monastère se développe grâce à la présence des reliques de saint Benoît et 
-                            connaît son apogée intellectuel aux Xe et XIe siècles. "
-                            >monastère Saint-Benoît de Fleury</term>,<lb/> qu’il jouisse de la paix
-                        et de la félicité éternelles.<lb/> Voici que je t’envoie, père et seigneur
-                        très excellent, <lb/>
-                        <term
-                            n="un recueil de poésies apparemment perdu et l’Histoire ecclésiastique. "
-                            >deux petits ouvrages</term> fruits de mon humilité, <lb/> pour que, si tu y
-                        voies quelque chose de choquant et de barbare,<lb/> la lime de ta prudence
-                        le corrige et l’orne, <lb/> et que, ce qui t’auras plu, tu l’affermisses et
-                        le confirmes.<lb/> Ce sont mes armes contre l’oisiveté<lb/> que ces petits
-                        ouvrages que tu vois maintenant.<lb/> Car je préfère me consacrer à
-                        l’étude<lb/> que de passer ma vie dans l’oisiveté et la torpeur<lb/> comme
-                        le bétail inutile. <lb/> Mais je désire que tout cela soit examiné par votre
-                        jugement<lb/> et relevé par votre sagesse, <lb/> car ce que le nœud de votre
-                        autorité aura une fois corroboré<lb/> ne pourra plus vaciller.<lb/> Mais
-                        peut-être quelqu’un me dira : <lb/> pourquoi n’as-tu pas rougi<lb/>
-                        d’envoyer à un homme sage et qui siège au pinacle de la philosophie<lb/> des
-                        choses viles et inutiles, <lb/> alors que tu sais qu’il est écrit : <lb/>
-                        <term n="Pline le Jeune, Lettres, livre 5, lettre 8. ">une petite faveur
-                            s’attache à un discours et à un poème, <lb/> à moins que l’éloquence
-                            n’en soit extrême ?</term><lb/> Pour ma part, je réponds à cela<lb/> que
-                        je préfère être approuvé par le juste jugement d’un sage<lb/> que d’être
-                        condamné par la sentence d’arrogants.<lb/> Il est cependant difficile, père
-                        très honorable, <lb/> d’appliquer à ce volume<lb/> les additions et les
-                        suppressions de ton intégrité, <lb/> mais le fruit du travail<lb/> est la
-                        charité, plus précieuse que l’or. Adieu. <lb/>
+                    <p>Colonne a<lb/> Au glorieux et sage <term n="évêque de Chartres (1090-1116), Yves est également l’auteur de plusieurs  recueils canoniques, de sermons et d’une importante correspondance. " >Yves évêque de Chartres</term>, <lb/> frère Hugues moine<lb/> du <term n="fondé au VIIe siècle sur la rive nord de la Loire en amont d’Orléans, le  monastère se développe grâce à la présence des reliques de saint Benoît et  connaît son apogée intellectuel aux Xe et XIe siècles. " >monastère Saint-Benoît de Fleury</term>,<lb/> qu’il jouisse de la paix et de la félicité éternelles.<lb/> Voici que je t’envoie, père et seigneur très excellent, <lb/>
+                        <term n="un recueil de poésies apparemment perdu et l’Histoire ecclésiastique. " >deux petits ouvrages</term> fruits de mon humilité, <lb/> pour que, si tu y voies quelque chose de choquant et de barbare,<lb/> la lime de ta prudence le corrige et l’orne, <lb/> et que, ce qui t’auras plu, tu l’affermisses et le confirmes.<lb/> Ce sont mes armes contre l’oisiveté<lb/> que ces petits ouvrages que tu vois maintenant.<lb/> Car je préfère me consacrer à l’étude<lb/> que de passer ma vie dans l’oisiveté et la torpeur<lb/> comme le bétail inutile. <lb/> Mais je désire que tout cela soit examiné par votre jugement<lb/> et relevé par votre sagesse, <lb/> car ce que le nœud de votre autorité aura une fois corroboré<lb/> ne pourra plus vaciller.<lb/> Mais peut-être quelqu’un me dira : <lb/> pourquoi n’as-tu pas rougi<lb/> d’envoyer à un homme sage et qui siège au pinacle de la philosophie<lb/> des choses viles et inutiles, <lb/> alors que tu sais qu’il est écrit : <lb/>
+                        <term n="Pline le Jeune, Lettres, livre 5, lettre 8. ">une petite faveur s’attache à un discours et à un poème, <lb/> à moins que l’éloquence n’en soit extrême ?</term><lb/> Pour ma part, je réponds à cela<lb/> que je préfère être approuvé par le juste jugement d’un sage<lb/> que d’être condamné par la sentence d’arrogants.<lb/> Il est cependant difficile, père très honorable, <lb/> d’appliquer à ce volume<lb/> les additions et les suppressions de ton intégrité, <lb/> mais le fruit du travail<lb/> est la charité, plus précieuse que l’or. Adieu. <lb/>
                    </p>
-                    <p>Colonne b<lb/> Début du livre de l’histoire ecclésiastique<lb/> qu’Hugues de
-                        Sainte-Marie<lb/> moine de Saint-Benoît de Fleury<lb/> a composé à partir de
-                        divers livres d’histoire, <lb/> l’an du Seigneur 1110, <lb/> pour <term
-                            n="fille de Guillaume le Conquérant et de Mathilde de Flandre, Adèle de Normandie 
-                            († 1137) épouse Étienne-Henri de Blois (ca. 1047-1102) vers 1080 à Chartres et 
-                            devient alors comtesse de Blois, Chartres et Meaux. Régente du comté pendant les 
-                            croisades de son mari et durant la minorité de ses enfants, elle finit ses jours au 
-                            prieuré clunisien de Marcigny où elle se retire en 1122. "
-                            >dame Adèle comtesse de Chartres, <lb/> de Meaux et de
-                        Blois</term>.<lb/> Début du premier livre. <lb/> Il y avait autrefois un roi
-                        très puissant des Assyriens <term
-                            n="roi des Assyriens, fondateur mythique de Ninive selon la légende grecque. "
-                            >Ninus</term>, <lb/> qui, portant la guerre chez les rois les plus
-                        proches, <lb/> soumit tous les peuples d’Asie à l’exception des Indiens
-                        <lb/> et régna cinquante ans. <lb/> Ces années passées, il mourut<lb/> et
-                        laissa un fils encore jeune du nom de Nina<lb/> et une femme <term
-                            n="reine orientale de la légende grecque. Régente pour son fils, elle conquiert la 
-                            majeure partie de l’Orient."
-                            >Sémiramis</term>
-                        <lb/> qui n’osa pas remettre le pouvoir à un fils encore trop jeune, <lb/>
-                        ni l’exercer elle-même ouvertement. <lb/> Auprès de peuples si nombreux et
-                        importants<lb/> qui souffraient à grand peine d’obéir à un seul homme, et
-                        encore plus à une femme, <lb/> épouse, elle se fait passer pour le fils de
-                        Ninus,<lb/> et l’enfant pour une femme. <lb/> Car ils étaient tous deux de
-                        petite taille, <lb/> d’une voix également faible, <lb/> et la mère et le
-                        fils avaient des traits semblables, <lb/> un habit d’homme couvrait ses bras
-                        et ses jambes, <lb/> une tiare sa tête. <lb/> Et pour que sous le nouvel
-                        habit<lb/> quelque chose ne semble pas caché, <lb/> on ordonne au peuple de
-                        s’habiller aussi des mêmes vêtements.<lb/> Par la suite, tout le peuple
-                        adopte<lb/> cette manière de s’habiller. <lb/> Mais ayant dès le début menti
-                        sur son sexe,<lb/> elle fut prise pour l’enfant. <lb/> Elle fit de grandes
-                        choses par la suite. <lb/>
+                    <p>Colonne b<lb/> Début du livre de l’histoire ecclésiastique<lb/> qu’Hugues de Sainte-Marie<lb/> moine de Saint-Benoît de Fleury<lb/> a composé à partir de divers livres d’histoire, <lb/> l’an du Seigneur 1110, <lb/> pour <term n="fille de Guillaume le Conquérant et de Mathilde de Flandre, Adèle de Normandie  († 1137) épouse Étienne-Henri de Blois (ca. 1047-1102) vers 1080 à Chartres et  devient alors comtesse de Blois, Chartres et Meaux. Régente du comté pendant les  croisades de son mari et durant la minorité de ses enfants, elle finit ses jours au  prieuré clunisien de Marcigny où elle se retire en 1122. " >dame Adèle comtesse de Chartres, <lb/> de Meaux et de Blois</term>.<lb/> Début du premier livre. <lb/> Il y avait autrefois un roi très puissant des Assyriens <term n="roi des Assyriens, fondateur mythique de Ninive selon la légende grecque. " >Ninus</term>, <lb/> qui, portant la guerre chez les rois les plus proches, <lb/> soumit tous les peuples d’Asie à l’exception des Indiens
+                        <lb/> et régna cinquante ans. <lb/> Ces années passées, il mourut<lb/> et laissa un fils encore jeune du nom de Nina<lb/> et une femme <term n="reine orientale de la légende grecque. Régente pour son fils, elle conquiert la  majeure partie de l’Orient." >Sémiramis</term>
+                        <lb/> qui n’osa pas remettre le pouvoir à un fils encore trop jeune, <lb/> ni l’exercer elle-même ouvertement. <lb/> Auprès de peuples si nombreux et importants<lb/> qui souffraient à grand peine d’obéir à un seul homme, et encore plus à une femme, <lb/> épouse, elle se fait passer pour le fils de Ninus,<lb/> et l’enfant pour une femme. <lb/> Car ils étaient tous deux de petite taille, <lb/> d’une voix également faible, <lb/> et la mère et le fils avaient des traits semblables, <lb/> un habit d’homme couvrait ses bras et ses jambes, <lb/> une tiare sa tête. <lb/> Et pour que sous le nouvel habit<lb/> quelque chose ne semble pas caché, <lb/> on ordonne au peuple de s’habiller aussi des mêmes vêtements.<lb/> Par la suite, tout le peuple adopte<lb/> cette manière de s’habiller. <lb/> Mais ayant dès le début menti sur son sexe,<lb/> elle fut prise pour l’enfant. <lb/> Elle fit de grandes choses par la suite. <lb/>
                    </p>
-                    <p>Dans la marge inférieure<lb/> La plupart des géographes ont appelé<lb/> Asie
-                        le tiers de la surface terrestre, <lb/> en divisant la surface terrestre en
-                        trois parties.<lb/> Parmi ces parties, l’Europe s’étend<lb/> du nord à
-                        l’ouest,<lb/> et l’Afrique de l’ouest au sud.<lb/> Quant à l’Asie, elle
-                        s’étend du sud à l’est<lb/> jusqu’au nord. <lb/> Il semble que deux parties
-                        remplissent la moitié de la terre, <lb/> c’est-à-dire l’Afrique et l’Europe,
-                        et l’Asie seule l’autre moitié. <lb/>
+                    <p>Dans la marge inférieure<lb/> La plupart des géographes ont appelé<lb/> Asie le tiers de la surface terrestre, <lb/> en divisant la surface terrestre en trois parties.<lb/> Parmi ces parties, l’Europe s’étend<lb/> du nord à l’ouest,<lb/> et l’Afrique de l’ouest au sud.<lb/> Quant à l’Asie, elle s’étend du sud à l’est<lb/> jusqu’au nord. <lb/> Il semble que deux parties remplissent la moitié de la terre, <lb/> c’est-à-dire l’Afrique et l’Europe, et l’Asie seule l’autre moitié. <lb/>
                    </p>
                 </div>
             </div>
@@ -436,100 +154,57 @@
                 <div>
                     <head>Aspect général</head>
                     <div>
-                    <p>L’écriture est une minuscule caroline tardive d’aspect soigné qui se
-                        caractérise par un tracé arrondi et harmonieux des lettres. Une «
-                        gothicisation » limitée se manifeste dans la manière appuyée de tracer le
-                        haut des jambages (<hi rend="bold">m</hi> ou <hi rend="bold">n</hi>) ou
-                        l’attaque des hampes comme celle du <hi rend="bold">p</hi>.</p>
-                    <p>Le texte en marge inférieur est apparemment de la même main, mais le module
-                        en est plus réduit.</p>
+                    <p>L’écriture est une minuscule caroline tardive d’aspect soigné qui se caractérise par un tracé arrondi et harmonieux des lettres. Une « gothicisation » limitée se manifeste dans la manière appuyée de tracer le haut des jambages (<hi rend="bold">m</hi> ou <hi rend="bold">n</hi>) ou l’attaque des hampes comme celle du <hi rend="bold">p</hi>.</p>
+                    <p>Le texte en marge inférieur est apparemment de la même main, mais le module en est plus réduit.</p>
                     </div>
                     </div>
                 <div>
                     <head>Formes individuelles à remarquer</head>
                     <div>
-                    <list type="simple">
-                        
+                    <list type="simple">
                         <item>
 			  <label>
 			    <hi rend="bold">e</hi>
 			  </label>
 			  cédillé pour la diphtongue <hi rend="bold">ae</hi> de manière assez
-			régulière et juste. </item>
-
+			régulière et juste. </item>
                         <item> 
-			<label>
-                            <hi rend="bold">m</hi>
+			<label> <hi rend="bold">m</hi>
                         </label>
-			de forme onciale en deux boucles symétriques l. 10a. </item>
-                        
+			de forme onciale en deux boucles symétriques l. 10a. </item>
                         <item>
 			  <label>
 			    <hi rend="bold">y</hi>
 			  </label>
-			pointé et <hi rend="bold">i</hi> accentué. </item>
-
+			pointé et <hi rend="bold">i</hi> accentué. </item>
                         <item>
 			  <label>
 			    <hi rend="bold">et</hi>
 			  </label>
-			  représenté par l’éperluette ou conjonction e+t (<hi rend="bold"
-                                >&amp;</hi>). </item>
+			  représenté par l’éperluette ou conjonction e+t (<hi rend="bold" >&amp;</hi>). </item>
                     </list>
                     </div>
                     </div>
                 <div>
                     <head>Abréviations</head>
                     <div>
-                    <p><!-- Dans ce paragraphe, certaines des terminaisons sont précédées par des tirets tantôt 
-                        en gras (de tailles différentes dans le fichier Word), tantôt non. J'ai choisi d'harmoniser en ne 
-                        mettant pas les tirets en gras -->
-                        Le système abréviatif est peu développé, mais comprend les signes et
-                        principes usuels : tildes pour nasales ; des contractions sur des mots
-                        courants ; abréviations sur –<hi rend="bold">p</hi> ; lettres suscrites ;
-                        terminaisons en –<hi rend="bold">q(ue)</hi>, -<hi rend="bold">b(us)</hi> et
-                            -<hi rend="bold">or(um)</hi> ; signes conventionnels pour –<hi
-                            rend="bold">ur</hi> et -<hi rend="bold">us</hi>.</p>
+                    <p><!-- Dans ce paragraphe, certaines des terminaisons sont précédées par des tirets tantôt  en gras (de tailles différentes dans le fichier Word), tantôt non. J'ai choisi d'harmoniser en ne  mettant pas les tirets en gras --> Le système abréviatif est peu développé, mais comprend les signes et principes usuels : tildes pour nasales ; des contractions sur des mots courants ; abréviations sur –<hi rend="bold">p</hi> ; lettres suscrites ; terminaisons en –<hi rend="bold">q(ue)</hi>, -<hi rend="bold">b(us)</hi> et -<hi rend="bold">or(um)</hi> ; signes conventionnels pour –<hi rend="bold">ur</hi> et -<hi rend="bold">us</hi>.</p>
                     </div>
                     </div>
                 <div>
                     <head>Structuration</head>
                     <div>
-                    <p>La ponctuation est simple : le point sur la ligne (<hi rend="i"
-                        >punctus</hi>) sert à distinguer les propositions dans la phrase. Associé à
-                        une majuscule, il marque le début d’une nouvelle phrase. On remarquera un
-                        point d’interrogation l. 27a.</p>
-                    <p>Le texte a été l’objet d’une relecture soigneuse comme l’attestent des
-                        corrections de trois ordres : <lb/>
+                    <p>La ponctuation est simple : le point sur la ligne (<hi rend="i" >punctus</hi>) sert à distinguer les propositions dans la phrase. Associé à une majuscule, il marque le début d’une nouvelle phrase. On remarquera un point d’interrogation l. 27a.</p>
+                    <p>Le texte a été l’objet d’une relecture soigneuse comme l’attestent des corrections de trois ordres : <lb/>
                         <list type="simple">
-                            <item> par grattages : l. 29a où le <hi rend="bold">a</hi> d’<hi
-                                    rend="bold">arrogantia</hi> est corrigé en <hi rend="bold"
-                                >u</hi>, 9b sur <hi rend="bold">comi-</hi> et 20b sur <hi
-                                    rend="bold">tracta-</hi> ; </item>
-                            <item> par exponctuation et addition interlinéaire, <hi rend="bold"
-                                    >habere</hi> est corrigé en <hi rend="bold">adhibere</hi> l. 32a
-                                ; </item>
-                            <item> par addition interlinéaire simple de la lettre <hi rend="bold"
-                                >a</hi> l. 4a au mot <hi rend="bold">defloruit</hi>. </item>
+                            <item> par grattages : l. 29a où le <hi rend="bold">a</hi> d’<hi rend="bold">arrogantia</hi> est corrigé en <hi rend="bold" >u</hi>, 9b sur <hi rend="bold">comi-</hi> et 20b sur <hi rend="bold">tracta-</hi> ; </item>
+                            <item> par exponctuation et addition interlinéaire, <hi rend="bold" >habere</hi> est corrigé en <hi rend="bold">adhibere</hi> l. 32a ; </item>
+                            <item> par addition interlinéaire simple de la lettre <hi rend="bold" >a</hi> l. 4a au mot <hi rend="bold">defloruit</hi>. </item>
                         </list>
                    </p>
-                    <p>Les mots sont correctement coupés en fin de ligne par des tirets et sont
-                        régulièrement séparés sauf agglutination de la conjonction avec le mot
-                        suivant ou de deux mots entre eux (<hi rend="bold">uni viro</hi>).</p>
-                    <p>Sur cette page de grandes dimensions (350 x 245 mm), le début de l’œuvre est
-                        mis en valeur avec des procédés visuels qui font alterner les encres rouge
-                        et verte. La première lettre de l’épître dédicatoire à Yves de Chartres est
-                        tracée à l’encre verte avec des filigranes rouges (<hi rend="bold">C</hi>,
-                        45 mm de hauteur), tandis que la suite du mot est rubriquée. Les incipit de
-                        l’œuvre et du premier livre sont tracés sur dix lignes dont les encres sont
-                        alternativement rouge ou verte. Le début du premier livre est introduit par
-                        une initiale rouge filigranée de vert (<hi rend="bold">A</hi>, 55 mm de
-                        hauteur). Cette initiale comprend à l’intérieur du <hi rend="bold">A</hi> la
-                        fin du mot et les deux mots suivants en capitales.</p>
-                    <p>Le texte est copié sur deux colonnes réglées à la pointe sèche (260 x 75 mm
-                        chacune), à l’exception d’un court passage géographique porté dans la marge
-                        inférieure dans un cadre à l’encre rouge. Il complète un cercle représentant
-                        la division en trois parties de la surface terrestre.</p>
+                    <p>Les mots sont correctement coupés en fin de ligne par des tirets et sont régulièrement séparés sauf agglutination de la conjonction avec le mot suivant ou de deux mots entre eux (<hi rend="bold">uni viro</hi>).</p>
+                    <p>Sur cette page de grandes dimensions (350 x 245 mm), le début de l’œuvre est mis en valeur avec des procédés visuels qui font alterner les encres rouge et verte. La première lettre de l’épître dédicatoire à Yves de Chartres est tracée à l’encre verte avec des filigranes rouges (<hi rend="bold">C</hi>, 45 mm de hauteur), tandis que la suite du mot est rubriquée. Les incipit de l’œuvre et du premier livre sont tracés sur dix lignes dont les encres sont alternativement rouge ou verte. Le début du premier livre est introduit par une initiale rouge filigranée de vert (<hi rend="bold">A</hi>, 55 mm de hauteur). Cette initiale comprend à l’intérieur du <hi rend="bold">A</hi> la fin du mot et les deux mots suivants en capitales.</p>
+                    <p>Le texte est copié sur deux colonnes réglées à la pointe sèche (260 x 75 mm chacune), à l’exception d’un court passage géographique porté dans la marge inférieure dans un cadre à l’encre rouge. Il complète un cercle représentant la division en trois parties de la surface terrestre.</p>
                 </div>
                 </div>
                 </div>
@@ -538,41 +213,15 @@
                 <div>
                     <head>La tradition historiographique à Fleury, d’Aimon à Hugues</head>
                     <div>
-                    <p>La tradition historiographique trouve son origine dans l’activité du moine
-                        Aimon († post 1108) qui, avec l’<hi rend="i">Historia Francorum</hi>,
-                        rédige la première compilation sur l’histoire de France. À son exemple,
-                        d’autres moines de Fleury s’illustrent dans le genre historique, notamment
-                        Helgaud avec la <hi rend="i">Vie de Robert le Pieux</hi> (<hi
-                            rend="i">ca</hi>. 1033) et André avec la <hi rend="i">Vie de
-                            Gauzlin, abbé de Fleury</hi> (<hi rend="i">ca</hi>. 1041). La
-                        troisième génération est représentée par Hugues dont la vie est peu connue.</p>
-                    <p>Tirant son nom du domaine paternel où se trouvait une chapelle dédiée à la
-                        Vierge, Hugues de Sainte-Marie entre à Fleury vers la fin du XI<hi
-                            rend="exposant">e</hi> siècle et meurt après 1122. À côté d’un ouvrage
-                        poétique perdu auquel la préface fait référence, Hugues est connu pour son
-                        œuvre historique et hagiographique.</p>
+                    <p>La tradition historiographique trouve son origine dans l’activité du moine Aimon († post 1108) qui, avec l’<hi rend="i">Historia Francorum</hi>, rédige la première compilation sur l’histoire de France. À son exemple, d’autres moines de Fleury s’illustrent dans le genre historique, notamment Helgaud avec la <hi rend="i">Vie de Robert le Pieux</hi> (<hi rend="i">ca</hi>. 1033) et André avec la <hi rend="i">Vie de Gauzlin, abbé de Fleury</hi> (<hi rend="i">ca</hi>. 1041). La troisième génération est représentée par Hugues dont la vie est peu connue.</p>
+                    <p>Tirant son nom du domaine paternel où se trouvait une chapelle dédiée à la Vierge, Hugues de Sainte-Marie entre à Fleury vers la fin du XI<hi rend="exposant">e</hi> siècle et meurt après 1122. À côté d’un ouvrage poétique perdu auquel la préface fait référence, Hugues est connu pour son œuvre historique et hagiographique.</p>
                     </div>
                     </div>
                 <div>
                     <head>L’<hi rend="i">Historia ecclesiastica</hi></head>
                     <div>
-                    <p>Son œuvre historique la plus importante est l’<hi rend="i">Historia
-                            ecclesiastica</hi>. Proche de la chronique universelle, l’<hi
-                            rend="i">Historia ecclesiastica</hi> se veut une histoire totale
-                        montrant la manière dont la foi chrétienne a triomphé progressivement dans
-                        le monde. Connue par une trentaine de manuscrits, l’ouvrage a joui d’un
-                        grand succès et fait l’objet de deux rédactions.</p>
-                    <p>Le manuscrit de la bibliothèque Mazarine contient la deuxième version de
-                            l’<hi rend="i">Historia ecclesiastica</hi>. Après avoir composé en
-                        1109 une première version en quatre livres, Hugues remanie son ouvrage
-                        l’année suivante : la seconde rédaction compte six livres et prolonge
-                        jusqu’à la mort de Lothaire I<hi rend="sup">er</hi> (855) la précédente
-                        version qui s’arrêtait au règne de Charlemagne. À la dédicace originelle à
-                        la comtesse <term
-                            xml:id="a-note-1" rend="bold"
-                            >Adèle de Blois</term>, Hugues ajoute une lettre dédicatoire à <term
-                            xml:id="a-note-2"
-                            >Yves de Chartres</term>.</p>
+                    <p>Son œuvre historique la plus importante est l’<hi rend="i">Historia ecclesiastica</hi>. Proche de la chronique universelle, l’<hi rend="i">Historia ecclesiastica</hi> se veut une histoire totale montrant la manière dont la foi chrétienne a triomphé progressivement dans le monde. Connue par une trentaine de manuscrits, l’ouvrage a joui d’un grand succès et fait l’objet de deux rédactions.</p>
+                    <p>Le manuscrit de la bibliothèque Mazarine contient la deuxième version de l’<hi rend="i">Historia ecclesiastica</hi>. Après avoir composé en 1109 une première version en quatre livres, Hugues remanie son ouvrage l’année suivante : la seconde rédaction compte six livres et prolonge jusqu’à la mort de Lothaire I<hi rend="sup">er</hi> (855) la précédente version qui s’arrêtait au règne de Charlemagne. À la dédicace originelle à la comtesse <term xml:id="a-note-1" rend="bold" >Adèle de Blois</term>, Hugues ajoute une lettre dédicatoire à <term xml:id="a-note-2" >Yves de Chartres</term>.</p>
 			<p rend="notes">
 			  <note target="#a-note-1" type="footnote">
 			    Fille de Guillaume le Conquérant et de
@@ -598,29 +247,8 @@
                 <div>
                     <head>La lettre à Yves de Chartres et le début du livre I</head>
                     <div>
-                    <p>La lettre et le début du livre I permettent de situer l’œuvre dans le réseau
-                        de relations qu’Hugues entretient avec des personnages fameux de son temps.
-                        Dans la lettre adressée à <term
-                            xml:id="a-note-3"
-                            >Yves de Chartres</term>, le moine de Fleury se place en position
-                        d’infériorité par rapport à un évêque. Il sacrifie de la sorte à la topique
-                        de l’humilité qui le pousse à soumettre à plus sage que lui le produit de sa
-                        plume. La correction attendue de la part d’Yves est double, à la fois
-                        doctrinale et stylistique. Les liens entre les deux ecclésiastiques ne sont
-                        pas de pure convention, car un ouvrage précédent d’Hugues atteste
-                        l’influence de l’évêque de Chartres sur le moine. En effet, dès le <hi
-                            rend="i">Libellus de regia potestate et sacerdotali dignitati</hi>,
-                        composé entre 1102 et 1107 pour Henri I<hi rend="sup">er</hi>
-                        d’Angleterre, Hugues adopte, au sujet de la <term
-                            xml:id="a-note-4"
-                            >querelle des Investitures</term>, une position modérée qui rappelle
-                        celle d’Yves de Chartres. Les liens d’Hugues avec le monde anglo-normand
-                        sont également documentés par la mention d’<term
-                            xml:id="a-note-5"
-                            >Adèle</term> dont d’autres chroniqueurs ont loué la culture littéraire.</p>
-                    <p>Quant au début du livre I, il rappelle que pour Hugues l’histoire du salut
-                        s’inscrit dans une narration qui prend aussi en compte l’histoire païenne,
-                        comme le prouve l’épisode légendaire de Ninus, fondateur de Ninive.</p>
+                    <p>La lettre et le début du livre I permettent de situer l’œuvre dans le réseau de relations qu’Hugues entretient avec des personnages fameux de son temps. Dans la lettre adressée à <term xml:id="a-note-3" >Yves de Chartres</term>, le moine de Fleury se place en position d’infériorité par rapport à un évêque. Il sacrifie de la sorte à la topique de l’humilité qui le pousse à soumettre à plus sage que lui le produit de sa plume. La correction attendue de la part d’Yves est double, à la fois doctrinale et stylistique. Les liens entre les deux ecclésiastiques ne sont pas de pure convention, car un ouvrage précédent d’Hugues atteste l’influence de l’évêque de Chartres sur le moine. En effet, dès le <hi rend="i">Libellus de regia potestate et sacerdotali dignitati</hi>, composé entre 1102 et 1107 pour Henri I<hi rend="sup">er</hi> d’Angleterre, Hugues adopte, au sujet de la <term xml:id="a-note-4" >querelle des Investitures</term>, une position modérée qui rappelle celle d’Yves de Chartres. Les liens d’Hugues avec le monde anglo-normand sont également documentés par la mention d’<term xml:id="a-note-5" >Adèle</term> dont d’autres chroniqueurs ont loué la culture littéraire.</p>
+                    <p>Quant au début du livre I, il rappelle que pour Hugues l’histoire du salut s’inscrit dans une narration qui prend aussi en compte l’histoire païenne, comme le prouve l’épisode légendaire de Ninus, fondateur de Ninive.</p>
 			<p rend="notes">
 			  <note target="#a-note-3" type="footnote"
 			 >Évêque de Chartres (1090-1116), Yves
@@ -656,33 +284,19 @@
                     <div>
                     <listBibl>
                         <bibl>
-                            <author>Bautier (R.-H.)</author>, « La place de l’abbaye de
-                            Fleury-sur-Loire dans l’historiographie française du IX<hi
-                                rend="exposant">e</hi> au XII<hi rend="sup">e</hi> siècle »,
-                            dans <title>Études ligériennes d’histoire et d’archéologie
-                            médiévales</title>, dir. R. Louis, Auxerre, 1975, <biblScope type="vol"
-                                >p. 25-33</biblScope> (<hi rend="bold">le contexte</hi>). </bibl>
+                            <author>Bautier (R.-H.)</author>, « La place de l’abbaye de Fleury-sur-Loire dans l’historiographie française du IX<hi rend="exposant">e</hi> au XII<hi rend="sup">e</hi> siècle », dans <title>Études ligériennes d’histoire et d’archéologie médiévales</title>, dir. R. Louis, Auxerre, 1975, <biblScope type="vol" >p. 25-33</biblScope> (<hi rend="bold">le contexte</hi>). </bibl>
                         <bibl>
-                            <author>Lettinck (N.)</author>, « Pour une édition critique de
-                            l’<hi rend="i">Historia ecclesiastica</hi> de Hugues de Fleury », dans <title>Revue
-                                bénédictine</title>, <biblScope type="vol">t. 91</biblScope>, 1981,
-                                <biblScope type="pp">p. 386-397</biblScope> (<hi rend="bold">étude
-                                sur les deux rédactions du texte</hi>). </bibl>
+                            <author>Lettinck (N.)</author>, « Pour une édition critique de l’<hi rend="i">Historia ecclesiastica</hi> de Hugues de Fleury », dans <title>Revue bénédictine</title>, <biblScope type="vol">t. 91</biblScope>, 1981,
+                                <biblScope type="pp">p. 386-397</biblScope> (<hi rend="bold">étude sur les deux rédactions du texte</hi>). </bibl>
                         <bibl>
-                            <author>Vidier (A.)</author>, <title>L’historiographie à
-                                Saint-Benoît-sur-Loire et les Miracles de saint Benoît</title>,
-                            Paris, 1965, <biblScope type="vol">p. 76-79</biblScope> (<hi rend="bold"
-                                >précisions sur la tradition manuscrite</hi>). </bibl>
+                            <author>Vidier (A.)</author>, <title>L’historiographie à Saint-Benoît-sur-Loire et les Miracles de saint Benoît</title>, Paris, 1965, <biblScope type="vol">p. 76-79</biblScope> (<hi rend="bold" >précisions sur la tradition manuscrite</hi>). </bibl>
                         <bibl>
-                            <author>Wilmart (A.)</author>, « L’Histoire ecclésiastique composée par
-                            Hugues de Fleury et ses destinataires », dans <title>Revue
-                            bénédictine</title>, <biblScope type="vol">t. 50</biblScope>, 1938,
-                                <biblScope type="pp">p. 293-305</biblScope> (<hi rend="bold">édition
-                                des lettres dédicatoires</hi>). </bibl>
+                            <author>Wilmart (A.)</author>, « L’Histoire ecclésiastique composée par Hugues de Fleury et ses destinataires », dans <title>Revue bénédictine</title>, <biblScope type="vol">t. 50</biblScope>, 1938,
+                                <biblScope type="pp">p. 293-305</biblScope> (<hi rend="bold">édition des lettres dédicatoires</hi>). </bibl>
                     </listBibl>
                     </div>
                     </div>
             </div>
         </body>
     </text>
-</TEI>
+</TEI>

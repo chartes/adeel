@@ -17,10 +17,9 @@
         </fileDesc>
         <profileDesc/>
     </teiHeader>
-    <text>
-        <front/>
+    <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
                     <seg rend="24,41,277,26,478,24,535,18,590,35,586,47,490,51,355,57,201,70,87,77,23,87,23,86,23,76" n="poly">Rev<ex>er</ex>endo in Chr<ex>is</ex>to pat<ex>r</ex>i ac d<ex>omi</ex>no, D<ex>e</ex>i p<ex>ro</ex>videncia ep<ex>is</ex>c<ex>op</ex>o Tholosan<ex>o</ex>,</seg>
                     <seg rend="595,18,940,6,959,23,948,47,746,49,593,48" n="poly">atq<ex>ue</ex> viris nobilib<ex>us</ex>, amicis suis k<ex>arissi</ex>mis, d<ex>omi</ex>no</seg>
@@ -62,8 +61,8 @@
                     <seg rend="666,715,819,713,921,710,986,715,972,752,779,740,661,740" n="poly">Dat<ex>um</ex> VII° id<ex>ibus</ex> mart<ex>ii</ex>, ind<ex>ictione</ex> VIIII<hi rend="sup">a</hi>.</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <l>Reverendo in Christo patri ac domino, Dei providencia <term n="Raymond de Felgar, dominicain, évêque de Toulouse de 1232 à 1270.">episcopo Tholosano</term>, atque viris</l>
                     <l>nobilibus, amicis suis karissimis, domino <term n="Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.">Reymundo Gaucelmi, domino Lunelli</term>, ac</l>
                     <l>domino <term n="Sicard Alaman, issu d’une modeste famille seigneuriale d’Albigeois, a été un fidèle et lieutenant puissant de Raymond VII, puis d’Alphonse de Poitiers.">Sicardo Alamandi</term>, <term n="Amédée [IV], comte de Savoie de 1232 à sa mort en 1253, duc d’Aoste et duc de Chablais à partir de 1238. Le titre marquisal est porté par le lignage depuis le XIe siècle, mais lui-même ne put s’emparer de Turin.">Amedeus, comes Sabaudie</term> et in Italia marchio, salutem et</l>
@@ -131,7 +130,7 @@
                     <p>Remarque&#160;: le document est publié par A. Teulet, <hi rend="i">Layettes du Trésor des chartes</hi>, t. III, n° 3923, p. 118. Il est à l’évidence venu au chartrier du roi de France avec le reste du chartrier du comte de Toulouse, qui nous a aussi gardé le contrat de mariage entre Amédée et Cécile (Teulet, t. II, n° 3206, p. 541-542, en date du 22 novembre 1244).</p>
                 </div>
             </div>
-            <div type="commentaire" n="diplomatique">
+            <div type="diplomatic">
                 <head>Commentaire diplomatique</head>
                 <div>
                     <head>Caractères externes</head>
@@ -160,5 +159,4 @@
             </div>
         </body>
     </text>
-    </TEI.2>
-            
+    </TEI.2>

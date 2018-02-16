@@ -1,200 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
 <TEI.2 n="69">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>842. Acte royal (XII<hi rend="sup">e</hi> siècle, copie de cartulaire)</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">69</idno>
-                <publisher>École nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig.&#160;: Florence, Bibliothèque San Lorenzo</p>
-                <p>Fac-sim. ENC&#160;: NF 255 (héliogravure)</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc/>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div type="facsimile" rend="fax.jpg">
-                <p>Note sur la transcription&#160;: les “e” cédillés sont ici rendus par “æ”</p>
-                <p>
-                    <seg rend="28,15,463,38">[I]n nomine s<ex>an</ex>c<ex>t</ex>æ <ex>et</ex> individue Trinitatis, Karolus gr<ex>ati</ex>a D<ex>e</ex>i</seg>
-                    <seg rend="25,41,482,64">rex. Regalis celsitudinis moris e<ex>st</ex> fideles suos donis mul-</seg>
-                    <seg rend="26,67,489,88">-tiplicib<ex>us</ex> <ex>et</ex> manentib<ex>us</ex> honorib<ex>us</ex> honorare atq<ex>ue</ex> sublimare.</seg>
-                    <seg rend="14,89,484,113">Proinde more<ex>m</ex> parentu<ex>m</ex>, regu<ex>m</ex> videlic<ex>et</ex> p<ex>re</ex> decessoru<ex>m</ex> n<ex>ost</ex>ror<ex>um</ex></seg>
-                    <seg rend="30,116,469,141">sequentes, libuit celsitudini n<ex>ost</ex>re quenda<ex>m</ex> fidelem vir<ex>um</ex>,</seg>
-                    <seg rend="32,146,505,168">Roclinu<ex>m</ex> nomine, de quib<ex>us</ex>dam reb<ex>us</ex> n<ex>ost</ex>ræ p<ex>ro</ex>p<ex>r</ex>ietatis honorare</seg>
-                    <seg rend="32,196,504,222">atq<ex>ue</ex> in ej<ex>us</ex> juris potestate<ex>m</ex> liberalitis n<ex>ost</ex>ræ gr<ex>ati</ex>am conferre.</seg>
-                    <seg rend="19,222,490,232,481,254,18,243" n="poly">Idcirco noverit exp<ex>er</ex>ientia atq<ex>ue</ex> industria om<ex>n</ex>ium fide-</seg>
-                    <seg rend="28,249,480,262,480,281,27,273" n="poly">-liu<ex>m</ex>n<ex>ost</ex>ror<ex>um</ex> ta<ex>m</ex>p<ex>re</ex>sentiu<ex>m</ex> qua<ex>m</ex> <ex>et</ex> futuror<ex>um</ex> quia concedimus</seg>
-                    <seg rend="30,278,479,286,478,303,31,294" n="poly">eidem fideli n<ex>ost</ex>ro, Roclino nomine, ad p<ex>ro</ex>p<ex>r</ex>iu<ex>m</ex> quasdam</seg>
-                    <seg rend="29,307,487,313,489,332,29,322" n="poly">res juris n<ex>ost</ex>ris sitas in comitatu Avalense, in villa nun-</seg>
-                    <seg rend="30,332,457,339,456,354,29,350" n="poly">-cupata Dornetiaco, id e<ex>st</ex> mansa viginti duo, sine</seg>
-                    <seg rend="29,360,469,366,468,384,29,378" n="poly">eccl<ex>esi</ex>a, cu<ex>m</ex> mancipiis, terris, vineis, silvis, pratis ab-</seg>
-                    <seg rend="29,387,457,392,456,413,32,403" n="poly">-jacentiis, aquis aquar<ex>um</ex>ve discursib<ex>us</ex> v<ex>e</ex>l quantu<ex>m</ex> cu<ex>m</ex>q<ex>ue</ex></seg>
-                    <seg rend="31,410,474,421,470,438,31,430" n="poly">ad p<ex>re</ex>dictos mansos aspicere videtur. Has res cu<ex>m</ex> o<ex>mn</ex>i in-</seg>
-                    <seg rend="27,440,370,442,470,448,467,461,26,455" n="poly">-tegritate memorato p<ex>re</ex>dictoq<ex>ue</ex> fideli n<ex>ost</ex>ro Roclino ad</seg>
-                    <seg rend="29,467,344,469,475,472,473,489,26,485" n="poly">p<ex>ro</ex>priu<ex>m</ex> p<ex>er</ex> hanc n<ex>ost</ex>re actoritatis conscriptione<ex>m</ex> concedi-</seg>
-                    <seg rend="31,493,478,494,474,514,29,509" n="poly">-mus <ex>et</ex> de n<ex>ost</ex>ro jure in jus hac potestate<ex>m</ex> illius solle<ex>m</ex></seg>
-                    <seg rend="33,519,461,523,456,540,31,540" n="poly">-ni donatione transferimus, ita videlic<ex>et</ex> ut q<ex>u</ex>icq<ex>u</ex>id</seg>
-                    <seg rend="27,546,296,550,475,555,474,572,24,565" n="poly">ab hodernia die <ex>et</ex> te<ex>m</ex>pore exinde p<ex>ro</ex> sua utilitate ac</seg>
-                    <seg rend="27,573,475,578,473,600,26,593" n="poly">co<ex>m</ex>moditate jure p<ex>ro</ex>p<ex>r</ex>ietario facere volureit, libera<ex>m</ex></seg>
-                    <seg rend="23,604,453,626"> <ex>et</ex> firmissima<ex>m</ex> in o<ex>mn</ex>ib<ex>us</ex> habeat potestate<ex>m</ex> faciendi.</seg>
-                    <seg rend="7,630,461,653">Et ut hæc n<ex>ost</ex>ræ largitionis atq<ex>ue</ex> donationis auctoritas</seg>
-                    <seg rend="28,656,482,678">p<ex>er</ex>petua<ex>m</ex> obtineat firmitatem, ea<ex>m</ex> manus n<ex>ost</ex>ræ p<ex>ro</ex>priæ</seg>
-                    <seg rend="30,683,469,708">subterfirmavim<ex>us</ex> <ex>et</ex> anuli n<ex>ost</ex>ri inpressione sigillari</seg>
-                    <seg rend="30,707,257,711,265,705,345,705,330,757,258,759,260,737,29,730" n="poly">decrevimus. Sign<ex>um</ex> Karoli (<hi rend="i">monogramme</hi>)</seg>
-                    <seg rend="346,716,485,735">gl<ex>ori</ex>osissimi regis.</seg>
-                    <seg rend="20,734,258,736,256,761,16,751" n="poly">Deormarus notarius advice<ex>m</ex></seg>
-                    <seg rend="333,739,478,762">Hludovici recog-</seg>
-                    <seg rend="23,760,488,768,487,786,235,787,22,777" n="poly">-novit. Data p<ex>r</ex>idie k<ex>alendas</ex> septe<ex>m</ex>bris, indic<ex>tione</ex> V, anno III regnan-</seg>
-                    <seg rend="28,785,226,790,462,791,462,810,209,808,26,802" n="poly">-te Karolo gl<ex>ori</ex>oso rege. Actu<ex>m</ex> Castellione sup<ex>er</ex> fluvium</seg>
-                    <seg rend="33,811,368,835">Dornonia. In D<ex>e</ex>i nomine feliciter. Amen.</seg>
-               </p>
-            </div>
-            <div type="transcription">
-                <div type="remarque">
-                    <p>Note sur la transcription&#160;: les “e” cédillés sont ici rendus par “æ”</p>
-                </div>
-                <div type="texte">
-                    <l>[I]n nomine sanctæ et individue Trinitatis, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d&#x2019;une campagne contre Pépin II d&#x2019;Aquitaine, qu&#x2019;il a mis en déroute.">Karolus</term> gratia Dei rex.</l>
-                    <l>Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque</l>
-                    <l>sublimare. Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes,</l>
-                    <l>libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de</l>
-                    <l>quibusdam rebus nostræ proprietatis honorare atque in ejus juris potestatem liberalitatis</l>
-                    <l>nostræ gratiam conferre. Idcirco noverit experienta atque industria ominium fidelium</l>
-                    <l>nostrorum tam presentium quam et futurorum quia concedimus eidem fideli nostro, Roclino nomine,</l>
-                    <l>ad proprium quasdam res juris nostri sitas in comitatu <term n="Avallon, Yonne, ch-l. arr.">Avalense</term>, in villa</l>
-                    <l>nuncupata <term n="Dornecy, Nièvre, cant. Clamecy.">Dornetiaco</term>, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris,</l>
-                    <l>vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad</l>
-                    <l>predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque</l>
-                    <l>fidelo nostro Roclino ad propium per hanc nostre actoritatis conscriptionem concedimus</l>
-                    <l>et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet</l>
-                    <l>ut quicquid ab hodernia die et tempore exinde pro sua utilitate ac commoditate jure</l>
-                    <l>proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.</l>
-                    <l>Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem,</l>
-                    <l>eam manus nostræ propriæ subterfirmaviums et anuli nostri inpressione</l>
-                    <l>sigillari decrevimus.</l>
-                    <l>Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.</l>
-                    <l>Deormarus notarius advicem <term n="L&#x2019;archichancelier Louis, fils du comte du Maine et d&#x2019;une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu&#x2019;à son décès au début de 867.">Hludovici</term> recognovit.</l>
-                    <l>Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.</l>
-                    <l>Actum <term n="Castillon-la-Bataille, Gironde, ch-l. cant.">Castellione</term> super fluvium Dornonia. In Dei nomine feliciter. Amen.</l>
-                </div>
-                <div type="traduction">
-                    <l>Au nom de la sainte et indivisble Trinité, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d&#x2019;une campagne contre Pépin II d&#x2019;Aquitaine, qu&#x2019;il a mis en déroute.">Charles</term> roi par la grâce de Dieu.</l>
-                    <l>Il est de coutume pour la grandeur d&#x2019;honorer et d&#x2019;élever ses fidèles par de multiples dons et par des honneurs durables.</l>
-                    <l>C&#x2019;est pourquoi, suivant la coutume de nos parents, les rois nos prédécesseurs,</l>
-                    <l>il a plu à notre hauteur d&#x2019;honorer un fidèle du nom de Roclinus</l>
-                    <l>de certains biens de notre propriété et de les faire passer sous le pouvoir de son droit, par la grâce de</l>
-                    <l>notre libéralité. Aussi, sachent l&#x2019;expérience et le zèle de tous nos fidèles,</l>
-                    <l>présents et à venir, que nous concédons à notredit fidèle du nom de Roclinus,</l>
-                    <l>en toute propriété des biens qui nous appartiennent, sis au comté d&#x2019;<term n="Avallon, Yonne, ch-l. arr.">Avallon</term>, dans la <hi rend="i">villa</hi></l>
-                    <l>appelée <term n="Dornecy, Nièvre, cant. Clamecy.">Dornecy</term>, à savoir viengt-deux manses, sans église, avec les esclaves, terres,</l>
-                    <l>vignes, bois, prés qui en dépendent, eaux et cours d&#x2019;eau, et tout ce qui</l>
-                    <l>se trouve relever des manses susdits. Ces biens dans tout ce qu&#x2019;ils comprennent</l>
-                    <l>nous les concédons en totue propriété à notre dit et mentionné fidèle Roclinus par cet écrit émanant de notre autorité</l>
-                    <l>et nous les transférons de notre droit en son droit et pouvoir par donation solennelle, en sorte que, </l>
-                    <l>quoi qu&#x2019;il veuille en faire à partir d&#x2019;aujourd&#x2019;hui et par la suite pour son usage et sa convenance,</l>
-                    <l>en droit de propriétaire, il ait le libre et très ferme pouvoir de le faire en tout.</l>
-                    <l>Et pour que le présent précepte de notre largesse et donation reçoive une force perpétuelle,</l>
-                    <l>nous l&#x2019;avons validé ci-dessous de notre propre main, et ordonné de le faire sceller de l&#x2019;impression de</l>
-                    <l>notre anneau.</l>
-                    <l>Seing de Charles (<hi rend="i">monogramme</hi>) roi très glorieux.</l>
-                    <l>Deormarus, notaire, en place de <term n="L&#x2019;archichancelier Louis, fils du comte du Maine et d&#x2019;une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu&#x2019;à son décès au début de 867.">Louis</term>, a reconnu.</l>
-                    <l>Donné la veille des calendes de septembre, indication V<hi rend="sup">e</hi>, III<hi rend="sup">e</hi> année du règne du glorieux roi Charles.</l>
-                    <l>Fait à <term n="Castillon-la-Bataille, Gironde, ch-l. cant.">Castillon</term> sur le fleuve Dordogne. Au nom de Dieu dans la félicité. Amen.</l>
-                </div>
-                <div type="commentaire">
-                    <head>Datation</head>
-                    <p>Les actes royaux connus par copie et antérieurs à l&#x2019;adoption de l&#x2019;année de l&#x2019;Incarnation vers 970 posent un problème délicat de datation&#160;: les règles de l&#x2019;onomastique royale excluent la précision de l&#x2019;ordinal à côté du nom personnel, et les années sont exprimées en années de règne. c&#x2019;est donc un mélange d&#x2019;indices diplomatiques et historiques qui oriente vers l&#x2019;identification du souverain. La seule suscription exclut d&#x2019;emblée Charle[magne], à commencer par l&#x2019;absence de <hi rend="i">Francorum</hi> dans le titre royal. Cette absence renvoie à des moments où le "royaume des Francs" est partagé entre plusieurs rois, dans le cas présent au règne de Charles [II] le Chauve ou de Charles [III] le Simple avant 911 et sa mainmise sur la "Lorraine". Des considérations historiques excluent ce dernier au profit de Charles le Chauve&#160;: concordance de la date et de la présence au sud (une campagne militaire contre Pépin d&#x2019;Aquitaine), identification du personnel de chancellerie... Une fois Charles le Chauve retenu, la date est facile à convertir, puisque ses années de règne sont décomptées à partir du 21 juin 840, lendemain de la mort de Louis le Pieux. La 3<hi rend="sup">e</hi> année allant du 21 juin 842 au 20 juin 843, nous sommes la veille du 1<hi rend="sup">er</hi> septembre (31 août) 842, indication qui concorde avec celle de l&#x2019;indiction 5<hi rend="sup">e</hi> (un élément souvent mal calculé à la chancellerie du roi).</p>
-                </div>
-                <div type="regeste">
-                    <head>842, 31 août. - Castillon[-la-Bataille].</head>
-                    <p>Charles [II le Chauve] donne à son fidèle Roclinus, en toute propriété, viengt-deux manses, sans église, et leurs dépendances, dans la <hi rend="i">villa</hi> de Dornecy, au comté d&#x2019;Avallon.</p>
-                    <p>N.B.&#160;: L&#x2019;acte est édité par Georges Tessier, <hi rend="i">Recueil des actes de Charles II le Chauve</hi>, t.I (Paris, 1943), n<hi rend="sup">o</hi> 11.</p>
-                </div>
-            </div>
-            <div type="commentaire" n="diplomatique">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Remarques sur la copie</head>
-                    <div>
-                        <p>Le document sous examen est à l&#x2019;évidence une copie, intégrée à un recueil (l&#x2019;acte ici présenté fait suite à un diplôme du roi Eudes, immédiatement reconnaissable au monogramme et au nom de son notaire Throannus). L&#x2019;extrait ne suffit pas à identifier mieux la source, selon toute vraisemblance le cartulaire d&#x2019;une maison religieuse qui avait, à un moment inconnu entre l&#x2019;acte royal et la compilation du cartulaire, acquis le bien et en même temps l&#x2019;acte, devenu dès lors, dans son chartrier, un <hi rend="i">munimen</hi>.</p>
-                        <p>L&#x2019;édition de Georges Tessier permet aussitôt de retrouver la source : un cartulaire de l&#x2019;abbaye bourguignonne de Vézelay, conservé à la bibliothèque S. Lorenzo à Florence, depuis au moins le XVII<hi rend="sup">e</hi> siècle puisque il figure déjà dans le <hi rend="i">Catalogus codicum latinorum Bibliothecae Mediceae Laurentianae de Bandini</hi>.</p>
-                        <p>Si le copiste n&#x2019;a pas rendu l&#x2019;aspect d’origine de l&#x2019;acte (la souscription royale, la récognition de chancellerie, la formule de date devaient y constituer autant d&#x2019;alinéas), il a employé quelques majuscules en tête de phrase, qui délimitent en quelque sorte des paragraphes, très pertinemment découpés (initiale, début de la notification, début de la corroboration, début de la récognition de chancellerie). Il manque la première, réservée sans aucun doute pour une initiale ornée qui n&#x2019;a finalement pas été portée. Comme pour l’acte précédent, le copiste a reproduit le monogramme royal, senti comme partie intégrante du texte et comme signe de validation très fort. C&#x2019;est sous ce seul aspect que l&#x2019;on peut qualifier la copie de «&#160;copie figurée&#160;».</p>
-                        <p>L&#x2019;écriture, typique du XII<hi rend="sup">e</hi> siècle, est très régulière et très lisible. Les mots sont parfaitement séparés, même si, de manière caractéristique, certains mots-outils restent soudés au mot qu&#x2019;ils complètent, par exemple la préposition <hi rend="i">in</hi>. Les lettres sont encore très rondes. Le copiste emploie déjà le “s” rond et le “d” oncial en fin de mot, gardant le “s” plongeant et le “d” droit pour le reste. Les “n” et les “u” sont clairement distingués. Les empâtements en haut des hastes ou des jambages, causés par une pression sur la plume, sont très visibles. On peut relever quelques archaïsmes comme les “r” plongeants (le second <hi rend="i">honorare</hi>, bas de la p. de gauche), et les “e” cédillés, qui ne sont pas systématiques (et ne peuvent venir de l&#x2019;original carolingien).</p>
-                        <p>La ponctuation est très bien marquée avec des points placés en fin de phrase ou employés comme des sortes de virgules fortes. Le scribe utilise deux points et une virgule pour séparer la fin du texte du protocole final, ainsi qu&#x2019;en fin d’acte. Il montre un vrai souci de clarté et d’organisation. Non moins caractéristique d’un souci de faciliter la lecture et la consultation, qui se constate souvent dans les cartulaires anciens, les abréviations sont relativement peu nombreuses. Ce sont surtout des tildes remplaçant une nasale, des p barrés, outre quelques abréviations des plus courantes.</p>
-                        <p>La copie du cartulaire est le seul témoin conservé du diplôme de 842. Il est donc impossible d&#x2019;étudier en détail les distorsions qu&#x2019;elle a fait subir au texte. On le devine à l&#x2019;emploi du mot <hi rend="i">actoritas</hi>, car c&#x2019;est bien d&#x2019;<hi rend="i">auctoritas</hi> que parlent couramment les préceptes carolingiens ; la substitution est favorisée par le fréquent glissement <hi rend="i">auctor/actor</hi> du XI<hi rend="sup">e</hi> au XIII<hi rend="sup">e</hi> siècle.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Langue et style</head>
-                    <div>
-                        <p>La langue est dans la droite ligne des diplômes de Louis le Pieux, où elle s&#x2019;est forgé un profil original, sous l&#x2019;action conjointe des réalisations de la “Renaissance carolingienne” et de la pompeuse exaltation de la majesté impériale. Le fond du présent acte est si modeste et si simple que les ressorts stylistiques du diplôme carolingien y apparaissent, si l&#x2019;on peut dire, dans leur pureté, en même temps que dans leur autorité empesée.</p>
-                        <p>Le rédacteur use de figures de rhétorique courantes, telles la <hi rend="i">figura etymologica</hi> «&#160;honoribus honorare&#160;» et surtout les métaphores renvoyant au souverain («&#160;celsitudo nostra&#160;») ou à ses fidèles («&#160;industria fidelium&#160;») comme à ses actes («&#160;auctoritas nostra&#160;»). Le formulaire le plus stéréotypé contribue de son côté à la validité du texte, ainsi dans la formule de pertinence archi-courante «&#160;cum mancipiis, terris…&#160;», adaptée au juste à la situation présente par la mention «&#160;sine ecclesia&#160;».</p>
-                        <p>Tout aussi normalement, mais en sens inverse, contrairement à ses successeurs des X<hi rend="sup">e</hi>-XI<hi rend="sup">e</hi> siècles, le rédacteur ne se soucie guère de raffiner l&#x2019;expression du préambule, limité à un sec rappel de motif (nécessité de réchauffer les fidélités, ailleurs de faire des dons aux églises). Et, surtout, le texte procède d&#x2019;un assemblage de pièces qui laisse parfois subsister des ruptures fort peu grammaticales de construction : «&#160;Proinde morem parentum… sequentes, libuit celsitudini nostre…&#160;»</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Parties du discours</head>
-                    <div type="recommandation">
-                        <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
-                    </div>
-                    <div>
-                        <p>
-                            <seg corresp="invocation">
-                                [I]n nomine sanctæ et individue Trinitatis
-                                <note id="invocation">Invocation verbale</note></seg>
-                            <seg corresp="suscritpion">
-                                Karolus gratia Dei rex.
-                                <note id="suscritpion">Suscription</note></seg>
-                            <seg corresp="preambule">
-                                Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque sublimare.
-                                <note id="preambule">Préambule</note></seg>
-                            <seg corresp="expose">
-                                Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes, libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de quibusdam rebus nostræ proprietatis honorare atque in ejus juris potestatem liberalitatis nostræ gratiam conferre.
-                                <note id="expose">Exposé</note></seg>
-                            <seg corresp="notification">Idcirco noverit
-                                experientia atque industria omnium fidelium nostrorum tam presentium quam et futurorum quia
-                                <note id="notification">Notification</note></seg>
-                            <seg corresp="dispositif">
-                                concedimus eidem fideli nostro, Roclino nomine, ad proprium quasdam res juris nostri sitas in comitatu Avalense, in villa nuncupata Dornetiaco, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris, vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque fideli nostro Roclino ad proprium per hanc nostre actoritatis conscriptionem concedimus et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet ut quicquid ab hodierna die et tempore exinde pro sua utilitate ac commoditate jure proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.
-                                <note id="dispositif">Dispositif</note></seg>
-                            <seg corresp="corroboration">
-                                Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem, eam manus nostræ propriæ subterfirmavimus et anuli nostri inpressione sigillari decrevimus.
-                                <note id="corroboration">Corroboration</note></seg>
-                            <seg corresp="souscription_royale">
-                                Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.
-                                <note id="souscription_royale">Souscription royale</note></seg>
-                            <seg corresp="recognition">
-                                Deormarus notarius advicem Hludovici recognovit.
-                                <note id="recognition">Récogntition de chancellerie</note></seg>
-                            <seg corresp="date_temps">
-                                Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.
-                                <note id="date_temps">Date de temps</note></seg>
-                            <seg corresp="date_lieu">
-                                Actum Castellione super fluvium Dornonia.
-                                <note id="date_lieu">Date de lieu</note></seg>
-                            <seg corresp="apprecation">
-                                In Dei nomine feliciter. Amen.
-                                <note id="apprecation">Apprécation</note></seg>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Interprétation</head>
-                    <div>
-                        <p>Trace parmi d’autres, mais peu nombreuses, de donations faites à des fidèles laïques, le document vaut en premier lieu pour nous permettre de rompre le cercle magique des donations aux établissements ecclésiastiques : les rois carolingiens communiquent aussi par l&#x2019;écrit avec des laïques, mais le sortilège est vite reformé puisque, faute de conserver des chartriers laïques, nous restons tributaires des chartriers ecclésiastiques pour les connaître.</p>
-                        <p>Le contexte n&#x2019;est pas indifférent, où l&#x2019;on sait que le jeune roi, au pouvoir encore fragile et incertain, a beaucoup dû aux apports de contingents bourguignons dans sa campagne aquitaine. La lecture et l&#x2019;examen diplomatique du texte montrent du reste la volonté de faire un don aussi complet que possible : entier, perpétuel, délibéré (aucune mention ni dans l&#x2019;exposé ni dans la structure diplomatique de la très fréquente <hi rend="i">petitio</hi> faite au souverain).</p>
-                        <p>Il reste que, sans fioriture, au degré zéro ou presque du formulaire, le document donne une belle illustration de la structure diplomatique du précepte ordinaire carolingien et un bel indice de sa diffusion dans la pratique du pouvoir royal aux décennies médianes du IX<hi rend="sup">e</hi> siècle — une diffusion dont les aléas ne sauraient être érigés en reflets directs des aléas de la puissance du souverain.</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>842. Acte royal (XII<hi rend="sup">e</hi> siècle, copie de cartulaire)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">69</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig.&#160;: Florence, Bibliothèque San Lorenzo</p>
+        <p>Fac-sim. ENC&#160;: NF 255 (héliogravure)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc/>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>Note sur la transcription&#160;: les “e” cédillés sont ici rendus par “æ”</p>
+        <p>
+          <seg rend="28,15,463,38">[I]n nomine s<ex>an</ex>c<ex>t</ex>æ <ex>et</ex> individue Trinitatis, Karolus gr<ex>ati</ex>a D<ex>e</ex>i</seg>
+          <seg rend="25,41,482,64">rex. Regalis celsitudinis moris e<ex>st</ex> fideles suos donis mul-</seg>
+          <seg rend="26,67,489,88">-tiplicib<ex>us</ex> <ex>et</ex> manentib<ex>us</ex> honorib<ex>us</ex> honorare atq<ex>ue</ex> sublimare.</seg>
+          <seg rend="14,89,484,113">Proinde more<ex>m</ex> parentu<ex>m</ex>, regu<ex>m</ex> videlic<ex>et</ex> p<ex>re</ex> decessoru<ex>m</ex> n<ex>ost</ex>ror<ex>um</ex></seg>
+          <seg rend="30,116,469,141">sequentes, libuit celsitudini n<ex>ost</ex>re quenda<ex>m</ex> fidelem vir<ex>um</ex>,</seg>
+          <seg rend="32,146,505,168">Roclinu<ex>m</ex> nomine, de quib<ex>us</ex>dam reb<ex>us</ex> n<ex>ost</ex>ræ p<ex>ro</ex>p<ex>r</ex>ietatis honorare</seg>
+          <seg rend="32,196,504,222">atq<ex>ue</ex> in ej<ex>us</ex> juris potestate<ex>m</ex> liberalitis n<ex>ost</ex>ræ gr<ex>ati</ex>am conferre.</seg>
+          <seg rend="19,222,490,232,481,254,18,243" n="poly">Idcirco noverit exp<ex>er</ex>ientia atq<ex>ue</ex> industria om<ex>n</ex>ium fide-</seg>
+          <seg rend="28,249,480,262,480,281,27,273" n="poly">-liu<ex>m</ex>n<ex>ost</ex>ror<ex>um</ex> ta<ex>m</ex>p<ex>re</ex>sentiu<ex>m</ex> qua<ex>m</ex> <ex>et</ex> futuror<ex>um</ex> quia concedimus</seg>
+          <seg rend="30,278,479,286,478,303,31,294" n="poly">eidem fideli n<ex>ost</ex>ro, Roclino nomine, ad p<ex>ro</ex>p<ex>r</ex>iu<ex>m</ex> quasdam</seg>
+          <seg rend="29,307,487,313,489,332,29,322" n="poly">res juris n<ex>ost</ex>ris sitas in comitatu Avalense, in villa nun-</seg>
+          <seg rend="30,332,457,339,456,354,29,350" n="poly">-cupata Dornetiaco, id e<ex>st</ex> mansa viginti duo, sine</seg>
+          <seg rend="29,360,469,366,468,384,29,378" n="poly">eccl<ex>esi</ex>a, cu<ex>m</ex> mancipiis, terris, vineis, silvis, pratis ab-</seg>
+          <seg rend="29,387,457,392,456,413,32,403" n="poly">-jacentiis, aquis aquar<ex>um</ex>ve discursib<ex>us</ex> v<ex>e</ex>l quantu<ex>m</ex> cu<ex>m</ex>q<ex>ue</ex></seg>
+          <seg rend="31,410,474,421,470,438,31,430" n="poly">ad p<ex>re</ex>dictos mansos aspicere videtur. Has res cu<ex>m</ex> o<ex>mn</ex>i in-</seg>
+          <seg rend="27,440,370,442,470,448,467,461,26,455" n="poly">-tegritate memorato p<ex>re</ex>dictoq<ex>ue</ex> fideli n<ex>ost</ex>ro Roclino ad</seg>
+          <seg rend="29,467,344,469,475,472,473,489,26,485" n="poly">p<ex>ro</ex>priu<ex>m</ex> p<ex>er</ex> hanc n<ex>ost</ex>re actoritatis conscriptione<ex>m</ex> concedi-</seg>
+          <seg rend="31,493,478,494,474,514,29,509" n="poly">-mus <ex>et</ex> de n<ex>ost</ex>ro jure in jus hac potestate<ex>m</ex> illius solle<ex>m</ex></seg>
+          <seg rend="33,519,461,523,456,540,31,540" n="poly">-ni donatione transferimus, ita videlic<ex>et</ex> ut q<ex>u</ex>icq<ex>u</ex>id</seg>
+          <seg rend="27,546,296,550,475,555,474,572,24,565" n="poly">ab hodernia die <ex>et</ex> te<ex>m</ex>pore exinde p<ex>ro</ex> sua utilitate ac</seg>
+          <seg rend="27,573,475,578,473,600,26,593" n="poly">co<ex>m</ex>moditate jure p<ex>ro</ex>p<ex>r</ex>ietario facere volureit, libera<ex>m</ex></seg>
+          <seg rend="23,604,453,626"> <ex>et</ex> firmissima<ex>m</ex> in o<ex>mn</ex>ib<ex>us</ex> habeat potestate<ex>m</ex> faciendi.</seg>
+          <seg rend="7,630,461,653">Et ut hæc n<ex>ost</ex>ræ largitionis atq<ex>ue</ex> donationis auctoritas</seg>
+          <seg rend="28,656,482,678">p<ex>er</ex>petua<ex>m</ex> obtineat firmitatem, ea<ex>m</ex> manus n<ex>ost</ex>ræ p<ex>ro</ex>priæ</seg>
+          <seg rend="30,683,469,708">subterfirmavim<ex>us</ex> <ex>et</ex> anuli n<ex>ost</ex>ri inpressione sigillari</seg>
+          <seg rend="30,707,257,711,265,705,345,705,330,757,258,759,260,737,29,730" n="poly">decrevimus. Sign<ex>um</ex> Karoli (<hi rend="i">monogramme</hi>)</seg>
+          <seg rend="346,716,485,735">gl<ex>ori</ex>osissimi regis.</seg>
+          <seg rend="20,734,258,736,256,761,16,751" n="poly">Deormarus notarius advice<ex>m</ex></seg>
+          <seg rend="333,739,478,762">Hludovici recog-</seg>
+          <seg rend="23,760,488,768,487,786,235,787,22,777" n="poly">-novit. Data p<ex>r</ex>idie k<ex>alendas</ex> septe<ex>m</ex>bris, indic<ex>tione</ex> V, anno III regnan-</seg>
+          <seg rend="28,785,226,790,462,791,462,810,209,808,26,802" n="poly">-te Karolo gl<ex>ori</ex>oso rege. Actu<ex>m</ex> Castellione sup<ex>er</ex> fluvium</seg>
+          <seg rend="33,811,368,835">Dornonia. In D<ex>e</ex>i nomine feliciter. Amen.</seg>
+        </p>
+      </div>
+      <div type="texte">
+        <div type="remarque">
+          <p>Note sur la transcription&#160;: les “e” cédillés sont ici rendus par “æ”</p>
+        </div>
+        <div type="transcription">
+          <l>[I]n nomine sanctæ et individue Trinitatis, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d&#x2019;une campagne contre Pépin II d&#x2019;Aquitaine, qu&#x2019;il a mis en déroute.">Karolus</term> gratia Dei rex.</l>
+          <l>Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque</l>
+          <l>sublimare. Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes,</l>
+          <l>libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de</l>
+          <l>quibusdam rebus nostræ proprietatis honorare atque in ejus juris potestatem liberalitatis</l>
+          <l>nostræ gratiam conferre. Idcirco noverit experienta atque industria ominium fidelium</l>
+          <l>nostrorum tam presentium quam et futurorum quia concedimus eidem fideli nostro, Roclino nomine,</l>
+          <l>ad proprium quasdam res juris nostri sitas in comitatu <term n="Avallon, Yonne, ch-l. arr.">Avalense</term>, in villa</l>
+          <l>nuncupata <term n="Dornecy, Nièvre, cant. Clamecy.">Dornetiaco</term>, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris,</l>
+          <l>vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad</l>
+          <l>predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque</l>
+          <l>fidelo nostro Roclino ad propium per hanc nostre actoritatis conscriptionem concedimus</l>
+          <l>et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet</l>
+          <l>ut quicquid ab hodernia die et tempore exinde pro sua utilitate ac commoditate jure</l>
+          <l>proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.</l>
+          <l>Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem,</l>
+          <l>eam manus nostræ propriæ subterfirmaviums et anuli nostri inpressione</l>
+          <l>sigillari decrevimus.</l>
+          <l>Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.</l>
+          <l>Deormarus notarius advicem <term n="L&#x2019;archichancelier Louis, fils du comte du Maine et d&#x2019;une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu&#x2019;à son décès au début de 867.">Hludovici</term> recognovit.</l>
+          <l>Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.</l>
+          <l>Actum <term n="Castillon-la-Bataille, Gironde, ch-l. cant.">Castellione</term> super fluvium Dornonia. In Dei nomine feliciter. Amen.</l>
+        </div>
+        <div type="traduction">
+          <l>Au nom de la sainte et indivisble Trinité, <term n="Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d&#x2019;une campagne contre Pépin II d&#x2019;Aquitaine, qu&#x2019;il a mis en déroute.">Charles</term> roi par la grâce de Dieu.</l>
+          <l>Il est de coutume pour la grandeur d&#x2019;honorer et d&#x2019;élever ses fidèles par de multiples dons et par des honneurs durables.</l>
+          <l>C&#x2019;est pourquoi, suivant la coutume de nos parents, les rois nos prédécesseurs,</l>
+          <l>il a plu à notre hauteur d&#x2019;honorer un fidèle du nom de Roclinus</l>
+          <l>de certains biens de notre propriété et de les faire passer sous le pouvoir de son droit, par la grâce de</l>
+          <l>notre libéralité. Aussi, sachent l&#x2019;expérience et le zèle de tous nos fidèles,</l>
+          <l>présents et à venir, que nous concédons à notredit fidèle du nom de Roclinus,</l>
+          <l>en toute propriété des biens qui nous appartiennent, sis au comté d&#x2019;<term n="Avallon, Yonne, ch-l. arr.">Avallon</term>, dans la <hi rend="i">villa</hi></l>
+          <l>appelée <term n="Dornecy, Nièvre, cant. Clamecy.">Dornecy</term>, à savoir viengt-deux manses, sans église, avec les esclaves, terres,</l>
+          <l>vignes, bois, prés qui en dépendent, eaux et cours d&#x2019;eau, et tout ce qui</l>
+          <l>se trouve relever des manses susdits. Ces biens dans tout ce qu&#x2019;ils comprennent</l>
+          <l>nous les concédons en totue propriété à notre dit et mentionné fidèle Roclinus par cet écrit émanant de notre autorité</l>
+          <l>et nous les transférons de notre droit en son droit et pouvoir par donation solennelle, en sorte que, </l>
+          <l>quoi qu&#x2019;il veuille en faire à partir d&#x2019;aujourd&#x2019;hui et par la suite pour son usage et sa convenance,</l>
+          <l>en droit de propriétaire, il ait le libre et très ferme pouvoir de le faire en tout.</l>
+          <l>Et pour que le présent précepte de notre largesse et donation reçoive une force perpétuelle,</l>
+          <l>nous l&#x2019;avons validé ci-dessous de notre propre main, et ordonné de le faire sceller de l&#x2019;impression de</l>
+          <l>notre anneau.</l>
+          <l>Seing de Charles (<hi rend="i">monogramme</hi>) roi très glorieux.</l>
+          <l>Deormarus, notaire, en place de <term n="L&#x2019;archichancelier Louis, fils du comte du Maine et d&#x2019;une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu&#x2019;à son décès au début de 867.">Louis</term>, a reconnu.</l>
+          <l>Donné la veille des calendes de septembre, indication V<hi rend="sup">e</hi>, III<hi rend="sup">e</hi> année du règne du glorieux roi Charles.</l>
+          <l>Fait à <term n="Castillon-la-Bataille, Gironde, ch-l. cant.">Castillon</term> sur le fleuve Dordogne. Au nom de Dieu dans la félicité. Amen.</l>
+        </div>
+        <div type="commentaire">
+          <head>Datation</head>
+          <p>Les actes royaux connus par copie et antérieurs à l&#x2019;adoption de l&#x2019;année de l&#x2019;Incarnation vers 970 posent un problème délicat de datation&#160;: les règles de l&#x2019;onomastique royale excluent la précision de l&#x2019;ordinal à côté du nom personnel, et les années sont exprimées en années de règne. c&#x2019;est donc un mélange d&#x2019;indices diplomatiques et historiques qui oriente vers l&#x2019;identification du souverain. La seule suscription exclut d&#x2019;emblée Charle[magne], à commencer par l&#x2019;absence de <hi rend="i">Francorum</hi> dans le titre royal. Cette absence renvoie à des moments où le "royaume des Francs" est partagé entre plusieurs rois, dans le cas présent au règne de Charles [II] le Chauve ou de Charles [III] le Simple avant 911 et sa mainmise sur la "Lorraine". Des considérations historiques excluent ce dernier au profit de Charles le Chauve&#160;: concordance de la date et de la présence au sud (une campagne militaire contre Pépin d&#x2019;Aquitaine), identification du personnel de chancellerie... Une fois Charles le Chauve retenu, la date est facile à convertir, puisque ses années de règne sont décomptées à partir du 21 juin 840, lendemain de la mort de Louis le Pieux. La 3<hi rend="sup">e</hi> année allant du 21 juin 842 au 20 juin 843, nous sommes la veille du 1<hi rend="sup">er</hi> septembre (31 août) 842, indication qui concorde avec celle de l&#x2019;indiction 5<hi rend="sup">e</hi> (un élément souvent mal calculé à la chancellerie du roi).</p>
+        </div>
+        <div type="regeste">
+          <head>842, 31 août. - Castillon[-la-Bataille].</head>
+          <p>Charles [II le Chauve] donne à son fidèle Roclinus, en toute propriété, viengt-deux manses, sans église, et leurs dépendances, dans la <hi rend="i">villa</hi> de Dornecy, au comté d&#x2019;Avallon.</p>
+          <p>N.B.&#160;: L&#x2019;acte est édité par Georges Tessier, <hi rend="i">Recueil des actes de Charles II le Chauve</hi>, t.I (Paris, 1943), n<hi rend="sup">o</hi> 11.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Remarques sur la copie</head>
+          <div>
+            <p>Le document sous examen est à l&#x2019;évidence une copie, intégrée à un recueil (l&#x2019;acte ici présenté fait suite à un diplôme du roi Eudes, immédiatement reconnaissable au monogramme et au nom de son notaire Throannus). L&#x2019;extrait ne suffit pas à identifier mieux la source, selon toute vraisemblance le cartulaire d&#x2019;une maison religieuse qui avait, à un moment inconnu entre l&#x2019;acte royal et la compilation du cartulaire, acquis le bien et en même temps l&#x2019;acte, devenu dès lors, dans son chartrier, un <hi rend="i">munimen</hi>.</p>
+            <p>L&#x2019;édition de Georges Tessier permet aussitôt de retrouver la source : un cartulaire de l&#x2019;abbaye bourguignonne de Vézelay, conservé à la bibliothèque S. Lorenzo à Florence, depuis au moins le XVII<hi rend="sup">e</hi> siècle puisque il figure déjà dans le <hi rend="i">Catalogus codicum latinorum Bibliothecae Mediceae Laurentianae de Bandini</hi>.</p>
+            <p>Si le copiste n&#x2019;a pas rendu l&#x2019;aspect d’origine de l&#x2019;acte (la souscription royale, la récognition de chancellerie, la formule de date devaient y constituer autant d&#x2019;alinéas), il a employé quelques majuscules en tête de phrase, qui délimitent en quelque sorte des paragraphes, très pertinemment découpés (initiale, début de la notification, début de la corroboration, début de la récognition de chancellerie). Il manque la première, réservée sans aucun doute pour une initiale ornée qui n&#x2019;a finalement pas été portée. Comme pour l’acte précédent, le copiste a reproduit le monogramme royal, senti comme partie intégrante du texte et comme signe de validation très fort. C&#x2019;est sous ce seul aspect que l&#x2019;on peut qualifier la copie de «&#160;copie figurée&#160;».</p>
+            <p>L&#x2019;écriture, typique du XII<hi rend="sup">e</hi> siècle, est très régulière et très lisible. Les mots sont parfaitement séparés, même si, de manière caractéristique, certains mots-outils restent soudés au mot qu&#x2019;ils complètent, par exemple la préposition <hi rend="i">in</hi>. Les lettres sont encore très rondes. Le copiste emploie déjà le “s” rond et le “d” oncial en fin de mot, gardant le “s” plongeant et le “d” droit pour le reste. Les “n” et les “u” sont clairement distingués. Les empâtements en haut des hastes ou des jambages, causés par une pression sur la plume, sont très visibles. On peut relever quelques archaïsmes comme les “r” plongeants (le second <hi rend="i">honorare</hi>, bas de la p. de gauche), et les “e” cédillés, qui ne sont pas systématiques (et ne peuvent venir de l&#x2019;original carolingien).</p>
+            <p>La ponctuation est très bien marquée avec des points placés en fin de phrase ou employés comme des sortes de virgules fortes. Le scribe utilise deux points et une virgule pour séparer la fin du texte du protocole final, ainsi qu&#x2019;en fin d’acte. Il montre un vrai souci de clarté et d’organisation. Non moins caractéristique d’un souci de faciliter la lecture et la consultation, qui se constate souvent dans les cartulaires anciens, les abréviations sont relativement peu nombreuses. Ce sont surtout des tildes remplaçant une nasale, des p barrés, outre quelques abréviations des plus courantes.</p>
+            <p>La copie du cartulaire est le seul témoin conservé du diplôme de 842. Il est donc impossible d&#x2019;étudier en détail les distorsions qu&#x2019;elle a fait subir au texte. On le devine à l&#x2019;emploi du mot <hi rend="i">actoritas</hi>, car c&#x2019;est bien d&#x2019;<hi rend="i">auctoritas</hi> que parlent couramment les préceptes carolingiens ; la substitution est favorisée par le fréquent glissement <hi rend="i">auctor/actor</hi> du XI<hi rend="sup">e</hi> au XIII<hi rend="sup">e</hi> siècle.</p>
+          </div>
+        </div>
+        <div>
+          <head>Langue et style</head>
+          <div>
+            <p>La langue est dans la droite ligne des diplômes de Louis le Pieux, où elle s&#x2019;est forgé un profil original, sous l&#x2019;action conjointe des réalisations de la “Renaissance carolingienne” et de la pompeuse exaltation de la majesté impériale. Le fond du présent acte est si modeste et si simple que les ressorts stylistiques du diplôme carolingien y apparaissent, si l&#x2019;on peut dire, dans leur pureté, en même temps que dans leur autorité empesée.</p>
+            <p>Le rédacteur use de figures de rhétorique courantes, telles la <hi rend="i">figura etymologica</hi> «&#160;honoribus honorare&#160;» et surtout les métaphores renvoyant au souverain («&#160;celsitudo nostra&#160;») ou à ses fidèles («&#160;industria fidelium&#160;») comme à ses actes («&#160;auctoritas nostra&#160;»). Le formulaire le plus stéréotypé contribue de son côté à la validité du texte, ainsi dans la formule de pertinence archi-courante «&#160;cum mancipiis, terris…&#160;», adaptée au juste à la situation présente par la mention «&#160;sine ecclesia&#160;».</p>
+            <p>Tout aussi normalement, mais en sens inverse, contrairement à ses successeurs des X<hi rend="sup">e</hi>-XI<hi rend="sup">e</hi> siècles, le rédacteur ne se soucie guère de raffiner l&#x2019;expression du préambule, limité à un sec rappel de motif (nécessité de réchauffer les fidélités, ailleurs de faire des dons aux églises). Et, surtout, le texte procède d&#x2019;un assemblage de pièces qui laisse parfois subsister des ruptures fort peu grammaticales de construction : «&#160;Proinde morem parentum… sequentes, libuit celsitudini nostre…&#160;»</p>
+          </div>
+        </div>
+        <div>
+          <head>Parties du discours</head>
+          
+          <div>
+            <p>
+              <seg corresp="invocation"> [I]n nomine sanctæ et individue Trinitatis
+                <note id="invocation">Invocation verbale</note></seg>
+              <seg corresp="suscritpion"> Karolus gratia Dei rex.
+                <note id="suscritpion">Suscription</note></seg>
+              <seg corresp="preambule"> Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque sublimare.
+                <note id="preambule">Préambule</note></seg>
+              <seg corresp="expose"> Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes, libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de quibusdam rebus nostræ proprietatis honorare atque in ejus juris potestatem liberalitatis nostræ gratiam conferre.
+                <note id="expose">Exposé</note></seg>
+              <seg corresp="notification">Idcirco noverit experientia atque industria omnium fidelium nostrorum tam presentium quam et futurorum quia
+                <note id="notification">Notification</note></seg>
+              <seg corresp="dispositif"> concedimus eidem fideli nostro, Roclino nomine, ad proprium quasdam res juris nostri sitas in comitatu Avalense, in villa nuncupata Dornetiaco, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris, vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque fideli nostro Roclino ad proprium per hanc nostre actoritatis conscriptionem concedimus et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet ut quicquid ab hodierna die et tempore exinde pro sua utilitate ac commoditate jure proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.
+                <note id="dispositif">Dispositif</note></seg>
+              <seg corresp="corroboration"> Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem, eam manus nostræ propriæ subterfirmavimus et anuli nostri inpressione sigillari decrevimus.
+                <note id="corroboration">Corroboration</note></seg>
+              <seg corresp="souscription_royale"> Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.
+                <note id="souscription_royale">Souscription royale</note></seg>
+              <seg corresp="recognition"> Deormarus notarius advicem Hludovici recognovit.
+                <note id="recognition">Récogntition de chancellerie</note></seg>
+              <seg corresp="date_temps"> Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.
+                <note id="date_temps">Date de temps</note></seg>
+              <seg corresp="date_lieu"> Actum Castellione super fluvium Dornonia.
+                <note id="date_lieu">Date de lieu</note></seg>
+              <seg corresp="apprecation"> In Dei nomine feliciter. Amen.
+                <note id="apprecation">Apprécation</note></seg>
+            </p>
+          </div>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <div>
+            <p>Trace parmi d’autres, mais peu nombreuses, de donations faites à des fidèles laïques, le document vaut en premier lieu pour nous permettre de rompre le cercle magique des donations aux établissements ecclésiastiques : les rois carolingiens communiquent aussi par l&#x2019;écrit avec des laïques, mais le sortilège est vite reformé puisque, faute de conserver des chartriers laïques, nous restons tributaires des chartriers ecclésiastiques pour les connaître.</p>
+            <p>Le contexte n&#x2019;est pas indifférent, où l&#x2019;on sait que le jeune roi, au pouvoir encore fragile et incertain, a beaucoup dû aux apports de contingents bourguignons dans sa campagne aquitaine. La lecture et l&#x2019;examen diplomatique du texte montrent du reste la volonté de faire un don aussi complet que possible : entier, perpétuel, délibéré (aucune mention ni dans l&#x2019;exposé ni dans la structure diplomatique de la très fréquente <hi rend="i">petitio</hi> faite au souverain).</p>
+            <p>Il reste que, sans fioriture, au degré zéro ou presque du formulaire, le document donne une belle illustration de la structure diplomatique du précepte ordinaire carolingien et un bel indice de sa diffusion dans la pratique du pouvoir royal aux décennies médianes du IX<hi rend="sup">e</hi> siècle — une diffusion dont les aléas ne sauraient être érigés en reflets directs des aléas de la puissance du souverain.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI.2>

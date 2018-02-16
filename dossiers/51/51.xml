@@ -1,398 +1,392 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>1180. Acte épiscopal (Le Mans)</title>
-			</titleStmt>
-			<publicationStmt>
-				<idno type="numero">51</idno>
-				<publisher>Ecole nationale des chartes</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Orig. : Arch. nat., L 969, n° 3</p>
-				<p>Fac-sim. : ENC AF 339 (lithographie)</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc> </profileDesc>
-	</teiHeader>
-	<text>
-		<front> </front>
-		<body>
-			<div type="facsimile" rend="fax.jpg">
-				<p>
-					<seg rend="50,28,646,72">Guill<ex>el</ex>mus, D<ex>e</ex>i
-							gr<ex>ati</ex>a Cenomannensis ep<ex>iscopu</ex>s,
-							fidelib<ex>us</ex> universis,
-						sal<ex>u</ex>t<ex>em</ex>. </seg>
-					<seg rend="651,48,859,80">Nos, intelligentes q<ex>uo</ex>d</seg>
-					<seg rend="50,74,572,100">veritas sub scripti actoritate tuti<ex>us</ex>
-						debeat observari, </seg>
-					<seg rend="574,82,868,106">notu<ex>m</ex> fieri curavim<ex>us</ex>
-						Gilonem</seg>
-					<seg rend="51,102,559,132">de Gorran p<ex>ro</ex> salute anime sue
-							<ex>et</ex> uxoris <ex>et</ex> antecessoru<ex>m</ex>
-					</seg>
-					<seg rend="560,112,869,138">q<ex>u</ex>andam terra<ex>m</ex>
-							sua<ex>m</ex> que dicitur</seg>
-					<seg rend="50,139,617,162">La Mehellee, que est juxta Erneiam, monachis
-						Savigneii </seg>
-					<seg rend="625,144,857,169">ad pitantiam in pane</seg>
-					<seg rend="48,168,385,192">et vino <ex>et</ex> piscibus
-						sing<ex>u</ex>lis annis </seg>
-					<seg rend="388,173,855,196">percipiendam in
-						p<ex>er</ex>petua<ex>m</ex> elemosina<ex>m</ex>
-							lib<ex>er</ex>am et</seg>
-					<seg rend="47,199,727,227">quietam <ex>et</ex> ab om<ex>n</ex>i
-						servitio <ex>et</ex> consuetudine <ex>et</ex> exactione
-						absolutam </seg>
-					<seg rend="732,203,874,229">dedisse <ex>et</ex> con-</seg>
-					<seg rend="42,230,653,258">-cessisse. Hanc donatione<ex>m</ex> concessit
-							Guill<ex>el</ex>m<ex>us</ex> fili<ex>us</ex>
-							ej<ex>us</ex> p<ex>r</ex>imogenit<ex>us</ex>
-					</seg>
-					<seg rend="655,236,879,260"><ex>et</ex> sigilli sui actoritate</seg>
-					<seg rend="41,268,550,292">munivit, eam tueri et defensare fideliter
-						p<ex>ro</ex>misit, </seg>
-					<seg rend="553,269,867,295"><ex>et</ex> p<ex>ro</ex> hac concessione
-						de caritate</seg>
-					<seg rend="41,302,600,329">monasterii quatuor libras <ex>et</ex>
-							dece<ex>m</ex> solidos cenom<ex>annensium</ex>
-						h<ex>ab</ex>uit. </seg>
-					<seg rend="607,302,864,327">Hanc ip<ex>s</ex>am donationem</seg>
-					<seg rend="41,336,369,359">concessit Henric<ex>us</ex>
-						f<ex>rate</ex>r p<ex>re</ex>dicti
-						G<ex>ui</ex>ll<ex>el</ex>mi, </seg>
-					<seg rend="376,337,865,361">q<ex>u</ex>i etia<ex>m</ex> de
-							p<ex>re</ex>fati monast<ex>er</ex>ii caritate
-						t<ex>r</ex>iginta solidos</seg>
-					<seg rend="40,369,426,395">cenom<ex>annensium</ex> habuit. Hoc
-							aute<ex>m</ex> sciendu<ex>m</ex> est </seg>
-					<seg rend="427,371,881,394">q<ex>uo</ex>d sepedict<ex>us</ex>
-							Guill<ex>elmus</ex>
-						<ex>et</ex> Henric<ex>us</ex> f<ex>rate</ex>r
-						ej<ex>us</ex> hanc donati-</seg>
-					<seg rend="38,405,341,427">-one<ex>m</ex> in manu n<ex>ost</ex>ra
-						miserunt, </seg>
-					<seg rend="344,405,885,422">de qua p<ex>re</ex>dictos monachos
-							investivim<ex>us</ex>. Anno ab In-</seg>
-					<seg rend="34,439,299,465">-carnatione D<ex>omi</ex>ni M° C° LXXX°. </seg>
-					<seg rend="299,434,876,460">Q<ex>uo</ex>d ut fideli<ex>us</ex>
-							observet<ex>ur</ex>, litt<ex>er</ex>is annotari
-						<ex>et</ex> sigilli n<ex>ost</ex>ri mu-</seg>
-					<seg rend="33,472,501,496">-nimine fecim<ex>us</ex> confirmari.
-							Huj<ex>us</ex> rei s<ex>un</ex>t testes </seg>
-					<seg rend="503,472,872,494">Nicholaus decan<ex>us</ex>
-						B<ex>eat</ex>i Juliani, R. pre-</seg>
-					<seg rend="30,508,490,529">-centor, magist<ex>er</ex> Ernaldus,
-							mag<ex>ister</ex> B. capellan<ex>us</ex>, </seg>
-					<seg rend="491,509,851,529">Stephan<ex>us</ex>, Ricardus, Hugo, monachi,</seg>
-					<seg rend="36,542,372,570">et multi </seg>
-					<seg rend="411,534,704,568">alii.</seg>
-				</p>
-			</div>
-			<div type="transcription">
-				<div type="texte">
-					<l><term n="Guillaume de Passavant, évêque du Mans (1143-1187)."
-							>Guill<ex>el</ex>mus</term>, D<ex>e</ex>i
-						gr<ex>ati</ex>a Cenomannensis ep<ex>iscopu</ex>s,
-							fidelib<ex>us</ex> universis, </l>
-					<l>sal<ex>u</ex>t<ex>em</ex>. Nos, intelligentes q<ex>uo</ex>d</l>
-					<l>veritas sub scripti actoritate tuti<ex>us</ex> debeat observari, </l>
-					<l>notu<ex>m</ex> fieri curavim<ex>us</ex> Gilonem</l>
-					<l>de <term n="Gorron, Mayenne, ch.-l. cant.">Gorran</term> p<ex>ro</ex>
-						salute anime sue <ex>et</ex> uxoris <ex>et</ex>
-					</l>
-					<l>antecessoru<ex>m</ex> q<ex>u</ex>andam terra<ex>m</ex>
-							sua<ex>m</ex>
-					</l>
-					<l>que dicitur <term n="La Méhélée (Mayenne, cant. Ernée, comm. Montenay).">La
-							Mehellee</term>, que est juxta <term
-							n="L&#x2019;Ernée, affluent de la Mayenne, a aussi donné son nom à la ville d&#x2019;Ernée (Mayenne, ch.-l. cant.)."
-							>Erneiam</term>, </l>
-					<l>monachis <term
-							n="Savigny (Manche, cant. Le Teilleul). À l&#x2019;origine, ermitage (diocèse d&#x2019;Avranches) fondé par Vital, régularisé en une abbaye intégrée à l&#x2019;ordre cistercien en 1147."
-							>Savigneii</term> ad <term
-							n="La pitance est une distribution alimentaire faite aux membres d&#x2019;une communauté. Le contexte renvoie ici à la fondation d&#x2019;un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés."
-							>pitantiam</term> in pane</l>
-					<l>et vino <ex>et</ex> piscibus sing<ex>u</ex>lis annis </l>
-					<l>percipiendam in p<ex>er</ex>petua<ex>m</ex>
-						elemosina<ex>m</ex> lib<ex>er</ex>am et</l>
-					<l>quietam <ex>et</ex> ab om<ex>n</ex>i servitio <ex>et</ex>
-						consuetudine <ex>et</ex> exactione absolutam </l>
-					<l>dedisse <ex>et</ex> concessisse. </l>
-					<l/>
-					<l/>
-					<l/>
-					<l>Hanc donatione<ex>m</ex> concessit
-						Guill<ex>el</ex>m<ex>us</ex> fili<ex>us</ex>
-						ej<ex>us</ex> p<ex>r</ex>imogenit<ex>us</ex>
-					</l>
-					<l><ex>et</ex> sigilli sui actoritate</l>
-					<l>munivit, eam tueri et defensare fideliter p<ex>ro</ex>misit, </l>
-					<l><ex>et</ex> p<ex>ro</ex> hac concessione de <term
-							n="La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d&#x2019;une somme en échange d&#x2019;un don, dont ni le montant ni le processus, manifestation d&#x2019;amour mutuel, n&#x2019;ont à voir avec une &#34;vente&#34;."
-							>caritate</term></l>
-					<l>monasterii quatuor libras <ex>et</ex> dece<ex>m</ex> solidos
-							cenom<ex>annensium</ex> h<ex>ab</ex>uit. </l>
-					<l/>
-					<l/>
-					<l/>
-					<l>Hanc ip<ex>s</ex>am donationem</l>
-					<l>concessit Henric<ex>us</ex> f<ex>rate</ex>r
-						p<ex>re</ex>dicti G<ex>ui</ex>ll<ex>el</ex>mi, </l>
-					<l>q<ex>u</ex>i etia<ex>m</ex> de p<ex>re</ex>fati
-							monast<ex>er</ex>ii caritate t<ex>r</ex>iginta solidos</l>
-					<l>cenom<ex>annensium</ex> habuit. </l>
-					<l/>
-					<l>Hoc aute<ex>m</ex> sciendu<ex>m</ex> est </l>
-					<l>q<ex>uo</ex>d sepedict<ex>us</ex> Guill<ex>elmus</ex>
-						<ex>et</ex> Henric<ex>us</ex> f<ex>rate</ex>r
-						ej<ex>us</ex> hanc donati-</l>
-					<l>-one<ex>m</ex> in manu n<ex>ost</ex>ra miserunt, </l>
-					<l>de qua p<ex>re</ex>dictos monachos investivim<ex>us</ex>. Anno ab
-						In-</l>
-					<l>-carnatione D<ex>omi</ex>ni M° C° LXXX°. </l>
-					<l>Q<ex>uo</ex>d ut fideli<ex>us</ex> observet<ex>ur</ex>,
-							litt<ex>er</ex>is annotari <ex>et</ex> sigilli
-						n<ex>ost</ex>ri mu-</l>
-					<l>-nimine fecim<ex>us</ex> confirmari. Huj<ex>us</ex> rei
-							s<ex>un</ex>t testes </l>
-					<l><term
-							n="Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans."
-							>Nicholaus</term> decan<ex>us</ex> B<ex>eat</ex>i Juliani,
-						R. pre-</l>
-					<l>-centor, magist<ex>er</ex> Ernaldus, mag<ex>ister</ex> B.
-							capellan<ex>us</ex>, </l>
-					<l>Stephan<ex>us</ex>, Ricardus, Hugo, monachi,</l>
-					<l>et multi alii.</l>
-				</div>
-				<div type="traduction">
-					<l><term n="Guillaume de Passavant, évêque du Mans (1143-1187)."
-						>Guillaume</term>, par la grâce de Dieu évêque du </l>
-					<l>Mans, à tous les fidèles, salut. Nous, </l>
-					<l>comprenant qu'il faut à la vérité la garantie </l>
-					<l>de l'écrit pour être plus sûrement respectée, </l>
-					<l>avons pris soin de faire savoir que Gilon de </l>
-					<l><term n="Gorron, Mayenne, ch.-l. cant.">Gorron</term>, pour le salut de son
-						âme et de </l>
-					<l>celles de sa femme et de ses ancêtres, a </l>
-					<l>donné et concédé en perpétuelle aumône </l>
-					<l>une sienne terre dite <term
-							n="La Méhélée (Mayenne, cant. Ernée, comm. Montenay).">La
-						Mehélée</term>, près </l>
-					<l>d'<term
-							n="L&#x2019;Ernée, affluent de la Mayenne, a aussi donné son nom à la ville d&#x2019;Ernée (Mayenne, ch.-l. cant.)."
-							>Ernée</term>, aux moines de <term
-							n="Savigny (Manche, cant. Le Teilleul). À l&#x2019;origine, ermitage (diocèse d&#x2019;Avranches) fondé par Vital, régularisé en une abbaye intégrée à l&#x2019;ordre cistercien en 1147."
-							>Savigny</term>, libre et </l>
-					<l>tranquille et dégagée de tout service, </l>
-					<l>coutume et redevance, pour qu'ils en </l>
-					<l>reçoivent chaque année <term
-							n="La pitance est une distribution alimentaire faite aux membres d&#x2019;une communauté. Le contexte renvoie ici à la fondation d&#x2019;un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés."
-							>pitance</term> en pain, </l>
-					<l>vin et poissons.</l>
-					<l/>
-					<l>Cette donation a été concédée par </l>
-					<l>Guillaume, son fils aîné, qui l'a corroborée </l>
-					<l>de l'autorité de son sceau, promettant de la </l>
-					<l>protéger et défendre fidèlement ; pour cette </l>
-					<l>concession, il a eu, de la <term
-							n="La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d&#x2019;une somme en échange d&#x2019;un don, dont ni le montant ni le processus, manifestation d&#x2019;amour mutuel, n&#x2019;ont à voir avec une &#34;vente&#34;."
-							>charité</term> du </l>
-					<l>monastère, quatre livres et dix sous </l>
-					<l>mansois. </l>
-					<l/>
-					<l>Cette même donation a été concédée par </l>
-					<l>Henri, frère du susdit Guillaume, qui a </l>
-					<l>aussi eu, de la charité du susdit monastère, </l>
-					<l>trente sous mansois.</l>
-					<l/>
-					<l>Il faut savoir que le susdit Guillaume et son </l>
-					<l>frère Henri ont mis en notre main cette </l>
-					<l>donation, dont nous avons investi les </l>
-					<l>susdits moines. L'an de l'Incarnation du </l>
-					<l>Seigneur 1180. Pour que cela soit plus </l>
-					<l>fidèlement observé, nous l'avons fait </l>
-					<l>consigner dans ces lettres et renforcer de la </l>
-					<l>protection de notre sceau. De quoi sont </l>
-					<l>témoins <term
-							n="Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans."
-							>Nicolas</term> doyen de Saint-Julien, R. </l>
-					<l>préchantre, maître Ernaud, maître B. </l>
-					<l>chapelain, Étienne, Richard, Hugues, </l>
-					<l>moines, et bien d'autres.</l>
-				</div>
-				<div type="regeste">
-					<head>1180 (a. st.).</head>
-					<p>L'évêque du Mans Guillaume notifie la donation faite au monastère de Savigny
-						par Gilon de Gorron d'une terre dite La Méhélée, près d'Ernée, ainsi que la
-						reconnaissance de cette transaction par deux fils de Gilon, l'aîné
-						Guillaume, qui en a scellé acte, et Henri, à qui le monastère a donné
-						respectivement 4 livres 10 sous et 30 sous mansois, et qui se sont présentés
-						devant l'évêque, lequel a procédé à l'investiture du monastère.</p>
-				</div>
-			</div>
-			<div type="commentaire" n="diplomatique">
-				<head>Commentaire diplomatique</head>
-				<div>
-					<head>Caractères externes</head>
-					<div type="recommandation">
-						<p>Passer la souris sur les cercles rouges pour des commentaires de
-						détail</p>
-					</div>
-					<div>
-
-						<p>
-							<figure rend="51/faxexternes.jpg">
-								<figDesc>
-									<seg type="circle" rend="355,35,14">Majuscule à redoublement.</seg>
-									<seg type="circle" rend="176,116,12">Abréviation de “et”.</seg>
-									<seg type="circle" rend="66,131,17">Majuscule simple.</seg>
-
-									<seg type="circle" rend="140,154,11">Lettres conjointes e-t,
-										pour “et”.</seg>
-									<seg type="rect" rend="306,289,487,313">Étirement des mots et
-										trait ondulé pour occuper la dernière ligne de texte (le
-										procédé décourage les interpolations).</seg>
-									<seg type="circle" rend="196,376,23">Petite lanière de parchemin
-										attachée et nouée postérieurement au bas du repli. Usage
-										inconnu, sans doute archivistique.</seg>
-									<seg type="circle" rend="253,362,36">Double queue de parchemin,
-										d’origine, pour le sceau.</seg>
-								</figDesc>
-							</figure>
-						</p>
-						<p>L’acte se signale visuellement par une très grande régularité, de la mise
-							en page comme de la graphie. Plus large que haut, ce qui est alors la
-							norme pour des productions courantes, il ménage entre les lignes des
-							intervalles relativement serrés mais très réguliers, des marges économes
-							mais bien respectées, y compris sur la droite, souvent au moyen de
-							coupures de mots.</p>
-
-						<p>L’écriture se caractérise par une très grande uniformité et des lettres
-							assez anguleuses, soigneusement formées ; elle n’a pas de caractère
-							diplomatique très accentué, ce que renforce encore son caractère très
-							posé. Les hastes comme les hampes ne sont pas allongées, ni décorées. Le
-							souci de clarté est évident : la ponctuation est discrète mais efficace
-							pour isoler certaines périodes ou mettre en relief certains passages ou
-							expressions, comme les montants monétaires (32 points, 2 points-virgules
-							renversés). Les majuscules, de hauteur inégale, contribuent aussi à
-							scander le propos ; mais deux seulement (les deux “N” des lignes 1 et
-							14) portent un redoublement. Les abréviations sont relativement peu
-							nombreuses et régulières (on notera au passage la coexistence de deux
-							signes pour le “et”). Les “i” sont pointés lorsqu’il y a ambiguïté
-							(savigneii, ligne 4) ; les traits d’union, lorsqu’un mot est coupé en
-							fin de ligne (5 cas), sont systématiques.</p>
-						<p>Il se dégage donc une double impression de soin et de sobriété. Sans
-							emphase, la présentation traduit la solidité et la perpétuité que
-							cherche à apporter l’intervention épiscopale. Seule une étude
-							comparative permettrait de répondre à la question essentielle, de
-							l’attribution de l’écriture à l’abbaye ou à la chancellerie
-						épiscopale.</p>
-					</div>
-				</div>
-				<div>
-					<head>Parties du discours</head>
-					<div type="recommandation">
-						<p>Passer la souris sur le texte pour obtenir des commentaires de
-						détail</p>
-					</div>
-					<div>
-						<p>
-							<seg corresp="suscription">Guillelmus, Dei gratia
-								Cenomannensis episcopus,<note id="suscription"
-									>Suscription.</note></seg>
-							<seg corresp="adresse">fidelibus universis,<note
-									id="adresse">Adresse universelle.</note></seg>
-							<seg corresp="salut">salutem.<note id="salut"
-									type="bulle">Salut.</note></seg>
-							<seg corresp="preambule">Nos, intelligentes quod
-								veritas sub scripti actoritate tutius debeat observari,<note
-									id="preambule">Préambule court.</note></seg>
-							<seg corresp="notification_1">notum fieri
-									curavimus<note id="notification_1">Première
-									notification.</note></seg>
-							<seg corresp="expose_1">Gilonem de Gorran pro
-								salute anime sue et uxoris et antecessorum quandam terram suam que
-								dicitur La Mehellee, que est juxta Erneiam, monachis Savigneii ad
-								pitantiam in pane et vino et piscibus singulis annis percipiendam in
-								perpetuam elemosinam liberam et quietam et ab omni servitio et
-								consuetudine et exactione absolutam dedisse et concessisse. Hanc
-								donationem concessit Guillelmus filius ejus primogenitus et sigilli
-								sui actoritate munivit, eam tueri et defensare fideliter promisit,
-								et pro hac concessione de caritate monasterii quatuor libras et
-								decem solidos cenomannensium habuit. Hanc ipsam donationem concessit
-								Henricus frater predicti Guillelmi, qui etiam de prefati monasterii
-								caritate triginta solidos cenomannensium habuit.<note id="expose_1"
-									type="bulle">Premier exposé (pas de dispositif à proprement dans
-									cet acte dont la fin même est de rapporter des faits sous le
-									sceau de l&#x2019;évêque) : historique de la donation.</note></seg>
-							<seg corresp="notification_2">Hoc autem sciendum
-								est quod<note id="notification_2">Seconde
-								notification.</note></seg>
-							<seg corresp="expose_2">sepedictus Guillelmus et
-								Henricus frater ejus hanc donationem in manu nostra miserunt, de qua
-								predictos monachos investivimus.<note id="expose_2"
-									>Second exposé : la cérémonie devant l’évêque.</note></seg>
-							<seg corresp="date">Anno ab Incarnatione Domini M°
-								C° LXXX°.<note id="date">Date de temps, simple
-									excroissance de l’exposé.</note></seg>
-
-							<seg corresp="corroboration">Quod ut fidelius
-								observetur, litteris annotari et sigilli nostri munimine fecimus
-									confirmari.<note id="corroboration">Corroboration
-									probatoire avec annnonce de sceau.</note></seg>
-							<seg corresp="liste">Hujus rei sunt testes
-								Nicholaus decanus Beati Juliani, R. precentor, magister Ernaldus,
-								magister B. capellanus, Stephanus, Ricardus, Hugo, monachi, et multi
-									alii.<note id="liste">Liste de
-							témoins.</note></seg>
-						</p>
-					</div>
-				</div>
-				<div>
-					<head>Interprétation</head>
-					<div>
-						<p>Le texte concorde avec l’aspect externe : l’acte est rédigé dans un latin
-							peu orné, mais grammaticalement correct. Le protocole est très simple
-							(pas de formules d’humilité dans la suscription, ni de recherche dans
-							les deux parties suivantes, réduites à leur plus simple expression) ; le
-							préambule, très stéréotypé mais pertinent, tient en sept mots, présentés
-							dans une subordonnée (les diplomatistes de langue allemande parlent de
-								<hi rend="i">Kurzarenga</hi>, ou « préambule court »).
-							L’absence de toute formule pour introduire la date de temps (comme <hi
-								rend="i">Datum</hi>) est tout aussi caractéristique que
-							l’écriture de l’absence de grande tradition diplomatique.</p>
-						<p>Le fond est aussi banal pour le XII<hi rend="sup">e</hi> siècle que
-							les formules sont bien rodées : à la belle époque de l’acte épiscopal se
-							multiplient des actions de ce genre, où l’évêque, ordinaire du lieu
-							concerné (l’ancien diocèse du Mans, comme la province du Maine, couvrait
-							la quasi-totalité de l’actuel département de la Mayenne), est sollicité
-							comme intermédiaire de donations, qu’il sanctionne et garantit de son
-							autorité (noter le jeu de mots <hi rend="i">actoritas</hi>/<hi
-								rend="i">auctoritas</hi>) et par la délivrance d’un acte
-							scellé. Celui-ci n’est que le point d’orgue d’un long processus
-							formalisé, où les moines ont successivement réglé l’affaire avec le
-							donateur, par oral, puis avec ses deux fils, qui sont seuls à paraître
-							devant l’évêque pour cette « récapitulation » ultime, précédée de la
-							délivrance d’un acte scellé par le fils aîné (on ne sait si la
-							confirmation devant l’évêque a lieu alors que le père, donateur
-							primitif, est malade ou décédé).</p>
-						<p>Quelques décennies plus tard, débordé, l’évêque laissera place à l’acte
-							de son délégué, l’official. Celui-ci, en fait ses propres adjoints,
-							mettront plus de technicité dans le vocabulaire et les clauses, comme
-							ils chasseront la liste de témoins, héritée des siècles antérieurs. La
-							liste ici donnée n’est d’ailleurs pas sans intérêt et montre bien que
-							l’on est dans une phase de transition : après deux dignitaires du
-							chapitre cathédral, et avant trois moines (sans doute de Savigny),
-							apparaissent deux « maîtres », dont l’un dit « chapelain », indice
-							modeste mais concordant du développement d’entourages épiscopaux peuplés
-							de gestionnaires ; l’acte passe sous silence les témoins liés à l’autre
-							partie, laïque, du négoce.</p>
-					</div>
-				</div>
-			</div>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1180. Acte épiscopal (Le Mans)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">51</idno>
+        <publisher>Ecole nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Arch. nat., L 969, n° 3</p>
+        <p>Fac-sim. : ENC AF 339 (lithographie)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc> </profileDesc>
+  </teiHeader>
+  <text>
+    <front> </front>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="50,28,646,72">Guill<ex>el</ex>mus, D<ex>e</ex>i
+            gr<ex>ati</ex>a Cenomannensis ep<ex>iscopu</ex>s,
+            fidelib<ex>us</ex> universis,
+            sal<ex>u</ex>t<ex>em</ex>.</seg>
+          <seg rend="651,48,859,80">Nos, intelligentes q<ex>uo</ex>d</seg>
+          <seg rend="50,74,572,100">veritas sub scripti actoritate tuti<ex>us</ex>
+            debeat observari,</seg>
+          <seg rend="574,82,868,106">notu<ex>m</ex> fieri curavim<ex>us</ex>
+            Gilonem</seg>
+          <seg rend="51,102,559,132">de Gorran p<ex>ro</ex> salute anime sue
+            <ex>et</ex> uxoris <ex>et</ex> antecessoru<ex>m</ex>
+          </seg>
+          <seg rend="560,112,869,138">q<ex>u</ex>andam terra<ex>m</ex>
+            sua<ex>m</ex> que dicitur</seg>
+          <seg rend="50,139,617,162">La Mehellee, que est juxta Erneiam, monachis
+            Savigneii</seg>
+          <seg rend="625,144,857,169">ad pitantiam in pane</seg>
+          <seg rend="48,168,385,192">et vino <ex>et</ex> piscibus
+            sing<ex>u</ex>lis annis</seg>
+          <seg rend="388,173,855,196">percipiendam in
+            p<ex>er</ex>petua<ex>m</ex> elemosina<ex>m</ex>
+            lib<ex>er</ex>am et</seg>
+          <seg rend="47,199,727,227">quietam <ex>et</ex> ab om<ex>n</ex>i
+            servitio <ex>et</ex> consuetudine <ex>et</ex> exactione
+            absolutam</seg>
+          <seg rend="732,203,874,229">dedisse <ex>et</ex> con-</seg>
+          <seg rend="42,230,653,258">-cessisse. Hanc donatione<ex>m</ex> concessit
+            Guill<ex>el</ex>m<ex>us</ex> fili<ex>us</ex>
+            ej<ex>us</ex> p<ex>r</ex>imogenit<ex>us</ex>
+          </seg>
+          <seg rend="655,236,879,260"><ex>et</ex> sigilli sui actoritate</seg>
+          <seg rend="41,268,550,292">munivit, eam tueri et defensare fideliter
+            p<ex>ro</ex>misit,</seg>
+          <seg rend="553,269,867,295"><ex>et</ex> p<ex>ro</ex> hac concessione
+            de caritate</seg>
+          <seg rend="41,302,600,329">monasterii quatuor libras <ex>et</ex>
+            dece<ex>m</ex> solidos cenom<ex>annensium</ex>
+            h<ex>ab</ex>uit.</seg>
+          <seg rend="607,302,864,327">Hanc ip<ex>s</ex>am donationem</seg>
+          <seg rend="41,336,369,359">concessit Henric<ex>us</ex>
+            f<ex>rate</ex>r p<ex>re</ex>dicti
+            G<ex>ui</ex>ll<ex>el</ex>mi,</seg>
+          <seg rend="376,337,865,361">q<ex>u</ex>i etia<ex>m</ex> de
+            p<ex>re</ex>fati monast<ex>er</ex>ii caritate
+            t<ex>r</ex>iginta solidos</seg>
+          <seg rend="40,369,426,395">cenom<ex>annensium</ex> habuit. Hoc
+            aute<ex>m</ex> sciendu<ex>m</ex> est</seg>
+          <seg rend="427,371,881,394">q<ex>uo</ex>d sepedict<ex>us</ex>
+            Guill<ex>elmus</ex>
+            <ex>et</ex> Henric<ex>us</ex> f<ex>rate</ex>r
+            ej<ex>us</ex> hanc donati-</seg>
+          <seg rend="38,405,341,427">-one<ex>m</ex> in manu n<ex>ost</ex>ra
+            miserunt,</seg>
+          <seg rend="344,405,885,422">de qua p<ex>re</ex>dictos monachos
+            investivim<ex>us</ex>. Anno ab In-</seg>
+          <seg rend="34,439,299,465">-carnatione D<ex>omi</ex>ni M° C° LXXX°.</seg>
+          <seg rend="299,434,876,460">Q<ex>uo</ex>d ut fideli<ex>us</ex>
+            observet<ex>ur</ex>, litt<ex>er</ex>is annotari
+            <ex>et</ex> sigilli n<ex>ost</ex>ri mu-</seg>
+          <seg rend="33,472,501,496">-nimine fecim<ex>us</ex> confirmari.
+            Huj<ex>us</ex> rei s<ex>un</ex>t testes</seg>
+          <seg rend="503,472,872,494">Nicholaus decan<ex>us</ex>
+            B<ex>eat</ex>i Juliani, R. pre-</seg>
+          <seg rend="30,508,490,529">-centor, magist<ex>er</ex> Ernaldus,
+            mag<ex>ister</ex> B. capellan<ex>us</ex>,</seg>
+          <seg rend="491,509,851,529">Stephan<ex>us</ex>, Ricardus, Hugo, monachi,</seg>
+          <seg rend="36,542,372,570">et multi</seg>
+          <seg rend="411,534,704,568">alii.</seg>
+        </p>
+      </div>
+      <div type="texte">
+        <div type="transcription">
+          <l><term n="Guillaume de Passavant, évêque du Mans (1143-1187)."
+            >Guill<ex>el</ex>mus</term>, D<ex>e</ex>i
+            gr<ex>ati</ex>a Cenomannensis ep<ex>iscopu</ex>s,
+            fidelib<ex>us</ex> universis, </l>
+          <l>sal<ex>u</ex>t<ex>em</ex>. Nos, intelligentes q<ex>uo</ex>d</l>
+          <l>veritas sub scripti actoritate tuti<ex>us</ex> debeat observari, </l>
+          <l>notu<ex>m</ex> fieri curavim<ex>us</ex> Gilonem</l>
+          <l>de <term n="Gorron, Mayenne, ch.-l. cant.">Gorran</term> p<ex>ro</ex>
+            salute anime sue <ex>et</ex> uxoris <ex>et</ex>
+          </l>
+          <l>antecessoru<ex>m</ex> q<ex>u</ex>andam terra<ex>m</ex>
+            sua<ex>m</ex>
+          </l>
+          <l>que dicitur <term n="La Méhélée (Mayenne, cant. Ernée, comm. Montenay).">La
+            Mehellee</term>, que est juxta <term
+              n="L&#x2019;Ernée, affluent de la Mayenne, a aussi donné son nom à la ville d&#x2019;Ernée (Mayenne, ch.-l. cant.)."
+              >Erneiam</term>, </l>
+          <l>monachis <term
+            n="Savigny (Manche, cant. Le Teilleul). À l&#x2019;origine, ermitage (diocèse d&#x2019;Avranches) fondé par Vital, régularisé en une abbaye intégrée à l&#x2019;ordre cistercien en 1147."
+            >Savigneii</term> ad <term
+              n="La pitance est une distribution alimentaire faite aux membres d&#x2019;une communauté. Le contexte renvoie ici à la fondation d&#x2019;un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés."
+              >pitantiam</term> in pane</l>
+          <l>et vino <ex>et</ex> piscibus sing<ex>u</ex>lis annis </l>
+          <l>percipiendam in p<ex>er</ex>petua<ex>m</ex>
+            elemosina<ex>m</ex> lib<ex>er</ex>am et</l>
+          <l>quietam <ex>et</ex> ab om<ex>n</ex>i servitio <ex>et</ex>
+            consuetudine <ex>et</ex> exactione absolutam </l>
+          <l>dedisse <ex>et</ex> concessisse. </l>
+          <l/>
+          <l/>
+          <l/>
+          <l>Hanc donatione<ex>m</ex> concessit
+            Guill<ex>el</ex>m<ex>us</ex> fili<ex>us</ex>
+            ej<ex>us</ex> p<ex>r</ex>imogenit<ex>us</ex>
+          </l>
+          <l><ex>et</ex> sigilli sui actoritate</l>
+          <l>munivit, eam tueri et defensare fideliter p<ex>ro</ex>misit, </l>
+          <l><ex>et</ex> p<ex>ro</ex> hac concessione de <term
+            n="La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d&#x2019;une somme en échange d&#x2019;un don, dont ni le montant ni le processus, manifestation d&#x2019;amour mutuel, n&#x2019;ont à voir avec une &#34;vente&#34;."
+            >caritate</term></l>
+          <l>monasterii quatuor libras <ex>et</ex> dece<ex>m</ex> solidos
+            cenom<ex>annensium</ex> h<ex>ab</ex>uit. </l>
+          <l/>
+          <l/>
+          <l/>
+          <l>Hanc ip<ex>s</ex>am donationem</l>
+          <l>concessit Henric<ex>us</ex> f<ex>rate</ex>r
+            p<ex>re</ex>dicti G<ex>ui</ex>ll<ex>el</ex>mi, </l>
+          <l>q<ex>u</ex>i etia<ex>m</ex> de p<ex>re</ex>fati
+            monast<ex>er</ex>ii caritate t<ex>r</ex>iginta solidos</l>
+          <l>cenom<ex>annensium</ex> habuit. </l>
+          <l/>
+          <l>Hoc aute<ex>m</ex> sciendu<ex>m</ex> est </l>
+          <l>q<ex>uo</ex>d sepedict<ex>us</ex> Guill<ex>elmus</ex>
+            <ex>et</ex> Henric<ex>us</ex> f<ex>rate</ex>r
+            ej<ex>us</ex> hanc donati-</l>
+          <l>-one<ex>m</ex> in manu n<ex>ost</ex>ra miserunt, </l>
+          <l>de qua p<ex>re</ex>dictos monachos investivim<ex>us</ex>. Anno ab
+            In-</l>
+          <l>-carnatione D<ex>omi</ex>ni M° C° LXXX°. </l>
+          <l>Q<ex>uo</ex>d ut fideli<ex>us</ex> observet<ex>ur</ex>,
+            litt<ex>er</ex>is annotari <ex>et</ex> sigilli
+            n<ex>ost</ex>ri mu-</l>
+          <l>-nimine fecim<ex>us</ex> confirmari. Huj<ex>us</ex> rei
+            s<ex>un</ex>t testes </l>
+          <l><term
+            n="Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans."
+            >Nicholaus</term> decan<ex>us</ex> B<ex>eat</ex>i Juliani,
+            R. pre-</l>
+          <l>-centor, magist<ex>er</ex> Ernaldus, mag<ex>ister</ex> B.
+            capellan<ex>us</ex>, </l>
+          <l>Stephan<ex>us</ex>, Ricardus, Hugo, monachi,</l>
+          <l>et multi alii.</l>
+        </div>
+        <div type="traduction">
+          <l><term n="Guillaume de Passavant, évêque du Mans (1143-1187)."
+            >Guillaume</term>, par la grâce de Dieu évêque du </l>
+          <l>Mans, à tous les fidèles, salut. Nous, </l>
+          <l>comprenant qu'il faut à la vérité la garantie </l>
+          <l>de l'écrit pour être plus sûrement respectée, </l>
+          <l>avons pris soin de faire savoir que Gilon de </l>
+          <l><term n="Gorron, Mayenne, ch.-l. cant.">Gorron</term>, pour le salut de son
+            âme et de </l>
+          <l>celles de sa femme et de ses ancêtres, a </l>
+          <l>donné et concédé en perpétuelle aumône </l>
+          <l>une sienne terre dite <term
+            n="La Méhélée (Mayenne, cant. Ernée, comm. Montenay).">La
+            Mehélée</term>, près </l>
+          <l>d'<term
+            n="L&#x2019;Ernée, affluent de la Mayenne, a aussi donné son nom à la ville d&#x2019;Ernée (Mayenne, ch.-l. cant.)."
+            >Ernée</term>, aux moines de <term
+              n="Savigny (Manche, cant. Le Teilleul). À l&#x2019;origine, ermitage (diocèse d&#x2019;Avranches) fondé par Vital, régularisé en une abbaye intégrée à l&#x2019;ordre cistercien en 1147."
+              >Savigny</term>, libre et </l>
+          <l>tranquille et dégagée de tout service, </l>
+          <l>coutume et redevance, pour qu'ils en </l>
+          <l>reçoivent chaque année <term
+            n="La pitance est une distribution alimentaire faite aux membres d&#x2019;une communauté. Le contexte renvoie ici à la fondation d&#x2019;un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés."
+            >pitance</term> en pain, </l>
+          <l>vin et poissons.</l>
+          <l/>
+          <l>Cette donation a été concédée par </l>
+          <l>Guillaume, son fils aîné, qui l'a corroborée </l>
+          <l>de l'autorité de son sceau, promettant de la </l>
+          <l>protéger et défendre fidèlement ; pour cette </l>
+          <l>concession, il a eu, de la <term
+            n="La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d&#x2019;une somme en échange d&#x2019;un don, dont ni le montant ni le processus, manifestation d&#x2019;amour mutuel, n&#x2019;ont à voir avec une &#34;vente&#34;."
+            >charité</term> du </l>
+          <l>monastère, quatre livres et dix sous </l>
+          <l>mansois. </l>
+          <l/>
+          <l>Cette même donation a été concédée par </l>
+          <l>Henri, frère du susdit Guillaume, qui a </l>
+          <l>aussi eu, de la charité du susdit monastère, </l>
+          <l>trente sous mansois.</l>
+          <l/>
+          <l>Il faut savoir que le susdit Guillaume et son </l>
+          <l>frère Henri ont mis en notre main cette </l>
+          <l>donation, dont nous avons investi les </l>
+          <l>susdits moines. L'an de l'Incarnation du </l>
+          <l>Seigneur 1180. Pour que cela soit plus </l>
+          <l>fidèlement observé, nous l'avons fait </l>
+          <l>consigner dans ces lettres et renforcer de la </l>
+          <l>protection de notre sceau. De quoi sont </l>
+          <l>témoins <term
+            n="Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans."
+            >Nicolas</term> doyen de Saint-Julien, R. </l>
+          <l>préchantre, maître Ernaud, maître B. </l>
+          <l>chapelain, Étienne, Richard, Hugues, </l>
+          <l>moines, et bien d'autres.</l>
+        </div>
+        <div type="regeste">
+          <head>1180 (a. st.).</head>
+          <p>L'évêque du Mans Guillaume notifie la donation faite au monastère de Savigny
+            par Gilon de Gorron d'une terre dite La Méhélée, près d'Ernée, ainsi que la
+            reconnaissance de cette transaction par deux fils de Gilon, l'aîné
+            Guillaume, qui en a scellé acte, et Henri, à qui le monastère a donné
+            respectivement 4 livres 10 sous et 30 sous mansois, et qui se sont présentés
+            devant l'évêque, lequel a procédé à l'investiture du monastère.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          
+          <div>
+            
+            <p>
+              <figure rend="51/faxexternes.jpg">
+                <figDesc>
+                  <seg type="circle" rend="355,35,14">Majuscule à redoublement.</seg>
+                  <seg type="circle" rend="176,116,12">Abréviation de “et”.</seg>
+                  <seg type="circle" rend="66,131,17">Majuscule simple.</seg>
+                  
+                  <seg type="circle" rend="140,154,11">Lettres conjointes e-t,
+                    pour “et”.</seg>
+                  <seg type="rect" rend="306,289,487,313">Étirement des mots et
+                    trait ondulé pour occuper la dernière ligne de texte (le
+                    procédé décourage les interpolations).</seg>
+                  <seg type="circle" rend="196,376,23">Petite lanière de parchemin
+                    attachée et nouée postérieurement au bas du repli. Usage
+                    inconnu, sans doute archivistique.</seg>
+                  <seg type="circle" rend="253,362,36">Double queue de parchemin,
+                    d’origine, pour le sceau.</seg>
+                </figDesc>
+              </figure>
+            </p>
+            <p>L’acte se signale visuellement par une très grande régularité, de la mise
+              en page comme de la graphie. Plus large que haut, ce qui est alors la
+              norme pour des productions courantes, il ménage entre les lignes des
+              intervalles relativement serrés mais très réguliers, des marges économes
+              mais bien respectées, y compris sur la droite, souvent au moyen de
+              coupures de mots.</p>
+            
+            <p>L’écriture se caractérise par une très grande uniformité et des lettres
+              assez anguleuses, soigneusement formées ; elle n’a pas de caractère
+              diplomatique très accentué, ce que renforce encore son caractère très
+              posé. Les hastes comme les hampes ne sont pas allongées, ni décorées. Le
+              souci de clarté est évident : la ponctuation est discrète mais efficace
+              pour isoler certaines périodes ou mettre en relief certains passages ou
+              expressions, comme les montants monétaires (32 points, 2 points-virgules
+              renversés). Les majuscules, de hauteur inégale, contribuent aussi à
+              scander le propos ; mais deux seulement (les deux “N” des lignes 1 et
+              14) portent un redoublement. Les abréviations sont relativement peu
+              nombreuses et régulières (on notera au passage la coexistence de deux
+              signes pour le “et”). Les “i” sont pointés lorsqu’il y a ambiguïté
+              (savigneii, ligne 4) ; les traits d’union, lorsqu’un mot est coupé en
+              fin de ligne (5 cas), sont systématiques.</p>
+            <p>Il se dégage donc une double impression de soin et de sobriété. Sans
+              emphase, la présentation traduit la solidité et la perpétuité que
+              cherche à apporter l’intervention épiscopale. Seule une étude
+              comparative permettrait de répondre à la question essentielle, de
+              l’attribution de l’écriture à l’abbaye ou à la chancellerie
+              épiscopale.</p>
+          </div>
+        </div>
+        <div>
+          <head>Parties du discours</head>
+          
+          <div>
+            <p>
+              <seg corresp="suscription">Guillelmus, Dei gratia
+                Cenomannensis episcopus,<note id="suscription"
+                  >Suscription.</note></seg>
+              <seg corresp="adresse">fidelibus universis,<note
+                id="adresse">Adresse universelle.</note></seg>
+              <seg corresp="salut">salutem.<note id="salut"
+                type="bulle">Salut.</note></seg>
+              <seg corresp="preambule">Nos, intelligentes quod
+                veritas sub scripti actoritate tutius debeat observari,<note
+                  id="preambule">Préambule court.</note></seg>
+              <seg corresp="notification_1">notum fieri
+                curavimus<note id="notification_1">Première
+                  notification.</note></seg>
+              <seg corresp="expose_1">Gilonem de Gorran pro
+                salute anime sue et uxoris et antecessorum quandam terram suam que
+                dicitur La Mehellee, que est juxta Erneiam, monachis Savigneii ad
+                pitantiam in pane et vino et piscibus singulis annis percipiendam in
+                perpetuam elemosinam liberam et quietam et ab omni servitio et
+                consuetudine et exactione absolutam dedisse et concessisse. Hanc
+                donationem concessit Guillelmus filius ejus primogenitus et sigilli
+                sui actoritate munivit, eam tueri et defensare fideliter promisit,
+                et pro hac concessione de caritate monasterii quatuor libras et
+                decem solidos cenomannensium habuit. Hanc ipsam donationem concessit
+                Henricus frater predicti Guillelmi, qui etiam de prefati monasterii
+                caritate triginta solidos cenomannensium habuit.<note id="expose_1"
+                  type="bulle">Premier exposé (pas de dispositif à proprement dans
+                  cet acte dont la fin même est de rapporter des faits sous le
+                  sceau de l&#x2019;évêque) : historique de la donation.</note></seg>
+              <seg corresp="notification_2">Hoc autem sciendum
+                est quod<note id="notification_2">Seconde
+                  notification.</note></seg>
+              <seg corresp="expose_2">sepedictus Guillelmus et
+                Henricus frater ejus hanc donationem in manu nostra miserunt, de qua
+                predictos monachos investivimus.<note id="expose_2"
+                  >Second exposé : la cérémonie devant l’évêque.</note></seg>
+              <seg corresp="date">Anno ab Incarnatione Domini M°
+                C° LXXX°.<note id="date">Date de temps, simple
+                  excroissance de l’exposé.</note></seg>
+              
+              <seg corresp="corroboration">Quod ut fidelius
+                observetur, litteris annotari et sigilli nostri munimine fecimus
+                confirmari.<note id="corroboration">Corroboration
+                  probatoire avec annnonce de sceau.</note></seg>
+              <seg corresp="liste">Hujus rei sunt testes
+                Nicholaus decanus Beati Juliani, R. precentor, magister Ernaldus,
+                magister B. capellanus, Stephanus, Ricardus, Hugo, monachi, et multi
+                alii.<note id="liste">Liste de
+                  témoins.</note></seg>
+            </p>
+          </div>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <div>
+            <p>Le texte concorde avec l’aspect externe : l’acte est rédigé dans un latin
+              peu orné, mais grammaticalement correct. Le protocole est très simple
+              (pas de formules d’humilité dans la suscription, ni de recherche dans
+              les deux parties suivantes, réduites à leur plus simple expression) ; le
+              préambule, très stéréotypé mais pertinent, tient en sept mots, présentés
+              dans une subordonnée (les diplomatistes de langue allemande parlent de
+              <hi rend="i">Kurzarenga</hi>, ou « préambule court »).
+              L’absence de toute formule pour introduire la date de temps (comme <hi
+                rend="i">Datum</hi>) est tout aussi caractéristique que
+              l’écriture de l’absence de grande tradition diplomatique.</p>
+            <p>Le fond est aussi banal pour le XII<hi rend="sup">e</hi> siècle que
+              les formules sont bien rodées : à la belle époque de l’acte épiscopal se
+              multiplient des actions de ce genre, où l’évêque, ordinaire du lieu
+              concerné (l’ancien diocèse du Mans, comme la province du Maine, couvrait
+              la quasi-totalité de l’actuel département de la Mayenne), est sollicité
+              comme intermédiaire de donations, qu’il sanctionne et garantit de son
+              autorité (noter le jeu de mots <hi rend="i">actoritas</hi>/<hi
+                rend="i">auctoritas</hi>) et par la délivrance d’un acte
+              scellé. Celui-ci n’est que le point d’orgue d’un long processus
+              formalisé, où les moines ont successivement réglé l’affaire avec le
+              donateur, par oral, puis avec ses deux fils, qui sont seuls à paraître
+              devant l’évêque pour cette « récapitulation » ultime, précédée de la
+              délivrance d’un acte scellé par le fils aîné (on ne sait si la
+              confirmation devant l’évêque a lieu alors que le père, donateur
+              primitif, est malade ou décédé).</p>
+            <p>Quelques décennies plus tard, débordé, l’évêque laissera place à l’acte
+              de son délégué, l’official. Celui-ci, en fait ses propres adjoints,
+              mettront plus de technicité dans le vocabulaire et les clauses, comme
+              ils chasseront la liste de témoins, héritée des siècles antérieurs. La
+              liste ici donnée n’est d’ailleurs pas sans intérêt et montre bien que
+              l’on est dans une phase de transition : après deux dignitaires du
+              chapitre cathédral, et avant trois moines (sans doute de Savigny),
+              apparaissent deux « maîtres », dont l’un dit « chapelain », indice
+              modeste mais concordant du développement d’entourages épiscopaux peuplés
+              de gestionnaires ; l’acte passe sous silence les témoins liés à l’autre
+              partie, laïque, du négoce.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -24,11 +24,11 @@
     </teiHeader>
     <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
                     <seg rend="61,8,260,21">Si fieri posset : s<ex>cilicet</ex> sine v<ex>est</ex>ro dispendio.</seg>
                     <seg rend="262,9,1194,23">&#x2019;Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; : i<ex>dest</ex> si fieri posset ut ego oculis corporeis possem majora de D<ex>e</ex>o cognoscere et archana mysterioru<ex>m</ex> lumine corporis amplius penetrare. - &#x2019;Oculos...</seg>
-                    <seg rend="63,25,726,38">(&#x2019;Oculos) v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; : i<ex>dest</ex> tanta caritate erga me ferventes eratis et tantu<ex>m</ex> desiderabatis audire verbum D<ex>e</ex>i p<ex>er</ex> me. </seg>
+                    <seg rend="63,25,726,38">(&#x2019;Oculos) v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; : i<ex>dest</ex> tanta caritate erga me ferventes eratis et tantu<ex>m</ex> desiderabatis audire verbum D<ex>e</ex>i p<ex>er</ex> me.</seg>
                     <seg rend="747,38,1226,58">&#x2019;Filioli mei, quos iteru<ex>m</ex> parturio donec formet<ex>ur</ex> <ex>Christu</ex>s in vob<ex>is</ex>.&#x2019; Parturire <ex>est</ex> parere velle...</seg>
                     <seg rend="112,262,356,276">Q<ex>ua</ex>re dic<ex>it </ex>‘quib<ex>us</ex> denuo servire vultis’ ? Nu<ex>m</ex>quid</seg>
                     <seg rend="122,278,386,293">Galatæ legi <ex>ve</ex>l circu<ex>m</ex>cisioni antea servierant ?</seg>
@@ -36,8 +36,8 @@
                     <seg rend="119,312,357,329">si dies et annos observatis more Judeor<ex>um</ex>,</seg>
                     <seg rend="120,330,355,346">nichil distatis a gentilibus incredulis</seg>
                     <seg rend="122,345,354,368">q<ex>u</ex>i dies et annos <ex>et</ex> tempora observant.</seg>
-                    <seg rend="369,254,1004,273">[...] convertimini iteru<ex>m</ex> ad infirma et egena </seg>
-                    <seg rend="374,296,978,309">elementa, quibus denuo servire vultis ? </seg>
+                    <seg rend="369,254,1004,273">[...] convertimini iteru<ex>m</ex> ad infirma et egena</seg>
+                    <seg rend="374,296,978,309">elementa, quibus denuo servire vultis ?</seg>
                     <seg rend="388,310,517,325">s<ex>cilicet</ex> circu<ex>m</ex>cisionis</seg>
                     <seg rend="631,311,750,327">s<ex>cilicet</ex> novaru<ex>m</ex> frugum</seg>
                     <seg rend="791,315,873,331">s<ex>cilicet</ex> div<ex>er</ex>sa</seg>
@@ -45,21 +45,21 @@
                     <seg rend="368,332,1035,352">Dies observatis et menses et tempora et annos.</seg>
                     <seg rend="391,352,512,362">i<ex>dest</ex> timeo de vobis</seg>
                     <seg rend="693,353,1165,368">ille sine causa laborat in discipulis q<ex>u</ex>i du<ex>m</ex> eos ad meliora p<ex>ro</ex>vocat illi minora sectantur</seg>
-                    <seg rend="379,369,999,387">Timeo vos, ne forte sine causa laboraverim </seg>
+                    <seg rend="379,369,999,387">Timeo vos, ne forte sine causa laboraverim</seg>
                     <seg rend="556,388,1000,405">i<ex>dest</ex> recedite ab observatione legali et transite ad Ev<ex>an</ex>g<ex>e</ex>li gr<ex>ati</ex>am sicut ego feci</seg>
-                    <seg rend="380,406,1032,422">in vobis. Estote sicut ego, quia et ego sicut vos. </seg>
+                    <seg rend="380,406,1032,422">in vobis. Estote sicut ego, quia et ego sicut vos.</seg>
                     <seg rend="422,423,604,439">s<ex>cilicet</ex> ut me patient<ex>er</ex> audiatis</seg>
                     <seg rend="613,424,883,438">i<ex>dest</ex> in nullo du<ex>m</ex> apud vos fuerim c<ex>on</ex>tradixistis</seg>
                     <seg rend="350,440,1017,462">F<ex>rat</ex>r<ex>e</ex>s, obsecro vos. Nihil me lesi\s/tis. Scitis autem</seg>
                     <seg rend="379,481,1002,501">quia p<ex>er</ex> infirmitatem carnis evangelizavi</seg>
-                    <seg rend="380,517,1004,535">vobis jampridem, et temptationem v<ex>est</ex>ram </seg>
-                    <seg rend="380,561,1021,578">in carne mea non sprevistis neque respuistis, </seg>
+                    <seg rend="380,517,1004,535">vobis jampridem, et temptationem v<ex>est</ex>ram</seg>
+                    <seg rend="380,561,1021,578">in carne mea non sprevistis neque respuistis,</seg>
                     <seg rend="381,603,1044,619">sed sicut angelum Dei excepistis me, sicut <ex>Christu</ex>m J<ex>esu</ex>m.</seg>
                     <seg rend="558,621,745,633">s<ex>cilicet</ex> q<ex>u</ex>a vos beatos e<ex>ss</ex>e diceba<ex>m</ex></seg>
-                    <seg rend="376,636,995,660">Ubi est ergo beatitudo v<ex>est</ex>ra ? Testimonium </seg>
+                    <seg rend="376,636,995,660">Ubi est ergo beatitudo v<ex>est</ex>ra ? Testimonium</seg>
                     <seg rend="381,678,1030,698">enim perhibeo vobis quia, si fieri posset, oculos v<ex>est</ex>ros</seg>
                     <seg rend="377,713,1038,732">eruissetis et dedissetis mihi. Ergo inimicus vobis</seg>
-                    <seg rend="842,737,1031,749">invident vobis <ex>ve</ex>l zelant<ex>ur</ex> vos </seg>
+                    <seg rend="842,737,1031,749">invident vobis <ex>ve</ex>l zelant<ex>ur</ex> vos</seg>
                     <seg rend="383,751,1052,771">factus sum, verum dicens vobis. Aemulantur vos</seg>
                     <seg rend="494,773,987,785">i<ex>dest</ex> separare vos volunt a gr<ex>ati</ex>a Ev<ex>an</ex>g<ex>e</ex>li <ex>et</ex> servitute<ex>m</ex> legis transferre</seg>
                     <seg rend="379,789,994,810">non bene, sed excludere vos volunt ut illos</seg>
@@ -76,7 +76,7 @@
                     <seg rend="389,1015,735,1034">q<ex>uoniam</ex> confundor in vobis.</seg>
                </p>
             </div>
-            <div type="transcription">
+            <div type="texte">
                 <div type="texte">
                     <l> [...] convertimini iteru<ex>m</ex> ad infirma et egena</l>
                     <l>elementa, quibus denuo servire vultis <add place="left">
@@ -174,8 +174,7 @@
                         </add>
                     </l>
                     <l>et servit cum filiis ejus. Illa autem quae sursum est [...]</l>
-                </div>
-                
+                </div>
                 <div type="traduction">
                     <l>[...] comment retournez-vous à ces pauvres et faibles</l>
                     <l>rudiments, auxquels vous voulez de nouveau vous soumettre <add place="left">
@@ -206,8 +205,7 @@
                             <p>i.e. laissez là l&#x2019;observance de la loi pour vous</p>
                             <p>convertir à la grâce de l’Évangile comme je l&#x2019;ai fait.</p>
                         </add>, puisque moi je suis comme vous.</l>
-                    <l>Frères, je vous supplie <add n="h" place="infralinear">i.e. de m&#x2019;écouter avec
-                        patience.</add>. Vous ne m&#x2019;avez blessé en rien <add n="i" place="infralinear">
+                    <l>Frères, je vous supplie <add n="h" place="infralinear">i.e. de m&#x2019;écouter avec patience.</add>. Vous ne m&#x2019;avez blessé en rien <add n="i" place="infralinear">
                             <p>i.e. de m&#x2019;écouter avec patience.</p>
                         </add>. Vous savez</l>
                     <l>que j&#x2019;étais malade dans ma chair quand je vous ai évangélisés</l>
@@ -242,8 +240,7 @@
                     <l>le bien, toujours, et non seulement quand je suis présent</l>
                     <l>parmi vous. Mes petits enfants <add place="left">
                             <p>&#x2019;Mes petits enfants, que j’enfante de nouveau jusqu&#x2019;à ce que le</p>
-                            <p>Christ soit formé en vous&#x2019; : enfanter, c&#x2019;est vouloir qu’ils
-                                obéissent...</p>
+                            <p>Christ soit formé en vous&#x2019; : enfanter, c&#x2019;est vouloir qu’ils obéissent...</p>
                         </add>, que j&#x2019;enfante <add n="n" place="infralinear">
                             <p>i.e. je souffre.</p>
                         </add> de nouveau</l>
@@ -284,8 +281,7 @@
 		  <hi rend="strong">minuscule caroline</hi> classique de qualité moyenne, où 
 		se détache quelques <hi rend="strong">traits archaïques</hi>.</p>
 		<p>D'abord l'alternance indifférente de deux formes équivalentes 
-		(allographes) de la <hi rend="strong">lettre 'a'</hi> :</p>
-  
+		(allographes) de la <hi rend="strong">lettre 'a'</hi> :</p>
 		<hi rend="i">a</hi> rond en trois traits (2 courbes parallèles et un trait
 		pour fermer la partie supérieure) ;
 		<hi rend="i">a</hi> à crosse, qui s'est généralisé à 
@@ -297,8 +293,7 @@
 		avec <hi rend="i">u</hi> : c'est l'un des aspects de l'effort méthodique 
 		de clarification et de distinction des formes qui a fait de la minuscule caroline 
 		le modèle idéal auquel notre écriture est toujours revenue. 
-		</p>
-
+		</p>
 		<p>S'y ajoutent des <hi rend="strong">ligatures</hi>, habituelles comme le couple 
 		<hi rend="strong">e-t (&amp;)</hi>, mais aussi plus inattendues dans la minuscule 
 		caroline, comme le couple <hi rend="strong">r-t</hi> avec <hi rend="i">r</hi> prolongé 
@@ -348,8 +343,7 @@
 		<p>Le <hi rend="i">periodus</hi> est systématiquement suivi d'une initiale agrandie, 
 		dont la morphologie est essentiellement empruntée à l'onciale, 
 		et dont la dimension variable introduit une hiérarchie supplémentaire 
-		dans le découpage du texte.</p>
-
+		dans le découpage du texte.</p>
 		<p><hi rend="strong">La disposition de la glose</hi> par rapport au texte n'est pas 
 		planifiée à l'avance, bien que tous deux soient de la même 
 		main. La glose n'est même pas rédigée dans l'ordre du 
@@ -374,4 +368,4 @@
 	    </div>
         </body>
     </text>
-</TEI.2>
+</TEI.2>

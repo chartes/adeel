@@ -23,11 +23,11 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 			    <p>
                                                     <seg rend="11,53,190,71">Treschi<ex>er</ex>s frerez</seg>
                                                     <seg rend="180,20,323,38"><ex>et</ex> gr<ex>an</ex>s amis.</seg>
-                                                    <seg rend="206,62,651,77">Je me re<ex>com</ex>mens a vo<ex>us</ex> par m<ex>ou</ex>t de foys. </seg>
+                                                    <seg rend="206,62,651,77">Je me re<ex>com</ex>mens a vo<ex>us</ex> par m<ex>ou</ex>t de foys.</seg>
                                                     <seg rend="675,69,1027,89">Vo<ex>us</ex> m’esc<ex>ri</ex>svéz q<ex>ue</ex> Endré Chevryer</seg>
                                                     <seg rend="17,87,503,107">c’est desmys est<ex>re</ex> mon lyeuten<ex>an</ex>t de capp<ex>itay</ex>ne.</seg>
                                                     <seg rend="519,102,862,116">Il n’a pas fest son devoyr</seg>
@@ -40,9 +40,9 @@
                                                     <seg rend="547,162,921,179">quar je n’y cognoyssoye p<ex>er</ex>sso<ex>n</ex>ne</seg>
                                                     <seg rend="936,166,1050,183">quant je fus</seg>
                                                     <seg rend="26,178,429,193">cappi<ex>tay</ex>ne, <ex>et</ex> aussit je ne le fys point</seg>
-                                                    <seg rend="435,188,769,204">sens le <ex>con</ex>sseilh de vo<ex>us</ex> aut<ex>re</ex>s </seg>
+                                                    <seg rend="435,188,769,204">sens le <ex>con</ex>sseilh de vo<ex>us</ex> aut<ex>re</ex>s</seg>
                                                     <seg rend="777,187,1060,209">mes segn<ex>eu</ex>rs \du <ex>con</ex>sseilh/ du roy <ex>et</ex> de</seg>
-                                                    <seg rend="18,204,108,218">la vilhe. </seg>
+                                                    <seg rend="18,204,108,218">la vilhe.</seg>
                                                     <seg rend="124,205,550,225">Sy y vuilhéz aviser en qui le choss<ex>es</ex></seg>
                                                     <seg rend="572,221,926,235">por le b<ex>ye</ex>n de la ville et sehurté</seg>
                                                     <seg rend="950,221,1051,242">s<ex>err</ex>a bon</seg>
@@ -64,7 +64,7 @@
                                                     <seg rend="913,378,1045,392"><ex>et</ex> p<ex>ar</ex> le p<ex>rese</ex>nt.</seg>
                                                     <seg rend="17,388,212,400">Item j’é entendu</seg>
                                                     <seg rend="228,387,516,404">q<ex>ue</ex> vo<ex>us</ex> avéz recehu l<ex>ett</ex>rez</seg>
-                                                    <seg rend="530,395,776,412">de monss<ex>egneur</ex> le dauphin. </seg>
+                                                    <seg rend="530,395,776,412">de monss<ex>egneur</ex> le dauphin.</seg>
                                                     <seg rend="800,404,1077,422">Sy me semble q<ex>ue</ex> il s<ex>err</ex>a</seg>
                                                     <seg rend="24,417,284,432">b<ex>ye</ex>n fest <ex>et</ex> vost<ex>re</ex> devoyr</seg>
                                                     <seg rend="297,420,562,438">de les f<ex>er</ex>e plublyer,</seg>
@@ -85,11 +85,11 @@
                                                     <seg rend="306,574,769,594">N<ex>ost</ex>ressegneur vo<ex>us</ex> doint bonne vye et lo<ex>n</ex>gue.</seg>
                                                     <seg rend="787,589,1059,608">Esc<ex>r</ex>ipt a S<ex>aint</ex> Saforin</seg>
                                                     <seg rend="16,600,380,614">le Chastel, le XXe jour de jui[n]g.</seg>
-                                                    <seg rend="622,635,1086,672">[Signé :] Philippon de Bo<ex>n</ex>nay, balhif de Mascon, senechal de Lyon. </seg>
+                                                    <seg rend="622,635,1086,672">[Signé :] Philippon de Bo<ex>n</ex>nay, balhif de Mascon, senechal de Lyon.</seg>
 			   </p>
                                               </div>
-			    <div type="transcription">
-			        <div type="texte">
+			    <div type="texte">
+			        <div type="transcription">
                                                         <l>Treschi<ex>er</ex>s frerez <ex>et</ex> gr<ex>an</ex>s amis. Je me re<ex>com</ex>mens a vo<ex>us</ex> </l>
                                                         <l>par m<ex>ou</ex>t* de foys.  [* Cf. mout en toutes lettres à l'avant-dernière ligne.]</l>
                                                         <l>Vo<ex>us</ex> m’esc<ex>ri</ex>svéz q<ex>ue</ex> Endré Chevryer</l>
@@ -181,4 +181,4 @@
 			    </div>
 		</body>
 	</text>
-</TEI>
+</TEI>

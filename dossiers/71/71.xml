@@ -1,138 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
 <TEI.2 n="71">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1199. Acte épiscopal (Amiens)</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">71</idno>
-                <publisher>École nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig.&#160;: Bibl. nat. de Fr.</p>
-                <p>Fac-sim. ENC&#160;: AF 476 (lithographie)</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc/>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div type="facsimile" rend="fax.jpg">
-                <p>
-                    <seg rend="98,69,257,82,404,69,576,78,582,103,491,112,275,118,177,118,97,126" n="poly">Th[eobaldus], D<ex>e</ex>i gr<ex>ati</ex>a Ambianen<ex>sis</ex> ep<ex>iscopu</ex>s, om<ex>n</ex>ib<ex>us</ex> ad quos litt<ex>er</ex>e iste p<ex>er</ex>ven<ex>er</ex>i<ex>n</ex>t, sal<ex>u</ex>t<ex>em</ex> in D<ex>omi</ex>no.</seg>
-                    <seg rend="583,68,798,63,914,65,913,98,793,104,641,106,587,106" n="poly">Publice innocescat q<ex>uo</ex>d, constitutis coram nob<ex>is</ex> dilecto</seg>
-                    <seg rend="103,138,177,125,295,124,410,123,411,154,224,162,103,163" n="poly">n<ex>ost</ex>ro E[ustachio] abb<ex>a</ex>te de Flay et p<ex>res</ex>b<ex>ite</ex>ro de Gamachis,</seg>
-                    <seg rend="414,123,615,114,767,114,873,107,931,130,926,144,801,146,581,154,417,154" n="poly">recognitum fuit ab ip<ex>s</ex>is in p<ex>re</ex>sencia n<ex>ost</ex>ra q<ex>uo</ex>d, cum aliq<ex>ua</ex>n<ex>do</ex> alt<ex>er</ex>catio fuisset int<ex>er</ex> eos</seg>
-                    <seg rend="106,174,288,173,442,168,550,168,553,192,315,205,103,211" n="poly">sup<ex>er</ex> cantuario de Gamac<ex>his</ex>, compositionem fec<ex>er</ex>unt in h<ex>un</ex>c modum&#160;:</seg>
-                    <seg rend="557,167,903,152,920,163,916,187,748,190,559,195" n="poly">p<ex>res</ex>b<ex>ite</ex>r recipiet in grangia monachor<ex>um</ex> de Gamac<ex>his</ex> si<ex>n</ex>g<ex>u</ex>lis</seg>
-                    <seg rend="104,220,243,212,364,210,453,205,480,218,477,235,262,245,101,248" n="poly">annis decem <ex>et</ex> octo sextarios bladii <ex>et</ex> totidem avene</seg>
-                    <seg rend="482,203,628,200,789,196,916,198,920,225,768,229,587,233,481,236" n="poly"><ex>et</ex> duos sext<ex>arios</ex> ordei <ex>et</ex> duos pise <ex>et</ex> farraginem ducentarum garbaru<ex>m</ex></seg>
-                    <seg rend="103,260,259,248,414,248,519,251,522,282,275,290,107,289" n="poly">tam frum<ex>en</ex>ti q<ex>u</ex>a<ex>m</ex> avene, ita q<ex>uo</ex>d in t<ex>er</ex>ra arabili sive in ortis</seg>
-                    <seg rend="525,245,708,239,914,237,923,262,922,269,868,273,642,275,527,277" n="poly">sive in pom<ex>er</ex>iis de fructib<ex>us</ex> nichil reclamabit&#160;; in aliis pro-</seg>
-                    <seg rend="111,302,232,298,441,292,460,304,454,322,232,330,106,332" n="poly">-ventib<ex>us</ex> altaris t<ex>er</ex>ciam partem integre recipiet,</seg>
-                    <seg rend="463,290,681,283,883,281,921,285,917,312,653,314,462,323" n="poly">exceptis candelis que s<ex>un</ex>t monachor<ex>um</ex>, p<ex>re</ex>t<ex>er</ex> illas de die Purificatio<ex>n</ex>is</seg>
-                    <seg rend="106,341,359,333,454,347,455,364,281,371,109,368" n="poly">s<ex>an</ex>c<ex>t</ex>e Marie, de q<ex>u</ex>ib<ex>us</ex> t<ex>er</ex>ciam partem simil<ex>ite</ex>r recipiet,</seg>
-                    <seg rend="458,337,624,324,822,324,914,324,919,339,918,345,759,360,543,361,458,365" n="poly">et excepta medietate candelarum eccl<ex>es</ex>ie S<ex>an</ex>c<ex>t</ex>i Nichol<ex>a</ex>i quam ad servi-</seg>
-                    <seg rend="112,381,332,375,428,385,424,402,250,406,110,410" n="poly">-endum in eadem eccl<ex>es</ex>ia detinebit&#160;; ita eciam</seg>
-                    <seg rend="433,374,650,368,782,365,872,360,927,371,927,392,764,396,630,399,434,407" n="poly">q<ex>uo</ex>d om<ex>n</ex>ia legata <ex>et</ex> alia b<ex>e</ex>n<ex>e</ex>ficia tam monachor<ex>um</ex> q<ex>u</ex>a<ex>m</ex> capellanor<ex>um</ex> int<ex>er</ex> eos</seg>
-                    <seg rend="115,418,408,411,470,415,555,416,555,441,308,442,108,453" n="poly">p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>o m<ex>od</ex>o debent e<ex>ss</ex>e comu<ex>n</ex>ia, ita scilic<ex>et</ex> q<ex>uo</ex>d monachi duas partes</seg>
-                    <seg rend="563,411,806,400,923,405,929,417,924,429,759,439,593,442,558,441,559,441,561,417" n="poly"><ex>et</ex> p<ex>res</ex>b<ex>ite</ex>r t<ex>er</ex>ciam recipiet. Et ut hoc ratum p<ex>er</ex>maneat, re-</seg>
-                    <seg rend="116,463,262,452,473,452,637,450,663,455,660,479,465,487,255,487,117,489" n="poly">-cognitionem istam litt<ex>er</ex>is fecim<ex>us</ex> annotari <ex>et</ex> sigilli n<ex>ost</ex>ri munimine roborari.</seg>
-                    <seg rend="667,449,837,441,927,443,924,473,690,482,667,478" n="poly">Huj<ex>us</ex> rei testes su<ex>n</ex>t&#160;: Geremar<ex>us</ex> decan<ex>us</ex></seg>
-                    <seg rend="116,495,260,494,381,493,502,493,511,505,511,524,296,527,112,532" n="poly">Abb<ex>a</ex>tisville, Steph<ex>anu</ex>s capellan<ex>us</ex> n<ex>oste</ex>r, mag<ex>iste</ex>r Joh<ex>ann</ex>es de Augo,</seg>
-                    <seg rend="517,493,673,489,833,484,930,482,926,514,623,526,516,523" n="poly">Clar<ex>us</ex> cl<ex>er</ex>ic<ex>us</ex>. Dat<ex>um</ex> Ambianis, anno incarn<ex>ati</ex> V<ex>er</ex>bi M° C° XC°</seg>
-                    <seg rend="113,547,150,550,163,553,166,563,149,568,118,568,115,555" n="poly">nono.</seg>
-                    <seg rend="932,81,963,87,963,138,963,292,967,417,967,488,967,497,934,489,931,447,931,393,929,355,927,289,931,261,925,209,924,165,933,144,936,128,921,122,913,111" n="poly">[<hi rend="i">Dans la marge droite</hi>&#160;:] CYROGRAPHUM.</seg>
-               </p>
-            </div>
-            <div type="transcription">
-                <div type="texte">
-                    <l><term n="Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.">Th[eobaldus]</term>, Dei gratia Ambianensis episcopus, omnibus ad quos littere iste pervenerint,</l>
-                    <l>salutem in Domino. Publice innocescat quod, constitutis coram nobis dilecto nostro</l>
-                    <l><term n="Eustache II, successeur de l’abbé Lambert (1190-1211).">E[ustachio]</term> abbate de <term n="Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie."><hi rend="i">Flay</hi></term> et <term n="Presbitero. Par une extension de sens encore fréquente aujourd’hui, le terme de «&#160;prêtre&#160;» renvoie ici à l’évidence au prêtre en charge de la paroisse, «&#160;curé&#160;» au regard du droit canon.">presbitero</term> de <term n="Gamaches (Somme, ch.-l. cant., anc. diocèse d’Amiens, d’où l’intervention de l’ordinaire du lieu), abritait un prieuré de l’abbaye Saint-Germer-de-Fly, dédié à Saint-Pierre-Saint-Paul (devenu église paroissiale à la Révolution). Les moines avaient le droit de patronage (ou de «&#160;présentation&#160;») de l’église paroissiale du lieu&#160;: ils choisissaient le curé, qui était ensuite investi par l’évêque d’Amiens.">Gamachis</term>, recognitum fuit ab ipsis in</l>
-                    <l>presencia nostra quod, cum aliquando altercatio fuisset inter eos super <term n="Le cantuarium est l’ensemble des droits perçus à l’occasion des messes chantées. Le contexte nous incite à comprendre plus largement dans le sens d’un terme plus fréquent, l’autelage, revenus du service assuré par le desservant, incluant même les revenus de la dîme. Le contexte aide aussi à comprendre qu’il s’agit ici du partage entre le patron de la cure et le curé.">cantuario</term> de</l>
-                    <l>Gamachis, compositionem fecerunt in hunc modum&#160;: presbiter recipiet in grangia</l>
-                    <l>monachorum de Gamachis singulis annis decem et octo sextarios <term n="Bladii. Comprendre «&#160;bladi&#160;». Le «&#160;bladum&#160;» (les «&#160;bleds&#160;» en français ancien) peut ou non inclure l’avoine, mais se révèle toujours plus large que le «&#160;blé&#160;» contemporain (froment)&#160;; il désigne fondamentalement les céréales panifiables.">bladii</term> et totidem avene</l>
-                    <l>et duos sextarios ordei et duos pise et farraginem ducentarum garbarum tam frumenti</l>
-                    <l>quam avene, ita quod in terra arabili sive in ortis sive in pomeriis de fructibus nichil</l>
-                    <l>reclamabit&#160;; in aliis proventibus altaris terciam partem integre recipiet, exceptis candelis</l>
-                    <l>que sunt monachorum, preter illas de die <term n="Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.">Purificationis sancte Marie</term>, de quibus terciam</l>
-                    <l>partem similiter recipiet, et excepta medietate candelarum ecclesie <term n="Saint-Nicolas était alors l’église paroissiale de Gamaches.">Sancti Nicholai</term> quam</l>
-                    <l>ad serviendum in eadem ecclesia detinebit&#160;; ita eciam quod omnia legata et alia beneficia</l>
-                    <l>tam monachorum quam capellanorum inter eos predicto modo debent esse comunia, ita</l>
-                    <l>scilicet quod monachi duas partes et presbiter terciam recipiet. Et ut hoc ratum permaneat,</l>
-                    <l>recognitionem istam litteris fecimus annotari et sigilli nostri munimine roborari. Hujus rei</l>
-                    <l>testes sunt&#160;: Geremarus decanus <term n="Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.">Abbatisville</term>, Stephanus capellanus noster, magister</l>
-                    <l>Johannes de <term n="Eu (Seine-Maritime, ch.-l. cant.).">Augo</term>, Clarus clericus. Datum Ambianis, anno incarnati Verbi M° C° XC°</l>
-                    <l>nono.</l>
-                    <l>[<hi rend="i">Dans la marge droite</hi>&#160;:] CYROGRAPHUM.</l>
-                </div>
-                <div type="traduction">
-                    <l><term n="Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.">Thibaud</term>, par la grâce de Dieu évêque d’Amiens, à tous ceux à qui parviendront ces</l>
-                    <l>lettres, salut dans le Seigneur. Qu’il soit connu publiquement que notre cher <term n="Eustache II, successeur de l’abbé Lambert (1190-1211).">E[ustache]</term></l>
-                    <l>abbé de <term n="Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie.">Fly</term> et le <term n="Presbitero. Par une extension de sens encore fréquente aujourd’hui, le terme de «&#160;prêtre&#160;» renvoie ici à l’évidence au prêtre en charge de la paroisse, «&#160;curé&#160;» au regard du droit canon.">prêtre</term> de <term n="Gamaches (Somme, ch.-l. cant., anc. diocèse d’Amiens, d’où l’intervention de l’ordinaire du lieu), abritait un prieuré de l’abbaye Saint-Germer-de-Fly, dédié à Saint-Pierre-Saint-Paul (devenu église paroissiale à la Révolution). Les moines avaient le droit de patronage (ou de «&#160;présentation&#160;») de l’église paroissiale du lieu&#160;: ils choisissaient le curé, qui était ensuite investi par l’évêque d’Amiens.">Gamaches</term>, s’étant présentés devant nous, reconnurent en notre</l>
-                    <l>présence que, après avoir été quelque temps en litige sur l’<term n="Le cantuarium est l’ensemble des droits perçus à l’occasion des messes chantées. Le contexte nous incite à comprendre plus largement dans le sens d’un terme plus fréquent, l’autelage, revenus du service assuré par le desservant, incluant même les revenus de la dîme. Le contexte aide aussi à comprendre qu’il s’agit ici du partage entre le patron de la cure et le curé.">autelage</term> de Gamaches, ils se</l>
-                    <l>sont mis d’accord comme suit&#160;: le prêtre recevra dans la grange des moines à Gamaches,</l>
-                    <l>chaque année, dix-huit setiers de <term n="Bladii. Comprendre «&#160;bladi&#160;». Le «&#160;bladum&#160;» (les «&#160;bleds&#160;» en français ancien) peut ou non inclure l’avoine, mais se révèle toujours plus large que le «&#160;blé&#160;» contemporain (froment)&#160;; il désigne fondamentalement les céréales panifiables.">grains</term> et autant d’avoine, et deux setiers d’orge et deux</l>
-                    <l>de pois, ainsi que la farine produite par deux cents gerbes tant de froment que d’avoine,</l>
-                    <l>en sorte qu’il ne réclamera rien [d’autre] du produit des champs ni des jardins ni des</l>
-                    <l>vergers&#160;; des autres revenus de l’autel, il recevra intégralement un tiers, à l’exception des</l>
-                    <l>chandelles, qui reviennent aux moines, sauf celles du jour de la <term n="Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.">Purification de sainte</term></l>
-                    <l><term n="Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.">Marie</term> dont il recevra semblablement le tiers, exceptée aussi la moitié des chandelles de</l>
-                    <l>l’église <term n="Saint-Nicolas était alors l’église paroissiale de Gamaches.">Saint-Nicolas</term> qu’il destinera à l’usage de cette église&#160;; à cette condition aussi que</l>
-                    <l>tous les legs et autres bénéfices, tant des moines que des chapelains, doivent leur être </l>
-                    <l>communs selon le mode susdit, à savoir que les moines auront deux tiers et le prêtre un</l>
-                    <l>tiers. Et pour que ceci demeure ferme, nous avons fait mettre par écrit cette</l>
-                    <l>reconnaissance, et renforcer de la protection de notre sceau. De cela sont témoins&#160;:</l>
-                    <l>Germer, doyen d’<term n="Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.">Abbeville</term>, Étienne notre chapelain, maître Jean d’<term n="Eu (Seine-Maritime, ch.-l. cant.).">Eu</term>, Clair clerc. Donné</l>
-                    <l>à Amiens, en l’an du Verbe incarné 1199.</l>
-                    <l>[<hi rend="i">Dans la marge droite</hi>&#160;:] CHIROGRAPHE.</l>
-                </div>
-                <div type="regeste">
-                    <head>1199 (a. st.). — Amiens.</head>
-                    <p>T[hibaud], évêque d’Amiens notifie un accord passé après litige entre l’abbé E[ustache] de [Saint-Germer-de]-Fly, et le prêtre de Gamaches sur les revenus du service paroissial (<hi rend="i">cantuarium</hi>) de Gamaches&#160;: le prêtre doit recevoir chaque année dans la grange des moines à Gamaches dix-huit setiers de grains et autant d’avoine, deux setiers d’orge et deux de pois, et la farine de deux cents gerbes tant de froment que d’avoine, sans rien demander de plus sur les produits des champs, des jardins, des vergers. Il percevra aussi le tiers des revenus de l’autel, mais rien sur les chandelles, sauf celles de la Chandeleur, dont il aura le tiers, et la moitié de celles de l’église Saint-Nicolas. Il aura aussi un tiers des legs et autres bénéfices des moines et des chapelains.</p>
-                </div>
-            </div>
-            <div type="commentaire" n="diplomatique">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Caractères externes</head>
-                    <div type="recommandation">
-                        <p>
-                            Passer la souris sur les cercles rouges pour des commentaires de détail
-                       </p>
-                    </div>
-                    <div>
-                <p>
-                    <figure rend="71/faxexterne.jpg">
-                        <figDesc>
-                            <seg type="poly" rend="97,112,101,107,110,105,115,106,118,109,119,117,119,125,113,125,104,127,96,123,95,115,99,112,99,109">Majuscule à redoublement</seg>
-                            <seg type="poly" rend="249,108,248,98,251,92,254,93,258,90,263,90,265,92,267,100,269,108,269,115,266,122,259,125,252,124,246,119,246,108,246,100">Majuscule à redoublement</seg>
-                            <seg type="poly" rend="391,103,391,92,394,88,397,87,404,89,406,94,410,101,407,109,407,122,402,123,394,121,390,116,389,106,390,96">“a” à crosse allongée</seg>
-                            <seg type="poly" rend="657,193,657,183,663,178,670,177,675,181,678,189,679,196,679,205,674,218,664,213,658,209,655,200,657,193">“i” pointés dans certains cas de lecture ambiguë ou quand ils sont redoublés</seg>
-                            <seg type="poly" rend="397,327,397,318,399,309,406,305,412,305,413,316,414,325,415,329,415,339,413,347,411,358,406,356,399,351,399,341,399,331,396,325">“s” final plongeant</seg>
-                            <seg type="poly" rend="353,435,368,426,373,422,383,422,393,422,397,423,400,423,406,424,410,432,413,449,416,453,409,456,399,466,381,467,359,463,356,457,350,452,350,442">fente ménagée pour la double queue de parchemin aujourd’hui disparue</seg>
-                            <seg type="poly" rend="690,109,692,91,696,84,697,72,701,65,708,54,713,58,719,68,725,84,725,107,732,115,732,139,735,154,735,178,738,206,738,217,738,241,738,259,737,287,737,301,736,320,733,332,730,362,723,378,717,391,713,396,706,396,697,381,694,359,689,343,689,312,685,298,684,281,684,267,684,251,684,228,683,203,682,187,684,156,687,124,690,103">devise, par le milieu de laquelle passe la découpe des deux exemplaires du chirographe (un pour chaqua partie)</seg>
-                        </figDesc>
-                    </figure>
-               </p>
-                <p>Dénuée d’affectation, l’écriture échappe encore à toute sorte de cursivité. Son caractère diplomatique s’affirme dans quelques ornements, quelques discrets redoublements de majuscules (“T” en l. 1, “E” en l. 1 et 2, “G” en l. 2…), l’étirement parfois maladroit du jambage plongeant des “m” et “s” finaux, l’étirement en hauteur du “a” initial (deux exemples l. 2), qui n’est pas sans suggérer une possible influence des actes anglo-normands, que l’on pourrait aussi subodorer dans l’abréviation initiale du nom de l’auteur (“Th.”). Quelques ligatures (“fl” de “flay”, l. 2) ou amorces de ligature (“ct” de “fructibus”, l. 5) sont aussi à noter. Le pointage sert à distinguer deux i qui se suivent. La ponctuation est discrète mais pertinente. La volonté de clarté est donc évidente.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Interprétation</head>
-                    <div>
-                        <p>L’acte est typique d’une époque de croisière dans l’évolution de l’acte épiscopal, dont la formidable croissance au long du XII<hi rend="sup">e</hi> siècle a largement reposé sur des interventions de ce type, où l’évêque est garant d’accords, de conventions passées entre laïques ou clercs de son diocèse (ce qui vaut ici pour le curé de Gamaches). En ce sens, ce genre d’acte prépare l’essor de la juridiction gracieuse du XIII<hi rend="sup">e</hi> siècle, où l’évêque aura délégué son rôle à son official. Cela dit, il s’agit ici d’un peu plus que de juridiction gracieuse&#160;: d’abord parce que la convention, passée pour régler un litige impliquant l’économie paroissiale, touche au plus près le pouvoir régulateur et hiérarchique de l’évêque (qui notifie de façon explicite, et ratifie de façon implicite)&#160;; ensuite parce que l’acte émane directement de la personne de l’évêque — ce que marquent son nom au début, son sceau au bas, sans omettre le petit groupe de témoins qui animent de façon plus ou moins suivie son entourage.</p>
-                        <p>On peut donc analyser l’acte en le comparant point à point aux actes d’officialité ultérieurs (voir par exemple <hi rend="gras">un acte de 1248=<xref to="http://theleme.enc.sorbonne.fr/dossiers/notice20.php">dossier n° 20</xref></hi>).</p>
-                        <p>La solution de fond de l’acte d’officialité est déjà là&#160;: sans dispositif à proprement parler (car l’évêque ne confirme pas explicitement la convention), l’acte expose, en forme de procès-verbal, la reconnaissance orale passée par les parties devant l’évêque&#160;; le très classique <hi rend="i">constitutis coram nobis… recognitum fuit ab ipsis</hi>, juste un peu lourd face à la formule qui devait s’imposer (<hi rend="i">constituti coram nobis… recognoverunt</hi>), n’a donc pas été imaginé par les officialités&#160;!</p>
-                        <p>De l’acte d’officialité on retrouve aussitôt l’expertise linguistique, l’effort de clarté qui amène à décrire en termes techniques, juridiques, précis, le négoce, sans fioriture&#160;: si l’on veut rendre compte du détail, le «&#160;regeste&#160;» revient presque à une traduction. Manque par contre encore le lourd apparat de clauses savantes.</p>
-                        <p>Si l’acte donc tient au passé, c’est surtout par la forme qu’il prend d’un chirographe, solution un peu rustique mais très efficace pour annoncer d’entrée que l’autre partie a aussi reçu son exemplaire, et parer de façon souple à d’éventuelles contestations&#160;: au siècle suivant, on imaginerait plutôt un retour devant l’official.</p>
-                    </div>
-                </div>
-                </div>
-        </body>
-    </text>
-    </TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1199. Acte épiscopal (Amiens)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">71</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig.&#160;: Bibl. nat. de Fr.</p>
+        <p>Fac-sim. ENC&#160;: AF 476 (lithographie)</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc/>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="98,69,257,82,404,69,576,78,582,103,491,112,275,118,177,118,97,126" n="poly">Th[eobaldus], D<ex>e</ex>i gr<ex>ati</ex>a Ambianen<ex>sis</ex> ep<ex>iscopu</ex>s, om<ex>n</ex>ib<ex>us</ex> ad quos litt<ex>er</ex>e iste p<ex>er</ex>ven<ex>er</ex>i<ex>n</ex>t, sal<ex>u</ex>t<ex>em</ex> in D<ex>omi</ex>no.</seg>
+          <seg rend="583,68,798,63,914,65,913,98,793,104,641,106,587,106" n="poly">Publice innocescat q<ex>uo</ex>d, constitutis coram nob<ex>is</ex> dilecto</seg>
+          <seg rend="103,138,177,125,295,124,410,123,411,154,224,162,103,163" n="poly">n<ex>ost</ex>ro E[ustachio] abb<ex>a</ex>te de Flay et p<ex>res</ex>b<ex>ite</ex>ro de Gamachis,</seg>
+          <seg rend="414,123,615,114,767,114,873,107,931,130,926,144,801,146,581,154,417,154" n="poly">recognitum fuit ab ip<ex>s</ex>is in p<ex>re</ex>sencia n<ex>ost</ex>ra q<ex>uo</ex>d, cum aliq<ex>ua</ex>n<ex>do</ex> alt<ex>er</ex>catio fuisset int<ex>er</ex> eos</seg>
+          <seg rend="106,174,288,173,442,168,550,168,553,192,315,205,103,211" n="poly">sup<ex>er</ex> cantuario de Gamac<ex>his</ex>, compositionem fec<ex>er</ex>unt in h<ex>un</ex>c modum&#160;:</seg>
+          <seg rend="557,167,903,152,920,163,916,187,748,190,559,195" n="poly">p<ex>res</ex>b<ex>ite</ex>r recipiet in grangia monachor<ex>um</ex> de Gamac<ex>his</ex> si<ex>n</ex>g<ex>u</ex>lis</seg>
+          <seg rend="104,220,243,212,364,210,453,205,480,218,477,235,262,245,101,248" n="poly">annis decem <ex>et</ex> octo sextarios bladii <ex>et</ex> totidem avene</seg>
+          <seg rend="482,203,628,200,789,196,916,198,920,225,768,229,587,233,481,236" n="poly"><ex>et</ex> duos sext<ex>arios</ex> ordei <ex>et</ex> duos pise <ex>et</ex> farraginem ducentarum garbaru<ex>m</ex></seg>
+          <seg rend="103,260,259,248,414,248,519,251,522,282,275,290,107,289" n="poly">tam frum<ex>en</ex>ti q<ex>u</ex>a<ex>m</ex> avene, ita q<ex>uo</ex>d in t<ex>er</ex>ra arabili sive in ortis</seg>
+          <seg rend="525,245,708,239,914,237,923,262,922,269,868,273,642,275,527,277" n="poly">sive in pom<ex>er</ex>iis de fructib<ex>us</ex> nichil reclamabit&#160;; in aliis pro-</seg>
+          <seg rend="111,302,232,298,441,292,460,304,454,322,232,330,106,332" n="poly">-ventib<ex>us</ex> altaris t<ex>er</ex>ciam partem integre recipiet,</seg>
+          <seg rend="463,290,681,283,883,281,921,285,917,312,653,314,462,323" n="poly">exceptis candelis que s<ex>un</ex>t monachor<ex>um</ex>, p<ex>re</ex>t<ex>er</ex> illas de die Purificatio<ex>n</ex>is</seg>
+          <seg rend="106,341,359,333,454,347,455,364,281,371,109,368" n="poly">s<ex>an</ex>c<ex>t</ex>e Marie, de q<ex>u</ex>ib<ex>us</ex> t<ex>er</ex>ciam partem simil<ex>ite</ex>r recipiet,</seg>
+          <seg rend="458,337,624,324,822,324,914,324,919,339,918,345,759,360,543,361,458,365" n="poly">et excepta medietate candelarum eccl<ex>es</ex>ie S<ex>an</ex>c<ex>t</ex>i Nichol<ex>a</ex>i quam ad servi-</seg>
+          <seg rend="112,381,332,375,428,385,424,402,250,406,110,410" n="poly">-endum in eadem eccl<ex>es</ex>ia detinebit&#160;; ita eciam</seg>
+          <seg rend="433,374,650,368,782,365,872,360,927,371,927,392,764,396,630,399,434,407" n="poly">q<ex>uo</ex>d om<ex>n</ex>ia legata <ex>et</ex> alia b<ex>e</ex>n<ex>e</ex>ficia tam monachor<ex>um</ex> q<ex>u</ex>a<ex>m</ex> capellanor<ex>um</ex> int<ex>er</ex> eos</seg>
+          <seg rend="115,418,408,411,470,415,555,416,555,441,308,442,108,453" n="poly">p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>o m<ex>od</ex>o debent e<ex>ss</ex>e comu<ex>n</ex>ia, ita scilic<ex>et</ex> q<ex>uo</ex>d monachi duas partes</seg>
+          <seg rend="563,411,806,400,923,405,929,417,924,429,759,439,593,442,558,441,559,441,561,417" n="poly"><ex>et</ex> p<ex>res</ex>b<ex>ite</ex>r t<ex>er</ex>ciam recipiet. Et ut hoc ratum p<ex>er</ex>maneat, re-</seg>
+          <seg rend="116,463,262,452,473,452,637,450,663,455,660,479,465,487,255,487,117,489" n="poly">-cognitionem istam litt<ex>er</ex>is fecim<ex>us</ex> annotari <ex>et</ex> sigilli n<ex>ost</ex>ri munimine roborari.</seg>
+          <seg rend="667,449,837,441,927,443,924,473,690,482,667,478" n="poly">Huj<ex>us</ex> rei testes su<ex>n</ex>t&#160;: Geremar<ex>us</ex> decan<ex>us</ex></seg>
+          <seg rend="116,495,260,494,381,493,502,493,511,505,511,524,296,527,112,532" n="poly">Abb<ex>a</ex>tisville, Steph<ex>anu</ex>s capellan<ex>us</ex> n<ex>oste</ex>r, mag<ex>iste</ex>r Joh<ex>ann</ex>es de Augo,</seg>
+          <seg rend="517,493,673,489,833,484,930,482,926,514,623,526,516,523" n="poly">Clar<ex>us</ex> cl<ex>er</ex>ic<ex>us</ex>. Dat<ex>um</ex> Ambianis, anno incarn<ex>ati</ex> V<ex>er</ex>bi M° C° XC°</seg>
+          <seg rend="113,547,150,550,163,553,166,563,149,568,118,568,115,555" n="poly">nono.</seg>
+          <seg rend="932,81,963,87,963,138,963,292,967,417,967,488,967,497,934,489,931,447,931,393,929,355,927,289,931,261,925,209,924,165,933,144,936,128,921,122,913,111" n="poly">[<hi rend="i">Dans la marge droite</hi>&#160;:] CYROGRAPHUM.</seg>
+        </p>
+      </div>
+      <div type="texte">
+        <div type="transcription">
+          <l><term n="Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.">Th[eobaldus]</term>, Dei gratia Ambianensis episcopus, omnibus ad quos littere iste pervenerint,</l>
+          <l>salutem in Domino. Publice innocescat quod, constitutis coram nobis dilecto nostro</l>
+          <l><term n="Eustache II, successeur de l’abbé Lambert (1190-1211).">E[ustachio]</term> abbate de <term n="Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie."><hi rend="i">Flay</hi></term> et <term n="Presbitero. Par une extension de sens encore fréquente aujourd’hui, le terme de «&#160;prêtre&#160;» renvoie ici à l’évidence au prêtre en charge de la paroisse, «&#160;curé&#160;» au regard du droit canon.">presbitero</term> de <term n="Gamaches (Somme, ch.-l. cant., anc. diocèse d’Amiens, d’où l’intervention de l’ordinaire du lieu), abritait un prieuré de l’abbaye Saint-Germer-de-Fly, dédié à Saint-Pierre-Saint-Paul (devenu église paroissiale à la Révolution). Les moines avaient le droit de patronage (ou de «&#160;présentation&#160;») de l’église paroissiale du lieu&#160;: ils choisissaient le curé, qui était ensuite investi par l’évêque d’Amiens.">Gamachis</term>, recognitum fuit ab ipsis in</l>
+          <l>presencia nostra quod, cum aliquando altercatio fuisset inter eos super <term n="Le cantuarium est l’ensemble des droits perçus à l’occasion des messes chantées. Le contexte nous incite à comprendre plus largement dans le sens d’un terme plus fréquent, l’autelage, revenus du service assuré par le desservant, incluant même les revenus de la dîme. Le contexte aide aussi à comprendre qu’il s’agit ici du partage entre le patron de la cure et le curé.">cantuario</term> de</l>
+          <l>Gamachis, compositionem fecerunt in hunc modum&#160;: presbiter recipiet in grangia</l>
+          <l>monachorum de Gamachis singulis annis decem et octo sextarios <term n="Bladii. Comprendre «&#160;bladi&#160;». Le «&#160;bladum&#160;» (les «&#160;bleds&#160;» en français ancien) peut ou non inclure l’avoine, mais se révèle toujours plus large que le «&#160;blé&#160;» contemporain (froment)&#160;; il désigne fondamentalement les céréales panifiables.">bladii</term> et totidem avene</l>
+          <l>et duos sextarios ordei et duos pise et farraginem ducentarum garbarum tam frumenti</l>
+          <l>quam avene, ita quod in terra arabili sive in ortis sive in pomeriis de fructibus nichil</l>
+          <l>reclamabit&#160;; in aliis proventibus altaris terciam partem integre recipiet, exceptis candelis</l>
+          <l>que sunt monachorum, preter illas de die <term n="Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.">Purificationis sancte Marie</term>, de quibus terciam</l>
+          <l>partem similiter recipiet, et excepta medietate candelarum ecclesie <term n="Saint-Nicolas était alors l’église paroissiale de Gamaches.">Sancti Nicholai</term> quam</l>
+          <l>ad serviendum in eadem ecclesia detinebit&#160;; ita eciam quod omnia legata et alia beneficia</l>
+          <l>tam monachorum quam capellanorum inter eos predicto modo debent esse comunia, ita</l>
+          <l>scilicet quod monachi duas partes et presbiter terciam recipiet. Et ut hoc ratum permaneat,</l>
+          <l>recognitionem istam litteris fecimus annotari et sigilli nostri munimine roborari. Hujus rei</l>
+          <l>testes sunt&#160;: Geremarus decanus <term n="Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.">Abbatisville</term>, Stephanus capellanus noster, magister</l>
+          <l>Johannes de <term n="Eu (Seine-Maritime, ch.-l. cant.).">Augo</term>, Clarus clericus. Datum Ambianis, anno incarnati Verbi M° C° XC°</l>
+          <l>nono.</l>
+          <l>[<hi rend="i">Dans la marge droite</hi>&#160;:] CYROGRAPHUM.</l>
+        </div>
+        <div type="traduction">
+          <l><term n="Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.">Thibaud</term>, par la grâce de Dieu évêque d’Amiens, à tous ceux à qui parviendront ces</l>
+          <l>lettres, salut dans le Seigneur. Qu’il soit connu publiquement que notre cher <term n="Eustache II, successeur de l’abbé Lambert (1190-1211).">E[ustache]</term></l>
+          <l>abbé de <term n="Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie.">Fly</term> et le <term n="Presbitero. Par une extension de sens encore fréquente aujourd’hui, le terme de «&#160;prêtre&#160;» renvoie ici à l’évidence au prêtre en charge de la paroisse, «&#160;curé&#160;» au regard du droit canon.">prêtre</term> de <term n="Gamaches (Somme, ch.-l. cant., anc. diocèse d’Amiens, d’où l’intervention de l’ordinaire du lieu), abritait un prieuré de l’abbaye Saint-Germer-de-Fly, dédié à Saint-Pierre-Saint-Paul (devenu église paroissiale à la Révolution). Les moines avaient le droit de patronage (ou de «&#160;présentation&#160;») de l’église paroissiale du lieu&#160;: ils choisissaient le curé, qui était ensuite investi par l’évêque d’Amiens.">Gamaches</term>, s’étant présentés devant nous, reconnurent en notre</l>
+          <l>présence que, après avoir été quelque temps en litige sur l’<term n="Le cantuarium est l’ensemble des droits perçus à l’occasion des messes chantées. Le contexte nous incite à comprendre plus largement dans le sens d’un terme plus fréquent, l’autelage, revenus du service assuré par le desservant, incluant même les revenus de la dîme. Le contexte aide aussi à comprendre qu’il s’agit ici du partage entre le patron de la cure et le curé.">autelage</term> de Gamaches, ils se</l>
+          <l>sont mis d’accord comme suit&#160;: le prêtre recevra dans la grange des moines à Gamaches,</l>
+          <l>chaque année, dix-huit setiers de <term n="Bladii. Comprendre «&#160;bladi&#160;». Le «&#160;bladum&#160;» (les «&#160;bleds&#160;» en français ancien) peut ou non inclure l’avoine, mais se révèle toujours plus large que le «&#160;blé&#160;» contemporain (froment)&#160;; il désigne fondamentalement les céréales panifiables.">grains</term> et autant d’avoine, et deux setiers d’orge et deux</l>
+          <l>de pois, ainsi que la farine produite par deux cents gerbes tant de froment que d’avoine,</l>
+          <l>en sorte qu’il ne réclamera rien [d’autre] du produit des champs ni des jardins ni des</l>
+          <l>vergers&#160;; des autres revenus de l’autel, il recevra intégralement un tiers, à l’exception des</l>
+          <l>chandelles, qui reviennent aux moines, sauf celles du jour de la <term n="Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.">Purification de sainte</term></l>
+          <l><term n="Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.">Marie</term> dont il recevra semblablement le tiers, exceptée aussi la moitié des chandelles de</l>
+          <l>l’église <term n="Saint-Nicolas était alors l’église paroissiale de Gamaches.">Saint-Nicolas</term> qu’il destinera à l’usage de cette église&#160;; à cette condition aussi que</l>
+          <l>tous les legs et autres bénéfices, tant des moines que des chapelains, doivent leur être </l>
+          <l>communs selon le mode susdit, à savoir que les moines auront deux tiers et le prêtre un</l>
+          <l>tiers. Et pour que ceci demeure ferme, nous avons fait mettre par écrit cette</l>
+          <l>reconnaissance, et renforcer de la protection de notre sceau. De cela sont témoins&#160;:</l>
+          <l>Germer, doyen d’<term n="Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.">Abbeville</term>, Étienne notre chapelain, maître Jean d’<term n="Eu (Seine-Maritime, ch.-l. cant.).">Eu</term>, Clair clerc. Donné</l>
+          <l>à Amiens, en l’an du Verbe incarné 1199.</l>
+          <l>[<hi rend="i">Dans la marge droite</hi>&#160;:] CHIROGRAPHE.</l>
+        </div>
+        <div type="regeste">
+          <head>1199 (a. st.). — Amiens.</head>
+          <p>T[hibaud], évêque d’Amiens notifie un accord passé après litige entre l’abbé E[ustache] de [Saint-Germer-de]-Fly, et le prêtre de Gamaches sur les revenus du service paroissial (<hi rend="i">cantuarium</hi>) de Gamaches&#160;: le prêtre doit recevoir chaque année dans la grange des moines à Gamaches dix-huit setiers de grains et autant d’avoine, deux setiers d’orge et deux de pois, et la farine de deux cents gerbes tant de froment que d’avoine, sans rien demander de plus sur les produits des champs, des jardins, des vergers. Il percevra aussi le tiers des revenus de l’autel, mais rien sur les chandelles, sauf celles de la Chandeleur, dont il aura le tiers, et la moitié de celles de l’église Saint-Nicolas. Il aura aussi un tiers des legs et autres bénéfices des moines et des chapelains.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          
+          <div>
+            <p>
+              <figure rend="71/faxexterne.jpg">
+                <figDesc>
+                  <seg type="poly" rend="97,112,101,107,110,105,115,106,118,109,119,117,119,125,113,125,104,127,96,123,95,115,99,112,99,109">Majuscule à redoublement</seg>
+                  <seg type="poly" rend="249,108,248,98,251,92,254,93,258,90,263,90,265,92,267,100,269,108,269,115,266,122,259,125,252,124,246,119,246,108,246,100">Majuscule à redoublement</seg>
+                  <seg type="poly" rend="391,103,391,92,394,88,397,87,404,89,406,94,410,101,407,109,407,122,402,123,394,121,390,116,389,106,390,96">“a” à crosse allongée</seg>
+                  <seg type="poly" rend="657,193,657,183,663,178,670,177,675,181,678,189,679,196,679,205,674,218,664,213,658,209,655,200,657,193">“i” pointés dans certains cas de lecture ambiguë ou quand ils sont redoublés</seg>
+                  <seg type="poly" rend="397,327,397,318,399,309,406,305,412,305,413,316,414,325,415,329,415,339,413,347,411,358,406,356,399,351,399,341,399,331,396,325">“s” final plongeant</seg>
+                  <seg type="poly" rend="353,435,368,426,373,422,383,422,393,422,397,423,400,423,406,424,410,432,413,449,416,453,409,456,399,466,381,467,359,463,356,457,350,452,350,442">fente ménagée pour la double queue de parchemin aujourd’hui disparue</seg>
+                  <seg type="poly" rend="690,109,692,91,696,84,697,72,701,65,708,54,713,58,719,68,725,84,725,107,732,115,732,139,735,154,735,178,738,206,738,217,738,241,738,259,737,287,737,301,736,320,733,332,730,362,723,378,717,391,713,396,706,396,697,381,694,359,689,343,689,312,685,298,684,281,684,267,684,251,684,228,683,203,682,187,684,156,687,124,690,103">devise, par le milieu de laquelle passe la découpe des deux exemplaires du chirographe (un pour chaqua partie)</seg>
+                </figDesc>
+              </figure>
+            </p>
+            <p>Dénuée d’affectation, l’écriture échappe encore à toute sorte de cursivité. Son caractère diplomatique s’affirme dans quelques ornements, quelques discrets redoublements de majuscules (“T” en l. 1, “E” en l. 1 et 2, “G” en l. 2…), l’étirement parfois maladroit du jambage plongeant des “m” et “s” finaux, l’étirement en hauteur du “a” initial (deux exemples l. 2), qui n’est pas sans suggérer une possible influence des actes anglo-normands, que l’on pourrait aussi subodorer dans l’abréviation initiale du nom de l’auteur (“Th.”). Quelques ligatures (“fl” de “flay”, l. 2) ou amorces de ligature (“ct” de “fructibus”, l. 5) sont aussi à noter. Le pointage sert à distinguer deux i qui se suivent. La ponctuation est discrète mais pertinente. La volonté de clarté est donc évidente.</p>
+          </div>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <div>
+            <p>L’acte est typique d’une époque de croisière dans l’évolution de l’acte épiscopal, dont la formidable croissance au long du XII<hi rend="sup">e</hi> siècle a largement reposé sur des interventions de ce type, où l’évêque est garant d’accords, de conventions passées entre laïques ou clercs de son diocèse (ce qui vaut ici pour le curé de Gamaches). En ce sens, ce genre d’acte prépare l’essor de la juridiction gracieuse du XIII<hi rend="sup">e</hi> siècle, où l’évêque aura délégué son rôle à son official. Cela dit, il s’agit ici d’un peu plus que de juridiction gracieuse&#160;: d’abord parce que la convention, passée pour régler un litige impliquant l’économie paroissiale, touche au plus près le pouvoir régulateur et hiérarchique de l’évêque (qui notifie de façon explicite, et ratifie de façon implicite)&#160;; ensuite parce que l’acte émane directement de la personne de l’évêque — ce que marquent son nom au début, son sceau au bas, sans omettre le petit groupe de témoins qui animent de façon plus ou moins suivie son entourage.</p>
+            <p>On peut donc analyser l’acte en le comparant point à point aux actes d’officialité ultérieurs (voir par exemple <hi rend="gras">un acte de 1248=<xref to="http://theleme.enc.sorbonne.fr/dossiers/notice20.php">dossier n° 20</xref></hi>).</p>
+            <p>La solution de fond de l’acte d’officialité est déjà là&#160;: sans dispositif à proprement parler (car l’évêque ne confirme pas explicitement la convention), l’acte expose, en forme de procès-verbal, la reconnaissance orale passée par les parties devant l’évêque&#160;; le très classique <hi rend="i">constitutis coram nobis… recognitum fuit ab ipsis</hi>, juste un peu lourd face à la formule qui devait s’imposer (<hi rend="i">constituti coram nobis… recognoverunt</hi>), n’a donc pas été imaginé par les officialités&#160;!</p>
+            <p>De l’acte d’officialité on retrouve aussitôt l’expertise linguistique, l’effort de clarté qui amène à décrire en termes techniques, juridiques, précis, le négoce, sans fioriture&#160;: si l’on veut rendre compte du détail, le «&#160;regeste&#160;» revient presque à une traduction. Manque par contre encore le lourd apparat de clauses savantes.</p>
+            <p>Si l’acte donc tient au passé, c’est surtout par la forme qu’il prend d’un chirographe, solution un peu rustique mais très efficace pour annoncer d’entrée que l’autre partie a aussi reçu son exemplaire, et parer de façon souple à d’éventuelles contestations&#160;: au siècle suivant, on imaginerait plutôt un retour devant l’official.</p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI.2>

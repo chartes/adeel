@@ -18,7 +18,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 				<p>
 					<seg rend="29,37,730,80">In nomine s<ex>an</ex>c<ex>t</ex>e et
 						individue Trinitatis, amen.</seg>
@@ -75,16 +75,16 @@
 					<seg rend="860,401,973,422">Dapifero n<ex>u</ex>llo.</seg>
 					<seg rend="8,422,328,450">Signum Guidonis buticularii.</seg>
 					<seg rend="337,424,607,449">S. Mathei camerarii.</seg>
-					<seg rend="613,432,928,456">S. Droconis constabularii. </seg>
-					<seg rend="18,524,355,550">Data vacante </seg>
+					<seg rend="613,432,928,456">S. Droconis constabularii.</seg>
+					<seg rend="18,524,355,550">Data vacante</seg>
 					<seg rend="621,528,928,559">cancellaria</seg>
 					<seg rend="19,559,207,584">p<ex>er</ex> manum f<ex>rat</ex>ris
 						Garini.</seg>
 					<seg rend="392,458,598,581">[Monogramme] PHILIPPUS</seg>
 				</p>
 			</div>
-			<div type="transcription">
-				<div type="texte">
+			<div type="texte">
+				<div type="transcription">
 					<l>In nomine s<ex>an</ex>c<ex>t</ex>e et [i]ndividue Trinitatis, </l>
 					<l>amen. Ph<ex>ilippus</ex> D<ex>e</ex>i gr<ex>ati</ex>a
 							Franc<ex>orum</ex> rex.</l>
@@ -208,7 +208,7 @@
 					<l>PHILIPPE.</l>
 				</div>
 			</div>
-			<div type="commentaire" n="diplomatique">
+			<div type="diplomatic">
 				<head>Commentaire diplomatique</head>
 				<div>
 					<head>Caractères externes</head>
@@ -326,10 +326,6 @@
 				</div>
 				<div>
 					<head>Parties du discours</head>
-					<div type="recommandation">
-						<p>Passer la souris sur le texte pour obtenir des commentaires de
-						détail</p>
-					</div>
 					<div>
 						<p>La solennité de la présentation et l'éclat des caractères graphiques ne
 							sont nullement incompatibles (trait caractéristique des

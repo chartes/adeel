@@ -27,45 +27,44 @@
       </langUsage>
     </profileDesc>
   </teiHeader>
-  <text>
-    <front/>
+  <text>
     <body>
-      <div type="facsimile" rend="fax.jpg">
+      <div type="facsimile">
         <p>
-          <seg rend="14,11,1346,120">Louis par la grace de Dieu roi de France et de Navarre, à tous p<ex>rése</ex>n<ex>t</ex>s </seg>
-          <seg rend="16,125,712,152">et à venir, salut. Par notre edit du mois de janvier M VI<hi rend="sup">c</hi> quatre-vingt-huit, </seg>
-          <seg rend="718,126,1347,156">nous avons pour les causes et motifx y contenus supprimé l’office </seg>
-          <seg rend="16,160,699,185">de con<ex>seill</ex>er lay en notre cour de parlement dont estoit pourveu le s<ex>ieur</ex> Muisson </seg>
-          <seg rend="707,161,1346,187">et estimant necessaire de rétablir led. office afin que celuy qui en </seg>
-          <seg rend="12,190,953,219">sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service. </seg>
-          <seg rend="960,194,1347,221">À ces causes et autres à ce </seg>
-          <seg rend="12,225,903,252">nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces p<ex>rese</ex>ntes signées de n<ex>ot</ex>re main </seg>
-          <seg rend="907,225,1347,255">un office de con<ex>seill</ex>er lay en notred. cour de parlement </seg>
-          <seg rend="9,257,445,283">pour, par celuy qui en sera bien et deuement pourveu, </seg>
-          <seg rend="450,259,1349,285">en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, </seg>
-          <seg rend="11,286,546,315">immunitez, et autres avantages dont jouissent nos autres con<ex>seill</ex>ers en notred. cour. </seg>
-          <seg rend="551,291,1348,317">Voulons à cette fin que le fonds desd. gages soit fait dans nos </seg>
-          <seg rend="16,320,319,343">estats en la maniere acoutumée. </seg>
-          <seg rend="325,320,1349,346">Si donnons en mandement à nos amez et feaux con<ex>seill</ex>ers les gens tenant nos cour de parlement et </seg>
-          <seg rend="13,350,1157,378"> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur. </seg>
+          <seg rend="14,11,1346,120">Louis par la grace de Dieu roi de France et de Navarre, à tous p<ex>rése</ex>n<ex>t</ex>s</seg>
+          <seg rend="16,125,712,152">et à venir, salut. Par notre edit du mois de janvier M VI<hi rend="sup">c</hi> quatre-vingt-huit,</seg>
+          <seg rend="718,126,1347,156">nous avons pour les causes et motifx y contenus supprimé l’office</seg>
+          <seg rend="16,160,699,185">de con<ex>seill</ex>er lay en notre cour de parlement dont estoit pourveu le s<ex>ieur</ex> Muisson</seg>
+          <seg rend="707,161,1346,187">et estimant necessaire de rétablir led. office afin que celuy qui en</seg>
+          <seg rend="12,190,953,219">sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service.</seg>
+          <seg rend="960,194,1347,221">À ces causes et autres à ce</seg>
+          <seg rend="12,225,903,252">nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces p<ex>rese</ex>ntes signées de n<ex>ot</ex>re main</seg>
+          <seg rend="907,225,1347,255">un office de con<ex>seill</ex>er lay en notred. cour de parlement</seg>
+          <seg rend="9,257,445,283">pour, par celuy qui en sera bien et deuement pourveu,</seg>
+          <seg rend="450,259,1349,285">en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges,</seg>
+          <seg rend="11,286,546,315">immunitez, et autres avantages dont jouissent nos autres con<ex>seill</ex>ers en notred. cour.</seg>
+          <seg rend="551,291,1348,317">Voulons à cette fin que le fonds desd. gages soit fait dans nos</seg>
+          <seg rend="16,320,319,343">estats en la maniere acoutumée.</seg>
+          <seg rend="325,320,1349,346">Si donnons en mandement à nos amez et feaux con<ex>seill</ex>ers les gens tenant nos cour de parlement et</seg>
+          <seg rend="13,350,1157,378"> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.</seg>
           <seg rend="1164,353,1347,382">Car tel est n<ex>ot</ex>re</seg>
-          <seg rend="13,383,946,411">plaisir. Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre n<ex>ot</ex>re seel à cesd. p<ex>rese</ex>ntes. </seg>
-          <seg rend="955,387,1347,418">Donné à Versailles au mois de may </seg>
-          <seg rend="16,415,750,450">l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinq<ex>uièm</ex>e. </seg> 
+          <seg rend="13,383,946,411">plaisir. Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre n<ex>ot</ex>re seel à cesd. p<ex>rese</ex>ntes.</seg>
+          <seg rend="955,387,1347,418">Donné à Versailles au mois de may</seg>
+          <seg rend="16,415,750,450">l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinq<ex>uièm</ex>e.</seg> 
           <seg rend="546,456,772,529">L<hi rend="sc">OUIS</hi></seg>
           <seg rend="443,608,705,794">par le roy P<hi rend="sc">HELYPEAUX</hi>.</seg>
           <seg rend="1140,657,1276,713">visa B<hi rend="sc">OUCHERAT</hi></seg>
-          <seg rend="51,596,440,630">Registrées en la Chambre des comptes </seg>
-          <seg rend="57,634,436,653">ouy et ce requerant le procureur general du roy </seg>
-          <seg rend="56,656,429,672">pour estre executtées selon leur forme et teneur, </seg>
+          <seg rend="51,596,440,630">Registrées en la Chambre des comptes</seg>
+          <seg rend="57,634,436,653">ouy et ce requerant le procureur general du roy</seg>
+          <seg rend="56,656,429,672">pour estre executtées selon leur forme et teneur,</seg>
           <seg rend="39,675,424,691">les bureaux assemblez le vingt-sixième may <hi rend="sc">M VI<hi rend="sup">c</hi></hi></seg>
-          <seg rend="49,695,331,714">quatre-vingt-dix-huit. </seg>
+          <seg rend="49,695,331,714">quatre-vingt-dix-huit.</seg>
           <seg rend="68,718,351,785">G<hi rend="sc">AMART</hi>, nihil.</seg>
-          <seg rend="823,618,1186,653">Registré ouy et ce requerant le procureur </seg>
-          <seg rend="824,658,1133,675">general du roy pour estre executé selon sa </seg>
-          <seg rend="818,678,1138,696">forme et teneur suivant l’arrest de ce jour. </seg>
-          <seg rend="830,701,1138,720">À Paris en sa cour le le quatorze may </seg>
-          <seg rend="830,725,1040,748"><hi rend="sc">M VI<hi rend="sup">c</hi></hi> quatre-vingt-dix-huit. </seg>
+          <seg rend="823,618,1186,653">Registré ouy et ce requerant le procureur</seg>
+          <seg rend="824,658,1133,675">general du roy pour estre executé selon sa</seg>
+          <seg rend="818,678,1138,696">forme et teneur suivant l’arrest de ce jour.</seg>
+          <seg rend="830,701,1138,720">À Paris en sa cour le le quatorze may</seg>
+          <seg rend="830,725,1040,748"><hi rend="sc">M VI<hi rend="sup">c</hi></hi> quatre-vingt-dix-huit.</seg>
           <seg rend="971,753,1172,856">D<hi rend="sc">ONGOIS</hi>.</seg>
        </p>
       </div>
@@ -127,4 +126,4 @@
       </div>
     </body>
   </text>
-</TEI>
+</TEI>

@@ -21,7 +21,7 @@
   <text>
     <front></front>
     <body>
-      <div type="facsimile" rend="fax.jpg">
+      <div type="facsimile">
         <p>
 	<seg rend="30,64,435,108">
 	De ista ora in antea, ego Ylisiarius de Salve,
@@ -112,8 +112,8 @@
 	</seg>
 	</p>
       </div>	    
-      <div type="transcription">
-        <div type="texte">
+      <div type="texte">
+        <div type="transcription">
 	 <l>De ista ora in antea, ego Ylisiarius de <term n="Sauve (dép. Gard,
 	 ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation
 	 maternelle, ce qui est fréquent dans ce genre de
@@ -196,7 +196,7 @@
 	
 	</div>
 	</div>
-	<div type="commentaire" n="diplomatique">
+	<div type="diplomatic">
 	  <head>Commentaire diplomatique</head>
 	  <div>
 	  <head>Caractères externes</head>

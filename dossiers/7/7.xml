@@ -23,7 +23,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 			    <p>
                                                     <seg rend="2,8,382,35">Testat<ex>ur</ex> a<ex>utem</ex> Epyfani<ex>us</ex> q<ex>uod</ex> no<ex>n</ex> sit passus cor<ex>por</ex>is mutatione<ex>m</ex> s<ex>ed</ex> m<ex>en</ex>-</seg>
                                                     <seg rend="4,37,371,61">-tis alienat<ex>i</ex>one<ex>m</ex>, <ex>et</ex> ablat<ex>us</ex> e<ex>st</ex> ei usus lingue ad loque<ex>n</ex>du<ex>m</ex></seg>
@@ -47,7 +47,7 @@
                                                     <seg rend="3,467,370,493">-h<ex>er</ex>ea<ex>m</ex>. » Hic dic<ex>it</ex> Josephus q<ex>uod</ex> i<ex>p</ex>se libros hebraicos in latinu<ex>m</ex></seg>
                                                     <seg rend="3,492,380,516">transtulit eloquiu<ex>m</ex>. Hystoria<ex>m</ex> Susanne p<ex>atet</ex> e<ex>ss</ex>e f<ex>a</ex>c<ex>t</ex>am ad-</seg>
                                                     <seg rend="4,519,373,538">-huc recente captivitate, q<ex>uia</ex> Daniel erat adh<ex>u</ex>c juvenis.</seg>
-                                                    <seg rend="4,542,370,564">Qui p<ex>er</ex>severavit us<ex>que</ex> ad a<ex>n</ex>nu<ex>m</ex> primu<ex>m</ex> Cyri regis. Eusebi<ex>us</ex> : </seg>
+                                                    <seg rend="4,542,370,564">Qui p<ex>er</ex>severavit us<ex>que</ex> ad a<ex>n</ex>nu<ex>m</ex> primu<ex>m</ex> Cyri regis. Eusebi<ex>us</ex> :</seg>
                                                     <seg rend="258,564,378,590">De i<ex>n</ex>it<ex>i</ex>o regni Cy-</seg>
                                                     <seg rend="256,595,367,615">-ri ap<ex>u</ex>d P<ex>er</ex>sas. I.</seg>
                                                     <seg rend="256,617,366,638">Anno captivi-</seg>
@@ -65,17 +65,17 @@
                                                     <seg rend="6,906,370,927">-tur vitis q<ex>ue</ex> tota<ex>m</ex> occupabat Asya<ex>m</ex>, <ex>et</ex> accepit a co<ex>n</ex>-</seg>
                                                     <seg rend="8,929,365,951">-jectorib<ex>us</ex> se h<ex>ab</ex>ituru<ex>m</ex> nepote<ex>m</ex> ex filia q<ex>u</ex>i d<ex>omi</ex>n<ex>u</ex>s e<ex>ss</ex>et Asye <ex>et</ex></seg>
                                                     <seg rend="5,954,374,976">ip<ex>su</ex>m deic<ex>er</ex>et a regno. Q<ex>uod</ex> time<ex>n</ex>s, dedit filia<ex>m</ex> sua<ex>m</ex> uxore<ex>m</ex></seg>
-                                                    <seg rend="7,979,372,999">militi plebeio, ne fili<ex>us</ex> ex ea nasc<ex>er</ex>et<ex>ur</ex> nobil<ex>is</ex> <ex>et</ex> potens. </seg>
+                                                    <seg rend="7,979,372,999">militi plebeio, ne fili<ex>us</ex> ex ea nasc<ex>er</ex>et<ex>ur</ex> nobil<ex>is</ex> <ex>et</ex> potens.</seg>
                                                     <seg rend="6,1001,363,1022">Pret<ex>er</ex>ea filia<ex>m</ex> p<ex>re</ex>gnantem ascivit, <ex>et</ex> natu<ex>m</ex> ex ea filiu<ex>m</ex></seg>
                                                     <seg rend="6,1024,362,1045">cuida<ex>m</ex> p<ex>ar</ex>ticipi archanor<ex>um</ex> tradidit occidend<ex>um</ex>. Q<ex>u</ex>i crede<ex>n</ex>s</seg>
                                                     <seg rend="6,1049,365,1072">regnu<ex>m</ex> t<ex>r</ex>ansituru<ex>m</ex> ad filia<ex>m</ex>, filiu<ex>m</ex> ip<ex>s</ex>i<ex>us</ex> v<ex>er</ex>itus e<ex>st</ex> occid<ex>er</ex>e <ex>et</ex></seg>
                                                     <seg rend="6,1074,357,1096">uni de pastorib<ex>us</ex> regis t<ex>r</ex>adidit p<ex>ar</ex>vulu<ex>m</ex> expone<ex>n</ex>du<ex>m</ex> i<ex>n</ex></seg>
-                                                    <seg rend="8,1098,367,1119">nemore. Qui cu<ex>m</ex> exposuiss<ex>et</ex> eu<ex>m</ex> <ex>et</ex> id i<ex>n</ex>dicass<ex>et</ex> uxori, q<ex>ue</ex> </seg>
-                                                    <seg rend="6,1120,366,1144">i<ex>n</ex> dieb<ex>us</ex> ill<ex>is</ex> pepererat, supplicavit ei m<ex>u</ex>l<ex>ie</ex>r ut ei par[vulu<ex>m</ex> deferret alend<ex>um</ex>…] </seg>
+                                                    <seg rend="8,1098,367,1119">nemore. Qui cu<ex>m</ex> exposuiss<ex>et</ex> eu<ex>m</ex> <ex>et</ex> id i<ex>n</ex>dicass<ex>et</ex> uxori, q<ex>ue</ex></seg>
+                                                    <seg rend="6,1120,366,1144">i<ex>n</ex> dieb<ex>us</ex> ill<ex>is</ex> pepererat, supplicavit ei m<ex>u</ex>l<ex>ie</ex>r ut ei par[vulu<ex>m</ex> deferret alend<ex>um</ex>…]</seg>
 			   </p>
 			</div>
-			<div type="transcription">
-			    <div type="texte">
+			<div type="texte">
+			    <div type="transcription">
                                                     <l>Testatur autem Epyfanius quod non sit</l>
                                                     <l>passus corporis mutationem sed men-</l>
                                                     <l>tis alienationem, et ablatus est</l>
@@ -429,6 +429,5 @@
 		    
 		</body>
 	</text>
-</TEI>
-
-			        
+</TEI>
+			        

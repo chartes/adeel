@@ -19,254 +19,273 @@
     <text>
         <front> </front>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
-                    <seg rend="85,45,135,111">IN </seg>
-                    <seg rend="156,39,266,112">NOMINE </seg>
-                    <seg rend="325,34,408,98">SANCte </seg>
-                    <seg rend="41,22,553,85">TRINITATIS, </seg>
+                    <seg rend="85,45,135,111">IN</seg>
+                    <seg rend="156,39,266,112">NOMINE</seg>
+                    <seg rend="325,34,408,98">SANCte</seg>
+                    <seg rend="41,22,553,85">TRINITATIS,</seg>
                     <seg rend="570,9,660,84">AMEN.</seg>
                     <seg n="poly" rend="81,123,84,163,510,137,508,116">Ego Lucdovicus,
-                        D<ex>e</ex>i gr<ex>ati</ex>a rex FRANCORUM </seg>
+ D<ex>e</ex>i gr<ex>ati</ex>a rex FRANCORUM</seg>
                     <seg n="poly" rend="518,103,524,138,708,127,706,94"><ex>et</ex> dux
-                            Aquitanor<ex>um</ex>.</seg>
+ Aquitanor<ex>um</ex>.</seg>
                     <seg n="poly" rend="87,172,91,210,409,188,411,164">Notum fieri
-                        volum<ex>us</ex> cunctis fidelib<ex>us</ex></seg>
+ volum<ex>us</ex> cunctis fidelib<ex>us</ex>
+</seg>
                     <seg n="poly" rend="416,167,415,189,713,173,708,145">tam futuris
-                            q<ex>u</ex>a<ex>m</ex> instantib<ex>us</ex>
-                        q<ex>uo</ex>d co<ex>n</ex>-</seg>
+ q<ex>u</ex>a<ex>m</ex> instantib<ex>us</ex>
+ q<ex>uo</ex>d co<ex>n</ex>-</seg>
                     <seg n="poly" rend="77,225,503,205,505,237,79,256">-silio <ex>et</ex>
-                            p<ex>re</ex>ce d<ex>omi</ex>næ <ex>et</ex> matris
-                            n<ex>ost</ex>ræ Adelaydis reginæ </seg>
+ p<ex>re</ex>ce d<ex>omi</ex>næ <ex>et</ex> matris
+ n<ex>ost</ex>ræ Adelaydis reginæ</seg>
                     <seg n="poly" rend="510,208,512,235,708,225,704,198"><ex>et</ex>
-                            plurimor<ex>um</ex> hominu<ex>m</ex> <ex>et</ex></seg>
+ plurimor<ex>um</ex> hominu<ex>m</ex>
+ <ex>et</ex></seg>
                     <seg n="poly" rend="80,277,82,304,416,283,411,261">fidelium
-                            n<ex>ost</ex>ror<ex>um</ex>, domu<ex>m</ex> quamdam <ex>et</ex> furnu<ex>m</ex></seg>
+ n<ex>ost</ex>ror<ex>um</ex>, domu<ex>m</ex> quamdam
+ <ex>et</ex> furnu<ex>m</ex>
+</seg>
                     <seg n="poly" rend="420,261,421,284,723,271,718,250">in eadem domo quos
-                        Adelendis q<ex>uæ</ex> Genta</seg>
+ Adelendis q<ex>uæ</ex> Genta</seg>
                     <seg n="poly" rend="79,323,81,347,451,332,451,308"
-                            >cogno<ex>m</ex>i<ex>n</ex>at<ex>ur</ex>, Parisius in
-                        Foro novo, in loco videlic<ex>et</ex></seg>
+ >cogno<ex>m</ex>i<ex>n</ex>at<ex>ur</ex>, Parisius in
+ Foro novo, in loco videlic<ex>et</ex>
+</seg>
                     <seg n="poly" rend="459,306,462,331,727,321,725,299">qui in suburbio Parisiensi
-                        Cam-</seg>
+ Cam-</seg>
                     <seg n="poly" rend="78,371,83,398,512,379,512,352">-pellus
-                        appellat<ex>ur</ex>, de suo p<ex>ro</ex>prio edificavit <ex>et</ex> construxit </seg>
+ appellat<ex>ur</ex>, de suo p<ex>ro</ex>prio edificavit
+ <ex>et</ex> construxit</seg>
                     <seg n="poly" rend="518,350,518,375,721,367,723,342">cu<ex>m</ex>
-                            hospitib<ex>us</ex> in eadem do-</seg>
+ hospitib<ex>us</ex> in eadem do-</seg>
                     <seg n="poly" rend="84,415,81,437,506,424,507,399">-mo manentib<ex>us</ex>
-                        nos eidem Gentæ p<ex>er</ex>petuo ita
-                        co<ex>n</ex>cedim<ex>us</ex></seg>
+ nos eidem Gentæ p<ex>er</ex>petuo ita
+ co<ex>n</ex>cedim<ex>us</ex>
+</seg>
                     <seg n="poly" rend="511,399,511,421,734,410,733,391">q<ex>uo</ex>d
-                            q<ex>u</ex>ilibet famuli aut mi-</seg>
+ q<ex>u</ex>ilibet famuli aut mi-</seg>
                     <seg n="poly" rend="78,465,79,491,467,472,467,446">-nisteriales
-                        n<ex>ost</ex>ri ibi nullaten<ex>us</ex> manu<ex>m</ex>
-                        mittant, </seg>
+ n<ex>ost</ex>ri ibi nullaten<ex>us</ex> manu<ex>m</ex>
+ mittant,</seg>
                     <seg n="poly" rend="474,443,473,471,729,461,729,439">sed <ex>et</ex>
-                            dom<ex>us</ex> <ex>et</ex> furnus lib<ex>er</ex>i
-                        om<ex>n</ex>i<ex>n</ex>o</seg>
+ dom<ex>us</ex>
+ <ex>et</ex> furnus lib<ex>er</ex>i
+ om<ex>n</ex>i<ex>n</ex>o</seg>
                     <seg n="poly" rend="80,514,79,540,355,526,357,495">ab om<ex>n</ex>i
-                            co<ex>n</ex>suetudine <ex>et</ex> exactio<ex>n</ex>e </seg>
+ co<ex>n</ex>suetudine <ex>et</ex> exactio<ex>n</ex>e</seg>
                     <seg n="poly" rend="365,499,362,525,736,510,736,485">cu<ex>m</ex>
-                            hospitib<ex>us</ex> ibi manentib<ex>us</ex>
-                        p<ex>er</ex>petuo existant</seg>
+ hospitib<ex>us</ex> ibi manentib<ex>us</ex>
+ p<ex>er</ex>petuo existant</seg>
                     <seg n="poly" rend="81,562,78,591,402,573,402,550">neq<ex>ue</ex> ullo
-                            m<ex>od</ex>o aliq<ex>u</ex>is excepta
-                        p<ex>re</ex>dicta Genta </seg>
+ m<ex>od</ex>o aliq<ex>u</ex>is excepta
+ p<ex>re</ex>dicta Genta</seg>
                     <seg n="poly" rend="409,548,409,574,743,557,742,533">ibi aliq<ex>u</ex>id
-                        exigat aut potestate<ex>m</ex> aliqua<ex>m</ex></seg>
-                    <seg n="poly" rend="75,615,76,644,461,625,460,594">ibi exerceat <ex>et</ex> eidem Gentæ <ex>et</ex> successorib<ex>us</ex>
-                        suis </seg>
+ exigat aut potestate<ex>m</ex> aliqua<ex>m</ex></seg>
+                    <seg n="poly" rend="75,615,76,644,461,625,460,594">ibi exerceat
+ <ex>et</ex> eidem Gentæ <ex>et</ex> successorib<ex>us</ex>
+ suis</seg>
                     <seg n="poly" rend="466,596,465,626,742,609,747,581"
-                            >q<ex>u</ex>icq<ex>u</ex>id voluerint inde facere
-                            lib<ex>er</ex>e</seg>
+ >q<ex>u</ex>icq<ex>u</ex>id voluerint inde facere
+ lib<ex>er</ex>e</seg>
                     <seg n="poly" rend="78,662,79,690,425,670,429,648">liceat.
-                        Precipim<ex>us</ex> etiam ut idem furnus </seg>
+ Precipim<ex>us</ex> etiam ut idem furnus</seg>
                     <seg n="poly" rend="435,649,435,676,745,655,743,632">ita in
-                        p<ex>re</ex>dicto foro <ex>et</ex> loco solus <ex>et</ex>
-                            unic<ex>us</ex></seg>
+ p<ex>re</ex>dicto foro <ex>et</ex> loco solus <ex>et</ex>
+ unic<ex>us</ex></seg>
                     <seg n="poly" rend="74,704,76,739,376,727,376,695">p<ex>er</ex>petuo
-                            habeat<ex>ur</ex> q<ex>uo</ex>d
-                            nu<ex>n</ex>q<ex>u</ex>a<ex>m</ex> a
-                        nob<ex>is</ex> neq<ex>ue</ex></seg>
+ habeat<ex>ur</ex> q<ex>uo</ex>d
+ nu<ex>n</ex>q<ex>u</ex>a<ex>m</ex> a
+ nob<ex>is</ex> neq<ex>ue</ex>
+</seg>
                     <seg n="poly" rend="380,691,381,720,740,708,740,683">ab alio
-                        aliq<ex>uo</ex> furnus ibi ali<ex>us</ex>
-                        ullaten<ex>us</ex> construa-</seg>
+ aliq<ex>uo</ex> furnus ibi ali<ex>us</ex>
+ ullaten<ex>us</ex> construa-</seg>
                     <seg n="poly" rend="71,752,73,776,151,776,151,752">-tur.</seg>
                     <seg n="poly" rend="68,790,69,828,480,810,482,779">Q<ex>uo</ex>d ut
-                            p<ex>er</ex>petue stabilitatis optineat
-                            munim<ex>en</ex>tu<ex>m</ex>, </seg>
+ p<ex>er</ex>petue stabilitatis optineat
+ munim<ex>en</ex>tu<ex>m</ex>,</seg>
                     <seg n="poly" rend="486,783,487,813,739,804,740,778">p<ex>re</ex>senti
-                            sc<ex>r</ex>ipto memorie co<ex>m</ex>m<ex>en</ex>dari</seg>
+ sc<ex>r</ex>ipto memorie co<ex>m</ex>m<ex>en</ex>dari</seg>
                     <seg n="poly" rend="69,846,69,879,271,868,272,837"><ex>et</ex> sigilli
-                            n<ex>ost</ex>ri actoritate <ex>et</ex>
-                        no<ex>min</ex>is n<ex>ost</ex>ri karactere </seg>
+ n<ex>ost</ex>ri actoritate <ex>et</ex>
+ no<ex>min</ex>is n<ex>ost</ex>ri karactere</seg>
                     <seg n="poly" rend="277,836,274,867,699,851,698,826">corrob<ex>or</ex>ari
-                            p<ex>re</ex>cepimus.</seg>
+ p<ex>re</ex>cepimus.</seg>
                     <seg n="poly" rend="71,891,73,958,389,955,388,929,179,929,171,878"
-                        >Actu<ex>m</ex> Parisi<ex>us</ex>, in palatio
-                        n<ex>ost</ex>ro, </seg>
+ >Actu<ex>m</ex> Parisi<ex>us</ex>, in palatio
+ n<ex>ost</ex>ro,</seg>
                     <seg n="poly" rend="394,928,397,958,735,948,734,920">anno incarnati Verbi M° C°
-                        XXX° VII°,</seg>
+ XXX° VII°,</seg>
                     <seg n="poly" rend="74,972,76,1009,256,1002,257,965">regni n<ex>ost</ex>ri
-                        IIIIto,</seg>
+ IIIIto,</seg>
                     <seg n="poly" rend="72,1020,71,1050,322,1053,321,1021">astantib<ex>us</ex>
-                        in palatio n<ex>ost</ex>ro </seg>
+ in palatio n<ex>ost</ex>ro</seg>
                     <seg n="poly" rend="333,1022,334,1053,654,1047,654,1014">quor<ex>um</ex>
-                            no<ex>m</ex>i<ex>n</ex>a subtitula[ta] sunt <ex>et</ex> signa.</seg>
+ no<ex>m</ex>i<ex>n</ex>a subtitula[ta] sunt
+ <ex>et</ex> signa.</seg>
                     <seg n="poly" rend="71,1101,71,1139,567,1144,565,1109">Signu<ex>m</ex>
-                        Radulfi Viroma<ex>n</ex>dor<ex>um</ex> comitis <ex>et</ex>
-                        dapiferi n<ex>ost</ex>ri. </seg>
+ Radulfi Viroma<ex>n</ex>dor<ex>um</ex> comitis <ex>et</ex>
+ dapiferi n<ex>ost</ex>ri.</seg>
                     <seg n="poly" rend="585,1143,582,1104,728,1105,730,1149">S<ex>ignum</ex>
-                        Willelmi buti-</seg>
+ Willelmi buti-</seg>
                     <seg n="poly" rend="62,1153,61,1192,427,1195,428,1157">-c<ex>u</ex>larii.
-                            S<ex>ignum</ex> Hugonis constabularii. </seg>
+ S<ex>ignum</ex> Hugonis constabularii.</seg>
                     <seg n="poly" rend="433,1157,436,1195,702,1195,702,1164">S<ex>ignum</ex>
-                        Hugonis chamerarii.</seg>
+ Hugonis chamerarii.</seg>
                     <seg n="poly" rend="63,1331,64,1383,338,1388,339,1335">Data p<ex>er</ex>
-                        manum Algrini </seg>
+ manum Algrini</seg>
                     <seg n="poly" rend="422,1341,422,1388,515,1388,516,1343">cance-</seg>
                     <seg n="poly" rend="595,1343,596,1395,716,1393,714,1344">-larii.</seg>
                     <seg n="poly"
-                        rend="347,1222,346,1387,410,1387,408,1327,523,1329,523,1388,588,1390,602,1224,496,1225,498,1294,429,1293,435,1225"
-                        >[monogramme]</seg>
+ rend="347,1222,346,1387,410,1387,408,1327,523,1329,523,1388,588,1390,602,1224,496,1225,498,1294,429,1293,435,1225"
+ >[monogramme]</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <l>IN NOMINE SANCte TRINITATIS, AMEN.</l>
                     <l>Ego <term
-                            n="Louis VII, roi de France de 1137 à 1180, duc d&#x2019;Aquitaine du chef de son épouse Aliénor de 1137 à 1152."
-                            >Lucdovicus</term>, D<ex>e</ex>i gr<ex>ati</ex>a rex
-                        FRANCORUM <ex>et</ex>
+ n="Louis VII, roi de France de 1137 à 1180, duc d&#x2019;Aquitaine du chef de son épouse Aliénor de 1137 à 1152."
+ >Lucdovicus</term>, D<ex>e</ex>i gr<ex>ati</ex>a rex
+ FRANCORUM <ex>et</ex>
                     </l>
                     <l>dux Aquitanor<ex>um</ex>.</l>
                     <l>Notum fieri volum<ex>us</ex>
                     </l>
                     <l>cunctis fidelib<ex>us</ex> tam futuris
-                        q<ex>u</ex>a<ex>m</ex>
+ q<ex>u</ex>a<ex>m</ex>
                     </l>
                     <l>instantib<ex>us</ex> q<ex>uo</ex>d co<ex>n</ex>-</l>
                     <l> -silio <ex>et</ex> p<ex>re</ex>ce d<ex>omi</ex>næ </l>
                     <l><ex>et</ex> matris n<ex>ost</ex>ræ <term
-                            n="Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154."
-                            >Adelaydis</term> reginæ <ex>et</ex>
+ n="Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154."
+ >Adelaydis</term> reginæ <ex>et</ex>
                     </l>
-                    <l>plurimor<ex>um</ex> hominu<ex>m</ex> <ex>et</ex> fidelium </l>
-                    <l>n<ex>ost</ex>ror<ex>um</ex>, domu<ex>m</ex> quamdam <ex>et</ex> furnu<ex>m</ex> in </l>
+                    <l>plurimor<ex>um</ex> hominu<ex>m</ex>
+ <ex>et</ex> fidelium </l>
+                    <l>n<ex>ost</ex>ror<ex>um</ex>, domu<ex>m</ex> quamdam
+ <ex>et</ex> furnu<ex>m</ex> in </l>
                     <l>eadem domo quos <term
-                            n="Adelende la Gente, l&#x2019;une des quelques laïques non nobles parmi les mieux connus de l&#x2019;entourage royal. Épouse d&#x2019;Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l&#x2019;entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes."
-                            >Adelendis</term> q<ex>uæ</ex> Genta</l>
+ n="Adelende la Gente, l&#x2019;une des quelques laïques non nobles parmi les mieux connus de l&#x2019;entourage royal. Épouse d&#x2019;Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l&#x2019;entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes."
+ >Adelendis</term> q<ex>uæ</ex> Genta</l>
                     <l>cogno<ex>m</ex>i<ex>n</ex>at<ex>ur</ex>, Parisius in Foro
-                        novo, in </l>
+ novo, in </l>
                     <l>loco videlic<ex>et</ex> qui in suburbio Parisiensi </l>
                     <l><term
-                            n="Les Champeaux, dont le nom indique l&#x2019;origine rustique, sont le lieu des futures Halles, dont les bâtiments fixes ne sont pas encore construits, et qui seront intégrés au territoire urbain lors de l&#x2019;édification de l&#x2019;enceinte de Philippe Auguste."
-                            >Campellus</term> appellat<ex>ur</ex>, de suo
-                        p<ex>ro</ex>prio </l>
+ n="Les Champeaux, dont le nom indique l&#x2019;origine rustique, sont le lieu des futures Halles, dont les bâtiments fixes ne sont pas encore construits, et qui seront intégrés au territoire urbain lors de l&#x2019;édification de l&#x2019;enceinte de Philippe Auguste."
+ >Campellus</term> appellat<ex>ur</ex>, de suo
+ p<ex>ro</ex>prio </l>
                     <l>edificavit <ex>et</ex> construxit cu<ex>m</ex>
-                        hospitib<ex>us</ex> in </l>
+ hospitib<ex>us</ex> in </l>
                     <l>eadem domo manentib<ex>us</ex> nos eidem Gentæ </l>
                     <l>p<ex>er</ex>petuo ita co<ex>n</ex>cedim<ex>us</ex>
-                            q<ex>uo</ex>d q<ex>u</ex>ilibet </l>
+ q<ex>uo</ex>d q<ex>u</ex>ilibet </l>
                     <l>famuli aut ministeriales n<ex>ost</ex>ri ibi </l>
                     <l>nullaten<ex>us</ex> manu<ex>m</ex> mittant, sed <ex>et</ex>
-                            dom<ex>us</ex> <ex>et</ex>
+ dom<ex>us</ex>
+ <ex>et</ex>
                     </l>
                     <l>furnus lib<ex>er</ex>i om<ex>n</ex>i<ex>n</ex>o ab
-                            om<ex>n</ex>i co<ex>n</ex>suetudine </l>
+ om<ex>n</ex>i co<ex>n</ex>suetudine </l>
                     <l><ex>et</ex> exactio<ex>n</ex>e cu<ex>m</ex>
                         <term
-                            n="Hôte : nom générique ici donné au tenancier, occupant de la maison."
-                                >hospitib<ex>us</ex></term> ibi </l>
+ n="Hôte : nom générique ici donné au tenancier, occupant de la maison."
+ >hospitib<ex>us</ex></term> ibi </l>
                     <l>manentib<ex>us</ex> p<ex>er</ex>petuo existant
-                        neq<ex>ue</ex> ullo </l>
+ neq<ex>ue</ex> ullo </l>
                     <l>m<ex>od</ex>o aliq<ex>u</ex>is excepta p<ex>re</ex>dicta
-                        Genta ibi </l>
+ Genta ibi </l>
                     <l>aliq<ex>u</ex>id exigat aut potestate<ex>m</ex>
-                        aliqua<ex>m</ex> ibi </l>
+ aliqua<ex>m</ex> ibi </l>
                     <l>exerceat <ex>et</ex> eidem Gentæ <ex>et</ex>
-                        successorib<ex>us</ex>
+ successorib<ex>us</ex>
                     </l>
                     <l>suis q<ex>u</ex>icq<ex>u</ex>id voluerint inde facere
-                            lib<ex>er</ex>e</l>
+ lib<ex>er</ex>e</l>
                     <l>liceat. Precipim<ex>us</ex> etiam ut idem furnus ita </l>
-                    <l>in p<ex>re</ex>dicto foro <ex>et</ex> loco solus <ex>et</ex> unic<ex>us</ex></l>
+                    <l>in p<ex>re</ex>dicto foro <ex>et</ex> loco solus
+ <ex>et</ex> unic<ex>us</ex></l>
                     <l>p<ex>er</ex>petuo habeat<ex>ur</ex> q<ex>uo</ex>d
-                            nu<ex>n</ex>q<ex>u</ex>a<ex>m</ex> a
-                        nob<ex>is</ex>
+ nu<ex>n</ex>q<ex>u</ex>a<ex>m</ex> a
+ nob<ex>is</ex>
                     </l>
                     <l>neq<ex>ue</ex> ab alio aliq<ex>uo</ex> furnus ibi
-                        ali<ex>us</ex>
+ ali<ex>us</ex>
                     </l>
                     <l>ullaten<ex>us</ex> construatur. Q<ex>uo</ex>d ut
-                        p<ex>er</ex>petue </l>
+ p<ex>er</ex>petue </l>
                     <l>stabilitatis optineat munim<ex>en</ex>tu<ex>m</ex>,
-                        p<ex>re</ex>senti </l>
-                    <l>sc<ex>r</ex>ipto memorie co<ex>m</ex>m<ex>en</ex>dari <ex>et</ex> sigilli </l>
+ p<ex>re</ex>senti </l>
+                    <l>sc<ex>r</ex>ipto memorie co<ex>m</ex>m<ex>en</ex>dari
+ <ex>et</ex> sigilli </l>
                     <l>n<ex>ost</ex>ri actoritate <ex>et</ex> no<ex>min</ex>is
-                            n<ex>ost</ex>ri karactere </l>
+ n<ex>ost</ex>ri karactere </l>
                     <l>corrob<ex>or</ex>ari p<ex>re</ex>cepimus.</l>
                     <l/>
                     <l>Actu<ex>m</ex> Parisi<ex>us</ex>, in palatio
-                        n<ex>ost</ex>ro, anno </l>
+ n<ex>ost</ex>ro, anno </l>
                     <l>incarnati Verbi M° C° XXX° VII°, regni </l>
                     <l>n<ex>ost</ex>ri IIIIto, <term
-                            n="Formule stéréotypée d&#x2019;annonce des souscriptions (factices) des grands officiers. L&#x2019;ordre de souscription ici suivi s&#x2019;est imposé dans les années 1120."
-                                >astantib<ex>us</ex> in palatio n<ex>ost</ex>ro</term>
+ n="Formule stéréotypée d&#x2019;annonce des souscriptions (factices) des grands officiers. L&#x2019;ordre de souscription ici suivi s&#x2019;est imposé dans les années 1120."
+ >astantib<ex>us</ex> in palatio n<ex>ost</ex>ro</term>
                     </l>
-                    <l>quor<ex>um</ex> no<ex>m</ex>i<ex>n</ex>a subtitula[ta] sunt <ex>et</ex> signa.</l>
+                    <l>quor<ex>um</ex> no<ex>m</ex>i<ex>n</ex>a subtitula[ta] sunt
+ <ex>et</ex> signa.</l>
                     <l/>
                     <l>Signu<ex>m</ex>
                         <term
-                            n="Raoul de Vermandois, cousin germain de Louis VI, sénéchal de France de 1131 à sa mort en 1152, avec diverses vacances entre ces deux dates. Le sénéchal n&#x2019;était pas responsable que de l&#x2019;armée royale, mais encore de la justice et de la gestion domaniale."
-                            >Radulfi</term> Viroma<ex>n</ex>dor<ex>um</ex> comitis <ex>et</ex>
+ n="Raoul de Vermandois, cousin germain de Louis VI, sénéchal de France de 1131 à sa mort en 1152, avec diverses vacances entre ces deux dates. Le sénéchal n&#x2019;était pas responsable que de l&#x2019;armée royale, mais encore de la justice et de la gestion domaniale."
+ >Radulfi</term> Viroma<ex>n</ex>dor<ex>um</ex> comitis
+ <ex>et</ex>
                     </l>
                     <l>dapiferi n<ex>ost</ex>ri. S<ex>ignum</ex>
                         <term
-                            n="Guillaume « le Bouteiller » de Senlis, déjà en fonction sous Louis VI, reste en fonction jusqu&#x2019;au départ en croisade le 9 juin 1147. Sa famille, formée de riches chevaliers urbains, occupe la fonction de bouteiller depuis 1112 au moins et finit par en tirer son patronyme. Comme son nom l&#x2019;indique, le bouteiller est spécialement chargé de l&#x2019;approvisionnement de la cour en vin."
-                            >Willelmi</term>
+ n="Guillaume « le Bouteiller » de Senlis, déjà en fonction sous Louis VI, reste en fonction jusqu&#x2019;au départ en croisade le 9 juin 1147. Sa famille, formée de riches chevaliers urbains, occupe la fonction de bouteiller depuis 1112 au moins et finit par en tirer son patronyme. Comme son nom l&#x2019;indique, le bouteiller est spécialement chargé de l&#x2019;approvisionnement de la cour en vin."
+ >Willelmi</term>
                     </l>
                     <l>butic<ex>u</ex>larii. S<ex>ignum</ex>
                         <term
-                            n="Hugues le Borgne, connétable de 1118 à 1138. Le connétable, aux fonctions assez modestes jusqu&#x2019;à la vacance du dapiférat, dirige les écuries royales, les maréchaux et les palefreniers, s&#x2019;occupant donc des aspects matériels de l&#x2019;organisation militaire."
-                            >Hugonis</term> constabularii. </l>
+ n="Hugues le Borgne, connétable de 1118 à 1138. Le connétable, aux fonctions assez modestes jusqu&#x2019;à la vacance du dapiférat, dirige les écuries royales, les maréchaux et les palefreniers, s&#x2019;occupant donc des aspects matériels de l&#x2019;organisation militaire."
+ >Hugonis</term> constabularii. </l>
                     <l>S<ex>ignum</ex>
                         <term
-                            n="Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l&#x2019;amène à garder le trésor comme la personne du roi."
-                            >Hugonis</term> chamerarii.</l>
+ n="Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l&#x2019;amène à garder le trésor comme la personne du roi."
+ >Hugonis</term> chamerarii.</l>
                     <l/>
                     <l>Data <term
-                            n="La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s&#x2019;impose à compter des années 1112/1113 ; elle n&#x2019;est guère plus qu&#x2019;un décalque de la formule de «grande date» des actes pontificaux."
-                                >p<ex>er</ex> manum</term>
+ n="La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s&#x2019;impose à compter des années 1112/1113 ; elle n&#x2019;est guère plus qu&#x2019;un décalque de la formule de «grande date» des actes pontificaux."
+ >p<ex>er</ex> manum</term>
                         <term
-                            n="Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu&#x2019;en 1140. Il a été, avec plus de suite, chancelier de l&#x2019;église cathédrale de Paris de 1124 à sa mort en 1156/1157."
-                            >Algrini</term> <ex>monogramme</ex>
+ n="Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu&#x2019;en 1140. Il a été, avec plus de suite, chancelier de l&#x2019;église cathédrale de Paris de 1124 à sa mort en 1156/1157."
+ >Algrini</term>
+ <ex>monogramme</ex>
                     </l>
                     <l>cance-[monogramme]-larii.</l>
                 </div>
                 <div type="traduction">
                     <l>Au nom de la sainte Trinité, amen. Moi </l>
                     <l><term
-                            n="Louis VII, roi de France de 1137 à 1180, duc d&#x2019;Aquitaine du chef de son épouse Aliénor de 1137 à 1152."
-                            >Louis</term>, par la grâce de Dieu roi de France et </l>
+ n="Louis VII, roi de France de 1137 à 1180, duc d&#x2019;Aquitaine du chef de son épouse Aliénor de 1137 à 1152."
+ >Louis</term>, par la grâce de Dieu roi de France et </l>
                     <l>duc d'Aquitaine. Nous voulons que soit </l>
                     <l>connu de tous les fidèles, à venir comme </l>
                     <l>présents, que, sur le conseil et la prière de </l>
                     <l>notre dame et mère la reine <term
-                            n="Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154."
-                            >Adélaïde</term> et de </l>
+ n="Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154."
+ >Adélaïde</term> et de </l>
                     <l>plusieurs hommes nos fidèles, une certaine </l>
                     <l>maison et un four sis dans cette maison </l>
                     <l>qu'<term
-                            n="Adelende la Gente, l&#x2019;une des quelques laïques non nobles parmi les mieux connus de l&#x2019;entourage royal. Épouse d&#x2019;Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l&#x2019;entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes."
-                            >Adelende</term>, surnommée Gente, a de ses </l>
+ n="Adelende la Gente, l&#x2019;une des quelques laïques non nobles parmi les mieux connus de l&#x2019;entourage royal. Épouse d&#x2019;Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l&#x2019;entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes."
+ >Adelende</term>, surnommée Gente, a de ses </l>
                     <l>biens propres édifiés et construits à Paris, </l>
                     <l>au Marché neuf, c'est-à-dire au lieu dit </l>
                     <l><term
-                            n="Les Champeaux, dont le nom indique l&#x2019;origine rustique, sont le lieu des futures Halles, dont les bâtiments fixes ne sont pas encore construits, et qui seront intégrés au territoire urbain lors de l&#x2019;édification de l&#x2019;enceinte de Philippe Auguste."
-                            >Champeaux</term> au faubourg de Paris, avec les </l>
+ n="Les Champeaux, dont le nom indique l&#x2019;origine rustique, sont le lieu des futures Halles, dont les bâtiments fixes ne sont pas encore construits, et qui seront intégrés au territoire urbain lors de l&#x2019;édification de l&#x2019;enceinte de Philippe Auguste."
+ >Champeaux</term> au faubourg de Paris, avec les </l>
                     <l><term n="Hôte : nom générique ici donné au tenancier, occupant de la maison."
-                            >hôtes </term>qui demeurent dans la même maison, </l>
+ >hôtes </term>qui demeurent dans la même maison, </l>
                     <l>ont été par nous concédés à perpétuité à </l>
                     <l>ladite Gente, en sorte qu'aucun de nos </l>
                     <l>serviteurs et agents n'y porte jamais la </l>
@@ -292,199 +311,193 @@
                     <l/>
                     <l>Fait à Paris, en notre palais, l'an du Verbe </l>
                     <l>incarné 1137, de notre règne le 4<hi rend="italique">e</hi>, <term
-                            n="Formule stéréotypée d&#x2019;annonce des souscriptions (factices) des grands officiers. L&#x2019;ordre de souscription ici suivi s&#x2019;est imposé dans les années 1120."
-                            >se tenant</term>
+ n="Formule stéréotypée d&#x2019;annonce des souscriptions (factices) des grands officiers. L&#x2019;ordre de souscription ici suivi s&#x2019;est imposé dans les années 1120."
+ >se tenant</term>
                     </l>
                     <l><term
-                            n="Formule stéréotypée d&#x2019;annonce des souscriptions (factices) des grands officiers. L&#x2019;ordre de souscription ici suivi s&#x2019;est imposé dans les années 1120."
-                            >en notre palais</term> ceux dont les noms et </l>
+ n="Formule stéréotypée d&#x2019;annonce des souscriptions (factices) des grands officiers. L&#x2019;ordre de souscription ici suivi s&#x2019;est imposé dans les années 1120."
+ >en notre palais</term> ceux dont les noms et </l>
                     <l>seings sont ci-après déclinés.</l>
                     <l/>
                     <l>Seing de <term
-                            n="Raoul de Vermandois, cousin germain de Louis VI, sénéchal de France de 1131 à sa mort en 1152, avec diverses vacances entre ces deux dates. Le sénéchal n&#x2019;était pas responsable que de l&#x2019;armée royale, mais encore de la justice et de la gestion domaniale."
-                            >Raoul</term>, comte de Vermandois et </l>
+ n="Raoul de Vermandois, cousin germain de Louis VI, sénéchal de France de 1131 à sa mort en 1152, avec diverses vacances entre ces deux dates. Le sénéchal n&#x2019;était pas responsable que de l&#x2019;armée royale, mais encore de la justice et de la gestion domaniale."
+ >Raoul</term>, comte de Vermandois et </l>
                     <l>notre sénéchal. Seing de <term
-                            n="Guillaume «le Bouteiller» de Senlis, déjà en fonction sous Louis VI, reste en fonction jusqu&#x2019;au départ en croisade le 9 juin 1147. Sa famille, formée de riches chevaliers urbains, occupe la fonction de bouteiller depuis 1112 au moins et finit par en tirer son patronyme. Comme son nom l&#x2019;indique, le bouteiller est spécialement chargé de l&#x2019;approvisionnement de la cour en vin."
-                            >Guillaume</term>, </l>
+ n="Guillaume «le Bouteiller» de Senlis, déjà en fonction sous Louis VI, reste en fonction jusqu&#x2019;au départ en croisade le 9 juin 1147. Sa famille, formée de riches chevaliers urbains, occupe la fonction de bouteiller depuis 1112 au moins et finit par en tirer son patronyme. Comme son nom l&#x2019;indique, le bouteiller est spécialement chargé de l&#x2019;approvisionnement de la cour en vin."
+ >Guillaume</term>, </l>
                     <l>bouteiller. Seing de <term
-                            n="Hugues le Borgne, connétable de 1118 à 1138. Le connétable, aux fonctions assez modestes jusqu&#x2019;à la vacance du dapiférat, dirige les écuries royales, les maréchaux et les palefreniers, s&#x2019;occupant donc des aspects matériels de l&#x2019;organisation militaire."
-                            >Hugues</term>, connétable. </l>
+ n="Hugues le Borgne, connétable de 1118 à 1138. Le connétable, aux fonctions assez modestes jusqu&#x2019;à la vacance du dapiférat, dirige les écuries royales, les maréchaux et les palefreniers, s&#x2019;occupant donc des aspects matériels de l&#x2019;organisation militaire."
+ >Hugues</term>, connétable. </l>
                     <l>Seing de <term
-                            n="Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l&#x2019;amène à garder le trésor comme la personne du roi."
-                            >Hugues</term>, chambier.</l>
+ n="Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l&#x2019;amène à garder le trésor comme la personne du roi."
+ >Hugues</term>, chambier.</l>
                     <l/>
                     <l><term
-                            n="La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s&#x2019;impose à compter des années 1112/1113 ; elle n&#x2019;est guère plus qu&#x2019;un décalque de la formule de «grande date» des actes pontificaux."
-                            >Donné par la main</term> d'<term
-                            n="Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu&#x2019;en 1140. Il a été, avec plus de suite, chancelier de l&#x2019;église cathédrale de Paris de 1124 à sa mort en 1156/1157."
-                            >Algrin</term> (monogramme), </l>
+ n="La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s&#x2019;impose à compter des années 1112/1113 ; elle n&#x2019;est guère plus qu&#x2019;un décalque de la formule de «grande date» des actes pontificaux."
+ >Donné par la main</term> d'<term
+ n="Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu&#x2019;en 1140. Il a été, avec plus de suite, chancelier de l&#x2019;église cathédrale de Paris de 1124 à sa mort en 1156/1157."
+ >Algrin</term> (monogramme), </l>
                     <l>chance-(monogramme)-lier.</l>
                 </div>
                 <div type="commentaires">
                     <div>
                         <head>Conversion de la date</head>
                         <p>Les actes des rois de France, qui comportent assez régulièrement l'année
-                            de l'Incarnation depuis la fin du X<hi rend="sup">e</hi> siècle,
-                            restent difficiles à dater précisément avant le règne de Philippe
-                            Auguste, où l'on est sûr qu'ils emploient le style de Pâques et font
-                            commencer le décompte des années de règne au couronnement du roi du
-                            vivant de son père (on comptera ensuite sans faille du jour de la mort
-                            du prédécesseur).</p>
+ de l'Incarnation depuis la fin du X<hi rend="sup">e</hi> siècle,
+ restent difficiles à dater précisément avant le règne de Philippe
+ Auguste, où l'on est sûr qu'ils emploient le style de Pâques et font
+ commencer le décompte des années de règne au couronnement du roi du
+ vivant de son père (on comptera ensuite sans faille du jour de la mort
+ du prédécesseur).</p>
                         <p>Le comble de la difficulté est atteint sous le règne de Louis VII, où
-                            Achille Luchaire, il y a un siècle, a pu déterminer que la chancellerie
-                            a usé de quatre systèmes de décompte différent ; conclusions encore
-                            provisoires que les recherches en cours de Michel Nortier vont permettre
-                            d'affiner. Le présent acte en donne à première vue une illustration
-                            presque caricaturale: on sait bien que Louis VI est mort le 1<hi
-                                rend="exposant">er</hi> août 1137; or Louis VII, dans ce qui est
-                            (pour nous !) le « début » de son règne, dit ici en être déjà à sa
-                            quatrième année de règne. Ces recouvrements viennent bien sûr de la
-                            pratique, solidement ancrée chez les premiers Capétiens, de faire
-                            couronner et associer leur aîné dans leurs dernières années de règne,
-                            mais souvent par étapes. Il reste au diplomatiste à repérer par
-                            recoupement, et si possible à expliquer, les points de départ des
-                            computs. En l'état actuel des connaissances, le présent acte emprunte au
-                            système dit par Luchaire «mode B», dont le point de départ serait le
-                            mois de janvier 1134 (où seraient peut-être intervenus l'adoubement et
-                            l'association au trône du jeune Louis). Ce mode de décompte, en usage au
-                            début du règne de Louis VII, cédera assez vite la place au décompte à
-                            partir de la mort de Louis VI.</p>
+ Achille Luchaire, il y a un siècle, a pu déterminer que la chancellerie
+ a usé de quatre systèmes de décompte différent ; conclusions encore
+ provisoires que les recherches en cours de Michel Nortier vont permettre
+ d'affiner. Le présent acte en donne à première vue une illustration
+ presque caricaturale: on sait bien que Louis VI est mort le 1<hi
+ rend="exposant">er</hi> août 1137; or Louis VII, dans ce qui est
+ (pour nous !) le « début » de son règne, dit ici en être déjà à sa
+ quatrième année de règne. Ces recouvrements viennent bien sûr de la
+ pratique, solidement ancrée chez les premiers Capétiens, de faire
+ couronner et associer leur aîné dans leurs dernières années de règne,
+ mais souvent par étapes. Il reste au diplomatiste à repérer par
+ recoupement, et si possible à expliquer, les points de départ des
+ computs. En l'état actuel des connaissances, le présent acte emprunte au
+ système dit par Luchaire «mode B», dont le point de départ serait le
+ mois de janvier 1134 (où seraient peut-être intervenus l'adoubement et
+ l'association au trône du jeune Louis). Ce mode de décompte, en usage au
+ début du règne de Louis VII, cédera assez vite la place au décompte à
+ partir de la mort de Louis VI.</p>
                         <p>Récapitulons : l'acte est daté de 1137 (a.st.), soit d'une période qui,
-                            compte tenu de notre ignorance des styles, court de Noël 1136/Pâques
-                            1137 à Noël 1137/Pâques 1138; il est postérieur au 1<hi rend="exposant"
-                                >er</hi> août 1137, date de la mort de Louis VI (l'association au
-                            trône ne permet jamais à l'héritier de délivrer des actes indépendamment
-                            de son père); et enfin, d'après l'année de règne, il est compris entre
-                            janvier 1137 et janvier 1138. Ni l'itinéraire du roi, ni les noms des
-                            grands officiers ne permettent d'affiner la fourchette 1<hi
-                                rend="exposant">er</hi> août 1137-janvier 1138.</p>
+ compte tenu de notre ignorance des styles, court de Noël 1136/Pâques
+ 1137 à Noël 1137/Pâques 1138; il est postérieur au 1<hi rend="exposant"
+ >er</hi> août 1137, date de la mort de Louis VI (l'association au
+ trône ne permet jamais à l'héritier de délivrer des actes indépendamment
+ de son père); et enfin, d'après l'année de règne, il est compris entre
+ janvier 1137 et janvier 1138. Ni l'itinéraire du roi, ni les noms des
+ grands officiers ne permettent d'affiner la fourchette 1<hi
+ rend="exposant">er</hi> août 1137-janvier 1138.</p>
                     </div>
                 </div>
                 <div type="regeste">
                     <head>1137 [1<hi rend="sup">er</hi> août-1138, janvier]. - Paris, palais
-                        royal.</head>
+ royal.</head>
                     <p>Le roi Louis VII, à la demande de sa mère Adélaïde, exempte de tous droits la
-                        maison et le four qu'Adelende la Gente a fait construire au marché neuf des
-                        Champeaux, au faubourg de Paris, avec ses hôtes. Le four sera le seul du
-                        marché.</p>
+ maison et le four qu'Adelende la Gente a fait construire au marché neuf des
+ Champeaux, au faubourg de Paris, avec ses hôtes. Le four sera le seul du
+ marché.</p>
                     <div type="precision">
                         <p>L'acte est recensé dans Achille Luchaire, <hi rend="italique">Études sur
-                                les actes de Louis VII</hi>, Paris, 1885, n° 4. - Il est édité par
-                            Robert de Lasteyrie, <hi rend="italique">Cartulaire général de
-                            Paris</hi>, t. I, Paris, 1887, n° 267, p. 263.</p>
+ les actes de Louis VII</hi>, Paris, 1885, n° 4. - Il est édité par
+ Robert de Lasteyrie, <hi rend="italique">Cartulaire général de
+ Paris</hi>, t. I, Paris, 1887, n° 267, p. 263.</p>
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="diplomatique">
+            <div type="diplomatic">
                 <head>Commentaire diplomatique</head>
                 <div>
                     <head>Caractères externes</head>
-                    <div type="recommandation">
-                        <p>Passer la souris sur les cercles rouges pour des commentaires de
-                        détail</p>
-                    </div>
+                    
                     <div>
                         <p>
                             <figure rend="53/faxexternes.jpg">
                                 <figDesc>
                                     <seg type="circle" rend="181,32,19">Lettres allongées (le “-te”
-                                        après une ligature “-ct-” y échappe).</seg>
+ après une ligature “-ct-” y échappe).</seg>
                                     <seg type="circle" rend="229,30,17">Lettres conjointes : un
-                                        élément commun au “t” et au “r”.</seg>
+ élément commun au “t” et au “r”.</seg>
                                     <seg type="rect" rend="197,57,257,74">Lettres capitales.</seg>
                                     <seg type="circle" rend="351,154,13">Contrairement à ses usages
-                                        postérieurs, la chancellerie n?interdit pas encore les
-                                        coupures de mots en fin de ligne. Les coupures sont
-                                        inégalement signalées par un trait d?union (2 cas contre 4).</seg>
+ postérieurs, la chancellerie n?interdit pas encore les
+ coupures de mots en fin de ligne. Les coupures sont
+ inégalement signalées par un trait d?union (2 cas contre 4).</seg>
                                     <seg type="circle" rend="57,231,18">Ligature “-st-” allongée
-                                        (trait d?influence pontificale).</seg>
+ (trait d?influence pontificale).</seg>
                                     <seg type="circle" rend="68,381,11">Point virgule de clôture du
-                                        discours (alterne avec le point, avec une valeur apparemment
-                                        renforcée).</seg>
+ discours (alterne avec le point, avec une valeur apparemment
+ renforcée).</seg>
                                     <seg type="circle" rend="233,655,77">Monogramme, très proche de
-                                        celui de Louis VI et, plus loin, de celui de Louis le Pieux.
-                                        La structure porteuse, en forme de H, impose de lire le nom
-                                        à l?ancienne, “Hludovicus”.</seg>
+ celui de Louis VI et, plus loin, de celui de Louis le Pieux.
+ La structure porteuse, en forme de H, impose de lire le nom
+ à l?ancienne, “Hludovicus”.</seg>
                                     <seg type="circle" rend="187,761,38">Attache du sceau.</seg>
                                 </figDesc>
                             </figure>
                        </p>
                         <p>L’acte se distingue au premier coup d’œil par sa solennité (allure
-                            épigraphique de la première ligne, qui correspond à l’invocation ;
-                            somptueux monogramme royal ; traitement graphique soigné). Cet apprêt
-                            répond à l’appel à la perpétuité répété au fil du texte, pour désigner
-                            la production la plus solennelle de la chancellerie capétienne, le «
-                            diplôme ». Pourtant, même s’il est d’assez grandes dimensions, le
-                            parchemin est moins vaste que d’autres. La disproportion entre hauteur
-                            et largeur, au profit de la hauteur, est assez générale depuis Philippe
-                                I<hi rend="sup">er</hi> et disparaîtra au fil du XII<hi
-                                rend="exposant">e</hi> siècle, mais elle est ici exceptionnelle
-                            (l’acte est deux fois plus haut que large, alors que la moitié des
-                            originaux de Louis VI sont dans un rapport 1 à 1,2 pour 1, et le quart
-                            seulement dans un rapport 1,2 à 1,4 pour 1). Cette étroitesse, comme
-                            l’inexistence des marges, est un marqueur du caractère ponctuel de la
-                            concession, même perpétuelle et emphatique. Autres traits typiques de la
-                            graphie et de la mise en page dans ces décennies : l’emploi de “e”
-                            cédillés, parfois à contretemps (æxactione), la recherche de symétrie,
-                            le découpage du texte en plusieurs alinéas.</p>
+ épigraphique de la première ligne, qui correspond à l’invocation ;
+ somptueux monogramme royal ; traitement graphique soigné). Cet apprêt
+ répond à l’appel à la perpétuité répété au fil du texte, pour désigner
+ la production la plus solennelle de la chancellerie capétienne, le «
+ diplôme ». Pourtant, même s’il est d’assez grandes dimensions, le
+ parchemin est moins vaste que d’autres. La disproportion entre hauteur
+ et largeur, au profit de la hauteur, est assez générale depuis Philippe
+ I<hi rend="sup">er</hi> et disparaîtra au fil du XII<hi
+ rend="exposant">e</hi> siècle, mais elle est ici exceptionnelle
+ (l’acte est deux fois plus haut que large, alors que la moitié des
+ originaux de Louis VI sont dans un rapport 1 à 1,2 pour 1, et le quart
+ seulement dans un rapport 1,2 à 1,4 pour 1). Cette étroitesse, comme
+ l’inexistence des marges, est un marqueur du caractère ponctuel de la
+ concession, même perpétuelle et emphatique. Autres traits typiques de la
+ graphie et de la mise en page dans ces décennies : l’emploi de “e”
+ cédillés, parfois à contretemps (æxactione), la recherche de symétrie,
+ le découpage du texte en plusieurs alinéas.</p>
                     </div>
                 </div>
                 <div>
                     <head>Parties du discours</head>
-                    <div type="recommandation">
-                        <p>Passer la souris sur le texte pour obtenir des commentaires de
-                        détail</p>
-                    </div>
+                    
                     <div>
                         <p>
                             <seg corresp="invocation">In nomine sancte
-                                Trinitatis, amen.<note id="invocation">Invocation
-                                    verbale.</note></seg>
+ Trinitatis, amen.<note id="invocation">Invocation
+ verbale.</note></seg>
                             <seg corresp="suscription">Ego Lucdovicus, Dei
-                                gratia rex Francorum et dux Aquitanorum.<note id="suscription"
-                                   >Suscription.</note></seg>
+ gratia rex Francorum et dux Aquitanorum.<note id="suscription"
+ >Suscription.</note></seg>
                             <seg corresp="notification">Notum fieri volumus
-                                cunctis fidelibus tam futuris quam instantibus quod<note
-                                    id="notification">Notification universelle.</note></seg>
+ cunctis fidelibus tam futuris quam instantibus quod<note
+ id="notification">Notification universelle.</note></seg>
                             <seg corresp="dispositif">consilio et prece dominæ
-                                et matris nostræ Adelaydis reginæ et plurimorum hominum et fidelium
-                                nostrorum, domum quamdam et furnum in eadem domo quos Adelendis quæ
-                                Genta cognominatur, Parisius in Foro novo, in loco videlicet qui in
-                                suburbio Parisiensi Campellus appellatur, de suo proprio edificavit
-                                et construxit cum hospitibus in eadem domo manentibus nos eidem
-                                Gentæ perpetuo ita concedimus quod quilibet famuli aut ministeriales
-                                nostri ibi nullatenus manum mittant, sed et domus et furnus liberi
-                                omnino ab omni consuetudine et æxactione cum hospitibus ibi
-                                manentibus perpetuo existant neque ullo modo aliquis excepta
-                                predicta Genta ibi aliquid exigat aut potestatem aliquam ibi
-                                exerceat et eidem Gentæ et successoribus suis quicquid voluerint
-                                inde facere libere liceat. Precipimus etiam ut idem furnus ita in
-                                predicto foro et loco solus et unicus perpetuo habeatur quod nunquam
-                                a nobis neque ab alio aliquo furnus ibi alius ullatenus
-                                    construatur.<note id="dispositif"
-                                >Dispositif.</note></seg>
+ et matris nostræ Adelaydis reginæ et plurimorum hominum et fidelium
+ nostrorum, domum quamdam et furnum in eadem domo quos Adelendis quæ
+ Genta cognominatur, Parisius in Foro novo, in loco videlicet qui in
+ suburbio Parisiensi Campellus appellatur, de suo proprio edificavit
+ et construxit cum hospitibus in eadem domo manentibus nos eidem
+ Gentæ perpetuo ita concedimus quod quilibet famuli aut ministeriales
+ nostri ibi nullatenus manum mittant, sed et domus et furnus liberi
+ omnino ab omni consuetudine et æxactione cum hospitibus ibi
+ manentibus perpetuo existant neque ullo modo aliquis excepta
+ predicta Genta ibi aliquid exigat aut potestatem aliquam ibi
+ exerceat et eidem Gentæ et successoribus suis quicquid voluerint
+ inde facere libere liceat. Precipimus etiam ut idem furnus ita in
+ predicto foro et loco solus et unicus perpetuo habeatur quod nunquam
+ a nobis neque ab alio aliquo furnus ibi alius ullatenus
+ construatur.<note id="dispositif"
+ >Dispositif.</note></seg>
                             <seg corresp="corroboration">Quod ut perpetue
-                                stabilitatis optineat munimentum, presenti scripto memorie
-                                commendari et sigilli nostri actoritate et nominis nostri karactere
-                                corroborari precepimus.<note id="corroboration"
-                                    >Corroboration, avec annonce du sceau et du monogramme.</note></seg>
+ stabilitatis optineat munimentum, presenti scripto memorie
+ commendari et sigilli nostri actoritate et nominis nostri karactere
+ corroborari precepimus.<note id="corroboration"
+ >Corroboration, avec annonce du sceau et du monogramme.</note></seg>
                             <seg corresp="date">Actum Parisius, in palatio
-                                nostro, anno incarnati Verbi M° C° XXX° VII°, regni nostri
-                                    IIIIto,<note id="date">Date de lieu et de
-                                temps.</note></seg>
+ nostro, anno incarnati Verbi M° C° XXX° VII°, regni nostri
+ IIIIto,<note id="date">Date de lieu et de
+ temps.</note></seg>
                             <seg corresp="annonce">astantibus in palatio nostro
-                                quorum nomina subtitula[ta] sunt et signa.<note id="annonce"
-                                   >Annonce de la souscription des grands
-                                officiers.</note></seg>
+ quorum nomina subtitula[ta] sunt et signa.<note id="annonce"
+ >Annonce de la souscription des grands
+ officiers.</note></seg>
                             <seg corresp="souscription">Signum Radulfi
-                                Viromandorum comitis et dapiferi nostri. Signum Willelmi
-                                buticularii. Signum Hugonis constabularii. Signum Hugonis
-                                    chamerarii.<note id="souscription">Souscription des
-                                    grands officiers.</note></seg>
+ Viromandorum comitis et dapiferi nostri. Signum Willelmi
+ buticularii. Signum Hugonis constabularii. Signum Hugonis
+ chamerarii.<note id="souscription">Souscription des
+ grands officiers.</note></seg>
                             <seg corresp="monogramme">Data per manum Algrini
-                                (monogramme) cance-(monogramme)-larii.<note id="monogramme"
-                                   >Monogramme enchâssé dans la recognition de
-                                    chancellerie.</note></seg>
+ (monogramme) cance-(monogramme)-larii.<note id="monogramme"
+ >Monogramme enchâssé dans la recognition de
+ chancellerie.</note></seg>
                        </p>
 
                     </div>
@@ -494,49 +507,49 @@
                     <head>Interprétation</head>
                     <div>
                         <p>Le style de l’acte est caractéristique, par l’emphase séculaire qui
-                            accompagne l’expression de la volonté royale mais aussi par la recherche
-                            de précision, plus récente, dans la description et la localisation des
-                            biens visés, dans la désignation des lieux et des personnes, volontiers
-                            accompagnés de “surnoms” (<hi rend="i">que cognominatur</hi>, <hi
-                                rend="i">qui appellatur</hi>...).</p>
+ accompagne l’expression de la volonté royale mais aussi par la recherche
+ de précision, plus récente, dans la description et la localisation des
+ biens visés, dans la désignation des lieux et des personnes, volontiers
+ accompagnés de “surnoms” (<hi rend="i">que cognominatur</hi>, <hi
+ rend="i">qui appellatur</hi>...).</p>
                         <p>Comme l’écriture et la mise en page, la langue et l’organisation du
-                            discours montrent combien le diplôme capétien s’est créé une tradition
-                            en modifiant par touches subtiles, sans césure forte, le précepte
-                            carolingien, dont on a gardé première ligne et lettres allongées,
-                            monogramme, formules diverses, mais que l’on a aussi sans cesse remanié
-                            (abandon du chrismon, intrusion du pronom personnel dans la suscription,
-                            changement de nature de la formule d’encadrement du monogramme...), en
-                            puisant à toutes les sources, de l’acte « privé » (souscriptions) à
-                            l’acte pontifical (ligatures, grande date...). On pourrait formule après
-                            formule dégager une stratigraphie de ces importations, et, comme pour la
-                            mise en page, souligner l’importance du règne de Philippe I<hi
-                                rend="exposant">er</hi> (format, formule d’annonce du monogramme,
-                            des souscriptions de grands officiers...).</p>
+ discours montrent combien le diplôme capétien s’est créé une tradition
+ en modifiant par touches subtiles, sans césure forte, le précepte
+ carolingien, dont on a gardé première ligne et lettres allongées,
+ monogramme, formules diverses, mais que l’on a aussi sans cesse remanié
+ (abandon du chrismon, intrusion du pronom personnel dans la suscription,
+ changement de nature de la formule d’encadrement du monogramme...), en
+ puisant à toutes les sources, de l’acte « privé » (souscriptions) à
+ l’acte pontifical (ligatures, grande date...). On pourrait formule après
+ formule dégager une stratigraphie de ces importations, et, comme pour la
+ mise en page, souligner l’importance du règne de Philippe I<hi
+ rend="exposant">er</hi> (format, formule d’annonce du monogramme,
+ des souscriptions de grands officiers...).</p>
                         <p>Assez représentatif, donc, d’une production progressivement plus
-                            nombreuse et plus normée (mais, toutes sources confondues, l’on
-                            n’arrivera sans doute jamais à recenser un millier d’actes pour le long
-                            règne de Louis VII), ce document est aussi assez exceptionnel en ce que
-                            son bénéficiaire est un laïque, et plus encore une femme.</p>
+ nombreuse et plus normée (mais, toutes sources confondues, l’on
+ n’arrivera sans doute jamais à recenser un millier d’actes pour le long
+ règne de Louis VII), ce document est aussi assez exceptionnel en ce que
+ son bénéficiaire est un laïque, et plus encore une femme.</p>
                         <p>Il ne nous est bien sûr connu que pour avoir été transmis par un fonds
-                            d’archives ecclésiastique, celui du prieuré clunisien de
-                            Saint-Martin-des-Champs, qui a recueilli dans son patrimoine le petit
-                            îlot d’immunité créé par le roi, dit plus tard « fief de la Rapée ». Il
-                            reste que, en 1137/1138, l’acte est exclusivement passé entre laïques,
-                            débarrassé donc du possible parasitage de la mise par écrit par le
-                            bénéficiaire ecclésiastique.</p>
+ d’archives ecclésiastique, celui du prieuré clunisien de
+ Saint-Martin-des-Champs, qui a recueilli dans son patrimoine le petit
+ îlot d’immunité créé par le roi, dit plus tard « fief de la Rapée ». Il
+ reste que, en 1137/1138, l’acte est exclusivement passé entre laïques,
+ débarrassé donc du possible parasitage de la mise par écrit par le
+ bénéficiaire ecclésiastique.</p>
                         <p>Cela ne veut pas dire qu’il donne à voir un « pur » produit du travail de
-                            la chancellerie royale, moins encore une parole laïque. La «
-                            chancellerie », pour autant que l’on puisse plaquer une réalité
-                            institutionnelle ferme sur le groupe de chapelains et de clercs qui
-                            mettent par écrit les paroles royales, est entièrement modelée par les
-                            usages d’écriture de quelques groupes, de quelques établissements, pôles
-                            culturels proches du roi — selon les propres origines du chancelier, la
-                            cathédrale Notre-Dame de Paris, l’abbaye Saint-Victor, à l’occasion
-                            Saint-Denis, ou ponctuellement d’autres encore. Dans le patron créé par
-                            leurs prédécesseurs des siècles passés, ils insufflent leurs propres
-                            habitudes graphiques, leurs tics lexicaux, le reflet de leur culture et
-                            de leurs idéaux, comme ils tendent au souverain le miroir qu’ils ont
-                            eux-mêmes poli de la grandeur et des devoirs du roi chrétien.</p>
+ la chancellerie royale, moins encore une parole laïque. La «
+ chancellerie », pour autant que l’on puisse plaquer une réalité
+ institutionnelle ferme sur le groupe de chapelains et de clercs qui
+ mettent par écrit les paroles royales, est entièrement modelée par les
+ usages d’écriture de quelques groupes, de quelques établissements, pôles
+ culturels proches du roi — selon les propres origines du chancelier, la
+ cathédrale Notre-Dame de Paris, l’abbaye Saint-Victor, à l’occasion
+ Saint-Denis, ou ponctuellement d’autres encore. Dans le patron créé par
+ leurs prédécesseurs des siècles passés, ils insufflent leurs propres
+ habitudes graphiques, leurs tics lexicaux, le reflet de leur culture et
+ de leurs idéaux, comme ils tendent au souverain le miroir qu’ils ont
+ eux-mêmes poli de la grandeur et des devoirs du roi chrétien.</p>
                     </div>
                 </div>
             </div>

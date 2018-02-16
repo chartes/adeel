@@ -19,236 +19,110 @@
     <text>
         <front> </front>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
-                    <seg n="poly" rend="45,84,51,22,458,68,458,95">Les gens des comptes du roy
-                            n<ex>ost</ex>re s<ex>eigneur</ex> a Paris </seg>
-                    <seg rend="467,58,1097,100">et les co<ex>m</ex>missaires et generaulz
-                            gouv<ex>er</ex>neurs de toutes les finan<ex>ces</ex>
-                            dud<ex>it</ex> s<ex>eigneur</ex></seg>
-                    <seg n="poly" rend="54,112,54,88,429,99,428,122">tant en Langue d&#x2019;oïl
-                            co<ex>m</ex>me en Langue d&#x2019;oc, . . </seg>
-                    <seg rend="434,100,1081,127">au bailli de Vermendois, aus receveur et procureur
-                        du roy n<ex>ost</ex>re s<ex>eigneur</ex> yllec,</seg>
-                    <seg n="poly" rend="61,135,62,115,508,128,504,150">salut. Veues par nous les
-                            l<ex>ett</ex>res royaulz cy attach<ex>ees</ex></seg>
-                    <seg rend="510,131,1091,155">soubz l&#x2019;un de noz signez, par lesqueles
-                        et pour les causes co<ex>n</ex>tenues</seg>
-                    <seg n="poly" rend="59,143,523,159,523,179,58,166">en ycelles le roy
-                        n<ex>ost</ex>redit s<ex>eigneur</ex> a donné, cedé <ex>et</ex> transporté </seg>
-                    <seg rend="527,159,1078,183">a mons<ex>eigneur</ex> le conte de Charrolois
-                        et a madame Michielle de</seg>
-                    <seg n="poly" rend="55,195,57,171,532,189,526,208">France, sa compaigne, et a
-                            ch<ex>asc</ex>un d&#x2019;eulz les chasteaulz, </seg>
+                    <seg n="poly" rend="45,84,51,22,458,68,458,95">Les gens des comptes du roy n<ex>ost</ex>re s<ex>eigneur</ex> a Paris</seg>
+                    <seg rend="467,58,1097,100">et les co<ex>m</ex>missaires et generaulz gouv<ex>er</ex>neurs de toutes les finan<ex>ces</ex> dud<ex>it</ex> s<ex>eigneur</ex></seg>
+                    <seg n="poly" rend="54,112,54,88,429,99,428,122">tant en Langue d&#x2019;oïl co<ex>m</ex>me en Langue d&#x2019;oc, . .</seg>
+                    <seg rend="434,100,1081,127">au bailli de Vermendois, aus receveur et procureur du roy n<ex>ost</ex>re s<ex>eigneur</ex> yllec,</seg>
+                    <seg n="poly" rend="61,135,62,115,508,128,504,150">salut. Veues par nous les l<ex>ett</ex>res royaulz cy attach<ex>ees</ex></seg>
+                    <seg rend="510,131,1091,155">soubz l&#x2019;un de noz signez, par lesqueles et pour les causes co<ex>n</ex>tenues</seg>
+                    <seg n="poly" rend="59,143,523,159,523,179,58,166">en ycelles le roy n<ex>ost</ex>redit s<ex>eigneur</ex> a donné, cedé <ex>et</ex> transporté</seg>
+                    <seg rend="527,159,1078,183">a mons<ex>eigneur</ex> le conte de Charrolois et a madame Michielle de</seg>
+                    <seg n="poly" rend="55,195,57,171,532,189,526,208">France, sa compaigne, et a ch<ex>asc</ex>un d&#x2019;eulz les chasteaulz,</seg>
                     <seg rend="537,186,1086,215">villes et chastellenies de Peronne, de Roye <ex>et</ex> Mondider, pour</seg>
-                    <seg n="poly" rend="61,196,54,220,583,240,589,219">d&#x2019;iceulz lieux,
-                        ensemble de touz les droiz, fruis, prouffiz, </seg>
+                    <seg n="poly" rend="61,196,54,220,583,240,589,219">d&#x2019;iceulz lieux, ensemble de touz les droiz, fruis, prouffiz,</seg>
                     <seg rend="506,216,1091,245">rentes, revenues et emolumens quelzconques que</seg>
-                    <seg n="poly" rend="57,232,55,251,524,267,526,251">y avoit et povoit avoir ledit
-                            s<ex>eigneur</ex>, tant en demaine </seg>
-                    <seg rend="530,247,1098,277"><ex>et</ex> aides co<ex>m</ex>me
-                            aut<ex>re</ex>ment, joÿr <ex>et</ex> user plainement et
-                            paisibl<ex>ement</ex></seg>
-                    <seg n="poly" rend="56,257,57,282,645,298,644,283">jusques a ce que lesdiz
-                        conjoincts soient entierement paiez </seg>
-                    <seg rend="650,280,1095,305">et contentez a une foiz de la so<ex>m</ex>me
-                        de CM escus</seg>
-                    <seg n="poly" rend="53,314,534,325,535,302,53,290">a eulz deue de reste et aussi
-                        de certains joyaulx </seg>
-                    <seg rend="538,306,1089,333">et estoremens a eulz promis et convencez par le roy
-                            n<ex>ost</ex>redit s<ex>eigneur</ex></seg>
-                    <seg n="poly" rend="51,320,48,337,465,353,468,329">au traictié de leur mariage,
-                            co<ex>m</ex>me plus a pl<ex>ain</ex></seg>
-                    <seg rend="470,335,1079,360">est contenu esdictes l<ex>ett</ex>res ; et
-                        pour considerac<ex>i</ex>on du contenu en</seg>
-                    <seg n="poly" rend="47,367,48,346,529,364,525,380">ycelles, nous vous mandons, <ex>et</ex> a ch<ex>asc</ex>un de vous </seg>
-                    <seg rend="533,361,1095,386">si co<ex>m</ex>me a lui
-                        app<ex>ar</ex>tiendra, que lesd<ex>ictes</ex>
-                        l<ex>ett</ex>res <ex>et</ex> le contenu en
-                        icell<ex>es</ex></seg>
-                    <seg n="poly" rend="47,395,46,372,481,390,476,411">vous ent<ex>er</ex>inez <ex>et</ex> acompliss<ex>ez</ex> de point en point </seg>
-                    <seg rend="484,387,1076,418">selon leur forme <ex>et</ex> teneur, tout en
-                        la maniere que le roy</seg>
-                    <seg n="poly" rend="49,403,49,425,419,439,418,419">n<ex>ost</ex>redit
-                            s<ex>eigneur</ex> le veult <ex>et</ex> mande par ycelles, </seg>
-                    <seg rend="424,418,1080,445">pourveu que lesdiz seigneur <ex>et</ex> dame
-                            s<ex>er</ex>ont tenuz, tant qu&#x2019;ilz</seg>
-                    <seg n="poly" rend="48,449,49,431,400,444,396,465">tiendront
-                        lesd<ex>ictes</ex> villes <ex>et</ex> chastellenies, </seg>
-                    <seg rend="402,449,1095,469">payer fiefz <ex>et</ex> aumosnes, gages
-                        d&#x2019;officiers, rep<ex>ar</ex>ac<ex>i</ex>ons
-                            nec<ex>essair</ex>es <ex>et</ex> aut<ex>re</ex>s</seg>
-                    <seg n="poly" rend="49,481,48,456,403,470,491,479,489,499">charges ordinaires
-                            accoustum<ex>ees</ex> d&#x2019;estre payees </seg>
-                    <seg rend="494,475,1097,504">sur lesd<ex>ictes</ex> villes <ex>et</ex> chastell<ex>enies</ex>. Donné a Paris, le XIIe jour
-                        d&#x2019;aoust,</seg>
+                    <seg n="poly" rend="57,232,55,251,524,267,526,251">y avoit et povoit avoir ledit s<ex>eigneur</ex>, tant en demaine</seg>
+                    <seg rend="530,247,1098,277"><ex>et</ex> aides co<ex>m</ex>me aut<ex>re</ex>ment, joÿr <ex>et</ex> user plainement et paisibl<ex>ement</ex></seg>
+                    <seg n="poly" rend="56,257,57,282,645,298,644,283">jusques a ce que lesdiz conjoincts soient entierement paiez</seg>
+                    <seg rend="650,280,1095,305">et contentez a une foiz de la so<ex>m</ex>me de CM escus</seg>
+                    <seg n="poly" rend="53,314,534,325,535,302,53,290">a eulz deue de reste et aussi de certains joyaulx</seg>
+                    <seg rend="538,306,1089,333">et estoremens a eulz promis et convencez par le roy n<ex>ost</ex>redit s<ex>eigneur</ex></seg>
+                    <seg n="poly" rend="51,320,48,337,465,353,468,329">au traictié de leur mariage, co<ex>m</ex>me plus a pl<ex>ain</ex></seg>
+                    <seg rend="470,335,1079,360">est contenu esdictes l<ex>ett</ex>res ; et pour considerac<ex>i</ex>on du contenu en</seg>
+                    <seg n="poly" rend="47,367,48,346,529,364,525,380">ycelles, nous vous mandons, <ex>et</ex> a ch<ex>asc</ex>un de vous</seg>
+                    <seg rend="533,361,1095,386">si co<ex>m</ex>me a lui app<ex>ar</ex>tiendra, que lesd<ex>ictes</ex> l<ex>ett</ex>res <ex>et</ex> le contenu en icell<ex>es</ex></seg>
+                    <seg n="poly" rend="47,395,46,372,481,390,476,411">vous ent<ex>er</ex>inez <ex>et</ex> acompliss<ex>ez</ex> de point en point</seg>
+                    <seg rend="484,387,1076,418">selon leur forme <ex>et</ex> teneur, tout en la maniere que le roy</seg>
+                    <seg n="poly" rend="49,403,49,425,419,439,418,419">n<ex>ost</ex>redit s<ex>eigneur</ex> le veult <ex>et</ex> mande par ycelles,</seg>
+                    <seg rend="424,418,1080,445">pourveu que lesdiz seigneur <ex>et</ex> dame s<ex>er</ex>ont tenuz, tant qu&#x2019;ilz</seg>
+                    <seg n="poly" rend="48,449,49,431,400,444,396,465">tiendront lesd<ex>ictes</ex> villes <ex>et</ex> chastellenies,</seg>
+                    <seg rend="402,449,1095,469">payer fiefz <ex>et</ex> aumosnes, gages d&#x2019;officiers, rep<ex>ar</ex>ac<ex>i</ex>ons nec<ex>essair</ex>es <ex>et</ex> aut<ex>re</ex>s</seg>
+                    <seg n="poly" rend="49,481,48,456,403,470,491,479,489,499">charges ordinaires accoustum<ex>ees</ex> d&#x2019;estre payees</seg>
+                    <seg rend="494,475,1097,504">sur lesd<ex>ictes</ex> villes <ex>et</ex> chastell<ex>enies</ex>. Donné a Paris, le XIIe jour d&#x2019;aoust,</seg>
                     <seg n="poly" rend="35,485,376,500,349,532,5,521">l&#x2019;an mil CCCC <ex>et</ex> dix huit.</seg>
                     <seg rend="860,520,1000,635">Le Begue.</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
-                    <l>Les <term
-                            n="Les &#34; gens des comptes &#34; ou, comme dit le roi, les &#34; gens de nos comptes &#34; (lat. gentes compotorum) ont gardé leur appellation primitive même après l&#x2019;institutionnalisation de la chambre des comptes, qu&#x2019;ils ont peuplée en 1320 ; leur compétence, d&#x2019;abord étendue à toutes les finances, s&#x2019;était réduite au contrôle des comptes et de la gestion du domaine."
-                            >gens des comptes</term> du roy n<ex>ost</ex>re
-                        s<ex>eigneur</ex> a Paris </l>
-                    <l>et les <term
-                            n="Alors que s&#x2019;étaient distingués généraux des finances (officiers créés en 1356 pour centraliser les aides) et trésoriers (apparus en 1295 pour organiser les mouvements de fonds et veiller, avec les gens des comptes, à la gestion du domaine), la réformation de l&#x2019;administration en 1418, sous influence bourguignonne, vint confier aux mêmes agents centraux (generaulz), à la fois permanents (gouverneurs) et temporaires (commissaires), toutes les finances, ordinaires et extraordinaires, dans tout le royaume et non dans des circonscriptions territoriales (tant en Langue d&#x2019;oïl comme en Langue d&#x2019;oc)."
-                                >co<ex>m</ex>missaires et generaulz
-                        gouv<ex>er</ex>neurs</term> de toutes les finan<ex>ces</ex>
-                            dud<ex>it</ex> s<ex>eigneur</ex></l>
-                    <l>tant en Langue d&#x2019;oïl co<ex>m</ex>me en Langue
-                        d&#x2019;oc, . . </l>
-                    <l>au bailli de Vermendois, aus <term
-                            n="Rouages essentiels dans l&#x2019;administration du bailliage ou de la sénéchaussée, le receveur centralise la gestion financière tandis que le procureur représente les intérêts du roi à la cour du bailli ou du sénéchal. Épaulant ce dernier, ces deux officiers échappent toutefois à sa tutelle pour être directement rattachés au roi."
-                            >receveur et procureur</term> du roy n<ex>ost</ex>re
-                            s<ex>eigneur</ex> yllec,</l>
-                    <l>salut. Veues par nous les <term
-                            n="L&#x2019;acte de Charles VI ici visé est daté du 8 août 1418 (École des chartes, f.-s. AF 252)."
-                                >l<ex>ett</ex>res royaulz</term> cy attach<ex>ees</ex>
+            <div type="texte">
+                <div type="transcription">
+                    <l>Les <term n="Les &#34; gens des comptes &#34; ou, comme dit le roi, les &#34; gens de nos comptes &#34; (lat. gentes compotorum) ont gardé leur appellation primitive même après l&#x2019;institutionnalisation de la chambre des comptes, qu&#x2019;ils ont peuplée en 1320 ; leur compétence, d&#x2019;abord étendue à toutes les finances, s&#x2019;était réduite au contrôle des comptes et de la gestion du domaine." >gens des comptes</term> du roy n<ex>ost</ex>re s<ex>eigneur</ex> a Paris </l>
+                    <l>et les <term n="Alors que s&#x2019;étaient distingués généraux des finances (officiers créés en 1356 pour centraliser les aides) et trésoriers (apparus en 1295 pour organiser les mouvements de fonds et veiller, avec les gens des comptes, à la gestion du domaine), la réformation de l&#x2019;administration en 1418, sous influence bourguignonne, vint confier aux mêmes agents centraux (generaulz), à la fois permanents (gouverneurs) et temporaires (commissaires), toutes les finances, ordinaires et extraordinaires, dans tout le royaume et non dans des circonscriptions territoriales (tant en Langue d&#x2019;oïl comme en Langue d&#x2019;oc)." >co<ex>m</ex>missaires et generaulz gouv<ex>er</ex>neurs</term> de toutes les finan<ex>ces</ex> dud<ex>it</ex> s<ex>eigneur</ex></l>
+                    <l>tant en Langue d&#x2019;oïl co<ex>m</ex>me en Langue d&#x2019;oc, . . </l>
+                    <l>au bailli de Vermendois, aus <term n="Rouages essentiels dans l&#x2019;administration du bailliage ou de la sénéchaussée, le receveur centralise la gestion financière tandis que le procureur représente les intérêts du roi à la cour du bailli ou du sénéchal. Épaulant ce dernier, ces deux officiers échappent toutefois à sa tutelle pour être directement rattachés au roi." >receveur et procureur</term> du roy n<ex>ost</ex>re s<ex>eigneur</ex> yllec,</l>
+                    <l>salut. Veues par nous les <term n="L&#x2019;acte de Charles VI ici visé est daté du 8 août 1418 (École des chartes, f.-s. AF 252)." >l<ex>ett</ex>res royaulz</term> cy attach<ex>ees</ex>
                     </l>
-                    <l>soubz l&#x2019;un de noz signez, par lesqueles et pour les causes
-                            co<ex>n</ex>tenues</l>
-                    <l>en ycelles le roy n<ex>ost</ex>redit s<ex>eigneur</ex> a donné,
-                        cedé <ex>et</ex> transporté </l>
-                    <l>a mons<ex>eigneur</ex> le conte de <term
-                            n="Le comté de Charolais était alors traditionnellement attribué au fils aîné du duc de Bourgogne. Le personnage ici concerné est Philippe de Bourgogne, fils de Jean sans Peur ; né en 1396, il succédera à son père en 1419."
-                            >Charrolois</term> et a madame <term
-                            n="Michelle, fille de Charles VI (+ 1422).">Michielle</term> de</l>
-                    <l>France, sa compaigne, et a ch<ex>asc</ex>un d&#x2019;eulz les
-                        chasteaulz, </l>
-                    <l>villes et chastellenies de <term n="Péronne, Somme, ch.-l. arr."
-                        >Peronne</term>, de <term n="Roye, Somme, ch.-l. cant.">Roye</term> <ex>et</ex>
+                    <l>soubz l&#x2019;un de noz signez, par lesqueles et pour les causes co<ex>n</ex>tenues</l>
+                    <l>en ycelles le roy n<ex>ost</ex>redit s<ex>eigneur</ex> a donné, cedé <ex>et</ex> transporté </l>
+                    <l>a mons<ex>eigneur</ex> le conte de <term n="Le comté de Charolais était alors traditionnellement attribué au fils aîné du duc de Bourgogne. Le personnage ici concerné est Philippe de Bourgogne, fils de Jean sans Peur ; né en 1396, il succédera à son père en 1419." >Charrolois</term> et a madame <term n="Michelle, fille de Charles VI (+ 1422).">Michielle</term> de</l>
+                    <l>France, sa compaigne, et a ch<ex>asc</ex>un d&#x2019;eulz les chasteaulz, </l>
+                    <l>villes et chastellenies de <term n="Péronne, Somme, ch.-l. arr." >Peronne</term>, de <term n="Roye, Somme, ch.-l. cant.">Roye</term> <ex>et</ex>
                         <term n="Montdidier, Somme, ch.-l. arr.">Mondider</term>, pour</l>
                     <l>d&#x2019;iceulz lieux, ensemble de touz les droiz, fruis, prouffiz, </l>
                     <l>rentes, revenues et emolumens quelzconques que</l>
-                    <l>y avoit et povoit avoir ledit s<ex>eigneur</ex>, tant en <term
-                            n="&#34; domaine et aides &#34; sont deux appellations génériques recouvrant les revenus ordinaires et l&#x2019;&#34; extraordinaire &#34;."
-                            >demaine </term></l>
-                    <l><term
-                            n="&#34; domaine et aides &#34; sont deux appellations génériques recouvrant les revenus ordinaires et l&#x2019;&#34; extraordinaire &#34;."
-                                ><ex>et</ex> aides</term> co<ex>m</ex>me
-                        aut<ex>re</ex>ment, joÿr <ex>et</ex> user plainement et
-                            paisibl<ex>ement</ex></l>
+                    <l>y avoit et povoit avoir ledit s<ex>eigneur</ex>, tant en <term n="&#34; domaine et aides &#34; sont deux appellations génériques recouvrant les revenus ordinaires et l&#x2019;&#34; extraordinaire &#34;." >demaine </term></l>
+                    <l><term n="&#34; domaine et aides &#34; sont deux appellations génériques recouvrant les revenus ordinaires et l&#x2019;&#34; extraordinaire &#34;." ><ex>et</ex> aides</term> co<ex>m</ex>me aut<ex>re</ex>ment, joÿr <ex>et</ex> user plainement et paisibl<ex>ement</ex></l>
                     <l>jusques a ce que lesdiz conjoincts soient entierement paiez </l>
-                    <l>et contentez a une foiz de la so<ex>m</ex>me de C<hi rend="exposant"
-                        >M</hi> escus</l>
+                    <l>et contentez a une foiz de la so<ex>m</ex>me de C<hi rend="exposant" >M</hi> escus</l>
                     <l>a eulz deue de reste et aussi de certains joyaulx </l>
-                    <l>et <term
-                            n="Les &#34; estoremens &#34; recouvrent une vaste gamme de biens meubles, tant les meubles au sens moderne que les fourrures, draps, etc."
-                            >estoremens</term> a eulz promis et convencez par le roy
-                        n<ex>ost</ex>redit s<ex>eigneur</ex></l>
-                    <l>au <term
-                            n="Le mariage a été conclu... en 1406. Aux délais en fait très communs apportés au versement de la dot se joignent ici les alternances de faveur et de défaveur du duc de Bourgogne. C&#x2019;est, de fait, après s&#x2019;être saisi des châtellenies (entre juin 1417 et juin 1418) et avoir regagné son influence à la cour que le duc imposa cet arrangement, qui ne faisait en réalité que légitimer sa conquête."
-                            >traictié de leur mariage</term>, co<ex>m</ex>me plus a
-                            pl<ex>ain</ex>
+                    <l>et <term n="Les &#34; estoremens &#34; recouvrent une vaste gamme de biens meubles, tant les meubles au sens moderne que les fourrures, draps, etc." >estoremens</term> a eulz promis et convencez par le roy n<ex>ost</ex>redit s<ex>eigneur</ex></l>
+                    <l>au <term n="Le mariage a été conclu... en 1406. Aux délais en fait très communs apportés au versement de la dot se joignent ici les alternances de faveur et de défaveur du duc de Bourgogne. C&#x2019;est, de fait, après s&#x2019;être saisi des châtellenies (entre juin 1417 et juin 1418) et avoir regagné son influence à la cour que le duc imposa cet arrangement, qui ne faisait en réalité que légitimer sa conquête." >traictié de leur mariage</term>, co<ex>m</ex>me plus a pl<ex>ain</ex>
                     </l>
-                    <l>est contenu esdictes l<ex>ett</ex>res ; et pour
-                        considerac<ex>i</ex>on du contenu en</l>
-                    <l>ycelles, nous vous mandons, <ex>et</ex> a ch<ex>asc</ex>un de
-                        vous </l>
-                    <l>si co<ex>m</ex>me a lui app<ex>ar</ex>tiendra, que
-                            lesd<ex>ictes</ex> l<ex>ett</ex>res <ex>et</ex> le
-                        contenu en icell<ex>es</ex></l>
-                    <l>vous ent<ex>er</ex>inez <ex>et</ex> acompliss<ex>ez</ex> de
-                        point en point </l>
+                    <l>est contenu esdictes l<ex>ett</ex>res ; et pour considerac<ex>i</ex>on du contenu en</l>
+                    <l>ycelles, nous vous mandons, <ex>et</ex> a ch<ex>asc</ex>un de vous </l>
+                    <l>si co<ex>m</ex>me a lui app<ex>ar</ex>tiendra, que lesd<ex>ictes</ex> l<ex>ett</ex>res <ex>et</ex> le contenu en icell<ex>es</ex></l>
+                    <l>vous ent<ex>er</ex>inez <ex>et</ex> acompliss<ex>ez</ex> de point en point </l>
                     <l>selon leur forme <ex>et</ex> teneur, tout en la maniere que le roy</l>
-                    <l>n<ex>ost</ex>redit s<ex>eigneur</ex> le veult <ex>et</ex>
-                        mande par ycelles, </l>
-                    <l>pourveu que lesdiz seigneur <ex>et</ex> dame s<ex>er</ex>ont
-                        tenuz, tant qu&#x2019;ilz</l>
+                    <l>n<ex>ost</ex>redit s<ex>eigneur</ex> le veult <ex>et</ex> mande par ycelles, </l>
+                    <l>pourveu que lesdiz seigneur <ex>et</ex> dame s<ex>er</ex>ont tenuz, tant qu&#x2019;ilz</l>
                     <l>tiendront lesd<ex>ictes</ex> villes <ex>et</ex> chastellenies, </l>
-                    <l>payer <term
-                            n="La longue énumération des &#34; fiefs &#34; [fiefs-rentes, mais aussi pensions et rentes à des particuliers] et &#34; aumônes &#34; [rentes aumônées à des maisons religieuses et établissements d&#x2019;assistance mais aussi à des serviteurs âgés ou à leurs veuves], des &#34; gages d&#x2019;officiers &#34;, des &#34; réparations &#34; [entretien des bâtiments et ouvrages royaux] et &#34; autres charges &#34; n&#x2019;est pas laissée au hasard : elle reprend les principales rubriques des comptabilités ordinaires des circonscriptions royales."
-                            >fiefz <ex>et</ex> aumosnes</term>, gages d&#x2019;officiers,
-                            rep<ex>ar</ex>ac<ex>i</ex>ons nec<ex>essair</ex>es <ex>et</ex> aut<ex>re</ex>s</l>
+                    <l>payer <term n="La longue énumération des &#34; fiefs &#34; [fiefs-rentes, mais aussi pensions et rentes à des particuliers] et &#34; aumônes &#34; [rentes aumônées à des maisons religieuses et établissements d&#x2019;assistance mais aussi à des serviteurs âgés ou à leurs veuves], des &#34; gages d&#x2019;officiers &#34;, des &#34; réparations &#34; [entretien des bâtiments et ouvrages royaux] et &#34; autres charges &#34; n&#x2019;est pas laissée au hasard : elle reprend les principales rubriques des comptabilités ordinaires des circonscriptions royales." >fiefz <ex>et</ex> aumosnes</term>, gages d&#x2019;officiers, rep<ex>ar</ex>ac<ex>i</ex>ons nec<ex>essair</ex>es <ex>et</ex> aut<ex>re</ex>s</l>
                     <l>charges ordinaires accoustum<ex>ees</ex> d&#x2019;estre payees </l>
-                    <l>sur lesd<ex>ictes</ex> villes <ex>et</ex>
-                        chastell<ex>enies</ex>. Donné a Paris, le XII<hi rend="exposant"
-                        >e</hi> jour d&#x2019;aoust,</l>
+                    <l>sur lesd<ex>ictes</ex> villes <ex>et</ex> chastell<ex>enies</ex>. Donné a Paris, le XII<hi rend="exposant" >e</hi> jour d&#x2019;aoust,</l>
                     <l>l&#x2019;an mil CCCC <ex>et</ex> dix huit.</l>
-                    <l><term
-                            n="Greffier de la Chambre des comptes, notaire et secrétaire du roi, Jean Le Bègue exerça de 1407 à sa mort en 1456. Sa signature a souvent été lue à tort &#34; Lexque &#34;, &#34; Lergue &#34; ou &#34; Leeque &#34;, mais il faut y distinguer à la fois &#34;Le&#34; et &#34;B&#34; : le &#34;L&#34; est conjoint avec la première partie du &#34;B&#34;, et le &#34;e&#34; est enclavé dans sa panse inférieure. Le paraphe qui suit est typique des signatures de notaires et secrétaires du roi."
-                            >Le Begue</term>.</l>
+                    <l><term n="Greffier de la Chambre des comptes, notaire et secrétaire du roi, Jean Le Bègue exerça de 1407 à sa mort en 1456. Sa signature a souvent été lue à tort &#34; Lexque &#34;, &#34; Lergue &#34; ou &#34; Leeque &#34;, mais il faut y distinguer à la fois &#34;Le&#34; et &#34;B&#34; : le &#34;L&#34; est conjoint avec la première partie du &#34;B&#34;, et le &#34;e&#34; est enclavé dans sa panse inférieure. Le paraphe qui suit est typique des signatures de notaires et secrétaires du roi." >Le Begue</term>.</l>
                 </div>
                 <div type="regeste">
                     <head>1418, 12 août.</head>
-                    <p>Lettres d&#x2019;attache, délivrées par les gens des comptes et les
-                        gouverneurs des finances, enjoignant le bailli de Vermandois
-                        d&#x2019;exécuter l&#x2019;acte par lequel le roi cède au comte de
-                        Charolais et à son épouse Michelle de France les châtellenies de Péronne,
-                        Roye et Montdidier, jusqu&#x2019;à ce que les revenus de celles-ci aient
-                        couvert le montant de la dot de Michelle, soit cent mille écus
-                        d&#x2019;or, divers objets précieux et biens meubles, promis au traité
-                        de mariage, à charge toutefois pour eux de régler les dépenses ordinaires
-                        des châtellenies.</p>
+                    <p>Lettres d&#x2019;attache, délivrées par les gens des comptes et les gouverneurs des finances, enjoignant le bailli de Vermandois d&#x2019;exécuter l&#x2019;acte par lequel le roi cède au comte de Charolais et à son épouse Michelle de France les châtellenies de Péronne, Roye et Montdidier, jusqu&#x2019;à ce que les revenus de celles-ci aient couvert le montant de la dot de Michelle, soit cent mille écus d&#x2019;or, divers objets précieux et biens meubles, promis au traité de mariage, à charge toutefois pour eux de régler les dépenses ordinaires des châtellenies.</p>
                 </div>
             </div>
-            <div type="commentaire" n="diplomatique">
+            <div type="diplomatic">
                 <head>Commentaire diplomatique</head>
                 <div>
                     <head>Caractères externes</head>
                     <div>
                         <div class="recommandation">
-                            <p>Passer la souris sur les cercles rouges pour des commentaires de
-                                détail</p>
+                            <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
                         </div>
                         <p>
                             <figure rend="40/faxexternes.jpg">
                                 <figDesc>
-                                    <seg type="circle" rend="67,50,10">Trait (issu de deux points
-                                        écrits cursivement) signalant l’ouverture de l’acte</seg>
-                                    <seg type="poly" rend="10,144,2,167,13,196,30,193,35,167,27,145"
-                                        >Tortil de parchemin qui passe dans l&#x2019;acte, et
-                                        l&#x2019;"attache" à l&#x2019;acte royal visé</seg>
-                                    <seg type="poly"
-                                        rend="63,138,84,156,87,194,62,219,36,196,38,153">Signet (ici
-                                        disparu) apposé sur un substrat de cire en croix ; couvrant
-                                        le tortil, il authentifie l’attache. C’est
-                                        traditionnellement le signet du plus haut en grade ou
-                                        ancienneté des auteurs de la lettre</seg>
-                                    <seg type="circle" rend="321,305,20">Parmi les signets des
-                                        autres auteurs de l’acte requis pour le scellement (ici en
-                                        tout six parmi tous les gens des comptes et généraux),
-                                        signet directement plaqué sur le support</seg>
-                                    <seg type="circle" rend="441,306,38">"Signet plaqué sur une
-                                        croix en cire, censée renforcer l’adhérence au support</seg>
-                                    <seg type="circle" rend="516,292,36">Signature du responsable de
-                                        la mise par écrit. Comme au bas des actes royaux, cette
-                                        signature est une mention hors-teneur de nature interne ;
-                                        elle ne confère aucune authenticité. À terme, dès le XVIe
-                                        siècle, elle gagnera la qualité de signe de validation</seg>
+                                    <seg type="circle" rend="67,50,10">Trait (issu de deux points écrits cursivement) signalant l’ouverture de l’acte</seg>
+                                    <seg type="poly" rend="10,144,2,167,13,196,30,193,35,167,27,145" >Tortil de parchemin qui passe dans l&#x2019;acte, et l&#x2019;"attache" à l&#x2019;acte royal visé</seg>
+                                    <seg type="poly" rend="63,138,84,156,87,194,62,219,36,196,38,153">Signet (ici disparu) apposé sur un substrat de cire en croix ; couvrant le tortil, il authentifie l’attache. C’est traditionnellement le signet du plus haut en grade ou ancienneté des auteurs de la lettre</seg>
+                                    <seg type="circle" rend="321,305,20">Parmi les signets des autres auteurs de l’acte requis pour le scellement (ici en tout six parmi tous les gens des comptes et généraux), signet directement plaqué sur le support</seg>
+                                    <seg type="circle" rend="441,306,38">"Signet plaqué sur une croix en cire, censée renforcer l’adhérence au support</seg>
+                                    <seg type="circle" rend="516,292,36">Signature du responsable de la mise par écrit. Comme au bas des actes royaux, cette signature est une mention hors-teneur de nature interne ; elle ne confère aucune authenticité. À terme, dès le XVIe siècle, elle gagnera la qualité de signe de validation</seg>
                                 </figDesc>
                             </figure>
-                       </p>
-
-
-
-
-                        <p>L’acte est sous influence directe de l’acte royal ; son format, sa
-                            justification (irrégulière à droite, mais aucun mot ne peut être coupé),
-                            son écriture et son style comme son adresse et l’absence de
-                            corroboration renvoient même avec insistance au type précis du
-                            mandement. Accompagnant un acte royal, dont il reprend largement la
-                            teneur, pour en ordonner l’exécution en dépit des préventions qui
-                            auraient pu l’accueillir, il tire son nom de “ lettres d’attache ” du
-                            procédé matériel qui consiste à l’attacher à l’acte royal (<em>cy
-                                attaché sous l’un de nos signets</em>), comme le ferait aujourd’hui
-                            un bordereau de transmission, ou un document attaché du courrier
-                            électronique. Il procède de la volonté royale, surtout depuis Charles V,
-                            d’ériger un contrôle supplémentaire, <em>a posteriori</em>, des actes
-                            royaux emportant dépense ou aliénation.</p>
-                        <p>Tout est donc ici bien rôdé et stéréotypé. Le contexte politique est
-                            pourtant tout sauf calme : quelques semaines auparavant, le duc de
-                            Bourgogne a mené une vaste épuration de l’administration royale et ce
-                            sont ici des hommes à sa dévotion qui sanctionnent de façon formelle la
-                            mesure qu’il a imaginée pour faire reconnaître l’occupation violente
-                            d’une portion du domaine royal. La forme documentaire se reproduit,
-                            elle, sans grincement, sous la plume d’un expert en continuité de
-                            service.</p>
+                       </p>
+                        <p>L’acte est sous influence directe de l’acte royal ; son format, sa justification (irrégulière à droite, mais aucun mot ne peut être coupé), son écriture et son style comme son adresse et l’absence de corroboration renvoient même avec insistance au type précis du mandement. Accompagnant un acte royal, dont il reprend largement la teneur, pour en ordonner l’exécution en dépit des préventions qui auraient pu l’accueillir, il tire son nom de “ lettres d’attache ” du procédé matériel qui consiste à l’attacher à l’acte royal (<em>cy attaché sous l’un de nos signets</em>), comme le ferait aujourd’hui un bordereau de transmission, ou un document attaché du courrier électronique. Il procède de la volonté royale, surtout depuis Charles V, d’ériger un contrôle supplémentaire, <em>a posteriori</em>, des actes royaux emportant dépense ou aliénation.</p>
+                        <p>Tout est donc ici bien rôdé et stéréotypé. Le contexte politique est pourtant tout sauf calme : quelques semaines auparavant, le duc de Bourgogne a mené une vaste épuration de l’administration royale et ce sont ici des hommes à sa dévotion qui sanctionnent de façon formelle la mesure qu’il a imaginée pour faire reconnaître l’occupation violente d’une portion du domaine royal. La forme documentaire se reproduit, elle, sans grincement, sous la plume d’un expert en continuité de service.</p>
                     </div>
                 </div>
             </div>
         </body>
     </text>
-</TEI>
+</TEI>

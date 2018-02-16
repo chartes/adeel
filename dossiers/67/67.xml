@@ -4,16 +4,16 @@
     <fileDesc>
       <titleStmt>
         <title>
-	[Vers 1157-1171]. Acte comtal (Ponthieu) (1487, copie authentique)
+          [Vers 1157-1171]. Acte comtal (Ponthieu) (1487, copie authentique)
         </title>
       </titleStmt>
       <publicationStmt>
-	<idno type="numero">67</idno>
-	<publisher>École nationale des chartes</publisher>
+        <idno type="numero">67</idno>
+        <publisher>École nationale des chartes</publisher>
       </publicationStmt>
       <sourceDesc>
-	  <p>Orig. : Bibl. nat. de Fr.</p>
-	  <p>Fac-sim. : NF 29 (héliogravure).</p>
+        <p>Orig. : Bibl. nat. de Fr.</p>
+        <p>Fac-sim. : NF 29 (héliogravure).</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc></profileDesc>
@@ -21,328 +21,322 @@
   <text>
     <front></front>
     <body>
-      <div type="facsimile" rend="fax.jpg">
+      <div type="facsimile">
         <p>
-	  <seg rend="118,129,159,35,219,34,205,89,472,81,466,113,152,121" n="poly">
-	  A tous ceulx qui ces l(ett)res verront ou orront, 
-	  </seg>
-	  <seg rend="477,90,751,105">
-	  Pierres Plou, escuier, garde du seel aux
-	  </seg>
-	  <seg rend="157,123,435,137">
-	  obligations de la chastellenie d’Exmes, salut.
-	  </seg>
-	  <seg rend="442,119,583,119,761,108,762,125,580,134,442,137" n="poly">
-	  Savoir faisons que au jour d’uy, qu(in)z(i)eme jour de
-	  </seg>
-	  <seg rend="151,146,405,161">
-	  novembre l’an mil IIIICC IIIIXX et sept,
-	  </seg>
-	  <seg rend="414,146,475,142,502,146,536,141,647,130,765,128,759,143,635,146,540,153,473,159,411,161" n="poly">
-	  que par Jehan Gaudin et Estienne Bouton, clercs 
-	  </seg>
-	  <seg rend="153,166,376,182">
-	  tabellions jurez en lad(icte) chastellenie,
-	  </seg>
-	  <seg rend="381,170,511,165,608,156,762,150,763,164,608,173,511,179,380,183" n="poly">
-	  nous [a] esté tesmoigné et relaté avoir veues, tenues, leues mot
-	  </seg>
-	  <seg rend="154,190,519,184,518,184,155,207" n="poly">
-	  aprés mot et diligeaument regardees unes l(ett)res en latin
-	  </seg>
-	  <seg rend="523,180,754,167,750,186,627,195,522,198" n="poly">
-	  conten(ant) fourme de chartre, seellees 
-	  </seg>
-	  <seg rend="154,211,492,224">
-	  sur double queue en cire jaune, saines et saulves 
-	  </seg>
-	  <seg rend="498,206,762,188,761,212,593,220,499,220" n="poly">
-	  en seau et escripture, desquell(es) la tene(ur)
-	  </seg>
-	  <seg rend="157,233,191,226,220,226,383,233,382,244,156,246" n="poly">
-	  ens(uit) : « Willerm(us) comes Pontuvii,
-	  </seg>
-	  <seg rend="389,227,752,243">
-	  servientibus et forestariis suis de Almenechis, salute(m).
-	  </seg>
-	  <seg rend="152,250,428,265">
-          Scitote quia concessi cano(ni)cis S(an)c(t)e Barbare
-	  </seg>
-	  <seg rend="433,247,751,265">
-	  locu(m) de Salta Cocheria pro amore Dei et salute
-	  </seg>
-	  <seg rend="154,270,405,286">
-	  a(n)i(m)e mee et antecessor(um) meor(um) et filior(um), 
-	  </seg>
-	  <seg rend="415,270,774,289">
-	  et herbagiu(m) et pasnagiu(m) et omne(m) consuetudine(m) soluta(m)
-	  </seg>
-	  <seg rend="154,289,482,309">
-	  et libera(m). Quare mando et precipio vobis quat(enu)s
-	  </seg>
-	  <seg rend="490,294,775,311">
-	  res eoru(m)de(m) canonicor(um) sicut meas custodiat(is)  
-	  </seg>
-	  <seg rend="152,308,532,328">
-	  et manuteneatis, ne ullam inde querellam audiam.
-	  </seg>
-	  <seg rend="537,315,768,328">
-	  Apud Almenesch(as). Test(es) : Philippus
-	  </seg>
-	  <seg rend="154,131,465,346">
-	  capellan(us), Robertus de Nulleio, Hemericus de Logiis,
-	  </seg>
-	  <seg rend="473,335,763,352">
-	  Pagan(us) de Mesodavid et multi alii. Valete. »
-	  </seg>
-	  <seg rend="150,350,461,366">
-	  En tesmoing de ce, nous, a la rel(aci)on desd(its) tabell(ions),
-	  </seg>
-	  <seg rend="469,357,764,368">
-	  vons mys a cest p(rese)nt vidim(us) ou transcript
-	  </seg>
-	  <seg rend="151,357,567,374,571,389,557,416,528,403,480,392,154,386" n="poly">
-	  l’un des seaulx dessusd(its). Ce fut faict en l’an et jour dessusd(its).
-	  </seg>
-	  <seg rend="232,404,261,400,357,412,354,430,303,445,226,427">
-	  Collacion faicte.	  
-	  </seg>
-	  <seg rend="630,391,736,390,723,468,672,472,589,445,589,445">
-	   (Signé :) Gaudin, Bouton.	  
-	  </seg>
-	</p>
+          <seg rend="118,129,159,35,219,34,205,89,472,81,466,113,152,121" n="poly">
+            A tous ceulx qui ces l(ett)res verront ou orront, 
+          </seg>
+          <seg rend="477,90,751,105">
+            Pierres Plou, escuier, garde du seel aux
+          </seg>
+          <seg rend="157,123,435,137">
+            obligations de la chastellenie d’Exmes, salut.
+          </seg>
+          <seg rend="442,119,583,119,761,108,762,125,580,134,442,137" n="poly">
+            Savoir faisons que au jour d’uy, qu(in)z(i)eme jour de
+          </seg>
+          <seg rend="151,146,405,161">
+            novembre l’an mil IIIICC IIIIXX et sept,
+          </seg>
+          <seg rend="414,146,475,142,502,146,536,141,647,130,765,128,759,143,635,146,540,153,473,159,411,161" n="poly">
+            que par Jehan Gaudin et Estienne Bouton, clercs 
+          </seg>
+          <seg rend="153,166,376,182">
+            tabellions jurez en lad(icte) chastellenie,
+          </seg>
+          <seg rend="381,170,511,165,608,156,762,150,763,164,608,173,511,179,380,183" n="poly">
+            nous [a] esté tesmoigné et relaté avoir veues, tenues, leues mot
+          </seg>
+          <seg rend="154,190,519,184,518,184,155,207" n="poly">
+            aprés mot et diligeaument regardees unes l(ett)res en latin
+          </seg>
+          <seg rend="523,180,754,167,750,186,627,195,522,198" n="poly">
+            conten(ant) fourme de chartre, seellees 
+          </seg>
+          <seg rend="154,211,492,224">
+            sur double queue en cire jaune, saines et saulves 
+          </seg>
+          <seg rend="498,206,762,188,761,212,593,220,499,220" n="poly">
+            en seau et escripture, desquell(es) la tene(ur)
+          </seg>
+          <seg rend="157,233,191,226,220,226,383,233,382,244,156,246" n="poly">
+            ens(uit) : « Willerm(us) comes Pontuvii,
+          </seg>
+          <seg rend="389,227,752,243">
+            servientibus et forestariis suis de Almenechis, salute(m).
+          </seg>
+          <seg rend="152,250,428,265"> Scitote quia concessi cano(ni)cis S(an)c(t)e Barbare
+          </seg>
+          <seg rend="433,247,751,265">
+            locu(m) de Salta Cocheria pro amore Dei et salute
+          </seg>
+          <seg rend="154,270,405,286">
+            a(n)i(m)e mee et antecessor(um) meor(um) et filior(um), 
+          </seg>
+          <seg rend="415,270,774,289">
+            et herbagiu(m) et pasnagiu(m) et omne(m) consuetudine(m) soluta(m)
+          </seg>
+          <seg rend="154,289,482,309">
+            et libera(m). Quare mando et precipio vobis quat(enu)s
+          </seg>
+          <seg rend="490,294,775,311">
+            res eoru(m)de(m) canonicor(um) sicut meas custodiat(is)  
+          </seg>
+          <seg rend="152,308,532,328">
+            et manuteneatis, ne ullam inde querellam audiam.
+          </seg>
+          <seg rend="537,315,768,328">
+            Apud Almenesch(as). Test(es) : Philippus
+          </seg>
+          <seg rend="154,131,465,346">
+            capellan(us), Robertus de Nulleio, Hemericus de Logiis,
+          </seg>
+          <seg rend="473,335,763,352">
+            Pagan(us) de Mesodavid et multi alii. Valete. »
+          </seg>
+          <seg rend="150,350,461,366">
+            En tesmoing de ce, nous, a la rel(aci)on desd(its) tabell(ions),
+          </seg>
+          <seg rend="469,357,764,368">
+            vons mys a cest p(rese)nt vidim(us) ou transcript
+          </seg>
+          <seg rend="151,357,567,374,571,389,557,416,528,403,480,392,154,386" n="poly">
+            l’un des seaulx dessusd(its). Ce fut faict en l’an et jour dessusd(its).
+          </seg>
+          <seg rend="232,404,261,400,357,412,354,430,303,445,226,427">
+            Collacion faicte.	  
+          </seg>
+          <seg rend="630,391,736,390,723,468,672,472,589,445,589,445">
+            (Signé :) Gaudin, Bouton.	  
+          </seg>
+        </p>
       </div>	    
-      <div type="transcription">
-        <div type="texte">
-	<l>A tous ceulx qui ces lettres verront ou orront, Pierres Plou,</l>
-	<l>escuier, garde du seel aux obligations de la chastellenie d’<term n="Orne, ch.-l. cant.">Exmes</term>, salut.</l>
-	    <l>Savoir faisons que au jour d’uy, quinzieme jour de novembre l’an mil IIII<sup>CC</sup> IIII<sup>XX</sup> et sept,</l>
-	<l>que par Jehan Gaudin et Estienne Bouton, clercs tabellions jurez en ladicte chastellenie,</l>
-	<l>nous [a] esté tesmoigné et relaté avoir veues, tenues, leues mot aprés mot et diligeaument</l>
-	<l>regardees unes lettres en latin contenant fourme de chartre, seellees sur double queue en cire jaune,</l>
-	<l>saines et saulves en seau et escripture, desquelles la teneur ensuit :</l>
-	<l>« <term n="Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.">Willermus</term> comes Pontuvii, servientibus et <term n="Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.">forestariis</term> suis de <term n="Almenêches, Orne, cant. Mortré.">Almenechis</term>, salutem.</l>
-	<l>Scitote quia concessi canonicis <term n="Sainte-Barbe-en-Auge, prieuré d’augustins à Écajeul (Calvados, cant. Mézidon-Canon, comm. Le Mesnil-Mauger).">Sancte Barbare</term> locum de <term n="La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).">Salta Cocheria</term></l>
-	<l>pro amore Dei et salute anime mee et antecessorum meorum et filiorum,</l>
-	<l>et herbagium et pasnagium et omnem consuetudinem solutam et liberam.</l>
-	<l>Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis,</l>
-	<l>ne ullam inde querellam audiam.</l>
-	<l>Apud Almeneschas. Testes : Philippus capellanus, <term n="Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.">Robertus de Nulleio</term>,</l>
-	<l>Hemericus de Logiis, <term n="Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.">Paganus de Mesodavid</term> et multi alii. Valete. »</l>
-	<l>En tesmoing de ce, nous, a la relacion desdits tabellions,</l>
-	<l>avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.</l>
-	<l>Ce fut faict en l’an et jour dessusdits.</l>
-	<l>Collacion faicte. (Signé :) Gaudin, Bouton.</l>
-	</div>
-	<div type="traduction">
-	<l><term n="Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.">Guillaume</term> comte de Ponthieu, à ses sergents et <term n="Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.">forestiers</term> d’<term n="Almenêches, Orne, cant. Mortré.">Almenêches</term>, salut.</l>
-	<l>Sachez que j’ai concédé aux chanoines de <term n="Sainte-Barbe-en-Auge, prieuré d’augustins à Écajeul (Calvados, cant. Mézidon-Canon, comm. Le Mesnil-Mauger).">Sainte-Barbe</term> la terre de <term n="La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).">La Cochère</term></l>
-	<l>pour l’amour de Dieu et le salut de mon âme, et de mes ancêtres et de mes fils,</l>
-	<l>avec le droit d’herbage et de panage et toute la coutume, entière et libre.</l>
-	<l>C’est pourquoi je vous mande et ordonne que vous gardiez et mainteniez [en l’état] les biens desdits chanoines comme si c’étaient les miens,</l>
-	<l>en sorte que je n’entende [en justice] aucun litige à ce propos.</l>
-	<l>[Écrit] à Almenêches. Témoins : Philippe chapelain, <term n="Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.">Robert de Nulleio</term>, </l>
-	<l>Aimeri des Loges, <term n="Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.">Payen de Mesodavid</term> et beaucoup d’autres. Salut.</l>
-	</div>
-	<div type="regeste">
-	  <head>[1119-1157]</head>
-	  <p>Le comte Guillaume [II] de Ponthieu fait savoir à ses agents qu’il
-	  a concédé aux chanoines de Sainte-Barbe la terre de La Cochère, avec
-	      l’herbage, le panage et tous les droits (<hi rend="i">consuetudo</hi>) qui y sont
-	  attachés. — Vidimus du 15 novembre 1487 sous le sceau de la
-	  châtellenie d’Exmes.</p>
-	  <p>
-	      N.B. : L’acte a été édité par Clovis Brunel, <hi rend="i">Recueil des chartes
-		des comtes de Pontieu</hi>, 1026-1279, Paris, 1930 (<hi rend="i">Documents inédits
-	  in-4<sup>o</sup></hi>),  n<sup>o</sup> LVIII, p. 85-86.
-	 </p>
-	
-	</div></div>
-	<div type="commentaire" n="diplomatique">
-	  <head>Commentaire diplomatique</head>
-	  <div>
-	  <head>Caractères externes</head>
-	  <div type="recommandation">
-	  <p>
-	  Passer la souris sur les cercles rouges pour des commentaires de détail
-	 </p>
-	</div>
-	  <div>
-	  <p>
-	    <figure rend="67/faxexternes.jpg">
-	      <figDesc>
-		<seg type="poly" rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
-		<seg type="circle" rend="153,177,12">Début de l’acte vidimé</seg>
-		<seg type="circle" rend="574,259,8">Fin de l’acte vidimé</seg>
-		    <seg type="circle" rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
-		<seg type="poly" rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
-		    <seg type="poly" rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
-		<seg type="poly" rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
-	      </figDesc>
-	    </figure>
-	 </p>
-	  <p>L’acte est rédigé sur un parchemin plus large que haut,
-	  soigneusement coupé. Les marges sont importantes sauf sur le bord
-	  droit ; on peut se demander si le document n’a pas été plus tard
-	  rogné à droite. Les interlignes sont très réguliers. La justification
-	  est correcte à gauche mais assez approximative sur la droite, où la
-	  fin des lignes est remplie de fins coups de plume. Il se dégage au
-	  premier coup d’œil une application, un apprêt que renforce la
-	  graphie.</p>
-	  <p>L’écriture est en effet régulière et soignée ; elle a été tracée
-	  avec une plume épaisse. Économe d’abréviations, comme c’est très
-	  souvent le cas des actes rédigés en français, elle ne pose pas de
-	  problèmes de lecture. Le soin graphique, qui joue des effets de
-	  scansion propres à la mixte et à ses nombreux traits obliques, est
-	  confirmé par le traitement solennel des trois mots initiaux, grossis
-		et dont le <hi rend="i">A</hi> initial est légèrement orné.</p>
-	  <p>On n’observe pas de trace apparente de sceau, mais on devine la
-	  double fente (repli déplié) par où passait une double queue de
-	  parchemin. Sa position excentrée tendrait à confirmer l’hypothèse
-	  selon laquelle le document a été rogné sur sa partie droite.</p>
-	  <p>Comme il est d’usage, les limites de l’acte vidimé sont à peine
-	  marquées : deux points (sans doute) et un W capital à l’initiale ; un
-	  point à peine étiré en clôture.</p>
-	  </div>
-	  </div>
-	  <div>
-	  <head>Parties du discours</head>
-	  <div>
-	    <p>
-	      <seg corresp="adresse">
-	      A tous ceulx qui ces lettres verront ou orront
-	      <note id="adresse">Adresse universelle</note>
-	      </seg>
-	      <seg corresp="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes
-	      <note id="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes</note>
-	      </seg>
-	      <seg corresp="salut">
-	      salut.
-	      <note id="salut">Salut</note>
-	      </seg>
-	      <seg corresp="notification">
-	      Savoir faisons que
-	      <note id="notification">Notification</note>
-	      </seg>
-	      <seg corresp="date">
-	        au jour d’uy, quinzieme jour de novembre l’an mil IIIICC IIIIXX et sept,
-		<note id="date">Date initiale</note>
-	      </seg>
-	      <seg corresp="vidisuscription">
-	        « Willermus comes Pontuvii,
-		<note id="vidisuscription">Début de l’acte vidimé Suscription</note>
-	      </seg>
-	      <seg corresp="vidiadresse">
-		      servientibus et forestariis suis de Almenechis,
-		      <note id="vidiadresse">Adresse collective</note>
-	      </seg>
-	      <seg corresp="vidisalut">
-	      Salut
-	      <note id="vidisalut">Salut</note>
-	      </seg>
-	      <seg corresp="vidinotification">
-	      Scitote quia
-	      <note id="vidinotification">Notification</note>  
-	      </seg>
-	      <seg corresp="vidiexpose">
-	      concessi canonicis Sancte Barbare locum de Salta Cocheria pro
-	      amore Dei et salute anime mee et antecessorum meorum et filiorum,
-	      et herbagium et pasnagium et omnem consuetudinem solutam et
-	      liberam.
-	      <note id="vidiexpose">Exposé</note>
-	      </seg>
-	       <seg corresp="vididispo">
-              Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.
-	      <note id="vididispo">Dispositif</note>
-	      </seg>
-	      <seg corresp="vididate">
-	      Apud Almeneschas.
-	      <note id="vididate">Date de lieu</note>
-	      </seg>
-	      <seg corresp="viditemoin">
-	      Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.
-	      <note id="viditemoin">
-	      Liste de témoins
-	      </note>
-	      </seg>
-	      <seg corresp="vidisalut">
-	      Valete. »
-	      <note id="vidisalut">Salut final</note>
-	      </seg>
-	      <seg corresp="corrobo">
-	      En tesmoing de ce, nous, a la relacion desdits tabellions, avons
-	      mys a cest present vidimus ou transcript l’un des seaulx
-	      dessusdits.  
-	      <note id="corrobo">Retour au vidimus : corroboration (allusion
-non expliquée à plusieurs sceaux concurrents)</note>
-	      </seg>
-	      <seg corresp="datefin">
-	      Ce fut faict en l’an et jour dessusdits.
-	      <note id="datefin">Date finale</note>
-	      </seg>
-	      <seg corresp="collation">
-	      Collacion faicte.
-	      <note id="collation">Mention de collation par laquelle les tabellions attestent
-avoir revu leur copie en la collationnant à l’original</note> 
-	      </seg>
-	      <seg corresp="sign">
-	      (Signé :) Gaudin, Bouton.
-	      <note id="sign">Signature des tabellions</note>
-	      </seg>
-	      
-	   </p>
-	  </div>
-	  </div>
-	  <div>
-	  <head>Interprétation</head>
-	  <div>
-	    <p>L’opposition des deux langues, français et latin, souligne
-	    encore le contraste entre les deux actes, vidimus et vidimé.</p>
-	    
-	    <p>1. Le vidimus de 1487</p>
-	    <p>Le vidimus de la fin du XV<hi rend="sup">e</hi> siècle,
-	    très ordinairement délivré par une juridiction gracieuse royale de
-	    proximité, au niveau de la châtellenie (on dirait ailleurs vicomté
-	    ou prévôté), repose non moins normalement sur la séparation des
-	    tâches entre deux types d’intervenants, le garde du sceau, auteur de
-	    l’acte, et le(s) tabellion(s), rédacteur(s) et comme souvent
-	    scripteur(s). Le sceau de la juridiction royale reste indispensable
-	    à la validation du titre sur parchemin (l’allusion faite en
-	    corroboration à plusieurs sceaux n’est pas claire), mais,
-	    influencée aussi bien par le notariat méridional que par
-	    l’explosion de la signature royale, l’évolution est déjà bien
-	    entamée qui fait des signatures des tabellions, au traitement
-	    graphique toujours accentué, un second signe de validation
-	    (peut-être pourtant caché sous le repli ?).</p>
-	    
-	    <p>La langue et le formulaire sont particulièrement maîtrisés. La
-	    formule de description de l’acte vidimé est typique dans son
-	    mélange de stéréotype et de précision (couleur jaune de la cire et
-	    nature de l’attache, qui use du vocabulaire de la chancellerie
-	    royale). La formule de corroboration nous permet de savoir quel nom
-	    précis les contemporains donnaient à ce type de document (qualifié
-	    de lettres de façon très formulaire dans le protocole) : vidimus et
-	    transcript.</p> 
-	    
-	    <p>2. L’acte comtal</p>
-	    <p>C’est encore de lettres qu’est qualifié l’acte comtal, et fort à
-	    propos, car il est entièrement coulé dans un moule épistolaire,
-		adresse collective et même salut final par <hi rend="i">Valete</hi>. On y voit une
-	    influence patente de la chancellerie royale anglaise, et jusque
-	    dans l’absence de date de temps et dans la liste de témoins puisés
-	    dans l’entourage princier. Nombre de dons mineurs sont ainsi
-	    notifiés, non par des chartes, mais par des lettres-mandements aux
-	    agents du prince. La forme épistolaire elle-même, établissant un
-	    rapport immédiat, au sens chronologique comme relationnel, entre le
-	    comte et ses agents, renforce le caractère impérieux de
-	    l’intervention comtale. Mais la formulation est elle-même un
-	    trompe-l’œil et il est évident que le document est remis au
-	    donataire, qui le range dans son chartrier et pourra le représenter
-	    à des agents comtaux trop empressés à défendre les droits de leur
-	    maître.</p>
-	    
-	    </div>
-	  </div>
+      <div type="texte">
+        <div type="transcription">
+          <l>A tous ceulx qui ces lettres verront ou orront, Pierres Plou,</l>
+          <l>escuier, garde du seel aux obligations de la chastellenie d’<term n="Orne, ch.-l. cant.">Exmes</term>, salut.</l>
+          <l>Savoir faisons que au jour d’uy, quinzieme jour de novembre l’an mil IIII<sup>CC</sup> IIII<sup>XX</sup> et sept,</l>
+          <l>que par Jehan Gaudin et Estienne Bouton, clercs tabellions jurez en ladicte chastellenie,</l>
+          <l>nous [a] esté tesmoigné et relaté avoir veues, tenues, leues mot aprés mot et diligeaument</l>
+          <l>regardees unes lettres en latin contenant fourme de chartre, seellees sur double queue en cire jaune,</l>
+          <l>saines et saulves en seau et escripture, desquelles la teneur ensuit :</l>
+          <l>« <term n="Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.">Willermus</term> comes Pontuvii, servientibus et <term n="Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.">forestariis</term> suis de <term n="Almenêches, Orne, cant. Mortré.">Almenechis</term>, salutem.</l>
+          <l>Scitote quia concessi canonicis <term n="Sainte-Barbe-en-Auge, prieuré d’augustins à Écajeul (Calvados, cant. Mézidon-Canon, comm. Le Mesnil-Mauger).">Sancte Barbare</term> locum de <term n="La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).">Salta Cocheria</term></l>
+          <l>pro amore Dei et salute anime mee et antecessorum meorum et filiorum,</l>
+          <l>et herbagium et pasnagium et omnem consuetudinem solutam et liberam.</l>
+          <l>Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis,</l>
+          <l>ne ullam inde querellam audiam.</l>
+          <l>Apud Almeneschas. Testes : Philippus capellanus, <term n="Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.">Robertus de Nulleio</term>,</l>
+          <l>Hemericus de Logiis, <term n="Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.">Paganus de Mesodavid</term> et multi alii. Valete. »</l>
+          <l>En tesmoing de ce, nous, a la relacion desdits tabellions,</l>
+          <l>avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.</l>
+          <l>Ce fut faict en l’an et jour dessusdits.</l>
+          <l>Collacion faicte. (Signé :) Gaudin, Bouton.</l>
+        </div>
+        <div type="traduction">
+          <l><term n="Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.">Guillaume</term> comte de Ponthieu, à ses sergents et <term n="Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.">forestiers</term> d’<term n="Almenêches, Orne, cant. Mortré.">Almenêches</term>, salut.</l>
+          <l>Sachez que j’ai concédé aux chanoines de <term n="Sainte-Barbe-en-Auge, prieuré d’augustins à Écajeul (Calvados, cant. Mézidon-Canon, comm. Le Mesnil-Mauger).">Sainte-Barbe</term> la terre de <term n="La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).">La Cochère</term></l>
+          <l>pour l’amour de Dieu et le salut de mon âme, et de mes ancêtres et de mes fils,</l>
+          <l>avec le droit d’herbage et de panage et toute la coutume, entière et libre.</l>
+          <l>C’est pourquoi je vous mande et ordonne que vous gardiez et mainteniez [en l’état] les biens desdits chanoines comme si c’étaient les miens,</l>
+          <l>en sorte que je n’entende [en justice] aucun litige à ce propos.</l>
+          <l>[Écrit] à Almenêches. Témoins : Philippe chapelain, <term n="Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.">Robert de Nulleio</term>, </l>
+          <l>Aimeri des Loges, <term n="Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.">Payen de Mesodavid</term> et beaucoup d’autres. Salut.</l>
+        </div>
+        <div type="regeste">
+          <head>[1119-1157]</head>
+          <p>Le comte Guillaume [II] de Ponthieu fait savoir à ses agents qu’il
+            a concédé aux chanoines de Sainte-Barbe la terre de La Cochère, avec
+            l’herbage, le panage et tous les droits (<hi rend="i">consuetudo</hi>) qui y sont
+            attachés. — Vidimus du 15 novembre 1487 sous le sceau de la
+            châtellenie d’Exmes.</p>
+          <p>
+            N.B. : L’acte a été édité par Clovis Brunel, <hi rend="i">Recueil des chartes
+              des comtes de Pontieu</hi>, 1026-1279, Paris, 1930 (<hi rend="i">Documents inédits
+                in-4<sup>o</sup></hi>),  n<sup>o</sup> LVIII, p. 85-86.
+          </p>
+          
+        </div></div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          
+          <div>
+            <p>
+              <figure rend="67/faxexternes.jpg">
+                <figDesc>
+                  <seg type="poly" rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
+                  <seg type="circle" rend="153,177,12">Début de l’acte vidimé</seg>
+                  <seg type="circle" rend="574,259,8">Fin de l’acte vidimé</seg>
+                  <seg type="circle" rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
+                  <seg type="poly" rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
+                  <seg type="poly" rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
+                  <seg type="poly" rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
+                </figDesc>
+              </figure>
+            </p>
+            <p>L’acte est rédigé sur un parchemin plus large que haut,
+              soigneusement coupé. Les marges sont importantes sauf sur le bord
+              droit ; on peut se demander si le document n’a pas été plus tard
+              rogné à droite. Les interlignes sont très réguliers. La justification
+              est correcte à gauche mais assez approximative sur la droite, où la
+              fin des lignes est remplie de fins coups de plume. Il se dégage au
+              premier coup d’œil une application, un apprêt que renforce la
+              graphie.</p>
+            <p>L’écriture est en effet régulière et soignée ; elle a été tracée
+              avec une plume épaisse. Économe d’abréviations, comme c’est très
+              souvent le cas des actes rédigés en français, elle ne pose pas de
+              problèmes de lecture. Le soin graphique, qui joue des effets de
+              scansion propres à la mixte et à ses nombreux traits obliques, est
+              confirmé par le traitement solennel des trois mots initiaux, grossis
+              et dont le <hi rend="i">A</hi> initial est légèrement orné.</p>
+            <p>On n’observe pas de trace apparente de sceau, mais on devine la
+              double fente (repli déplié) par où passait une double queue de
+              parchemin. Sa position excentrée tendrait à confirmer l’hypothèse
+              selon laquelle le document a été rogné sur sa partie droite.</p>
+            <p>Comme il est d’usage, les limites de l’acte vidimé sont à peine
+              marquées : deux points (sans doute) et un W capital à l’initiale ; un
+              point à peine étiré en clôture.</p>
+          </div>
+        </div>
+        <div>
+          <head>Parties du discours</head>
+          <div>
+            <p>
+              <seg corresp="adresse">
+                A tous ceulx qui ces lettres verront ou orront
+                <note id="adresse">Adresse universelle</note>
+              </seg>
+              <seg corresp="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes
+                <note id="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes</note>
+              </seg>
+              <seg corresp="salut">
+                salut.
+                <note id="salut">Salut</note>
+              </seg>
+              <seg corresp="notification">
+                Savoir faisons que
+                <note id="notification">Notification</note>
+              </seg>
+              <seg corresp="date">
+                au jour d’uy, quinzieme jour de novembre l’an mil IIIICC IIIIXX et sept,
+                <note id="date">Date initiale</note>
+              </seg>
+              <seg corresp="vidisuscription">
+                « Willermus comes Pontuvii,
+                <note id="vidisuscription">Début de l’acte vidimé Suscription</note>
+              </seg>
+              <seg corresp="vidiadresse">
+                servientibus et forestariis suis de Almenechis,
+                <note id="vidiadresse">Adresse collective</note>
+              </seg>
+              <seg corresp="vidisalut">
+                Salut
+                <note id="vidisalut">Salut</note>
+              </seg>
+              <seg corresp="vidinotification">
+                Scitote quia
+                <note id="vidinotification">Notification</note>  
+              </seg>
+              <seg corresp="vidiexpose">
+                concessi canonicis Sancte Barbare locum de Salta Cocheria pro
+                amore Dei et salute anime mee et antecessorum meorum et filiorum,
+                et herbagium et pasnagium et omnem consuetudinem solutam et
+                liberam.
+                <note id="vidiexpose">Exposé</note>
+              </seg>
+              <seg corresp="vididispo"> Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.
+                <note id="vididispo">Dispositif</note>
+              </seg>
+              <seg corresp="vididate">
+                Apud Almeneschas.
+                <note id="vididate">Date de lieu</note>
+              </seg>
+              <seg corresp="viditemoin">
+                Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.
+                <note id="viditemoin">
+                  Liste de témoins
+                </note>
+              </seg>
+              <seg corresp="vidisalut">
+                Valete. »
+                <note id="vidisalut">Salut final</note>
+              </seg>
+              <seg corresp="corrobo">
+                En tesmoing de ce, nous, a la relacion desdits tabellions, avons
+                mys a cest present vidimus ou transcript l’un des seaulx
+                dessusdits.  
+                <note id="corrobo">Retour au vidimus : corroboration (allusion
+                  non expliquée à plusieurs sceaux concurrents)</note>
+              </seg>
+              <seg corresp="datefin">
+                Ce fut faict en l’an et jour dessusdits.
+                <note id="datefin">Date finale</note>
+              </seg>
+              <seg corresp="collation">
+                Collacion faicte.
+                <note id="collation">Mention de collation par laquelle les tabellions attestent
+                  avoir revu leur copie en la collationnant à l’original</note> 
+              </seg>
+              <seg corresp="sign">
+                (Signé :) Gaudin, Bouton.
+                <note id="sign">Signature des tabellions</note>
+              </seg>
+              
+            </p>
+          </div>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <div>
+            <p>L’opposition des deux langues, français et latin, souligne
+              encore le contraste entre les deux actes, vidimus et vidimé.</p>
+            
+            <p>1. Le vidimus de 1487</p>
+            <p>Le vidimus de la fin du XV<hi rend="sup">e</hi> siècle,
+              très ordinairement délivré par une juridiction gracieuse royale de
+              proximité, au niveau de la châtellenie (on dirait ailleurs vicomté
+              ou prévôté), repose non moins normalement sur la séparation des
+              tâches entre deux types d’intervenants, le garde du sceau, auteur de
+              l’acte, et le(s) tabellion(s), rédacteur(s) et comme souvent
+              scripteur(s). Le sceau de la juridiction royale reste indispensable
+              à la validation du titre sur parchemin (l’allusion faite en
+              corroboration à plusieurs sceaux n’est pas claire), mais,
+              influencée aussi bien par le notariat méridional que par
+              l’explosion de la signature royale, l’évolution est déjà bien
+              entamée qui fait des signatures des tabellions, au traitement
+              graphique toujours accentué, un second signe de validation
+              (peut-être pourtant caché sous le repli ?).</p>
+            
+            <p>La langue et le formulaire sont particulièrement maîtrisés. La
+              formule de description de l’acte vidimé est typique dans son
+              mélange de stéréotype et de précision (couleur jaune de la cire et
+              nature de l’attache, qui use du vocabulaire de la chancellerie
+              royale). La formule de corroboration nous permet de savoir quel nom
+              précis les contemporains donnaient à ce type de document (qualifié
+              de lettres de façon très formulaire dans le protocole) : vidimus et
+              transcript.</p> 
+            
+            <p>2. L’acte comtal</p>
+            <p>C’est encore de lettres qu’est qualifié l’acte comtal, et fort à
+              propos, car il est entièrement coulé dans un moule épistolaire,
+              adresse collective et même salut final par <hi rend="i">Valete</hi>. On y voit une
+              influence patente de la chancellerie royale anglaise, et jusque
+              dans l’absence de date de temps et dans la liste de témoins puisés
+              dans l’entourage princier. Nombre de dons mineurs sont ainsi
+              notifiés, non par des chartes, mais par des lettres-mandements aux
+              agents du prince. La forme épistolaire elle-même, établissant un
+              rapport immédiat, au sens chronologique comme relationnel, entre le
+              comte et ses agents, renforce le caractère impérieux de
+              l’intervention comtale. Mais la formulation est elle-même un
+              trompe-l’œil et il est évident que le document est remis au
+              donataire, qui le range dans son chartrier et pourra le représenter
+              à des agents comtaux trop empressés à défendre les droits de leur
+              maître.</p>
+            
+          </div>
+        </div>
       </div>
     </body>
     <back></back>

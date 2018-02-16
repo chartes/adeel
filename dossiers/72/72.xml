@@ -17,10 +17,9 @@
         </fileDesc>
         <profileDesc/>
     </teiHeader>
-    <text>
-        <front/>
+    <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
                     <seg rend="6,8,126,6,183,5,232,2,308,3,359,6,377,9,369,30,336,28,235,26,152,28,65,35,8,36"  n="poly">Univ<ex>er</ex>sis p<ex>re</ex>sentes litt<ex>er</ex>as visur<ex>is</ex>,</seg>
                     <seg rend="382,9,681,6,755,6,820,3,833,11,833,24,825,34,783,35,678,33,562,33,436,33,375,34"  n="poly">mag<ex>iste</ex>r Ph[ilippus] de Caturco, offic<ex>ialis</ex> cur<ex>ie</ex> rev<ex>er</ex>endi</seg>
@@ -28,7 +27,7 @@
                     <seg rend="433,37,524,40,610,36,703,38,784,42,827,43,828,63,822,82,798,68,700,67,600,63,508,63,433,59"  n="poly">Rem<ex>ensis</ex> archid<ex>iaconi</ex>, salut<ex>em</ex> in D<ex>omi</ex>no. Nov<ex>er</ex>itis</seg>
                     <seg rend="10,79,87,70,158,70,224,63,284,63,344,63,391,63,447,67,501,66,555,68,609,67,625,71,625,91,595,89,504,86,362,86,251,89,158,93,67,95,17,103"  n="poly">me, anno D<ex>omi</ex>ni M° CC° L° q<ex>u</ex>into, f<ex>e</ex>r<ex>i</ex>a t<ex>er</ex>cia post Trinitate<ex>m</ex>,</seg>
                     <seg rend="632,69,698,73,746,72,795,74,816,82,822,90,799,99,741,96,653,92,631,86"  n="poly">litt<ex>er</ex>as rev<ex>er</ex>endi</seg>
-                    <seg rend="17,113,64,104,114,98,150,102,205,96,250,92,303,94,369,91,431,93,498,93,555,91,603,94,605,112,587,115,519,116,356,116,202,116,103,124,20,133"  n="poly">patris Th[ome], Dei gr<ex>ati</ex>a Rem<ex>ensis</ex> archiep<ex>iscop</ex>i vidisse in hec v<ex>er</ex>ba&#160;: </seg>
+                    <seg rend="17,113,64,104,114,98,150,102,205,96,250,92,303,94,369,91,431,93,498,93,555,91,603,94,605,112,587,115,519,116,356,116,202,116,103,124,20,133"  n="poly">patris Th[ome], Dei gr<ex>ati</ex>a Rem<ex>ensis</ex> archiep<ex>iscop</ex>i vidisse in hec v<ex>er</ex>ba&#160;:</seg>
                     <seg rend="610,96,673,97,732,102,771,102,824,101,835,117,829,130,805,123,745,125,672,124,613,117"  n="poly">«&#160;Th[omas], Dei gr<ex>ati</ex>a Remen<ex>sis</ex></seg>
                     <seg rend="19,138,47,135,89,131,135,128,182,124,241,124,317,124,383,124,466,121,529,121,576,120,571,143,520,149,412,149,268,148,169,147,103,158,19,159"  n="poly">archiep<ex>iscopu</ex>s, dil<ex>e</ex>c<ex>t</ex>is filiis univ<ex>er</ex>sis chr<ex>ist</ex>ianitatu<ex>m</ex> decanis</seg>
                     <seg rend="583,121,634,127,674,128,737,130,803,131,830,137,832,146,824,159,790,151,724,157,640,151,579,147"  n="poly">ac p<ex>res</ex>b<ex>ite</ex>ris p<ex>er</ex> civitate<ex>m</ex></seg>
@@ -60,8 +59,8 @@
                     <seg rend="153,587,235,588,276,594,266,621,217,627,150,621"  n="poly">H. de Sing[…].</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <l>Universis presentes litteras visuris, magister Ph[ilippus] de Caturco, <term n="Les officiaux sont surtout connus comme des délégués de la justice de l’évêque. Mais des archidiacres, des doyens de chapitres cathédraux, des abbés exempts eurent aussi des officiaux, qui exerçaient leur justice contentieuse et gracieuse, et furent surtout actifs au XIIIe siècle.">officialis</term> curie </l>
                     <l>reverendi patris domini <term n="Ottobono Fieschi, représentant de la célèbre famille génoise, neveu du pape Innocent IV, et bon exemple de ces dignitaires italiens introduits au royaume de France au XIIIe siècle. Créé cardinal par son oncle en 1244, il fut pape à peine plus d’un mois en 1276, sous le nom d’Adrien V. Chanoine du chapitre cathédral de Reims, chancelier de 1243 à 1250, il perdit cet office à cette date et fut promu en échange, par collation apostolique, archidiacre de Reims. En 1254, il s’était violemment opposé à l’archevêque et s’était fait reconnaître la juridiction spirituelle dans son archidiaconé.">Ottoboni</term>, Sancti Adriani dyaconi cardinalis, Remensis</l>
                     <l><term n="Les archidiacres, proches collaborateurs de l’évêque dans la gestion du diocèse, dont ils surveillaient une portion, étaient en nombre variable selon les diocèses. Il y en avait, au XIIIe siècle, deux dans le diocèse de Reims, dits de Reims (ou de la chrétienté, ou grand archidiacre) et de Champagne. Collaborateurs très proches des évêques du XIIe siècle, ils entrèrent souvent en conflit avec lui, au siècle suivant, dans l’exercice de leur juridiction.">archidiaconi</term>, salutem in Domino. Noveritis me, anno Domini M° CC° L° quinto, <term n="Le dimanche de la Trinité est le premier dimanche après la Pentecôte (un moment où l’on est sûr que le millésime a été changé), ce qui correspond en 1255 au 23 mai. Comme la troisième férie désigne le mardi (les féries sont décomptées à partir du dimanche), on est donc le 25 mai 1255.">feria</term></l>
@@ -112,13 +111,12 @@
                     <p>Vidimus par maître Philippe de Cahors, official de l’archidiacre de Reims Ottobono cardinal-diacre de Saint-Adrien, du mandement adressé par l’archevêque de Reims Th[omas] aux doyens de chrétienté et prêtres du diocèse, pour qu’ils contraignent tous ceux qui y sont astreints à payer dans les huit jours aux échevins de Reims la taille levée par ceux-ci sur la ville. Les récalcitrants ne pouvant alléguer d’excuse seront publiquement excommuniés, les autres cités devant la cour de l’archevêque. Les destinataires devront sous peine de suspension faire rapport écrit de ce qu’ils auront fait.</p>
                 </div>
             </div>
-            <div type="commentaire" n="diplomatique">
+            <div type="diplomatic">
                 <head>Commentaire diplomatique</head>
                 <div>
                 <head>Caractères externes</head>
                 <div type="recommendation">
-                    <p>
-                        Passer la souris sur les cercles rouges pour des commentaires de détail
+                    <p> Passer la souris sur les cercles rouges pour des commentaires de détail
                    </p>
                 </div>
                     <div>

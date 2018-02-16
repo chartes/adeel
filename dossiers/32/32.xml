@@ -18,7 +18,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="facsimile" rend="fax.jpg">
+			<div type="facsimile">
 				<p>
 					<seg rend="10,21,491,45">Univ<ex>er</ex>sis presentes
 						litt<ex>er</ex>as inspect<ex>ur</ex>is, M<ex>athildis</ex>
@@ -118,14 +118,14 @@
 						<ex>con</ex>cedat in tes-</seg>
 					<seg rend="17,406,354,434">-timoniu<ex>m</ex>
 						<ex>et</ex> munime<ex>n</ex>. Act<ex>um</ex>
-							P<ex>ar</ex>isi<ex>us</ex>, anno D<ex>omi</ex>ni </seg>
+							P<ex>ar</ex>isi<ex>us</ex>, anno D<ex>omi</ex>ni</seg>
 					<seg rend="361,423,769,447">mill<ex>esim</ex>o CC° quadragesimo
 							s<ex>e</ex>c<ex>un</ex>do, m<ex>en</ex>se
 							novembr<ex>is</ex>.</seg>
 				</p>
 			</div>
-			<div type="transcription">
-				<div type="texte">
+			<div type="texte">
+				<div type="transcription">
 					<l>Univ<ex>er</ex>sis presentes litt<ex>er</ex>as
 						inspect<ex>ur</ex>is, </l>
 					<l><term
@@ -345,7 +345,7 @@
 					</p>
 				</div>
 			</div>
-			<div type="commentaire" n="diplomatique">
+			<div type="diplomatic">
 				<head>Commentaire diplomatique</head>
 				<div>
 					<head>Caractères externes</head>
@@ -375,8 +375,7 @@
 									<seg type="poly"
 										rend="238,163,253,169,253,178,249,183,247,185,239,187,233,182,229,176,231,171"
 										>Initiale du gendre, Gaucher de Châtillon, dont le nom est
-										cité intégralement à la ligne 4.</seg>
-
+										cité intégralement à la ligne 4.</seg>
 									<seg type="poly"
 										rend="522,222,531,222,536,226,537,232,532,237,524,238,516,236,513,231,516,225"
 										>Initiale de l?évêque de Beauvais, Robert de Cressonsacq,
@@ -400,8 +399,7 @@
 							</figure>
 						</p>
 					</div>
-				</div>
-
+				</div>
 				<div>
 					<head>Langue, mots, style</head>
 					<div>
@@ -440,13 +438,9 @@
 							serrer les réalités décrites ou insister plus lourdement sur les
 							engagements. Relever aussi, au fil de la lecture, le mélange : de
 							tournures diplomatiques stéréotypées, et d'un vocabulaire spécialisé
-							pour les traits juridiques (patrimoine, donation, héritage, testament…)</p>
-
-
-
+							pour les traits juridiques (patrimoine, donation, héritage, testament…)</p>
 					</div>
-				</div>
-
+				</div>
 				<div>
 					<head>Parties du discours</head>
 					<div>
@@ -478,8 +472,7 @@
 							R(oberto) Belvacensi episcopo ut litteras suas patentes, suo sigillo
 							signatas, super dicta obligatione et concessione predictis Galchero et
 							ejus uxori concedat in testimonium et munimen. Actum Parisius, anno
-							Domini millesimo CC° quadragesimo secundo, mense novembris.</p>
-
+							Domini millesimo CC° quadragesimo secundo, mense novembris.</p>
 					</div>
 				</div>
 				<div>
@@ -509,8 +502,7 @@
 							qui règne dans la famille (l'emploi répété, en épithète, de <hi
 								rend="i">karissimus</hi> n'est pas que marque de politesse : il
 							renvoie à la charité, amour mutuel, donc à la paix ; voir aussi <hi
-								rend="i">benigne</hi>).</p>
-
+								rend="i">benigne</hi>).</p>
 						<p>Alors que l’acte au nom de la comtesse est qualifié de <hi rend="i"
 								>scriptum</hi>, on parle de « lettres patentes » pour celui de
 							l’évêque (<hi rend="i">litteras suas patentes</hi>). Générique à
@@ -540,8 +532,7 @@
 							relative, qu'il offrait dans les arrangements successoraux.</p>
 					</div>
 				</div>
-			</div>
-
+			</div>
 		</body>
 	</text>
-</TEI>
+</TEI>

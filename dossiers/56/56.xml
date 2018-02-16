@@ -19,67 +19,47 @@
     <text>
         <front> </front>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
-                    <seg n="poly"
-                        rend="138,178,134,88,228,86,231,104,477,100,480,117,224,119,226,174">La
-                        caritat fervent que li ve-</seg>
+                    <seg n="poly" rend="138,178,134,88,228,86,231,104,477,100,480,117,224,119,226,174">La caritat fervent que li ve-</seg>
                     <seg rend="227,123,480,137">raia amiga de Dieu ma don-</seg>
-                    <seg rend="228,140,479,155">na s<ex>an</ex>c<ex>t</ex>a Doucelina
-                        avia, qui</seg>
+                    <seg rend="228,140,479,155">na s<ex>an</ex>c<ex>t</ex>a Doucelina avia, qui</seg>
                     <seg rend="228,161,479,175">poiria retraire ? car illh era to-</seg>
-                    <seg rend="140,181,482,192">ta enaissi en l&#x2019;amor de Dieu afondada
-                            q<ex>ue</ex>,</seg>
-                    <seg rend="136,198,489,213">cant illh auzia ren de l&#x2019;amor de Dieu,
-                        sop-</seg>
-                    <seg rend="140,219,477,232">tamens s&#x2019;escomovia e
-                        s&#x2019;enflamava si</seg>
+                    <seg rend="140,181,482,192">ta enaissi en l&#x2019;amor de Dieu afondada q<ex>ue</ex>,</seg>
+                    <seg rend="136,198,489,213">cant illh auzia ren de l&#x2019;amor de Dieu, sop-</seg>
+                    <seg rend="140,219,477,232">tamens s&#x2019;escomovia e s&#x2019;enflamava si</seg>
                     <seg rend="140,238,480,253">que defora laissava seinnhal en son</seg>
-                    <seg rend="139,258,479,274">cors <ex>e</ex> en sa cara
-                        d&#x2019;aquella flama que</seg>
+                    <seg rend="139,258,479,274">cors <ex>e</ex> en sa cara d&#x2019;aquella flama que</seg>
                     <seg rend="141,277,476,290">la cremava dedins son cor de l&#x2019;amor</seg>
                     <seg rend="139,295,468,311">del Seinnhor que semblava tota fos</seg>
                     <seg rend="138,316,490,331">escompreza d&#x2019;aquella gran amor. Totz</seg>
                     <seg rend="136,335,479,350">aquest mons li era aissi cant una des-</seg>
                     <seg rend="138,354,478,369">boissadura de Dieu que tot cant vezi-</seg>
-                    <seg rend="137,373,477,388">a li representava son Seinnhor <ex>e</ex> en
-                        to-</seg>
+                    <seg rend="137,373,477,388">a li representava son Seinnhor <ex>e</ex> en to-</seg>
                     <seg rend="136,393,478,405">tas cauzas trobava Dieu per amor. E con-</seg>
                     <seg rend="135,412,480,425">templava en las bellezas lo sobre bell</seg>
                     <seg rend="135,431,476,447"><ex>e</ex> en las melodias las doussors de Di-</seg>
-                    <seg rend="137,450,473,463">eu <ex>e</ex> alegrava si en totas las obras
-                        de</seg>
+                    <seg rend="137,450,473,463">eu <ex>e</ex> alegrava si en totas las obras de</seg>
                     <seg rend="134,468,471,484">nostre Seinnhor. No<ex>n</ex> fon anc maior a-</seg>
-                    <seg rend="134,486,475,503">feccion en devocion que li
-                            s<ex>an</ex>c<ex>t</ex>a avia e</seg>
-                    <seg rend="137,507,482,523">p<ex>er</ex> la sobeirana amor
-                        qu&#x2019;illi avia a Dieu</seg>
+                    <seg rend="134,486,475,503">feccion en devocion que li s<ex>an</ex>c<ex>t</ex>a avia e</seg>
+                    <seg rend="137,507,482,523">p<ex>er</ex> la sobeirana amor qu&#x2019;illi avia a Dieu</seg>
                     <seg rend="137,529,471,542">era enaissi enlassada ab cascuna crea-</seg>
                     <seg rend="136,547,485,562">tura que en cascuna reconnoissia aver</seg>
-                    <seg rend="134,567,486,582">un creator <ex>e</ex> un comensament.
-                            Maiorme<ex>n</ex>s</seg>
-                    <seg rend="136,586,481,602">s&#x2019;estendia li sieua caritatz als paures
-                    e</seg>
+                    <seg rend="134,567,486,582">un creator <ex>e</ex> un comensament. Maiorme<ex>n</ex>s</seg>
+                    <seg rend="136,586,481,602">s&#x2019;estendia li sieua caritatz als paures e</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
-                    <l>La caritat fervent que <term
-                            n="Le texte offre des formes d&#x2019;article féminin &#34;li&#34; qui alternent avec des formes &#34;la&#34;."
-                            >li</term> ve-</l>
+            <div type="texte">
+                <div type="transcription">
+                    <l>La caritat fervent que <term n="Le texte offre des formes d&#x2019;article féminin &#34;li&#34; qui alternent avec des formes &#34;la&#34;." >li</term> ve-</l>
                     <l>raia amiga de Dieu ma don-</l>
                     <l>na s<ex>an</ex>c<ex>t</ex>a Doucelina avia, qui</l>
-                    <l>poiria retraire ? car <term
-                            n="Les formes de pronom personnel sujet de personne 3  féminin relevées dans ce texte sont majoritairement &#34;illi&#34; (l. 22) mais on trouve aussi &#34;illh&#34; (voir aussi l. 6)."
-                            >illh</term> era to-</l>
+                    <l>poiria retraire ? car <term n="Les formes de pronom personnel sujet de personne 3  féminin relevées dans ce texte sont majoritairement &#34;illi&#34; (l. 22) mais on trouve aussi &#34;illh&#34; (voir aussi l. 6)." >illh</term> era to-</l>
                     <l>ta enaissi en l'amor de Dieu afondada q<ex>ue</ex>,</l>
                     <l>cant illh auzia ren de l'amor de Dieu, sop-</l>
                     <l>tamens s'escomovia e s'enflamava si</l>
-                    <l>que defora laissava seinnhal en <term
-                            n="Après &#34;son&#34;,  une lettre &#34;i&#34; de remplissage de fin de ligne a été exponctuée par le scribe puis barrée d&#x2019;un trait de plume."
-                            >son</term></l>
-                    <l>cors <term
-                            n="Le scribe, sur cette page, utilise &#34;e&#34; coordonnant devant un mot commençant par une consonne et l&#x2019;abréviation &#34;7&#34; devant un mot commençant par une voyelle. Ailleurs dans le manuscrit il lui arrive d&#x2019;utiliser &#34;e&#34; devant un mot commençant par une voyelle (f. 25 &#34;e en caritat&#34;) et &#34;7&#34; devant un mot commençant par une consonne (f. 27v &#34;7 par aisso&#34;). Nous résolvons donc l&#x2019;abréviation &#34;7&#34; par &#34;e&#34;."> <ex>e</ex>
+                    <l>que defora laissava seinnhal en <term n="Après &#34;son&#34;,  une lettre &#34;i&#34; de remplissage de fin de ligne a été exponctuée par le scribe puis barrée d&#x2019;un trait de plume." >son</term></l>
+                    <l>cors <term n="Le scribe, sur cette page, utilise &#34;e&#34; coordonnant devant un mot commençant par une consonne et l&#x2019;abréviation &#34;7&#34; devant un mot commençant par une voyelle. Ailleurs dans le manuscrit il lui arrive d&#x2019;utiliser &#34;e&#34; devant un mot commençant par une voyelle (f. 25 &#34;e en caritat&#34;) et &#34;7&#34; devant un mot commençant par une consonne (f. 27v &#34;7 par aisso&#34;). Nous résolvons donc l&#x2019;abréviation &#34;7&#34; par &#34;e&#34;."> <ex>e</ex>
                         </term> en sa cara d'aquella flama que</l>
                     <l>la cremava dedins son cor de l'amor</l>
                     <l>del Seinnhor que semblava tota fos</l>
@@ -132,69 +112,24 @@
                 <head>Commentaire linguistique</head>
                 <div>
                     <div>
-                        <p>Le manuscrit fr. 13503 est un manuscrit de petit format (167 x 120 mm) :
-                            il a été exécuté dans les premières années du XIV<hi rend="exposant"
-                            >e</hi> siècle pour les religieuses (peut-être pour une des religieuses)
-                            du couvent des béguines de Marseille. Le copiste s&#x2019;est nommé
-                            dans une prière au f. 102 : « Obsecro vos qui hoc legeritis ut Jacobi
-                            peccatoris in orationibus vestris memineritis. Amen. »</p>
-                        <p>Sur Douceline de Digne, née à Digne en 1214 et morte à Marseille en
-                            1274, qui fonda vers 1240 une communauté de béguines à
-                            l&#x2019;extérieur de la ville d&#x2019;Hyères, voir : <listBibl>
+                        <p>Le manuscrit fr. 13503 est un manuscrit de petit format (167 x 120 mm) : il a été exécuté dans les premières années du XIV<hi rend="exposant" >e</hi> siècle pour les religieuses (peut-être pour une des religieuses) du couvent des béguines de Marseille. Le copiste s&#x2019;est nommé dans une prière au f. 102 : « Obsecro vos qui hoc legeritis ut Jacobi peccatoris in orationibus vestris memineritis. Amen. »</p>
+                        <p>Sur Douceline de Digne, née à Digne en 1214 et morte à Marseille en 1274, qui fonda vers 1240 une communauté de béguines à l&#x2019;extérieur de la ville d&#x2019;Hyères, voir : <listBibl>
                                 <bibl><author>Carla <hi rend="sc">CAROZZI</hi></author>,
-                                        <title> Une béguine joachinite. Douceline, s&#x2019;ur
-                                        d&#x2019;Hugues de Digne</title>, dans <hi rend="i"
-                                        >Cahiers de Fanjeaux</hi>, <date>1975</date>, <biblScop
-                                        type="vol">t. 10, </biblScop>, <hi rend="i"
-                                        >Franciscains d&#x2019;oc. Les Spirituels ca.
-                                    1280-1324</hi>, <biblScop type="pp">p. 169-20</biblScop>1.
-                                        <title> Douceline et les autres </title>, dans <hi
-                                        rend="i">Cahiers de Fanjeaux</hi>, <biblScop type="vol"
-                                        >t. 11, 1976</biblScop>, <hi rend="i">La religion
-                                        populaire en Languedoc du XIII<hi rend="sup">e</hi>
-                                        siècle à la moitié du XIV<hi rend="sup">e</hi>
-                                    siècle</hi>, <biblScop type="p">p. 251-267</biblScop>. </bibl>
+                                        <title> Une béguine joachinite. Douceline, s&#x2019;ur d&#x2019;Hugues de Digne</title>, dans <hi rend="i" >Cahiers de Fanjeaux</hi>, <date>1975</date>, <biblScop type="vol">t. 10, </biblScop>, <hi rend="i" >Franciscains d&#x2019;oc. Les Spirituels ca. 1280-1324</hi>, <biblScop type="pp">p. 169-20</biblScop>1.
+                                        <title> Douceline et les autres </title>, dans <hi rend="i">Cahiers de Fanjeaux</hi>, <biblScop type="vol" >t. 11, 1976</biblScop>, <hi rend="i">La religion populaire en Languedoc du XIII<hi rend="sup">e</hi> siècle à la moitié du XIV<hi rend="sup">e</hi> siècle</hi>, <biblScop type="p">p. 251-267</biblScop>. </bibl>
                             </listBibl></p>
-                        <p>La vie a été rédigée directement en occitan par l&#x2019;une des
-                            plus anciennes compagnes de la sainte, Philippine de Porcelet, à la fin
-                            du XIII<hi rend="sup">e</hi> siècle. Sur la famille Porcelet, voir
-                            : <listBibl>
-                                <bibl><author>Martin <hi rend="small caps"
-                                        >AURELL</hi></author>,<title>Une famille de la noblesse
-                                            provençale au Moyen âge : les Porcelet</title>, <pubPlace>Avignon</pubPlace>,
+                        <p>La vie a été rédigée directement en occitan par l&#x2019;une des plus anciennes compagnes de la sainte, Philippine de Porcelet, à la fin du XIII<hi rend="sup">e</hi> siècle. Sur la famille Porcelet, voir : <listBibl>
+                                <bibl><author>Martin <hi rend="small caps" >AURELL</hi></author>,<title>Une famille de la noblesse provençale au Moyen âge : les Porcelet</title>, <pubPlace>Avignon</pubPlace>,
                                     <date>1986</date>. </bibl>
                             </listBibl></p>
-                        <p>La <hi rend="i">Vida de la benaurada sancta Doucelina</hi> qui
-                            n&#x2019;est connue que par ce manuscrit a été publiée à deux
-                            reprises : <hi rend="i">La vie de sainte Douceline, fondatrice des
-                                béguines de Marseille, composée au treizième siècle en langue
-                                provençale, publiée pour la première fois, avec la traduction en
-                                français et une introduction critique et historique</hi>, par
-                            l&#x2019;abbé J.-H. Albanès, Marseille, 1879. <hi rend="i">La
-                                vie de sainte Douceline. Texte provençal du XII<hi rend="exposant"
-                                >e</hi> siècle</hi>, traduction et notes par R. Grout, Paris, 1927
-                                (<hi rend="i">Ars et Fides</hi>, 8). Voir éventuellement une
-                            traduction en anglais de la traduction française qui accompagne
-                            l&#x2019;édition Albanès pour laquelle les auteurs n&#x2019;ont
-                            pas eu recours au texte médiéval : <hi rend="i">The life of Saint
-                                Douceline, a Beguine of Provence translated by Kathleen Garay and
-                                Madeleine Jeay</hi>, Woodbridge, 2001.</p>
-                        <p>On peut lire une étude d&#x2019;ensemble sur l&#x2019;oeuvre sous
-                            la plume d&#x2019;<author>Ernest <hi rend="small caps"
-                            >RENAN</hi></author> dans : <listBibl>
+                        <p>La <hi rend="i">Vida de la benaurada sancta Doucelina</hi> qui n&#x2019;est connue que par ce manuscrit a été publiée à deux reprises : <hi rend="i">La vie de sainte Douceline, fondatrice des béguines de Marseille, composée au treizième siècle en langue provençale, publiée pour la première fois, avec la traduction en français et une introduction critique et historique</hi>, par l&#x2019;abbé J.-H. Albanès, Marseille, 1879. <hi rend="i">La vie de sainte Douceline. Texte provençal du XII<hi rend="exposant" >e</hi> siècle</hi>, traduction et notes par R. Grout, Paris, 1927 (<hi rend="i">Ars et Fides</hi>, 8). Voir éventuellement une traduction en anglais de la traduction française qui accompagne l&#x2019;édition Albanès pour laquelle les auteurs n&#x2019;ont pas eu recours au texte médiéval : <hi rend="i">The life of Saint Douceline, a Beguine of Provence translated by Kathleen Garay and Madeleine Jeay</hi>, Woodbridge, 2001.</p>
+                        <p>On peut lire une étude d&#x2019;ensemble sur l&#x2019;oeuvre sous la plume d&#x2019;<author>Ernest <hi rend="small caps" >RENAN</hi></author> dans : <listBibl>
                                 <bibl><title>Histoire littéraire de la France</title>,
-                                        <date when="1885">1885</date>, <biblScope type="vol"
-                                        >t.29</biblScope>, <biblScope type="pp">p.
-                                    526-546</biblScope> : « La vie de sainte Douceline est un des
-                                    ouvrages d&#x2019;édification les mieux composés et les
-                                    mieux écrits du Moyen âge, une des fleurs de cette littérature
-                                    franciscaine qui se développe surtout en Italie, et que
-                                    distingue un grand charmes de piété tendre et enfantine. » (p.
-                                    545)</bibl>
+                                        <date when="1885">1885</date>, <biblScope type="vol" >t.29</biblScope>, <biblScope type="pp">p. 526-546</biblScope> : « La vie de sainte Douceline est un des ouvrages d&#x2019;édification les mieux composés et les mieux écrits du Moyen âge, une des fleurs de cette littérature franciscaine qui se développe surtout en Italie, et que distingue un grand charmes de piété tendre et enfantine. » (p. 545)</bibl>
                             </listBibl></p>
                     </div>
                 </div>
             </div>
         </body>
     </text>
-</TEI>
+</TEI>

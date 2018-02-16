@@ -3,8 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>
-        1240, 10 novembre, Acte princier (seigneur du Roussillon)
+        <title> 1240, 10 novembre, Acte princier (seigneur du Roussillon)
         </title>
       </titleStmt>
       <publicationStmt>
@@ -21,7 +20,7 @@
   <text>
     <front></front>
     <body>
-      <div type="facsimile" rend="fax.jpg">
+      <div type="facsimile">
         <p>
 	  <seg rend="26,108,36,86,84,85,92,94,427,86,428,108,83,118,59,135,64,142,49,154,32,147" n="poly">
 	    Manifestum sit cu<ex>n</ex>c<ex>ti</ex>s
@@ -29,31 +28,31 @@
 	    Sanc<ex>ii</ex>, D<ex>e</ex>i
 	    gr<ex>ati</ex>a
 	    d<ex>omi</ex>n<ex>u</ex>s Rossil<ex>ionis</ex>,
-	  </seg>
+	 </seg>
 	  <seg rend="432,86,850,114">
 	  Vall<ex>is</ex> Asp<ex>er</ex>ii,
 	  Confl<ex>uentis</ex> <ex>et</ex>
 	  Cerritan<ex>ie</ex>, p<ex>er</ex> nos <ex>et</ex>
 	  om<ex>ne</ex>s n<ex>ost</ex>ros in
 	  p<ex>er</ex>petuu<ex>m</ex> concedim<ex>us</ex>
-	  </seg>
+	 </seg>
 	  <seg rend="71,122,426,132">
 	  v<ex>o</ex>b<ex>is</ex>, d<ex>omi</ex>no Jacobo,
 	  D<ex>e</ex>i gr<ex>ati</ex>a regi
 	  Aragon<ex>um</ex>, regni Major<ex>icarum</ex>
 	  <ex>et</ex> Val<ex>e</ex>n<ex>cie</ex>, 
-	  </seg>
+	 </seg>
 	  <seg rend="431,115,852,133">
 	  comiti Barch<ex>inone</ex> <ex>et</ex> Urgelli
 	  <ex>et</ex> d<ex>omi</ex>no Montispessulani,
 	  q<ex>uo</ex>d possitis post vita<ex>m</ex>
 	  n<ex>ost</ex>ram 
-	  </seg>
+	 </seg>
 	  <seg rend="42,149,385,153">
 	  vos <ex>et</ex> v<ex>est</ex>ri pon<ex>er</ex>e
 	  <ex>et</ex> mitt<ex>er</ex>e vicariu<ex>m</ex> in
 	  civitate Major<ex>icarum</ex> p<ex>er</ex> vos, 
-	  </seg>
+	 </seg>
 	  <seg rend="389,139,853,158">
 	  q<ex>u</ex>i teneat<ex>ur</ex> dare <ex>et</ex>
 	  s<ex>er</ex>vare jura n<ex>ost</ex>ra <ex>et</ex>
@@ -61,71 +60,71 @@
 	  v<ex>o</ex>b<ex>is</ex> t<ex>ame</ex>n
 	  s<ex>er</ex>vantib<ex>us</ex> in vita
 	  n<ex>ost</ex>ra 
-	  </seg>
+	 </seg>
 	  <seg rend="41,170,456,176">
 	  carta<ex>m</ex> q<ex>u</ex>a<ex>m</ex>
 	  n<ex>o</ex>b<ex>is</ex> fecistis, q<ex>uo</ex>d
 	  p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>m
 	  vicariu<ex>m</ex> co<ex>n</ex>censu <ex>et</ex>
 	  voluntate n<ex>ost</ex>ra 
-	  </seg>
+	 </seg>
 	  <seg rend="459,159,831,184">
 	  v<ex>e</ex>l locu<ex>m</ex>
 	  n<ex>ost</ex>r<ex>u</ex>m tene<ex>n</ex>tis in vita
 	  n<ex>ost</ex>ra in Major<ex>icis</ex>
 	  pone<ex>re</ex>tis. Dat<ex>um</ex> 
-	  </seg>
+	 </seg>
 	  <seg rend="39,193,472,206">
 	  ap<ex>u</ex>d Castilione<ex>m</ex>, IIII
 	  id<ex>us</ex> nov<ex>em</ex>br<ex>is</ex>, anno
 	  D<ex>omi</ex>ni M CC XL.
-	  </seg>
+	 </seg>
 	  <seg rend="43,249,330,270">
 	  Signum <ex>étoile</ex> d<ex>omi</ex>ni N[unonis]
 	  Sanc<ex>ii</ex>.
-	  </seg>
+	 </seg>
 	  <seg rend="47,320,196,335">
 	  Testes huj<ex>us</ex> rei sunt :
-	  </seg>
+	 </seg>
 	  <seg rend="321,325,397,342">
 	  G. d<ex>e</ex> Pavo
-	  </seg>
+	 </seg>
 	  <seg rend="571,318,648,339">
 	  F[errarius] d<ex>e</ex> Olzeto
-	  </seg>
+	 </seg>
 	  <seg rend="48,343,150,361">
 	  Rotland<ex>us</ex> Lain
-	  </seg>
+	 </seg>
 	  <seg rend="319,345,403,368">
 	  B<ex>er</ex>n<ex>ardus</ex> d<ex>e</ex> Pavo
-	  </seg>
+	 </seg>
 	  <seg rend="574,350,654,366">
 	  G<ex>arsi</ex>a Repost<ex>er</ex>
-	  </seg>
+	 </seg>
 	  <seg rend="38,367,138,383">
 	  A[rnaldus] d<ex>e</ex> V<ex>er</ex>neto
-	  </seg>
+	 </seg>
 	  <seg rend="323,372,387,388">
 	  Jo<ex>hannes</ex> Roiz
-	  </seg>
+	 </seg>
 	  <seg rend="573,372,687,386">
 	  Martin<ex>us</ex> d’Oblites
-	  </seg>
+	 </seg>
 	  <seg rend="41,388,235,382,332,392,469,392,468,414,40,408" n="poly">
 	  Raimu<ex>n</ex>d<ex>us</ex> Carl<ex>e</ex>s mandato
 	  d<ex>omi</ex>ni N[unonis] Sanc<ex>ii</ex>
 	  <ex>et</ex> vic<ex>e</ex> mag<ex>ist</ex>ri
 	  Jo<ex>hannis not<ex>arii</ex></ex> 
-	  </seg>
+	 </seg>
 	  <seg rend="473,393,565,400,661,390,678,403,721,379,804,378,855,404,857,438,731,445,473,422" n="poly">
 	  sui ha<ex>n</ex>c carta<ex>m</ex>
 	  sc<ex>r</ex>ipsit <ex>et</ex> hoc
 	  sig-<ex>seing</ex>-n<ex>um</ex> fec<ex>it</ex>.
-	  </seg>
+	 </seg>
 	</p>
       </div>	    
-      <div type="transcription">
-        <div type="texte">
+      <div type="texte">
+        <div type="transcription">
 	  <l>Manifestum sit cunctis quod nos <term n="Nunyo Sanche (Nunó Sanç
 	  en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin
 	  germain de Blanche de Castille, était issu d’une branche cadette des
@@ -265,7 +264,7 @@
 	  Nunyo ou de son lieutenant.</p>
 	
 	</div></div>
-	<div type="commentaire" n="diplomatique">
+	<div type="diplomatic">
 	  <head>Commentaire diplomatique</head>
 	  <div>
 	  <head>Interprétation</head>

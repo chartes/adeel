@@ -17,10 +17,9 @@
         </fileDesc>
         <profileDesc/>
     </teiHeader>
-    <text>
-        <front/>
+    <text>
         <body>
-            <div type="facsimile" rend="fax.jpg">
+            <div type="facsimile">
                 <p>
                     <seg rend="309,165,857,186">Valentinianus subita sanguinis eruptio-</seg>
                     <seg rend="310,193,825,214">-ne, quod graece apoplexis vocatur,</seg>
@@ -34,7 +33,7 @@
                     <seg rend="316,407,874,428">Vale\\<ex>n</ex>/s, lege data ut monachi militarent,</seg>
                     <seg rend="310,434,805,455">nolentes fustib<ex>us</ex> jussit interfici.</seg>
                     <seg rend="311,456,828,489">XII. Theodosius, Theodosii \\postea/ imperatoris </seg>
-                    <seg rend="330,490,416,499"><ex>Chr</ex>i<ex>sti</ex>an<ex>us</ex>. P<ex>roximo</ex> l<ex>i</ex>b<ex>ro</ex> [?]. </seg>
+                    <seg rend="330,490,416,499"><ex>Chr</ex>i<ex>sti</ex>an<ex>us</ex>. P<ex>roximo</ex> l<ex>i</ex>b<ex>ro</ex> [?].</seg>
                     <seg rend="317,499,788,517">pater, et plurimi nobilium occisi.</seg>
                     <seg rend="317,527,849,549">Fotinus in Galatia moritur, a quo Foti-</seg>
                     <seg rend="315,560,744,580">-nianorum dogma judaicum.</seg>
@@ -51,7 +50,7 @@
                     <seg rend="321,880,861,901">Florentinus tam misericors in egen-</seg>
                     <seg rend="319,907,859,935">-tes fuit ut vulgo pater (pater) paupe-</seg>
                     <seg rend="319,939,644,959">-rum nominatus sit.</seg>
-                    <seg rend="478,960,498,971">[appel de note] </seg>
+                    <seg rend="478,960,498,971">[appel de note]</seg>
                     <seg rend="323,970,853,987">Gens Hunorum Gothos vastat qui</seg>
                     <seg rend="321,1000,861,1022">a Romanis sine armorum depositio-</seg>
                     <seg rend="323,1027,859,1055">-ne suscepti per avaritiam Maximi...</seg>
@@ -66,13 +65,13 @@
                     <seg rend="206,577,264,607">Basili<ex>us</ex>.</seg>
                     <seg rend="91,836,151,857">Rufin<ex>us</ex>.</seg>
                     <seg rend="38,959,157,990">Hu<ex>n</ex>ni <ex>contr</ex>a Gothos.</seg>
-                    <seg rend="168,959,313,992">[Note sur Gens Hunorum :]Inaccessis diu seclusa mo<ex>n</ex>tibus </seg>
-                    <seg rend="165,992,317,1045">Scithie repe<ex>n</ex>tina rabie p<ex>ro</ex>g<ex>re</ex>die<ex>n</ex>s ex-arsit i<ex>n</ex> Gothos </seg>
+                    <seg rend="168,959,313,992">[Note sur Gens Hunorum :]Inaccessis diu seclusa mo<ex>n</ex>tibus</seg>
+                    <seg rend="165,992,317,1045">Scithie repe<ex>n</ex>tina rabie p<ex>ro</ex>g<ex>re</ex>die<ex>n</ex>s ex-arsit i<ex>n</ex> Gothos</seg>
                     <seg rend="166,1046,319,1083">eosq<ex>ue</ex> turbatos a<ex>n</ex>-tiq<ex>u</ex>is sedib<ex>us</ex> pellit.</seg>
                </p>
             </div>
-            <div type="transcription">
-                <div type="texte">
+            <div type="texte">
+                <div type="transcription">
                     <l>Valentinianus subita sanguinis eruptio-</l>
                     <l>ne, quod graece apoplexis vocatur,</l>
                     <l>Brigitione moritur. ¶ Post quem Gra-</l>
@@ -89,14 +88,12 @@
                         </add>.</l>
                     <l>Multi monachorum Nitriae per tri-</l>
                     <l>bunos et milites caesi.</l>
-                    <l>Vale<ex>n</ex>s, lege data ut monachi militarent <add place="left">ar. C. De
-                            decurio. l. Q<ex>u</ex>idam, libro X.</add>,</l>
+                    <l>Vale<ex>n</ex>s, lege data ut monachi militarent <add place="left">ar. C. De decurio. l. Q<ex>u</ex>idam, libro X.</add>,</l>
                     <l>nolentes fustib<ex>us</ex> jussit interfici.</l>
                     <l/>
                     <l>XII.</l>
                     <l>Theodosius, Theodosii postea imperatoris</l>
-                    <l>pater <add place="left">Christianus : proximo libro.</add>, et plurimi
-                        nobilium occisi.</l>
+                    <l>pater <add place="left">Christianus : proximo libro.</add>, et plurimi nobilium occisi.</l>
                     <l>Fotinus in Galatia moritur, a quo Foti-</l>
                     <l>nianorum dogma judaicum.</l>
                     <l>Basilius Caesariensis episcopus Cap-</l>
@@ -140,20 +137,16 @@
                         </add>.</l>
                     <l>De nombreux moines de Nitrie sont </l>
                     <l>massacrés par les tribuns et les soldats. </l>
-                    <l>Valens, ayant décrété le service militaire pour les moines <add
-                            place="left"> Code [Justinien], <hi rend="i">Des décurions</hi>,
-                            loi <hi rend="i">Quidam</hi>, liv. X [= C. 10, 31, 26]. </add>, </l>
+                    <l>Valens, ayant décrété le service militaire pour les moines <add place="left"> Code [Justinien], <hi rend="i">Des décurions</hi>, loi <hi rend="i">Quidam</hi>, liv. X [= C. 10, 31, 26]. </add>, </l>
                     <l>a ordonné de tuer les réfractaires à coups de bâton.</l>
                     <l/>
                     <l>12e [année de Valentinien et Valens].</l>
                     <l>Théodose <add place="left">
                             <p>Chrétien : voir le livre suivant. [= <hi rend="i">Chronique de</hi>
                            </p>
-                            <p>
-                                <hi rend="sup">Marcellin, commençant par l'accession de Théodose</hi>
+                            <p> <hi rend="sup">Marcellin, commençant par l'accession de Théodose</hi>
                            </p>
-                            <p>
-                                <hi rend="sup">à l'Empire</hi>].</p>
+                            <p> <hi rend="sup">à l'Empire</hi>].</p>
                         </add>, père de Théodose, le futur </l>
                     <l>empereur, et de nombreux nobles ont été tués.</l>
                     <l>Fotinus meurt en Galatie ; il était le fondateur</l>
@@ -181,9 +174,8 @@
                     <l>accueillis par les Romains sans déposer les</l>
                     <l>armes, à cause de la cupidité du général Maxime</l>
                     <l>ils ont été poussés à la révolte par la faim </l>
-                </div>
-                
+                </div>
             </div>
         </body>
     </text>
-</TEI.2>
+</TEI.2>

@@ -18,180 +18,91 @@
    </teiHeader>
    <text>
       <body>
-         <div type="facsimile" rend="fax.jpg">
+         <div type="facsimile">
             <p>
-               <seg rend="40,48,773,78">Om<ex>n</ex>ib<ex>us</ex>
-                  p<ex>re</ex>sentes litt<ex>er</ex>as inspectur<ex>is</ex>,
-                     . . offic<ex>ialis</ex> cur<ex>ie</ex> Melden<ex>sis</ex>,
-                     sal<ex>u</ex>t<ex>em</ex> in D<ex>omi</ex>no. Notum
-                     facim<ex>us</ex> q<ex>uo</ex>d coram nobis </seg>
-               <seg rend="31,81,792,109">constituta domicella Margareta de Essartis, relicta
-                  defuncti Galt<ex>er</ex>i Ruffi de Essartis, recogno- </seg>
-               <seg rend="31,111,790,132">-vit se vendidisse et imp<ex>er</ex>petuum
-                  q<ex>u</ex>itasse viris religiosis abb<ex>at</ex>i et conventui de
-                  Caroliloco et imp<ex>er</ex>-</seg>
-               <seg rend="26,138,788,155">-petuum q<ex>u</ex>itasse duo arpenta
-                  t<ex>er</ex>re et dimid<ex>ium</ex> arabil<ex>is</ex>, sita in
-                     t<ex>er</ex>ritorio de Marchemoreto, contigua</seg>
-               <seg rend="25,164,789,182">t<ex>er</ex>re
-                  predic<ex>t</ex>or<ex>um</ex> abb<ex>at</ex>is et conventus, pro
-                     q<ex>u</ex>indecim lib<ex>ris</ex> turonen<ex>sium</ex>, de
-                     q<ex>u</ex>ib<ex>us</ex> tenuit se coram nob<ex>is</ex>
-                     p<ex>ro</ex> pagata</seg>
-               <seg rend="32,188,795,208">in pecunia num<ex>er</ex>ata ;
-                  reno<ex>n</ex>cians q<ex>u</ex>a<ex>n</ex>tum ad hoc
-                     excepc<ex>i</ex>o<ex>n</ex>i no<ex>n</ex>
-                  num<ex>er</ex>ate sibi pecunie, no<ex>n</ex> tradite,
-                  no<ex>n</ex> solute ;</seg>
-               <seg rend="31,217,792,236">promittens, fide data in manu n<ex>ost</ex>ra, se
-                  istam vendicio<ex>n</ex>em firmit<ex>er</ex>
-                  imp<ex>er</ex>petuum s<ex>er</ex>vatura<ex>m</ex> et
-                  no<ex>n</ex></seg>
-               <seg rend="38,241,793,260">cont<ex>ra</ex>venturam
-                  rac<ex>i</ex>o<ex>n</ex>e h<ex>er</ex>editatis, dotalicii sive
-                  dotis seu q<ex>u</ex>aconq<ex>ue</ex> alia
-                     rac<ex>i</ex>o<ex>n</ex>e ; immo
-                  d<ex>i</ex>c<ex>t</ex>is emto-</seg>
-               <seg rend="35,266,783,287">-ribus erga om<ex>ne</ex>s rectam
-                  gara<ex>n</ex>diam portabit erga om<ex>ne</ex>s
-                  imp<ex>er</ex>petuum. Petrus v<ex>er</ex>o
-                     p<ex>res</ex>b<ex>ite</ex>r de Bolorria,</seg>
-               <seg rend="39,292,794,313">frat<ex>er</ex> d<ex>i</ex>c<ex>t</ex>e
-                  Margarete, <ex>et</ex> Guiot<ex>us</ex> filius
-                     d<ex>i</ex>c<ex>t</ex>e Margarete, in n<ex>ost</ex>ra
-                     p<ex>re</ex>sencia constituti,
-                     p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>am</seg>
-               <seg rend="38,319,791,340">vendic<ex>i</ex>o<ex>n</ex>em
-                  voluer<ex>unt</ex>, laudav<ex>e</ex>ru<ex>n</ex>t et
-                     co<ex>n</ex>cess<ex>er</ex>unt ; promittentes, fide data in manu
-                     n<ex>ost</ex>ra, q<ex>uo</ex>d cont<ex>ra</ex></seg>
-               <seg rend="34,346,788,361">p<ex>re</ex>missa p<ex>er</ex> se
-                  v<ex>e</ex>l p<ex>er</ex> alium rac<ex>i</ex>o<ex>n</ex>e
-                     h<ex>er</ex>editatis seu q<ex>u</ex>aconq<ex>ue</ex> alia
-                     rac<ex>i</ex>o<ex>n</ex>e per se v<ex>e</ex>l per alium
-                     no<ex>n</ex> venie<ex>nt</ex></seg>
-               <seg rend="35,371,789,390">in futurum. In cuj<ex>us</ex> rei
-                  testimoniu<ex>m</ex>, p<ex>re</ex>sentib<ex>us</ex>
-                     litt<ex>er</ex>is sigillum curie Melden<ex>sis</ex>
-                  duxim<ex>us</ex> appo-</seg>
-               <seg rend="30,402,776,419">-nendum. Dat<ex>um</ex> anno D<ex>omi</ex>ni
-                  M° CC° L° p<ex>r</ex>imo, mense novembr<ex>is</ex>.</seg>
+               <seg rend="40,48,773,78">Om<ex>n</ex>ib<ex>us</ex> p<ex>re</ex>sentes litt<ex>er</ex>as inspectur<ex>is</ex>, . . offic<ex>ialis</ex> cur<ex>ie</ex> Melden<ex>sis</ex>, sal<ex>u</ex>t<ex>em</ex> in D<ex>omi</ex>no. Notum facim<ex>us</ex> q<ex>uo</ex>d coram nobis</seg>
+               <seg rend="31,81,792,109">constituta domicella Margareta de Essartis, relicta defuncti Galt<ex>er</ex>i Ruffi de Essartis, recogno-</seg>
+               <seg rend="31,111,790,132">-vit se vendidisse et imp<ex>er</ex>petuum q<ex>u</ex>itasse viris religiosis abb<ex>at</ex>i et conventui de Caroliloco et imp<ex>er</ex>-</seg>
+               <seg rend="26,138,788,155">-petuum q<ex>u</ex>itasse duo arpenta t<ex>er</ex>re et dimid<ex>ium</ex> arabil<ex>is</ex>, sita in t<ex>er</ex>ritorio de Marchemoreto, contigua</seg>
+               <seg rend="25,164,789,182">t<ex>er</ex>re predic<ex>t</ex>or<ex>um</ex> abb<ex>at</ex>is et conventus, pro q<ex>u</ex>indecim lib<ex>ris</ex> turonen<ex>sium</ex>, de q<ex>u</ex>ib<ex>us</ex> tenuit se coram nob<ex>is</ex> p<ex>ro</ex> pagata</seg>
+               <seg rend="32,188,795,208">in pecunia num<ex>er</ex>ata ; reno<ex>n</ex>cians q<ex>u</ex>a<ex>n</ex>tum ad hoc excepc<ex>i</ex>o<ex>n</ex>i no<ex>n</ex> num<ex>er</ex>ate sibi pecunie, no<ex>n</ex> tradite, no<ex>n</ex> solute ;</seg>
+               <seg rend="31,217,792,236">promittens, fide data in manu n<ex>ost</ex>ra, se istam vendicio<ex>n</ex>em firmit<ex>er</ex> imp<ex>er</ex>petuum s<ex>er</ex>vatura<ex>m</ex> et no<ex>n</ex></seg>
+               <seg rend="38,241,793,260">cont<ex>ra</ex>venturam rac<ex>i</ex>o<ex>n</ex>e h<ex>er</ex>editatis, dotalicii sive dotis seu q<ex>u</ex>aconq<ex>ue</ex> alia rac<ex>i</ex>o<ex>n</ex>e ; immo d<ex>i</ex>c<ex>t</ex>is emto-</seg>
+               <seg rend="35,266,783,287">-ribus erga om<ex>ne</ex>s rectam gara<ex>n</ex>diam portabit erga om<ex>ne</ex>s imp<ex>er</ex>petuum. Petrus v<ex>er</ex>o p<ex>res</ex>b<ex>ite</ex>r de Bolorria,</seg>
+               <seg rend="39,292,794,313">frat<ex>er</ex> d<ex>i</ex>c<ex>t</ex>e Margarete, <ex>et</ex> Guiot<ex>us</ex> filius d<ex>i</ex>c<ex>t</ex>e Margarete, in n<ex>ost</ex>ra p<ex>re</ex>sencia constituti, p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>am</seg>
+               <seg rend="38,319,791,340">vendic<ex>i</ex>o<ex>n</ex>em voluer<ex>unt</ex>, laudav<ex>e</ex>ru<ex>n</ex>t et co<ex>n</ex>cess<ex>er</ex>unt ; promittentes, fide data in manu n<ex>ost</ex>ra, q<ex>uo</ex>d cont<ex>ra</ex></seg>
+               <seg rend="34,346,788,361">p<ex>re</ex>missa p<ex>er</ex> se v<ex>e</ex>l p<ex>er</ex> alium rac<ex>i</ex>o<ex>n</ex>e h<ex>er</ex>editatis seu q<ex>u</ex>aconq<ex>ue</ex> alia rac<ex>i</ex>o<ex>n</ex>e per se v<ex>e</ex>l per alium no<ex>n</ex> venie<ex>nt</ex></seg>
+               <seg rend="35,371,789,390">in futurum. In cuj<ex>us</ex> rei testimoniu<ex>m</ex>, p<ex>re</ex>sentib<ex>us</ex> litt<ex>er</ex>is sigillum curie Melden<ex>sis</ex> duxim<ex>us</ex> appo-</seg>
+               <seg rend="30,402,776,419">-nendum. Dat<ex>um</ex> anno D<ex>omi</ex>ni M° CC° L° p<ex>r</ex>imo, mense novembr<ex>is</ex>.</seg>
            </p>
          </div>
-         <div type="transcription">
-            <div type="texte">
-               <l>Om<ex>n</ex>ib<ex>us</ex> p<ex>re</ex>sentes
-                  litt<ex>er</ex>as inspectur<ex>is</ex>, </l>
+         <div type="texte">
+            <div type="transcription">
+               <l>Om<ex>n</ex>ib<ex>us</ex> p<ex>re</ex>sentes litt<ex>er</ex>as inspectur<ex>is</ex>, </l>
                <l>. . offic<ex>ialis</ex> cur<ex>ie</ex>
-                  <term n="Meaux, Seine-et-Marne, ch.-l. arr.">Melden<ex>sis</ex></term>,
-                     sal<ex>u</ex>t<ex>em</ex> in D<ex>omi</ex>no. </l>
+                  <term n="Meaux, Seine-et-Marne, ch.-l. arr.">Melden<ex>sis</ex></term>, sal<ex>u</ex>t<ex>em</ex> in D<ex>omi</ex>no. </l>
                <l/>
                <l>Notum facim<ex>us</ex> q<ex>uo</ex>d coram nobis </l>
-               <l>constituta <term
-                     n="Féminin de domicellus/ damoiseau, diminutif de domina (&#171;madame&#187;), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse."
-                     >domicella</term> Margareta de Essartis, </l>
-               <l>relicta defuncti Galt<ex>er</ex>i Ruffi de <term
-                     n="Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit &#171;Lessart&#187;sur la commune de Marchémoret."
-                     >Essartis</term>, </l>
+               <l>constituta <term n="Féminin de domicellus/ damoiseau, diminutif de domina (&#171;madame&#187;), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse." >domicella</term> Margareta de Essartis, </l>
+               <l>relicta defuncti Galt<ex>er</ex>i Ruffi de <term n="Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit &#171;Lessart&#187;sur la commune de Marchémoret." >Essartis</term>, </l>
                <l>recognovit se vendidisse et imp<ex>er</ex>petuum </l>
-               <l>q<ex>u</ex>itasse viris religiosis <term
-                     n="Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique."
-                        >abb<ex>at</ex>i et conventui</term>
+               <l>q<ex>u</ex>itasse viris religiosis <term n="Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique." >abb<ex>at</ex>i et conventui</term>
                </l>
-               <l>de <term
-                     n="Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis). L’abbaye est au diocèse de Senlis, mais on choisit naturellement l’officialité de Meaux, diocèse de résidence du vendeur."
-                     >Caroliloco</term> et imp<ex>er</ex>petuum q<ex>u</ex>itasse </l>
-               <l>duo arpenta t<ex>er</ex>re et dimid<ex>ium</ex>
-                  arabil<ex>is</ex>, sita </l>
-               <l>in t<ex>er</ex>ritorio de <term
-                     n="Marchémoret, localité à une douzaine de km au SE de Chaalis (Seine-et-Marne, cant. Dammartin-en-Goële)."
-                     >Marchemoreto</term>, contigua</l>
-               <l>t<ex>er</ex>re predic<ex>t</ex>or<ex>um</ex>
-                  abb<ex>at</ex>is et conventus, pro </l>
+               <l>de <term n="Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis). L’abbaye est au diocèse de Senlis, mais on choisit naturellement l’officialité de Meaux, diocèse de résidence du vendeur." >Caroliloco</term> et imp<ex>er</ex>petuum q<ex>u</ex>itasse </l>
+               <l>duo arpenta t<ex>er</ex>re et dimid<ex>ium</ex> arabil<ex>is</ex>, sita </l>
+               <l>in t<ex>er</ex>ritorio de <term n="Marchémoret, localité à une douzaine de km au SE de Chaalis (Seine-et-Marne, cant. Dammartin-en-Goële)." >Marchemoreto</term>, contigua</l>
+               <l>t<ex>er</ex>re predic<ex>t</ex>or<ex>um</ex> abb<ex>at</ex>is et conventus, pro </l>
                <l>q<ex>u</ex>indecim lib<ex>ris</ex>
-                  <term
-                     n="Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend &#171;(livres) de deniers (tournois)&#187;."
-                        >turonen<ex>sium</ex></term>, de q<ex>u</ex>ib<ex>us</ex>
+                  <term n="Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend &#171;(livres) de deniers (tournois)&#187;." >turonen<ex>sium</ex></term>, de q<ex>u</ex>ib<ex>us</ex>
                </l>
                <l>tenuit se coram nob<ex>is</ex> p<ex>ro</ex> pagata in </l>
                <l>pecunia num<ex>er</ex>ata ; </l>
                <l/>
-               <l>reno<ex>n</ex>cians q<ex>u</ex>a<ex>n</ex>tum ad hoc
-                     excepc<ex>i</ex>o<ex>n</ex>i no<ex>n</ex>
+               <l>reno<ex>n</ex>cians q<ex>u</ex>a<ex>n</ex>tum ad hoc excepc<ex>i</ex>o<ex>n</ex>i no<ex>n</ex>
                </l>
-               <l>num<ex>er</ex>ate sibi pecunie, no<ex>n</ex> tradite,
-                  no<ex>n</ex> solute ;</l>
+               <l>num<ex>er</ex>ate sibi pecunie, no<ex>n</ex> tradite, no<ex>n</ex> solute ;</l>
                <l>promittens, fide data in manu n<ex>ost</ex>ra, se </l>
-               <l>istam vendicio<ex>n</ex>em firmit<ex>er</ex>
-                  imp<ex>er</ex>petuum </l>
+               <l>istam vendicio<ex>n</ex>em firmit<ex>er</ex> imp<ex>er</ex>petuum </l>
                <l>s<ex>er</ex>vatura<ex>m</ex> et no<ex>n</ex>
                </l>
                <l>cont<ex>ra</ex>venturam rac<ex>i</ex>o<ex>n</ex>e </l>
-               <l>h<ex>er</ex>editatis, <term
-                     n="Le sens technique &#171;classique&#187; des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse)."
-                     >dotalicii sive dotis</term> seu </l>
-               <l>q<ex>u</ex>aconq<ex>ue</ex> alia
-                  rac<ex>i</ex>o<ex>n</ex>e ; immo d<ex>i</ex>c<ex>t</ex>is </l>
+               <l>h<ex>er</ex>editatis, <term n="Le sens technique &#171;classique&#187; des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse)." >dotalicii sive dotis</term> seu </l>
+               <l>q<ex>u</ex>aconq<ex>ue</ex> alia rac<ex>i</ex>o<ex>n</ex>e ; immo d<ex>i</ex>c<ex>t</ex>is </l>
                <l>emtoribus erga om<ex>ne</ex>s rectam gara<ex>n</ex>diam </l>
                <l>portabit erga om<ex>ne</ex>s imp<ex>er</ex>petuum. </l>
                <l/>
-               <l>Petrus v<ex>er</ex>o p<ex>res</ex>b<ex>ite</ex>r de <term
-                     n="Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle).">Bolorria</term>,
-                     frat<ex>er</ex>
+               <l>Petrus v<ex>er</ex>o p<ex>res</ex>b<ex>ite</ex>r de <term n="Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle).">Bolorria</term>, frat<ex>er</ex>
                </l>
-               <l>d<ex>i</ex>c<ex>t</ex>e Margarete, <ex>et</ex>
-                  Guiot<ex>us</ex> filius d<ex>i</ex>c<ex>t</ex>e </l>
+               <l>d<ex>i</ex>c<ex>t</ex>e Margarete, <ex>et</ex> Guiot<ex>us</ex> filius d<ex>i</ex>c<ex>t</ex>e </l>
                <l>Margarete, in n<ex>ost</ex>ra p<ex>re</ex>sencia constituti, </l>
-               <l>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>am
-                     vendic<ex>i</ex>o<ex>n</ex>em voluer<ex>unt</ex>, </l>
-               <l>laudav<ex>e</ex>ru<ex>n</ex>t et
-                  co<ex>n</ex>cess<ex>er</ex>unt ; promittentes, </l>
+               <l>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>am vendic<ex>i</ex>o<ex>n</ex>em voluer<ex>unt</ex>, </l>
+               <l>laudav<ex>e</ex>ru<ex>n</ex>t et co<ex>n</ex>cess<ex>er</ex>unt ; promittentes, </l>
                <l>fide data in manu n<ex>ost</ex>ra, q<ex>uo</ex>d cont<ex>ra</ex></l>
-               <l>p<ex>re</ex>missa p<ex>er</ex> se v<ex>e</ex>l
-                  p<ex>er</ex> alium rac<ex>i</ex>o<ex>n</ex>e </l>
-               <l>h<ex>er</ex>editatis seu q<ex>u</ex>aconq<ex>ue</ex> alia
-                     rac<ex>i</ex>o<ex>n</ex>e per </l>
-               <l>se v<ex>e</ex>l per alium no<ex>n</ex> venie<ex>nt</ex> in
-                  futurum. </l>
+               <l>p<ex>re</ex>missa p<ex>er</ex> se v<ex>e</ex>l p<ex>er</ex> alium rac<ex>i</ex>o<ex>n</ex>e </l>
+               <l>h<ex>er</ex>editatis seu q<ex>u</ex>aconq<ex>ue</ex> alia rac<ex>i</ex>o<ex>n</ex>e per </l>
+               <l>se v<ex>e</ex>l per alium no<ex>n</ex> venie<ex>nt</ex> in futurum. </l>
                <l/>
-               <l>In cuj<ex>us</ex> rei testimoniu<ex>m</ex>,
-                     p<ex>re</ex>sentib<ex>us</ex>
+               <l>In cuj<ex>us</ex> rei testimoniu<ex>m</ex>, p<ex>re</ex>sentib<ex>us</ex>
                </l>
-               <l>litt<ex>er</ex>is sigillum curie Melden<ex>sis</ex>
-                  duxim<ex>us</ex>
+               <l>litt<ex>er</ex>is sigillum curie Melden<ex>sis</ex> duxim<ex>us</ex>
                </l>
                <l>apponendum. Dat<ex>um</ex> anno D<ex>omi</ex>ni </l>
                <l>M° CC° L° p<ex>r</ex>imo, mense novembr<ex>is</ex>.</l>
             </div>
             <div type="traduction">
                <l>A tous ceux qui verront les présentes lettres, </l>
-               <l>. . l'official de la cour de <term n="Meaux, Seine-et-Marne, ch.-l. arr."
-                  >Meaux</term>, salut dans le Seigneur.</l>
+               <l>. . l'official de la cour de <term n="Meaux, Seine-et-Marne, ch.-l. arr." >Meaux</term>, salut dans le Seigneur.</l>
                <l/>
                <l>Nous faisons savoir que, constituée devant </l>
-               <l>nous, <term
-                     n="Féminin de domicellus/ damoiseau, diminutif de domina (&#171;madame&#187;), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse."
-                     >damoiselle</term> Marguerite de <term
-                     n="Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit &#171;Lessart&#187;sur la commune de Marchémoret."
-                     >Lessart</term>, </l>
+               <l>nous, <term n="Féminin de domicellus/ damoiseau, diminutif de domina (&#171;madame&#187;), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse." >damoiselle</term> Marguerite de <term n="Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit &#171;Lessart&#187;sur la commune de Marchémoret." >Lessart</term>, </l>
                <l>veuve de feu Gautier le Roux de Lessart, a </l>
                <l>reconnu avoir vendu et à perpétuité </l>
-               <l>abandonné à religieux hommes <term
-                     n="Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique."
-                     >l'abbé et le </term></l>
-               <l><term
-                     n="Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique."
-                     >convent</term> de <term
-                     n="Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis). L’abbaye est au diocèse de Senlis, mais on choisit naturellement l’officialité de Meaux, diocèse de résidence du vendeur."
-                     >Chaalis</term> et à perpétuité </l>
+               <l>abandonné à religieux hommes <term n="Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique." >l'abbé et le </term></l>
+               <l><term n="Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique." >convent</term> de <term n="Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis). L’abbaye est au diocèse de Senlis, mais on choisit naturellement l’officialité de Meaux, diocèse de résidence du vendeur." >Chaalis</term> et à perpétuité </l>
                <l>abandonné deux arpents et demi de terre </l>
-               <l>arable, sis au finage de <term
-                     n="Marchémoret, localité à une douzaine de km au SE de Chaalis (Seine-et-Marne, cant. Dammartin-en-Goële)."
-                     >Marchémoret</term>, </l>
+               <l>arable, sis au finage de <term n="Marchémoret, localité à une douzaine de km au SE de Chaalis (Seine-et-Marne, cant. Dammartin-en-Goële)." >Marchémoret</term>, </l>
                <l>contigus à la terre des susdits abbé et </l>
-               <l>convent, pour quinze livres <term
-                     n="Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend &#171;(livres) de deniers (tournois)&#187;."
-                     >tournois</term>, </l>
+               <l>convent, pour quinze livres <term n="Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend &#171;(livres) de deniers (tournois)&#187;." >tournois</term>, </l>
                <l>desquelles elle s'est tenue devant nous </l>
                <l>pour payée en argent compté [devant elle] ;</l>
                <l/>
@@ -201,16 +112,13 @@
                <l>promettant, par la foi donnée en notre main, qu'elle </l>
                <l>observera fermement à perpétuité cette vente </l>
                <l>et qu'elle n'y fera pas opposition à raison </l>
-               <l>[de ses droits] d'héritage, <term
-                     n="Le sens technique &#171;classique&#187; des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse)."
-                     >de douaire ou de dot</term>
+               <l>[de ses droits] d'héritage, <term n="Le sens technique &#171;classique&#187; des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse)." >de douaire ou de dot</term>
                </l>
                <l>ou pour quelque autre raison ; au contraire</l>
                <l>elle portera droite garantie auxdits acheteurs </l>
                <l>contre tous à perpétuité.</l>
                <l/>
-               <l>Et Pierre, prêtre de <term n="Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle)."
-                     >Bouleurs</term>, frère de </l>
+               <l>Et Pierre, prêtre de <term n="Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle)." >Bouleurs</term>, frère de </l>
                <l>ladite Marguerite, et Guiot fils de ladite </l>
                <l>Marguerite, constitués en notre présence, </l>
                <l>ont voulu, approuvé et octroyé la susdite </l>
@@ -226,7 +134,7 @@
                <l>1251, au mois de novembre.</l>
             </div>
          </div>
-         <div type="commentaire" n="diplomatique">
+         <div type="diplomatic">
             <head>Commentaire diplomatique</head>
             <div>
                <head>Caractères externes</head>
@@ -234,46 +142,24 @@
                   <p>
                      <figure rend="22/faxexternes.jpg">
                         <figDesc>
-                           <seg type="poly"
-                              rend="234,42,250,41,270,42,288,42,303,44,315,48,316,55,296,58,288,59,278,60,264,61,252,61,236,58,225,56,210,52,212,44"
-                              >S&#201;v&#201;rit&#201; relative des
-                              abr&#201;viations.</seg>
-                           <seg type="poly" rend="577,83,583,77,590,76,597,83,592,92,584,92,579,88"
-                              >Absence de marquage des coupures de mots en fin de ligne.</seg>
-                           <seg type="poly"
-                              rend="262,101,274,100,283,101,288,106,291,110,283,114,279,115,272,117,264,115,258,113,255,109"
-                              >i point&#201; par un trait oblique appuy&#201;.</seg>
-                           <seg type="poly"
-                              rend="140,227,152,224,168,221,186,223,196,229,195,234,185,238,169,241,157,241,145,239,141,233"
-                              >Cursivit&#201; du trac&#201; des lettres.</seg>
-                           <seg type="poly"
-                              rend="499,308,520,308,536,309,558,314,571,320,560,327,543,331,527,332,513,335,494,331,477,331,465,327,455,324,455,316,468,312,480,311"
-                              >Traits interdisant un ajout.</seg>
-                           <seg type="poly"
-                              rend="294,346,315,352,324,365,328,381,324,391,318,400,308,405,288,407,274,401,268,389,264,371,271,359,280,350"
-                              >Double queue de parchemin.</seg>
+                           <seg type="poly" rend="234,42,250,41,270,42,288,42,303,44,315,48,316,55,296,58,288,59,278,60,264,61,252,61,236,58,225,56,210,52,212,44" >S&#201;v&#201;rit&#201; relative des abr&#201;viations.</seg>
+                           <seg type="poly" rend="577,83,583,77,590,76,597,83,592,92,584,92,579,88" >Absence de marquage des coupures de mots en fin de ligne.</seg>
+                           <seg type="poly" rend="262,101,274,100,283,101,288,106,291,110,283,114,279,115,272,117,264,115,258,113,255,109" >i point&#201; par un trait oblique appuy&#201;.</seg>
+                           <seg type="poly" rend="140,227,152,224,168,221,186,223,196,229,195,234,185,238,169,241,157,241,145,239,141,233" >Cursivit&#201; du trac&#201; des lettres.</seg>
+                           <seg type="poly" rend="499,308,520,308,536,309,558,314,571,320,560,327,543,331,527,332,513,335,494,331,477,331,465,327,455,324,455,316,468,312,480,311" >Traits interdisant un ajout.</seg>
+                           <seg type="poly" rend="294,346,315,352,324,365,328,381,324,391,318,400,308,405,288,407,274,401,268,389,264,371,271,359,280,350" >Double queue de parchemin.</seg>
                         </figDesc>
                      </figure>
                  </p>
-                  <p>Noter l'absence presque totale de souci d&#201;coratif ; les majuscules
-                     &#192;traits redoubl&#201;s (premi&#232;re et derni&#232;re
-                     ligne) servent surtout &#192;scander le d&#201;but et la fin du
-                     discours diplomatique (ou avec le mois, &#192;achever l'acte avec une
-                     certaine emphase).</p>
+                  <p>Noter l'absence presque totale de souci d&#201;coratif ; les majuscules &#192;traits redoubl&#201;s (premi&#232;re et derni&#232;re ligne) servent surtout &#192;scander le d&#201;but et la fin du discours diplomatique (ou avec le mois, &#192;achever l'acte avec une certaine emphase).</p>
                   <p>Au fil de la lecture, noter :</p>
                   <list>
-                     <item>la s&#201;v&#201;rit&#201; relative de certaines
-                        abr&#201;viations;</item>
-                     <item>l'absence de souci de marquer les coupures de mot en fin de ligne (4 cas
-                        sur 13) ;</item>
+                     <item>la s&#201;v&#201;rit&#201; relative de certaines abr&#201;viations;</item>
+                     <item>l'absence de souci de marquer les coupures de mot en fin de ligne (4 cas sur 13) ;</item>
                      <item>l'habitude de pointer largement les &quot;i&quot; ;</item>
-                     <item>la cursivit&#201; du trac&#201; des lettres, qui contrebalance
-                        parfois l'attention port&#201;e &#192;la s&#201;paration des
-                        mots ;</item>
-                     <item>l'occupation de la fin de la fin de la derni&#232;re ligne par des
-                        traits interdisant un ajout ;</item>
-                     <item>le scellement tout aussi normal &#192;l'&#201;poque sur double
-                        queue de parchemin.</item>
+                     <item>la cursivit&#201; du trac&#201; des lettres, qui contrebalance parfois l'attention port&#201;e &#192;la s&#201;paration des mots ;</item>
+                     <item>l'occupation de la fin de la fin de la derni&#232;re ligne par des traits interdisant un ajout ;</item>
+                     <item>le scellement tout aussi normal &#192;l'&#201;poque sur double queue de parchemin.</item>
                   </list>
                </div>
             </div>
@@ -282,81 +168,30 @@
                <div>
                   <div>
                      <head>Texte</head>
-                     <p>Omnibus presentes litteras inspecturis, . . officialis curie Meldensis,
-                        salutem in Domino. Notum facimus quod <hi n="color" rend="#0000FF">
-                           <hi rend="strong">coram nobis constituta</hi>
-                        </hi><hi rend="strong">
-                           <hi n="color" rend="#FF0000">domicella Margareta de Essartis, relicta
-                              defuncti Galteri Ruffi de Essartis</hi>
-                        </hi>, <hi n="color" rend="#0000FF">
-                           <hi rend="strong">recognovit</hi>
-                        </hi> se vendidisse <hi n="color" rend="#CC0099">
-                           <hi rend="strong">et imperpetuum quitasse</hi>
-                        </hi> viris religiosis abbati et conventui de Caroliloco <hi n="color"
-                           rend="#CC0099">
-                           <hi rend="strong">et imperpetuum quitasse</hi>
-                        </hi>
-                        <hi n="color" rend="#FF0000">
-                           <hi rend="strong">duo arpenta terre et dimidium arabilis, sita in
-                              territorio de Marchemoreto, contigua terre</hi>
-                        </hi> predictorum abbatis et conventus, pro quindecim libris turonensium, de
-                        quibus tenuit se <hi n="color" rend="#0000FF">
-                           <hi rend="strong">coram nobis pro pagata in pecunia numerata ;</hi>
-                        </hi><hi n="color" rend="#009933">
-                           <hi rend="strong">renoncians</hi>
-                        </hi> quantum ad hoc <hi n="color" rend="#0000FF">
-                           <hi rend="strong">excepcioni non numerate sibi pecunie, non tradite, non
-                              solute ; promittens, fide data in manu nostra</hi>
-                        </hi>, se istam vendicionem firmiter imperpetuum servaturam et non
-                        contraventuram racione hereditatis, dotalicii sive dotis seu <hi n="color"
-                           rend="#009933">
-                           <hi rend="strong">quaconque</hi>
-                        </hi> alia racione ; immo dictis emtoribus erga omnes <hi n="color"
-                           rend="#0000FF">
-                           <hi rend="strong">rectam garandiam portabit</hi>
-                        </hi> erga omnes imperpetuum. Petrus vero presbiter de Bolorria, frater
-                        dicte Margarete, et Guiotus filius dicte Margarete, <hi n="color"
-                           rend="#0000FF">
-                           <hi rend="strong">in nostra presencia constituti</hi>
-                        </hi>, predictam vendicionem voluerunt, laudaverunt et concesserunt ; <hi
-                           n="color" rend="#0000FF">
-                           <hi rend="strong">promittentes, fide data in manu nostra</hi>
-                        </hi>, quod contra premissa per se vel per alium racione hereditatis seu <hi
-                           n="color" rend="#009933">
-                           <hi rend="strong">quaconque</hi>
-                        </hi> alia racione per se vel per alium non venient in futurum. In cujus rei
-                        testimonium, presentibus litteris sigillum curie Meldensis duximus
-                        apponendum. Datum anno Domini M° CC° L° primo, mense novembris.</p>
+                     <p>Omnibus presentes litteras inspecturis, . . officialis curie Meldensis, salutem in Domino. Notum facimus quod <hi n="color" rend="#0000FF"> <hi rend="strong">coram nobis constituta</hi>
+                        </hi><hi rend="strong"> <hi n="color" rend="#FF0000">domicella Margareta de Essartis, relicta defuncti Galteri Ruffi de Essartis</hi>
+                        </hi>, <hi n="color" rend="#0000FF"> <hi rend="strong">recognovit</hi>
+                        </hi> se vendidisse <hi n="color" rend="#CC0099"> <hi rend="strong">et imperpetuum quitasse</hi>
+                        </hi> viris religiosis abbati et conventui de Caroliloco <hi n="color" rend="#CC0099"> <hi rend="strong">et imperpetuum quitasse</hi>
+                        </hi> <hi n="color" rend="#FF0000"> <hi rend="strong">duo arpenta terre et dimidium arabilis, sita in territorio de Marchemoreto, contigua terre</hi>
+                        </hi> predictorum abbatis et conventus, pro quindecim libris turonensium, de quibus tenuit se <hi n="color" rend="#0000FF"> <hi rend="strong">coram nobis pro pagata in pecunia numerata ;</hi>
+                        </hi><hi n="color" rend="#009933"> <hi rend="strong">renoncians</hi>
+                        </hi> quantum ad hoc <hi n="color" rend="#0000FF"> <hi rend="strong">excepcioni non numerate sibi pecunie, non tradite, non solute ; promittens, fide data in manu nostra</hi>
+                        </hi>, se istam vendicionem firmiter imperpetuum servaturam et non contraventuram racione hereditatis, dotalicii sive dotis seu <hi n="color" rend="#009933"> <hi rend="strong">quaconque</hi>
+                        </hi> alia racione ; immo dictis emtoribus erga omnes <hi n="color" rend="#0000FF"> <hi rend="strong">rectam garandiam portabit</hi>
+                        </hi> erga omnes imperpetuum. Petrus vero presbiter de Bolorria, frater dicte Margarete, et Guiotus filius dicte Margarete, <hi n="color" rend="#0000FF"> <hi rend="strong">in nostra presencia constituti</hi>
+                        </hi>, predictam vendicionem voluerunt, laudaverunt et concesserunt ; <hi n="color" rend="#0000FF"> <hi rend="strong">promittentes, fide data in manu nostra</hi>
+                        </hi>, quod contra premissa per se vel per alium racione hereditatis seu <hi n="color" rend="#009933"> <hi rend="strong">quaconque</hi>
+                        </hi> alia racione per se vel per alium non venient in futurum. In cujus rei testimonium, presentibus litteris sigillum curie Meldensis duximus apponendum. Datum anno Domini M° CC° L° primo, mense novembris.</p>
                   </div>
                   <div>
                      <head>Commentaire</head>
-                     <p>Le trait le plus &#201;vident, bien caract&#201;ristique de ce type
-                        d'acte, est l'emploi de <hi n="color" rend="#0000FF">
-                           <hi rend="strong">termes et expressions techniques</hi>
-                        </hi> fondant la validit&#201; du document sur le recours au droit
-                        savant et &#192;la pratique judiciaire, voire sur leur
-                        r&#201;p&#201;tition (promesses de la femme puis de ses parents, qui
-                        empruntent tout naturellement au registre religieux du serment).</p>
-                     <p>Noter aussi le souci de <hi n="color" rend="#FF0000">
-                           <hi rend="strong">pr&#201;cision descriptive</hi>
-                        </hi> qui anime les actes de l'&#201;poque, de tout genre :
-                        &#201;tats de la soci&#201;t&#201;, onomastique, relative
-                        pr&#201;cision aussi de la description de la terre (superficie ; finage
-                        mais pas ici le quartier d&#201;sign&#201; par un microtoponyme ;
-                        voisinage, mais pas ici les confronts : l'acte ne suffit pas pour la
-                        gestion, il doit &#234;tre doubl&#201; de documents
-                        sp&#201;cifiques, tel un censier).</p>
-                     <p>Ce double trait n'exclut pas, bien au contraire, les <hi n="color"
-                           rend="#CC0099">
-                           <hi rend="strong">bourdes</hi>
-                        </hi> (r&#201;p&#201;tition non relev&#201;e par le
-                        r&#201;dacteur), parce que l'on travaille vite ; ni, derri&#232;re
-                        la pratique d'un latin scolaire et ch&#194;ti&#201; (le
-                        r&#201;dacteur ici relatinise tous les noms propres), une possible
-                        influence de la langue vernaculaire, &#192;tout le moins de la <hi
-                           n="color" rend="#009933">
-                           <hi rend="strong">prononciation &quot;gallicane&quot; du
-                           latin</hi>
+                     <p>Le trait le plus &#201;vident, bien caract&#201;ristique de ce type d'acte, est l'emploi de <hi n="color" rend="#0000FF"> <hi rend="strong">termes et expressions techniques</hi>
+                        </hi> fondant la validit&#201; du document sur le recours au droit savant et &#192;la pratique judiciaire, voire sur leur r&#201;p&#201;tition (promesses de la femme puis de ses parents, qui empruntent tout naturellement au registre religieux du serment).</p>
+                     <p>Noter aussi le souci de <hi n="color" rend="#FF0000"> <hi rend="strong">pr&#201;cision descriptive</hi>
+                        </hi> qui anime les actes de l'&#201;poque, de tout genre : &#201;tats de la soci&#201;t&#201;, onomastique, relative pr&#201;cision aussi de la description de la terre (superficie ; finage mais pas ici le quartier d&#201;sign&#201; par un microtoponyme ; voisinage, mais pas ici les confronts : l'acte ne suffit pas pour la gestion, il doit &#234;tre doubl&#201; de documents sp&#201;cifiques, tel un censier).</p>
+                     <p>Ce double trait n'exclut pas, bien au contraire, les <hi n="color" rend="#CC0099"> <hi rend="strong">bourdes</hi>
+                        </hi> (r&#201;p&#201;tition non relev&#201;e par le r&#201;dacteur), parce que l'on travaille vite ; ni, derri&#232;re la pratique d'un latin scolaire et ch&#194;ti&#201; (le r&#201;dacteur ici relatinise tous les noms propres), une possible influence de la langue vernaculaire, &#192;tout le moins de la <hi n="color" rend="#009933"> <hi rend="strong">prononciation &quot;gallicane&quot; du latin</hi>
                         </hi>.</p>
                   </div>
                </div>
@@ -365,45 +200,17 @@
                <head>Parties du discours</head>
                <div>
                   <p>
-                     <seg corresp="adresse">Omnibus presentes litteras
-                           inspecturis,<note id="adresse">Adresse universelle</note></seg>
-                     <seg corresp="notif">Notum facimus quod <note id="notif"
-                          >Notification.</note></seg>
-                     <seg corresp="corps">coram nobis constituta domicella
-                        Margareta de Essartis, relicta defuncti Galteri Ruffi de Essartis,
-                        recognovit se vendidisse et imperpetuum quitasse viris religiosis abbati et
-                        conventui de Caroliloco et imperpetuum quitasse duo arpenta terre et
-                        dimidium arabilis, sita in territorio de Marchemoreto, contigua terre
-                        predictorum abbatis et conventus, pro quindecim libris turonensium, de
-                        quibus tenuit se coram nobis pro pagata in pecunia numerata ; <note
-                           id="corps">Corps de l&#x2019;acte, con&#199;u comme
-                           un proc&#232;s-verbal,<lb/>enregistrant un aveu (recognovit) ; ce
-                           n&#x2019;est pas un dispositif au sens strict.</note></seg>
-                     <seg corresp="renonciation">renoncians quantum ad hoc
-                        excepcioni non numerate sibi pecunie, non tradite, non solute ; <note
-                           id="renonciation">Clause de renonciation.</note></seg>
-                     <seg corresp="promesse">promittens, fide data in manu
-                        nostra, se istam vendicionem firmiter imperpetuum servaturam et non
-                        contraventuram racione hereditatis, dotalicii sive dotis seu quaconque alia
-                        racione ; <note id="promesse">Clause de promesse.</note></seg>
-                     <seg corresp="garantie">immo dictis emtoribus erga omnes
-                        rectam garandiam portabit erga omnes imperpetuum. <note id="garantie"
-                          >Clause de garantie.</note></seg>
-                     <seg corresp="laudatio">Petrus vero presbiter de Bolorria,
-                        frater dicte Margarete, et Guiotus filius dicte Margarete, in nostra
-                        presencia constituti, predictam vendicionem voluerunt, laudaverunt et
-                        concesserunt ; <note id="laudatio">Laudatio parentum.</note></seg>
-                     <seg corresp="promesseparents"> promittentes, fide data in
-                        manu nostra, quod contra premissa per se vel per alium racione hereditatis
-                        seu quaconque alia racione per se vel per alium non venient in futurum.
-                           <note id="promesseparents">Clause de promesse des
-                        parents.</note></seg>
-                     <seg corresp="corroboration" rend="">In cujus rei testimonium, presentibus
-                        litteris sigillum curie Meldensis duximus apponendum. <note
-                           id="corroboration">Corroboration probatoire avec annonce du
-                           sceau.</note></seg>
-                     <seg corresp="date"> Datum anno Domini M° CC° L° primo,
-                        mense novembris. <note id="date">Date de temps.</note></seg>
+                     <seg corresp="adresse">Omnibus presentes litteras inspecturis,<note id="adresse">Adresse universelle</note></seg>
+                     <seg corresp="notif">Notum facimus quod <note id="notif" >Notification.</note></seg>
+                     <seg corresp="corps">coram nobis constituta domicella Margareta de Essartis, relicta defuncti Galteri Ruffi de Essartis, recognovit se vendidisse et imperpetuum quitasse viris religiosis abbati et conventui de Caroliloco et imperpetuum quitasse duo arpenta terre et dimidium arabilis, sita in territorio de Marchemoreto, contigua terre predictorum abbatis et conventus, pro quindecim libris turonensium, de quibus tenuit se coram nobis pro pagata in pecunia numerata ; <note id="corps">Corps de l&#x2019;acte, con&#199;u comme un proc&#232;s-verbal,<lb/>enregistrant un aveu (recognovit) ; ce n&#x2019;est pas un dispositif au sens strict.</note></seg>
+                     <seg corresp="renonciation">renoncians quantum ad hoc excepcioni non numerate sibi pecunie, non tradite, non solute ; <note id="renonciation">Clause de renonciation.</note></seg>
+                     <seg corresp="promesse">promittens, fide data in manu nostra, se istam vendicionem firmiter imperpetuum servaturam et non contraventuram racione hereditatis, dotalicii sive dotis seu quaconque alia racione ; <note id="promesse">Clause de promesse.</note></seg>
+                     <seg corresp="garantie">immo dictis emtoribus erga omnes rectam garandiam portabit erga omnes imperpetuum. <note id="garantie" >Clause de garantie.</note></seg>
+                     <seg corresp="laudatio">Petrus vero presbiter de Bolorria, frater dicte Margarete, et Guiotus filius dicte Margarete, in nostra presencia constituti, predictam vendicionem voluerunt, laudaverunt et concesserunt ; <note id="laudatio">Laudatio parentum.</note></seg>
+                     <seg corresp="promesseparents"> promittentes, fide data in manu nostra, quod contra premissa per se vel per alium racione hereditatis seu quaconque alia racione per se vel per alium non venient in futurum.
+                           <note id="promesseparents">Clause de promesse des parents.</note></seg>
+                     <seg corresp="corroboration" rend="">In cujus rei testimonium, presentibus litteris sigillum curie Meldensis duximus apponendum. <note id="corroboration">Corroboration probatoire avec annonce du sceau.</note></seg>
+                     <seg corresp="date"> Datum anno Domini M° CC° L° primo, mense novembris. <note id="date">Date de temps.</note></seg>
                  </p>
                </div>
             </div>

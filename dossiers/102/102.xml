@@ -1,518 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">Sermon de Godefroid de Saint-Victor</title>
-                <title type="sub">Sermon de l’Avent : sermon de préparation à Noël par un chanoine
-                    de Saint-Victor de Paris ;</title>
-                <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
-                <respStmt>
-                    <resp>document encodé par</resp>
-                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École
-                        nationale des Chartes)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">102</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when="2008-02">février 2008</date>
-            </publicationStmt>
-            <sourceDesc>
-                <msDesc>
-                    <msIdentifier>
-                        <settlement>Paris</settlement>
-                        <repository>Bibliothèque Mazarine</repository>
-                    </msIdentifier>
-                </msDesc>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="lat"/>
-                <!-- Le document, "Eléments utiles pour l'indexation des dossiers 
-                    documentaires indique que ce texte est en français or, manifestement, ce n'est pas le 
-                    cas. Je rétablis.  -->
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div type="facsimile" rend="fax.jpg">
-                <p>
-                    <seg rend="37,17,199,10,236,16,236,47,122,44,37,46" n="poly">Sermones Godefridi</seg>
-                    <seg
-                        rend="239,21,365,19,379,13,417,12,527,11,545,29,545,49,432,49,424,51,415,49,238,46"
-                        n="poly">canonici S(ancti) Victoris Parisiensis in</seg>
-                    <seg
-                        rend="47,51,120,46,289,49,460,53,462,77,452,79,434,75,325,73,316,80,304,78,290,74,223,76,46,73"
-                        n="poly">majoribus sollempnitatib(us) p(er) anni circulum.</seg>
-                    <seg
-                        rend="466,52,561,52,585,51,635,61,641,139,630,146,563,140,560,132,554,101,553,88,559,77,466,76"
-                        n="poly">S(er)mo (primus) in (prim)a d(omi)nica advent(us) Domini.</seg>
-                    <seg
-                        rend="1,344,1,114,25,123,33,77,267,79,324,83,321,104,300,110,291,109,131,110,139,141,147,148,151,158,149,175,141,182,154,237,179,239,177,243,99,243,59,244,42,241,21,345"
-                        n="poly">Aspiciens a longe</seg>
-                    <seg rend="326,81,398,77,444,79,453,81,548,79,552,106,469,107,430,102,324,104"
-                        n="poly">ecce video Dei potentia(m)</seg>
-                    <seg rend="149,113,251,111,246,125,253,130,252,139,150,136" n="poly">veniente(m)</seg>
-                    <seg
-                        rend="253,113,249,123,253,125,256,137,558,138,556,129,547,109,454,109,440,106,414,105,320,109,295,112,258,112"
-                        n="poly">(et) nebulam tota(m) t(er)ra(m) tegentem.</seg>
-                    <seg rend="152,140,273,142,273,171,235,171,226,177,215,172,197,176,155,175"
-                        n="poly">H(ec) vox p(r)ima,</seg>
-                    <seg rend="277,141,393,140,554,141,555,169,396,168,388,174,363,169,276,170"
-                        n="poly">fr(atr)es k(arissi)mi, p(r)ime lectioni noc-</seg>
-                    <seg
-                        rend="152,180,219,181,246,172,305,172,388,176,494,172,493,199,399,198,390,207,374,202,288,205,267,207,229,202,152,203"
-                        n="poly">–tuni officii h(ujus) diei responsoria e(st),</seg>
-                    <seg rend="497,171,496,199,556,200,557,174" n="poly">dulci</seg>
-                    <seg
-                        rend="152,207,193,205,236,206,270,210,380,206,388,210,403,207,403,231,350,234,154,232"
-                        n="poly">modulatione insignita,</seg>
-                    <seg rend="406,205,414,201,480,201,563,204,560,227,536,232,421,234,406,224"
-                        n="poly">t(r)iplici v(er)su repe-</seg>
-                    <seg
-                        rend="47,246,132,247,149,244,180,245,185,236,394,237,396,250,403,252,399,264,297,267,255,268,47,268"
-                        n="poly">–tita, (et) tandem cum Gl(ori)a Pat(r)i finita.</seg>
-                    <seg
-                        rend="397,240,416,233,422,239,531,236,556,230,559,262,465,266,411,265,407,260,404,249"
-                        n="poly">Non e(st) putandu(m)</seg>
-                    <seg
-                        rend="47,271,210,270,313,271,315,295,302,299,244,299,228,305,223,299,132,300,117,304,47,300"
-                        n="poly">s(i)n(e) magno mist(er)io hoc fieri.</seg>
-                    <seg
-                        rend="317,269,416,268,480,269,504,266,555,268,555,298,531,296,493,295,412,299,401,300,378,297,329,300,316,292"
-                        n="poly">Querim(us) (er)go cuj(us) sit h(ec) vox, </seg>
-                    <seg
-                        rend="47,307,273,306,287,302,453,302,485,301,485,328,362,331,248,331,233,337,223,337,218,331,83,333,60,337,47,332"
-                        n="poly">que tam jocunde et p(ro)ducte modulationis r(ati)o.</seg>
-                    <seg rend="489,303,501,297,543,300,543,328,516,329,488,329" n="poly">Dein(de)</seg>
-                    <seg
-                        rend="44,341,128,338,139,333,216,336,223,342,235,341,242,334,361,337,361,350,366,357,360,361,292,366,267,362,169,363,154,372,145,363,74,365,64,370,44,363"
-                        n="poly">querim(us) quis sit iste aspiciens,</seg>
-                    <seg
-                        rend="364,335,480,331,562,332,560,361,502,360,491,367,454,360,370,359,367,352,364,349"
-                        n="poly">unde (et) q(u)o aspiciens</seg>
-                    <seg
-                        rend="49,374,81,374,91,366,141,367,153,375,169,367,211,370,210,395,138,399,94,398,49,393"
-                        n="poly">et q(u)id aspiciens.</seg>
-                    <seg
-                        rend="213,370,228,363,284,367,296,369,364,363,458,363,493,370,504,362,566,364,565,392,555,389,546,393,503,392,480,395,450,391,445,396,420,392,408,398,408,392,289,394,283,397,271,398,232,396,224,402,214,399"
-                        n="poly">P(r)imu(m) (er)go videam(us) c(ujus) sit h(ec) vox. Vox h(ec) e(st)
-                        vox</seg>
-                    <seg
-                        rend="46,399,159,402,197,399,224,406,233,406,233,427,197,430,193,425,168,428,125,429,74,425,60,430,46,421"
-                        n="poly">spec(u)lator(um) tuor(um), o Syon,</seg>
-                    <seg
-                        rend="235,403,260,400,286,400,302,396,404,395,406,401,420,396,446,399,450,394,486,399,538,396,546,396,552,393,563,396,564,423,508,421,495,423,488,423,417,425,385,427,237,426"
-                        n="poly">i(dest) o cast(r)a D(e)i. Syo(n) (enim) i(n)t(er)p(retatu)r
-                        spec(u)lat(i)o (et) sig(nifi)c[at] cast(r)a D(ei),</seg>
-                    <seg
-                        rend="26,428,51,431,60,433,84,429,126,432,189,430,198,433,301,432,301,453,264,453,252,457,157,455,145,459,129,455,26,456"
-                        n="poly">sic(ut) Jer(usa)l(e)m int(er)p(re)tat(ur) visio pacis</seg>
-                    <seg
-                        rend="303,430,454,429,468,425,494,426,506,423,535,427,554,426,553,449,543,453,512,452,502,459,494,453,302,456"
-                        n="poly">(et) sig(nifi)cat civitate(m) D(e)i. H(abe)t na(m)-</seg>
-                    <seg
-                        rend="48,460,136,461,148,462,170,459,208,457,264,463,268,469,268,482,78,484,62,486,48,477"
-                        n="poly">-q(ue) Deus civitate(m) suam.</seg>
-                    <seg
-                        rend="270,455,283,455,296,461,441,459,464,457,491,457,504,463,515,455,544,455,558,449,570,456,570,463,586,462,587,486,547,485,292,483,272,490,273,478"
-                        n="poly">Habet (et) castra sua. Civitate(m) eam</seg>
-                    <seg
-                        rend="50,488,96,488,125,487,239,485,267,486,272,492,294,486,381,486,380,513,136,511,120,517,106,517,102,513,50,510"
-                        n="poly">t(r)iumphantem, castra militante(m),</seg>
-                    <seg
-                        rend="384,486,559,488,559,511,519,518,508,518,496,510,413,512,396,514,383,510"
-                        n="poly">q(u)amvis alt(eru)m p(ro) al-</seg>
-                    <seg
-                        rend="48,516,101,519,114,520,138,515,329,517,331,541,241,542,225,547,218,540,156,548,124,547,47,539"
-                        n="poly">tero sepe ponat(ur), s(ed) abusive.</seg>
-                    <seg
-                        rend="340,514,449,517,461,513,493,514,514,523,559,519,558,545,518,548,492,544,474,542,463,548,450,543,337,544,332,537,332,520"
-                        n="poly">Et civitate(m) q(u)id(em) h(abe)t ex eo</seg>
-                    <seg
-                        rend="49,547,169,552,219,544,226,551,243,544,431,547,432,570,419,576,384,575,197,572,186,577,94,575,49,570"
-                        n="poly">tempore quo post creationem ang(e)lor(um),</seg>
-                    <seg
-                        rend="435,546,450,547,465,551,476,546,522,551,566,549,566,571,462,570,451,577,434,570"
-                        n="poly">apostatis an-</seg>
-                    <seg
-                        rend="51,576,87,577,143,580,193,580,198,575,338,578,331,604,233,605,171,602,159,609,119,608,67,606,47,609"
-                        n="poly">–gelis p(er) sup(er)biam p(re)cipitatis,</seg>
-                    <seg
-                        rend="341,578,449,579,459,576,463,573,555,575,555,600,455,601,446,604,426,606,384,605,337,599,337,589"
-                        n="poly">reliqui p(er) gr(ati)am i(n) amo-</seg>
-                    <seg
-                        rend="53,613,71,609,160,612,174,605,242,608,311,607,311,624,315,624,315,629,308,634,233,634,222,637,207,636,146,633,53,631"
-                        n="poly">–re creatoris sui (con)firmati</seg>
-                    <seg
-                        rend="314,606,350,604,391,608,448,608,456,603,556,602,554,631,370,632,361,639,347,639,320,631,319,624,312,621"
-                        n="poly">(et) i(n) p(er)petuam et b(e)ata(m) ci(vita)tem</seg>
-                    <seg
-                        rend="53,634,196,638,226,641,234,637,332,638,341,640,341,664,192,665,182,667,178,664,51,660"
-                        n="poly">Dei i(n) celestib(us) fundati sunt.</seg>
-                    <seg
-                        rend="344,641,370,641,374,635,457,633,561,636,559,663,500,666,491,672,458,668,366,664,357,671,353,670,343,661"
-                        n="poly">Porro cast(r)a h(abe)t ex eo te(m)-</seg>
-                    <seg rend="54,666,104,667,103,694,60,697,52,693" n="poly">pore,</seg>
-                    <seg
-                        rend="109,664,153,666,175,666,178,671,188,670,191,667,340,667,350,672,358,672,366,667,461,671,493,675,501,668,556,666,556,694,475,698,441,693,235,693,222,699,203,696,168,696,161,697,152,698,145,691,120,701,109,691"
-                        n="poly">q(u)o de gen(er)is humani massa fraude apostate</seg>
-                    <seg
-                        rend="50,699,99,699,111,697,120,706,144,694,152,700,221,701,227,698,411,697,408,728,385,728,373,729,284,729,258,725,215,729,193,734,185,725,134,725,129,734,125,732,116,726,86,728,80,735,74,725,49,722"
-                        n="poly">ang(e)li p(er)dita p(er) gr(ati)am q(u)osdam elegit</seg>
-                    <seg rend="416,695,437,695,476,701,561,699,560,726,435,725,425,729,415,727"
-                        n="poly">q(u)i ultores tam</seg>
-                    <seg
-                        rend="51,727,71,729,81,737,88,731,116,730,129,738,137,728,183,729,193,737,215,732,256,728,292,733,292,753,286,755,261,754,252,760,239,761,223,756,151,754,137,761,124,757,71,755,61,761,52,752"
-                        n="poly">pat(er)ni q(u)am sui sang(u)inis</seg>
-                    <seg
-                        rend="295,732,380,730,430,732,438,726,558,730,559,753,444,754,436,758,426,754,355,756,311,756,296,762,294,754"
-                        n="poly">(con)tra gen(er)is sui i(n)imicos de-</seg>
-                    <seg
-                        rend="51,762,68,763,75,758,124,760,141,764,154,757,223,759,240,765,259,762,261,757,291,757,294,766,312,759,411,758,410,788,347,789,313,791,303,785,292,791,207,789,157,785,52,784"
-                        n="poly">–bellarent eisq(ue) fortit(er) expugnatis,</seg>
-                    <seg
-                        rend="416,758,427,758,439,761,445,756,560,756,576,764,552,785,533,782,416,785"
-                        n="poly">tande(m) cum t(r)iu(m)-</seg>
-                    <seg rend="52,788,103,788,102,815,77,816,62,817,52,813" n="poly">–pho</seg>
-                    <seg
-                        rend="107,787,163,787,209,792,290,794,306,789,313,794,416,790,482,785,535,785,562,789,561,814,530,814,522,818,510,815,325,816,312,820,277,819,188,816,105,812"
-                        n="poly">ad b(e)atorum ang(e)lor(um) civitatem t(r)ansmig(r)are(n)t.</seg>
-                    <seg rend="3,848,64,819,72,819,107,817,175,819,250,820,250,847,64,844,1,876"
-                        n="poly">Sciebat eni(m) jam t(un)c,</seg>
-                    <seg
-                        rend="255,821,316,823,328,819,406,818,507,818,522,822,531,817,556,816,556,845,522,847,412,844,398,850,256,846"
-                        n="poly">i(m)mo ab et(er)no p(re)vide(r)at D(eu)s, q(u)am-</seg>
-                    <seg rend="51,853,68,846,85,847,211,850,321,850,402,852,403,877,74,873,58,879"
-                        n="poly">-pl(ur)imos, licet de lutea mat(er)ia factos,</seg>
-                    <seg rend="407,854,417,847,562,849,561,875,423,874,414,877,410,878,407,874"
-                        n="poly">gen(er)is sui i(n)imi-</seg>
-                    <seg rend="57,882,74,876,262,878,260,906,56,900" n="poly">cos fortit(er)
-                        debellat(ur)os</seg>
-                    <seg
-                        rend="266,879,424,880,482,876,565,880,565,903,483,906,466,902,456,907,454,901,263,904"
-                        n="poly">(et) in confusione(m) illor(um) q(u)i de lutea</seg>
-                    <seg rend="56,903,339,909,339,938,226,940,55,932" n="poly">mat(er)ia ni(hi)l
-                        h(abe)ntes peccaveru(n)t,</seg>
-                    <seg
-                        rend="342,907,450,904,456,912,469,905,491,909,574,905,573,935,546,941,416,941,342,935,343,935"
-                        n="poly">multa gl(ori)ose facturos.</seg>
-               </p>
-            </div>
-            <div type="transcription">
-                <div type="texte">
-                    <p>Sermones Godefridi canonici Sancti Victoris Parisiensis <lb/> in majoribus
-                        sollempnitatibus per anni circulum. <lb/> Sermo primus in prima dominica
-                            <term
-                            n="période liturgique de quatre semaines qui précède la fête de Noël. "
-                            >adventus</term> Domini. <lb/>
-                        <term
-                            n="texte liturgique composé à partir de réminiscences bibliques de Dan. 7, 13-14 ; Is. 30, 
-                            27 ; Mat. 24, 30 et 26, 64 ; Apoc. 1, 7 et 14, 14. "
-                            >Aspiciens a longe ecce video Dei potentiam venientem<lb/> et nebulam
-                            totam terram tegentem</term>.<lb/> Hec vox prima, fratres karissimi,
-                        <lb/> prime lectioni noctuni officii hujus diei <term
-                            n="chant alterné entre le soliste et le chœur utilisé notamment au cours de l’office. Le répons 
-                            Aspiciens est chanté après la première lecture tirée d’Isaïe 1, 1-3. "
-                            >responsoria</term> est,<lb/> dulci modulatione insignita, triplici
-                        versu repetita, <lb/> et tandem cum Gloria Patri finita. <lb/> Non est
-                        putandum sine magno misterio hoc fieri. <lb/> Querimus ergo cujus sit hec
-                        vox,<lb/> Que tam jocunde et producte modulationis ratio. <lb/> Deinde
-                        querimus quis sit iste aspiciens, <lb/> unde et quo aspiciens et quid
-                        aspiciens. <lb/> Primum ergo videamus cujus sit hec vox.<lb/> Vox hec est
-                        vox speculatorum tuorum o Syon, idest o castra Dei.<lb/> Syon enim
-                        interpretatur speculatio et significat castra Dei, <lb/> sicut Jerusalem
-                        interpretatur visio pacis et significat civitatem Dei. <lb/> Habet namque
-                        Deus civitatem suam. Habet et castra sua, <lb/> civitatem eam triumphantem,
-                        castra militantem, <lb/> quamvis alterum pro altero sepe ponatur, sed
-                        abusive.<lb/> Et civitatem quidem habet ex eo tempore<lb/> Quo post
-                        creationem angelorum apostatis angelis per superbiam precipitatis<lb/>
-                        reliqui per gratiam in amore creatoris sui confirmati<lb/> et in perpetuam
-                        et beatam civitatem Dei in celestibus fundati sunt.<lb/> Porro castra habet
-                        ex eo tempore <lb/> quo de generis humani massa fraude apostate angeli
-                        perdita<lb/> per gratiam quosdam elegit <lb/> qui ultores tam paterni quam
-                        sui sanguinis<lb/> contra generis sui inimicos debellarent<lb/> eisque
-                        fortiter expugnatis,<lb/> tandem cum triumpho ad beatorum angelorum civitatem
-                        transmigrarent.<lb/> Sciebat enim jam tunc, immo ab eterno previderat Deus,
-                        <lb/> quamplurimos, licet de lutea materia factos, <lb/> generis sui
-                        inimicos fortiter debellaturos<lb/> et in confusionem illorum qui de lutea
-                        materia nihil habentes peccaverunt,<lb/> multa gloriose facturos.<lb/>
-                   </p>
-                </div>
-                <div type="traduction">
-                    <p>Sermons de Godefroid chanoine de Saint-Victor de Paris<lb/> pour les grandes
-                        solennités de l’année.<lb/> Premier sermon pour le premier dimanche de <term
-                            n="période liturgique de quatre semaines qui précède la fête de Noël. "
-                            >l’Avent</term>.<lb/>
-                        <term
-                            n="texte liturgique composé à partir de réminiscences bibliques de Dan. 7, 13-14 ; Is. 30, 
-                            27 ; Mat. 24, 30 et 26, 64 ; Apoc. 1, 7 et 14, 14. "
-                            >Regardant de loin, voici que je vois venir la puissance de Dieu<lb/> et
-                            un nuage qui recouvre toute la terre</term>.<lb/> Cette première parole,
-                        très chers frères, <lb/> est le <term
-                            n="chant alterné entre le soliste et le chœur utilisé notamment au cours de l’office. Le 
-                            répons Aspiciens est chanté après la première lecture tirée d’Isaïe 1, 1-3. "
-                            >répons</term> pour la première lecture de l’office nocturne de ce jour,
-                        <lb/> remarquable par sa douce mélodie et répété en un verset triple, <lb/>
-                        et enfin achevé par le ‘Gloire au Père’.<lb/> Il ne faut penser que cela se
-                        fasse sans grand mystère. <lb/> Nous nous demandons donc d’abord de qui est
-                        cette parole, <lb/> quelle est la raison d’une mélodie si agréable et
-                        développée.<lb/> Ensuite nous nous demandons qui est celui qui regarde,
-                        <lb/> d’où et vers où il regarde et ce qu’il regarde.<lb/> Voyons donc
-                        d’abord de qui est cette parole.<lb/> Cette parole est une parole de tes
-                        guetteurs ô Sion, c’est-à-dire ô camp de Dieu.<lb/> Sion, en effet, veut
-                        dire guet et signifie le camp de Dieu, <lb/> de même que Jérusalem veut dire
-                        vision de paix et signifie la cité de Dieu.<lb/> C’est que Dieu a sa cité et
-                        qu’il a aussi son camp, <lb/> une cité triomphante, un camp militant, <lb/>
-                        bien qu’on prenne souvent l’une pour l’autre, mais abusivement. <lb/> Il a
-                        une cité depuis le moment <lb/> où après la création des anges, une fois les
-                        anges apostats précipités par orgueil, <lb/> les autres, confirmés par la
-                        grâce dans l’amour de leur créateur, <lb/> ont été établis dans l’éternelle
-                        et bienheureuse cité de Dieu aux cieux.<lb/> Il a, en outre, un camp depuis
-                        le moment <lb/> où, parmi la masse du genre humain perdue par la ruse de
-                        l’ange apostat, <lb/> il a choisi par grâce certains hommes <lb/> pour que,
-                        vengeurs aussi bien du sang de leurs pères que du leur, <lb/> ils livrent
-                        bataille contre les ennemis de leur race<lb/> et pour que, une fois ces
-                        derniers courageusement défaits, <lb/> ils passent enfin avec triomphe dans
-                        la cité des anges bienheureux.<lb/> Dès ce moment Dieu savait en effet,
-                        mieux il l’avait prévu de toute éternité, <lb/> qu’un grand nombre d’hommes,
-                        bien que tirés de la boue, <lb/> vaincraient courageusement les ennemis de
-                        leur race<lb/> et que, pour la confusion de ceux qui ont péché sans avoir
-                        aucune part à la boue, <lb/> ils accompliraient de nombreux actes glorieux.
-                        <lb/>
-                   </p>
-                </div>
-            </div>
-            <div type="commentaire" n="paleographie">
-                <head>Commentaire paléographique</head>
-                <div>
-                    <head>Aspect général et formes particulières</head>
-                    <div>
- 		    <p><figure rend="102/faxexterne.jpg"/></p>
-                        <p>La page comprend deux écritures principales, de type « prégothique », au
-                            tracé épais et médiocrement soigné.</p>
-                        <p>La rubrique initiale, tracée après le texte et d’une autre main, est
-                            traitée comme une écriture de charte (surtout la première ligne) :
-                            lettres au corps réduit, aux hastes allongées et ornées, <hi rend="bold"
-                                >m</hi> et <hi rend="bold">i</hi> plongeants à la fin du mot.</p>
-                        <p>L’écriture du texte est déjà largement « gothicisée », avec des
-                            hésitations : <lb/>
-                            <list type="simple">
-                                <item> le corps des lettres est quelque peu condensé et surtout
-                                    agrandi par rapport aux hastes ; </item>
-                                <item> les lettres successives se touchent pratiquement toutes dans
-                                    le mot, par la tête ou par le pied, tandis que les mots sont
-                                    clairement séparés ; </item>
-                                <item> le pied des jambages, en particulier, est toujours recourbé ; </item>
-                                <item> la tête des jambages est souvent épaissie par un trait
-                                    supplémentaire (comme le haut des hastes) de manière à favoriser
-                                    la différenciation : <hi rend="bold">i</hi>, premier jambage de
-                                        <hi rend="bold">m</hi> et <hi rend="bold">n</hi>, les deux
-                                    jambages d’<hi rend="bold">u</hi>, mais la distinction reste
-                                    flottante ; par ailleurs, ce trait n’est pas supprimé (« élidé
-                                    ») lorsqu’il suit la traverse d’un <hi rend="bold">c</hi>, <hi
-                                        rend="bold">t</hi> ou <hi rend="bold">g</hi>, comme ce sera
-                                    le cas au XIII<hi rend="i">e</hi> siècle. </item>
-                                <item> le couple <hi rend="bold">or</hi> est formé avec un demi-<hi
-                                        rend="bold">r</hi> (usage à peu près systématique dans
-                                    l’écriture gothique mais non nouveau) ; </item>
-                                <item> les courbes voisines s’effleurent souvent, mais sans se
-                                    superposer encore ; </item>
-                                <item> les véritables conjonctions ne se produisent que pour les
-                                    lettres redoublées, ici <hi rend="bold">pp</hi>, dans <hi
-                                        rend="bold">p(er)petuam</hi> (et <hi rend="bold">bb</hi>
-                                    serait sans doute traité de même) ; cela aussi est assez
-                                    fréquent depuis le milieu du XII<hi rend="i">e</hi> siècle
-                                    environ ; </item>
-                                <item>
-                                    <hi rend="bold">d</hi> est souvent oncial (penché), mais <hi
-                                        rend="bold">d</hi> minuscule (droit) reste fréquent, sans
-                                    que l’alternance semble répondre à une logique. </item>
-                                <item>
-                                    <hi rend="bold">s</hi> final est de type capital mais parfois
-                                    aussi droit ; </item>
-                                <item>
-                                    <hi rend="bold">et</hi> est abrégé par la note tironienne (7)
-                                    mais parfois encore par l’éperluette (<hi rend="bold"
-                                    >&amp;</hi>), dans une forme basculée à droite, typique de
-                                    la fin du XII<hi rend="i">e</hi> siècle ; </item>
-                                <item> lettres marquées d’un accent oblique : <hi rend="bold">i</hi>
-                                    voisin d’autres jambages ; <hi rend="bold">o</hi> isolé
-                                    (interjection). </item>
-                            </list>
-                       </p>
-                        <p>Enfin quelques lettres montrent l’influence des cursives documentaires,
-                            par des tracés plus contournés, brisés, prolongés vers le bas par des
-                            filets : <hi rend="bold">h</hi> et <hi rend="bold">v</hi> initiaux, <hi
-                                rend="bold">g</hi> avec trait inférieur plus ou moins recourbé vers
-                            le bas, couple <hi rend="bold">ii</hi>, et <hi rend="bold">s</hi> final
-                            (dernier mot de la page).</p>
-                        <p>Aux lignes 12 à 15, et surtout 13, des corrections ont été portées après
-                            grattage du parchemin. Il pourrait s’agir d’une autre main
-                            contemporaine, ou bien plutôt de la même main altérée par manque de
-                            place et de soin. L’écriture est rétrécie, penchée à gauche au début de
-                            la l. 13 (signe de rapidité), pleine d’abréviations, et oublie deux
-                            lettres (l. 13, fin). A la fin de la ligne 15, au moins <hi rend="bold"
-                                >eam</hi> est nettement d’une autre main encore.</p>
-                        <p>L’ex-libris au bas de la page est probablement de la première moitié du
-                                XV<hi rend="i">e</hi> siècle : noter entre autres la forme des
-                                <hi rend="bold">a</hi> construits sur deux traits verticaux ;
-                            l’extension en hauteur des <hi rend="bold">t</hi> ; et le très large <hi
-                                rend="bold">A</hi> (« majuscule gothique »), sans doute une
-                            indication de cote tracée en même temps, à en juger par la couleur de
-                            l’encre.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Abréviations</head>
-                    <div>
-                        <p>Le système abréviatif présente les formes habituelles à cette date :
-                            tildes pour nasales et <hi rend="bold">re</hi> (tracés avec ou sans
-                            filet d’attaque, sans règle précise) ; abréviations sur <hi rend="bold"
-                                >p</hi> ; conjonction <hi rend="bold">et</hi> (soit <hi rend="bold"
-                                >7</hi> soit <hi rend="bold">&amp;</hi>, voir plus haut) ;
-                            lettres suscrites ; terminaisons -<hi rend="bold">b(us)</hi> et -<hi
-                                rend="bold">or(um)</hi> ; signe conventionnel pour -<hi rend="bold"
-                                >us</hi> ou -<hi rend="bold">ur</hi>.</p>
-                        <p>Noter plus spécialement : <lb/>
-                            <list type="simple">
-                                <item> la multiplicité d’abréviations de la ligne 13 ; </item>
-                                <item>
-                                    <hi rend="bold">civitatem</hi> rendu par <hi rend="bold">ci<hi
-                                            rend="exposant">tem</hi></hi>, contraction avec
-                                    terminaison suscrite, système qui sera toujours plus développé
-                                    dans l’usage scolastique ; </item>
-                                <item> une abréviation irrégulière, <hi rend="bold"
-                                    >provide(r)at</hi>, avec tilde pour un <hi rend="bold">r</hi>
-                                    seul ; c’est une correction, apparemment d’une autre main (le
-                                    copiste ayant écrit par solécisme <hi rend="bold"
-                                    >provideat</hi>). </item>
-                            </list>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Structuration</head>
-                    <div>
-		    <p><figure rend="102/faxexterne.jpg"/></p>
-                        <p>Sur ce feuillet de dimensions moyennes (250 x 170 mm), la réglure est
-                            tracée à la mine de plomb. Le texte, dont l’écriture est presque posée
-                            sur les lignes, est encadré par deux marges étroites (6 mm), laissées
-                            libres sauf ajout de corrections. Dans la marge extérieure, une autre
-                            colonne définit l’espace de réglure. Enfin l’ex-libris de l’abbaye de
-                            Saint-Victor a été ajouté sur deux lignes réglées en même temps à
-                            l’encre brune dans la marge inférieure.</p>
-                        <p>Le recueil de sermons est introduit par un titre général rubriqué dont
-                            la longueur a été mal calculée, puisqu’il doit déborder dans la marge.</p>
-                        <p>Le début du premier sermon est mis en valeur par une grande initiale
-                                (<hi rend="bold">A</hi>) « puzzle » ou « émanchée » filigranée et à
-                            fleurons, à l’encre rouge et bleue, donc le décor est encore d’esprit
-                            plutôt roman.</p>
-                        <p>Les mots sont régulièrement séparés à l’exception de certaines
-                            prépositions et conjonctions. A la ligne 22, pour éviter un risque
-                            d’ambiguïté, le scribe a ajouté deux traits, au-dessus et au-dessous,
-                            entre <hi rend="bold">de</hi> et <hi rend="bold">generis</hi>.</p>
-                        <p>La coupe en fin de ligne est signalée par un trait d’union.</p>
-                        <p>La ponctuation, simple, utilise le point (<hi rend="i"
-                            >punctus</hi>) seul pour séparer les propositions, et associé à une
-                            majuscule pour le début d’une nouvelle phrase.</p>
-                        <p><!-- A la différence des autres paragraphes de ce div, celui-ci s'accompagne d'un saut de 
-                        ligne : faut-il l'encoder d'une manière particulière ?  -->
-                            L’économie originelle de la page a été modifiée par la suite : <lb/>
-                            <list type="simple">
-                                <item> l’ex-libris au bas et la cote (?) <hi rend="bold">A</hi> sont
-                                    probablement de la première moitié du XV<hi rend="exposant"
-                                    >e</hi> siècle ; </item>
-                                <item> l’époque moderne et contemporaine a encore ajouté plusieurs
-                                    cotes, des essais de plume et le cachet de la bibliothèque
-                                    Mazarine. </item>
-                            </list>
-                       </p>
-                    </div>
-                </div>
-            </div>
-            <div type="history">
-                <head>Commentaire historique</head>
-                <div>
-                    <head>Un auteur singulier</head>
-                    <div>
-                        <p>Né à la fin des années 1120, Godefroid fait ses études à Paris entre
-                            1140 et 1155. Devenu alors chanoine à Saint-Victor, il complète sa
-                            formation grâce l’étude de la théologie et des auteurs victorins,
-                            notamment Hugues. À côté de deux œuvres majeures, le <hi rend="i">
-                                Fons philosophiae</hi> et le <hi rend="i">Microcosmus</hi>, on
-                            conserve de lui 32 sermons et des pièces liturgiques qui illustrent son
-                            rôle au sein de l’abbaye. L’attrait manifesté par Godefroid pour les
-                            auteurs antiques et les arts mécaniques explique sans doute la disgrâce
-                            qui le frappe vers 1180. Il est alors exilé et meurt probablement à
-                            Saint-Victor à la fin des années 1190.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Les sermons</head>
-                    <div>
-                        <p>Peu diffusée à l’époque médiévale, l’œuvre homilétique de Godefroid est
-                            encore méconnue en raison de son caractère largement inédit. Principale
-                            source sur la prédication du chanoine, le manuscrit 1002 de la Mazarine
-                            donne une série de 19 sermons. Ceux-ci forment une collection réunie par
-                            l’auteur avant la composition du <hi rend="i">Microcosmus</hi>, où
-                            il est y fait référence comme à son <hi rend="i">libellus
-                            sermonum</hi>. Ce manuscrit a été copié à la fin des années 1170 par un
-                            confrère victorin contemporain de Godefroid et relu par ce dernier qui y
-                            ajouta des annotations.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Le sermon pour l’Avent</head>
-                    <div>
-                        <p>Période de préparation spirituelle où les chrétiens attendent la fête de
-                            Noël, l’Avent est l’occasion pour le prédicateur de rappeler le plan
-                            établi par Dieu pour sauver l’humanité. Le sermon s’ouvre par le
-                            commentaire d’un texte liturgique. Suivant les recommandations d’Hugues
-                            de Saint-Victor, Godefroid commence par établir le sens historique du
-                            passage. C'est pourquoi, il cherche à établir les circonstances précises
-                            dans lesquelles a été proféré le texte. Il recourt ainsi à l’étymologie qui sert
-                            d’amorce à un développement mettant en parallèle la cité de Dieu et le
-                            camp de Dieu.</p>
-                        <p>Dans ce sermon typique de la prédication canoniale, Godefroid expose une
-                            ecclésiologie conforme à la pensée des Pères, notamment Augustin. Il
-                            voit ainsi dans la cité de Dieu l’ensemble des anges demeurés fidèles
-                            après la chute de Satan et des mauvais anges. Quant au camp de Dieu, il
-                            s’agit de l’Église militante, c’est-à-dire des hommes qui combattent
-                            afin de rejoindre au ciel l’Église triomphante. Les <hi rend="i"
-                                >speculatores</hi> sont tous ceux qui défendent l’Église dans son
-                            combat terrestre, qu’il s’agisse des saints ou de Dieu lui-même.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Pour approfondir</head>
-                    <div>
-                        <listBibl>
-                            <bibl>
-                                <author>Delhaye (P.)</author>, « Les sermons de Godefroy de
-                                Saint-Victor, leur tradition manuscrite », dans <title>Recherches de
-                                    théologie ancienne et médiévale</title>, <biblScope type="vol"
-                                    >t. 21</biblScope>, 1954, <biblScope type="pp">p.
-                                194-210</biblScope>. </bibl>
-                            <bibl>
-                                <author>Gasparri (F.)</author>, « Observations paléographiques sur
-                                deux manuscrits partiellement autographes de Godefroid de
-                                Saint-Victor », dans <title>Scriptorium</title>, <biblScope
-                                    type="vol">t. 36</biblScope>, 1982, <biblScope type="pp">p.
-                                    43-50</biblScope>. </bibl>
-                            <bibl>
-                                <author>Ouy (G.)</author>, « Manuscrits entièrement ou partiellement
-                                autographes de Godefroid de Saint-Victor », dans
-                                <title>Scriptorium</title>, <biblScope type="vol">t. 36</biblScope>,
-                                1982, <biblScope type="pp">p. 29-42</biblScope>. </bibl>
-                        </listBibl>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Sermon de Godefroid de Saint-Victor</title>
+        <title type="sub">Sermon de l’Avent : sermon de préparation à Noël par un chanoine de Saint-Victor de Paris ;</title>
+        <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
+        <respStmt>
+          <resp>document encodé par</resp>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">102</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2008-02">février 2008</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Paris</settlement>
+            <repository>Bibliothèque Mazarine</repository>
+          </msIdentifier>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat"/>
+        <!-- Le document, "Eléments utiles pour l'indexation des dossiers  documentaires indique que ce texte est en français or, manifestement, ce n'est pas le  cas. Je rétablis.  -->
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text> 
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="37,17,199,10,236,16,236,47,122,44,37,46" n="poly">Sermones Godefridi</seg>
+          <seg rend="239,21,365,19,379,13,417,12,527,11,545,29,545,49,432,49,424,51,415,49,238,46" n="poly">canonici S(ancti) Victoris Parisiensis in</seg>
+          <seg rend="47,51,120,46,289,49,460,53,462,77,452,79,434,75,325,73,316,80,304,78,290,74,223,76,46,73" n="poly">majoribus sollempnitatib(us) p(er) anni circulum.</seg>
+          <seg rend="466,52,561,52,585,51,635,61,641,139,630,146,563,140,560,132,554,101,553,88,559,77,466,76" n="poly">S(er)mo (primus) in (prim)a d(omi)nica advent(us) Domini.</seg>
+          <seg rend="1,344,1,114,25,123,33,77,267,79,324,83,321,104,300,110,291,109,131,110,139,141,147,148,151,158,149,175,141,182,154,237,179,239,177,243,99,243,59,244,42,241,21,345" n="poly">Aspiciens a longe</seg>
+          <seg rend="326,81,398,77,444,79,453,81,548,79,552,106,469,107,430,102,324,104" n="poly">ecce video Dei potentia(m)</seg>
+          <seg rend="149,113,251,111,246,125,253,130,252,139,150,136" n="poly">veniente(m)</seg>
+          <seg rend="253,113,249,123,253,125,256,137,558,138,556,129,547,109,454,109,440,106,414,105,320,109,295,112,258,112" n="poly">(et) nebulam tota(m) t(er)ra(m) tegentem.</seg>
+          <seg rend="152,140,273,142,273,171,235,171,226,177,215,172,197,176,155,175" n="poly">H(ec) vox p(r)ima,</seg>
+          <seg rend="277,141,393,140,554,141,555,169,396,168,388,174,363,169,276,170" n="poly">fr(atr)es k(arissi)mi, p(r)ime lectioni noc-</seg>
+          <seg rend="152,180,219,181,246,172,305,172,388,176,494,172,493,199,399,198,390,207,374,202,288,205,267,207,229,202,152,203" n="poly">–tuni officii h(ujus) diei responsoria e(st),</seg>
+          <seg rend="497,171,496,199,556,200,557,174" n="poly">dulci</seg>
+          <seg rend="152,207,193,205,236,206,270,210,380,206,388,210,403,207,403,231,350,234,154,232" n="poly">modulatione insignita,</seg>
+          <seg rend="406,205,414,201,480,201,563,204,560,227,536,232,421,234,406,224" n="poly">t(r)iplici v(er)su repe-</seg>
+          <seg rend="47,246,132,247,149,244,180,245,185,236,394,237,396,250,403,252,399,264,297,267,255,268,47,268" n="poly">–tita, (et) tandem cum Gl(ori)a Pat(r)i finita.</seg>
+          <seg rend="397,240,416,233,422,239,531,236,556,230,559,262,465,266,411,265,407,260,404,249" n="poly">Non e(st) putandu(m)</seg>
+          <seg rend="47,271,210,270,313,271,315,295,302,299,244,299,228,305,223,299,132,300,117,304,47,300" n="poly">s(i)n(e) magno mist(er)io hoc fieri.</seg>
+          <seg rend="317,269,416,268,480,269,504,266,555,268,555,298,531,296,493,295,412,299,401,300,378,297,329,300,316,292" n="poly">Querim(us) (er)go cuj(us) sit h(ec) vox,</seg>
+          <seg rend="47,307,273,306,287,302,453,302,485,301,485,328,362,331,248,331,233,337,223,337,218,331,83,333,60,337,47,332" n="poly">que tam jocunde et p(ro)ducte modulationis r(ati)o.</seg>
+          <seg rend="489,303,501,297,543,300,543,328,516,329,488,329" n="poly">Dein(de)</seg>
+          <seg rend="44,341,128,338,139,333,216,336,223,342,235,341,242,334,361,337,361,350,366,357,360,361,292,366,267,362,169,363,154,372,145,363,74,365,64,370,44,363" n="poly">querim(us) quis sit iste aspiciens,</seg>
+          <seg rend="364,335,480,331,562,332,560,361,502,360,491,367,454,360,370,359,367,352,364,349" n="poly">unde (et) q(u)o aspiciens</seg>
+          <seg rend="49,374,81,374,91,366,141,367,153,375,169,367,211,370,210,395,138,399,94,398,49,393" n="poly">et q(u)id aspiciens.</seg>
+          <seg rend="213,370,228,363,284,367,296,369,364,363,458,363,493,370,504,362,566,364,565,392,555,389,546,393,503,392,480,395,450,391,445,396,420,392,408,398,408,392,289,394,283,397,271,398,232,396,224,402,214,399" n="poly">P(r)imu(m) (er)go videam(us) c(ujus) sit h(ec) vox. Vox h(ec) e(st) vox</seg>
+          <seg rend="46,399,159,402,197,399,224,406,233,406,233,427,197,430,193,425,168,428,125,429,74,425,60,430,46,421" n="poly">spec(u)lator(um) tuor(um), o Syon,</seg>
+          <seg rend="235,403,260,400,286,400,302,396,404,395,406,401,420,396,446,399,450,394,486,399,538,396,546,396,552,393,563,396,564,423,508,421,495,423,488,423,417,425,385,427,237,426" n="poly">i(dest) o cast(r)a D(e)i. Syo(n) (enim) i(n)t(er)p(retatu)r spec(u)lat(i)o (et) sig(nifi)c[at] cast(r)a D(ei),</seg>
+          <seg rend="26,428,51,431,60,433,84,429,126,432,189,430,198,433,301,432,301,453,264,453,252,457,157,455,145,459,129,455,26,456" n="poly">sic(ut) Jer(usa)l(e)m int(er)p(re)tat(ur) visio pacis</seg>
+          <seg rend="303,430,454,429,468,425,494,426,506,423,535,427,554,426,553,449,543,453,512,452,502,459,494,453,302,456" n="poly">(et) sig(nifi)cat civitate(m) D(e)i. H(abe)t na(m)-</seg>
+          <seg rend="48,460,136,461,148,462,170,459,208,457,264,463,268,469,268,482,78,484,62,486,48,477" n="poly">-q(ue) Deus civitate(m) suam.</seg>
+          <seg rend="270,455,283,455,296,461,441,459,464,457,491,457,504,463,515,455,544,455,558,449,570,456,570,463,586,462,587,486,547,485,292,483,272,490,273,478" n="poly">Habet (et) castra sua. Civitate(m) eam</seg>
+          <seg rend="50,488,96,488,125,487,239,485,267,486,272,492,294,486,381,486,380,513,136,511,120,517,106,517,102,513,50,510" n="poly">t(r)iumphantem, castra militante(m),</seg>
+          <seg rend="384,486,559,488,559,511,519,518,508,518,496,510,413,512,396,514,383,510" n="poly">q(u)amvis alt(eru)m p(ro) al-</seg>
+          <seg rend="48,516,101,519,114,520,138,515,329,517,331,541,241,542,225,547,218,540,156,548,124,547,47,539" n="poly">tero sepe ponat(ur), s(ed) abusive.</seg>
+          <seg rend="340,514,449,517,461,513,493,514,514,523,559,519,558,545,518,548,492,544,474,542,463,548,450,543,337,544,332,537,332,520" n="poly">Et civitate(m) q(u)id(em) h(abe)t ex eo</seg>
+          <seg rend="49,547,169,552,219,544,226,551,243,544,431,547,432,570,419,576,384,575,197,572,186,577,94,575,49,570" n="poly">tempore quo post creationem ang(e)lor(um),</seg>
+          <seg rend="435,546,450,547,465,551,476,546,522,551,566,549,566,571,462,570,451,577,434,570" n="poly">apostatis an-</seg>
+          <seg rend="51,576,87,577,143,580,193,580,198,575,338,578,331,604,233,605,171,602,159,609,119,608,67,606,47,609" n="poly">–gelis p(er) sup(er)biam p(re)cipitatis,</seg>
+          <seg rend="341,578,449,579,459,576,463,573,555,575,555,600,455,601,446,604,426,606,384,605,337,599,337,589" n="poly">reliqui p(er) gr(ati)am i(n) amo-</seg>
+          <seg rend="53,613,71,609,160,612,174,605,242,608,311,607,311,624,315,624,315,629,308,634,233,634,222,637,207,636,146,633,53,631" n="poly">–re creatoris sui (con)firmati</seg>
+          <seg rend="314,606,350,604,391,608,448,608,456,603,556,602,554,631,370,632,361,639,347,639,320,631,319,624,312,621" n="poly">(et) i(n) p(er)petuam et b(e)ata(m) ci(vita)tem</seg>
+          <seg rend="53,634,196,638,226,641,234,637,332,638,341,640,341,664,192,665,182,667,178,664,51,660" n="poly">Dei i(n) celestib(us) fundati sunt.</seg>
+          <seg rend="344,641,370,641,374,635,457,633,561,636,559,663,500,666,491,672,458,668,366,664,357,671,353,670,343,661" n="poly">Porro cast(r)a h(abe)t ex eo te(m)-</seg>
+          <seg rend="54,666,104,667,103,694,60,697,52,693" n="poly">pore,</seg>
+          <seg rend="109,664,153,666,175,666,178,671,188,670,191,667,340,667,350,672,358,672,366,667,461,671,493,675,501,668,556,666,556,694,475,698,441,693,235,693,222,699,203,696,168,696,161,697,152,698,145,691,120,701,109,691" n="poly">q(u)o de gen(er)is humani massa fraude apostate</seg>
+          <seg rend="50,699,99,699,111,697,120,706,144,694,152,700,221,701,227,698,411,697,408,728,385,728,373,729,284,729,258,725,215,729,193,734,185,725,134,725,129,734,125,732,116,726,86,728,80,735,74,725,49,722" n="poly">ang(e)li p(er)dita p(er) gr(ati)am q(u)osdam elegit</seg>
+          <seg rend="416,695,437,695,476,701,561,699,560,726,435,725,425,729,415,727" n="poly">q(u)i ultores tam</seg>
+          <seg rend="51,727,71,729,81,737,88,731,116,730,129,738,137,728,183,729,193,737,215,732,256,728,292,733,292,753,286,755,261,754,252,760,239,761,223,756,151,754,137,761,124,757,71,755,61,761,52,752" n="poly">pat(er)ni q(u)am sui sang(u)inis</seg>
+          <seg rend="295,732,380,730,430,732,438,726,558,730,559,753,444,754,436,758,426,754,355,756,311,756,296,762,294,754" n="poly">(con)tra gen(er)is sui i(n)imicos de-</seg>
+          <seg rend="51,762,68,763,75,758,124,760,141,764,154,757,223,759,240,765,259,762,261,757,291,757,294,766,312,759,411,758,410,788,347,789,313,791,303,785,292,791,207,789,157,785,52,784" n="poly">–bellarent eisq(ue) fortit(er) expugnatis,</seg>
+          <seg rend="416,758,427,758,439,761,445,756,560,756,576,764,552,785,533,782,416,785" n="poly">tande(m) cum t(r)iu(m)-</seg>
+          <seg rend="52,788,103,788,102,815,77,816,62,817,52,813" n="poly">–pho</seg>
+          <seg rend="107,787,163,787,209,792,290,794,306,789,313,794,416,790,482,785,535,785,562,789,561,814,530,814,522,818,510,815,325,816,312,820,277,819,188,816,105,812" n="poly">ad b(e)atorum ang(e)lor(um) civitatem t(r)ansmig(r)are(n)t.</seg>
+          <seg rend="3,848,64,819,72,819,107,817,175,819,250,820,250,847,64,844,1,876" n="poly">Sciebat eni(m) jam t(un)c,</seg>
+          <seg rend="255,821,316,823,328,819,406,818,507,818,522,822,531,817,556,816,556,845,522,847,412,844,398,850,256,846" n="poly">i(m)mo ab et(er)no p(re)vide(r)at D(eu)s, q(u)am-</seg>
+          <seg rend="51,853,68,846,85,847,211,850,321,850,402,852,403,877,74,873,58,879" n="poly">-pl(ur)imos, licet de lutea mat(er)ia factos,</seg>
+          <seg rend="407,854,417,847,562,849,561,875,423,874,414,877,410,878,407,874" n="poly">gen(er)is sui i(n)imi-</seg>
+          <seg rend="57,882,74,876,262,878,260,906,56,900" n="poly">cos fortit(er) debellat(ur)os</seg>
+          <seg rend="266,879,424,880,482,876,565,880,565,903,483,906,466,902,456,907,454,901,263,904" n="poly">(et) in confusione(m) illor(um) q(u)i de lutea</seg>
+          <seg rend="56,903,339,909,339,938,226,940,55,932" n="poly">mat(er)ia ni(hi)l h(abe)ntes peccaveru(n)t,</seg>
+          <seg rend="342,907,450,904,456,912,469,905,491,909,574,905,573,935,546,941,416,941,342,935,343,935" n="poly">multa gl(ori)ose facturos.</seg>
+        </p>
+      </div>
+      <div type="texte">
+        <div type="transcription">
+          <p>Sermones Godefridi canonici Sancti Victoris Parisiensis <lb/> in majoribus sollempnitatibus per anni circulum. <lb/> Sermo primus in prima dominica
+            <term n="période liturgique de quatre semaines qui précède la fête de Noël. " >adventus</term> Domini. <lb/>
+            <term n="texte liturgique composé à partir de réminiscences bibliques de Dan. 7, 13-14 ; Is. 30,  27 ; Mat. 24, 30 et 26, 64 ; Apoc. 1, 7 et 14, 14. " >Aspiciens a longe ecce video Dei potentiam venientem<lb/> et nebulam totam terram tegentem</term>.<lb/> Hec vox prima, fratres karissimi,
+            <lb/> prime lectioni noctuni officii hujus diei <term n="chant alterné entre le soliste et le chœur utilisé notamment au cours de l’office. Le répons  Aspiciens est chanté après la première lecture tirée d’Isaïe 1, 1-3. " >responsoria</term> est,<lb/> dulci modulatione insignita, triplici versu repetita, <lb/> et tandem cum Gloria Patri finita. <lb/> Non est putandum sine magno misterio hoc fieri. <lb/> Querimus ergo cujus sit hec vox,<lb/> Que tam jocunde et producte modulationis ratio. <lb/> Deinde querimus quis sit iste aspiciens, <lb/> unde et quo aspiciens et quid aspiciens. <lb/> Primum ergo videamus cujus sit hec vox.<lb/> Vox hec est vox speculatorum tuorum o Syon, idest o castra Dei.<lb/> Syon enim interpretatur speculatio et significat castra Dei, <lb/> sicut Jerusalem interpretatur visio pacis et significat civitatem Dei. <lb/> Habet namque Deus civitatem suam. Habet et castra sua, <lb/> civitatem eam triumphantem, castra militantem, <lb/> quamvis alterum pro altero sepe ponatur, sed abusive.<lb/> Et civitatem quidem habet ex eo tempore<lb/> Quo post creationem angelorum apostatis angelis per superbiam precipitatis<lb/> reliqui per gratiam in amore creatoris sui confirmati<lb/> et in perpetuam et beatam civitatem Dei in celestibus fundati sunt.<lb/> Porro castra habet ex eo tempore <lb/> quo de generis humani massa fraude apostate angeli perdita<lb/> per gratiam quosdam elegit <lb/> qui ultores tam paterni quam sui sanguinis<lb/> contra generis sui inimicos debellarent<lb/> eisque fortiter expugnatis,<lb/> tandem cum triumpho ad beatorum angelorum civitatem transmigrarent.<lb/> Sciebat enim jam tunc, immo ab eterno previderat Deus,
+            <lb/> quamplurimos, licet de lutea materia factos, <lb/> generis sui inimicos fortiter debellaturos<lb/> et in confusionem illorum qui de lutea materia nihil habentes peccaverunt,<lb/> multa gloriose facturos.<lb/>
+          </p>
+        </div>
+        <div type="traduction">
+          <p>Sermons de Godefroid chanoine de Saint-Victor de Paris<lb/> pour les grandes solennités de l’année.<lb/> Premier sermon pour le premier dimanche de <term n="période liturgique de quatre semaines qui précède la fête de Noël. " >l’Avent</term>.<lb/>
+            <term n="texte liturgique composé à partir de réminiscences bibliques de Dan. 7, 13-14 ; Is. 30,  27 ; Mat. 24, 30 et 26, 64 ; Apoc. 1, 7 et 14, 14. " >Regardant de loin, voici que je vois venir la puissance de Dieu<lb/> et un nuage qui recouvre toute la terre</term>.<lb/> Cette première parole, très chers frères, <lb/> est le <term n="chant alterné entre le soliste et le chœur utilisé notamment au cours de l’office. Le  répons Aspiciens est chanté après la première lecture tirée d’Isaïe 1, 1-3. " >répons</term> pour la première lecture de l’office nocturne de ce jour,
+            <lb/> remarquable par sa douce mélodie et répété en un verset triple, <lb/> et enfin achevé par le ‘Gloire au Père’.<lb/> Il ne faut penser que cela se fasse sans grand mystère. <lb/> Nous nous demandons donc d’abord de qui est cette parole, <lb/> quelle est la raison d’une mélodie si agréable et développée.<lb/> Ensuite nous nous demandons qui est celui qui regarde,
+            <lb/> d’où et vers où il regarde et ce qu’il regarde.<lb/> Voyons donc d’abord de qui est cette parole.<lb/> Cette parole est une parole de tes guetteurs ô Sion, c’est-à-dire ô camp de Dieu.<lb/> Sion, en effet, veut dire guet et signifie le camp de Dieu, <lb/> de même que Jérusalem veut dire vision de paix et signifie la cité de Dieu.<lb/> C’est que Dieu a sa cité et qu’il a aussi son camp, <lb/> une cité triomphante, un camp militant, <lb/> bien qu’on prenne souvent l’une pour l’autre, mais abusivement. <lb/> Il a une cité depuis le moment <lb/> où après la création des anges, une fois les anges apostats précipités par orgueil, <lb/> les autres, confirmés par la grâce dans l’amour de leur créateur, <lb/> ont été établis dans l’éternelle et bienheureuse cité de Dieu aux cieux.<lb/> Il a, en outre, un camp depuis le moment <lb/> où, parmi la masse du genre humain perdue par la ruse de l’ange apostat, <lb/> il a choisi par grâce certains hommes <lb/> pour que, vengeurs aussi bien du sang de leurs pères que du leur, <lb/> ils livrent bataille contre les ennemis de leur race<lb/> et pour que, une fois ces derniers courageusement défaits, <lb/> ils passent enfin avec triomphe dans la cité des anges bienheureux.<lb/> Dès ce moment Dieu savait en effet, mieux il l’avait prévu de toute éternité, <lb/> qu’un grand nombre d’hommes, bien que tirés de la boue, <lb/> vaincraient courageusement les ennemis de leur race<lb/> et que, pour la confusion de ceux qui ont péché sans avoir aucune part à la boue, <lb/> ils accompliraient de nombreux actes glorieux.
+            <lb/>
+          </p>
+        </div>
+      </div>
+      <div type="commentaire" n="paleographie">
+        <head>Commentaire paléographique</head>
+        <div>
+          <head>Aspect général et formes particulières</head>
+          <div>
+            <p><figure rend="102/faxexterne.jpg"/></p>
+            <p>La page comprend deux écritures principales, de type « prégothique », au tracé épais et médiocrement soigné.</p>
+            <p>La rubrique initiale, tracée après le texte et d’une autre main, est traitée comme une écriture de charte (surtout la première ligne) : lettres au corps réduit, aux hastes allongées et ornées, <hi rend="bold" >m</hi> et <hi rend="bold">i</hi> plongeants à la fin du mot.</p>
+            <p>L’écriture du texte est déjà largement « gothicisée », avec des hésitations : <lb/>
+              <list type="simple">
+                <item> le corps des lettres est quelque peu condensé et surtout agrandi par rapport aux hastes ; </item>
+                <item> les lettres successives se touchent pratiquement toutes dans le mot, par la tête ou par le pied, tandis que les mots sont clairement séparés ; </item>
+                <item> le pied des jambages, en particulier, est toujours recourbé ; </item>
+                <item> la tête des jambages est souvent épaissie par un trait supplémentaire (comme le haut des hastes) de manière à favoriser la différenciation : <hi rend="bold">i</hi>, premier jambage de
+                  <hi rend="bold">m</hi> et <hi rend="bold">n</hi>, les deux jambages d’<hi rend="bold">u</hi>, mais la distinction reste flottante ; par ailleurs, ce trait n’est pas supprimé (« élidé ») lorsqu’il suit la traverse d’un <hi rend="bold">c</hi>, <hi rend="bold">t</hi> ou <hi rend="bold">g</hi>, comme ce sera le cas au XIII<hi rend="i">e</hi> siècle. </item>
+                <item> le couple <hi rend="bold">or</hi> est formé avec un demi-<hi rend="bold">r</hi> (usage à peu près systématique dans l’écriture gothique mais non nouveau) ; </item>
+                <item> les courbes voisines s’effleurent souvent, mais sans se superposer encore ; </item>
+                <item> les véritables conjonctions ne se produisent que pour les lettres redoublées, ici <hi rend="bold">pp</hi>, dans <hi rend="bold">p(er)petuam</hi> (et <hi rend="bold">bb</hi> serait sans doute traité de même) ; cela aussi est assez fréquent depuis le milieu du XII<hi rend="i">e</hi> siècle environ ; </item>
+                <item>
+                  <hi rend="bold">d</hi> est souvent oncial (penché), mais <hi rend="bold">d</hi> minuscule (droit) reste fréquent, sans que l’alternance semble répondre à une logique. </item>
+                <item>
+                  <hi rend="bold">s</hi> final est de type capital mais parfois aussi droit ; </item>
+                <item>
+                  <hi rend="bold">et</hi> est abrégé par la note tironienne (7) mais parfois encore par l’éperluette (<hi rend="bold" >&amp;</hi>), dans une forme basculée à droite, typique de la fin du XII<hi rend="i">e</hi> siècle ; </item>
+                <item> lettres marquées d’un accent oblique : <hi rend="bold">i</hi> voisin d’autres jambages ; <hi rend="bold">o</hi> isolé (interjection). </item>
+              </list>
+            </p>
+            <p>Enfin quelques lettres montrent l’influence des cursives documentaires, par des tracés plus contournés, brisés, prolongés vers le bas par des filets : <hi rend="bold">h</hi> et <hi rend="bold">v</hi> initiaux, <hi rend="bold">g</hi> avec trait inférieur plus ou moins recourbé vers le bas, couple <hi rend="bold">ii</hi>, et <hi rend="bold">s</hi> final (dernier mot de la page).</p>
+            <p>Aux lignes 12 à 15, et surtout 13, des corrections ont été portées après grattage du parchemin. Il pourrait s’agir d’une autre main contemporaine, ou bien plutôt de la même main altérée par manque de place et de soin. L’écriture est rétrécie, penchée à gauche au début de la l. 13 (signe de rapidité), pleine d’abréviations, et oublie deux lettres (l. 13, fin). A la fin de la ligne 15, au moins <hi rend="bold" >eam</hi> est nettement d’une autre main encore.</p>
+            <p>L’ex-libris au bas de la page est probablement de la première moitié du XV<hi rend="i">e</hi> siècle : noter entre autres la forme des
+              <hi rend="bold">a</hi> construits sur deux traits verticaux ; l’extension en hauteur des <hi rend="bold">t</hi> ; et le très large <hi rend="bold">A</hi> (« majuscule gothique »), sans doute une indication de cote tracée en même temps, à en juger par la couleur de l’encre.</p>
+          </div>
+        </div>
+        <div>
+          <head>Abréviations</head>
+          <div>
+            <p>Le système abréviatif présente les formes habituelles à cette date : tildes pour nasales et <hi rend="bold">re</hi> (tracés avec ou sans filet d’attaque, sans règle précise) ; abréviations sur <hi rend="bold" >p</hi> ; conjonction <hi rend="bold">et</hi> (soit <hi rend="bold" >7</hi> soit <hi rend="bold">&amp;</hi>, voir plus haut) ; lettres suscrites ; terminaisons -<hi rend="bold">b(us)</hi> et -<hi rend="bold">or(um)</hi> ; signe conventionnel pour -<hi rend="bold" >us</hi> ou -<hi rend="bold">ur</hi>.</p>
+            <p>Noter plus spécialement : <lb/>
+              <list type="simple">
+                <item> la multiplicité d’abréviations de la ligne 13 ; </item>
+                <item>
+                  <hi rend="bold">civitatem</hi> rendu par <hi rend="bold">ci<hi rend="exposant">tem</hi></hi>, contraction avec terminaison suscrite, système qui sera toujours plus développé dans l’usage scolastique ; </item>
+                <item> une abréviation irrégulière, <hi rend="bold" >provide(r)at</hi>, avec tilde pour un <hi rend="bold">r</hi> seul ; c’est une correction, apparemment d’une autre main (le copiste ayant écrit par solécisme <hi rend="bold" >provideat</hi>). </item>
+              </list>
+            </p>
+          </div>
+        </div>
+        <div>
+          <head>Structuration</head>
+          <div>
+            <p><figure rend="102/faxexterne.jpg"/></p>
+            <p>Sur ce feuillet de dimensions moyennes (250 x 170 mm), la réglure est tracée à la mine de plomb. Le texte, dont l’écriture est presque posée sur les lignes, est encadré par deux marges étroites (6 mm), laissées libres sauf ajout de corrections. Dans la marge extérieure, une autre colonne définit l’espace de réglure. Enfin l’ex-libris de l’abbaye de Saint-Victor a été ajouté sur deux lignes réglées en même temps à l’encre brune dans la marge inférieure.</p>
+            <p>Le recueil de sermons est introduit par un titre général rubriqué dont la longueur a été mal calculée, puisqu’il doit déborder dans la marge.</p>
+            <p>Le début du premier sermon est mis en valeur par une grande initiale (<hi rend="bold">A</hi>) « puzzle » ou « émanchée » filigranée et à fleurons, à l’encre rouge et bleue, donc le décor est encore d’esprit plutôt roman.</p>
+            <p>Les mots sont régulièrement séparés à l’exception de certaines prépositions et conjonctions. A la ligne 22, pour éviter un risque d’ambiguïté, le scribe a ajouté deux traits, au-dessus et au-dessous, entre <hi rend="bold">de</hi> et <hi rend="bold">generis</hi>.</p>
+            <p>La coupe en fin de ligne est signalée par un trait d’union.</p>
+            <p>La ponctuation, simple, utilise le point (<hi rend="i" >punctus</hi>) seul pour séparer les propositions, et associé à une majuscule pour le début d’une nouvelle phrase.</p>
+            <p><!-- A la différence des autres paragraphes de ce div, celui-ci s'accompagne d'un saut de  ligne : faut-il l'encoder d'une manière particulière ?  --> L’économie originelle de la page a été modifiée par la suite : <lb/>
+              <list type="simple">
+                <item> l’ex-libris au bas et la cote (?) <hi rend="bold">A</hi> sont probablement de la première moitié du XV<hi rend="exposant" >e</hi> siècle ; </item>
+                <item> l’époque moderne et contemporaine a encore ajouté plusieurs cotes, des essais de plume et le cachet de la bibliothèque Mazarine. </item>
+              </list>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div type="history">
+        <head>Commentaire historique</head>
+        <div>
+          <head>Un auteur singulier</head>
+          <div>
+            <p>Né à la fin des années 1120, Godefroid fait ses études à Paris entre 1140 et 1155. Devenu alors chanoine à Saint-Victor, il complète sa formation grâce l’étude de la théologie et des auteurs victorins, notamment Hugues. À côté de deux œuvres majeures, le <hi rend="i"> Fons philosophiae</hi> et le <hi rend="i">Microcosmus</hi>, on conserve de lui 32 sermons et des pièces liturgiques qui illustrent son rôle au sein de l’abbaye. L’attrait manifesté par Godefroid pour les auteurs antiques et les arts mécaniques explique sans doute la disgrâce qui le frappe vers 1180. Il est alors exilé et meurt probablement à Saint-Victor à la fin des années 1190.</p>
+          </div>
+        </div>
+        <div>
+          <head>Les sermons</head>
+          <div>
+            <p>Peu diffusée à l’époque médiévale, l’œuvre homilétique de Godefroid est encore méconnue en raison de son caractère largement inédit. Principale source sur la prédication du chanoine, le manuscrit 1002 de la Mazarine donne une série de 19 sermons. Ceux-ci forment une collection réunie par l’auteur avant la composition du <hi rend="i">Microcosmus</hi>, où il est y fait référence comme à son <hi rend="i">libellus sermonum</hi>. Ce manuscrit a été copié à la fin des années 1170 par un confrère victorin contemporain de Godefroid et relu par ce dernier qui y ajouta des annotations.</p>
+          </div>
+        </div>
+        <div>
+          <head>Le sermon pour l’Avent</head>
+          <div>
+            <p>Période de préparation spirituelle où les chrétiens attendent la fête de Noël, l’Avent est l’occasion pour le prédicateur de rappeler le plan établi par Dieu pour sauver l’humanité. Le sermon s’ouvre par le commentaire d’un texte liturgique. Suivant les recommandations d’Hugues de Saint-Victor, Godefroid commence par établir le sens historique du passage. C'est pourquoi, il cherche à établir les circonstances précises dans lesquelles a été proféré le texte. Il recourt ainsi à l’étymologie qui sert d’amorce à un développement mettant en parallèle la cité de Dieu et le camp de Dieu.</p>
+            <p>Dans ce sermon typique de la prédication canoniale, Godefroid expose une ecclésiologie conforme à la pensée des Pères, notamment Augustin. Il voit ainsi dans la cité de Dieu l’ensemble des anges demeurés fidèles après la chute de Satan et des mauvais anges. Quant au camp de Dieu, il s’agit de l’Église militante, c’est-à-dire des hommes qui combattent afin de rejoindre au ciel l’Église triomphante. Les <hi rend="i" >speculatores</hi> sont tous ceux qui défendent l’Église dans son combat terrestre, qu’il s’agisse des saints ou de Dieu lui-même.</p>
+          </div>
+        </div>
+        <div>
+          <head>Pour approfondir</head>
+          <div>
+            <listBibl>
+              <bibl>
+                <author>Delhaye (P.)</author>, « Les sermons de Godefroy de Saint-Victor, leur tradition manuscrite », dans <title>Recherches de théologie ancienne et médiévale</title>, <biblScope type="vol" >t. 21</biblScope>, 1954, <biblScope type="pp">p. 194-210</biblScope>. </bibl>
+              <bibl>
+                <author>Gasparri (F.)</author>, « Observations paléographiques sur deux manuscrits partiellement autographes de Godefroid de Saint-Victor », dans <title>Scriptorium</title>, <biblScope type="vol">t. 36</biblScope>, 1982, <biblScope type="pp">p. 43-50</biblScope>. </bibl>
+              <bibl>
+                <author>Ouy (G.)</author>, « Manuscrits entièrement ou partiellement autographes de Godefroid de Saint-Victor », dans
+                <title>Scriptorium</title>, <biblScope type="vol">t. 36</biblScope>, 1982, <biblScope type="pp">p. 29-42</biblScope>. </bibl>
+            </listBibl>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
