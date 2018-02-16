@@ -1,5 +1,5 @@
 {
-	"@id": "http://193.48.42.68/loris/adele/dossiers/1/manifest.json",
+	"@id": "http://193.48.42.68/adele/dossiers/manifests/man1.json",
 	"@type": "sc:Manifest",
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"label": "Dossier documentaire 1",
