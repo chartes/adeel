@@ -235,14 +235,14 @@
                         <p>
                             <figure rend="53/faxexternes.jpg">
                                 <figDesc>
-                                    <seg type="circle" rend="181,32,19">Lettres allongées (le “-te” après une ligature “-ct-” y échappe).</seg>
-                                    <seg type="circle" rend="229,30,17">Lettres conjointes : un élément commun au “t” et au “r”.</seg>
+                                    <seg rend="181,32,19">Lettres allongées (le “-te” après une ligature “-ct-” y échappe).</seg>
+                                    <seg rend="229,30,17">Lettres conjointes : un élément commun au “t” et au “r”.</seg>
                                     <seg type="rect" rend="197,57,257,74">Lettres capitales.</seg>
-                                    <seg type="circle" rend="351,154,13">Contrairement à ses usages postérieurs, la chancellerie n?interdit pas encore les coupures de mots en fin de ligne. Les coupures sont inégalement signalées par un trait d?union (2 cas contre 4).</seg>
-                                    <seg type="circle" rend="57,231,18">Ligature “-st-” allongée (trait d?influence pontificale).</seg>
-                                    <seg type="circle" rend="68,381,11">Point virgule de clôture du discours (alterne avec le point, avec une valeur apparemment renforcée).</seg>
-                                    <seg type="circle" rend="233,655,77">Monogramme, très proche de celui de Louis VI et, plus loin, de celui de Louis le Pieux. La structure porteuse, en forme de H, impose de lire le nom à l?ancienne, “Hludovicus”.</seg>
-                                    <seg type="circle" rend="187,761,38">Attache du sceau.</seg>
+                                    <seg rend="351,154,13">Contrairement à ses usages postérieurs, la chancellerie n?interdit pas encore les coupures de mots en fin de ligne. Les coupures sont inégalement signalées par un trait d?union (2 cas contre 4).</seg>
+                                    <seg rend="57,231,18">Ligature “-st-” allongée (trait d?influence pontificale).</seg>
+                                    <seg rend="68,381,11">Point virgule de clôture du discours (alterne avec le point, avec une valeur apparemment renforcée).</seg>
+                                    <seg rend="233,655,77">Monogramme, très proche de celui de Louis VI et, plus loin, de celui de Louis le Pieux. La structure porteuse, en forme de H, impose de lire le nom à l?ancienne, “Hludovicus”.</seg>
+                                    <seg rend="187,761,38">Attache du sceau.</seg>
                                 </figDesc>
                             </figure>
                        </p>

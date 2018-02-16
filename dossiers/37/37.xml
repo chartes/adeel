@@ -152,16 +152,16 @@
             <p>
               <figure rend="37/faxexternes.jpg">
                 <figDesc>
-                  <seg type="poly" rend="35,15,18,28,36,27,49,13,41,2,12,1" >Initiale grossie.</seg>
-                  <seg type="circle" rend="297,15,7">Capitales à traits redoublés.</seg>
-                  <seg type="circle" rend="507,32,10">Capitales à traits redoublés.</seg>
-                  <seg type="circle" rend="800,196,12">Capitales à traits redoublés.</seg>
-                  <seg type="circle" rend="711,12,10">Différentes formes de tilde.</seg>
-                  <seg type="circle" rend="631,53,8">Différentes formes de tilde.</seg>
-                  <seg type="circle" rend="126,77,11">Différentes formes de tilde.</seg>
-                  <seg type="circle" rend="490,194,8">Différentes formes de ponctuation forte.</seg>
-                  <seg type="circle" rend="690,34,8">Différentes formes de ponctuation forte.</seg>
-                  <seg type="poly" rend="212,221,226,209,255,204,284,210,296,222,280,236,253,236,228,234" >Ligne de fin de texte.</seg>
+                  <seg rend="35,15,18,28,36,27,49,13,41,2,12,1" >Initiale grossie.</seg>
+                  <seg rend="297,15,7">Capitales à traits redoublés.</seg>
+                  <seg rend="507,32,10">Capitales à traits redoublés.</seg>
+                  <seg rend="800,196,12">Capitales à traits redoublés.</seg>
+                  <seg rend="711,12,10">Différentes formes de tilde.</seg>
+                  <seg rend="631,53,8">Différentes formes de tilde.</seg>
+                  <seg rend="126,77,11">Différentes formes de tilde.</seg>
+                  <seg rend="490,194,8">Différentes formes de ponctuation forte.</seg>
+                  <seg rend="690,34,8">Différentes formes de ponctuation forte.</seg>
+                  <seg rend="212,221,226,209,255,204,284,210,296,222,280,236,253,236,228,234" >Ligne de fin de texte.</seg>
                 </figDesc>
               </figure>
             </p>

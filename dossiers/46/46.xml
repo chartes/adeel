@@ -161,17 +161,17 @@
             <p>
               <figure rend="46/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="40,103,16">Ornementations de lettres.</seg>
+                  <seg rend="40,103,16">Ornementations de lettres.</seg>
                   <seg type="rect" rend="136,104,146,131">Ornementations de lettres.</seg>
                   <seg type="rect" rend="211,96,224,128">Ornementations de lettres.</seg>
-                  <seg type="circle" rend="330,132,8">Signe &amp; (conjonction e + t).</seg>
-                  <seg type="circle" rend="245,213,8">Abréviation tironienne de et.</seg>
-                  <seg type="circle" rend="209,262,9">Abréviation tironienne de et.</seg>
-                  <seg type="circle" rend="240,291,11">Abréviation et avec tilde = et(iam).</seg>
-                  <seg type="poly" rend="437,279,434,316,439,364,452,375,465,342,464,301,460,275,449,261" >Justification assez régulière à droite, d&#x2019;autant plus habilement ménagée que, sur seize lignes pleines, deux seulement voient un mot coupé en fin de ligne (l. 11, 13), sans d&#x2019;ailleurs que la coupure soit indiquée.</seg>
-                  <seg type="circle" rend="279,357,9">Quelques s médians capitaux.</seg>
-                  <seg type="poly" rend="88,366,107,359,141,357,179,361,187,368,165,377,126,377,96,374" >Trait occupant l&#x2019;espace sans écriture de la dernière ligne.</seg>
-                  <seg type="circle" rend="244,411,41">Attache du sceau (double queue de parchemin) passant deux fois dans le repli.</seg>
+                  <seg rend="330,132,8">Signe &amp; (conjonction e + t).</seg>
+                  <seg rend="245,213,8">Abréviation tironienne de et.</seg>
+                  <seg rend="209,262,9">Abréviation tironienne de et.</seg>
+                  <seg rend="240,291,11">Abréviation et avec tilde = et(iam).</seg>
+                  <seg rend="437,279,434,316,439,364,452,375,465,342,464,301,460,275,449,261" >Justification assez régulière à droite, d&#x2019;autant plus habilement ménagée que, sur seize lignes pleines, deux seulement voient un mot coupé en fin de ligne (l. 11, 13), sans d&#x2019;ailleurs que la coupure soit indiquée.</seg>
+                  <seg rend="279,357,9">Quelques s médians capitaux.</seg>
+                  <seg rend="88,366,107,359,141,357,179,361,187,368,165,377,126,377,96,374" >Trait occupant l&#x2019;espace sans écriture de la dernière ligne.</seg>
+                  <seg rend="244,411,41">Attache du sceau (double queue de parchemin) passant deux fois dans le repli.</seg>
                 </figDesc>
               </figure>
             </p>

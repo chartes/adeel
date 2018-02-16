@@ -176,12 +176,12 @@
                                                <p>
                             <figure rend="47/faxexternes.jpg">
                                 <figDesc>
-                                    <seg type="circle" rend="24,33,23">Initiale agrandie et noircie.</seg>
-                                    <seg type="circle" rend="184,42,8">Initiale à trait redoublé (utilisée pour plusieurs noms de terres, titres, noms d&#x2019;officiers et ouvertures de parties du discours).</seg>
-                                    <seg type="circle" rend="513,35,15">Initiale élevée.</seg>
-                                    <seg type="poly" rend="122,158,153,145,241,146,271,158,244,171,145,170" >L&#x2019;écriture ne suit qu&#x2019;imparfaitement l&#x2019;alignement et, d&#x2019;abord trop lâche, se tasse brusquement : il est évident que le nom a été ajouté en chancellerie dans un second temps, sur un espace laissé blanc. L’examen des formes permet d&#x2019;y discerner l&#x2019;intervention d&#x2019;une autre main, plus archaïque, ne pratiquant pas l&#x2019;écriture mixte.</seg>
-                                    <seg type="poly" rend="684,182,694,170,726,169,736,184,725,199,685,196">Le dernier mot de la date et par là même de l&#x2019;acte, suivi d&#x2019;un signe de ponctuation marquant la clôture du texte, est inscrit en fin de ligne, après un long espace blanc.</seg>
-                                    <seg type="poly" rend="30,271,47,313,185,355,344,355,439,333,495,284,469,245,397,216,281,202,148,211,66,239" >Simple queue de parchemin. On distingue la trace laissée par le grand sceau rond du roi et l&#x2019;épaisseur d&#x2019;une pliure double, contractée après la disparition du sceau.</seg>
+                                    <seg rend="24,33,23">Initiale agrandie et noircie.</seg>
+                                    <seg rend="184,42,8">Initiale à trait redoublé (utilisée pour plusieurs noms de terres, titres, noms d&#x2019;officiers et ouvertures de parties du discours).</seg>
+                                    <seg rend="513,35,15">Initiale élevée.</seg>
+                                    <seg rend="122,158,153,145,241,146,271,158,244,171,145,170" >L&#x2019;écriture ne suit qu&#x2019;imparfaitement l&#x2019;alignement et, d&#x2019;abord trop lâche, se tasse brusquement : il est évident que le nom a été ajouté en chancellerie dans un second temps, sur un espace laissé blanc. L’examen des formes permet d&#x2019;y discerner l&#x2019;intervention d&#x2019;une autre main, plus archaïque, ne pratiquant pas l&#x2019;écriture mixte.</seg>
+                                    <seg rend="684,182,694,170,726,169,736,184,725,199,685,196">Le dernier mot de la date et par là même de l&#x2019;acte, suivi d&#x2019;un signe de ponctuation marquant la clôture du texte, est inscrit en fin de ligne, après un long espace blanc.</seg>
+                                    <seg rend="30,271,47,313,185,355,344,355,439,333,495,284,469,245,397,216,281,202,148,211,66,239" >Simple queue de parchemin. On distingue la trace laissée par le grand sceau rond du roi et l&#x2019;épaisseur d&#x2019;une pliure double, contractée après la disparition du sceau.</seg>
                                 </figDesc>
                             </figure>
                        </p>

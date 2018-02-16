@@ -1,303 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">La Bible glosée au milieu du XII<hi rend="sup">e</hi> siècle : l’exemple de l’épître aux Colossiens. </title>
-                <!--  <title type="sub">La nouvelle culture chrétienne : Cassiodore dans la préface définit la nouvelle culture monastique unissant savoirs profanes et science sacrée.</title> -->
-                <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
-                <respStmt>
-                    <resp>document encodé en XML/TEI P5 par</resp>
-                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l’École nationale des Chartes)</name>
-                </respStmt>
-                <respStmt>
-                    <resp>encodage relu et complété par</resp>
-                    <name>Clavaud, Florence (directrice des nouvelles technologies et de l’informatique à l’École nationale des Chartes)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">99</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when="2009-01">janvier 2009</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Paris, Bibliothèque Mazarine, 123, 94v<hi rend="sup">o</hi></p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="lat"/>
-            </langUsage>
-        </profileDesc>
-        <encodingDesc>
-            <tagsDecl xml:id="imtAnnotationCategories">
-                <rendition xml:id="Theleme">
-                    <desc>transcriptional</desc>
-                    <label>zone d'image pour facsimile interactif Theleme</label>
-                    <code rend="rectangle" lang="text/css"/>
-                </rendition>
-            </tagsDecl>
-            <appInfo>
-                <application ident="ImageMarkupTool01" version="1.8.0.0" notAfter="2009-01-06T19:31:50">
-                    <label> Image Markup Tool</label>
-                    <desc> Tool for annotating images using TEI</desc>
-                    <ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/"> </ref>
-                </application>
-            </appInfo>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile>
-        <surface>
-            <graphic url="fax.jpg" width="685px" height="1000px" xml:id="fax"/>
-            <zone xml:id="zone-1" rendition="Theleme" ulx="279" uly="228" lrx="555" lry="305" rend="visible"/>
-            <zone xml:id="zone-2" rendition="Theleme" ulx="290" uly="308" lrx="553" lry="336" rend="visible"/>
-            <zone xml:id="zone-3" rendition="Theleme" ulx="291" uly="338" lrx="553" lry="371" rend="visible"/>
-            <zone xml:id="zone-4" rendition="Theleme" ulx="292" uly="375" lrx="552" lry="405" rend="visible"/>
-            <zone xml:id="zone-5" rendition="Theleme" ulx="293" uly="409" lrx="558" lry="439" rend="visible"/>
-            <zone xml:id="zone-6" rendition="Theleme" ulx="294" uly="439" lrx="555" lry="471" rend="visible"/>
-            <zone xml:id="zone-7" rendition="Theleme" ulx="295" uly="471" lrx="558" lry="505" rend="visible"/>
-            <zone xml:id="zone-8" rendition="Theleme" ulx="297" uly="506" lrx="467" lry="525" rend="visible"/>
-            <zone xml:id="interlineaire-1" rendition="Theleme" ulx="341" uly="523" lrx="405" lry="540" rend="visible"/>
-            <zone xml:id="interlineaire-2" rendition="Theleme" ulx="411" uly="521" lrx="513" lry="538" rend="visible"/>
-            <zone xml:id="zone-9" rendition="Theleme" ulx="251" uly="536" lrx="472" lry="560" rend="visible"/>
-            <zone xml:id="interlineaire-3" rendition="Theleme" ulx="386" uly="558" lrx="457" lry="575" rend="visible"/>
-            <zone xml:id="interlineaire-4" rendition="Theleme" ulx="497" uly="545" lrx="596" lry="572" rend="visible"/>
-            <zone xml:id="zone-10" rendition="Theleme" ulx="340" uly="569" lrx="565" lry="592" rend="visible"/>
-            <zone xml:id="interlineaire-5" rendition="Theleme" ulx="501" uly="590" lrx="597" lry="606" rend="visible"/>
-            <zone xml:id="zone-11" rendition="Theleme" ulx="340" uly="601" lrx="556" lry="620" rend="visible"/>
-            <zone xml:id="interlineaire-6" rendition="Theleme" ulx="421" uly="618" lrx="511" lry="635" rend="visible"/>
-            <zone xml:id="zone-12" rendition="Theleme" ulx="324" uly="633" lrx="557" lry="663" rend="visible"/>
-            <zone xml:id="zone-13" rendition="Theleme" ulx="307" uly="662" lrx="662" lry="688" rend="visible"/>
-            <zone xml:id="interlineaire-7" rendition="Theleme" ulx="350" uly="685" lrx="459" lry="702" rend="visible"/>
-            <zone xml:id="interlineaire-8" rendition="Theleme" ulx="478" uly="681" lrx="550" lry="701" rend="visible"/>
-            <zone xml:id="zone-14" rendition="Theleme" ulx="307" uly="698" lrx="550" lry="720" rend="visible"/>
-            <zone xml:id="interlineaire-9" rendition="Theleme" ulx="306" uly="716" lrx="342" lry="736" rend="visible"/>
-            <zone xml:id="interlineaire-10" rendition="Theleme" ulx="410" uly="713" lrx="474" lry="733" rend="visible"/>
-            <zone xml:id="interlineaire-11" rendition="Theleme" ulx="472" uly="714" lrx="552" lry="734" rend="visible"/>
-            <zone xml:id="zone-15" rendition="Theleme" ulx="306" uly="728" lrx="567" lry="753" rend="visible"/>
-            <zone xml:id="interlineaire-12" rendition="Theleme" ulx="387" uly="749" lrx="432" lry="768" rend="visible"/>
-            <zone xml:id="zone-16" rendition="Theleme" ulx="308" uly="763" lrx="559" lry="786" rend="visible"/>
-            <zone xml:id="interlineaire-13" rendition="Theleme" ulx="326" uly="781" lrx="390" lry="799" rend="visible"/>
-            <zone xml:id="zone-17" rendition="Theleme" ulx="309" uly="795" lrx="571" lry="830" rend="visible"/>
-            <zone xml:id="marge-1" rendition="Theleme" ulx="81" uly="241" lrx="284" lry="269" rend="visible"/>
-            <zone xml:id="marge-2" rendition="Theleme" ulx="81" uly="264" lrx="290" lry="280" rend="visible"/>
-            <zone xml:id="marge-3" rendition="Theleme" ulx="79" uly="277" lrx="287" lry="293" rend="visible"/>
-            <zone xml:id="marge-4" rendition="Theleme" ulx="79" uly="290" lrx="287" lry="307" rend="visible"/>
-            <zone xml:id="marge-5" rendition="Theleme" ulx="80" uly="305" lrx="290" lry="318" rend="visible"/>
-            <zone xml:id="marge-6" rendition="Theleme" ulx="81" uly="316" lrx="290" lry="330" rend="visible"/>
-            <zone xml:id="marge-7" rendition="Theleme" ulx="81" uly="327" lrx="289" lry="342" rend="visible"/>
-            <zone xml:id="marge-8" rendition="Theleme" ulx="81" uly="340" lrx="288" lry="356" rend="visible"/>
-            <zone xml:id="marge-9" rendition="Theleme" ulx="81" uly="354" lrx="288" lry="366" rend="visible"/>
-            <zone xml:id="marge-10" rendition="Theleme" ulx="81" uly="360" lrx="289" lry="380" rend="visible"/>
-            <zone xml:id="marge-11" rendition="Theleme" ulx="81" uly="378" lrx="253" lry="397" rend="visible"/>
-            <zone xml:id="marge-12" rendition="Theleme" ulx="567" uly="616" lrx="661" lry="634" rend="visible"/>
-            <zone xml:id="marge-13" rendition="Theleme" ulx="567" uly="631" lrx="662" lry="646" rend="visible"/>
-            <zone xml:id="marge-14" rendition="Theleme" ulx="567" uly="643" lrx="662" lry="657" rend="visible"/>
-            <zone xml:id="marge-15" rendition="Theleme" ulx="568" uly="655" lrx="662" lry="669" rend="visible"/>
-            <zone xml:id="marge-16" rendition="Theleme" ulx="91" uly="674" lrx="215" lry="696" rend="visible"/>
-            <zone xml:id="marge-17" rendition="Theleme" ulx="91" uly="693" lrx="163" lry="715" rend="visible"/>
-        </surface>
-    </facsimile>
-    <text>
-        <body>
-            <div type="facsimile" facs="#fax">
-                <p>
-                    <seg facs="#zone-1">Colosenses et hi sicut Laodicenses sunt Asia-</seg>
-                    <seg facs="#zone-2">-ni et ipsi p<ex>re</ex>venti erant a pseudo a-</seg>
-                    <seg facs="#zone-3">-postolis, nec ad hos accessit ipse Ap<ex>osto</ex>l<ex>u</ex>s, s<ex>ed</ex></seg>
-                    <seg facs="#zone-4">et hos p<ex>er</ex> ep<ex>isto</ex>lam corrigit. Audier<ex>un</ex>t <ex>enim</ex></seg>
-                    <seg facs="#zone-5">verbu<ex>m</ex> ab Archippo qui et ministe-</seg>
-                    <seg facs="#zone-6">-riu<ex>m</ex> in eos accepit. <ex>Er</ex>go Ap<ex>osto</ex>l<ex>u</ex>s ja<ex>m</ex> ligat<ex>us</ex></seg>
-                    <seg facs="#zone-7">scribit eis ab Epheso p<ex>er</ex> Tichicu<ex>m</ex> dia-</seg>
-                    <seg facs="#zone-8">-conu<ex>m</ex>. Ad Colosenses.</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-1">q<ex>uia</ex> et istis Ap<ex>osto</ex>l<ex>u</ex>s</seg>
-                    </add>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-2">auctoritas dicendor<ex>um</ex></seg>
-                    </add>
-                    <seg facs="#zone-9">Paulus Ap<ex>osto</ex>l<ex>u</ex>s J<ex>es</ex>u</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-3">q<ex>uod</ex> n<ex>on</ex> pseudo</seg>
-                    </add>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-4">q<ex>ui</ex> <ex>est</ex> vir magne auct<ex>oritatis</ex></seg>
-                    </add>
-                    <seg facs="#zone-10"> <ex>Christ</ex>i p<ex>er</ex> voluntate<ex>m</ex> D<ex>e</ex>i <ex>et</ex> Timo-</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-5">majorib<ex>us</ex> <ex>et</ex> minorib<ex>us</ex></seg>
-                    </add>
-                    <seg facs="#zone-11">-theus fr<ex>ater</ex> his qui sunt Colosis</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-6">p<ex>er</ex> gr<ex>ati</ex>am <ex>Christ</ex>i n<ex>on</ex> vi legis</seg>
-                    </add>
-                    <seg facs="#zone-12">s<ex>an</ex>c<ex>t</ex>is et fidelib<ex>us</ex> fr<ex>atr</ex>ib<ex>us</ex> in <ex>Christ</ex>o J<ex>es</ex>u</seg>
-                    <seg facs="#zone-13">gr<ex>ati</ex>a vob<ex>is</ex> et pax a D<ex>e</ex>o Patre n<ex>ost</ex>ro et D<ex>omi</ex>no J<ex>es</ex>u <ex>Christ</ex>o. Gr<ex>ati</ex>as</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-7">q<ex>uia</ex> D<ex>eu</ex>s et Pat<ex>er</ex> pot<ex>est</ex> et vult</seg>
-                    </add>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-8">p<ex>er</ex> que<ex>m</ex> vob<ex>is</ex> o<ex>mn</ex>ia</seg>
-                    </add>
-                    <seg facs="#zone-14">agim<ex>us</ex> D<ex>e</ex>o Patri d<ex>omi</ex>ni n<ex>ost</ex>ri J<ex>es</ex>u <ex>Christ</ex>i</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-9"> <ex>etiam</ex></seg>
-                    </add>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-10">ut crescatis</seg>
-                    </add>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-11">ecce un<ex>de</ex> gr<ex>ati</ex>as agit</seg>
-                    </add>
-                    <seg facs="#zone-15">semp<ex>er</ex> p<ex>ro</ex> vobis orantes, audientes</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-12">e<ex>ss</ex>e</seg>
-                    </add>
-                    <seg facs="#zone-16">fide<ex>m</ex> v<ex>est</ex>ra<ex>m</ex> in <ex>Christ</ex>o J<ex>es</ex>u et dilectio-</seg>
-                    <add place="interlinear">
-                        <seg facs="#interlineaire-13">n<ex>on</ex> ociosam</seg>
-                    </add>
-                    <seg facs="#zone-17">ne<ex>m</ex> qua<ex>m</ex> habetis in s<ex>an</ex>c<ex>t</ex>os om<ex>ne</ex>s p<ex>ro</ex>p<ex>ter</ex>…</seg>
-               </p>
-                <p n="I">
-                    <add place="margin-left">
-                        <seg facs="#marge-1">Colosenses sunt Asiani quib<ex>us</ex> n<ex>on</ex> ipse Ap<ex>osto</ex>l<ex>u</ex>s p<ex>re</ex>dica-</seg>
-                        <seg facs="#marge-2">-vit, s<ex>ed</ex> ej<ex>us</ex> discip<ex>u</ex>li Archipp<ex>us</ex> <ex>et</ex> Epafras. Archipp<ex>us</ex> v<ex>er</ex>o in eos</seg>
-                        <seg facs="#marge-3">minist<ex>er</ex>iu<ex>m</ex> accep<ex>er</ex>at, Epafras au<ex>tem</ex>, ex eis oriund<ex>us</ex>, ab Ap<ex>osto</ex>lo</seg>
-                        <seg facs="#marge-4">instruct<ex>us</ex>, doctrina<ex>m</ex> Archippi <ex>con</ex>firmaverat. Sup<ex>er</ex>veni-</seg>
-                        <seg facs="#marge-5">-entib<ex>us</ex> au<ex>tem</ex> pseudo Ap<ex>osto</ex>lis <ex>et</ex> carn<ex>is</ex> observantias p<ex>re</ex>dican-</seg>
-                        <seg facs="#marge-6">tib<ex>us</ex>, dubiu<ex>m</ex> erat q<ex>u</ex>ib<ex>us</ex> poti<ex>us</ex> credendu<ex>m</ex> e<ex>ss</ex>et. V<ex>e</ex>l Paulus</seg>
-                        <seg facs="#marge-7">cuj<ex>us</ex> auctoritas celebris erat, q<ex>u</ex>asi medi<ex>us</ex> judicat q<ex>ue</ex></seg>
-                        <seg facs="#marge-8">pars sit poti<ex>us</ex> tenenda. Describit au<ex>tem</ex> <ex>Christ</ex>um <ex>et</ex> ej<ex>us</ex> b<ex>e</ex>n<ex>e</ex>fi-</seg>
-                        <seg facs="#marge-9">cia, q<ex>u</ex>om<ex>od</ex>o e<ex>st</ex> sufficiens ad o<ex>mn</ex>ia, carnalia v<ex>er</ex>o p<ex>ro</ex>rs<ex>us</ex> imp<ex>ro</ex>-</seg>
-                        <seg facs="#marge-10">-bat, ut deinceps sincere fide<ex>m</ex> <ex>Christ</ex>i teneant. Instruit et mo-</seg>
-                        <seg facs="#marge-11">-ralit<ex>er</ex>, confirmans q<ex>u</ex>icq<ex>u</ex>id illi docuerant.</seg>
-                    </add>
-               </p>
-                <p n="II">
-                    <add place="margin-right">
-                        <seg facs="#marge-12">Q<ex>uo</ex>d tenendu<ex>m</ex> e<ex>st</ex> q<ex>uia</ex> <ex>et</ex> ple-</seg>
-                        <seg facs="#marge-13">–ne veru<ex>m</ex> et bonu<ex>m</ex> nun-</seg>
-                        <seg facs="#marge-14">–ciu<ex>m</ex> ne <ex>er</ex>go alibi spe<ex>m</ex> illam</seg>
-                        <seg facs="#marge-15">q<ex>ue</ex>ratis q<ex>u</ex>a<ex>m</ex> pri<ex>us</ex> intellexistis.</seg>
-                    </add>
-               </p>
-                <p n="III">
-                    <add place="margin-left">
-                        <seg facs="#marge-16">Ostend<ex>it</ex> bona q<ex>ue</ex> receper<ex>unt</ex>, dum</seg>
-                        <seg facs="#marge-17">p<ex>ro</ex> eis gr<ex>ati</ex>as agit.</seg>
-                    </add>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <p>Colosenses<add place="margin-left" n="I"> Colosenses sunt Asiani quibus non ipse Apostolus predica-<lb/> -vit, sed ejus discipuli <term n="en dehors de son ministère à Colosses, on ne sait pas grand-chose du personnage. Il pourrait être le fils de Philémon et d’Apphia, cf. Phil. 2.">Archippus</term> et <term n="compagnon de Paul, cf. Col. 1, 7." >Epafras</term>. Archippus vero in eos<lb/> ministerium acceperat, Epafras autem, ex eis oriundus, ab Apostolo<lb/> instructus, doctrinam Archippi confirmaverat. Superveni-<lb/>-entibus autem pseudo Apostolis et carnis observantias predican-<lb/>-tibus, dubium erat quibus potius credendum esset. Vel Paulus<lb/> cujus auctoritas celebris erat, quasi medius judicat que<lb/> pars sit potius tenenda. Describit autem Christum et ejus benefi-<lb/> cia, quomodo est sufficiens ad omnia, carnalia vero prorsus impro-<lb/>-bat, ut deinceps sincere fidem Christi teneant. Instruit et mo-<lb/> -raliter, confirmans quicquid illi docuerant. </add> et hi sicut Laodicenses sunt Asia-<lb/> -ni et ipsi preventi erant a pseudo a-<lb/>-postolis, nec ad hos accessit ipse Apostolus, sed<lb/> et hos per epistolam corrigit. Audierunt enim<lb/> verbum ab Archippo <term n="cf. Col. 4, 17.">qui et ministe-<lb/>-rium in eos accepit</term>. Ergo Apostolus jam ligatus <lb/> scribit eis ab Epheso per <term n="compagnon de Paul, cf. Act. 20, 4 ; Eph. 6, 21 ; Col. 4, 7 ; 2 Tim. 4, 12 ; Tit. 3, 12.">Tichicum</term> dia-<lb/> -conum. Ad Colosenses.<lb/> Paulus<add place="supralinear" n="a">quia et istis Apostolus</add> Apostolus Jesu<lb/> Christi<add place="supralinear" n="b">auctoritas dicendorum</add> per voluntatem Dei<add place="supralinear" n="c">quod non pseudo</add> et Timo-<lb/> -theus frater<add place="supralinear" n="d">qui est vir magne auctoritatis</add> his qui sunt Colosis<add place="supralinear" n="e">majoribus et minoribus</add><lb/> sanctis et fidelibus fratribus in Christo Jesu<add place="supralinear" n="f">per gratiam Christi non vi legis</add><lb/> gratia vobis et pax a Deo Patre nostro et Domino Jesu Christo. <add place="margin-right" n="II">Quod tenendum est quia et ple-<lb/>–ne verum et bonum nun-<lb/>–cium ne ergo alibi spem illam<lb/>queratis quam prius intellexistis.</add>
-                        <add n="III" place="margin-left">Ostendit bona que receperunt, dum<lb/>pro eis gratias agit.</add>Gratias<lb/> agimus Deo Patri<add place="supralinear" n="g">quia Deus et Pater potest et vult</add> domini nostri Jesu Christi<add place="supralinear" n="h">per quem vobis omnia</add><lb/> semper<add place="supralinear" n="i">etiam</add> pro vobis orantes, <add place="supralinear" n="j">ut crescatis</add> audientes <add place="supralinear" n="k">ecce unde gratias agit</add><lb/> fidem vestram <add place="supralinear" n="l">esse</add> in Christo Jesu et dilectio-<lb/> -nem <add place="supralinear" n="m">non ociosam</add> quam habetis in sanctos omnes propter…<lb/>
-                   </p>
-                </div>
-                <div type="translation">
-                    <p>Les Colossiens<add place="margin-left" n="I">Les Colossiens sont des Asiatiques auxquels l’Apôtre lui-même n’a pas prêché,<lb/>mais ses disciples <term n="en dehors de son ministère à Colosses, on ne sait pas grand-chose du personnage. Il pourrait être le fils de Philémon et d’Apphia, cf. Phil. 2.">Archippe</term> et <term n="compagnon de Paul, cf. Col. 1, 7.">Epafras</term>. Archippe avait reçu sur eux<lb/>le ministère. Quant à Epaphras, né parmi eux, instruit par l’Apôtre,<lb/>il avait conforté l’enseignement d’Archippe. Alors que survenaient <lb/>des pseudo-apôtres et des prédicateurs d’observances charnelles<lb/>on se demandait qui croire de préférence. Et Paul<lb/>dont l’autorité était renommée, comme un arbitre, juge<lb/> la partie qu’il faut plutôt tenir. Il décrit donc le Christ et ses bienfaits, <lb/> comment il suffit pour tout, il désapprouve en revanche les choses charnelles<lb/>pour qu’ensuite, avec loyauté, ils conservent la foi du Christ. Il les instruit aussi moralement, <lb/>confirmant tout ce qu’on leur avait enseigné.</add> et ceux-ci comme les habitants de Laodicée sont des Asiatiques<lb/> et ils avaient reçu d’abord des pseudo- apôtres<lb/> et l’Apôtre ne se rendit pas auprès d’eux,<lb/> mais les corrigea par une épître. Ils ont, en effet, reçu<lb/> la parole d’Archippe <term n="cf. Col. 4, 17.">qui a reçu le ministère parmi eux</term>.<lb/> L’Apôtre donc, déjà emprisonné,<lb/> leur écrit depuis Éphèse par <lb/>le moyen du diacre <term n="compagnon de Paul, cf. Act. 20, 4 ; Eph. 6, 21 ; Col. 4, 7 ; 2 Tim. 4, 12 ; Tit. 3, 12.">Tychique</term>. Aux Colossiens.<lb/> Paul<add n="a" place="supralinear">car il est Apôtre aussi pour eux</add> apôtre de Jésus Christ<add n="b" place="supralinear">l’autorité de qu’il faut dire</add><lb/> par la volonté de Dieu<add n="c" place="supralinear">parce qu’il n’est pas pseudo-apôtre</add> et le frère <lb/> Timothée<add n="d" place="supralinear">lui qui est un homme de grande autorité</add> à ceux qui sont à Colosses<add n="e" place="supralinear" >pour les plus grands et les plus petits</add><lb/> saints et fidèles frères dans le Christ Jésus<add place="supralinear" n="f">par la grâce du Christ, non par la force de la Loi</add><lb/> à vous, la grâce et la paix, par Dieu notre Père et notre seigneur Jésus Christ<add n="II" place="margin-right">Il faut s’y tenir car c’est <lb/>un message tout à fait vrai et bon,<lb/>afin que vous ne placiez pas ailleurs l’espérance<lb/>dont vous avez reçu auparavant l’intelligence.</add>. <lb/>
-                        <add place="margin-left" n="III">Il montre les biens qu’ils ont reçus,<lb/>tandis qu’il rend grâces pour eux.</add> Nous rendons grâces à Dieu, le Père<add n="g" place="supralinear">parce que, Dieu et Père, il peut et veut</add> de notre Seigneur Jésus Christ<add n="h" place="supralinear">par qui tout est à vous</add><lb/> et sans cesse<add n="i" place="supralinear" >même</add> nous prions pour vous<add place="supralinear" n="j">pour que vous croissiez</add> ayant été informés<add n="k" place="supralinear">voilà pourquoi il rend grâces</add>
-                        <lb/>de votre foi<add place="supralinear" n="l">qui est</add> en Jésus Christ et de la charité<add n="m" place="supralinear" >non inactive</add>
-                        <lb/> qui est la vôtre envers tous les saints…</p>
-                </div>
-            </div>
-            <div type="paleography">
-                <head>Commentaire paléographique</head>
-                <div>
-                    <head>Aspect général</head>
-                    <div>
-                        <p>
-                            <figure rend="99/fax.jpg"/>
-                       </p>
-                        <p>L’écriture est une minuscule caroline tardive d’aspect soigné, où une « gothicisation » limitée se manifeste par deux tendances : <list>
-                                <item>l’aspect brisé des courbes, ou plutôt le contraste marqué par une plume large entre les pleins et des déliés (notamment dans le haut des jambages de <hi rend="b">n</hi> et <hi rend="b">m</hi>, ou la langue du <hi rend="b">r</hi>) ;</item>
-                                <item>l’agrandissement de l’œil des lettres, par rapport à la hauteur des hastes (en revanche, guère de resserrement horizontal ici).</item>
-                            </list>
-                       </p>
-                        <p>Le texte et la glose sont apparemment de la même main, mais la glose, d’un tracé simplifié pour s’adapter au module réduit, est plus nettement brisée et les jambages sont en général marqués, en haut et en bas, par des filets proportionnellement plus développés, qui annoncent le traitement uniforme des extrémités des traits dans l’écriture gothique. De même dans <hi rend="b">g</hi> : le trait qui tend à fermer la boucle inférieure, faiblement visible dans le texte, est bien marqué dans la glose.</p>
-                        <p>Le haut des hastes est renforcé par un trait supplémentaire, empattement triangulaire qui tend à s’ouvrir en fourche : ce détail, ici plutôt accidentel, est devenu dans d’autres écritures une variété « normale ».</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Formes individuelles à remarquer</head>
-                    <div>
-                        <p>
-                            <figure rend="99/fax.jpg"/>
-                       </p>
-                        <p>Dans certaines lettres, la glose présente aussi, comme souvent, des formes particulières qu’on retrouvera ensuite comme norme graphique dans l’écriture gothique :<list>
-                                <item><hi rend="b">d</hi> : droit dans le texte (trois traits), mais oncial dans la glose (incliné, en deux traits).</item>
-                                <item><hi rend="b">r</hi> : après un <hi rend="b">o</hi>, prend la forme ronde (semblable à <hi rend="b" >2</hi>) dans la glose seule.</item>
-                                <item><hi rend="b">s</hi> : la forme droite plus simple à tracer (<hi rend="b">ſ</hi>, en deux traits) est de règle dans la glose ; la forme capitale (s, en trois traits) est réservée, dans le texte, à la terminaison des mots abrégés par contraction (à part om<hi rend="i">ne</hi>s, l. 2). On en distinguera le <hi rend="b" >s</hi> surélevé plus cursif, en deux traits voire un seul (<hi rend="b">Colosis</hi>), réservé aux fins de ligne qu’il s’agit de raccourcir. Le rubricateur, en revanche (autre main), utilise aussi bien <hi rend="b" >s</hi> capital à la fin de <hi rend="b">Colosenses</hi>. Dans l’écriture gothique, selon les types, ces différents allographes resteront tous en usage.</item>
-                                <item><hi rend="b">et</hi> : représenté par l’éperluette ou conjonction e+t (<hi rend="b">&amp;</hi>) dans le texte, et la note tironienne (<hi rend="b">7</hi>) dans la glose.</item>
-                                <item><hi rend="b">e</hi> cédillé : pour la diphtongue –ae dans la glose interlinéaire.</item>
-                            </list>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Abréviations</head>
-                    <div>
-                        <p>
-                            <figure rend="99/fax.jpg"/>
-                       </p>
-                        <p>Au reste le système abréviatif est à peine moins développé dans le texte que dans la glose. La page présente un large échantillon des signes et principes en usage : tildes pour nasales, suspensions (dans la glose) et nombreuses contractions, notamment dans les <hi rend="i">nomina sacra</hi> et autres mots du registre religieux ; lettres suscrites ; terminaisons -<hi rend="b">b(us)</hi> et -<hi rend="b">or(um)</hi> ; signes conventionnels pour <hi rend="b">con-</hi>, <hi rend="b">-us</hi> ; etc.</p>
-                        <p>On notera plus spécialement : <list>
-                                <item><hi rend="b">enim</hi> dans la forme qui avait été répandue par l’écriture insulaire (<hi rend="i" >N</hi> capital semblable à un petit <hi rend="i">H</hi>) ;</item>
-                                <item><hi rend="b">est</hi>, dans la glose, sous la forme tantôt « insulaire » (tiret entre deux points) tantôt « continentale » (<hi rend="i">e</hi> avec tilde) ;</item>
-                                <item><hi rend="b">etiam</hi> rendu par composition d’<hi rend="b">et</hi> tironien et tilde ;</item>
-                                <item><hi rend="b">propter</hi> par <hi rend="b">pp</hi> barrés ;</item>
-                                <item>l’oubli du tilde sur <hi rend="b">gratias</hi> dans la glose marginale ; </item>
-                                <item>surtout, à l’avant-dernière ligne du texte, <hi rend="b">v(est)ra(m)</hi> : <hi rend="b">r</hi> a été allongé pour recevoir une barre inférieure, sans doute par correction. Comme on ne pouvait ajouter ni <hi rend="b">m</hi> ni un second tilde à la contraction <hi rend="b">v(est)ra</hi>, on y a adapté la barre qui coupe couramment la hampe du <hi rend="b">q</hi> pour compléter une abréviation <hi rend="b">q(ue)</hi> ou <hi rend="b">q(u)a</hi> respectivement en <hi rend="b">quem</hi> ou <hi rend="b">quam</hi>.</item>
-                            </list>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Structuration</head>
-                    <div>
-                        <p>
-                            <figure rend="99/fax.jpg"/>
-                       </p>
-                        <p>Les mots sont rigoureusement séparés, y compris les prépositions et conjonctions. Dans les gloses comme dans le texte, la ponctuation est simple : le point à mi-hauteur (<hi rend="i">punctus</hi>) sert à distinguer les propositions dans la phrase ; il précède aussi toujours la conjonction <hi rend="b">et</hi>. Associé à une majuscule, il marque le début d’une nouvelle phrase.</p>
-                        <p>Le feuillet de dimensions moyennes (240 x 160 mm) illustre un jalon important dans l’évolution de la mise en page, entre la page à longues lignes de l’époque carolingienne et les formats rigoureusement compartimentés du XIII<hi rend="i" >e</hi> siècle. Selon un modèle attesté par les manuscrits dès le premier quart du XII<hi rend="i">e</hi> siècle, la page est ici divisée par une réglure à la pointe sèche en trois colonnes de largeur inégale (50 mm, 60 mm et 25 mm de gauche à droite) et isolées par deux colonnettes (5 mm de largeur). La colonne centrale (175 x 60 mm) sert à copier le texte biblique dans une écriture de gros module. Des initiales en rouge permettent d’y distinguer les unités textuelles par ordre décroissant dans la page : <hi rend="b">P</hi> (55 mm de hauteur), <hi rend="b">C</hi> (13 mm), <hi rend="b">S</hi> (5 mm). Un titre rubriqué (c’est-à-dire à l’encre rouge) annonce le début de l’épître. Le texte y est copié de manière espacée, pour permettre d’y insérer des gloses sur la réglure.</p>
-                        <p>Les gloses interlinéaires, brèves, sont situées au-dessus des mots qu’elles expliquent et distinguées les unes des autres par des signes de paragraphe. Les gloses marginales, généralement les plus longues, sont aussi mises en valeur par des signes de paragraphe, parfois surdéveloppés et ornés, et suivent la réglure. Il n’existe pas ici de signe de renvoi entre le texte biblique et les gloses marginales : c’est la disposition de celles-ci sur la page qui permet de s’y reporter. S’ajoutent à cette disposition préétablie des corrections occasionnelles, ici dans l’interligne de la première glose marginale (<hi rend="b">sincere</hi>), et dans la marge de fond (intérieure) pour le texte biblique, en gros module, avec un signe de renvoi sous forme de trois points après le mot <hi rend="b">nostro</hi>.</p>
-                    </div>
-                </div>
-            </div>
-            <div type="history">
-                <head>Commentaire historique</head>
-                <div>
-                    <head>Le contexte historique</head>
-                    <div>
-                        <p>En l’état, ce feuillet est typique de la première version de la Glose telle qu’elle est sortie de l’école d’<term xml:id="a-note-1" rend="b">Anselme de Laon</term>. À l’origine simple explication d’un mot, la glose désigne également un projet pédagogique appliqué à la Bible et qui a vu le jour à Laon dans les dernières décennies du XI<hi rend="i">e</hi> siècle. La responsabilité en revient à maître Anselme, écolâtre de l’école cathédrale de la fin du XI<hi rend="i">e</hi> siècle jusqu’en 1117. Grâce à la renommée d’Anselme, Laon devient un des centres scolaires majeurs de l’Occident chrétien. La réputation du maître dans le domaine des études bibliques attire, en effet, une population nombreuse d’étudiants venus de toute la chrétienté. Après avoir reçu une formation élémentaire dans leur pays d’origine, les élèves se rendent à Laon afin de se perfectionner dans la lecture de la Bible, principale source pour l’enseignement de la théologie. On a ainsi gardé la trace de plus d’une vingtaine d’élèves, dont le célèbre Pierre Abélard. La réputation de l’école située à Laon est aussi liée à l’activité pédagogique du frère d’Anselme, <term rend="b" xml:id="a-note-2">Raoul de Laon</term> qui lui succède comme écolâtre en 1117. Il maintient le rayonnement de l’école de Laon jusque dans les années 1120. La génération des élèves d’Anselme et de Raoul prolonge aussi l’esprit et les pratiques pédagogiques laonnoises. Ce centre scolaire garde ainsi une influence sur les écoles parisiennes jusqu’à la fin du XII<hi rend="i">e</hi> siècle.</p>
-                        <p rend="notes">
-                            <note target="#a-note-1" type="footnote">Parallèlement à un cursus honorum bien rempli de chanoine, chancelier, doyen et archidiacre de l’église cathédrale de Laon, Anselme mène une brillante carrière de professeur depuis la fin du XI<hi rend="i">e</hi> siècle à sa mort en 1117. On lui attribue avec vraisemblance la glose sur les Épîtres pauliniennes, les Psaumes et sans doute le Cantique des cantiques et l’Évangile de Jean. En plus d’une œuvre exégétique d’attribution contestée, il est l’auteur d’une soixantaine de sentences théologiques. </note>
-                            <note type="footnote" target="#a-note-2">Il succède à son frère comme écolâtre, archidiacre (1117-1126) et chancelier de 1117 à sa mort en 1133. On lui attribue deux traités d’arithmétique, la glose sur Matthieu, deux commentaires bibliques et au moins trois sentences théologiques.</note>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Les pratiques pédagogiques</head>
-                    <div>
-                        <p>Plusieurs faits que l’observation suffit à déceler méritent explication. La mise en page soignée et la décoration permettent au lecteur de distinguer aisément plusieurs niveaux d’informations. Les gloses marginales sont peu abondantes et anonymes. Cette mise en page est typique de la Glose biblique issue de l’école d’Anselme. Pourtant, le fait même de gloser la Bible n’est pas neuf en soi : dès l’époque carolingienne, les manuscrits présentent des annotations explicatives qui facilitent la compréhension du texte biblique. De fait, l’originalité du projet pédagogique d’Anselme de Laon consiste à gloser la Bible de manière plus systématique que précédemment, même si le maître n’a pu mener à terme ce dessein. Anselme fait appel aux Pères de l’Église dont les extraits sont ajoutés dans les marges et les interlignes. La nouveauté consiste également à insérer, parmi les extraits patristiques, des sentences magistrales. L’anonymat bien attesté dans la Glose sur les épîtres pauliniennes est lié à cette pratique. Elle permet de promouvoir l’enseignement des <hi rend="i">magistri</hi> qui ajoutent leurs propres solutions aux sentences canoniques des Pères.</p>
-                        <p>Les gloses fournissent des explications de différents ordres qui répondent aux finalités d’un cours consacré à l’Écriture (<hi rend="i">lectio in sacra pagina</hi>). Les gloses grammaticales explicitent la construction du texte et en favorisent donc la compréhension (gloses interlinéaires i et l). Les gloses historiques rappellent les circonstances de rédaction de l’épître paulinienne (<hi rend="b">sens historique</hi>) et constituent la première étape de l’interprétation (gloses marginales 1 et 3 par exemple). Le rappel du contexte historique sert de support à une exégèse qui s’appuie sur des gloses proprement théologiques. Elles fixent le degré d’autorité des personnes citées, qu’il s’agisse de Timothée (glose d), de Paul (glose a), du Christ (glose b) ou du Père (glose g). Elles ont également une signification morale (<hi rend="b">sens tropologique</hi>) et s’adressent au lecteur pour qu’il se conforme au message évangélique (gloses 2 et j).</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Pour approfondir</head>
-                    <div>
-                        <listBibl>
-                            <bibl>
-                                <author>ANDRÉE (A.)</author>, <title>Gilbertus Universalis : Glossa ordinaria in Lamentationes Ieremie prophete. Prothemata et liber I. A critical edition with an introduction and a translation</title>, Stockholm, 2005 (<hi rend="b">dernière synthèse historique sur l’histoire de la Glose</hi>). </bibl>
-                            <bibl>
-                                <author>LOBRICHON (G.)</author>, « Une nouveauté : les gloses de la Bible », dans <title>Le Moyen Âge et la Bible</title>, dir. P. Riché et G. Lobrichon, Paris, 1984, <biblScope>p. 95-114</biblScope>, rééd. dans <title>La Bible au Moyen Âge</title>, Paris, 2003, <biblScope>p. 158-172</biblScope> (<hi rend="b">sur la mise en page et la diffusion de la Glose</hi>). </bibl>
-                            <bibl>
-                                <author>STIRNEMANN (P.)</author>, « Où ont été fabriqués les livres de la glose ordinaire dans la première moitié du XII<hi rend="i">e</hi> siècle ? », dans <title>Le XIIe siècle. Mutations et renouveau en France dans la première moitié du XII<hi rend="i">e</hi> siècle</title>, éd. F. Gasparri, Paris, 1994, <biblScope>p. 257-301</biblScope> (<hi rend="b">sur les manuscrits glosés</hi>). </bibl>
-                        </listBibl>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">La Bible glosée au milieu du XII<hi rend="sup">e</hi> siècle : l’exemple de l’épître aux Colossiens. </title>
+        <!--  <title type="sub">La nouvelle culture chrétienne : Cassiodore dans la préface définit la nouvelle culture monastique unissant savoirs profanes et science sacrée.</title> -->
+        <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
+        <respStmt>
+          <resp>document encodé en XML/TEI P5 par</resp>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l’École nationale des Chartes)</name>
+        </respStmt>
+        <respStmt>
+          <resp>encodage relu et complété par</resp>
+          <name>Clavaud, Florence (directrice des nouvelles technologies et de l’informatique à l’École nationale des Chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">99</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2009-01">janvier 2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Paris, Bibliothèque Mazarine, 123, 94v<hi rend="sup">o</hi></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat"/>
+      </langUsage>
+    </profileDesc>
+    <encodingDesc>
+      <tagsDecl xml:id="imtAnnotationCategories">
+        <rendition xml:id="Theleme">
+          <desc>transcriptional</desc>
+          <label>zone d'image pour facsimile interactif Theleme</label>
+          <code rend="rectangle" lang="text/css"/>
+        </rendition>
+      </tagsDecl>
+      <appInfo>
+        <application ident="ImageMarkupTool01" version="1.8.0.0" notAfter="2009-01-06T19:31:50">
+          <label> Image Markup Tool</label>
+          <desc> Tool for annotating images using TEI</desc>
+          <ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/"> </ref>
+        </application>
+      </appInfo>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic url="fax.jpg" width="685px" height="1000px" xml:id="fax"/>
+      <zone xml:id="zone-1" rendition="Theleme" ulx="279" uly="228" lrx="555" lry="305" rend="visible"/>
+      <zone xml:id="zone-2" rendition="Theleme" ulx="290" uly="308" lrx="553" lry="336" rend="visible"/>
+      <zone xml:id="zone-3" rendition="Theleme" ulx="291" uly="338" lrx="553" lry="371" rend="visible"/>
+      <zone xml:id="zone-4" rendition="Theleme" ulx="292" uly="375" lrx="552" lry="405" rend="visible"/>
+      <zone xml:id="zone-5" rendition="Theleme" ulx="293" uly="409" lrx="558" lry="439" rend="visible"/>
+      <zone xml:id="zone-6" rendition="Theleme" ulx="294" uly="439" lrx="555" lry="471" rend="visible"/>
+      <zone xml:id="zone-7" rendition="Theleme" ulx="295" uly="471" lrx="558" lry="505" rend="visible"/>
+      <zone xml:id="zone-8" rendition="Theleme" ulx="297" uly="506" lrx="467" lry="525" rend="visible"/>
+      <zone xml:id="interlineaire-1" rendition="Theleme" ulx="341" uly="523" lrx="405" lry="540" rend="visible"/>
+      <zone xml:id="interlineaire-2" rendition="Theleme" ulx="411" uly="521" lrx="513" lry="538" rend="visible"/>
+      <zone xml:id="zone-9" rendition="Theleme" ulx="251" uly="536" lrx="472" lry="560" rend="visible"/>
+      <zone xml:id="interlineaire-3" rendition="Theleme" ulx="386" uly="558" lrx="457" lry="575" rend="visible"/>
+      <zone xml:id="interlineaire-4" rendition="Theleme" ulx="497" uly="545" lrx="596" lry="572" rend="visible"/>
+      <zone xml:id="zone-10" rendition="Theleme" ulx="340" uly="569" lrx="565" lry="592" rend="visible"/>
+      <zone xml:id="interlineaire-5" rendition="Theleme" ulx="501" uly="590" lrx="597" lry="606" rend="visible"/>
+      <zone xml:id="zone-11" rendition="Theleme" ulx="340" uly="601" lrx="556" lry="620" rend="visible"/>
+      <zone xml:id="interlineaire-6" rendition="Theleme" ulx="421" uly="618" lrx="511" lry="635" rend="visible"/>
+      <zone xml:id="zone-12" rendition="Theleme" ulx="324" uly="633" lrx="557" lry="663" rend="visible"/>
+      <zone xml:id="zone-13" rendition="Theleme" ulx="307" uly="662" lrx="662" lry="688" rend="visible"/>
+      <zone xml:id="interlineaire-7" rendition="Theleme" ulx="350" uly="685" lrx="459" lry="702" rend="visible"/>
+      <zone xml:id="interlineaire-8" rendition="Theleme" ulx="478" uly="681" lrx="550" lry="701" rend="visible"/>
+      <zone xml:id="zone-14" rendition="Theleme" ulx="307" uly="698" lrx="550" lry="720" rend="visible"/>
+      <zone xml:id="interlineaire-9" rendition="Theleme" ulx="306" uly="716" lrx="342" lry="736" rend="visible"/>
+      <zone xml:id="interlineaire-10" rendition="Theleme" ulx="410" uly="713" lrx="474" lry="733" rend="visible"/>
+      <zone xml:id="interlineaire-11" rendition="Theleme" ulx="472" uly="714" lrx="552" lry="734" rend="visible"/>
+      <zone xml:id="zone-15" rendition="Theleme" ulx="306" uly="728" lrx="567" lry="753" rend="visible"/>
+      <zone xml:id="interlineaire-12" rendition="Theleme" ulx="387" uly="749" lrx="432" lry="768" rend="visible"/>
+      <zone xml:id="zone-16" rendition="Theleme" ulx="308" uly="763" lrx="559" lry="786" rend="visible"/>
+      <zone xml:id="interlineaire-13" rendition="Theleme" ulx="326" uly="781" lrx="390" lry="799" rend="visible"/>
+      <zone xml:id="zone-17" rendition="Theleme" ulx="309" uly="795" lrx="571" lry="830" rend="visible"/>
+      <zone xml:id="marge-1" rendition="Theleme" ulx="81" uly="241" lrx="284" lry="269" rend="visible"/>
+      <zone xml:id="marge-2" rendition="Theleme" ulx="81" uly="264" lrx="290" lry="280" rend="visible"/>
+      <zone xml:id="marge-3" rendition="Theleme" ulx="79" uly="277" lrx="287" lry="293" rend="visible"/>
+      <zone xml:id="marge-4" rendition="Theleme" ulx="79" uly="290" lrx="287" lry="307" rend="visible"/>
+      <zone xml:id="marge-5" rendition="Theleme" ulx="80" uly="305" lrx="290" lry="318" rend="visible"/>
+      <zone xml:id="marge-6" rendition="Theleme" ulx="81" uly="316" lrx="290" lry="330" rend="visible"/>
+      <zone xml:id="marge-7" rendition="Theleme" ulx="81" uly="327" lrx="289" lry="342" rend="visible"/>
+      <zone xml:id="marge-8" rendition="Theleme" ulx="81" uly="340" lrx="288" lry="356" rend="visible"/>
+      <zone xml:id="marge-9" rendition="Theleme" ulx="81" uly="354" lrx="288" lry="366" rend="visible"/>
+      <zone xml:id="marge-10" rendition="Theleme" ulx="81" uly="360" lrx="289" lry="380" rend="visible"/>
+      <zone xml:id="marge-11" rendition="Theleme" ulx="81" uly="378" lrx="253" lry="397" rend="visible"/>
+      <zone xml:id="marge-12" rendition="Theleme" ulx="567" uly="616" lrx="661" lry="634" rend="visible"/>
+      <zone xml:id="marge-13" rendition="Theleme" ulx="567" uly="631" lrx="662" lry="646" rend="visible"/>
+      <zone xml:id="marge-14" rendition="Theleme" ulx="567" uly="643" lrx="662" lry="657" rend="visible"/>
+      <zone xml:id="marge-15" rendition="Theleme" ulx="568" uly="655" lrx="662" lry="669" rend="visible"/>
+      <zone xml:id="marge-16" rendition="Theleme" ulx="91" uly="674" lrx="215" lry="696" rend="visible"/>
+      <zone xml:id="marge-17" rendition="Theleme" ulx="91" uly="693" lrx="163" lry="715" rend="visible"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="facsimile" facs="#fax">
+        <p>
+          <seg facs="#zone-1">Colosenses et hi sicut Laodicenses sunt Asia-</seg>
+          <seg facs="#zone-2">-ni et ipsi p<ex>re</ex>venti erant a pseudo a-</seg>
+          <seg facs="#zone-3">-postolis, nec ad hos accessit ipse Ap<ex>osto</ex>l<ex>u</ex>s, s<ex>ed</ex></seg>
+          <seg facs="#zone-4">et hos p<ex>er</ex> ep<ex>isto</ex>lam corrigit. Audier<ex>un</ex>t <ex>enim</ex></seg>
+          <seg facs="#zone-5">verbu<ex>m</ex> ab Archippo qui et ministe-</seg>
+          <seg facs="#zone-6">-riu<ex>m</ex> in eos accepit. <ex>Er</ex>go Ap<ex>osto</ex>l<ex>u</ex>s ja<ex>m</ex> ligat<ex>us</ex></seg>
+          <seg facs="#zone-7">scribit eis ab Epheso p<ex>er</ex> Tichicu<ex>m</ex> dia-</seg>
+          <seg facs="#zone-8">-conu<ex>m</ex>. Ad Colosenses.</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-1">q<ex>uia</ex> et istis Ap<ex>osto</ex>l<ex>u</ex>s</seg>
+          </add>
+          <add place="interlinear">
+            <seg facs="#interlineaire-2">auctoritas dicendor<ex>um</ex></seg>
+          </add>
+          <seg facs="#zone-9">Paulus Ap<ex>osto</ex>l<ex>u</ex>s J<ex>es</ex>u</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-3">q<ex>uod</ex> n<ex>on</ex> pseudo</seg>
+          </add>
+          <add place="interlinear">
+            <seg facs="#interlineaire-4">q<ex>ui</ex> <ex>est</ex> vir magne auct<ex>oritatis</ex></seg>
+          </add>
+          <seg facs="#zone-10"> <ex>Christ</ex>i p<ex>er</ex> voluntate<ex>m</ex> D<ex>e</ex>i <ex>et</ex> Timo-</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-5">majorib<ex>us</ex> <ex>et</ex> minorib<ex>us</ex></seg>
+          </add>
+          <seg facs="#zone-11">-theus fr<ex>ater</ex> his qui sunt Colosis</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-6">p<ex>er</ex> gr<ex>ati</ex>am <ex>Christ</ex>i n<ex>on</ex> vi legis</seg>
+          </add>
+          <seg facs="#zone-12">s<ex>an</ex>c<ex>t</ex>is et fidelib<ex>us</ex> fr<ex>atr</ex>ib<ex>us</ex> in <ex>Christ</ex>o J<ex>es</ex>u</seg>
+          <seg facs="#zone-13">gr<ex>ati</ex>a vob<ex>is</ex> et pax a D<ex>e</ex>o Patre n<ex>ost</ex>ro et D<ex>omi</ex>no J<ex>es</ex>u <ex>Christ</ex>o. Gr<ex>ati</ex>as</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-7">q<ex>uia</ex> D<ex>eu</ex>s et Pat<ex>er</ex> pot<ex>est</ex> et vult</seg>
+          </add>
+          <add place="interlinear">
+            <seg facs="#interlineaire-8">p<ex>er</ex> que<ex>m</ex> vob<ex>is</ex> o<ex>mn</ex>ia</seg>
+          </add>
+          <seg facs="#zone-14">agim<ex>us</ex> D<ex>e</ex>o Patri d<ex>omi</ex>ni n<ex>ost</ex>ri J<ex>es</ex>u <ex>Christ</ex>i</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-9"> <ex>etiam</ex></seg>
+          </add>
+          <add place="interlinear">
+            <seg facs="#interlineaire-10">ut crescatis</seg>
+          </add>
+          <add place="interlinear">
+            <seg facs="#interlineaire-11">ecce un<ex>de</ex> gr<ex>ati</ex>as agit</seg>
+          </add>
+          <seg facs="#zone-15">semp<ex>er</ex> p<ex>ro</ex> vobis orantes, audientes</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-12">e<ex>ss</ex>e</seg>
+          </add>
+          <seg facs="#zone-16">fide<ex>m</ex> v<ex>est</ex>ra<ex>m</ex> in <ex>Christ</ex>o J<ex>es</ex>u et dilectio-</seg>
+          <add place="interlinear">
+            <seg facs="#interlineaire-13">n<ex>on</ex> ociosam</seg>
+          </add>
+          <seg facs="#zone-17">ne<ex>m</ex> qua<ex>m</ex> habetis in s<ex>an</ex>c<ex>t</ex>os om<ex>ne</ex>s p<ex>ro</ex>p<ex>ter</ex>…</seg>
+        </p>
+        <p n="I">
+          <add place="margin-left">
+            <seg facs="#marge-1">Colosenses sunt Asiani quib<ex>us</ex> n<ex>on</ex> ipse Ap<ex>osto</ex>l<ex>u</ex>s p<ex>re</ex>dica-</seg>
+            <seg facs="#marge-2">-vit, s<ex>ed</ex> ej<ex>us</ex> discip<ex>u</ex>li Archipp<ex>us</ex> <ex>et</ex> Epafras. Archipp<ex>us</ex> v<ex>er</ex>o in eos</seg>
+            <seg facs="#marge-3">minist<ex>er</ex>iu<ex>m</ex> accep<ex>er</ex>at, Epafras au<ex>tem</ex>, ex eis oriund<ex>us</ex>, ab Ap<ex>osto</ex>lo</seg>
+            <seg facs="#marge-4">instruct<ex>us</ex>, doctrina<ex>m</ex> Archippi <ex>con</ex>firmaverat. Sup<ex>er</ex>veni-</seg>
+            <seg facs="#marge-5">-entib<ex>us</ex> au<ex>tem</ex> pseudo Ap<ex>osto</ex>lis <ex>et</ex> carn<ex>is</ex> observantias p<ex>re</ex>dican-</seg>
+            <seg facs="#marge-6">tib<ex>us</ex>, dubiu<ex>m</ex> erat q<ex>u</ex>ib<ex>us</ex> poti<ex>us</ex> credendu<ex>m</ex> e<ex>ss</ex>et. V<ex>e</ex>l Paulus</seg>
+            <seg facs="#marge-7">cuj<ex>us</ex> auctoritas celebris erat, q<ex>u</ex>asi medi<ex>us</ex> judicat q<ex>ue</ex></seg>
+            <seg facs="#marge-8">pars sit poti<ex>us</ex> tenenda. Describit au<ex>tem</ex> <ex>Christ</ex>um <ex>et</ex> ej<ex>us</ex> b<ex>e</ex>n<ex>e</ex>fi-</seg>
+            <seg facs="#marge-9">cia, q<ex>u</ex>om<ex>od</ex>o e<ex>st</ex> sufficiens ad o<ex>mn</ex>ia, carnalia v<ex>er</ex>o p<ex>ro</ex>rs<ex>us</ex> imp<ex>ro</ex>-</seg>
+            <seg facs="#marge-10">-bat, ut deinceps sincere fide<ex>m</ex> <ex>Christ</ex>i teneant. Instruit et mo-</seg>
+            <seg facs="#marge-11">-ralit<ex>er</ex>, confirmans q<ex>u</ex>icq<ex>u</ex>id illi docuerant.</seg>
+          </add>
+        </p>
+        <p n="II">
+          <add place="margin-right">
+            <seg facs="#marge-12">Q<ex>uo</ex>d tenendu<ex>m</ex> e<ex>st</ex> q<ex>uia</ex> <ex>et</ex> ple-</seg>
+            <seg facs="#marge-13">–ne veru<ex>m</ex> et bonu<ex>m</ex> nun-</seg>
+            <seg facs="#marge-14">–ciu<ex>m</ex> ne <ex>er</ex>go alibi spe<ex>m</ex> illam</seg>
+            <seg facs="#marge-15">q<ex>ue</ex>ratis q<ex>u</ex>a<ex>m</ex> pri<ex>us</ex> intellexistis.</seg>
+          </add>
+        </p>
+        <p n="III">
+          <add place="margin-left">
+            <seg facs="#marge-16">Ostend<ex>it</ex> bona q<ex>ue</ex> receper<ex>unt</ex>, dum</seg>
+            <seg facs="#marge-17">p<ex>ro</ex> eis gr<ex>ati</ex>as agit.</seg>
+          </add>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <p>Colosenses<add place="margin-left" n="I"> Colosenses sunt Asiani quibus non ipse Apostolus predica-<lb/> -vit, sed ejus discipuli <term n="en dehors de son ministère à Colosses, on ne sait pas grand-chose du personnage. Il pourrait être le fils de Philémon et d’Apphia, cf. Phil. 2.">Archippus</term> et <term n="compagnon de Paul, cf. Col. 1, 7." >Epafras</term>. Archippus vero in eos<lb/> ministerium acceperat, Epafras autem, ex eis oriundus, ab Apostolo<lb/> instructus, doctrinam Archippi confirmaverat. Superveni-<lb/>-entibus autem pseudo Apostolis et carnis observantias predican-<lb/>-tibus, dubium erat quibus potius credendum esset. Vel Paulus<lb/> cujus auctoritas celebris erat, quasi medius judicat que<lb/> pars sit potius tenenda. Describit autem Christum et ejus benefi-<lb/> cia, quomodo est sufficiens ad omnia, carnalia vero prorsus impro-<lb/>-bat, ut deinceps sincere fidem Christi teneant. Instruit et mo-<lb/> -raliter, confirmans quicquid illi docuerant. </add> et hi sicut Laodicenses sunt Asia-<lb/> -ni et ipsi preventi erant a pseudo a-<lb/>-postolis, nec ad hos accessit ipse Apostolus, sed<lb/> et hos per epistolam corrigit. Audierunt enim<lb/> verbum ab Archippo <term n="cf. Col. 4, 17.">qui et ministe-<lb/>-rium in eos accepit</term>. Ergo Apostolus jam ligatus <lb/> scribit eis ab Epheso per <term n="compagnon de Paul, cf. Act. 20, 4 ; Eph. 6, 21 ; Col. 4, 7 ; 2 Tim. 4, 12 ; Tit. 3, 12.">Tichicum</term> dia-<lb/> -conum. Ad Colosenses.<lb/> Paulus<add place="supralinear" n="a">quia et istis Apostolus</add> Apostolus Jesu<lb/> Christi<add place="supralinear" n="b">auctoritas dicendorum</add> per voluntatem Dei<add place="supralinear" n="c">quod non pseudo</add> et Timo-<lb/> -theus frater<add place="supralinear" n="d">qui est vir magne auctoritatis</add> his qui sunt Colosis<add place="supralinear" n="e">majoribus et minoribus</add><lb/> sanctis et fidelibus fratribus in Christo Jesu<add place="supralinear" n="f">per gratiam Christi non vi legis</add><lb/> gratia vobis et pax a Deo Patre nostro et Domino Jesu Christo. <add place="margin-right" n="II">Quod tenendum est quia et ple-<lb/>–ne verum et bonum nun-<lb/>–cium ne ergo alibi spem illam<lb/>queratis quam prius intellexistis.</add>
+            <add n="III" place="margin-left">Ostendit bona que receperunt, dum<lb/>pro eis gratias agit.</add>Gratias<lb/> agimus Deo Patri<add place="supralinear" n="g">quia Deus et Pater potest et vult</add> domini nostri Jesu Christi<add place="supralinear" n="h">per quem vobis omnia</add><lb/> semper<add place="supralinear" n="i">etiam</add> pro vobis orantes, <add place="supralinear" n="j">ut crescatis</add> audientes <add place="supralinear" n="k">ecce unde gratias agit</add><lb/> fidem vestram <add place="supralinear" n="l">esse</add> in Christo Jesu et dilectio-<lb/> -nem <add place="supralinear" n="m">non ociosam</add> quam habetis in sanctos omnes propter…<lb/>
+          </p>
+        </div>
+        <div type="translation">
+          <p>Les Colossiens<add place="margin-left" n="I">Les Colossiens sont des Asiatiques auxquels l’Apôtre lui-même n’a pas prêché,<lb/>mais ses disciples <term n="en dehors de son ministère à Colosses, on ne sait pas grand-chose du personnage. Il pourrait être le fils de Philémon et d’Apphia, cf. Phil. 2.">Archippe</term> et <term n="compagnon de Paul, cf. Col. 1, 7.">Epafras</term>. Archippe avait reçu sur eux<lb/>le ministère. Quant à Epaphras, né parmi eux, instruit par l’Apôtre,<lb/>il avait conforté l’enseignement d’Archippe. Alors que survenaient <lb/>des pseudo-apôtres et des prédicateurs d’observances charnelles<lb/>on se demandait qui croire de préférence. Et Paul<lb/>dont l’autorité était renommée, comme un arbitre, juge<lb/> la partie qu’il faut plutôt tenir. Il décrit donc le Christ et ses bienfaits, <lb/> comment il suffit pour tout, il désapprouve en revanche les choses charnelles<lb/>pour qu’ensuite, avec loyauté, ils conservent la foi du Christ. Il les instruit aussi moralement, <lb/>confirmant tout ce qu’on leur avait enseigné.</add> et ceux-ci comme les habitants de Laodicée sont des Asiatiques<lb/> et ils avaient reçu d’abord des pseudo- apôtres<lb/> et l’Apôtre ne se rendit pas auprès d’eux,<lb/> mais les corrigea par une épître. Ils ont, en effet, reçu<lb/> la parole d’Archippe <term n="cf. Col. 4, 17.">qui a reçu le ministère parmi eux</term>.<lb/> L’Apôtre donc, déjà emprisonné,<lb/> leur écrit depuis Éphèse par <lb/>le moyen du diacre <term n="compagnon de Paul, cf. Act. 20, 4 ; Eph. 6, 21 ; Col. 4, 7 ; 2 Tim. 4, 12 ; Tit. 3, 12.">Tychique</term>. Aux Colossiens.<lb/> Paul<add n="a" place="supralinear">car il est Apôtre aussi pour eux</add> apôtre de Jésus Christ<add n="b" place="supralinear">l’autorité de qu’il faut dire</add><lb/> par la volonté de Dieu<add n="c" place="supralinear">parce qu’il n’est pas pseudo-apôtre</add> et le frère <lb/> Timothée<add n="d" place="supralinear">lui qui est un homme de grande autorité</add> à ceux qui sont à Colosses<add n="e" place="supralinear" >pour les plus grands et les plus petits</add><lb/> saints et fidèles frères dans le Christ Jésus<add place="supralinear" n="f">par la grâce du Christ, non par la force de la Loi</add><lb/> à vous, la grâce et la paix, par Dieu notre Père et notre seigneur Jésus Christ<add n="II" place="margin-right">Il faut s’y tenir car c’est <lb/>un message tout à fait vrai et bon,<lb/>afin que vous ne placiez pas ailleurs l’espérance<lb/>dont vous avez reçu auparavant l’intelligence.</add>. <lb/>
+            <add place="margin-left" n="III">Il montre les biens qu’ils ont reçus,<lb/>tandis qu’il rend grâces pour eux.</add> Nous rendons grâces à Dieu, le Père<add n="g" place="supralinear">parce que, Dieu et Père, il peut et veut</add> de notre Seigneur Jésus Christ<add n="h" place="supralinear">par qui tout est à vous</add><lb/> et sans cesse<add n="i" place="supralinear" >même</add> nous prions pour vous<add place="supralinear" n="j">pour que vous croissiez</add> ayant été informés<add n="k" place="supralinear">voilà pourquoi il rend grâces</add>
+            <lb/>de votre foi<add place="supralinear" n="l">qui est</add> en Jésus Christ et de la charité<add n="m" place="supralinear" >non inactive</add>
+            <lb/> qui est la vôtre envers tous les saints…</p>
+        </div>
+      </div>
+      <div type="paleography">
+        <head>Commentaire paléographique</head>
+        <div>
+          <head>Aspect général</head>
+          <figure rend="99/fax.jpg"/>
+          <p>L’écriture est une minuscule caroline tardive d’aspect soigné, où une « gothicisation » limitée se manifeste par deux tendances : <list>
+            <item>l’aspect brisé des courbes, ou plutôt le contraste marqué par une plume large entre les pleins et des déliés (notamment dans le haut des jambages de <hi rend="b">n</hi> et <hi rend="b">m</hi>, ou la langue du <hi rend="b">r</hi>) ;</item>
+            <item>l’agrandissement de l’œil des lettres, par rapport à la hauteur des hastes (en revanche, guère de resserrement horizontal ici).</item>
+          </list>
+          </p>
+          <p>Le texte et la glose sont apparemment de la même main, mais la glose, d’un tracé simplifié pour s’adapter au module réduit, est plus nettement brisée et les jambages sont en général marqués, en haut et en bas, par des filets proportionnellement plus développés, qui annoncent le traitement uniforme des extrémités des traits dans l’écriture gothique. De même dans <hi rend="b">g</hi> : le trait qui tend à fermer la boucle inférieure, faiblement visible dans le texte, est bien marqué dans la glose.</p>
+          <p>Le haut des hastes est renforcé par un trait supplémentaire, empattement triangulaire qui tend à s’ouvrir en fourche : ce détail, ici plutôt accidentel, est devenu dans d’autres écritures une variété « normale ».</p>
+        </div>
+        <div>
+          <head>Formes individuelles à remarquer</head>
+          <figure rend="99/fax.jpg"/>
+          <p>Dans certaines lettres, la glose présente aussi, comme souvent, des formes particulières qu’on retrouvera ensuite comme norme graphique dans l’écriture gothique :<list>
+            <item><hi rend="b">d</hi> : droit dans le texte (trois traits), mais oncial dans la glose (incliné, en deux traits).</item>
+            <item><hi rend="b">r</hi> : après un <hi rend="b">o</hi>, prend la forme ronde (semblable à <hi rend="b" >2</hi>) dans la glose seule.</item>
+            <item><hi rend="b">s</hi> : la forme droite plus simple à tracer (<hi rend="b">ſ</hi>, en deux traits) est de règle dans la glose ; la forme capitale (s, en trois traits) est réservée, dans le texte, à la terminaison des mots abrégés par contraction (à part om<hi rend="i">ne</hi>s, l. 2). On en distinguera le <hi rend="b" >s</hi> surélevé plus cursif, en deux traits voire un seul (<hi rend="b">Colosis</hi>), réservé aux fins de ligne qu’il s’agit de raccourcir. Le rubricateur, en revanche (autre main), utilise aussi bien <hi rend="b" >s</hi> capital à la fin de <hi rend="b">Colosenses</hi>. Dans l’écriture gothique, selon les types, ces différents allographes resteront tous en usage.</item>
+            <item><hi rend="b">et</hi> : représenté par l’éperluette ou conjonction e+t (<hi rend="b">&amp;</hi>) dans le texte, et la note tironienne (<hi rend="b">7</hi>) dans la glose.</item>
+            <item><hi rend="b">e</hi> cédillé : pour la diphtongue –ae dans la glose interlinéaire.</item>
+          </list>
+          </p>
+        </div>
+        <div>
+          <head>Abréviations</head>
+          <figure rend="99/fax.jpg"/>
+          <p>Au reste le système abréviatif est à peine moins développé dans le texte que dans la glose. La page présente un large échantillon des signes et principes en usage : tildes pour nasales, suspensions (dans la glose) et nombreuses contractions, notamment dans les <hi rend="i">nomina sacra</hi> et autres mots du registre religieux ; lettres suscrites ; terminaisons -<hi rend="b">b(us)</hi> et -<hi rend="b">or(um)</hi> ; signes conventionnels pour <hi rend="b">con-</hi>, <hi rend="b">-us</hi> ; etc.</p>
+          <p>On notera plus spécialement : <list>
+            <item><hi rend="b">enim</hi> dans la forme qui avait été répandue par l’écriture insulaire (<hi rend="i" >N</hi> capital semblable à un petit <hi rend="i">H</hi>) ;</item>
+            <item><hi rend="b">est</hi>, dans la glose, sous la forme tantôt « insulaire » (tiret entre deux points) tantôt « continentale » (<hi rend="i">e</hi> avec tilde) ;</item>
+            <item><hi rend="b">etiam</hi> rendu par composition d’<hi rend="b">et</hi> tironien et tilde ;</item>
+            <item><hi rend="b">propter</hi> par <hi rend="b">pp</hi> barrés ;</item>
+            <item>l’oubli du tilde sur <hi rend="b">gratias</hi> dans la glose marginale ; </item>
+            <item>surtout, à l’avant-dernière ligne du texte, <hi rend="b">v(est)ra(m)</hi> : <hi rend="b">r</hi> a été allongé pour recevoir une barre inférieure, sans doute par correction. Comme on ne pouvait ajouter ni <hi rend="b">m</hi> ni un second tilde à la contraction <hi rend="b">v(est)ra</hi>, on y a adapté la barre qui coupe couramment la hampe du <hi rend="b">q</hi> pour compléter une abréviation <hi rend="b">q(ue)</hi> ou <hi rend="b">q(u)a</hi> respectivement en <hi rend="b">quem</hi> ou <hi rend="b">quam</hi>.</item>
+          </list>
+          </p>
+        </div>
+        <div>
+          <head>Structuration</head>
+          <figure rend="99/fax.jpg"/>
+          <p>Les mots sont rigoureusement séparés, y compris les prépositions et conjonctions. Dans les gloses comme dans le texte, la ponctuation est simple : le point à mi-hauteur (<hi rend="i">punctus</hi>) sert à distinguer les propositions dans la phrase ; il précède aussi toujours la conjonction <hi rend="b">et</hi>. Associé à une majuscule, il marque le début d’une nouvelle phrase.</p>
+          <p>Le feuillet de dimensions moyennes (240 x 160 mm) illustre un jalon important dans l’évolution de la mise en page, entre la page à longues lignes de l’époque carolingienne et les formats rigoureusement compartimentés du XIII<hi rend="i" >e</hi> siècle. Selon un modèle attesté par les manuscrits dès le premier quart du XII<hi rend="i">e</hi> siècle, la page est ici divisée par une réglure à la pointe sèche en trois colonnes de largeur inégale (50 mm, 60 mm et 25 mm de gauche à droite) et isolées par deux colonnettes (5 mm de largeur). La colonne centrale (175 x 60 mm) sert à copier le texte biblique dans une écriture de gros module. Des initiales en rouge permettent d’y distinguer les unités textuelles par ordre décroissant dans la page : <hi rend="b">P</hi> (55 mm de hauteur), <hi rend="b">C</hi> (13 mm), <hi rend="b">S</hi> (5 mm). Un titre rubriqué (c’est-à-dire à l’encre rouge) annonce le début de l’épître. Le texte y est copié de manière espacée, pour permettre d’y insérer des gloses sur la réglure.</p>
+          <p>Les gloses interlinéaires, brèves, sont situées au-dessus des mots qu’elles expliquent et distinguées les unes des autres par des signes de paragraphe. Les gloses marginales, généralement les plus longues, sont aussi mises en valeur par des signes de paragraphe, parfois surdéveloppés et ornés, et suivent la réglure. Il n’existe pas ici de signe de renvoi entre le texte biblique et les gloses marginales : c’est la disposition de celles-ci sur la page qui permet de s’y reporter. S’ajoutent à cette disposition préétablie des corrections occasionnelles, ici dans l’interligne de la première glose marginale (<hi rend="b">sincere</hi>), et dans la marge de fond (intérieure) pour le texte biblique, en gros module, avec un signe de renvoi sous forme de trois points après le mot <hi rend="b">nostro</hi>.</p>
+        </div>
+      </div>
+      <div type="history">
+        <head>Commentaire historique</head>
+        <div>
+          <head>Le contexte historique</head>
+          <p>En l’état, ce feuillet est typique de la première version de la Glose telle qu’elle est sortie de l’école d’<term xml:id="a-note-1" rend="b">Anselme de Laon</term>. À l’origine simple explication d’un mot, la glose désigne également un projet pédagogique appliqué à la Bible et qui a vu le jour à Laon dans les dernières décennies du XI<hi rend="i">e</hi> siècle. La responsabilité en revient à maître Anselme, écolâtre de l’école cathédrale de la fin du XI<hi rend="i">e</hi> siècle jusqu’en 1117. Grâce à la renommée d’Anselme, Laon devient un des centres scolaires majeurs de l’Occident chrétien. La réputation du maître dans le domaine des études bibliques attire, en effet, une population nombreuse d’étudiants venus de toute la chrétienté. Après avoir reçu une formation élémentaire dans leur pays d’origine, les élèves se rendent à Laon afin de se perfectionner dans la lecture de la Bible, principale source pour l’enseignement de la théologie. On a ainsi gardé la trace de plus d’une vingtaine d’élèves, dont le célèbre Pierre Abélard. La réputation de l’école située à Laon est aussi liée à l’activité pédagogique du frère d’Anselme, <term rend="b" xml:id="a-note-2">Raoul de Laon</term> qui lui succède comme écolâtre en 1117. Il maintient le rayonnement de l’école de Laon jusque dans les années 1120. La génération des élèves d’Anselme et de Raoul prolonge aussi l’esprit et les pratiques pédagogiques laonnoises. Ce centre scolaire garde ainsi une influence sur les écoles parisiennes jusqu’à la fin du XII<hi rend="i">e</hi> siècle.</p>
+          <p rend="notes">
+            <note target="#a-note-1" type="footnote">Parallèlement à un cursus honorum bien rempli de chanoine, chancelier, doyen et archidiacre de l’église cathédrale de Laon, Anselme mène une brillante carrière de professeur depuis la fin du XI<hi rend="i">e</hi> siècle à sa mort en 1117. On lui attribue avec vraisemblance la glose sur les Épîtres pauliniennes, les Psaumes et sans doute le Cantique des cantiques et l’Évangile de Jean. En plus d’une œuvre exégétique d’attribution contestée, il est l’auteur d’une soixantaine de sentences théologiques. </note>
+            <note type="footnote" target="#a-note-2">Il succède à son frère comme écolâtre, archidiacre (1117-1126) et chancelier de 1117 à sa mort en 1133. On lui attribue deux traités d’arithmétique, la glose sur Matthieu, deux commentaires bibliques et au moins trois sentences théologiques.</note>
+          </p>
+        </div>
+        <div>
+          <head>Les pratiques pédagogiques</head>
+          <p>Plusieurs faits que l’observation suffit à déceler méritent explication. La mise en page soignée et la décoration permettent au lecteur de distinguer aisément plusieurs niveaux d’informations. Les gloses marginales sont peu abondantes et anonymes. Cette mise en page est typique de la Glose biblique issue de l’école d’Anselme. Pourtant, le fait même de gloser la Bible n’est pas neuf en soi : dès l’époque carolingienne, les manuscrits présentent des annotations explicatives qui facilitent la compréhension du texte biblique. De fait, l’originalité du projet pédagogique d’Anselme de Laon consiste à gloser la Bible de manière plus systématique que précédemment, même si le maître n’a pu mener à terme ce dessein. Anselme fait appel aux Pères de l’Église dont les extraits sont ajoutés dans les marges et les interlignes. La nouveauté consiste également à insérer, parmi les extraits patristiques, des sentences magistrales. L’anonymat bien attesté dans la Glose sur les épîtres pauliniennes est lié à cette pratique. Elle permet de promouvoir l’enseignement des <hi rend="i">magistri</hi> qui ajoutent leurs propres solutions aux sentences canoniques des Pères.</p>
+          <p>Les gloses fournissent des explications de différents ordres qui répondent aux finalités d’un cours consacré à l’Écriture (<hi rend="i">lectio in sacra pagina</hi>). Les gloses grammaticales explicitent la construction du texte et en favorisent donc la compréhension (gloses interlinéaires i et l). Les gloses historiques rappellent les circonstances de rédaction de l’épître paulinienne (<hi rend="b">sens historique</hi>) et constituent la première étape de l’interprétation (gloses marginales 1 et 3 par exemple). Le rappel du contexte historique sert de support à une exégèse qui s’appuie sur des gloses proprement théologiques. Elles fixent le degré d’autorité des personnes citées, qu’il s’agisse de Timothée (glose d), de Paul (glose a), du Christ (glose b) ou du Père (glose g). Elles ont également une signification morale (<hi rend="b">sens tropologique</hi>) et s’adressent au lecteur pour qu’il se conforme au message évangélique (gloses 2 et j).</p>
+        </div>
+        <div>
+          <head>Pour approfondir</head>
+          <listBibl>
+            <bibl>
+              <author>ANDRÉE (A.)</author>, <title>Gilbertus Universalis : Glossa ordinaria in Lamentationes Ieremie prophete. Prothemata et liber I. A critical edition with an introduction and a translation</title>, Stockholm, 2005 (<hi rend="b">dernière synthèse historique sur l’histoire de la Glose</hi>). </bibl>
+            <bibl>
+              <author>LOBRICHON (G.)</author>, « Une nouveauté : les gloses de la Bible », dans <title>Le Moyen Âge et la Bible</title>, dir. P. Riché et G. Lobrichon, Paris, 1984, <biblScope>p. 95-114</biblScope>, rééd. dans <title>La Bible au Moyen Âge</title>, Paris, 2003, <biblScope>p. 158-172</biblScope> (<hi rend="b">sur la mise en page et la diffusion de la Glose</hi>). </bibl>
+            <bibl>
+              <author>STIRNEMANN (P.)</author>, « Où ont été fabriqués les livres de la glose ordinaire dans la première moitié du XII<hi rend="i">e</hi> siècle ? », dans <title>Le XIIe siècle. Mutations et renouveau en France dans la première moitié du XII<hi rend="i">e</hi> siècle</title>, éd. F. Gasparri, Paris, 1994, <biblScope>p. 257-301</biblScope> (<hi rend="b">sur les manuscrits glosés</hi>). </bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

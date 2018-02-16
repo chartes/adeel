@@ -186,11 +186,11 @@
                         <p>
                             <figure rend="52/faxexternes.jpg">
                                 <figDesc>
-                                    <seg type="circle" rend="34,71,31">Caractéristique des actes anglo-normands, la sévérité des abréviations des noms de personne gagne le nom de l?auteur, comme plus bas celui de son aïeul.</seg>
-                                    <seg type="circle" rend="141,85,10">Le point est le seul signe de ponctuation utilisé par le scribe. Il individualise certaines formules et les noms de personne et de lieu.</seg>
-                                    <seg type="circle" rend="289,514,29">Scellage sur double queue de parchemin.</seg>
+                                    <seg rend="34,71,31">Caractéristique des actes anglo-normands, la sévérité des abréviations des noms de personne gagne le nom de l?auteur, comme plus bas celui de son aïeul.</seg>
+                                    <seg rend="141,85,10">Le point est le seul signe de ponctuation utilisé par le scribe. Il individualise certaines formules et les noms de personne et de lieu.</seg>
+                                    <seg rend="289,514,29">Scellage sur double queue de parchemin.</seg>
 
-                                    <seg type="circle" rend="54,534,27">Tortil de parchemin apposé plus tard, sans doute à des fins archivistiques.</seg>
+                                    <seg rend="54,534,27">Tortil de parchemin apposé plus tard, sans doute à des fins archivistiques.</seg>
                                 </figDesc>
                             </figure>
                        </p>

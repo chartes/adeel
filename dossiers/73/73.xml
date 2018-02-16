@@ -88,13 +88,13 @@
             <p>
               <figure rend="73/faxexterne.jpg">
                 <figDesc>
-                  <seg type="poly" rend="51,89,51,77,55,71,69,67,80,68,83,75,86,83,86,94,80,101,65,104,57,102,51,89">Marque d’ouverture du discours.</seg>
-                  <seg type="poly" rend="472,83,476,73,481,66,487,68,493,76,493,86,492,96,489,105,484,109,477,105,474,100,472,94,472,84,472,77">“y” pointé.</seg>
-                  <seg type="poly" rend="855,169,859,108,862,76,869,41,873,32,880,33,886,62,890,86,891,128,894,168,896,205,895,270,895,309,890,340,886,370,879,391,874,395,866,378,860,319,856,265,855,231,855,178,856,131,861,70">Aucune coupure de mot en fin de ligne.</seg>
-                  <seg type="poly" rend="752,278,759,269,768,268,778,275,783,283,780,295,775,299,767,302,757,300,750,294,750,285">Liaison entre la fin du mot (“-n” plongeant) et le tilde&#160;: la plume ne s’est pas relevée et trahit l’ordre de traçage des lettres.</seg>
-                  <seg type="poly" rend="615,282,624,270,631,269,642,271,646,284,646,292,638,298,629,298,620,300,614,291">Liaison entre la fin du mot (“-n” plongeant) et le tilde&#160;: la plume ne s’est pas relevée et trahit l’ordre de traçage des lettres.</seg>
-                  <seg type="poly" rend="497,323,505,316,515,311,525,318,532,323,535,331,533,342,530,349,524,350,509,354,502,352,494,340,494,331">Marque de clôture de discours.</seg>
-                  <seg type="poly" rend="436,363,455,355,471,355,485,358,503,361,506,369,514,373,520,378,518,384,512,393,481,403,453,402,421,392,418,378,425,364,443,358">Scellement sur simple queue de parchemin.</seg>
+                  <seg rend="51,89,51,77,55,71,69,67,80,68,83,75,86,83,86,94,80,101,65,104,57,102,51,89">Marque d’ouverture du discours.</seg>
+                  <seg rend="472,83,476,73,481,66,487,68,493,76,493,86,492,96,489,105,484,109,477,105,474,100,472,94,472,84,472,77">“y” pointé.</seg>
+                  <seg rend="855,169,859,108,862,76,869,41,873,32,880,33,886,62,890,86,891,128,894,168,896,205,895,270,895,309,890,340,886,370,879,391,874,395,866,378,860,319,856,265,855,231,855,178,856,131,861,70">Aucune coupure de mot en fin de ligne.</seg>
+                  <seg rend="752,278,759,269,768,268,778,275,783,283,780,295,775,299,767,302,757,300,750,294,750,285">Liaison entre la fin du mot (“-n” plongeant) et le tilde&#160;: la plume ne s’est pas relevée et trahit l’ordre de traçage des lettres.</seg>
+                  <seg rend="615,282,624,270,631,269,642,271,646,284,646,292,638,298,629,298,620,300,614,291">Liaison entre la fin du mot (“-n” plongeant) et le tilde&#160;: la plume ne s’est pas relevée et trahit l’ordre de traçage des lettres.</seg>
+                  <seg rend="497,323,505,316,515,311,525,318,532,323,535,331,533,342,530,349,524,350,509,354,502,352,494,340,494,331">Marque de clôture de discours.</seg>
+                  <seg rend="436,363,455,355,471,355,485,358,503,361,506,369,514,373,520,378,518,384,512,393,481,403,453,402,421,392,418,378,425,364,443,358">Scellement sur simple queue de parchemin.</seg>
                 </figDesc>
               </figure>
             </p>

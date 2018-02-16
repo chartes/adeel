@@ -220,11 +220,11 @@
       <p>
        <figure rend="54/faxexternes.jpg">
         <figDesc>
-         <seg type="circle" rend="21,32,20">Initiale grossie et ornée.</seg>
-         <seg type="circle" rend="232,85,10">Signe de ponctuation majeure en forme de point et virgule (scande le discours et est suivi d?une initiale majuscule).</seg>
-         <seg type="circle" rend="292,105,11">Signe de ponctuation mineur en forme de point en milieu de ligne (annonce des périodes mineures et isole la plupart des noms propres dans les listes).</seg>
-         <seg type="circle" rend="518,145,14">Disposition typique dans l’Ouest : des désignations anthroponymiques complémentaires sont inscrites en interligne, au-dessus du nom personnel.</seg>
-         <seg type="circle" rend="369,258,9">Autre signe de ponctuation mineur.</seg>
+         <seg rend="21,32,20">Initiale grossie et ornée.</seg>
+         <seg rend="232,85,10">Signe de ponctuation majeure en forme de point et virgule (scande le discours et est suivi d?une initiale majuscule).</seg>
+         <seg rend="292,105,11">Signe de ponctuation mineur en forme de point en milieu de ligne (annonce des périodes mineures et isole la plupart des noms propres dans les listes).</seg>
+         <seg rend="518,145,14">Disposition typique dans l’Ouest : des désignations anthroponymiques complémentaires sont inscrites en interligne, au-dessus du nom personnel.</seg>
+         <seg rend="369,258,9">Autre signe de ponctuation mineur.</seg>
         </figDesc>
        </figure>
      </p>

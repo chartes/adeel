@@ -161,13 +161,13 @@
             <p>
               <figure rend="51/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="355,35,14">Majuscule à redoublement.</seg>
-                  <seg type="circle" rend="176,116,12">Abréviation de “et”.</seg>
-                  <seg type="circle" rend="66,131,17">Majuscule simple.</seg> 
-                  <seg type="circle" rend="140,154,11">Lettres conjointes e-t, pour “et”.</seg>
+                  <seg rend="355,35,14">Majuscule à redoublement.</seg>
+                  <seg rend="176,116,12">Abréviation de “et”.</seg>
+                  <seg rend="66,131,17">Majuscule simple.</seg> 
+                  <seg rend="140,154,11">Lettres conjointes e-t, pour “et”.</seg>
                   <seg type="rect" rend="306,289,487,313">Étirement des mots et trait ondulé pour occuper la dernière ligne de texte (le procédé décourage les interpolations).</seg>
-                  <seg type="circle" rend="196,376,23">Petite lanière de parchemin attachée et nouée postérieurement au bas du repli. Usage inconnu, sans doute archivistique.</seg>
-                  <seg type="circle" rend="253,362,36">Double queue de parchemin, d’origine, pour le sceau.</seg>
+                  <seg rend="196,376,23">Petite lanière de parchemin attachée et nouée postérieurement au bas du repli. Usage inconnu, sans doute archivistique.</seg>
+                  <seg rend="253,362,36">Double queue de parchemin, d’origine, pour le sceau.</seg>
                 </figDesc>
               </figure>
             </p>

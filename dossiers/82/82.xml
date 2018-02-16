@@ -151,14 +151,14 @@
                         <p>
                             <figure rend="82/faxexterne.jpg">
                                 <p>
-                                    <seg type="poly" rend="148,118,147,51,158,40,230,41,234,49,235,120,224,129,183,129,147,117,148,116,148,109" >Ligature <hi rend="i">ct</hi> allongée</seg>
-                                    <seg type="poly" rend="401,73,420,65,428,72,427,109,426,132,415,138,404,133,403,104,401,77" >Virgule surmontée de deux points, de même fonction que les trois points "épigraphiques" qui viennent en clôture d’un passage en lettres allongés</seg>
-                                    <seg type="poly" rend="436,156,445,134,464,132,476,131,496,159,493,176,474,177,444,177,436,159">Ligature
+                                    <seg rend="148,118,147,51,158,40,230,41,234,49,235,120,224,129,183,129,147,117,148,116,148,109" >Ligature <hi rend="i">ct</hi> allongée</seg>
+                                    <seg rend="401,73,420,65,428,72,427,109,426,132,415,138,404,133,403,104,401,77" >Virgule surmontée de deux points, de même fonction que les trois points "épigraphiques" qui viennent en clôture d’un passage en lettres allongés</seg>
+                                    <seg rend="436,156,445,134,464,132,476,131,496,159,493,176,474,177,444,177,436,159">Ligature
  <hi rend="i">st</hi> allongée</seg>
-                                    <seg type="poly" rend="517,231,515,222,534,213,544,217,545,231,533,240,517,237">Tilde en forme de 8 ouvert</seg>
-                                    <seg type="poly" rend="713,283,714,270,716,263,727,261,732,266,731,281,723,283">Abréviation
+                                    <seg rend="517,231,515,222,534,213,544,217,545,231,533,240,517,237">Tilde en forme de 8 ouvert</seg>
+                                    <seg rend="713,283,714,270,716,263,727,261,732,266,731,281,723,283">Abréviation
  <hi rend="i">–ur</hi></seg>
-                                    <seg type="poly" rend="741,442,741,440,741,428,753,413,764,415,775,424,773,445,757,445">Neuf tironien (<hi rend="i">–us</hi>)</seg>
+                                    <seg rend="741,442,741,440,741,428,753,413,764,415,775,424,773,445,757,445">Neuf tironien (<hi rend="i">–us</hi>)</seg>
                                </p>
 
 

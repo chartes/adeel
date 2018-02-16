@@ -128,13 +128,13 @@
             <p>
               <figure rend="67/faxexternes.jpg">
                 <figDesc>
-                  <seg type="poly" rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
-                  <seg type="circle" rend="153,177,12">Début de l’acte vidimé</seg>
-                  <seg type="circle" rend="574,259,8">Fin de l’acte vidimé</seg>
-                  <seg type="circle" rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
-                  <seg type="poly" rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
-                  <seg type="poly" rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
-                  <seg type="poly" rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
+                  <seg rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
+                  <seg rend="153,177,12">Début de l’acte vidimé</seg>
+                  <seg rend="574,259,8">Fin de l’acte vidimé</seg>
+                  <seg rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
+                  <seg rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
+                  <seg rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
+                  <seg rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
                 </figDesc>
               </figure>
             </p>

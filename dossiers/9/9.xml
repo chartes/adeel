@@ -217,11 +217,11 @@
                   <p>
                      <figure rend="9/faxexternes.jpg">
                         <figDesc>
-                           <seg type="poly" rend="67,5,100,5,133,2,203,2,250,4,282,4,304,6,324,9,343,9,345,16,321,22,294,25,238,22,216,23,179,23,116,22,91,22,70,19,45,16,26,15,9,12,14,7,32,6" >Devise du chirographe, moiti&#201; inf&#201;rieure des lettres A &#232; U</seg>
-                           <seg type="poly" rend="8,18,14,28,16,38,15,49,10,58,7,60,3,56,1,49,2,37,5,30,5,25" >Initiale allong&#201;e</seg>
-                           <seg type="poly" rend="74,202,91,200,113,203,125,206,132,210,135,214,127,221,109,226,82,225,64,223,51,222,39,220,33,218,29,212,37,204,50,201,62,200" >Suscription autographe (ou d&#x2019;allure auotographe), au g&#201;nitif (sous-entendue crux, mot repr&#201;sent&#201; par le dessin de croix</seg>
-                           <seg type="poly" rend="94,255,115,256,138,259,146,263,147,269,136,275,111,277,83,276,71,274,62,271,58,264,67,260,80,256" >Souscription &#201;crite de la main du scribe</seg>
-                           <seg type="poly" rend="190,256,201,260,203,265,201,273,195,277,190,277,184,276,181,274,181,269,183,263,187,259" >Croix de souscription incluse dans le mot &#34;Signu(m)&#34;. Les quatres cantons de la croix sont point&#201;s, un seul point (canton sup&#201;rieur droit) &#201;tant (en principe) trac&#201;e de la main du souscripteur</seg>
+                           <seg rend="67,5,100,5,133,2,203,2,250,4,282,4,304,6,324,9,343,9,345,16,321,22,294,25,238,22,216,23,179,23,116,22,91,22,70,19,45,16,26,15,9,12,14,7,32,6" >Devise du chirographe, moiti&#201; inf&#201;rieure des lettres A &#232; U</seg>
+                           <seg rend="8,18,14,28,16,38,15,49,10,58,7,60,3,56,1,49,2,37,5,30,5,25" >Initiale allong&#201;e</seg>
+                           <seg rend="74,202,91,200,113,203,125,206,132,210,135,214,127,221,109,226,82,225,64,223,51,222,39,220,33,218,29,212,37,204,50,201,62,200" >Suscription autographe (ou d&#x2019;allure auotographe), au g&#201;nitif (sous-entendue crux, mot repr&#201;sent&#201; par le dessin de croix</seg>
+                           <seg rend="94,255,115,256,138,259,146,263,147,269,136,275,111,277,83,276,71,274,62,271,58,264,67,260,80,256" >Souscription &#201;crite de la main du scribe</seg>
+                           <seg rend="190,256,201,260,203,265,201,273,195,277,190,277,184,276,181,274,181,269,183,263,187,259" >Croix de souscription incluse dans le mot &#34;Signu(m)&#34;. Les quatres cantons de la croix sont point&#201;s, un seul point (canton sup&#201;rieur droit) &#201;tant (en principe) trac&#201;e de la main du souscripteur</seg>
                         </figDesc>
                      </figure>
                  </p>
@@ -229,9 +229,9 @@
                   <p>Dans <hi rend="strong">l'&#201;criture</hi>, on notera le I initial et le catact&#232;re g&#201;n&#201;ral d'application, de r&#201;gularit&#201; (voir le <xref to="paleographie.php?id=9&amp;page=1">commentaire pal&#201;ographique</xref>).</p>
                   <p><hi rend="strong">Trois blocs</hi>, devise &#232; part, sont m&#201;nag&#201;s par le r&#201;dacteur, correspondant &#232; trois &#201;tapes :</p>
                   <list>
-                     <item> le texte proprement dit, formant le corps de l'acte ;</item>
-                     <item> la date et les souscriptions des parties et des t&#201;moins ou garants, tr&#232;s nettement s&#201;par&#201;es par des ponctuation fortes (points) ; dans l'ordre voulu se succ&#232;dent les souscriptions des auteurs (ils sont ici quatre : deux pour chacune des parties contractantes qui ont "fait la convenance et la donation") puis de cinq personnages, qui peuvent être t&#201;moins ou garants, ou les deux &#232; la fois ;</item>
-                     <item> la r&#201;cognition finale du r&#201;dacteur.</item>
+                     <item>le texte proprement dit, formant le corps de l'acte ;</item>
+                     <item>la date et les souscriptions des parties et des t&#201;moins ou garants, tr&#232;s nettement s&#201;par&#201;es par des ponctuation fortes (points) ; dans l'ordre voulu se succ&#232;dent les souscriptions des auteurs (ils sont ici quatre : deux pour chacune des parties contractantes qui ont "fait la convenance et la donation") puis de cinq personnages, qui peuvent être t&#201;moins ou garants, ou les deux &#232; la fois ;</item>
+                     <item>la r&#201;cognition finale du r&#201;dacteur.</item>
                   </list>
                   <p><hi rend="strong">Les signes graphiques abondent.</hi> Leur emploi, articul&#201; et coh&#201;rent, enrichi même, est un peu le chant du cygne de pratiques qui vont être balay&#201;es, au XIII<hi rend="sup" >e</hi> si&#232;cle, par la diffusion du sceau, des notaires publics, des juridictions gracieuses.</p>
                   <list>

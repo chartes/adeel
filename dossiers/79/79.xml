@@ -95,11 +95,11 @@
             <p>
               <figure rend="79/faxexterne.jpg">
                 <figDesc>
-                  <seg type="poly" rend="50,73,51,56,57,51,66,51,71,55,78,63,79,74,76,83,73,92,63,97,58,97,50,91,50,76,51,69">Majuscule à trait redoublé</seg>
-                  <seg type="poly" rend="41,138,41,129,48,122,55,122,62,124,67,126,70,130,69,138,65,141,65,146,61,148,53,149,46,149,42,142,41,136">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
-                  <seg type="poly" rend="142,146,153,151,156,162,150,173,146,173,139,173,133,172,127,167,127,160,128,151,137,144">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
-                  <seg type="poly" rend="296,174,297,162,297,154,306,151,313,148,320,150,320,158,322,160,325,169,324,177,318,184,317,187,310,188,300,188,295,174">Quelques “i” pointés</seg>
-                  <seg type="poly" rend="437,564,518,563,557,568,592,575,600,581,607,589,604,599,578,609,540,616,521,616,456,618,389,611,356,598,350,586,362,578,396,570,436,565,473,562">Allongement de trait en fin de dernière ligne&#160;: marque la clôture de l’acte</seg>
+                  <seg rend="50,73,51,56,57,51,66,51,71,55,78,63,79,74,76,83,73,92,63,97,58,97,50,91,50,76,51,69">Majuscule à trait redoublé</seg>
+                  <seg rend="41,138,41,129,48,122,55,122,62,124,67,126,70,130,69,138,65,141,65,146,61,148,53,149,46,149,42,142,41,136">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
+                  <seg rend="142,146,153,151,156,162,150,173,146,173,139,173,133,172,127,167,127,160,128,151,137,144">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
+                  <seg rend="296,174,297,162,297,154,306,151,313,148,320,150,320,158,322,160,325,169,324,177,318,184,317,187,310,188,300,188,295,174">Quelques “i” pointés</seg>
+                  <seg rend="437,564,518,563,557,568,592,575,600,581,607,589,604,599,578,609,540,616,521,616,456,618,389,611,356,598,350,586,362,578,396,570,436,565,473,562">Allongement de trait en fin de dernière ligne&#160;: marque la clôture de l’acte</seg>
                 </figDesc>
               </figure>
             </p>

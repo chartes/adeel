@@ -77,11 +77,11 @@
                     <div>
                         <p>
                             <figure rend="61/faxexternes.jpg"> 	      <figDesc>
-                                <seg type="circle" rend="48,58,22">Initiale grossie et noircie.</seg>
-                                <seg type="circle" rend="281,45,13">Tilde en forme de boucle ouverte par le bas.</seg>
-                                <seg type="circle" rend="412,51,14">Un seul mot est coupé en fin de ligne ; un trait d&#x2019;union est tracé au dessus de la syllabe coupée.</seg>
-                                <seg type="circle" rend="417,102,13">Ébauche de ligature ornementale</seg>
-                                <seg type="circle" rend="414,308,24">La fin de la dernière ligne est occupée par un allongement des blancs entre les mots et close par un signe graphique.</seg> 	      </figDesc>
+                                <seg rend="48,58,22">Initiale grossie et noircie.</seg>
+                                <seg rend="281,45,13">Tilde en forme de boucle ouverte par le bas.</seg>
+                                <seg rend="412,51,14">Un seul mot est coupé en fin de ligne ; un trait d&#x2019;union est tracé au dessus de la syllabe coupée.</seg>
+                                <seg rend="417,102,13">Ébauche de ligature ornementale</seg>
+                                <seg rend="414,308,24">La fin de la dernière ligne est occupée par un allongement des blancs entre les mots et close par un signe graphique.</seg> 	      </figDesc>
                             </figure>
                        </p>
                     </div>

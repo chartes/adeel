@@ -144,13 +144,13 @@
             <p>
               <figure rend="41/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="67,71,39">Seule l&#x2019;initiale du nom pontifical est grossie</seg>
-                  <seg type="circle" rend="160,81,9">Tilde plat (titulus planus)</seg>
-                  <seg type="circle" rend="303,83,19">Rares initiales traitées en majuscule</seg>
-                  <seg type="circle" rend="694,81,17">Initiale du début du texte grossie</seg>
-                  <seg type="circle" rend="512,116,14">Absence de ligature allongée aux groupes "st" et "ct".&#x2019;,512</seg>
-                  <seg type="poly" rend="497,402,529,395,619,395,654,402,613,410,533,409" >Etirement des lignes comprenant la date</seg>
-                  <seg type="circle" rend="428,452,23">Attache de la bulle</seg>
+                  <seg rend="67,71,39">Seule l&#x2019;initiale du nom pontifical est grossie</seg>
+                  <seg rend="160,81,9">Tilde plat (titulus planus)</seg>
+                  <seg rend="303,83,19">Rares initiales traitées en majuscule</seg>
+                  <seg rend="694,81,17">Initiale du début du texte grossie</seg>
+                  <seg rend="512,116,14">Absence de ligature allongée aux groupes "st" et "ct".&#x2019;,512</seg>
+                  <seg rend="497,402,529,395,619,395,654,402,613,410,533,409" >Etirement des lignes comprenant la date</seg>
+                  <seg rend="428,452,23">Attache de la bulle</seg>
                 </figDesc>
               </figure>
             </p>

@@ -157,17 +157,17 @@
             <p>
               <figure rend="49/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="70,95,59">Le nom du pape est tout entier écrit en lettres agrandies et son initiale est filigranée.</seg>
-                  <seg type="circle" rend="266,123,21">Initiale de l’adresse grossie et noircie.</seg>
-                  <seg type="circle" rend="345,138,6">Deux points précédant le titre d’une personne citée ex officio.</seg> 
-                  <seg type="circle" rend="491,153,11">Initiale du préambule grossie et noircie.</seg>
-                  <seg type="circle" rend="429,186,10">Tilde en forme de 8 ouvert par le bas.</seg>
-                  <seg type="circle" rend="454,267,13">Ligature c-t allongée.</seg>
-                  <seg type="circle" rend="284,284,18">Initiale de la clause prohibitive grossie et noircie.</seg>
-                  <seg type="circle" rend="345,298,11">Initiale de la clause comminatoire grossie et noircie.</seg>
+                  <seg rend="70,95,59">Le nom du pape est tout entier écrit en lettres agrandies et son initiale est filigranée.</seg>
+                  <seg rend="266,123,21">Initiale de l’adresse grossie et noircie.</seg>
+                  <seg rend="345,138,6">Deux points précédant le titre d’une personne citée ex officio.</seg> 
+                  <seg rend="491,153,11">Initiale du préambule grossie et noircie.</seg>
+                  <seg rend="429,186,10">Tilde en forme de 8 ouvert par le bas.</seg>
+                  <seg rend="454,267,13">Ligature c-t allongée.</seg>
+                  <seg rend="284,284,18">Initiale de la clause prohibitive grossie et noircie.</seg>
+                  <seg rend="345,298,11">Initiale de la clause comminatoire grossie et noircie.</seg>
                   <seg type="rect" rend="474,308,591,330">Blanc intercalé dans la datation pour parer aux nombreuses impossibilités de coupure de la formule et, à la ligne suivante, pour occuper toute la largeur de la justification.</seg>
                   <seg type="rect" rend="103,340,202,370">Mention d’origine inconnue, mais qui ne peut être attribuée à la chancellerie pontificale, sa position et formulation (servitor pou servus) étant également incongrues ; il s’agit sans doute d’un essai de plume, plutôt que d’une mention d’archivage.</seg>
-                  <seg type="circle" rend="317,427,34">Attache de la bulle ; diverses caractéristiques graphiques impliquent qu?il s?agit de fils de soie.</seg>
+                  <seg rend="317,427,34">Attache de la bulle ; diverses caractéristiques graphiques impliquent qu?il s?agit de fils de soie.</seg>
                 </figDesc>
               </figure>
             </p>

@@ -1,335 +1,319 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Le Didascalicon d’Hugues de Saint-Victor.</title>
-                <author>Giraud, Cédric (ATER à l’École nationale des Chartes)</author>
-                <respStmt>
-                    <resp>document encodé en XML/TEI P5 par</resp>
-                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l’École nationale des Chartes)</name>
-                </respStmt>
-                <respStmt>
-                    <resp>encodage relu et complété par</resp>
-                    <name>Clavaud, Florence (directrice des nouvelles technologies et de l’informatique à l’École nationale des Chartes)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">100</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when="2009-09">septembre 2009</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Paris, Bibliothèque Mazarine, 717, 93v<hi rend="sup">o</hi></p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="lat"/>
-            </langUsage>
-        </profileDesc>
-        <encodingDesc>
-            <tagsDecl xml:id="imtAnnotationCategories">
-                <rendition xml:id="Theleme">
-                    <desc>transcriptional</desc>
-                    <label>zone d’image pour facsimile interactif Theleme</label>
-                    <code rend="rectangle" lang="text/css">color: #ff0000</code>
-                </rendition>
-            </tagsDecl>
-            <appInfo>
-                <application ident="ImageMarkupTool01" version="1.8.1.3" notAfter="2009-04-28T12:08:33">
-                    <label> Image Markup Tool</label>
-                    <desc> Tool for annotating images using TEI</desc>
-                    <ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/"> </ref>
-                    <ptr target="#imtAnnotatedImage"/>
-                    <ptr target="#imtImageAnnotations"/>
-                    <ptr target="#imtAnnotationCategories"/>
-                </application>
-            </appInfo>
-        </encodingDesc>
-    </teiHeader>
-    <facsimile xml:id="imtAnnotatedImage">
-        <surface>
-            <graphic url="fax.jpg" width="693px" height="1100px" xml:id="fax"/>
-            <zone xml:id="imtArea_0" rendition="Theleme" ulx="213" uly="3" lrx="342" lry="67" rend="visible"/>
-            <zone xml:id="imtArea_1" rendition="Theleme" ulx="29" uly="31" lrx="214" lry="67" rend="visible"/>
-            <zone xml:id="imtArea_2" rendition="Theleme" ulx="81" uly="65" lrx="335" lry="91" rend="visible"/>
-            <zone xml:id="imtArea_3" rendition="Theleme" ulx="80" uly="89" lrx="342" lry="117" rend="visible"/>
-            <zone xml:id="imtArea_4" rendition="Theleme" ulx="38" uly="113" lrx="338" lry="142" rend="visible"/>
-            <zone xml:id="imtArea_5" rendition="Theleme" ulx="34" uly="139" lrx="332" lry="170" rend="visible"/>
-            <zone xml:id="imtArea_6" rendition="Theleme" ulx="33" uly="167" lrx="332" lry="192" rend="visible"/>
-            <zone xml:id="imtArea_7" rendition="Theleme" ulx="32" uly="188" lrx="334" lry="217" rend="visible"/>
-            <zone xml:id="imtArea_8" rendition="Theleme" ulx="31" uly="214" lrx="333" lry="248" rend="visible"/>
-            <zone xml:id="imtArea_9" rendition="Theleme" ulx="35" uly="246" lrx="345" lry="272" rend="visible"/>
-            <zone xml:id="imtArea_10" rendition="Theleme" ulx="36" uly="268" lrx="335" lry="296" rend="visible"/>
-            <zone xml:id="imtArea_11" rendition="Theleme" ulx="34" uly="295" lrx="330" lry="319" rend="visible"/>
-            <zone xml:id="imtArea_12" rendition="Theleme" ulx="34" uly="318" lrx="343" lry="347" rend="visible"/>
-            <zone xml:id="imtArea_13" rendition="Theleme" ulx="36" uly="345" lrx="343" lry="369" rend="visible"/>
-            <zone xml:id="imtArea_14" rendition="Theleme" ulx="36" uly="367" lrx="341" lry="396" rend="visible"/>
-            <zone xml:id="imtArea_15" rendition="Theleme" ulx="37" uly="395" lrx="344" lry="423" rend="visible"/>
-            <zone xml:id="imtArea_16" rendition="Theleme" ulx="38" uly="422" lrx="349" lry="450" rend="visible"/>
-            <zone xml:id="imtArea_17" rendition="Theleme" ulx="38" uly="447" lrx="349" lry="477" rend="visible"/>
-            <zone xml:id="imtArea_18" rendition="Theleme" ulx="37" uly="476" lrx="355" lry="503" rend="visible"/>
-            <zone xml:id="imtArea_19" rendition="Theleme" ulx="37" uly="494" lrx="361" lry="530" rend="visible"/>
-            <zone xml:id="imtArea_20" rendition="Theleme" ulx="36" uly="521" lrx="350" lry="553" rend="visible"/>
-            <zone xml:id="imtArea_21" rendition="Theleme" ulx="36" uly="550" lrx="340" lry="579" rend="visible"/>
-            <zone xml:id="imtArea_22" rendition="Theleme" ulx="36" uly="577" lrx="353" lry="607" rend="visible"/>
-            <zone xml:id="imtArea_23" rendition="Theleme" ulx="38" uly="604" lrx="349" lry="629" rend="visible"/>
-            <zone xml:id="imtArea_24" rendition="Theleme" ulx="37" uly="623" lrx="343" lry="658" rend="visible"/>
-            <zone xml:id="imtArea_25" rendition="Theleme" ulx="37" uly="655" lrx="333" lry="685" rend="visible"/>
-            <zone xml:id="imtArea_26" rendition="Theleme" ulx="37" uly="682" lrx="359" lry="709" rend="visible"/>
-            <zone xml:id="imtArea_27" rendition="Theleme" ulx="35" uly="703" lrx="360" lry="733" rend="visible"/>
-            <zone xml:id="imtArea_28" rendition="Theleme" ulx="33" uly="729" lrx="353" lry="761" rend="visible"/>
-            <zone xml:id="imtArea_29" rendition="Theleme" ulx="42" uly="759" lrx="343" lry="784" rend="visible"/>
-            <zone xml:id="imtArea_30" rendition="Theleme" ulx="41" uly="781" lrx="356" lry="808" rend="visible"/>
-            <zone xml:id="imtArea_31" rendition="Theleme" ulx="42" uly="805" lrx="352" lry="831" rend="visible"/>
-            <zone xml:id="imtArea_32" rendition="Theleme" ulx="40" uly="829" lrx="359" lry="859" rend="visible"/>
-            <zone xml:id="imtArea_33" rendition="Theleme" ulx="41" uly="851" lrx="356" lry="880" rend="visible"/>
-            <zone xml:id="imtArea_34" rendition="Theleme" ulx="40" uly="879" lrx="345" lry="903" rend="visible"/>
-            <zone xml:id="imtArea_35" rendition="Theleme" ulx="43" uly="902" lrx="347" lry="932" rend="visible"/>
-            <zone xml:id="imtArea_36" rendition="Theleme" ulx="44" uly="930" lrx="341" lry="960" rend="visible"/>
-            <zone xml:id="imtArea_37" rendition="Theleme" ulx="44" uly="951" lrx="354" lry="983" rend="visible"/>
-            <zone xml:id="imtArea_38" rendition="Theleme" ulx="46" uly="980" lrx="354" lry="1007" rend="visible"/>
-            <zone xml:id="imtArea_39" rendition="Theleme" ulx="44" uly="1005" lrx="351" lry="1036" rend="visible"/>
-            <zone xml:id="imtArea_40" rendition="Theleme" ulx="44" uly="1025" lrx="352" lry="1063" rend="visible"/>
-            <zone xml:id="imtArea_41" rendition="Theleme" ulx="40" uly="1054" lrx="359" lry="1090" rend="visible"/>
-            <zone xml:id="imtArea_42" rendition="Theleme" ulx="385" uly="7" lrx="680" lry="79" rend="visible"/>
-            <zone xml:id="imtArea_43" rendition="Theleme" ulx="382" uly="78" lrx="681" lry="104" rend="visible"/>
-            <zone xml:id="imtArea_44" rendition="Theleme" ulx="497" uly="101" lrx="675" lry="128" rend="visible"/>
-            <zone xml:id="imtArea_45" rendition="Theleme" ulx="497" uly="125" lrx="673" lry="152" rend="visible"/>
-            <zone xml:id="imtArea_46" rendition="Theleme" ulx="498" uly="150" lrx="675" lry="174" rend="visible"/>
-            <zone xml:id="imtArea_47" rendition="Theleme" ulx="487" uly="171" lrx="668" lry="201" rend="visible"/>
-            <zone xml:id="imtArea_48" rendition="Theleme" ulx="386" uly="197" lrx="670" lry="221" rend="visible"/>
-            <zone xml:id="imtArea_49" rendition="Theleme" ulx="388" uly="217" lrx="672" lry="247" rend="visible"/>
-            <zone xml:id="imtArea_50" rendition="Theleme" ulx="389" uly="246" lrx="666" lry="272" rend="visible"/>
-            <zone xml:id="imtArea_51" rendition="Theleme" ulx="390" uly="271" lrx="669" lry="298" rend="visible"/>
-            <zone xml:id="imtArea_52" rendition="Theleme" ulx="389" uly="297" lrx="667" lry="323" rend="visible"/>
-            <zone xml:id="imtArea_53" rendition="Theleme" ulx="391" uly="319" lrx="675" lry="346" rend="visible"/>
-            <zone xml:id="imtArea_54" rendition="Theleme" ulx="391" uly="342" lrx="673" lry="370" rend="visible"/>
-            <zone xml:id="imtArea_55" rendition="Theleme" ulx="390" uly="367" lrx="672" lry="397" rend="visible"/>
-            <zone xml:id="imtArea_56" rendition="Theleme" ulx="394" uly="396" lrx="671" lry="420" rend="visible"/>
-            <zone xml:id="imtArea_57" rendition="Theleme" ulx="395" uly="419" lrx="664" lry="444" rend="visible"/>
-            <zone xml:id="imtArea_58" rendition="Theleme" ulx="363" uly="446" lrx="669" lry="475" rend="visible"/>
-            <zone xml:id="imtArea_59" rendition="Theleme" ulx="450" uly="475" lrx="677" lry="499" rend="visible"/>
-            <zone xml:id="imtArea_60" rendition="Theleme" ulx="446" uly="499" lrx="677" lry="525" rend="visible"/>
-            <zone xml:id="imtArea_61" rendition="Theleme" ulx="400" uly="525" lrx="676" lry="548" rend="visible"/>
-            <zone xml:id="imtArea_62" rendition="Theleme" ulx="401" uly="548" lrx="675" lry="575" rend="visible"/>
-            <zone xml:id="imtArea_63" rendition="Theleme" ulx="397" uly="575" lrx="686" lry="600" rend="visible"/>
-            <zone xml:id="imtArea_64" rendition="Theleme" ulx="398" uly="598" lrx="684" lry="627" rend="visible"/>
-            <zone xml:id="imtArea_65" rendition="Theleme" ulx="402" uly="625" lrx="683" lry="654" rend="visible"/>
-            <zone xml:id="imtArea_66" rendition="Theleme" ulx="402" uly="653" lrx="688" lry="680" rend="visible"/>
-            <zone xml:id="imtArea_67" rendition="Theleme" ulx="403" uly="679" lrx="680" lry="704" rend="visible"/>
-            <zone xml:id="imtArea_68" rendition="Theleme" ulx="397" uly="701" lrx="685" lry="728" rend="visible"/>
-            <zone xml:id="imtArea_69" rendition="Theleme" ulx="450" uly="727" lrx="680" lry="755" rend="visible"/>
-            <zone xml:id="imtArea_70" rendition="Theleme" ulx="448" uly="754" lrx="688" lry="778" rend="visible"/>
-            <zone xml:id="imtArea_71" rendition="Theleme" ulx="400" uly="775" lrx="687" lry="806" rend="visible"/>
-            <zone xml:id="imtArea_72" rendition="Theleme" ulx="401" uly="805" lrx="684" lry="853" rend="visible"/>
-            <zone xml:id="imtArea_74" rendition="Theleme" ulx="401" uly="851" lrx="689" lry="901" rend="visible"/>
-            <zone xml:id="imtArea_76" rendition="Theleme" ulx="402" uly="901" lrx="687" lry="953" rend="visible"/>
-            <zone xml:id="imtArea_78" rendition="Theleme" ulx="406" uly="952" lrx="678" lry="1001" rend="visible"/>
-            <zone xml:id="imtArea_80" rendition="Theleme" ulx="407" uly="998" lrx="691" lry="1055" rend="visible"/>
-        </surface>
-    </facsimile>
-    <text>
-        <body>
-            <div type="facsimile" facs="#fax">
-                <p>
-                    <seg facs="#imtArea_0" type="imtAnnotation"> De tribus generibus lectorum.</seg>
-                    <seg facs="#imtArea_1" type="imtAnnotation"> Satis ut puto aperte</seg>
-                    <seg facs="#imtArea_2" type="imtAnnotation"> demonstratum e<ex>st</ex> provectis et aliquid</seg>
-                    <seg facs="#imtArea_3" type="imtAnnotation"> amplius de se p<ex>ro</ex>mittentib<ex>us</ex> n<ex>on</ex> idem e<ex>ss</ex>e</seg>
-                    <seg facs="#imtArea_4" type="imtAnnotation"> propositum cum incipientib<ex>us</ex>. Sed sicut illis</seg>
-                    <seg facs="#imtArea_5" type="imtAnnotation"> aliquid licite concedit<ex>ur</ex>, quod isti sine culpa</seg>
-                    <seg facs="#imtArea_6" type="imtAnnotation"> minime agere possunt, ita eciam ab istis</seg>
-                    <seg facs="#imtArea_7" type="imtAnnotation"> aliquid requiri quo illi nondum obligati s<ex>un</ex>t.</seg>
-                    <seg facs="#imtArea_8" type="imtAnnotation"> Nunc ig<ex>itur</ex> ad p<ex>ro</ex>missa solvenda redeo ut videl<ex>icet</ex></seg>
-                    <seg facs="#imtArea_9" type="imtAnnotation"> ostendam qualiter eis divina scriptura legen-</seg>
-                    <seg facs="#imtArea_10" type="imtAnnotation"> -da sit, qui adhuc in ea solam quer<ex>un</ex>t scientiam.</seg>
-                    <seg facs="#imtArea_11" type="imtAnnotation"> Sunt nonnulli qui divine scripture sci<ex>enti</ex>am</seg>
-                    <seg facs="#imtArea_12" type="imtAnnotation"> appetunt, ut vel divitias congregent, vel ho-</seg>
-                    <seg facs="#imtArea_13" type="imtAnnotation"> -nores obtineant, vel famam adquirant, quor<ex>um</ex></seg>
-                    <seg facs="#imtArea_14" type="imtAnnotation"> intentio quantum p<ex>er</ex>versa, tantum est mise-</seg>
-                    <seg facs="#imtArea_15" type="imtAnnotation"> -randa. Sunt rursus alii quos audire verba D<ex>e</ex>i</seg>
-                    <seg facs="#imtArea_16" type="imtAnnotation"> et opera ej<ex>us</ex> discere delectat, non q<ex>uia</ex> salutifera, <del>sed</del></seg>
-                    <seg facs="#imtArea_17" type="imtAnnotation"><del> q<ex>uia</ex> salutifera</del> sed quia mirabilia sunt. Scruta-</seg>
-                    <seg facs="#imtArea_18" type="imtAnnotation"> -ri archana et inaudita cognoscere volunt, mul-</seg>
-                    <seg facs="#imtArea_19" type="imtAnnotation">-ta scire et nil facere. In vanum mirant<ex>ur</ex> potenti-</seg>
-                    <seg facs="#imtArea_20" type="imtAnnotation"> -am, qui n<ex>on</ex> amant mis<ex>eri</ex>c<ex>or</ex>diam. Hos <ex>er</ex>go quid aliud</seg>
-                    <seg facs="#imtArea_21" type="imtAnnotation"> agere dicam quam preconia divina in fabu-</seg>
-                    <seg facs="#imtArea_22" type="imtAnnotation"> -las commutare ? Sic theatralib<ex>us</ex> ludis, sic sce-</seg>
-                    <seg facs="#imtArea_23" type="imtAnnotation"> -nicis carminib<ex>us</ex> intedere solemus, ut scilicet</seg>
-                    <seg facs="#imtArea_24" type="imtAnnotation"> auditum pascam<ex>us</ex>, non animum. Huj<ex>us</ex>modi</seg>
-                    <seg facs="#imtArea_25" type="imtAnnotation"> tamen non tam confundi quam adjuvari</seg>
-                    <seg facs="#imtArea_26" type="imtAnnotation"> oportet censeo, quor<ex>um</ex> voluntas non utiq<ex>ue</ex> ma-</seg>
-                    <seg facs="#imtArea_27" type="imtAnnotation"> -ligna e<ex>st</ex>, sed improvida. Alii vero idcirco sacra<ex>m</ex></seg>
-                    <seg facs="#imtArea_28" type="imtAnnotation"> scripturam legunt ut s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Ap<ex>osto</ex>li preceptum</seg>
-                    <seg facs="#imtArea_29" type="imtAnnotation"> parati sint omni poscenti reddere r<ex>ati</ex>onem de</seg>
-                    <seg facs="#imtArea_30" type="imtAnnotation"> ea fide in qua positi sunt, ut videlicet inimi-</seg>
-                    <seg facs="#imtArea_31" type="imtAnnotation"> -cos veritatis fortiter destruant, min<ex>us</ex> eruditos</seg>
-                    <seg facs="#imtArea_32" type="imtAnnotation"> doceant, ipsi p<ex>er</ex>fecti<ex>us</ex> viam veritatis agnoscant</seg>
-                    <seg facs="#imtArea_33" type="imtAnnotation"> et altius Dei secreta intelligentes arti<ex>us</ex> ament,</seg>
-                    <seg facs="#imtArea_34" type="imtAnnotation"> quor<ex>um</ex> nimirum devotio laudanda e<ex>st</ex> et imi-</seg>
-                    <seg facs="#imtArea_35" type="imtAnnotation"> -tatione digna. Tria ig<ex>itur</ex> sunt gen<ex>er</ex>a hominum</seg>
-                    <seg facs="#imtArea_36" type="imtAnnotation"> sacram sc<ex>r</ex>ipturam legentium, quor<ex>um</ex> primi</seg>
-                    <seg facs="#imtArea_37" type="imtAnnotation"> quidem miserandi sunt, s<ex>e</ex>c<ex>un</ex>di juvandi, tercii</seg>
-                    <seg facs="#imtArea_38" type="imtAnnotation"> laudandi. Nos v<ex>er</ex>o q<ex>uia</ex> om<ex>n</ex>ib<ex>us</ex> consulere intendi-</seg>
-                    <seg facs="#imtArea_39" type="imtAnnotation"> -mus, q<ex>u</ex>od bonum e<ex>st</ex> in om<ex>n</ex>ib<ex>us</ex> augeri cupimus</seg>
-                    <seg facs="#imtArea_40" type="imtAnnotation"> et q<ex>u</ex>od p<ex>er</ex>versum commutari. Omnes intellige<ex>re</ex></seg>
-                    <seg facs="#imtArea_41" type="imtAnnotation"> volumus q<ex>u</ex>od dicim<ex>us</ex> om<ex>n</ex>es face<ex>re</ex> q<ex>u</ex>od hortamur.</seg>
-               </p>
-                <cb n="93vb"/>
-                <p>
-                    <seg facs="#imtArea_42" type="imtAnnotation"> Liber sextus. Quomodo legenda sit scriptura sacra querentibus scientiam in ea.</seg>
-                    <seg facs="#imtArea_43" type="imtAnnotation"> Duo tibi lector, ordine(m)</seg>
-                    <seg facs="#imtArea_44" type="imtAnnotation"> scilicet et modum, propono, q(ue)</seg>
-                    <seg facs="#imtArea_45" type="imtAnnotation"> si diligenter inspex(er)is, facile</seg>
-                    <seg facs="#imtArea_46" type="imtAnnotation"> ti(bi) iter legendi patebit. In hor(um)</seg>
-                    <seg facs="#imtArea_47" type="imtAnnotation"> v(er)o consideratione, nec om(n)ia</seg>
-                    <seg facs="#imtArea_48" type="imtAnnotation"> tuo ingenio relinquam, neq(ue) p(er) meam diligen-</seg>
-                    <seg facs="#imtArea_49" type="imtAnnotation"> -tiam satis ti(bi) fieri promitto, sed sic quedam bre-</seg>
-                    <seg facs="#imtArea_50" type="imtAnnotation"> -viter prelibando transcurram ut et posita</seg>
-                    <seg facs="#imtArea_51" type="imtAnnotation"> aliqua quib(us) erudiaris et aliqua pret(er)missa</seg>
-                    <seg facs="#imtArea_52" type="imtAnnotation"> quib(us) exercearis invenias. Ordine(m) legendi</seg>
-                    <seg facs="#imtArea_53" type="imtAnnotation"> supra quadrifarium e(ss)e co(m)memoravi, alium</seg>
-                    <seg facs="#imtArea_54" type="imtAnnotation"> in disciplinis , alium in libris, alium in nar-</seg>
-                    <seg facs="#imtArea_55" type="imtAnnotation"> -ratione atque alium in expositione. Que q(u)aliter</seg>
-                    <seg facs="#imtArea_56" type="imtAnnotation"> in divina sc(r)iptura assignanda sint nondum os-</seg>
-                    <seg facs="#imtArea_57" type="imtAnnotation"> tendi. De ordine qui est in disciplinis.</seg>
-                    <seg facs="#imtArea_58" type="imtAnnotation"> Primum (er)go hunc ordinem qui querit(ur)</seg>
-                    <seg facs="#imtArea_59" type="imtAnnotation"> in disciplinis inter hystoriam, allego-</seg>
-                    <seg facs="#imtArea_60" type="imtAnnotation"> -riam, tropologiam, divinum lectore(m)</seg>
-                    <seg facs="#imtArea_61" type="imtAnnotation"> considerare oportet, que hor(um) alia ordine le-</seg>
-                    <seg facs="#imtArea_62" type="imtAnnotation"> -gendi precedant, in quo illud ad memoriam</seg>
-                    <seg facs="#imtArea_63" type="imtAnnotation"> revocare n(on) inutile e(st) quod in edificiis fieri con-</seg>
-                    <seg facs="#imtArea_64" type="imtAnnotation"> spicitur, ubi primum quidem fundam(en)tum</seg>
-                    <seg facs="#imtArea_65" type="imtAnnotation"> ponitur, dehinc fabrica sup(er) edificat(ur), ad ulti-</seg>
-                    <seg facs="#imtArea_66" type="imtAnnotation"> -mum consummato opere dom(us) colore sup(er)-</seg>
-                    <seg facs="#imtArea_67" type="imtAnnotation"> -ducto vestitur. De hystoria.</seg>
-                    <seg facs="#imtArea_68" type="imtAnnotation"> Sic nimirum in doctrina fieri oportet</seg>
-                    <seg facs="#imtArea_69" type="imtAnnotation"> ut videlicet prius historiam discas</seg>
-                    <seg facs="#imtArea_70" type="imtAnnotation"> et rerum gestarum veritatem a prin-</seg>
-                    <seg facs="#imtArea_71" type="imtAnnotation"> -cipio repetens usq(ue) ad finem, quid gestum sit,</seg>
-                    <seg facs="#imtArea_72" type="imtAnnotation"> quando gestum sit, ubi gestum sit, et a quib(us) / gestum sit, diligenter memorie commendes.</seg>
-                    <seg facs="#imtArea_74" type="imtAnnotation"> Hec enim quatuor precipue in hystoria requi/renda sunt : p(er)sona, negocium, tempus et locus.</seg>
-                    <seg facs="#imtArea_76" type="imtAnnotation"> Neq(ue) ego te p(er)fecte subtilem posse fieri puto in / allegoria, nisi p(r)i(us) fundatus fueris in hystoria.</seg>
-                    <seg facs="#imtArea_78" type="imtAnnotation"> Noli contempnere minima hec. Paulatim / defluit qui minima contempnit. Si p(r)imo</seg>
-                    <seg facs="#imtArea_80" type="imtAnnotation"> alfabetum discere contempsisses, n(un)c inter / grammaticos tantum nomen non haberes.</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <cb n="93va"/>
-                    <p>De tribus generibus lectorum.<lb/> Satis ut puto aperte demonstratum est<lb/> provectis et aliquid amplius de se promittentibus<lb/> non idem esse propositum cum incipientibus.<lb/> Sed sicut illis aliquid licite conceditur, <lb/> quod isti sine culpa minime agere possunt, <lb/> ita eciam ab istis aliquid requiri<lb/> Quo illi nondum obligati sunt.<lb/> Nunc igitur ad promissa solvenda redeo <lb/> ut videlicet ostendam qualiter eis divina scriptura legenda sit,<lb/> qui adhuc in ea solam querunt scientiam.<lb/> Sunt nonnulli qui divine scripture scientiam appetunt, <lb/> ut vel divitias congregent, vel honores obtineant, <lb/> vel famam adquirant, <lb/> quorum intentio quantum perversa, tantum est miseranda<lb/> Sunt rursus alii <lb/> quos audire verba Dei et opera ejus discere delectat, <lb/> non quia salutifera, sed quia mirabilia sunt.<lb/> Scrutari archana et inaudita cognoscere volunt, <lb/> multa scire et nil facere.<lb/> In vanum mirantur potentiam, qui non amant misericordiam. <lb/> Hos ergo quid aliud agere dicam<lb/> quam preconia divina in fabulas commutare ? <lb/> Sic theatralibus ludis, sic scenicis carminibus intedere solemus, <lb/> ut scilicet auditum pascamus, non animum.<lb/> Hujusmodi tamen non tam confundi <lb/> quam adjuvari oportet censeo,<lb/> quorum voluntas non utique maligna est, <lb/> sed improvida.<lb/> Alii vero idcirco sacram scripturam legunt<lb/> ut secundum Apostoli preceptum<lb/>
-                        <term n="I Pierre 3, 5" >parati sint omni poscenti reddere rationem <lb/> de ea fide in qua positi sunt</term>, <lb/> ut videlicet inimicos veritatis fortiter destruant, <lb/> minus eruditos doceant, <lb/> ipsi perfectius viam veritatis agnoscant <lb/> et altius Dei secreta intelligentes <lb/> artius ament,<lb/> quorum nimirum devotio laudanda est et imitatione digna.<lb/> Tria igitur sunt genera hominum sacram scripturam legentium<lb/> quorum primi quidem miserandi sunt, <lb/> secundi juvandi, tercii laudandi.<lb/> Nos vero quia omnibus consulere intendimus, <lb/> quod bonum est in omnibus augeri cupimus<lb/> et quod perversum commutari. <lb/> Omnes intelligere volumus quod dicimus, <lb/> omnes facere quod hortamur.<lb/>
-                   </p>
-                    <cb n="93vb"/>
-                    <p>Liber sextus. Quomodo legenda sit scriptura sacra <lb/> querentibus scientiam in ea.<lb/> Duo tibi lector, ordinem scilicet et modum, propono, <lb/> que, si diligenter inspexeris, <lb/> facile tibi iter legendi patebit.<lb/> In horum vero consideratione, <lb/> nec omnia tuo ingenio relinquam, <lb/> neque per meam diligentiam satis tibi fieri promitto, <lb/> sed sic quedam breviter prelibando transcurram<lb/> ut et posita aliqua quibus erudiaris <lb/> et aliqua pretermissa quibus exercearis invenias.<lb/> Ordinem legendi supra quadrifarium esse commemoravi, <lb/> aliud in disciplinis , alium in libris, <lb/> alium in narratione atque alium in expositione, <lb/> Que qualiter in divina scriptura assignanda sint<lb/> nondum ostendi.</p>
-                    <p><lb/> De ordine qui est in disciplinis.<lb/> Primum ergo hunc ordinem qui queritur in disciplinis<lb/> inter <term n="une des divisions classiques des différents sens de l’Écriture. L’histoire s’attache au sens littéral, l’allégorie au sens figuré, notamment christologique, et la tropologie au sens moral." >hystoriam, allegoriam, tropologiam</term>,<lb/> divinum lectorem considerare oportet, <lb/> que horum alia ordine legendi precedant, <lb/> in quo illud ad memoriam revocare non inutile est<lb/> quod in edificiis fieri conspicitur, <lb/> ubi primum quidem fundamentum ponitur,<lb/> dehinc fabrica super edificatur, <lb/> ad ultimum consummato opere<lb/> domus colore super ducto vestitur.</p>
-                    <p><lb/> De hystoria. Sic nimirum in doctrina fieri oportet<lb/> ut videlicet prius historiam discas<lb/> et rerum gestarum veritatem a principio repetens usque ad finem<lb/> quid gestum sit, quando gestum sit,<lb/> ubi gestum sit, et a quibus gestum sit,<lb/> diligenter memorie commendes.<lb/> Hec enim quatuor precipue in hystoria requirenda sunt :<lb/> persona, negocium, tempus et locus.<lb/> Neque ego te perfecte subtilem posse fieri puto in allegoria,<lb/> nisi prius fundatus fueris in hystoria.<lb/> Noli contempnere minima hec. <lb/> Paulatim defluit qui minima contempnit. <lb/> Si primo alfabetum discere contempsisses, <lb/> nunc inter grammaticos tantum nomen non haberes.<lb/>
-                   </p>
-                </div>
-                <div type="translation">
-                    <cb n="93va"/>
-                    <p>Les trois genres de lecteurs.<lb/> Il a été assez clairement montré, à mon avis,<lb/> que les avancés et ceux qui se promettent davantage d’eux-mêmes<lb/> n’ont pas le même dessein que les commençants.<lb/> Mais de même qu’on concède à ces derniers<lb/> ce que les premiers ne pourraient accomplir sans faute, <lb/> de même il leur est demandé <lb/> ce à quoi les débutants ne sont pas encore tenus.<lb/> J’en viens donc maintenant à tenir mes promesses, <lb/> à savoir montrer comment doivent lire l’Écriture sainte<lb/> ceux qui ne cherchent encore en elle que la science.<lb/> Il y en a qui recherchent la science de l’Écriture sainte<lb/> pour amasser des richesses, obtenir des honneurs, <lb/> ou acquérir une bonne renommée.<lb/> Leur intention est autant à plaindre qu’à blâmer. <lb/> Il y en a d’autres aussi<lb/> qui se plaisent à entendre les paroles de Dieu et à apprendre ses œuvres, <lb/> non parce qu’elles sont salutaires, mais parce qu’elles sont admirables.<lb/> Ils veulent scruter les arcanes et connaître les choses inouïes, <lb/> beaucoup savoir et ne rien faire.<lb/> C’est en vain qu’ils admirent la puissance ceux qui n’aiment pas la miséricorde.<lb/> Que font-ils d’autre, je vous le demande,<lb/> à part changer les louanges divines en fables ?<lb/> C’est ainsi que nous avons l’habitude de nous attacher aux pièces de théâtres et aux poèmes faits pour la scène afin de nous nourrir l’oreille, non l’esprit. <lb/> Je pense cependant qu’il ne faut pas tant réprouver ces hommes <lb/> que les aider,<lb/> puisque leur volonté n’est pas mauvaise, <lb/> mais mal conseillée.<lb/> D’autres, pour leur part, lisent l’Écriture sainte <lb/> afin que, selon le précepte apostolique, <lb/>
-                        <term n="I Pierre 3, 5">ils soient prêts à rendre raison à tout homme qui le demande<lb/> de la foi où ils sont établis</term>,<lb/> de sorte qu’ils détruisent avec courage les ennemis de la vérité, <lb/> qu’ils instruisent les moins savants, <lb/> qu’ils connaissent eux-mêmes plus parfaitement le chemin de la vérité<lb/> et que comprenant plus profondément les secrets divins,<lb/> ils les aiment plus étroitement.<lb/> Leur piété est très louable et digne d’imitation.<lb/> Il y a donc trois sortes d’hommes qui lisent l’Écriture sainte : <lb/> Les premiers sont à plaindre, <lb/> les seconds à aider, les troisièmes à louer.<lb/> Quant à nous, parce que nous entendons tous les conseiller, <lb/> nous désirons augmenter en tous le bien qui s’y trouve, <lb/> et y remplacer le mal, <lb/> nous voulons que tous comprennent ce que nous disons, <lb/> que tous accomplissent ce à quoi nous les exhortons.<lb/>
-                   </p>
-                    <cb n="93vb"/>
-                    <p>Livre six. Comment doivent lire l’Écriture sainte<lb/> ceux qui y cherchent la science.<lb/> Je te propose, lecteur, deux choses, à savoir l’ordre et la manière.<lb/> Si tu les observes avec attention, <lb/> le chemin de la lecture s’ouvrira facilement à toi.<lb/> Dans leur examen <lb/> je ne laisserai pas tout à ton talent, <lb/> sans pour autant promettre de te donner satisfaction par mes soins, <lb/> mais je parcourrai certains points en en donnant de brefs avant-goûts, <lb/> de sorte que tu trouves des choses exposées qui t’instruisent <lb/> et d’autres omises qui t’exercent.<lb/> J’ai rappelé plus haut que l’ordre de la lecture était quadruple : <lb/> l’un consiste dans les disciplines, un autre dans les livres, <lb/> un autre dans la narration et un autre dans l’exposition.<lb/> Comment les déterminer dans l’Écriture sainte<lb/> je ne l’ai pas encore montré.</p>
-                    <p><lb/> L’ordre dans les disciplines.<lb/> Tout d’abord, il faut donc que le lecteur de la Bible considère <lb/> l’ordre recherché dans les disciplines<lb/> entre <term n="une des divisions classiques des différents sens de l’Écriture. L’histoire s’attache au sens littéral, l’allégorie au sens figuré, notamment christologique, et la tropologie au sens moral." >l’histoire, l’allégorie et la tropologie</term>, <lb/> et quelle est celle qui précède les autres dans l’ordre de la lecture, <lb/> point où il n’est pas inutile de rappeler<lb/> ce qu’on voit faire dans les constructions, <lb/> où tout d’abord l’on pose les fondations, <lb/> avant d’y ajouter le bâtiment, <lb/> pour qu’à la fin, une fois l’ouvrage achevé, <lb/> la maison soit décorée d’une peinture qui y est ajoutée.</p>
-                    <p><lb/>Sur l’histoire. Ainsi faut-il vraiment que dans ta formation<lb/> tu apprennes d’abord l’histoire<lb/> et, en répétant le cours véridique des faits du début à la fin, <lb/> tu confies soigneusement à ta mémoire<lb/> ce qui s’est passé, quand cela s’est passé, <lb/> où cela s’est passé et par qui cela a été fait.<lb/> Il y a quatre choses principales à rechercher en histoire : <lb/> la personne, le fait, le temps et le lieu.<lb/> Et je ne pense pas que tu puisses devenir subtil en allégorie, <lb/> si tu n’as pas de bases historiques. <lb/> Ne méprise pas ces petites choses.<lb/> Il tombe insensiblement celui qui méprise les petites choses.<lb/> Si tu avais d’abord méprisé d’apprendre l’alphabet, <lb/> tu n’aurais pas aujourd’hui un si grand nom parmi les grammairiens. <lb/>
-                   </p>
-                </div>
-            </div>
-            <div type="paleography">
-                <head>Commentaire paléographique</head>
-                <div>
-                    <head>Aspect général</head>
-                    <div>
-                        <p>L’écriture est une prégothique d’aspect soigné qui présente certains caractères avancés, comme : <list>
-                                <item> l’attaque marquée de certaines lettres, notamment dans le haut des jambages de <hi rend="b">n</hi> et <hi rend="b">m</hi>. </item>
-                                <item> l’ajout de traits de fuite sur certaines lettres : <hi rend="b">t</hi>, <hi rend="b">d</hi> de forme onciale ou bien sur la queue du <hi rend="b" >p</hi> ou du <hi rend="b">q</hi>. </item>
-                            </list>
-                       </p>
-                        <p>On remarque également la persistance de formes propres à la minuscule caroline, notamment dans le traitement des ligatures -<hi rend="b">ct</hi> ou -<hi rend="b" >st</hi> qui conservent un tracé courbe typique.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Formes individuelles remarquables</head>
-                    <div>
-                        <list>
-                            <item> <hi rend="b">a</hi> : accentué pour signaler la forme monosyllabique. </item>
-                            <item> <hi rend="b">r</hi> après un <hi rend="b">o</hi>, prend régulièrement une forme arrondie. </item>
-                            <item> <hi rend="b">i</hi> : pointé pour le distinguer d’autres jambages dans des mots ambigus comme <hi rend="b">animum</hi> (l. 25a), <hi rend="b" >alii</hi> (l. 28a), <hi rend="b">juvandi</hi> et <hi rend="b">tercii</hi> (l. 38a) ou <hi rend="b">edificiis</hi> (l. 23b). </item>
-                            <item> <hi rend="b">e</hi> cédillé utilisé de manière correcte, mais non exhaustive, pour signaler la diphtongue <hi rend="b">ae</hi>. </item>
-                            <item> <hi rend="b">d</hi> présente la forme droite ou onciale. </item>
-                            <item> <hi rend="b" >s</hi> sous trois formes : une forme capitale qui est attestée le plus souvent à la fin des mots ; droite en ouverture ou à l’intérieur des mots ; surélevée en fin de ligne. </item>
-                            <item> <hi rend="b">y</hi> pointé, avec un tracé de haut en bas sur le second trait. </item>
-                        </list>
-                    </div>
-                </div>
-                <div>
-                    <head>Abréviations</head>
-                    <div>
-                        <p>Le système abréviatif, peu développé, présente les formes classiques : tildes pour les nasales et -<hi rend="b">re</hi> ; les abréviations sur –<hi rend="b" >p</hi> ; lettres suscrites pour les conjonctions ; terminaisons en –<hi rend="b">b(us)</hi> et –<hi rend="b">or(um)</hi>, signes conventionnels pour -<hi rend="b">ur</hi>, -<hi rend="b">us</hi>. La conjonction et est régulièrement remplacée par l’éperluette ou conjonction e+t (<hi rend="b" >"&amp;"</hi>).</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Structuration</head>
-                    <div>
-                        <p>La séparation des mots est régulière en dépit d’une tendance à l’agglutination entre les prépositions <hi rend="b">in</hi> ou <hi rend="b" >ad</hi> et les substantifs qu’elles déterminent. La coupe des mots à la fin des lignes est signalée par un tiret.</p>
-                        <p>La ponctuation est assurée par trois signes différents : <list>
-                                <item> le point situé sur la ligne (<hi rend="i" >punctus</hi>) pour distinguer les propositions apposées ou subordonnées. Suivi d’une majuscule, il signale le début d’une nouvelle phrase. </item>
-                                <item> le point virgule pour marquer une ponctuation forte en fin de paragraphe (dernière ligne, col. a). </item>
-                                <item> le point d’interrogation (l. 23, col. a). </item>
-                            </list>
-                       </p>
-                        <p>Sur ce feuillet de grande dimension (400 x 280 mm), la mise en page, sur deux colonnes régulières (330 x 90 mm), est scandée par un répertoire décoratif simple : la distinction en livre et paragraphe est annoncé par un titre rubriqué associé à une initiale filigranée de grand module (<hi rend="b">s</hi> : 25 mm de hauteur, <hi rend="b">d</hi> : 35 mm, <hi rend="b">p</hi> : 40 mm, <hi rend="b" >s</hi> : 25 mm). On retrouve ici, comme dans le reste du manuscrit, l’alternance typique à l’époque entre initiale rouge filigranée de bleu et initiale bleue filigranée de rouge. Les lettres onciales sont utilisées pour mettre en valeur le début du livre six et de certains paragraphes.</p>
-                        <p>Le copiste a corrigé par cancellation une faute d’inattention (<hi rend="strike" >sed quia salutifera</hi>).</p>
-                    </div>
-                </div>
-            </div>
-            <div type="history">
-                <head>Commentaire historique</head>
-                <div>
-                    <head>Le Didascalicon, guide des études à Saint-Victor</head>
-                    <div>
-                        <p>Le <hi rend="i">Didascalicon</hi> constitue le guide des études écrit par <term xml:id="a-note-1" rend="b" >Hugues de Saint-Victor</term> pour les novices de son abbaye. Dans ce manuel, le fondateur intellectuel de Saint-Victor développe un art de bien lire, c’est-à-dire la manière d’étudier aussi bien les textes profanes que bibliques. Le traité a joui d’un immense succès. Le manuscrit ici retenu est un important témoin : il s’agit d’une copie réalisée à Saint-Victor peu de temps après la mort d’Hugues (1141) dans le but de diffuser largement les œuvres du célèbre victorin. Comme le prouve la mise en page soignée du texte et sa qualité philologique, le manuscrit est un exemplaire de référence appelé à servir de modèle pour la diffusion de la pensée d’Hugues.</p>
-                        <p rend="notes">
-                            <note target="#a-note-1" type="footnote">Né en Saxe à la fin du XI<hi rend="sup" >e</hi> siècle, Hugues entre à Saint-Victor comme chanoine dans les années 1110. Jusqu’à sa mort en février 1141, il fait de l’abbaye un des principaux centres de la « Renaissance du XII<hi rend="sup">e</hi> siècle ». Son œuvre touche à tous les domaines de l’enseignement chrétien, depuis la grammaire jusqu’à la vie spirituelle.</note>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Les trois sortes de lecteurs</head>
-                    <div>
-                        <p>À la fin du livre 5, Hugues définit trois sortes de lecteurs que l’on peut rattacher à des pratiques contemporaines. Il dénonce tout d’abord une utilisation mercantile et mondaine de la Bible. L’accusation n’a rien de théorique, puisque de nombreuses sources contemporaines attestent que le renom dans la science des Écritures était un élément important pour les élections épiscopales ou abbatiales. Le passage est aussi contemporain d’une professionnalisation des théologiens qui n’hésitent parfois pas à utiliser leurs compétences pour faire carrière auprès des puissances séculières.</p>
-                        <p>Le maître se montre plus indulgent pour une seconde catégorie de lecteurs qui pratiquent une lecture purement intellectuelle de la Bible sans chercher à la mettre en pratique. Hugues semble viser une lecture ‘humaniste’ ou grammaticale qui traite l’Écriture comme un texte profane hérité de l’Antiquité classique.</p>
-                        <p>Enfin, le maître loue une lecture édifiante qui est proposée en exemple aux chanoines victorins. La Bible est lue ici à des fins apologétiques et spirituelles pour l’instruction personnelle et l’édification du prochain. L’idéal ici défini par Hugues rejoint la vocation même du chanoine qui doit concilier la contemplation et l’action apostolique.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Hugues de Saint-Victor pédagogue</head>
-                    <div>
-                        <p>Selon le passage, la pédagogie d’Hugues est marquée par deux traits principaux : <list>
-                                <item> l’optimisme : un souci de modération pousse le victorin à n’exclure personne de son enseignement. Le maître ne cherche pas tant à condamner qu’à redresser le mal là où il se trouve pour en tirer un bien. </item>
-                            <item> la division : afin de mieux transmettre son enseignement, Hugues divise chaque ensemble théorique en autant de points eux-mêmes détaillés et subdivisés. On peut ainsi représenter sous la forme d’un diagramme la manière dont il procède au début du livre six : <graphic url="diagramme.jpg"/>
-                            </item>
-                        </list>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Pour approfondir</head>
-                    <div>
-                        <listBibl>
-                            <bibl>
-                                <author>Lemoine (M.)</author> introd., trad. et notes, <title>Hugues de Saint-Victor l’art de lire – Didascalicon</title>, Paris, 1991. </bibl>
-                            <bibl>
-                                <author>Poirel (D.)</author>, <title>Hugues de Saint-Victor</title>, Paris, 1998. </bibl>
-                        </listBibl>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Didascalicon d’Hugues de Saint-Victor.</title>
+        <author>Giraud, Cédric (ATER à l’École nationale des Chartes)</author>
+        <respStmt>
+          <resp>document encodé en XML/TEI P5 par</resp>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l’École nationale des Chartes)</name>
+        </respStmt>
+        <respStmt>
+          <resp>encodage relu et complété par</resp>
+          <name>Clavaud, Florence (directrice des nouvelles technologies et de l’informatique à l’École nationale des Chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">100</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2009-09">septembre 2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Paris, Bibliothèque Mazarine, 717, 93v<hi rend="sup">o</hi></p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat"/>
+      </langUsage>
+    </profileDesc>
+    <encodingDesc>
+      <tagsDecl xml:id="imtAnnotationCategories">
+        <rendition xml:id="Theleme">
+          <desc>transcriptional</desc>
+          <label>zone d’image pour facsimile interactif Theleme</label>
+          <code rend="rectangle" lang="text/css">color: #ff0000</code>
+        </rendition>
+      </tagsDecl>
+      <appInfo>
+        <application ident="ImageMarkupTool01" version="1.8.1.3" notAfter="2009-04-28T12:08:33">
+          <label>Image Markup Tool</label>
+          <desc>Tool for annotating images using TEI</desc>
+          <ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/"></ref>
+          <ptr target="#imtAnnotatedImage"/>
+          <ptr target="#imtImageAnnotations"/>
+          <ptr target="#imtAnnotationCategories"/>
+        </application>
+      </appInfo>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile xml:id="imtAnnotatedImage">
+    <surface>
+      <graphic url="fax.jpg" width="693px" height="1100px" xml:id="fax"/>
+      <zone xml:id="imtArea_0" rendition="Theleme" ulx="213" uly="3" lrx="342" lry="67" rend="visible"/>
+      <zone xml:id="imtArea_1" rendition="Theleme" ulx="29" uly="31" lrx="214" lry="67" rend="visible"/>
+      <zone xml:id="imtArea_2" rendition="Theleme" ulx="81" uly="65" lrx="335" lry="91" rend="visible"/>
+      <zone xml:id="imtArea_3" rendition="Theleme" ulx="80" uly="89" lrx="342" lry="117" rend="visible"/>
+      <zone xml:id="imtArea_4" rendition="Theleme" ulx="38" uly="113" lrx="338" lry="142" rend="visible"/>
+      <zone xml:id="imtArea_5" rendition="Theleme" ulx="34" uly="139" lrx="332" lry="170" rend="visible"/>
+      <zone xml:id="imtArea_6" rendition="Theleme" ulx="33" uly="167" lrx="332" lry="192" rend="visible"/>
+      <zone xml:id="imtArea_7" rendition="Theleme" ulx="32" uly="188" lrx="334" lry="217" rend="visible"/>
+      <zone xml:id="imtArea_8" rendition="Theleme" ulx="31" uly="214" lrx="333" lry="248" rend="visible"/>
+      <zone xml:id="imtArea_9" rendition="Theleme" ulx="35" uly="246" lrx="345" lry="272" rend="visible"/>
+      <zone xml:id="imtArea_10" rendition="Theleme" ulx="36" uly="268" lrx="335" lry="296" rend="visible"/>
+      <zone xml:id="imtArea_11" rendition="Theleme" ulx="34" uly="295" lrx="330" lry="319" rend="visible"/>
+      <zone xml:id="imtArea_12" rendition="Theleme" ulx="34" uly="318" lrx="343" lry="347" rend="visible"/>
+      <zone xml:id="imtArea_13" rendition="Theleme" ulx="36" uly="345" lrx="343" lry="369" rend="visible"/>
+      <zone xml:id="imtArea_14" rendition="Theleme" ulx="36" uly="367" lrx="341" lry="396" rend="visible"/>
+      <zone xml:id="imtArea_15" rendition="Theleme" ulx="37" uly="395" lrx="344" lry="423" rend="visible"/>
+      <zone xml:id="imtArea_16" rendition="Theleme" ulx="38" uly="422" lrx="349" lry="450" rend="visible"/>
+      <zone xml:id="imtArea_17" rendition="Theleme" ulx="38" uly="447" lrx="349" lry="477" rend="visible"/>
+      <zone xml:id="imtArea_18" rendition="Theleme" ulx="37" uly="476" lrx="355" lry="503" rend="visible"/>
+      <zone xml:id="imtArea_19" rendition="Theleme" ulx="37" uly="494" lrx="361" lry="530" rend="visible"/>
+      <zone xml:id="imtArea_20" rendition="Theleme" ulx="36" uly="521" lrx="350" lry="553" rend="visible"/>
+      <zone xml:id="imtArea_21" rendition="Theleme" ulx="36" uly="550" lrx="340" lry="579" rend="visible"/>
+      <zone xml:id="imtArea_22" rendition="Theleme" ulx="36" uly="577" lrx="353" lry="607" rend="visible"/>
+      <zone xml:id="imtArea_23" rendition="Theleme" ulx="38" uly="604" lrx="349" lry="629" rend="visible"/>
+      <zone xml:id="imtArea_24" rendition="Theleme" ulx="37" uly="623" lrx="343" lry="658" rend="visible"/>
+      <zone xml:id="imtArea_25" rendition="Theleme" ulx="37" uly="655" lrx="333" lry="685" rend="visible"/>
+      <zone xml:id="imtArea_26" rendition="Theleme" ulx="37" uly="682" lrx="359" lry="709" rend="visible"/>
+      <zone xml:id="imtArea_27" rendition="Theleme" ulx="35" uly="703" lrx="360" lry="733" rend="visible"/>
+      <zone xml:id="imtArea_28" rendition="Theleme" ulx="33" uly="729" lrx="353" lry="761" rend="visible"/>
+      <zone xml:id="imtArea_29" rendition="Theleme" ulx="42" uly="759" lrx="343" lry="784" rend="visible"/>
+      <zone xml:id="imtArea_30" rendition="Theleme" ulx="41" uly="781" lrx="356" lry="808" rend="visible"/>
+      <zone xml:id="imtArea_31" rendition="Theleme" ulx="42" uly="805" lrx="352" lry="831" rend="visible"/>
+      <zone xml:id="imtArea_32" rendition="Theleme" ulx="40" uly="829" lrx="359" lry="859" rend="visible"/>
+      <zone xml:id="imtArea_33" rendition="Theleme" ulx="41" uly="851" lrx="356" lry="880" rend="visible"/>
+      <zone xml:id="imtArea_34" rendition="Theleme" ulx="40" uly="879" lrx="345" lry="903" rend="visible"/>
+      <zone xml:id="imtArea_35" rendition="Theleme" ulx="43" uly="902" lrx="347" lry="932" rend="visible"/>
+      <zone xml:id="imtArea_36" rendition="Theleme" ulx="44" uly="930" lrx="341" lry="960" rend="visible"/>
+      <zone xml:id="imtArea_37" rendition="Theleme" ulx="44" uly="951" lrx="354" lry="983" rend="visible"/>
+      <zone xml:id="imtArea_38" rendition="Theleme" ulx="46" uly="980" lrx="354" lry="1007" rend="visible"/>
+      <zone xml:id="imtArea_39" rendition="Theleme" ulx="44" uly="1005" lrx="351" lry="1036" rend="visible"/>
+      <zone xml:id="imtArea_40" rendition="Theleme" ulx="44" uly="1025" lrx="352" lry="1063" rend="visible"/>
+      <zone xml:id="imtArea_41" rendition="Theleme" ulx="40" uly="1054" lrx="359" lry="1090" rend="visible"/>
+      <zone xml:id="imtArea_42" rendition="Theleme" ulx="385" uly="7" lrx="680" lry="79" rend="visible"/>
+      <zone xml:id="imtArea_43" rendition="Theleme" ulx="382" uly="78" lrx="681" lry="104" rend="visible"/>
+      <zone xml:id="imtArea_44" rendition="Theleme" ulx="497" uly="101" lrx="675" lry="128" rend="visible"/>
+      <zone xml:id="imtArea_45" rendition="Theleme" ulx="497" uly="125" lrx="673" lry="152" rend="visible"/>
+      <zone xml:id="imtArea_46" rendition="Theleme" ulx="498" uly="150" lrx="675" lry="174" rend="visible"/>
+      <zone xml:id="imtArea_47" rendition="Theleme" ulx="487" uly="171" lrx="668" lry="201" rend="visible"/>
+      <zone xml:id="imtArea_48" rendition="Theleme" ulx="386" uly="197" lrx="670" lry="221" rend="visible"/>
+      <zone xml:id="imtArea_49" rendition="Theleme" ulx="388" uly="217" lrx="672" lry="247" rend="visible"/>
+      <zone xml:id="imtArea_50" rendition="Theleme" ulx="389" uly="246" lrx="666" lry="272" rend="visible"/>
+      <zone xml:id="imtArea_51" rendition="Theleme" ulx="390" uly="271" lrx="669" lry="298" rend="visible"/>
+      <zone xml:id="imtArea_52" rendition="Theleme" ulx="389" uly="297" lrx="667" lry="323" rend="visible"/>
+      <zone xml:id="imtArea_53" rendition="Theleme" ulx="391" uly="319" lrx="675" lry="346" rend="visible"/>
+      <zone xml:id="imtArea_54" rendition="Theleme" ulx="391" uly="342" lrx="673" lry="370" rend="visible"/>
+      <zone xml:id="imtArea_55" rendition="Theleme" ulx="390" uly="367" lrx="672" lry="397" rend="visible"/>
+      <zone xml:id="imtArea_56" rendition="Theleme" ulx="394" uly="396" lrx="671" lry="420" rend="visible"/>
+      <zone xml:id="imtArea_57" rendition="Theleme" ulx="395" uly="419" lrx="664" lry="444" rend="visible"/>
+      <zone xml:id="imtArea_58" rendition="Theleme" ulx="363" uly="446" lrx="669" lry="475" rend="visible"/>
+      <zone xml:id="imtArea_59" rendition="Theleme" ulx="450" uly="475" lrx="677" lry="499" rend="visible"/>
+      <zone xml:id="imtArea_60" rendition="Theleme" ulx="446" uly="499" lrx="677" lry="525" rend="visible"/>
+      <zone xml:id="imtArea_61" rendition="Theleme" ulx="400" uly="525" lrx="676" lry="548" rend="visible"/>
+      <zone xml:id="imtArea_62" rendition="Theleme" ulx="401" uly="548" lrx="675" lry="575" rend="visible"/>
+      <zone xml:id="imtArea_63" rendition="Theleme" ulx="397" uly="575" lrx="686" lry="600" rend="visible"/>
+      <zone xml:id="imtArea_64" rendition="Theleme" ulx="398" uly="598" lrx="684" lry="627" rend="visible"/>
+      <zone xml:id="imtArea_65" rendition="Theleme" ulx="402" uly="625" lrx="683" lry="654" rend="visible"/>
+      <zone xml:id="imtArea_66" rendition="Theleme" ulx="402" uly="653" lrx="688" lry="680" rend="visible"/>
+      <zone xml:id="imtArea_67" rendition="Theleme" ulx="403" uly="679" lrx="680" lry="704" rend="visible"/>
+      <zone xml:id="imtArea_68" rendition="Theleme" ulx="397" uly="701" lrx="685" lry="728" rend="visible"/>
+      <zone xml:id="imtArea_69" rendition="Theleme" ulx="450" uly="727" lrx="680" lry="755" rend="visible"/>
+      <zone xml:id="imtArea_70" rendition="Theleme" ulx="448" uly="754" lrx="688" lry="778" rend="visible"/>
+      <zone xml:id="imtArea_71" rendition="Theleme" ulx="400" uly="775" lrx="687" lry="806" rend="visible"/>
+      <zone xml:id="imtArea_72" rendition="Theleme" ulx="401" uly="805" lrx="684" lry="853" rend="visible"/>
+      <zone xml:id="imtArea_74" rendition="Theleme" ulx="401" uly="851" lrx="689" lry="901" rend="visible"/>
+      <zone xml:id="imtArea_76" rendition="Theleme" ulx="402" uly="901" lrx="687" lry="953" rend="visible"/>
+      <zone xml:id="imtArea_78" rendition="Theleme" ulx="406" uly="952" lrx="678" lry="1001" rend="visible"/>
+      <zone xml:id="imtArea_80" rendition="Theleme" ulx="407" uly="998" lrx="691" lry="1055" rend="visible"/>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="facsimile" facs="#fax">
+        <p>
+          <seg facs="#imtArea_0" type="imtAnnotation">De tribus generibus lectorum.</seg>
+          <seg facs="#imtArea_1" type="imtAnnotation">Satis ut puto aperte</seg>
+          <seg facs="#imtArea_2" type="imtAnnotation">demonstratum e<ex>st</ex>provectis et aliquid</seg>
+          <seg facs="#imtArea_3" type="imtAnnotation">amplius de se p<ex>ro</ex>mittentib<ex>us</ex>n<ex>on</ex>idem e<ex>ss</ex>e</seg>
+          <seg facs="#imtArea_4" type="imtAnnotation">propositum cum incipientib<ex>us</ex>. Sed sicut illis</seg>
+          <seg facs="#imtArea_5" type="imtAnnotation">aliquid licite concedit<ex>ur</ex>, quod isti sine culpa</seg>
+          <seg facs="#imtArea_6" type="imtAnnotation">minime agere possunt, ita eciam ab istis</seg>
+          <seg facs="#imtArea_7" type="imtAnnotation">aliquid requiri quo illi nondum obligati s<ex>un</ex>t.</seg>
+          <seg facs="#imtArea_8" type="imtAnnotation">Nunc ig<ex>itur</ex>ad p<ex>ro</ex>missa solvenda redeo ut videl<ex>icet</ex></seg>
+          <seg facs="#imtArea_9" type="imtAnnotation">ostendam qualiter eis divina scriptura legen-</seg>
+          <seg facs="#imtArea_10" type="imtAnnotation">-da sit, qui adhuc in ea solam quer<ex>un</ex>t scientiam.</seg>
+          <seg facs="#imtArea_11" type="imtAnnotation">Sunt nonnulli qui divine scripture sci<ex>enti</ex>am</seg>
+          <seg facs="#imtArea_12" type="imtAnnotation">appetunt, ut vel divitias congregent, vel ho-</seg>
+          <seg facs="#imtArea_13" type="imtAnnotation">-nores obtineant, vel famam adquirant, quor<ex>um</ex></seg>
+          <seg facs="#imtArea_14" type="imtAnnotation">intentio quantum p<ex>er</ex>versa, tantum est mise-</seg>
+          <seg facs="#imtArea_15" type="imtAnnotation">-randa. Sunt rursus alii quos audire verba D<ex>e</ex>i</seg>
+          <seg facs="#imtArea_16" type="imtAnnotation">et opera ej<ex>us</ex>discere delectat, non q<ex>uia</ex>salutifera, <del>sed</del></seg>
+          <seg facs="#imtArea_17" type="imtAnnotation"><del>q<ex>uia</ex>salutifera</del>sed quia mirabilia sunt. Scruta-</seg>
+          <seg facs="#imtArea_18" type="imtAnnotation">-ri archana et inaudita cognoscere volunt, mul-</seg>
+          <seg facs="#imtArea_19" type="imtAnnotation">-ta scire et nil facere. In vanum mirant<ex>ur</ex>potenti-</seg>
+          <seg facs="#imtArea_20" type="imtAnnotation">-am, qui n<ex>on</ex>amant mis<ex>eri</ex>c<ex>or</ex>diam. Hos <ex>er</ex>go quid aliud</seg>
+          <seg facs="#imtArea_21" type="imtAnnotation">agere dicam quam preconia divina in fabu-</seg>
+          <seg facs="#imtArea_22" type="imtAnnotation">-las commutare ? Sic theatralib<ex>us</ex>ludis, sic sce-</seg>
+          <seg facs="#imtArea_23" type="imtAnnotation">-nicis carminib<ex>us</ex>intedere solemus, ut scilicet</seg>
+          <seg facs="#imtArea_24" type="imtAnnotation">auditum pascam<ex>us</ex>, non animum. Huj<ex>us</ex>modi</seg>
+          <seg facs="#imtArea_25" type="imtAnnotation">tamen non tam confundi quam adjuvari</seg>
+          <seg facs="#imtArea_26" type="imtAnnotation">oportet censeo, quor<ex>um</ex>voluntas non utiq<ex>ue</ex>ma-</seg>
+          <seg facs="#imtArea_27" type="imtAnnotation">-ligna e<ex>st</ex>, sed improvida. Alii vero idcirco sacra<ex>m</ex></seg>
+          <seg facs="#imtArea_28" type="imtAnnotation">scripturam legunt ut s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Ap<ex>osto</ex>li preceptum</seg>
+          <seg facs="#imtArea_29" type="imtAnnotation">parati sint omni poscenti reddere r<ex>ati</ex>onem de</seg>
+          <seg facs="#imtArea_30" type="imtAnnotation">ea fide in qua positi sunt, ut videlicet inimi-</seg>
+          <seg facs="#imtArea_31" type="imtAnnotation">-cos veritatis fortiter destruant, min<ex>us</ex>eruditos</seg>
+          <seg facs="#imtArea_32" type="imtAnnotation">doceant, ipsi p<ex>er</ex>fecti<ex>us</ex>viam veritatis agnoscant</seg>
+          <seg facs="#imtArea_33" type="imtAnnotation">et altius Dei secreta intelligentes arti<ex>us</ex>ament,</seg>
+          <seg facs="#imtArea_34" type="imtAnnotation">quor<ex>um</ex>nimirum devotio laudanda e<ex>st</ex>et imi-</seg>
+          <seg facs="#imtArea_35" type="imtAnnotation">-tatione digna. Tria ig<ex>itur</ex>sunt gen<ex>er</ex>a hominum</seg>
+          <seg facs="#imtArea_36" type="imtAnnotation">sacram sc<ex>r</ex>ipturam legentium, quor<ex>um</ex>primi</seg>
+          <seg facs="#imtArea_37" type="imtAnnotation">quidem miserandi sunt, s<ex>e</ex>c<ex>un</ex>di juvandi, tercii</seg>
+          <seg facs="#imtArea_38" type="imtAnnotation">laudandi. Nos v<ex>er</ex>o q<ex>uia</ex>om<ex>n</ex>ib<ex>us</ex>consulere intendi-</seg>
+          <seg facs="#imtArea_39" type="imtAnnotation">-mus, q<ex>u</ex>od bonum e<ex>st</ex>in om<ex>n</ex>ib<ex>us</ex>augeri cupimus</seg>
+          <seg facs="#imtArea_40" type="imtAnnotation">et q<ex>u</ex>od p<ex>er</ex>versum commutari. Omnes intellige<ex>re</ex></seg>
+          <seg facs="#imtArea_41" type="imtAnnotation">volumus q<ex>u</ex>od dicim<ex>us</ex>om<ex>n</ex>es face<ex>re</ex>q<ex>u</ex>od hortamur.</seg>
+        </p>
+        <cb n="93vb"/>
+        <p>
+          <seg facs="#imtArea_42" type="imtAnnotation">Liber sextus. Quomodo legenda sit scriptura sacra querentibus scientiam in ea.</seg>
+          <seg facs="#imtArea_43" type="imtAnnotation">Duo tibi lector, ordine(m)</seg>
+          <seg facs="#imtArea_44" type="imtAnnotation">scilicet et modum, propono, q(ue)</seg>
+          <seg facs="#imtArea_45" type="imtAnnotation">si diligenter inspex(er)is, facile</seg>
+          <seg facs="#imtArea_46" type="imtAnnotation">ti(bi) iter legendi patebit. In hor(um)</seg>
+          <seg facs="#imtArea_47" type="imtAnnotation">v(er)o consideratione, nec om(n)ia</seg>
+          <seg facs="#imtArea_48" type="imtAnnotation">tuo ingenio relinquam, neq(ue) p(er) meam diligen-</seg>
+          <seg facs="#imtArea_49" type="imtAnnotation">-tiam satis ti(bi) fieri promitto, sed sic quedam bre-</seg>
+          <seg facs="#imtArea_50" type="imtAnnotation">-viter prelibando transcurram ut et posita</seg>
+          <seg facs="#imtArea_51" type="imtAnnotation">aliqua quib(us) erudiaris et aliqua pret(er)missa</seg>
+          <seg facs="#imtArea_52" type="imtAnnotation">quib(us) exercearis invenias. Ordine(m) legendi</seg>
+          <seg facs="#imtArea_53" type="imtAnnotation">supra quadrifarium e(ss)e co(m)memoravi, alium</seg>
+          <seg facs="#imtArea_54" type="imtAnnotation">in disciplinis , alium in libris, alium in nar-</seg>
+          <seg facs="#imtArea_55" type="imtAnnotation">-ratione atque alium in expositione. Que q(u)aliter</seg>
+          <seg facs="#imtArea_56" type="imtAnnotation">in divina sc(r)iptura assignanda sint nondum os-</seg>
+          <seg facs="#imtArea_57" type="imtAnnotation">tendi. De ordine qui est in disciplinis.</seg>
+          <seg facs="#imtArea_58" type="imtAnnotation">Primum (er)go hunc ordinem qui querit(ur)</seg>
+          <seg facs="#imtArea_59" type="imtAnnotation">in disciplinis inter hystoriam, allego-</seg>
+          <seg facs="#imtArea_60" type="imtAnnotation">-riam, tropologiam, divinum lectore(m)</seg>
+          <seg facs="#imtArea_61" type="imtAnnotation">considerare oportet, que hor(um) alia ordine le-</seg>
+          <seg facs="#imtArea_62" type="imtAnnotation">-gendi precedant, in quo illud ad memoriam</seg>
+          <seg facs="#imtArea_63" type="imtAnnotation">revocare n(on) inutile e(st) quod in edificiis fieri con-</seg>
+          <seg facs="#imtArea_64" type="imtAnnotation">spicitur, ubi primum quidem fundam(en)tum</seg>
+          <seg facs="#imtArea_65" type="imtAnnotation">ponitur, dehinc fabrica sup(er) edificat(ur), ad ulti-</seg>
+          <seg facs="#imtArea_66" type="imtAnnotation">-mum consummato opere dom(us) colore sup(er)-</seg>
+          <seg facs="#imtArea_67" type="imtAnnotation">-ducto vestitur. De hystoria.</seg>
+          <seg facs="#imtArea_68" type="imtAnnotation">Sic nimirum in doctrina fieri oportet</seg>
+          <seg facs="#imtArea_69" type="imtAnnotation">ut videlicet prius historiam discas</seg>
+          <seg facs="#imtArea_70" type="imtAnnotation">et rerum gestarum veritatem a prin-</seg>
+          <seg facs="#imtArea_71" type="imtAnnotation">-cipio repetens usq(ue) ad finem, quid gestum sit,</seg>
+          <seg facs="#imtArea_72" type="imtAnnotation">quando gestum sit, ubi gestum sit, et a quib(us) / gestum sit, diligenter memorie commendes.</seg>
+          <seg facs="#imtArea_74" type="imtAnnotation">Hec enim quatuor precipue in hystoria requi/renda sunt : p(er)sona, negocium, tempus et locus.</seg>
+          <seg facs="#imtArea_76" type="imtAnnotation">Neq(ue) ego te p(er)fecte subtilem posse fieri puto in / allegoria, nisi p(r)i(us) fundatus fueris in hystoria.</seg>
+          <seg facs="#imtArea_78" type="imtAnnotation">Noli contempnere minima hec. Paulatim / defluit qui minima contempnit. Si p(r)imo</seg>
+          <seg facs="#imtArea_80" type="imtAnnotation">alfabetum discere contempsisses, n(un)c inter / grammaticos tantum nomen non haberes.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <cb n="93va"/>
+          <p>De tribus generibus lectorum.<lb/>Satis ut puto aperte demonstratum est<lb/>provectis et aliquid amplius de se promittentibus<lb/>non idem esse propositum cum incipientibus.<lb/>Sed sicut illis aliquid licite conceditur, <lb/>quod isti sine culpa minime agere possunt, <lb/>ita eciam ab istis aliquid requiri<lb/>Quo illi nondum obligati sunt.<lb/>Nunc igitur ad promissa solvenda redeo <lb/>ut videlicet ostendam qualiter eis divina scriptura legenda sit,<lb/>qui adhuc in ea solam querunt scientiam.<lb/>Sunt nonnulli qui divine scripture scientiam appetunt, <lb/>ut vel divitias congregent, vel honores obtineant, <lb/>vel famam adquirant, <lb/>quorum intentio quantum perversa, tantum est miseranda<lb/>Sunt rursus alii <lb/>quos audire verba Dei et opera ejus discere delectat, <lb/>non quia salutifera, sed quia mirabilia sunt.<lb/>Scrutari archana et inaudita cognoscere volunt, <lb/>multa scire et nil facere.<lb/>In vanum mirantur potentiam, qui non amant misericordiam. <lb/>Hos ergo quid aliud agere dicam<lb/>quam preconia divina in fabulas commutare ? <lb/>Sic theatralibus ludis, sic scenicis carminibus intedere solemus, <lb/>ut scilicet auditum pascamus, non animum.<lb/>Hujusmodi tamen non tam confundi <lb/>quam adjuvari oportet censeo,<lb/>quorum voluntas non utique maligna est, <lb/>sed improvida.<lb/>Alii vero idcirco sacram scripturam legunt<lb/>ut secundum Apostoli preceptum<lb/>
+            <term n="I Pierre 3, 5" >parati sint omni poscenti reddere rationem <lb/>de ea fide in qua positi sunt</term>, <lb/>ut videlicet inimicos veritatis fortiter destruant, <lb/>minus eruditos doceant, <lb/>ipsi perfectius viam veritatis agnoscant <lb/>et altius Dei secreta intelligentes <lb/>artius ament,<lb/>quorum nimirum devotio laudanda est et imitatione digna.<lb/>Tria igitur sunt genera hominum sacram scripturam legentium<lb/>quorum primi quidem miserandi sunt, <lb/>secundi juvandi, tercii laudandi.<lb/>Nos vero quia omnibus consulere intendimus, <lb/>quod bonum est in omnibus augeri cupimus<lb/>et quod perversum commutari. <lb/>Omnes intelligere volumus quod dicimus, <lb/>omnes facere quod hortamur.<lb/>
+          </p>
+          <cb n="93vb"/>
+          <p>Liber sextus. Quomodo legenda sit scriptura sacra <lb/>querentibus scientiam in ea.<lb/>Duo tibi lector, ordinem scilicet et modum, propono, <lb/>que, si diligenter inspexeris, <lb/>facile tibi iter legendi patebit.<lb/>In horum vero consideratione, <lb/>nec omnia tuo ingenio relinquam, <lb/>neque per meam diligentiam satis tibi fieri promitto, <lb/>sed sic quedam breviter prelibando transcurram<lb/>ut et posita aliqua quibus erudiaris <lb/>et aliqua pretermissa quibus exercearis invenias.<lb/>Ordinem legendi supra quadrifarium esse commemoravi, <lb/>aliud in disciplinis , alium in libris, <lb/>alium in narratione atque alium in expositione, <lb/>Que qualiter in divina scriptura assignanda sint<lb/>nondum ostendi.</p>
+          <p><lb/>De ordine qui est in disciplinis.<lb/>Primum ergo hunc ordinem qui queritur in disciplinis<lb/>inter <term n="une des divisions classiques des différents sens de l’Écriture. L’histoire s’attache au sens littéral, l’allégorie au sens figuré, notamment christologique, et la tropologie au sens moral." >hystoriam, allegoriam, tropologiam</term>,<lb/>divinum lectorem considerare oportet, <lb/>que horum alia ordine legendi precedant, <lb/>in quo illud ad memoriam revocare non inutile est<lb/>quod in edificiis fieri conspicitur, <lb/>ubi primum quidem fundamentum ponitur,<lb/>dehinc fabrica super edificatur, <lb/>ad ultimum consummato opere<lb/>domus colore super ducto vestitur.</p>
+          <p><lb/>De hystoria. Sic nimirum in doctrina fieri oportet<lb/>ut videlicet prius historiam discas<lb/>et rerum gestarum veritatem a principio repetens usque ad finem<lb/>quid gestum sit, quando gestum sit,<lb/>ubi gestum sit, et a quibus gestum sit,<lb/>diligenter memorie commendes.<lb/>Hec enim quatuor precipue in hystoria requirenda sunt :<lb/>persona, negocium, tempus et locus.<lb/>Neque ego te perfecte subtilem posse fieri puto in allegoria,<lb/>nisi prius fundatus fueris in hystoria.<lb/>Noli contempnere minima hec. <lb/>Paulatim defluit qui minima contempnit. <lb/>Si primo alfabetum discere contempsisses, <lb/>nunc inter grammaticos tantum nomen non haberes.<lb/>
+          </p>
+        </div>
+        <div type="translation">
+          <cb n="93va"/>
+          <p>Les trois genres de lecteurs.<lb/>Il a été assez clairement montré, à mon avis,<lb/>que les avancés et ceux qui se promettent davantage d’eux-mêmes<lb/>n’ont pas le même dessein que les commençants.<lb/>Mais de même qu’on concède à ces derniers<lb/>ce que les premiers ne pourraient accomplir sans faute, <lb/>de même il leur est demandé <lb/>ce à quoi les débutants ne sont pas encore tenus.<lb/>J’en viens donc maintenant à tenir mes promesses, <lb/>à savoir montrer comment doivent lire l’Écriture sainte<lb/>ceux qui ne cherchent encore en elle que la science.<lb/>Il y en a qui recherchent la science de l’Écriture sainte<lb/>pour amasser des richesses, obtenir des honneurs, <lb/>ou acquérir une bonne renommée.<lb/>Leur intention est autant à plaindre qu’à blâmer. <lb/>Il y en a d’autres aussi<lb/>qui se plaisent à entendre les paroles de Dieu et à apprendre ses œuvres, <lb/>non parce qu’elles sont salutaires, mais parce qu’elles sont admirables.<lb/>Ils veulent scruter les arcanes et connaître les choses inouïes, <lb/>beaucoup savoir et ne rien faire.<lb/>C’est en vain qu’ils admirent la puissance ceux qui n’aiment pas la miséricorde.<lb/>Que font-ils d’autre, je vous le demande,<lb/>à part changer les louanges divines en fables ?<lb/>C’est ainsi que nous avons l’habitude de nous attacher aux pièces de théâtres et aux poèmes faits pour la scène afin de nous nourrir l’oreille, non l’esprit. <lb/>Je pense cependant qu’il ne faut pas tant réprouver ces hommes <lb/>que les aider,<lb/>puisque leur volonté n’est pas mauvaise, <lb/>mais mal conseillée.<lb/>D’autres, pour leur part, lisent l’Écriture sainte <lb/>afin que, selon le précepte apostolique, <lb/>
+            <term n="I Pierre 3, 5">ils soient prêts à rendre raison à tout homme qui le demande<lb/>de la foi où ils sont établis</term>,<lb/>de sorte qu’ils détruisent avec courage les ennemis de la vérité, <lb/>qu’ils instruisent les moins savants, <lb/>qu’ils connaissent eux-mêmes plus parfaitement le chemin de la vérité<lb/>et que comprenant plus profondément les secrets divins,<lb/>ils les aiment plus étroitement.<lb/>Leur piété est très louable et digne d’imitation.<lb/>Il y a donc trois sortes d’hommes qui lisent l’Écriture sainte : <lb/>Les premiers sont à plaindre, <lb/>les seconds à aider, les troisièmes à louer.<lb/>Quant à nous, parce que nous entendons tous les conseiller, <lb/>nous désirons augmenter en tous le bien qui s’y trouve, <lb/>et y remplacer le mal, <lb/>nous voulons que tous comprennent ce que nous disons, <lb/>que tous accomplissent ce à quoi nous les exhortons.<lb/>
+          </p>
+          <cb n="93vb"/>
+          <p>Livre six. Comment doivent lire l’Écriture sainte<lb/>ceux qui y cherchent la science.<lb/>Je te propose, lecteur, deux choses, à savoir l’ordre et la manière.<lb/>Si tu les observes avec attention, <lb/>le chemin de la lecture s’ouvrira facilement à toi.<lb/>Dans leur examen <lb/>je ne laisserai pas tout à ton talent, <lb/>sans pour autant promettre de te donner satisfaction par mes soins, <lb/>mais je parcourrai certains points en en donnant de brefs avant-goûts, <lb/>de sorte que tu trouves des choses exposées qui t’instruisent <lb/>et d’autres omises qui t’exercent.<lb/>J’ai rappelé plus haut que l’ordre de la lecture était quadruple : <lb/>l’un consiste dans les disciplines, un autre dans les livres, <lb/>un autre dans la narration et un autre dans l’exposition.<lb/>Comment les déterminer dans l’Écriture sainte<lb/>je ne l’ai pas encore montré.</p>
+          <p><lb/>L’ordre dans les disciplines.<lb/>Tout d’abord, il faut donc que le lecteur de la Bible considère <lb/>l’ordre recherché dans les disciplines<lb/>entre <term n="une des divisions classiques des différents sens de l’Écriture. L’histoire s’attache au sens littéral, l’allégorie au sens figuré, notamment christologique, et la tropologie au sens moral." >l’histoire, l’allégorie et la tropologie</term>, <lb/>et quelle est celle qui précède les autres dans l’ordre de la lecture, <lb/>point où il n’est pas inutile de rappeler<lb/>ce qu’on voit faire dans les constructions, <lb/>où tout d’abord l’on pose les fondations, <lb/>avant d’y ajouter le bâtiment, <lb/>pour qu’à la fin, une fois l’ouvrage achevé, <lb/>la maison soit décorée d’une peinture qui y est ajoutée.</p>
+          <p><lb/>Sur l’histoire. Ainsi faut-il vraiment que dans ta formation<lb/>tu apprennes d’abord l’histoire<lb/>et, en répétant le cours véridique des faits du début à la fin, <lb/>tu confies soigneusement à ta mémoire<lb/>ce qui s’est passé, quand cela s’est passé, <lb/>où cela s’est passé et par qui cela a été fait.<lb/>Il y a quatre choses principales à rechercher en histoire : <lb/>la personne, le fait, le temps et le lieu.<lb/>Et je ne pense pas que tu puisses devenir subtil en allégorie, <lb/>si tu n’as pas de bases historiques. <lb/>Ne méprise pas ces petites choses.<lb/>Il tombe insensiblement celui qui méprise les petites choses.<lb/>Si tu avais d’abord méprisé d’apprendre l’alphabet, <lb/>tu n’aurais pas aujourd’hui un si grand nom parmi les grammairiens. <lb/>
+          </p>
+        </div>
+      </div>
+      <div type="paleography">
+        <head>Commentaire paléographique</head>
+        <div>
+          <head>Aspect général</head>
+          <p>L’écriture est une prégothique d’aspect soigné qui présente certains caractères avancés, comme : <list>
+            <item>l’attaque marquée de certaines lettres, notamment dans le haut des jambages de <hi rend="b">n</hi>et <hi rend="b">m</hi>. </item>
+            <item>l’ajout de traits de fuite sur certaines lettres : <hi rend="b">t</hi>, <hi rend="b">d</hi>de forme onciale ou bien sur la queue du <hi rend="b" >p</hi>ou du <hi rend="b">q</hi>. </item>
+          </list>
+          </p>
+          <p>On remarque également la persistance de formes propres à la minuscule caroline, notamment dans le traitement des ligatures -<hi rend="b">ct</hi>ou -<hi rend="b" >st</hi>qui conservent un tracé courbe typique.</p>
+        </div>
+        <div>
+          <head>Formes individuelles remarquables</head>
+          <list>
+            <item><hi rend="b">a</hi>: accentué pour signaler la forme monosyllabique. </item>
+            <item><hi rend="b">r</hi>après un <hi rend="b">o</hi>, prend régulièrement une forme arrondie. </item>
+            <item><hi rend="b">i</hi>: pointé pour le distinguer d’autres jambages dans des mots ambigus comme <hi rend="b">animum</hi>(l. 25a), <hi rend="b" >alii</hi>(l. 28a), <hi rend="b">juvandi</hi>et <hi rend="b">tercii</hi>(l. 38a) ou <hi rend="b">edificiis</hi>(l. 23b). </item>
+            <item><hi rend="b">e</hi>cédillé utilisé de manière correcte, mais non exhaustive, pour signaler la diphtongue <hi rend="b">ae</hi>. </item>
+            <item><hi rend="b">d</hi>présente la forme droite ou onciale. </item>
+            <item><hi rend="b" >s</hi>sous trois formes : une forme capitale qui est attestée le plus souvent à la fin des mots ; droite en ouverture ou à l’intérieur des mots ; surélevée en fin de ligne. </item>
+            <item><hi rend="b">y</hi>pointé, avec un tracé de haut en bas sur le second trait. </item>
+          </list>
+        </div>
+        <div>
+          <head>Abréviations</head>
+          <p>Le système abréviatif, peu développé, présente les formes classiques : tildes pour les nasales et -<hi rend="b">re</hi>; les abréviations sur –<hi rend="b" >p</hi>; lettres suscrites pour les conjonctions ; terminaisons en –<hi rend="b">b(us)</hi>et –<hi rend="b">or(um)</hi>, signes conventionnels pour -<hi rend="b">ur</hi>, -<hi rend="b">us</hi>. La conjonction et est régulièrement remplacée par l’éperluette ou conjonction e+t (<hi rend="b" >"&amp;"</hi>).</p>
+        </div>
+        <div>
+          <head>Structuration</head>
+          <p>La séparation des mots est régulière en dépit d’une tendance à l’agglutination entre les prépositions <hi rend="b">in</hi>ou <hi rend="b" >ad</hi>et les substantifs qu’elles déterminent. La coupe des mots à la fin des lignes est signalée par un tiret.</p>
+          <p>La ponctuation est assurée par trois signes différents : <list>
+            <item>le point situé sur la ligne (<hi rend="i" >punctus</hi>) pour distinguer les propositions apposées ou subordonnées. Suivi d’une majuscule, il signale le début d’une nouvelle phrase. </item>
+            <item>le point virgule pour marquer une ponctuation forte en fin de paragraphe (dernière ligne, col. a). </item>
+            <item>le point d’interrogation (l. 23, col. a). </item>
+          </list>
+          </p>
+          <p>Sur ce feuillet de grande dimension (400 x 280 mm), la mise en page, sur deux colonnes régulières (330 x 90 mm), est scandée par un répertoire décoratif simple : la distinction en livre et paragraphe est annoncé par un titre rubriqué associé à une initiale filigranée de grand module (<hi rend="b">s</hi>: 25 mm de hauteur, <hi rend="b">d</hi>: 35 mm, <hi rend="b">p</hi>: 40 mm, <hi rend="b" >s</hi>: 25 mm). On retrouve ici, comme dans le reste du manuscrit, l’alternance typique à l’époque entre initiale rouge filigranée de bleu et initiale bleue filigranée de rouge. Les lettres onciales sont utilisées pour mettre en valeur le début du livre six et de certains paragraphes.</p>
+          <p>Le copiste a corrigé par cancellation une faute d’inattention (<hi rend="strike" >sed quia salutifera</hi>).</p>
+        </div>
+      </div>
+      <div type="history">
+        <head>Commentaire historique</head>
+        <div>
+          <head>Le Didascalicon, guide des études à Saint-Victor</head>
+          <p>Le <hi rend="i">Didascalicon</hi>constitue le guide des études écrit par <term xml:id="a-note-1" rend="b" >Hugues de Saint-Victor</term>pour les novices de son abbaye. Dans ce manuel, le fondateur intellectuel de Saint-Victor développe un art de bien lire, c’est-à-dire la manière d’étudier aussi bien les textes profanes que bibliques. Le traité a joui d’un immense succès. Le manuscrit ici retenu est un important témoin : il s’agit d’une copie réalisée à Saint-Victor peu de temps après la mort d’Hugues (1141) dans le but de diffuser largement les œuvres du célèbre victorin. Comme le prouve la mise en page soignée du texte et sa qualité philologique, le manuscrit est un exemplaire de référence appelé à servir de modèle pour la diffusion de la pensée d’Hugues.</p>
+          <p rend="notes">
+            <note target="#a-note-1" type="footnote">Né en Saxe à la fin du XI<hi rend="sup" >e</hi>siècle, Hugues entre à Saint-Victor comme chanoine dans les années 1110. Jusqu’à sa mort en février 1141, il fait de l’abbaye un des principaux centres de la « Renaissance du XII<hi rend="sup">e</hi>siècle ». Son œuvre touche à tous les domaines de l’enseignement chrétien, depuis la grammaire jusqu’à la vie spirituelle.</note>
+          </p>
+        </div>
+        <div>
+          <head>Les trois sortes de lecteurs</head>
+          <p>À la fin du livre 5, Hugues définit trois sortes de lecteurs que l’on peut rattacher à des pratiques contemporaines. Il dénonce tout d’abord une utilisation mercantile et mondaine de la Bible. L’accusation n’a rien de théorique, puisque de nombreuses sources contemporaines attestent que le renom dans la science des Écritures était un élément important pour les élections épiscopales ou abbatiales. Le passage est aussi contemporain d’une professionnalisation des théologiens qui n’hésitent parfois pas à utiliser leurs compétences pour faire carrière auprès des puissances séculières.</p>
+          <p>Le maître se montre plus indulgent pour une seconde catégorie de lecteurs qui pratiquent une lecture purement intellectuelle de la Bible sans chercher à la mettre en pratique. Hugues semble viser une lecture ‘humaniste’ ou grammaticale qui traite l’Écriture comme un texte profane hérité de l’Antiquité classique.</p>
+          <p>Enfin, le maître loue une lecture édifiante qui est proposée en exemple aux chanoines victorins. La Bible est lue ici à des fins apologétiques et spirituelles pour l’instruction personnelle et l’édification du prochain. L’idéal ici défini par Hugues rejoint la vocation même du chanoine qui doit concilier la contemplation et l’action apostolique.</p>
+        </div>
+        <div>
+          <head>Hugues de Saint-Victor pédagogue</head>
+          <p>Selon le passage, la pédagogie d’Hugues est marquée par deux traits principaux : <list>
+            <item>l’optimisme : un souci de modération pousse le victorin à n’exclure personne de son enseignement. Le maître ne cherche pas tant à condamner qu’à redresser le mal là où il se trouve pour en tirer un bien. </item>
+            <item>la division : afin de mieux transmettre son enseignement, Hugues divise chaque ensemble théorique en autant de points eux-mêmes détaillés et subdivisés. On peut ainsi représenter sous la forme d’un diagramme la manière dont il procède au début du livre six : <graphic url="diagramme.jpg"/>
+            </item>
+          </list>
+          </p>
+        </div>
+        <div>
+          <head>Pour approfondir</head>
+          <listBibl>
+            <bibl>
+              <author>Lemoine (M.)</author>introd., trad. et notes, <title>Hugues de Saint-Victor l’art de lire – Didascalicon</title>, Paris, 1991. </bibl>
+            <bibl>
+              <author>Poirel (D.)</author>, <title>Hugues de Saint-Victor</title>, Paris, 1998. </bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

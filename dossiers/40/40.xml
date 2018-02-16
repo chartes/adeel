@@ -109,12 +109,12 @@
                         <p>
                             <figure rend="40/faxexternes.jpg">
                                 <figDesc>
-                                    <seg type="circle" rend="67,50,10">Trait (issu de deux points écrits cursivement) signalant l’ouverture de l’acte</seg>
-                                    <seg type="poly" rend="10,144,2,167,13,196,30,193,35,167,27,145" >Tortil de parchemin qui passe dans l&#x2019;acte, et l&#x2019;"attache" à l&#x2019;acte royal visé</seg>
-                                    <seg type="poly" rend="63,138,84,156,87,194,62,219,36,196,38,153">Signet (ici disparu) apposé sur un substrat de cire en croix ; couvrant le tortil, il authentifie l’attache. C’est traditionnellement le signet du plus haut en grade ou ancienneté des auteurs de la lettre</seg>
-                                    <seg type="circle" rend="321,305,20">Parmi les signets des autres auteurs de l’acte requis pour le scellement (ici en tout six parmi tous les gens des comptes et généraux), signet directement plaqué sur le support</seg>
-                                    <seg type="circle" rend="441,306,38">"Signet plaqué sur une croix en cire, censée renforcer l’adhérence au support</seg>
-                                    <seg type="circle" rend="516,292,36">Signature du responsable de la mise par écrit. Comme au bas des actes royaux, cette signature est une mention hors-teneur de nature interne ; elle ne confère aucune authenticité. À terme, dès le XVIe siècle, elle gagnera la qualité de signe de validation</seg>
+                                    <seg rend="67,50,10">Trait (issu de deux points écrits cursivement) signalant l’ouverture de l’acte</seg>
+                                    <seg rend="10,144,2,167,13,196,30,193,35,167,27,145" >Tortil de parchemin qui passe dans l&#x2019;acte, et l&#x2019;"attache" à l&#x2019;acte royal visé</seg>
+                                    <seg rend="63,138,84,156,87,194,62,219,36,196,38,153">Signet (ici disparu) apposé sur un substrat de cire en croix ; couvrant le tortil, il authentifie l’attache. C’est traditionnellement le signet du plus haut en grade ou ancienneté des auteurs de la lettre</seg>
+                                    <seg rend="321,305,20">Parmi les signets des autres auteurs de l’acte requis pour le scellement (ici en tout six parmi tous les gens des comptes et généraux), signet directement plaqué sur le support</seg>
+                                    <seg rend="441,306,38">"Signet plaqué sur une croix en cire, censée renforcer l’adhérence au support</seg>
+                                    <seg rend="516,292,36">Signature du responsable de la mise par écrit. Comme au bas des actes royaux, cette signature est une mention hors-teneur de nature interne ; elle ne confère aucune authenticité. À terme, dès le XVIe siècle, elle gagnera la qualité de signe de validation</seg>
                                 </figDesc>
                             </figure>
                        </p>

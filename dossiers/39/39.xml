@@ -134,13 +134,13 @@
             <p>
               <figure rend="39/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="70,57,41">Initiale grossie et ornée</seg>
+                  <seg rend="70,57,41">Initiale grossie et ornée</seg>
                   <seg type="rect" rend="129,43,147,81">Ornementation discrète de quelques lettres à la première ligne</seg>
                   <seg type="rect" rend="299,35,324,74">Ornementation discrète de quelques lettres à la première ligne.</seg> 
-                  <seg type="circle" rend="663,115,19">Pas de justification du texte à droite ; au besoin, quelques mots sont coupés (sans trait d&#x2019;union)</seg>
-                  <seg type="poly" rend="341,325,351,310,387,300,428,300,460,312,469,327,451,344,411,352,357,343" >Le signe précédant le nom "Ar. Vionni" (dont la graphie est identique à celle du texte, et n&#x2019;a aucune caractéristique de signature) est à peine une ébauche de seing manuel ; il s&#x2019;apparente plutôt aux mentions d&#x2019;attestation ou de prise de responsabilité du rédacteur de l&#x2019;acte, que l&#x2019;on trouve en certaines zones, du genre "Notavi", "Nota Talis", "Ita est"... Il est possible de l&#x2019;interpréter comme la combinaison d&#x2019;un pied de mouche et d&#x2019;un "i" suivi d&#x2019;un signe abréviatif, peut-être pour "Ita [est]"</seg>
-                  <seg type="poly" rend="592,323,605,312,632,309,661,310,687,320,682,332,645,337,606,334" >Groupes de traits et de signes ondulés occupant la fin de la dernière ligne, à effet esthétique et dissuadant les interpolations</seg>
-                  <seg type="poly" rend="120,408,126,392,145,383,171,386,187,401,186,420,164,430,137,429,124,417" >Double queue de parchemin. Le lithographe a très vraisemblablement omis de reproduire, plus vers la droite, la fente par laquelle devait passer l&#x2019;attache, symétrique, du second sceau de l&#x2019;acte</seg>
+                  <seg rend="663,115,19">Pas de justification du texte à droite ; au besoin, quelques mots sont coupés (sans trait d&#x2019;union)</seg>
+                  <seg rend="341,325,351,310,387,300,428,300,460,312,469,327,451,344,411,352,357,343" >Le signe précédant le nom "Ar. Vionni" (dont la graphie est identique à celle du texte, et n&#x2019;a aucune caractéristique de signature) est à peine une ébauche de seing manuel ; il s&#x2019;apparente plutôt aux mentions d&#x2019;attestation ou de prise de responsabilité du rédacteur de l&#x2019;acte, que l&#x2019;on trouve en certaines zones, du genre "Notavi", "Nota Talis", "Ita est"... Il est possible de l&#x2019;interpréter comme la combinaison d&#x2019;un pied de mouche et d&#x2019;un "i" suivi d&#x2019;un signe abréviatif, peut-être pour "Ita [est]"</seg>
+                  <seg rend="592,323,605,312,632,309,661,310,687,320,682,332,645,337,606,334" >Groupes de traits et de signes ondulés occupant la fin de la dernière ligne, à effet esthétique et dissuadant les interpolations</seg>
+                  <seg rend="120,408,126,392,145,383,171,386,187,401,186,420,164,430,137,429,124,417" >Double queue de parchemin. Le lithographe a très vraisemblablement omis de reproduire, plus vers la droite, la fente par laquelle devait passer l&#x2019;attache, symétrique, du second sceau de l&#x2019;acte</seg>
                 </figDesc>
               </figure>
             </p>
