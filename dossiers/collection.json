@@ -1,0 +1,576 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://193.48.42.68/adele/dossiers/collection.json",
+  "@type": "sc:Collection",
+  "label": "Collection des dossiers documentaires Adele" ,
+  "description": "Description of Collection",
+  "attribution": "École nationale des chartes",
+
+  "manifests": [
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man1.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 1"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man10.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 10"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man100.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 100"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man101.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 101"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man102.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 102"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man103.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 103"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man104.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 104"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man105.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 105"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man106.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 106"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man107.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 107"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man108.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 108"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man109.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 109"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man110.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 110"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man111.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 111"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man112.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 112"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man113.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 113"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man114.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 114"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man115.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 115"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man116.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 116"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man117.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 117"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man13.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 13"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man15.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 15"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man16.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 16"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man17.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 17"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man18.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 18"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man19.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 19"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man2.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 2"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man20.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 20"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man22.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 22"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man23.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 23"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man24.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 24"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man25.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 25"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man26.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 26"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man27.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 27"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man28.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 28"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man29.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 29"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man3.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 3"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man30.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 30"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man31.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 31"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man32.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 32"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man33.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 33"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man34.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 34"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man35.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 35"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man36.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 36"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man37.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 37"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man38.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 38"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man39.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 39"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man4.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 4"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man40.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 40"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man41.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 41"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man42.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 42"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man43.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 43"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man44.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 44"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man45.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 45"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man46.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 46"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man47.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 47"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man48.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 48"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man49.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 49"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man5.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 5"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man50.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 50"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man51.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 51"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man52.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 52"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man53.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 53"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man54.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 54"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man55.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 55"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man56.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 56"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man57.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 57"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man58.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 58"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man59.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 59"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man6.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 6"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man60.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 60"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man61.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 61"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man62.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 62"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man63.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 63"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man64.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 64"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man65.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 65"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man66.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 66"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man67.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 67"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man68.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 68"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man69.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 69"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man7.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 7"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man70.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 70"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man71.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 71"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man72.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 72"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man73.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 73"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man74.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 74"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man75.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 75"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man76.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 76"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man77.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 77"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man78.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 78"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man79.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 79"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man8.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 8"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man80.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 80"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man81.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 81"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man82.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 82"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man83.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 83"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man84.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 84"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man85.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 85"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man86.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 86"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man87.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 87"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man88.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 88"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man89.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 89"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man9.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 9"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man90.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 90"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man91.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 91"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man92.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 92"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man93.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 93"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man94.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 94"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man95.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 95"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man96.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 96"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man97.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 97"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man98.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 98"
+    },
+    { 
+       "@id": "http://193.48.42.68/adele/dossiers/manifests/man99.json",
+      "@type": "sc:Manifest",
+      "label" : "Dossier documentaire 99"
+    }
+  ]
+}
