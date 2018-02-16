@@ -25,318 +25,301 @@
     <body>
       <div type="facsimile" rend="fax.jpg">
         <p>
-          <seg rend="39,33,192,62">De s<expan>an</expan>c<expan>t</expan>o Cornelio</seg>
+          <seg rend="39,33,192,62">De s<ex>an</ex>c<ex>t</ex>o Cornelio</seg>
 
-          <seg rend="32,86,301,103">et &#x2019;a<expan>n</expan>u<expan>m</expan>&#x2019;
-              q<expan>uod</expan> e<expan>st</expan> sursu<expan>m</expan> ; v<expan>e</expan>l </seg>
-          <seg rend="31,107,300,126">d<expan>icitur</expan> a &#x2019;cipro&#x2019;
-              q<expan>uod</expan> d<expan>icitur</expan> mesticia v<expan>el</expan>
-            h<expan>er</expan>editas : ip<expan>s</expan>e en<expan>im</expan> h<expan>ab</expan>uit </seg>
-          <seg rend="30,132,304,148">s<expan>upe</expan>rna<expan>m</expan> mixt<expan>ur</expan>am
-              gr<expan>aci</expan>e <expan>et</expan> vi<expan>r</expan>tutu<expan>m</expan>, mesti-</seg>
-          <seg rend="29,156,303,173">-cia<expan>m</expan>
-              p<expan>e</expan>cc<expan>at</expan>or<expan>um</expan>, h<expan>er</expan>editate[m]
-              celestiu<expan>m</expan> gaudior<expan>um</expan>. </seg>
+          <seg rend="32,86,301,103">et &#x2019;a<ex>n</ex>u<ex>m</ex>&#x2019;
+              q<ex>uod</ex> e<ex>st</ex> sursu<ex>m</ex> ; v<ex>e</ex>l </seg>
+          <seg rend="31,107,300,126">d<ex>icitur</ex> a &#x2019;cipro&#x2019;
+              q<ex>uod</ex> d<ex>icitur</ex> mesticia v<ex>el</ex>
+            h<ex>er</ex>editas : ip<ex>s</ex>e en<ex>im</ex> h<ex>ab</ex>uit </seg>
+          <seg rend="30,132,304,148">s<ex>upe</ex>rna<ex>m</ex> mixt<ex>ur</ex>am
+              gr<ex>aci</ex>e <ex>et</ex> vi<ex>r</ex>tutu<ex>m</ex>, mesti-</seg>
+          <seg rend="29,156,303,173">-cia<ex>m</ex>
+              p<ex>e</ex>cc<ex>at</ex>or<ex>um</ex>, h<ex>er</ex>editate[m]
+              celestiu<ex>m</ex> gaudior<ex>um</ex>. </seg>
           <seg rend="64,179,302,194">De Sancto Cornelio</seg>
-          <seg rend="63,204,303,220">Corneli<expan>us</expan> papa successor
-              s<expan>an</expan>c<expan>t</expan>i Fabia-</seg>
-          <seg rend="59,229,298,245">-ni a D<expan>e</expan>cio Cesare c<expan>um</expan> suis
-              cl<expan>er</expan>icis</seg>
-          <seg rend="35,252,302,266">i<expan>n</expan> exilio relegat<expan>us</expan>,
-              i<expan>b</expan>i<expan>que</expan> a s<expan>an</expan>c<expan>t</expan>o
-              Cip<expan>r</expan>iano</seg>
-          <seg rend="35,275,295,291">Carthagine<expan>n</expan>si ep<expan>iscop</expan>o
-              l<expan>itte</expan>ras <expan>con</expan>fortat<expan>i</expan>o-</seg>
-          <seg rend="36,296,298,312">-nis accep<expan>i</expan>t.
-            Ta<expan>n</expan>de<expan>m</expan> de exilio reductus</seg>
-          <seg rend="29,318,296,338">D<expan>e</expan>cio
-              p<expan>re</expan>se<expan>n</expan>tat<expan>ur</expan>, et du<expan>m</expan>
-              i<expan>m</expan>mobil<expan>is</expan> p<expan>er</expan>man<expan>er</expan>-</seg>
-          <seg rend="35,345,293,359">-et, j<expan>us</expan>sit eu<expan>m</expan>
-              D<expan>e</expan>ci<expan>us</expan> plu<expan>m</expan>batis cedi.
-            P<expan>re</expan>-</seg>
-          <seg rend="35,364,290,384">-cep<expan>it</expan>q<expan>ue</expan> ut ad
-              te<expan>m</expan>plu<expan>m</expan> Martis duc<expan>er</expan>et<expan>ur</expan></seg>
-          <seg rend="38,390,300,410">ut i<expan>b</expan>i au<expan>t</expan>
-            sac<expan>r</expan>ificaret au<expan>t</expan>
-              se<expan>n</expan>te<expan>n</expan>cia<expan>m</expan> ca-</seg>
-          <seg rend="29,414,301,431">-pitale<expan>m</expan> s<expan>u</expan>biret. Cu<expan>m</expan>
-            <expan>er</expan>go illuc duc<expan>er</expan>et<expan>ur</expan>,</seg>
-          <seg rend="34,436,301,454">miles q<expan>u</expan>ida<expan>m</expan> rogavit
-            eu<expan>m</expan> ut ad domu<expan>m</expan></seg>
-          <seg rend="33,460,299,475">sua<expan>m</expan> div<expan>er</expan>t<expan>er</expan>et
-              <expan>et</expan> p<expan>ro</expan> uxore sua Salu-</seg>
-          <seg rend="34,482,301,497">-stia, q<expan>ue</expan> p<expan>er</expan> Ve
-            a<expan>n</expan>nos p<expan>ar</expan>alitica jacu<expan>er</expan>at,</seg>
-          <seg rend="35,502,292,522">oraret. Q<expan>u</expan>e c<expan>um</expan> ad
-            ej<expan>us</expan> or<expan>ati</expan>one<expan>m</expan> sanata</seg>
-          <seg rend="37,527,303,540">e<expan>ss</expan>et, XXti Ius milites c<expan>um</expan>
-              ip<expan>s</expan>a <expan>et</expan> d<expan>omi</expan>no su-</seg>
-          <seg rend="32,552,301,565">-o c<expan>re</expan>did<expan>e</expan>r<expan>un</expan>t.
-              Q<expan>u</expan>i o<expan>mne</expan>s, jube<expan>n</expan>te D<expan>e</expan>cio,
-            ad te<expan>m</expan>-</seg>
-          <seg rend="32,576,292,592">plu<expan>m</expan> Martis d<expan>e</expan>ducti
-            <expan>et</expan> i<expan>n</expan> i<expan>llu</expan>d expue<expan>n</expan>-</seg>
-          <seg rend="33,598,296,616">-tes, c<expan>um</expan> s<expan>an</expan>c<expan>t</expan>o
+          <seg rend="63,204,303,220">Corneli<ex>us</ex> papa successor
+              s<ex>an</ex>c<ex>t</ex>i Fabia-</seg>
+          <seg rend="59,229,298,245">-ni a D<ex>e</ex>cio Cesare c<ex>um</ex> suis
+              cl<ex>er</ex>icis</seg>
+          <seg rend="35,252,302,266">i<ex>n</ex> exilio relegat<ex>us</ex>,
+              i<ex>b</ex>i<ex>que</ex> a s<ex>an</ex>c<ex>t</ex>o
+              Cip<ex>r</ex>iano</seg>
+          <seg rend="35,275,295,291">Carthagine<ex>n</ex>si ep<ex>iscop</ex>o
+              l<ex>itte</ex>ras <ex>con</ex>fortat<ex>i</ex>o-</seg>
+          <seg rend="36,296,298,312">-nis accep<ex>i</ex>t.
+            Ta<ex>n</ex>de<ex>m</ex> de exilio reductus</seg>
+          <seg rend="29,318,296,338">D<ex>e</ex>cio
+              p<ex>re</ex>se<ex>n</ex>tat<ex>ur</ex>, et du<ex>m</ex>
+              i<ex>m</ex>mobil<ex>is</ex> p<ex>er</ex>man<ex>er</ex>-</seg>
+          <seg rend="35,345,293,359">-et, j<ex>us</ex>sit eu<ex>m</ex>
+              D<ex>e</ex>ci<ex>us</ex> plu<ex>m</ex>batis cedi.
+            P<ex>re</ex>-</seg>
+          <seg rend="35,364,290,384">-cep<ex>it</ex>q<ex>ue</ex> ut ad
+              te<ex>m</ex>plu<ex>m</ex> Martis duc<ex>er</ex>et<ex>ur</ex></seg>
+          <seg rend="38,390,300,410">ut i<ex>b</ex>i au<ex>t</ex>
+            sac<ex>r</ex>ificaret au<ex>t</ex>
+              se<ex>n</ex>te<ex>n</ex>cia<ex>m</ex> ca-</seg>
+          <seg rend="29,414,301,431">-pitale<ex>m</ex> s<ex>u</ex>biret. Cu<ex>m</ex> <ex>er</ex>go illuc duc<ex>er</ex>et<ex>ur</ex>,</seg>
+          <seg rend="34,436,301,454">miles q<ex>u</ex>ida<ex>m</ex> rogavit
+            eu<ex>m</ex> ut ad domu<ex>m</ex></seg>
+          <seg rend="33,460,299,475">sua<ex>m</ex> div<ex>er</ex>t<ex>er</ex>et <ex>et</ex> p<ex>ro</ex> uxore sua Salu-</seg>
+          <seg rend="34,482,301,497">-stia, q<ex>ue</ex> p<ex>er</ex> Ve
+            a<ex>n</ex>nos p<ex>ar</ex>alitica jacu<ex>er</ex>at,</seg>
+          <seg rend="35,502,292,522">oraret. Q<ex>u</ex>e c<ex>um</ex> ad
+            ej<ex>us</ex> or<ex>ati</ex>one<ex>m</ex> sanata</seg>
+          <seg rend="37,527,303,540">e<ex>ss</ex>et, XXti Ius milites c<ex>um</ex>
+              ip<ex>s</ex>a <ex>et</ex> d<ex>omi</ex>no su-</seg>
+          <seg rend="32,552,301,565">-o c<ex>re</ex>did<ex>e</ex>r<ex>un</ex>t.
+              Q<ex>u</ex>i o<ex>mne</ex>s, jube<ex>n</ex>te D<ex>e</ex>cio,
+            ad te<ex>m</ex>-</seg>
+          <seg rend="32,576,292,592">plu<ex>m</ex> Martis d<ex>e</ex>ducti <ex>et</ex> i<ex>n</ex> i<ex>llu</ex>d expue<ex>n</ex>-</seg>
+          <seg rend="33,598,296,616">-tes, c<ex>um</ex> s<ex>an</ex>c<ex>t</ex>o
             Cornelio martiriszati</seg>
-          <seg rend="36,623,295,639">s<expan>un</expan>t. Pass<expan>us</expan> e<expan>st</expan>
-              a<expan>utem</expan> ci<expan>r</expan>ca annos Do<expan>min</expan>i CCLIII.</seg>
-          <seg rend="35,646,298,663">Cip<expan>r</expan>ian<expan>us</expan> a<expan>utem</expan>
-              Carthagine<expan>n</expan>cis ep<expan>iscopu</expan>s i<expan>n</expan> ea-</seg>
-          <seg rend="35,674,300,692">-de<expan>m</expan> civitate Parcheno p<expan>rocon</expan>suli
-              p<expan>re</expan>-</seg>
-          <seg rend="31,702,298,716">se<expan>n</expan>tat<expan>ur</expan>. Q<expan>u</expan>i
-              c<expan>um</expan> a fid<expan>e</expan> nullaten<expan>us</expan> mu-</seg>
-          <seg rend="31,728,291,742">-tari poss<expan>et</expan>, i<expan>n</expan> exilium
-              mit[t]it<expan>ur</expan>. I<expan>b</expan>id<expan>em</expan>q<expan>ue</expan></seg>
-          <seg rend="35,753,299,765">revocat<expan>us</expan> a Gele<expan>n</expan>sio
-              p<expan>rocon</expan>sule, q<expan>u</expan>i P<expan>ar</expan>-</seg>
-          <seg rend="38,774,300,788">-geno success<expan>er</expan>at,
-            s<expan>e</expan>n<expan>tent</expan>iam capitale<expan>m</expan></seg>
-          <seg rend="34,798,301,812">accep<expan>it</expan>. Q<expan>u</expan>a
-              s<expan>e</expan>n<expan>tenc</expan>ia lata, dix<expan>it</expan>
-              Cip<expan>r</expan>ian<expan>us</expan> :</seg>
-          <seg rend="35,819,297,834">Deo gr<expan>ati</expan>as. Cu<expan>mque</expan> ad
-              luc<expan>um</expan> c<expan>um</expan> spic<expan>u</expan>lato-</seg>
-          <seg rend="36,842,294,859">-re ve<expan>n</expan>iss<expan>et</expan>,
-              p<expan>re</expan>cep<expan>it</expan> suis ut eidem spi-</seg>
-          <seg rend="33,862,299,881">-c<expan>u</expan>latori p<expan>ro</expan>
-              m<expan>er</expan>ced<expan>e</expan> XXV aureos da-</seg>
-          <seg rend="33,887,295,909">-re<expan>n</expan>t.
-            Accipie<expan>n</expan>s<expan>que</expan> l<expan>i</expan>nteum, manu sua</seg>
+          <seg rend="36,623,295,639">s<ex>un</ex>t. Pass<ex>us</ex> e<ex>st</ex>
+              a<ex>utem</ex> ci<ex>r</ex>ca annos Do<ex>min</ex>i CCLIII.</seg>
+          <seg rend="35,646,298,663">Cip<ex>r</ex>ian<ex>us</ex> a<ex>utem</ex>
+              Carthagine<ex>n</ex>cis ep<ex>iscopu</ex>s i<ex>n</ex> ea-</seg>
+          <seg rend="35,674,300,692">-de<ex>m</ex> civitate Parcheno p<ex>rocon</ex>suli
+              p<ex>re</ex>-</seg>
+          <seg rend="31,702,298,716">se<ex>n</ex>tat<ex>ur</ex>. Q<ex>u</ex>i
+              c<ex>um</ex> a fid<ex>e</ex> nullaten<ex>us</ex> mu-</seg>
+          <seg rend="31,728,291,742">-tari poss<ex>et</ex>, i<ex>n</ex> exilium
+              mit[t]it<ex>ur</ex>. I<ex>b</ex>id<ex>em</ex>q<ex>ue</ex></seg>
+          <seg rend="35,753,299,765">revocat<ex>us</ex> a Gele<ex>n</ex>sio
+              p<ex>rocon</ex>sule, q<ex>u</ex>i P<ex>ar</ex>-</seg>
+          <seg rend="38,774,300,788">-geno success<ex>er</ex>at,
+            s<ex>e</ex>n<ex>tent</ex>iam capitale<ex>m</ex></seg>
+          <seg rend="34,798,301,812">accep<ex>it</ex>. Q<ex>u</ex>a
+              s<ex>e</ex>n<ex>tenc</ex>ia lata, dix<ex>it</ex>
+              Cip<ex>r</ex>ian<ex>us</ex> :</seg>
+          <seg rend="35,819,297,834">Deo gr<ex>ati</ex>as. Cu<ex>mque</ex> ad
+              luc<ex>um</ex> c<ex>um</ex> spic<ex>u</ex>lato-</seg>
+          <seg rend="36,842,294,859">-re ve<ex>n</ex>iss<ex>et</ex>,
+              p<ex>re</ex>cep<ex>it</ex> suis ut eidem spi-</seg>
+          <seg rend="33,862,299,881">-c<ex>u</ex>latori p<ex>ro</ex>
+              m<ex>er</ex>ced<ex>e</ex> XXV aureos da-</seg>
+          <seg rend="33,887,295,909">-re<ex>n</ex>t.
+            Accipie<ex>n</ex>s<ex>que</ex> l<ex>i</ex>nteum, manu sua</seg>
 
-          <seg rend="369,30,502,56">De s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia</seg>
+          <seg rend="369,30,502,56">De s<ex>an</ex>c<ex>t</ex>a Eufe<ex>m</ex>ia</seg>
           <seg rend="512,35,614,61">[Foliotation :] CCLVIII</seg>
-          <seg rend="335,88,594,100">occ<expan>u</expan>los texit, et s<expan>i</expan>c
-              corona<expan>m</expan> suscep<expan>i</expan>t, ci<expan>r</expan>ca</seg>
-          <seg rend="334,108,597,125">a<expan>n</expan>nu<expan>m</expan> Do<expan>min</expan>i
-            CCLVI. D<expan>e</expan> s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia.</seg>
-          <seg rend="383,131,606,150">Eufe<expan>m</expan>ia ab &#x2019;hu&#x2019;,
-              q<expan>uod</expan> e<expan>st</expan> bonu<expan>m</expan>, <expan>et</expan>
+          <seg rend="335,88,594,100">occ<ex>u</ex>los texit, et s<ex>i</ex>c
+              corona<ex>m</ex> suscep<ex>i</ex>t, ci<ex>r</ex>ca</seg>
+          <seg rend="334,108,597,125">a<ex>n</ex>nu<ex>m</ex> Do<ex>min</ex>i
+            CCLVI. D<ex>e</ex> s<ex>an</ex>c<ex>t</ex>a Eufe<ex>m</ex>ia.</seg>
+          <seg rend="383,131,606,150">Eufe<ex>m</ex>ia ab &#x2019;hu&#x2019;,
+              q<ex>uod</ex> e<ex>st</ex> bonu<ex>m</ex>, <ex>et</ex>
             &#x2019;femina&#x2019;,</seg>
-          <seg rend="371,157,596,170">quasi bona fe<expan>m</expan>i<expan>n</expan>a,
-            i<expan>dest</expan> util<expan>is</expan>, honesta et</seg>
-          <seg rend="340,180,607,194">d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan>,
-              q<expan>uia</expan> h<expan>oc</expan> triplici m<expan>od</expan>o
-            d<expan>icitu</expan>r bonu<expan>m</expan>. Fu<expan>i</expan>t</seg>
-          <seg rend="339,205,596,217"><expan>e</expan>ni<expan>m</expan> util<expan>is</expan> aliis
-              p<expan>er</expan>
-            <expan>con</expan>v<expan>er</expan>sat<expan>i</expan>one<expan>m</expan>, hones-</seg>
-          <seg rend="336,232,607,243">-ta s<expan>cilicet</expan> p<expan>er</expan> mor<expan>um</expan>
-            <expan>com</expan>po<expan>sitione</expan>m,
-              d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan> D<expan>e</expan>o
-              p<expan>er</expan> ce- </seg>
-          <seg rend="334,254,594,264">-leste<expan>m</expan>
-            <expan>con</expan>te<expan>m</expan>plat<expan>i</expan>one<expan>m</expan>.
-            V<expan>e</expan>l Eufe<expan>m</expan>ia d<expan>icitu</expan>r</seg>
-          <seg rend="344,277,607,292">q<expan>u</expan>a<expan>s</expan>i 'eufonia',
-            q<expan>uod</expan> e<expan>st</expan> suavis sonoritas.</seg>
-          <seg rend="336,303,603,315">Suavis a<expan>utem</expan> son<expan>us</expan> fit
-              t<expan>r</expan>ib<expan>us</expan> modis, s<expan>cilicet</expan> vo-</seg>
-          <seg rend="338,326,603,339">-ce ut i<expan>n</expan> ca<expan>n</expan>tu, pulsu ut
-              i<expan>n</expan> cythara, f-</seg>
-          <seg rend="336,348,591,361">-latu ut i<expan>n</expan> organo. Sic b<expan>eat</expan>a
-              Eufe<expan>m</expan>ia</seg>
-          <seg rend="336,371,603,383">fec<expan>it</expan> D<expan>e</expan>o dulce<expan>m</expan>
-              sonu<expan>m</expan> c<expan>um</expan> voce p<expan>re</expan>dica-</seg>
-          <seg rend="343,397,597,406">-t<expan>i</expan>o<expan>n</expan>is, c<expan>um</expan>
-            pulsu bone op<expan>er</expan>at<expan>i</expan>o<expan>n</expan>is <expan>et</expan>
-              cu<expan>m</expan></seg>
-          <seg rend="339,415,581,428">flatu d<expan>e</expan>vot<expan>i</expan>o<expan>n</expan>is.
-              D<expan>e</expan> s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia.</seg>
-          <seg rend="386,438,598,451">Eufe<expan>m</expan>ia, filia senatoris, vide<expan>n</expan>s
-              C<expan>hrist</expan>i-</seg>
-          <seg rend="368,461,596,473">-anos t<expan>em</expan>p<expan>o</expan>r<expan>e</expan>
-            Dyocletiani ta<expan>m</expan> div<expan>er</expan>-</seg>
-          <seg rend="338,481,600,499">-sis suppliciis laniari, ad judice<expan>m</expan>
-            p<expan>ro</expan>-</seg>
-          <seg rend="339,504,597,520">-p<expan>er</expan>av<expan>i</expan>t <expan>et</expan>,
-              Ch<expan>ristu</expan>m publice confite<expan>n</expan>s, ex<expan>empl</expan>o sue</seg>
-          <seg rend="337,530,604,543"><expan>con</expan>sta<expan>n</expan>cie
-            viror<expan>um</expan> a<expan>n</expan>i<expan>m</expan>os
-            <expan>con</expan>fort[a]bat.</seg>
-          <seg rend="340,554,590,568">Cu<expan>m</expan> ig<expan>itur</expan> judex
-            Ch<expan>rist</expan>ianos successive</seg>
-          <seg rend="336,579,597,591">occid<expan>e</expan>ret, alios
-            p<expan>re</expan>se<expan>n</expan>tes e<expan>ss</expan>e jubeb-</seg>
-          <seg rend="340,601,605,616">-at, ut salte<expan>m</expan> t<expan>er</expan>[r]iti
-              i<expan>m</expan>molare<expan>n</expan>t, du<expan>m</expan> ci<expan>rcum</expan>-</seg>
-          <seg rend="339,623,595,638">-sta<expan>n</expan>tes ta<expan>m</expan>
-              c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> la<expan>n</expan>iari
-              vid<expan>e</expan>re<expan>n</expan>t.</seg>
-          <seg rend="336,646,596,663">Cu<expan>m</expan> a<expan>utem</expan> cora<expan>m</expan>
-              Eufe<expan>m</expan>ia s<expan>an</expan>c<expan>t</expan>os
-              c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> de-</seg>
-          <seg rend="340,674,602,689">-tru<expan>n</expan>caret, ip<expan>s</expan>a, eor<expan>um</expan>
-            <expan>con</expan>sta<expan>n</expan>cia<expan>m</expan>
-            a<expan>m</expan>pli<expan>us</expan> p<expan>ro</expan>-</seg>
-          <seg rend="340,703,597,713">-vocata, i<expan>n</expan>juriam se pati a judice</seg>
-          <seg rend="340,725,603,739">clamabat. T<expan>un</expan>c judex gavis<expan>us</expan>
-              e<expan>st</expan>, pu-</seg>
-          <seg rend="337,750,605,766">-ta<expan>n</expan>s ea<expan>m</expan> velle
-            sac<expan>r</expan>ificiis <expan>con</expan>se<expan>n</expan>tire. U<expan>n</expan>-</seg>
-          <seg rend="337,773,602,789">-d<expan>e</expan> c<expan>um</expan> ab ea
-              q<expan>u</expan>a<expan>m</expan> i<expan>n</expan>juria<expan>m</expan>
-            fac<expan>er</expan>et req<expan>u</expan>isi-</seg>
-          <seg rend="338,797,603,810">-ss<expan>et</expan>, illa ait : "Cu<expan>m</expan>
-              si<expan>m</expan> g<expan>e</expan>n<expan>er</expan>e nobil<expan>is</expan>,
-              c<expan>ur</expan> m<expan>ih</expan>i </seg>
-          <seg rend="338,818,593,831">ignotos an<expan>te</expan>po<expan>n</expan>is et
-            p<expan>r</expan>iores facis</seg>
-          <seg rend="342,842,605,855">ad Ch<expan>ristu</expan>m
-              p<expan>er</expan>ti<expan>n</expan>g<expan>er</expan>e <expan>et</expan> ad
-              p<expan>ro</expan>missa gaudi-</seg>
-          <seg rend="339,867,606,879">-a p<expan>er</expan>ve<expan>n</expan>ire ?" Cui judex :
+          <seg rend="371,157,596,170">quasi bona fe<ex>m</ex>i<ex>n</ex>a,
+            i<ex>dest</ex> util<ex>is</ex>, honesta et</seg>
+          <seg rend="340,180,607,194">d<ex>e</ex>l<ex>e</ex>ctabil<ex>is</ex>,
+              q<ex>uia</ex> h<ex>oc</ex> triplici m<ex>od</ex>o
+            d<ex>icitu</ex>r bonu<ex>m</ex>. Fu<ex>i</ex>t</seg>
+          <seg rend="339,205,596,217"><ex>e</ex>ni<ex>m</ex> util<ex>is</ex> aliis
+              p<ex>er</ex> <ex>con</ex>v<ex>er</ex>sat<ex>i</ex>one<ex>m</ex>, hones-</seg>
+          <seg rend="336,232,607,243">-ta s<ex>cilicet</ex> p<ex>er</ex> mor<ex>um</ex> <ex>com</ex>po<ex>sitione</ex>m,
+              d<ex>e</ex>l<ex>e</ex>ctabil<ex>is</ex> D<ex>e</ex>o
+              p<ex>er</ex> ce- </seg>
+          <seg rend="334,254,594,264">-leste<ex>m</ex> <ex>con</ex>te<ex>m</ex>plat<ex>i</ex>one<ex>m</ex>.
+            V<ex>e</ex>l Eufe<ex>m</ex>ia d<ex>icitu</ex>r</seg>
+          <seg rend="344,277,607,292">q<ex>u</ex>a<ex>s</ex>i 'eufonia',
+            q<ex>uod</ex> e<ex>st</ex> suavis sonoritas.</seg>
+          <seg rend="336,303,603,315">Suavis a<ex>utem</ex> son<ex>us</ex> fit
+              t<ex>r</ex>ib<ex>us</ex> modis, s<ex>cilicet</ex> vo-</seg>
+          <seg rend="338,326,603,339">-ce ut i<ex>n</ex> ca<ex>n</ex>tu, pulsu ut
+              i<ex>n</ex> cythara, f-</seg>
+          <seg rend="336,348,591,361">-latu ut i<ex>n</ex> organo. Sic b<ex>eat</ex>a
+              Eufe<ex>m</ex>ia</seg>
+          <seg rend="336,371,603,383">fec<ex>it</ex> D<ex>e</ex>o dulce<ex>m</ex>
+              sonu<ex>m</ex> c<ex>um</ex> voce p<ex>re</ex>dica-</seg>
+          <seg rend="343,397,597,406">-t<ex>i</ex>o<ex>n</ex>is, c<ex>um</ex>
+            pulsu bone op<ex>er</ex>at<ex>i</ex>o<ex>n</ex>is <ex>et</ex>
+              cu<ex>m</ex></seg>
+          <seg rend="339,415,581,428">flatu d<ex>e</ex>vot<ex>i</ex>o<ex>n</ex>is.
+              D<ex>e</ex> s<ex>an</ex>c<ex>t</ex>a Eufe<ex>m</ex>ia.</seg>
+          <seg rend="386,438,598,451">Eufe<ex>m</ex>ia, filia senatoris, vide<ex>n</ex>s
+              C<ex>hrist</ex>i-</seg>
+          <seg rend="368,461,596,473">-anos t<ex>em</ex>p<ex>o</ex>r<ex>e</ex>
+            Dyocletiani ta<ex>m</ex> div<ex>er</ex>-</seg>
+          <seg rend="338,481,600,499">-sis suppliciis laniari, ad judice<ex>m</ex>
+            p<ex>ro</ex>-</seg>
+          <seg rend="339,504,597,520">-p<ex>er</ex>av<ex>i</ex>t <ex>et</ex>,
+              Ch<ex>ristu</ex>m publice confite<ex>n</ex>s, ex<ex>empl</ex>o sue</seg>
+          <seg rend="337,530,604,543"><ex>con</ex>sta<ex>n</ex>cie
+            viror<ex>um</ex> a<ex>n</ex>i<ex>m</ex>os <ex>con</ex>fort[a]bat.</seg>
+          <seg rend="340,554,590,568">Cu<ex>m</ex> ig<ex>itur</ex> judex
+            Ch<ex>rist</ex>ianos successive</seg>
+          <seg rend="336,579,597,591">occid<ex>e</ex>ret, alios
+            p<ex>re</ex>se<ex>n</ex>tes e<ex>ss</ex>e jubeb-</seg>
+          <seg rend="340,601,605,616">-at, ut salte<ex>m</ex> t<ex>er</ex>[r]iti
+              i<ex>m</ex>molare<ex>n</ex>t, du<ex>m</ex> ci<ex>rcum</ex>-</seg>
+          <seg rend="339,623,595,638">-sta<ex>n</ex>tes ta<ex>m</ex>
+              c<ex>r</ex>ud<ex>e</ex>lit<ex>er</ex> la<ex>n</ex>iari
+              vid<ex>e</ex>re<ex>n</ex>t.</seg>
+          <seg rend="336,646,596,663">Cu<ex>m</ex> a<ex>utem</ex> cora<ex>m</ex>
+              Eufe<ex>m</ex>ia s<ex>an</ex>c<ex>t</ex>os
+              c<ex>r</ex>ud<ex>e</ex>lit<ex>er</ex> de-</seg>
+          <seg rend="340,674,602,689">-tru<ex>n</ex>caret, ip<ex>s</ex>a, eor<ex>um</ex> <ex>con</ex>sta<ex>n</ex>cia<ex>m</ex>
+            a<ex>m</ex>pli<ex>us</ex> p<ex>ro</ex>-</seg>
+          <seg rend="340,703,597,713">-vocata, i<ex>n</ex>juriam se pati a judice</seg>
+          <seg rend="340,725,603,739">clamabat. T<ex>un</ex>c judex gavis<ex>us</ex>
+              e<ex>st</ex>, pu-</seg>
+          <seg rend="337,750,605,766">-ta<ex>n</ex>s ea<ex>m</ex> velle
+            sac<ex>r</ex>ificiis <ex>con</ex>se<ex>n</ex>tire. U<ex>n</ex>-</seg>
+          <seg rend="337,773,602,789">-d<ex>e</ex> c<ex>um</ex> ab ea
+              q<ex>u</ex>a<ex>m</ex> i<ex>n</ex>juria<ex>m</ex>
+            fac<ex>er</ex>et req<ex>u</ex>isi-</seg>
+          <seg rend="338,797,603,810">-ss<ex>et</ex>, illa ait : "Cu<ex>m</ex>
+              si<ex>m</ex> g<ex>e</ex>n<ex>er</ex>e nobil<ex>is</ex>,
+              c<ex>ur</ex> m<ex>ih</ex>i </seg>
+          <seg rend="338,818,593,831">ignotos an<ex>te</ex>po<ex>n</ex>is et
+            p<ex>r</ex>iores facis</seg>
+          <seg rend="342,842,605,855">ad Ch<ex>ristu</ex>m
+              p<ex>er</ex>ti<ex>n</ex>g<ex>er</ex>e <ex>et</ex> ad
+              p<ex>ro</ex>missa gaudi-</seg>
+          <seg rend="339,867,606,879">-a p<ex>er</ex>ve<ex>n</ex>ire ?" Cui judex :
             "Putabam</seg>
-          <seg rend="338,892,605,904">te ad me<expan>n</expan>te<expan>m</expan> te redisse et
+          <seg rend="338,892,605,904">te ad me<ex>n</ex>te<ex>m</ex> te redisse et
             gaude-[bam..."].</seg>
-        </p>
+       </p>
       </div>
       <div type="transcription">
         <div type="texte">
           <l/>
           <l>[PREMIÈRE COLONNE]</l>
-          <l>[...] et 'a<expan>n</expan>u<expan>m</expan>' q<expan>uod</expan> e<expan>st</expan>
-              sursu<expan>m</expan> ; v<expan>e</expan>l d<expan>icitur</expan> a 'cipro'
-              q<expan>uod</expan> d<expan>icitur</expan> mesticia </l>
-          <l>v<expan>el</expan> h<expan>er</expan>editas : ip<expan>s</expan>e en<expan>im</expan>
-              h<expan>ab</expan>uit s<expan>upe</expan>rna<expan>m</expan> mixt<expan>ur</expan>am
-              gr<expan>aci</expan>e <expan>et</expan> vi<expan>r</expan>tutu<expan>m</expan>,
-              mesticia<expan>m</expan></l>
-          <l>p<expan>e</expan>cc<expan>at</expan>or<expan>um</expan>, h<expan>er</expan>editate[m]
-              celestiu<expan>m</expan>
+          <l>[...] et 'a<ex>n</ex>u<ex>m</ex>' q<ex>uod</ex> e<ex>st</ex>
+              sursu<ex>m</ex> ; v<ex>e</ex>l d<ex>icitur</ex> a 'cipro'
+              q<ex>uod</ex> d<ex>icitur</ex> mesticia </l>
+          <l>v<ex>el</ex> h<ex>er</ex>editas : ip<ex>s</ex>e en<ex>im</ex>
+              h<ex>ab</ex>uit s<ex>upe</ex>rna<ex>m</ex> mixt<ex>ur</ex>am
+              gr<ex>aci</ex>e <ex>et</ex> vi<ex>r</ex>tutu<ex>m</ex>,
+              mesticia<ex>m</ex></l>
+          <l>p<ex>e</ex>cc<ex>at</ex>or<ex>um</ex>, h<ex>er</ex>editate[m]
+              celestiu<ex>m</ex>
           </l>
-          <l>gaudior<expan>um</expan>. </l>
+          <l>gaudior<ex>um</ex>. </l>
           <l>[Rubrique :] De Sancto Cornelio.</l>
-          <l>Corneli<expan>us</expan> papa successor s<expan>an</expan>c<expan>t</expan>i Fabia-</l>
-          <l>-ni a D<expan>e</expan>cio Cesare c<expan>um</expan> suis cl<expan>er</expan>icis</l>
-          <l>i<expan>n</expan> exilio relegat<expan>us</expan>, i<expan>b</expan>i<expan>que</expan>
-            a s<expan>an</expan>c<expan>t</expan>o Cip<expan>r</expan>iano</l>
-          <l>Carthagine<expan>n</expan>si ep<expan>iscop</expan>o l<expan>itte</expan>ras
-              <expan>con</expan>fortat<expan>i</expan>o-</l>
-          <l>-nis accep<expan>i</expan>t. Ta<expan>n</expan>de<expan>m</expan> de exilio reductus</l>
-          <l>D<expan>e</expan>cio p<expan>re</expan>se<expan>n</expan>tat<expan>ur</expan>, et
-              du<expan>m</expan> i<expan>m</expan>mobil<expan>is</expan>
-              p<expan>er</expan>man<expan>er</expan>-</l>
-          <l>-et, j<expan>us</expan>sit eu<expan>m</expan> D<expan>e</expan>ci<expan>us</expan>
-              plu<expan>m</expan>batis cedi. P<expan>re</expan>-</l>
-          <l>-cep<expan>it</expan>q<expan>ue</expan> ut ad te<expan>m</expan>plu<expan>m</expan>
-            Martis duc<expan>er</expan>et<expan>ur</expan></l>
-          <l>ut i<expan>b</expan>i au<expan>t</expan> sac<expan>r</expan>ificaret au<expan>t</expan>
-              se<expan>n</expan>te<expan>n</expan>cia<expan>m</expan> ca-</l>
-          <l>-pitale<expan>m</expan> s<expan>u</expan>biret. Cu<expan>m</expan>
-            <expan>er</expan>go illuc duc<expan>er</expan>et<expan>ur</expan>,</l>
-          <l>miles q<expan>u</expan>ida<expan>m</expan> rogavit eu<expan>m</expan> ut ad
-              domu<expan>m</expan></l>
-          <l>sua<expan>m</expan> div<expan>er</expan>t<expan>er</expan>et <expan>et</expan>
-              p<expan>ro</expan> uxore sua Salu-</l>
-          <l>-stia, q<expan>ue</expan> p<expan>er</expan> Ve a<expan>n</expan>nos
-            p<expan>ar</expan>alitica jacu<expan>er</expan>at,</l>
-          <l>oraret. Q<expan>u</expan>e c<expan>um</expan> ad ej<expan>us</expan>
-              or<expan>ati</expan>one<expan>m</expan> sanata</l>
-          <l>e<expan>ss</expan>et, XXti Ius milites c<expan>um</expan> ip<expan>s</expan>a
-            <expan>et</expan> d<expan>omi</expan>no su-</l>
-          <l>-o c<expan>re</expan>did<expan>e</expan>r<expan>un</expan>t. Q<expan>u</expan>i
-              o<expan>mne</expan>s, jube<expan>n</expan>te D<expan>e</expan>cio, ad
-            te<expan>m</expan>-</l>
-          <l>plu<expan>m</expan> Martis d<expan>e</expan>ducti <expan>et</expan> i<expan>n</expan>
-              i<expan>llu</expan>d expue<expan>n</expan>-</l>
-          <l>-tes, c<expan>um</expan> s<expan>an</expan>c<expan>t</expan>o Cornelio martiriszati</l>
-          <l>s<expan>un</expan>t. Pass<expan>us</expan> e<expan>st</expan> a<expan>utem</expan>
-              ci<expan>r</expan>ca annos Do<expan>min</expan>i CCLIII.</l>
-          <l>Cip<expan>r</expan>ian<expan>us</expan> a<expan>utem</expan>
-            Carthagine<expan>n</expan>cis ep<expan>iscopu</expan>s i<expan>n</expan> ea-</l>
-          <l>-de<expan>m</expan> civitate Parcheno p<expan>rocon</expan>suli p<expan>re</expan>-</l>
-          <l>se<expan>n</expan>tat<expan>ur</expan>. Q<expan>u</expan>i c<expan>um</expan> a
-              fid<expan>e</expan> nullaten<expan>us</expan> mu-</l>
-          <l>-tari poss<expan>et</expan>, i<expan>n</expan> exilium mit[t]it<expan>ur</expan>.
-              I<expan>b</expan>id<expan>em</expan>q<expan>ue</expan></l>
-          <l>revocat<expan>us</expan> a Gele<expan>n</expan>sio p<expan>rocon</expan>sule,
-            q<expan>u</expan>i P<expan>ar</expan>-</l>
-          <l>-geno success<expan>er</expan>at, s<expan>e</expan>n<expan>tent</expan>iam
-              capitale<expan>m</expan></l>
-          <l>accep<expan>it</expan>. Q<expan>u</expan>a s<expan>e</expan>n<expan>tenc</expan>ia
-            lata, dix<expan>it</expan> Cip<expan>r</expan>ian<expan>us</expan> :</l>
-          <l>Deo gr<expan>ati</expan>as. Cu<expan>mque</expan> ad luc<expan>um</expan>
-            c<expan>um</expan> spic<expan>u</expan>lato-</l>
-          <l>-re ve<expan>n</expan>iss<expan>et</expan>, p<expan>re</expan>cep<expan>it</expan> suis
+          <l>Corneli<ex>us</ex> papa successor s<ex>an</ex>c<ex>t</ex>i Fabia-</l>
+          <l>-ni a D<ex>e</ex>cio Cesare c<ex>um</ex> suis cl<ex>er</ex>icis</l>
+          <l>i<ex>n</ex> exilio relegat<ex>us</ex>, i<ex>b</ex>i<ex>que</ex>
+            a s<ex>an</ex>c<ex>t</ex>o Cip<ex>r</ex>iano</l>
+          <l>Carthagine<ex>n</ex>si ep<ex>iscop</ex>o l<ex>itte</ex>ras <ex>con</ex>fortat<ex>i</ex>o-</l>
+          <l>-nis accep<ex>i</ex>t. Ta<ex>n</ex>de<ex>m</ex> de exilio reductus</l>
+          <l>D<ex>e</ex>cio p<ex>re</ex>se<ex>n</ex>tat<ex>ur</ex>, et
+              du<ex>m</ex> i<ex>m</ex>mobil<ex>is</ex>
+              p<ex>er</ex>man<ex>er</ex>-</l>
+          <l>-et, j<ex>us</ex>sit eu<ex>m</ex> D<ex>e</ex>ci<ex>us</ex>
+              plu<ex>m</ex>batis cedi. P<ex>re</ex>-</l>
+          <l>-cep<ex>it</ex>q<ex>ue</ex> ut ad te<ex>m</ex>plu<ex>m</ex>
+            Martis duc<ex>er</ex>et<ex>ur</ex></l>
+          <l>ut i<ex>b</ex>i au<ex>t</ex> sac<ex>r</ex>ificaret au<ex>t</ex>
+              se<ex>n</ex>te<ex>n</ex>cia<ex>m</ex> ca-</l>
+          <l>-pitale<ex>m</ex> s<ex>u</ex>biret. Cu<ex>m</ex> <ex>er</ex>go illuc duc<ex>er</ex>et<ex>ur</ex>,</l>
+          <l>miles q<ex>u</ex>ida<ex>m</ex> rogavit eu<ex>m</ex> ut ad
+              domu<ex>m</ex></l>
+          <l>sua<ex>m</ex> div<ex>er</ex>t<ex>er</ex>et <ex>et</ex>
+              p<ex>ro</ex> uxore sua Salu-</l>
+          <l>-stia, q<ex>ue</ex> p<ex>er</ex> Ve a<ex>n</ex>nos
+            p<ex>ar</ex>alitica jacu<ex>er</ex>at,</l>
+          <l>oraret. Q<ex>u</ex>e c<ex>um</ex> ad ej<ex>us</ex>
+              or<ex>ati</ex>one<ex>m</ex> sanata</l>
+          <l>e<ex>ss</ex>et, XXti Ius milites c<ex>um</ex> ip<ex>s</ex>a <ex>et</ex> d<ex>omi</ex>no su-</l>
+          <l>-o c<ex>re</ex>did<ex>e</ex>r<ex>un</ex>t. Q<ex>u</ex>i
+              o<ex>mne</ex>s, jube<ex>n</ex>te D<ex>e</ex>cio, ad
+            te<ex>m</ex>-</l>
+          <l>plu<ex>m</ex> Martis d<ex>e</ex>ducti <ex>et</ex> i<ex>n</ex>
+              i<ex>llu</ex>d expue<ex>n</ex>-</l>
+          <l>-tes, c<ex>um</ex> s<ex>an</ex>c<ex>t</ex>o Cornelio martiriszati</l>
+          <l>s<ex>un</ex>t. Pass<ex>us</ex> e<ex>st</ex> a<ex>utem</ex>
+              ci<ex>r</ex>ca annos Do<ex>min</ex>i CCLIII.</l>
+          <l>Cip<ex>r</ex>ian<ex>us</ex> a<ex>utem</ex>
+            Carthagine<ex>n</ex>cis ep<ex>iscopu</ex>s i<ex>n</ex> ea-</l>
+          <l>-de<ex>m</ex> civitate Parcheno p<ex>rocon</ex>suli p<ex>re</ex>-</l>
+          <l>se<ex>n</ex>tat<ex>ur</ex>. Q<ex>u</ex>i c<ex>um</ex> a
+              fid<ex>e</ex> nullaten<ex>us</ex> mu-</l>
+          <l>-tari poss<ex>et</ex>, i<ex>n</ex> exilium mit[t]it<ex>ur</ex>.
+              I<ex>b</ex>id<ex>em</ex>q<ex>ue</ex></l>
+          <l>revocat<ex>us</ex> a Gele<ex>n</ex>sio p<ex>rocon</ex>sule,
+            q<ex>u</ex>i P<ex>ar</ex>-</l>
+          <l>-geno success<ex>er</ex>at, s<ex>e</ex>n<ex>tent</ex>iam
+              capitale<ex>m</ex></l>
+          <l>accep<ex>it</ex>. Q<ex>u</ex>a s<ex>e</ex>n<ex>tenc</ex>ia
+            lata, dix<ex>it</ex> Cip<ex>r</ex>ian<ex>us</ex> :</l>
+          <l>Deo gr<ex>ati</ex>as. Cu<ex>mque</ex> ad luc<ex>um</ex>
+            c<ex>um</ex> spic<ex>u</ex>lato-</l>
+          <l>-re ve<ex>n</ex>iss<ex>et</ex>, p<ex>re</ex>cep<ex>it</ex> suis
             ut eidem spi-</l>
-          <l>-c<expan>u</expan>latori p<expan>ro</expan> m<expan>er</expan>ced<expan>e</expan> XXV
+          <l>-c<ex>u</ex>latori p<ex>ro</ex> m<ex>er</ex>ced<ex>e</ex> XXV
             aureos da-</l>
-          <l>-re<expan>n</expan>t. Accipie<expan>n</expan>s<expan>que</expan>
-            l<expan>i</expan>nteum, manu sua</l>
+          <l>-re<ex>n</ex>t. Accipie<ex>n</ex>s<ex>que</ex>
+            l<ex>i</ex>nteum, manu sua</l>
           <l/>
           <l>[SECONDE COLONNE]</l>
-          <l>occ<expan>u</expan>los texit, et s<expan>i</expan>c corona<expan>m</expan>
-              suscep<expan>i</expan>t, ci<expan>r</expan>ca</l>
-          <l>a<expan>n</expan>nu<expan>m</expan> Do<expan>min</expan>i CCLVI. </l>
+          <l>occ<ex>u</ex>los texit, et s<ex>i</ex>c corona<ex>m</ex>
+              suscep<ex>i</ex>t, ci<ex>r</ex>ca</l>
+          <l>a<ex>n</ex>nu<ex>m</ex> Do<ex>min</ex>i CCLVI. </l>
           <l>[Rubrique :] De sancta Eufemia.</l>
-          <l>Eufe<expan>m</expan>ia ab 'hu', q<expan>uod</expan> e<expan>st</expan>
-            bonu<expan>m</expan>, <expan>et</expan> 'femina',</l>
-          <l>quasi bona fe<expan>m</expan>i<expan>n</expan>a, i<expan>dest</expan>
-            util<expan>is</expan>, honesta et</l>
-          <l>d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan>, q<expan>uia</expan>
-              h<expan>oc</expan> triplici m<expan>od</expan>o d<expan>icitu</expan>r
-            bonu<expan>m</expan>. Fu<expan>i</expan>t</l>
-          <l><expan>e</expan>ni<expan>m</expan> util<expan>is</expan> aliis p<expan>er</expan>
-            <expan>con</expan>v<expan>er</expan>sat<expan>i</expan>one<expan>m</expan>, honesta </l>
-          <l>s<expan>cilicet</expan> p<expan>er</expan> mor<expan>um</expan>
-            <expan>com</expan>po<expan>sitione</expan>m,
-              d<expan>e</expan>l<expan>e</expan>ctabil<expan>is</expan> D<expan>e</expan>o </l>
-          <l>p<expan>er</expan> celeste<expan>m</expan>
-            <expan>con</expan>te<expan>m</expan>plat<expan>i</expan>one<expan>m</expan>.
-            V<expan>e</expan>l Eufe<expan>m</expan>ia d<expan>icitu</expan>r</l>
-          <l>q<expan>u</expan>a<expan>s</expan>i 'eufonia', q<expan>uod</expan> e<expan>st</expan>
+          <l>Eufe<ex>m</ex>ia ab 'hu', q<ex>uod</ex> e<ex>st</ex>
+            bonu<ex>m</ex>, <ex>et</ex> 'femina',</l>
+          <l>quasi bona fe<ex>m</ex>i<ex>n</ex>a, i<ex>dest</ex>
+            util<ex>is</ex>, honesta et</l>
+          <l>d<ex>e</ex>l<ex>e</ex>ctabil<ex>is</ex>, q<ex>uia</ex>
+              h<ex>oc</ex> triplici m<ex>od</ex>o d<ex>icitu</ex>r
+            bonu<ex>m</ex>. Fu<ex>i</ex>t</l>
+          <l><ex>e</ex>ni<ex>m</ex> util<ex>is</ex> aliis p<ex>er</ex> <ex>con</ex>v<ex>er</ex>sat<ex>i</ex>one<ex>m</ex>, honesta </l>
+          <l>s<ex>cilicet</ex> p<ex>er</ex> mor<ex>um</ex> <ex>com</ex>po<ex>sitione</ex>m,
+              d<ex>e</ex>l<ex>e</ex>ctabil<ex>is</ex> D<ex>e</ex>o </l>
+          <l>p<ex>er</ex> celeste<ex>m</ex> <ex>con</ex>te<ex>m</ex>plat<ex>i</ex>one<ex>m</ex>.
+            V<ex>e</ex>l Eufe<ex>m</ex>ia d<ex>icitu</ex>r</l>
+          <l>q<ex>u</ex>a<ex>s</ex>i 'eufonia', q<ex>uod</ex> e<ex>st</ex>
             suavis sonoritas.</l>
-          <l>Suavis a<expan>utem</expan> son<expan>us</expan> fit
-            t<expan>r</expan>ib<expan>us</expan> modis, s<expan>cilicet</expan> vo-</l>
-          <l>-ce ut i<expan>n</expan> ca<expan>n</expan>tu, pulsu ut i<expan>n</expan> cythara, f-</l>
-          <l>-latu ut i<expan>n</expan> organo. Sic b<expan>eat</expan>a Eufe<expan>m</expan>ia</l>
-          <l>fec<expan>it</expan> D<expan>e</expan>o dulce<expan>m</expan> sonu<expan>m</expan>
-              c<expan>um</expan> voce p<expan>re</expan>dica-</l>
-          <l>-t<expan>i</expan>o<expan>n</expan>is, c<expan>um</expan> pulsu bone
-              op<expan>er</expan>at<expan>i</expan>o<expan>n</expan>is <expan>et</expan>
-            cu<expan>m</expan></l>
-          <l>flatu d<expan>e</expan>vot<expan>i</expan>o<expan>n</expan>is. D<expan>e</expan>
-              s<expan>an</expan>c<expan>t</expan>a Eufe<expan>m</expan>ia.</l>
-          <l>[Rubrique :] D<expan>e</expan> s<expan>an</expan>c<expan>t</expan>a
-            Eufe<expan>m</expan>ia</l>
-          <l>Eufe<expan>m</expan>ia, filia senatoris, vide<expan>n</expan>s C<expan>hrist</expan>i-</l>
-          <l>-anos t<expan>em</expan>p<expan>o</expan>r<expan>e</expan> Dyocletiani
-            ta<expan>m</expan> div<expan>er</expan>-</l>
-          <l>-sis suppliciis laniari, ad judice<expan>m</expan> p<expan>ro</expan>-</l>
-          <l>-p<expan>er</expan>av<expan>i</expan>t <expan>et</expan>, Ch<expan>ristu</expan>m
-            publice confite<expan>n</expan>s, ex<expan>empl</expan>o sue</l>
-          <l><expan>con</expan>sta<expan>n</expan>cie viror<expan>um</expan>
-              a<expan>n</expan>i<expan>m</expan>os <expan>con</expan>fort[a]bat.</l>
-          <l>Cu<expan>m</expan> ig<expan>itur</expan> judex Ch<expan>rist</expan>ianos successive</l>
-          <l>occid<expan>e</expan>ret, alios p<expan>re</expan>se<expan>n</expan>tes
-            e<expan>ss</expan>e jubeb-</l>
-          <l>-at, ut salte<expan>m</expan> t<expan>er</expan>[r]iti
-            i<expan>m</expan>molare<expan>n</expan>t, du<expan>m</expan> ci<expan>rcum</expan>-</l>
-          <l>-sta<expan>n</expan>tes ta<expan>m</expan>
-              c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> la<expan>n</expan>iari
-              vid<expan>e</expan>re<expan>n</expan>t.</l>
-          <l>Cu<expan>m</expan> a<expan>utem</expan> cora<expan>m</expan> Eufe<expan>m</expan>ia
-              s<expan>an</expan>c<expan>t</expan>os
-            c<expan>r</expan>ud<expan>e</expan>lit<expan>er</expan> de-</l>
-          <l>-tru<expan>n</expan>caret, ip<expan>s</expan>a, eor<expan>um</expan>
-            <expan>con</expan>sta<expan>n</expan>cia<expan>m</expan>
-            a<expan>m</expan>pli<expan>us</expan> p<expan>ro</expan>-</l>
-          <l>-vocata, i<expan>n</expan>juriam se pati a judice</l>
-          <l>clamabat. T<expan>un</expan>c judex gavis<expan>us</expan> e<expan>st</expan>, pu-</l>
-          <l>-ta<expan>n</expan>s ea<expan>m</expan> velle sac<expan>r</expan>ificiis
-              <expan>con</expan>se<expan>n</expan>tire. U<expan>n</expan>-</l>
-          <l>-d<expan>e</expan> c<expan>um</expan> ab ea q<expan>u</expan>a<expan>m</expan>
-              i<expan>n</expan>juria<expan>m</expan> fac<expan>er</expan>et req<expan>u</expan>isi-</l>
-          <l>-ss<expan>et</expan>, illa ait : "Cu<expan>m</expan> si<expan>m</expan>
-              g<expan>e</expan>n<expan>er</expan>e nobil<expan>is</expan>, c<expan>ur</expan>
-              m<expan>ih</expan>i </l>
-          <l>ignotos an<expan>te</expan>po<expan>n</expan>is et p<expan>r</expan>iores facis</l>
-          <l>ad Ch<expan>ristu</expan>m p<expan>er</expan>ti<expan>n</expan>g<expan>er</expan>e
-              <expan>et</expan> ad p<expan>ro</expan>missa gaudi-</l>
-          <l>-a p<expan>er</expan>ve<expan>n</expan>ire ?" Cui judex : "Putabam</l>
-          <l>te ad me<expan>n</expan>te<expan>m</expan> te redisse et gaude-[bam..."].</l>
+          <l>Suavis a<ex>utem</ex> son<ex>us</ex> fit
+            t<ex>r</ex>ib<ex>us</ex> modis, s<ex>cilicet</ex> vo-</l>
+          <l>-ce ut i<ex>n</ex> ca<ex>n</ex>tu, pulsu ut i<ex>n</ex> cythara, f-</l>
+          <l>-latu ut i<ex>n</ex> organo. Sic b<ex>eat</ex>a Eufe<ex>m</ex>ia</l>
+          <l>fec<ex>it</ex> D<ex>e</ex>o dulce<ex>m</ex> sonu<ex>m</ex>
+              c<ex>um</ex> voce p<ex>re</ex>dica-</l>
+          <l>-t<ex>i</ex>o<ex>n</ex>is, c<ex>um</ex> pulsu bone
+              op<ex>er</ex>at<ex>i</ex>o<ex>n</ex>is <ex>et</ex>
+            cu<ex>m</ex></l>
+          <l>flatu d<ex>e</ex>vot<ex>i</ex>o<ex>n</ex>is. D<ex>e</ex>
+              s<ex>an</ex>c<ex>t</ex>a Eufe<ex>m</ex>ia.</l>
+          <l>[Rubrique :] D<ex>e</ex> s<ex>an</ex>c<ex>t</ex>a
+            Eufe<ex>m</ex>ia</l>
+          <l>Eufe<ex>m</ex>ia, filia senatoris, vide<ex>n</ex>s C<ex>hrist</ex>i-</l>
+          <l>-anos t<ex>em</ex>p<ex>o</ex>r<ex>e</ex> Dyocletiani
+            ta<ex>m</ex> div<ex>er</ex>-</l>
+          <l>-sis suppliciis laniari, ad judice<ex>m</ex> p<ex>ro</ex>-</l>
+          <l>-p<ex>er</ex>av<ex>i</ex>t <ex>et</ex>, Ch<ex>ristu</ex>m
+            publice confite<ex>n</ex>s, ex<ex>empl</ex>o sue</l>
+          <l><ex>con</ex>sta<ex>n</ex>cie viror<ex>um</ex>
+              a<ex>n</ex>i<ex>m</ex>os <ex>con</ex>fort[a]bat.</l>
+          <l>Cu<ex>m</ex> ig<ex>itur</ex> judex Ch<ex>rist</ex>ianos successive</l>
+          <l>occid<ex>e</ex>ret, alios p<ex>re</ex>se<ex>n</ex>tes
+            e<ex>ss</ex>e jubeb-</l>
+          <l>-at, ut salte<ex>m</ex> t<ex>er</ex>[r]iti
+            i<ex>m</ex>molare<ex>n</ex>t, du<ex>m</ex> ci<ex>rcum</ex>-</l>
+          <l>-sta<ex>n</ex>tes ta<ex>m</ex>
+              c<ex>r</ex>ud<ex>e</ex>lit<ex>er</ex> la<ex>n</ex>iari
+              vid<ex>e</ex>re<ex>n</ex>t.</l>
+          <l>Cu<ex>m</ex> a<ex>utem</ex> cora<ex>m</ex> Eufe<ex>m</ex>ia
+              s<ex>an</ex>c<ex>t</ex>os
+            c<ex>r</ex>ud<ex>e</ex>lit<ex>er</ex> de-</l>
+          <l>-tru<ex>n</ex>caret, ip<ex>s</ex>a, eor<ex>um</ex> <ex>con</ex>sta<ex>n</ex>cia<ex>m</ex>
+            a<ex>m</ex>pli<ex>us</ex> p<ex>ro</ex>-</l>
+          <l>-vocata, i<ex>n</ex>juriam se pati a judice</l>
+          <l>clamabat. T<ex>un</ex>c judex gavis<ex>us</ex> e<ex>st</ex>, pu-</l>
+          <l>-ta<ex>n</ex>s ea<ex>m</ex> velle sac<ex>r</ex>ificiis <ex>con</ex>se<ex>n</ex>tire. U<ex>n</ex>-</l>
+          <l>-d<ex>e</ex> c<ex>um</ex> ab ea q<ex>u</ex>a<ex>m</ex>
+              i<ex>n</ex>juria<ex>m</ex> fac<ex>er</ex>et req<ex>u</ex>isi-</l>
+          <l>-ss<ex>et</ex>, illa ait : "Cu<ex>m</ex> si<ex>m</ex>
+              g<ex>e</ex>n<ex>er</ex>e nobil<ex>is</ex>, c<ex>ur</ex>
+              m<ex>ih</ex>i </l>
+          <l>ignotos an<ex>te</ex>po<ex>n</ex>is et p<ex>r</ex>iores facis</l>
+          <l>ad Ch<ex>ristu</ex>m p<ex>er</ex>ti<ex>n</ex>g<ex>er</ex>e <ex>et</ex> ad p<ex>ro</ex>missa gaudi-</l>
+          <l>-a p<ex>er</ex>ve<ex>n</ex>ire ?" Cui judex : "Putabam</l>
+          <l>te ad me<ex>n</ex>te<ex>m</ex> te redisse et gaude-[bam..."].</l>
         </div>
         <div type="traduction">
           <l/>

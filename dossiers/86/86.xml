@@ -15,7 +15,7 @@
             <publicationStmt>
                 <idno type="numero">86</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2007-10">octobre 2007</date>
+                <date when="2007-10">octobre 2007</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Fac-sim. ENC : NF3 (héliogravure).</p>
@@ -34,78 +34,77 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
                     <seg rend="4,49,41,4,79,15,642,4,641,35,65,48,35,41,11,71,3,71" n="poly">Universis presentes litteras
-                        inspecturis, offic<expan>ialis</expan> curie Parisien<expan>sis</expan>, salutem in D<expan>omi</expan>no. </seg>
-                    <seg rend="646,4,975,5,975,35,950,34,942,30,645,37" n="poly">Notum facimus q<expan>uod</expan> coram nobis
+                        inspecturis, offic<ex>ialis</ex> curie Parisien<ex>sis</ex>, salutem in D<ex>omi</ex>no. </seg>
+                    <seg rend="646,4,975,5,975,35,950,34,942,30,645,37" n="poly">Notum facimus q<ex>uod</ex> coram nobis
                         constituti</seg>
                     <seg rend="27,54,47,47,58,50,579,38,576,60,551,65,524,64,476,63,467,66,458,65,362,70,53,73,28,75" n="poly"
-                        >Johannes d<expan>i</expan>c<expan>t</expan>us Faroue, Sancelina ejus mater, Petrus Genciani
-                            d<expan>i</expan>c<expan>t</expan>us Pingot </seg>
+                        >Johannes d<ex>i</ex>c<ex>t</ex>us Faroue, Sancelina ejus mater, Petrus Genciani
+                            d<ex>i</ex>c<ex>t</ex>us Pingot </seg>
                     <seg rend="581,39,939,32,950,37,979,39,978,55,819,57,580,58" n="poly">et Maria ejus uxor, soror
-                            pred<expan>i</expan>c<expan>t</expan>i Johannis, filia d<expan>i</expan>c<expan>t</expan>e San-</seg>
+                            pred<ex>i</ex>c<ex>t</ex>i Johannis, filia d<ex>i</ex>c<ex>t</ex>e San-</seg>
                     <seg rend="31,77,50,75,291,74,469,68,567,68,565,93,98,101,31,98" n="poly">-celine asseruerunt in jure
-                            q<expan>uod</expan> consuetum erat in Carnific<expan>er</expan>ia parisien<expan>si</expan>
-                            q<expan>uod</expan>, </seg>
-                    <seg rend="570,64,582,61,808,59,988,61,988,83,847,88,570,91" n="poly">q<expan>u</expan>a<expan>n</expan>do
-                        aliquis novus carnifex eficit<expan>ur</expan>, q<expan>uod</expan> ip<expan>s</expan>e solvere tenetur</seg>
+                            q<ex>uod</ex> consuetum erat in Carnific<ex>er</ex>ia parisien<ex>si</ex>
+                            q<ex>uod</ex>, </seg>
+                    <seg rend="570,64,582,61,808,59,988,61,988,83,847,88,570,91" n="poly">q<ex>u</ex>a<ex>n</ex>do
+                        aliquis novus carnifex eficit<ex>ur</ex>, q<ex>uod</ex> ip<ex>s</ex>e solvere tenetur</seg>
                     <seg rend="31,104,339,101,634,98,648,91,661,96,718,96,717,118,400,123,50,133,32,126" n="poly"
-                        >mag<expan>ist</expan>ro et carnificib<expan>us</expan> quandam consuetudinem seu coustuma<!-- le texte d'origine indique costuma((m) avec deux <expan>. 
-                    Faut-il supprimer celui qui semble surnuméraire ? -->
-                        <expan>m</expan> aut droituram que vocat<expan>ur</expan> pastum, </seg>
-                    <seg rend="727,93,987,88,987,115,726,118" n="poly">et q<expan>uod</expan> d<expan>i</expan>c<expan>t</expan>us
-                            Joh<expan>ann</expan>es ratione nove sue</seg>
+                        >mag<ex>ist</ex>ro et carnificib<ex>us</ex> quandam consuetudinem seu coustuma<!-- le texte d'origine indique costuma((m) avec deux <ex>. 
+                    Faut-il supprimer celui qui semble surnuméraire ? --> <ex>m</ex> aut droituram que vocat<ex>ur</ex> pastum, </seg>
+                    <seg rend="727,93,987,88,987,115,726,118" n="poly">et q<ex>uod</ex> d<ex>i</ex>c<ex>t</ex>us
+                            Joh<ex>ann</ex>es ratione nove sue</seg>
                     <seg rend="32,135,193,133,290,130,738,124,738,148,371,152,170,157,31,155" n="poly">carnificerie
-                            d<expan>i</expan>c<expan>t</expan>is mag<expan>ist</expan>ro et carnificib<expan>us</expan> in
-                            d<expan>i</expan>c<expan>t</expan>is coustuma aut droitura seu pasto tenebatur, ut dicebant. </seg>
-                    <seg rend="742,125,1003,121,1003,145,742,149" n="poly">In quor<expan>um</expan> consuetudinis aut droiture</seg>
+                            d<ex>i</ex>c<ex>t</ex>is mag<ex>ist</ex>ro et carnificib<ex>us</ex> in
+                            d<ex>i</ex>c<ex>t</ex>is coustuma aut droitura seu pasto tenebatur, ut dicebant. </seg>
+                    <seg rend="742,125,1003,121,1003,145,742,149" n="poly">In quor<ex>um</ex> consuetudinis aut droiture</seg>
                     <seg rend="31,164,280,162,289,156,307,160,360,157,511,161,512,184,169,185,31,184" n="poly">seu pasti
-                            recompensac<expan>i</expan>o<expan>n</expan>em pred<expan>i</expan>c<expan>t</expan>i
-                        Joh<expan>ann</expan>es, Sancelina, Petrus et Maria </seg>
+                            recompensac<ex>i</ex>o<ex>n</ex>em pred<ex>i</ex>c<ex>t</ex>i
+                        Joh<ex>ann</ex>es, Sancelina, Petrus et Maria </seg>
                     <seg rend="516,162,565,158,702,160,717,151,747,158,1014,157,1014,180,851,183,604,184,516,181" n="poly">ejus
-                            ux<expan>or</expan> recognoverunt in jure se dedisse et imp<expan>er</expan>petuu<expan>m</expan> exnu<expan>n</expan>c concessisse</seg>
+                            ux<ex>or</ex> recognoverunt in jure se dedisse et imp<ex>er</ex>petuu<ex>m</ex> exnu<ex>n</ex>c concessisse</seg>
                     <seg rend="30,190,387,190,555,190,555,218,185,218,88,219,31,217" n="poly"
-                            >p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>is mag<expan>ist</expan>ro et
-                        carnificib<expan>us</expan> quicquid juris, dominii, p<expan>ro</expan>prietatis et possessionis </seg>
-                    <seg rend="559,188,933,187,1018,186,1018,213,906,215,559,217" n="poly">h<expan>ab</expan>ebant et
-                        h<expan>ab</expan>ere poterant quoquo modo in quadam bova sita in</seg>
+                            >p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is mag<ex>ist</ex>ro et
+                        carnificib<ex>us</ex> quicquid juris, dominii, p<ex>ro</ex>prietatis et possessionis </seg>
+                    <seg rend="559,188,933,187,1018,186,1018,213,906,215,559,217" n="poly">h<ex>ab</ex>ebant et
+                        h<ex>ab</ex>ere poterant quoquo modo in quadam bova sita in</seg>
                     <seg rend="32,223,75,223,192,223,429,225,430,249,32,250" n="poly">Poulalieria contigua bove Symonis Pagani ex
                         una parte </seg>
                     <seg rend="435,227,638,221,846,220,968,219,980,215,1009,222,1009,246,638,247,435,246" n="poly">et vie
-                            p<expan>er</expan> quam itur ad stallum Andree de Sancto Yonio ex altera, cum omni jure</seg>
-                    <seg rend="31,256,420,253,593,254,593,279,270,280,31,278" n="poly">q<expan>uo</expan>d sibi competit aut
-                        competiturum est in quodam stallo supra d<expan>i</expan>c<expan>t</expan>am bovam sito </seg>
+                            p<ex>er</ex> quam itur ad stallum Andree de Sancto Yonio ex altera, cum omni jure</seg>
+                    <seg rend="31,256,420,253,593,254,593,279,270,280,31,278" n="poly">q<ex>uo</ex>d sibi competit aut
+                        competiturum est in quodam stallo supra d<ex>i</ex>c<ex>t</ex>am bovam sito </seg>
                     <seg rend="600,257,704,256,710,250,720,250,725,255,1003,252,1003,278,599,280" n="poly">et contiguo stallo
-                        defuncti Ugonis d<expan>i</expan>c<expan>t</expan>i Restoré carnificis,</seg>
-                    <seg rend="32,283,257,286,610,287,609,315,280,312,32,309" n="poly">a d<expan>i</expan>c<expan>t</expan>is
-                            mag<expan>ist</expan>ro et carnificib<expan>us</expan> v<expan>e</expan>l eor<expan>um</expan>
-                            co<expan>m</expan>munitate aut successorib<expan>us</expan> p<expan>er</expan>petuo
-                        possidend<expan>um</expan>. </seg>
-                    <seg rend="614,286,1013,286,1014,317,614,311" n="poly">Et promiserunt, fide in manu n<expan>ost</expan>ra
-                            p<expan>re</expan>stita corp<expan>or</expan>ali q<expan>uod</expan> cont<expan>r</expan>a</seg>
-                    <seg rend="32,316,225,316,483,320,483,347,32,341" n="poly">donac<expan>i</expan>o<expan>n</expan>em et
-                        concessionem h<expan>ujusmod</expan>i jure hereditario, ratione conquestus, </seg>
+                        defuncti Ugonis d<ex>i</ex>c<ex>t</ex>i Restoré carnificis,</seg>
+                    <seg rend="32,283,257,286,610,287,609,315,280,312,32,309" n="poly">a d<ex>i</ex>c<ex>t</ex>is
+                            mag<ex>ist</ex>ro et carnificib<ex>us</ex> v<ex>e</ex>l eor<ex>um</ex>
+                            co<ex>m</ex>munitate aut successorib<ex>us</ex> p<ex>er</ex>petuo
+                        possidend<ex>um</ex>. </seg>
+                    <seg rend="614,286,1013,286,1014,317,614,311" n="poly">Et promiserunt, fide in manu n<ex>ost</ex>ra
+                            p<ex>re</ex>stita corp<ex>or</ex>ali q<ex>uod</ex> cont<ex>r</ex>a</seg>
+                    <seg rend="32,316,225,316,483,320,483,347,32,341" n="poly">donac<ex>i</ex>o<ex>n</ex>em et
+                        concessionem h<ex>ujusmod</ex>i jure hereditario, ratione conquestus, </seg>
                     <seg rend="488,322,882,321,1008,323,1008,350,750,353,487,344" n="poly">dotis seu caduci aut alio aliquo jure
-                            p<expan>er</expan> se v<expan>e</expan>l per alium n<expan>on</expan> venient in</seg>
-                    <seg rend="32,349,190,349,254,349,648,360,648,388,361,380,31,373" n="poly">futurum et q<expan>uod</expan>, si
-                        aliquis reclamaret jus aliquod in p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>is rebus ratione
-                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>ar<expan>um</expan>
-                            p<expan>er</expan>sonar<expan>um</expan>, </seg>
-                    <seg rend="654,362,758,358,1001,362,1000,388,654,388" n="poly">q<expan>uod</expan> ip<expan>s</expan>i
-                            tenerent<expan>ur</expan> defendere d<expan>i</expan>c<expan>t</expan>os carnifices et
-                        eor<expan>um</expan></seg>
+                            p<ex>er</ex> se v<ex>e</ex>l per alium n<ex>on</ex> venient in</seg>
+                    <seg rend="32,349,190,349,254,349,648,360,648,388,361,380,31,373" n="poly">futurum et q<ex>uod</ex>, si
+                        aliquis reclamaret jus aliquod in p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is rebus ratione
+                            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>ar<ex>um</ex>
+                            p<ex>er</ex>sonar<ex>um</ex>, </seg>
+                    <seg rend="654,362,758,358,1001,362,1000,388,654,388" n="poly">q<ex>uod</ex> ip<ex>s</ex>i
+                            tenerent<ex>ur</ex> defendere d<ex>i</ex>c<ex>t</ex>os carnifices et
+                        eor<ex>um</ex></seg>
                     <seg rend="32,380,358,386,613,395,679,395,745,403,802,399,800,426,734,426,595,421,439,414,149,407,31,403"
-                        n="poly">successores et ip<expan>s</expan>os servare indampnes contra omnes,
-                            jurisdic<expan>i</expan>o<expan>n</expan>i curie Par<expan>isiensis</expan>
-                        q<expan>u</expan>a<expan>n</expan>tum ad h<expan>oc</expan> se supponentes. </seg>
-                    <seg rend="806,396,1005,394,1005,422,803,420" n="poly">Dat<expan>um</expan> anno D<expan>omi</expan>ni
-                            mill<expan>esim</expan>o CC<hi rend="exposant">°</hi></seg>
-                    <seg rend="33,413,298,417,299,446,33,441" n="poly">septuag<expan>es</expan>i<expan>m</expan>o quinto, mense
+                        n="poly">successores et ip<ex>s</ex>os servare indampnes contra omnes,
+                            jurisdic<ex>i</ex>o<ex>n</ex>i curie Par<ex>isiensis</ex>
+                        q<ex>u</ex>a<ex>n</ex>tum ad h<ex>oc</ex> se supponentes. </seg>
+                    <seg rend="806,396,1005,394,1005,422,803,420" n="poly">Dat<ex>um</ex> anno D<ex>omi</ex>ni
+                            mill<ex>esim</ex>o CC°</seg>
+                    <seg rend="33,413,298,417,299,446,33,441" n="poly">septuag<ex>es</ex>i<ex>m</ex>o quinto, mense
                         januario.</seg>
-                    <seg rend="871,429,968,429,968,459,871,458" n="poly"><expan>Signé :</expan> S. Paganus.</seg>
-                </p>
+                    <seg rend="871,429,968,429,968,459,871,458" n="poly"><ex>Signé :</ex> S. Paganus.</seg>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> Universis presentes litteras inspecturis, <term n="Official : juge délégué par l’évêque à la tête du
+                    <p>Universis presentes litteras inspecturis, <term n="Official : juge délégué par l’évêque à la tête du
                             tribunal épiscopal, ici saisi dans son activité de juridiction gracieuse.">officialis</term> curie
                         Parisiensis, salutem in Domino.<lb/> Notum facimus quod coram nobis constituti Johannes dictus <foreign
                             xml:lang="frm">Faroue</foreign>, Sancelina ejus mater,<lb/> Petrus Genciani dictus <foreign
@@ -136,9 +135,9 @@
                         jurisdicioni curie Parisiensis quantum ad hoc se <term n="Clause dite de « soumission à juridiction ».
                             Comme il est usuel, l’acte prévoit à l’avance que tout litige sur son exécution (juridiction
                             contentieuse) sera de la compétence de la cour qui a émis et scellé le contrat (juridiction
-                            gracieuse).">supponentes</term>. Datum anno Domini<lb/> millesimo CC<hi rend="italic">°</hi>
+                            gracieuse).">supponentes</term>. Datum anno Domini<lb/> millesimo CC<hi rend="i">°</hi>
                         septuagesimo quinto, mense januario.</p>
-                    <p>(<hi rend="italic">Signé : </hi>) S. Paganus.</p>
+                    <p>(<hi rend="i">Signé : </hi>) S. Paganus.</p>
                 </div>
                 <div type="traduction">
                     <p>À tous ceux qui verront les présentes lettres, l’<term n="Official : juge délégué par l’évêque à la tête du
@@ -173,7 +172,7 @@
                             (juridiction gracieuse).">soumettant</term> en cette matière<lb/> à la juridiction de la cour [de
                         l’officialité] de Paris. Fait en l’an du Seigneur mille deux cent<lb/> soixante-quinze, au mois de
                         janvier.</p>
-                    <p>(<hi rend="italic">Signé :</hi>) S. Payen.</p>
+                    <p>(<hi rend="i">Signé :</hi>) S. Payen.</p>
                 </div>
                 <div type="regeste">
                     <head>1276 (n.st.), janvier.</head>
@@ -187,12 +186,12 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Commentaire diplomatique</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="86/faxexterne.jpg"/>
-                        </p>
+                       </p>
                         <p>L’acte est clair et sobre, doté de marges et d’un repli assez généreux. L’officialité, qui est alors en
                             perte de vitesse face à la concurrence du Châtelet royal, a sans excès ni ornement apporté un certain
                             soin à la présentation, même si la justification droite n’est pas régulière, malgré l’allongement de
@@ -206,12 +205,12 @@
                             acte coulé dans un formulaire tout prêt, fondé sur l’aveu, la « reconnaissance en droit » de l’auteur
                             de l’action. Les clauses (promesse et soumission à juridiction) sont assez sobres.</p>
                         <p>Le latin châtié grammaticalement s’ouvre au vernaculaire (sobriquets) ou au vernaculaire à vernis latin
-                                (<hi rend="italic">pastum, coustuma, droitura, poulalieria</hi>…) moins par incompétence
+                                (<hi rend="i">pastum, coustuma, droitura, poulalieria</hi>…) moins par incompétence
                             sémantique que par une volonté de coller au réel dont témoigne aussi la précision typologique et
                             topographique de la description des biens. Tout aussi « notarial », au sens large, est le souci
                             d’investir les mots en multipliant les polynômes synonymiques empruntant à plusieurs horizons
-                            sémantiques (<hi rend="italic">consuetudinem seu coustumam aut droituram</hi>) ou nuances juridiques
-                                (<hi rend="italic">quicquid juris, dominii, proprietatis et possessionis</hi>).</p>
+                            sémantiques (<hi rend="i">consuetudinem seu coustumam aut droituram</hi>) ou nuances juridiques
+                                (<hi rend="i">quicquid juris, dominii, proprietatis et possessionis</hi>).</p>
                     </div>
                 </div>
             </div>

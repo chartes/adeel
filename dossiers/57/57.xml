@@ -25,10 +25,10 @@
                     <seg rend="46,70,268,87">Qe ja tan luein no fogira</seg>
                     <seg rend="44,91,273,108">ni no.s rescondra tan prion,</seg>
                     <seg rend="48,111,262,128">ans ne qeria tot lo mon </seg>
-                    <seg rend="42,134,284,152">tan ca<expan>n</expan> n&#x2019;es de mar ni de
-                            t<expan>er</expan>ra,</seg>
+                    <seg rend="42,134,284,152">tan ca<ex>n</ex> n&#x2019;es de mar ni de
+                            t<ex>er</ex>ra,</seg>
                     <seg rend="49,155,278,172">q&#x2019;eu no.l trobe, se no.s
-                        sot<expan>er</expan>ra. »</seg>
+                        sot<ex>er</ex>ra. »</seg>
                     <seg rend="47,177,268,193">E part se d&#x2019;aqui ab aitan</seg>
                     <seg rend="44,198,248,218">e es venguts esponan </seg>
                     <seg rend="42,220,276,240">ves un cami gran e ferat :</seg>
@@ -38,14 +38,14 @@
                     <seg rend="47,302,248,319">E dis qe per aqel tenria</seg>
                     <seg rend="49,322,274,341">aitan can l&#x2019;esclau trobaria.</seg>
                     <seg rend="48,343,281,366">E met s&#x2019;el cami d&#x2019;ambladura</seg>
-                    <seg rend="46,369,265,386">e anet tan ca<expan>n</expan> lo jorn dura,</seg>
+                    <seg rend="46,369,265,386">e anet tan ca<ex>n</ex> lo jorn dura,</seg>
                     <seg rend="43,387,228,409">qe vila ni castel no vi,</seg>
                     <seg rend="44,412,247,427">ni anc, si tot s&#x2019;en escursi,</seg>
                     <seg rend="42,431,251,453">no.s laiset per aco d&#x2019;anar,</seg>
                     <seg rend="44,455,239,470">car ades se cuja tardar.</seg>
                     <seg rend="41,473,259,493">E cant ac un petit anat,</seg>
                     <seg rend="46,494,236,513">el ausi denan se levat</seg>
-                    <seg rend="41,516,299,535">un gra<expan>n</expan> brugtz de cavaliers,</seg>
+                    <seg rend="41,516,299,535">un gra<ex>n</ex> brugtz de cavaliers,</seg>
                     <seg rend="45,537,286,556">qe ferres ni fuecs ni asiers</seg>
                     <seg rend="42,559,256,580">resono e meno bruidors.</seg>
                     <seg rend="42,584,281,606">Jairfres ailai s&#x2019;en vai de cors,</seg>
@@ -70,7 +70,7 @@
                     <seg rend="359,197,595,217">e fo nafratz mot malamen.</seg>
                     <seg rend="362,221,623,240">E Jaufre venc vas lui corren</seg>
                     <seg rend="361,243,559,260">e troba.l jasen, estendut</seg>
-                    <seg rend="359,261,592,280">el sol e ac gra<expan>n</expan> sanc perdut</seg>
+                    <seg rend="359,261,592,280">el sol e ac gra<ex>n</ex> sanc perdut</seg>
                     <seg rend="360,282,563,298">qe la paraula l&#x2019;es falida.</seg>
                     <seg rend="358,302,602,321">E Jaufre aitan can pot crida :</seg>
                     <seg rend="359,323,592,343">&#34; Cavalier, dis el, respon me</seg>
@@ -81,21 +81,21 @@
                         s&#x2019;en</seg>
                     <seg rend="359,811,606,835">E can vi Jaufre qe mortz es :</seg>
                     <seg rend="359,836,650,863">« Cavalier, dis el, fort greu m&#x2019;es</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
                     <l>E dis : « Ja per Dieu <term
                             n="&#34;no.l&#34; = enclise de &#34;lo&#34; (pronom personnel régime direct faible, masculin singulier de personne 3) sur &#34;non&#34;."
-                                >no<hi rend="exposant">.</hi>l</term> valra</l>
+                                >no<hi rend="sup">.</hi>l</term> valra</l>
                     <l>Qe ja tan luein no fogira</l>
                     <l>ni <term
                             n="&#34;no.s&#34; = enclise de &#34;se&#34; (pronom réfléchi singulier de personne 3) sur &#34;non&#34;."
-                                >no<hi rend="exposant">.</hi>s</term> rescondra tan prion,</l>
+                                >no<hi rend="sup">.</hi>s</term> rescondra tan prion,</l>
                     <l>ans ne qeria tot lo mon</l>
-                    <l>tan ca<expan>n</expan> n&#x2019;es de mar ni de t<expan>er</expan>ra,</l>
-                    <l>q&#x2019;eu no<hi rend="exposant">.</hi>l trobe, se no.s
-                        sot<expan>er</expan>ra. »</l>
+                    <l>tan ca<ex>n</ex> n&#x2019;es de mar ni de t<ex>er</ex>ra,</l>
+                    <l>q&#x2019;eu no<hi rend="sup">.</hi>l trobe, se no.s
+                        sot<ex>er</ex>ra. »</l>
                     <l>E part se d&#x2019;aqui ab aitan</l>
                     <l>e es venguts <term
                             n="&#34;esperonan&#34; = le manuscrit porte &#34;esponan&#34; qui ne peut correspondre à aucune forme attestée ; le sens ainsi que le compte des syllabes du vers autorisent à corriger &#34;esperonan&#34;, en se fondant sur la leçon du manuscrit B. La « faute » &#34;esponan&#34; pour &#34;esperonan&#34; s&#x2019;explique facilement en postulant à un stade antérieur de la tradition l&#x2019;omission du signe abréviatif sous le « p » qui permet de noter &#34;per&#34;."
@@ -109,16 +109,16 @@
                     <l>E met <term
                             n="&#34;s&#x2019;el&#34; = &#34;se en&#34; + &#34;lo&#34; : enclise de &#34;lo&#34; (article défini régime masculin) sur la préposition &#34;en&#34; et élision par proclise du « e » de &#34;se&#34; (pronom réflèchi singulier de personne 3)."
                             >s&#x2019;el</term> cami d&#x2019;ambladura</l>
-                    <l>e anet tan ca<expan>n</expan> lo jorn dura,</l>
+                    <l>e anet tan ca<ex>n</ex> lo jorn dura,</l>
                     <l>qe vila ni castel no vi,</l>
                     <l>ni anc, si tot s&#x2019;en escursi,</l>
-                    <l>no<hi rend="exposant">.</hi>s laiset per aco d&#x2019;anar,</l>
+                    <l>no<hi rend="sup">.</hi>s laiset per aco d&#x2019;anar,</l>
                     <l>car ades se cuja tardar.</l>
                     <l>E cant ac un petit anat,</l>
                     <l>el ausi denan se <term
                             n="&#34;levat&#34; = Si on attend bien le participe passé &#34;anat&#34; dans la subordonnée temporelle (« et quand il a avancé un peu »), on attendrait dans la principale un infinitif &#34;levar&#34; dépendant de &#34;ausi&#34; (« il entend s&#x2019;élever un cri ») et non un participe passé &#34;levat&#34; (« il entend un cri qui a été élevé »). Voir la même situation syntaxique aux vers 804-805 : « Es en aitant el a ausit / luin de se levar un tabust. » C. Brunel a résolu le problème en proposant à la place de ces deux vers la leçon du manuscrit B : « A cant ac anat un petit / denant ausi levar un crit ». Nous conservons la leçon du manuscrit A qui n&#x2019;est cependant guère satisfaisante."
                             >levat</term></l>
-                    <l>un gra<expan>n</expan> brugtz de cavaliers,</l>
+                    <l>un gra<ex>n</ex> brugtz de cavaliers,</l>
                     <l>qe ferres ni <term
                             n="fuecs = fuec qui est la forme réguliérement employée par le copiste pour « feu », ne convient pas pour le sens. C. Brunel propose fustz « bois » qui provient du manuscrit B, leçon qui est confirmée quelques vers plus loin par A, aux vers 806-807 : « Qe ferre e asier e fust / meno tal bruit e tal torment ». Nous adoptons la correction de Brunel."
                             >futz</term> ni asiers</l>
@@ -132,10 +132,10 @@
                             >es</term>, baros,</l>
                     <l>qe d&#x2019;aital <term
                             n="&#34;ora.us&#34; = enclise de &#34;vos&#34; (pronom personnel régime de personne 5) sur &#34;ora&#34;."
-                                >ora<hi rend="exposant">.</hi>us</term> combates ?</l>
+                                >ora<hi rend="sup">.</hi>us</term> combates ?</l>
                     <l>Pos vezer <term
                             n="&#34;no.us&#34; = enclise de &#34;vos&#34; (pronom personnel régime de personne 5) sur &#34;non&#34;."
-                                >no<hi rend="exposant">.</hi>us</term> puesc, repondes ! »</l>
+                                >no<hi rend="sup">.</hi>us</term> puesc, repondes ! »</l>
                     <l>E el pres enan ad anar</l>
                     <l>car ades se cuja tardar,</l>
                     <l>aisi con om volontairos</l>
@@ -160,7 +160,7 @@
                     <l>E Jaufre venc vas lui corren</l>
                     <l>e <term
                             n="&#34;troba.l&#34; = enclise de &#34;lo&#34; (pronom personnel régime de personne 3) sur &#34;troba&#34;."
-                                >troba<hi rend="exposant">.</hi>l</term> jasen, estendut</l>
+                                >troba<hi rend="sup">.</hi>l</term> jasen, estendut</l>
                     <l>el sol e ac gran sanc perdut</l>
                     <l>qe la paraula l&#x2019;es falida.</l>
                     <l>E Jaufre aitan can pot crida :</l>
@@ -254,12 +254,12 @@
                 </div>
             </div>
             <div type="commentaire" n="philologie">
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <l> La littérature occitane médiévale a laissé peu de “romans” si on entend
                             par là des narrations romanesques d’une certaine ampleur. Parmi ceux-ci,
-                            le roman arthurien intitulé par la critique <hi rend="italic"
+                            le roman arthurien intitulé par la critique <hi rend="i"
                             >Jaufre</hi> du nom de son héros, se distingue par son ampleur (10956
                             octosyllabes) et la relative importance de sa tradition manuscrite (deux
                             manuscrits complets et six fragments). L’auteur semble originaire de
@@ -287,27 +287,27 @@
                         <listBibl>
                             <bibl>
                                 <author>
-                                    <hi rend="small caps">JAUFRE</hi>
-                                </author>, <title level="m">Roman arthurien du XIII<hi
+                                    <hi rend="sc">JAUFRE</hi>
+                                </author>, <title>Roman arthurien du XIII<hi
                                         rend="exposant">e</hi> siècle en vers provençaux </title>,
                                     <pubPlace>Paris</pubPlace>, <publisher>publié par Clovis
-                                Brunel</publisher>, <date when-iso="2004">1943</date>, <biblScope
+                                Brunel</publisher>, <date when="2004">1943</date>, <biblScope
                                     type="vol">2 vols. </biblScope>. Édition critique dont le
                                 manuscrit de base est le manuscrit fr. 2164 (A) corrigé, le cas
                                 échéant, par le manuscrit Paris, Bibl. nat. de Fr., fr. 12571 (B).
                                 Nous avons reproduit la numérotation des vers de l’édition Brunel.
                                 Une traduction anglaise du texte de cette édition, précise et
-                                fidèle, a été publiée en 1991 Ross G. Arthur (<hi rend="italic"
+                                fidèle, a été publiée en 1991 Ross G. Arthur (<hi rend="i"
                                     >Jaufre. An Occitan Arthurian Romance</hi>, New York, 1991 (<hi
-                                    rend="italic">Garland Library of Medieval Literature</hi>,
+                                    rend="i">Garland Library of Medieval Literature</hi>,
                                 Series B, Volume 88). </bibl>
                         <bibl><author>
-                                <hi rend="small caps">JAUFRE</hi>, <hi rend="small caps"
-                                >FLAMENCA</hi>, <hi rend="small caps">BARLAAM</hi>, <hi
+                                <hi rend="sc">JAUFRE</hi>, <hi rend="small caps"
+                                >FLAMENCA</hi>, <hi rend="sc">BARLAAM</hi>, <hi
                                     rend="small caps">JOSAPHAT</hi>
-                            </author>, <title level="m">Les troubadours. Traduction de René Lavaud
+                            </author>, <title>Les troubadours. Traduction de René Lavaud
                                 et René Nelli,</title>, <pubPlace>Paris</pubPlace>, <date
-                                when-iso="1960">1960</date> (<hi rend="italic">Bibliothèque
+                                when="1960">1960</date> (<hi rend="i">Bibliothèque
                                 européenne</hi>). Reprend l’édition Brunel en introduisant un
                             certain nombre de corrections et l’accompagne d’une belle traduction
                             fluide ; celle que nous proposons ici s’en inspire mais cherche à coller
@@ -318,7 +318,7 @@
                         <p>On peut voir aussi une édition “critique” du texte de Jaufre par
                             Charmaine Lee à l'adresse <xref to="http://www.rialc.unina.it./jaufre-i.htm">
                                 http://www.rialc.unina.it./jaufre-i.htm</xref>. Le manuscrit dont on trouvera
-                            la description la plus complète dans C. Brunel, <hi rend="italic">op.
+                            la description la plus complète dans C. Brunel, <hi rend="i">op.
                                 cit.</hi>, t. I, p. XX-XXVI, a été copié par deux scribes à la fin
                             du XIII<sup>e</sup> ou au début du XIV<sup>e</sup> siècle : le premier
                             est languedocien (vers Nîmes), le second provençal. Le manuscrit se

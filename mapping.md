@@ -2,12 +2,17 @@
 
 ## Commentaires
 
-3 types à conserver :
-* commentaire diplomatique : `@n="diplomatique"` devient `@subtype="diplomatic"` (NB: à articuler avec les parties du discours)
-* commentaire historique : `@n="histoire|historique"` devient `@subtype="history"`
-* commentaire paléographique = `@n="paleographie"` devient `@subtype="paleography"`
+**3 types à conserver**
+* commentaire diplomatique : `@n="diplomatique"` devient `@type="diplomatic"` (NB: à articuler avec les parties du discours)
+  * parties du discouts :
+* commentaire historique : `@n="histoire|historique"` devient `@type="history"`
+* commentaire paléographique = `@n="paleographie"` devient `@type="paleography"`
 
-enrichissement typographique :
+**enrichissement typographique**
+* `hi[@rend="i|sc|sup"]`
+
+**partie du discours, typologie**
+
 
 
 # Mapping

@@ -22,216 +22,195 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
                     <seg rend="5,8,389,38">Nous Estevenins, fil jadix Renaut Burciot </seg>
-                    <seg rend="396,9,743,40"><expan>et</expan> Guillemete sa femme, facons savoir a
+                    <seg rend="396,9,743,40"><ex>et</ex> Guillemete sa femme, facons savoir a
                         tout</seg>
-                    <seg rend="22,41,455,59">que nos avons vendu <expan>et</expan> outroiez en nom
-                        de vendue p<expan>er</expan>petuel </seg>
-                    <seg rend="457,42,740,63">a l&#x2019;abbez <expan>et</expan> a covent de
+                    <seg rend="22,41,455,59">que nos avons vendu <ex>et</ex> outroiez en nom
+                        de vendue p<ex>er</ex>petuel </seg>
+                    <seg rend="457,42,740,63">a l&#x2019;abbez <ex>et</ex> a covent de
                         Goyle, pour l&#x2019;a-</seg>
-                    <seg rend="26,60,356,79">-monne de l&#x2019;anniv<expan>er</expan>saire de
-                        Richard Broq<expan>u</expan>ard </seg>
-                    <seg rend="357,65,729,81"><expan>et</expan> de sa feme Alix de Boiz
-                        <expan>et</expan> de ses ancessours a ffaire</seg>
+                    <seg rend="26,60,356,79">-monne de l&#x2019;anniv<ex>er</ex>saire de
+                        Richard Broq<ex>u</ex>ard </seg>
+                    <seg rend="357,65,729,81"><ex>et</ex> de sa feme Alix de Boiz <ex>et</ex> de ses ancessours a ffaire</seg>
                     <seg rend="26,82,383,100">chascon anz en li eglise de Goyle, cinq sox de cens, </seg>
-                    <seg rend="387,82,738,101">loux, loy <expan>et</expan> signorie portant
-                            selu<expan>n</expan> la custume de</seg>
-                    <seg rend="26,102,484,121">Salins ; lesq<expan>ue</expan>s nos lor avons assis
-                            <expan>et</expan> assignez sux une n<expan>ost</expan>re vigne, </seg>
-                    <seg rend="490,103,738,121">franche de tout aut<expan>r</expan>e cens
-                        <expan>et</expan> s<expan>er</expan>vit-</seg>
-                    <seg rend="31,122,477,141">-tuz, assise ou t<expan>er</expan>ritoire de Salins,
-                            p<expan>re</expan>s de boiz desub Aresche, </seg>
-                    <seg rend="479,122,736,141">tochant d&#x2019;une p<expan>ar</expan>t a la
+                    <seg rend="387,82,738,101">loux, loy <ex>et</ex> signorie portant
+                            selu<ex>n</ex> la custume de</seg>
+                    <seg rend="26,102,484,121">Salins ; lesq<ex>ue</ex>s nos lor avons assis <ex>et</ex> assignez sux une n<ex>ost</ex>re vigne, </seg>
+                    <seg rend="490,103,738,121">franche de tout aut<ex>r</ex>e cens <ex>et</ex> s<ex>er</ex>vit-</seg>
+                    <seg rend="31,122,477,141">-tuz, assise ou t<ex>er</ex>ritoire de Salins,
+                            p<ex>re</ex>s de boiz desub Aresche, </seg>
+                    <seg rend="479,122,736,141">tochant d&#x2019;une p<ex>ar</ex>t a la
                         vigne es en-</seg>
                     <seg rend="27,142,369,159">-ffant Estevenon A Joli, jadix burgoy de Salins, </seg>
-                    <seg rend="372,142,736,162"><expan>et</expan> d&#x2019;aut<expan>r</expan>e
-                            p<expan>ar</expan>t a la vigne de mes freres de moi
-                        Esteveni<expan>n</expan></seg>
-                    <seg rend="27,164,480,182">dessux dit, <expan>et</expan> tochant a
-                        chemi<expan>n</expan> q<expan>u</expan>i moine en boiz devant dit ; </seg>
-                    <seg rend="482,163,732,183">li q<expan>ue</expan>x cinq sox censalx sunt a paier</seg>
-                    <seg rend="31,184,357,203"><expan>et</expan> a rendre chas<expan>con</expan> anz
-                        esdit abbez <expan>et</expan>
-                        <expan>con</expan>vent </seg>
-                    <seg rend="361,185,732,203">ou a lor <expan>com</expan>mandem<expan>en</expan>t
-                        le jour de la Nativité N<expan>ost</expan>re Da-</seg>
+                    <seg rend="372,142,736,162"><ex>et</ex> d&#x2019;aut<ex>r</ex>e
+                            p<ex>ar</ex>t a la vigne de mes freres de moi
+                        Esteveni<ex>n</ex></seg>
+                    <seg rend="27,164,480,182">dessux dit, <ex>et</ex> tochant a
+                        chemi<ex>n</ex> q<ex>u</ex>i moine en boiz devant dit ; </seg>
+                    <seg rend="482,163,732,183">li q<ex>ue</ex>x cinq sox censalx sunt a paier</seg>
+                    <seg rend="31,184,357,203"><ex>et</ex> a rendre chas<ex>con</ex> anz
+                        esdit abbez <ex>et</ex> <ex>con</ex>vent </seg>
+                    <seg rend="361,185,732,203">ou a lor <ex>com</ex>mandem<ex>en</ex>t
+                        le jour de la Nativité N<ex>ost</ex>re Da-</seg>
                     <seg rend="31,204,433,222">-me. Et cesdit cinq sox de cens nos lor avons vendu </seg>
-                    <seg rend="438,204,730,220">pour le p<expan>r</expan>is de sexante sox
-                            d&#x2019;est<expan>evenans</expan>, lesq<expan>ue</expan>s
-                            n<expan>os</expan></seg>
-                    <seg rend="30,226,437,242">avons hahu <expan>et</expan> recehu de lors en bons
-                            den<expan>ier</expan>s nombrez, </seg>
+                    <seg rend="438,204,730,220">pour le p<ex>r</ex>is de sexante sox
+                            d&#x2019;est<ex>evenans</ex>, lesq<ex>ue</ex>s
+                            n<ex>os</ex></seg>
+                    <seg rend="30,226,437,242">avons hahu <ex>et</ex> recehu de lors en bons
+                            den<ex>ier</ex>s nombrez, </seg>
                     <seg rend="439,222,737,243">c&#x2019;est assavoir
-                            cinq<expan>u</expan>a<expan>n</expan>te sox p<expan>ar</expan> la
-                            mai<expan>n</expan> Rich<expan>ard</expan>
-                    </seg>
-                    <seg rend="29,245,439,265">de Boiz <expan>et</expan> de J<expan>e</expan>hanete
-                        sa femme, her doudit Rich<expan>ar</expan>d, </seg>
-                    <seg rend="443,246,734,265"><expan>et</expan> le remanant p<expan>ar</expan> lor
-                            mai<expan>n</expan> ; <expan>et</expan> de ces nos</seg>
-                    <seg rend="31,266,299,286">tenons nos <expan>et</expan> apelons
-                        p<expan>ar</expan> bie<expan>n</expan> paiez. </seg>
-                    <seg rend="301,268,743,286">Lesq<expan>ue</expan>s cinq sox censax nos lor
-                            p<expan>ro</expan>mettons garandir, deffend<expan>r</expan>e</seg>
-                    <seg rend="27,287,416,309">
-                        <expan>et</expan> appaisier <expan>con</expan>t<expan>re</expan> tout, tout
-                        jours <expan>et</expan> en tout leux, </seg>
-                    <seg rend="419,287,727,305">sux ladit<expan>e</expan> vign<expan>e</expan>
-                            f<expan>r</expan>anche de tout aut<expan>r</expan>e cens</seg>
-                    <seg rend="35,310,434,329">et servittuz. Ces
-                        <expan>con</expan>ven<expan>en</expan>ces nos nos andui ensamble </seg>
-                    <seg rend="437,306,730,326"><expan>et</expan> chas<expan>con</expan>s de
-                            n<expan>os</expan> p<expan>ar</expan> lui p<expan>ro</expan>mettons a
-                        lors <expan>et</expan> a</seg>
-                    <seg rend="35,332,342,348">lor successours p<expan>ar</expan>
-                        stip<expan>u</expan>lacion sollempnel </seg>
-                    <seg rend="344,330,740,348">p<expan>ar</expan> nos soir<expan>emenz</expan>
-                            don<expan>nez</expan> sux saint evang<expan>i</expan>le
-                        <expan>et</expan> sux l&#x2019;obligacio<expan>n</expan>
-                    </seg>
-                    <seg rend="36,351,436,370">de nos <expan>et</expan> de nos biens
-                        q<expan>ue</expan> fait en avons en lor mai<expan>n</expan>
-                    </seg>
-                    <seg rend="439,350,724,370"><expan>et</expan> maimem<expan>en</expan>t en la
-                            jur<expan>is</expan>dicion de la</seg>
-                    <seg rend="36,371,371,394">cour de n<expan>ost</expan>re seignour le roy de
-                            F<expan>r</expan>ance, </seg>
-                    <seg rend="374,371,726,388">tenir <expan>et</expan> garder
-                        leam<expan>en</expan>t, senz riens dire ne p<expan>ro</expan>-</seg>
-                    <seg rend="37,395,557,415">-ver en l&#x2019;encont<expan>r</expan>e, se
-                        n&#x2019;est p<expan>ar</expan> lett<expan>r</expan>es saelees dou seal
-                        de ladit<expan>e</expan> cour. </seg>
-                    <seg rend="560,389,734,412">Je Guillemete dess<expan>us</expan>
-                        dit<expan>e</expan>
-                    </seg>
-                    <seg rend="33,416,307,434">renu<expan>n</expan>ce en cest fait
-                        p<expan>ar</expan> mo<expan>n</expan> soirem<expan>en</expan>t </seg>
-                    <seg rend="310,416,738,433">a b<expan>e</expan>n<expan>e</expan>fice de doaire,
+                            cinq<ex>u</ex>a<ex>n</ex>te sox p<ex>ar</ex> la
+                            mai<ex>n</ex> Rich<ex>ard</ex></seg>
+                    <seg rend="29,245,439,265">de Boiz <ex>et</ex> de J<ex>e</ex>hanete
+                        sa femme, her doudit Rich<ex>ar</ex>d, </seg>
+                    <seg rend="443,246,734,265"><ex>et</ex> le remanant p<ex>ar</ex> lor
+                            mai<ex>n</ex> ; <ex>et</ex> de ces nos</seg>
+                    <seg rend="31,266,299,286">tenons nos <ex>et</ex> apelons
+                        p<ex>ar</ex> bie<ex>n</ex> paiez. </seg>
+                    <seg rend="301,268,743,286">Lesq<ex>ue</ex>s cinq sox censax nos lor
+                            p<ex>ro</ex>mettons garandir, deffend<ex>r</ex>e</seg>
+                    <seg rend="27,287,416,309"> <ex>et</ex> appaisier <ex>con</ex>t<ex>re</ex> tout, tout
+                        jours <ex>et</ex> en tout leux, </seg>
+                    <seg rend="419,287,727,305">sux ladit<ex>e</ex> vign<ex>e</ex>
+                            f<ex>r</ex>anche de tout aut<ex>r</ex>e cens</seg>
+                    <seg rend="35,310,434,329">et servittuz. Ces <ex>con</ex>ven<ex>en</ex>ces nos nos andui ensamble </seg>
+                    <seg rend="437,306,730,326"><ex>et</ex> chas<ex>con</ex>s de
+                            n<ex>os</ex> p<ex>ar</ex> lui p<ex>ro</ex>mettons a
+                        lors <ex>et</ex> a</seg>
+                    <seg rend="35,332,342,348">lor successours p<ex>ar</ex>
+                        stip<ex>u</ex>lacion sollempnel </seg>
+                    <seg rend="344,330,740,348">p<ex>ar</ex> nos soir<ex>emenz</ex>
+                            don<ex>nez</ex> sux saint evang<ex>i</ex>le <ex>et</ex> sux l&#x2019;obligacio<ex>n</ex></seg>
+                    <seg rend="36,351,436,370">de nos <ex>et</ex> de nos biens
+                        q<ex>ue</ex> fait en avons en lor mai<ex>n</ex></seg>
+                    <seg rend="439,350,724,370"><ex>et</ex> maimem<ex>en</ex>t en la
+                            jur<ex>is</ex>dicion de la</seg>
+                    <seg rend="36,371,371,394">cour de n<ex>ost</ex>re seignour le roy de
+                            F<ex>r</ex>ance, </seg>
+                    <seg rend="374,371,726,388">tenir <ex>et</ex> garder
+                        leam<ex>en</ex>t, senz riens dire ne p<ex>ro</ex>-</seg>
+                    <seg rend="37,395,557,415">-ver en l&#x2019;encont<ex>r</ex>e, se
+                        n&#x2019;est p<ex>ar</ex> lett<ex>r</ex>es saelees dou seal
+                        de ladit<ex>e</ex> cour. </seg>
+                    <seg rend="560,389,734,412">Je Guillemete dess<ex>us</ex>
+                        dit<ex>e</ex></seg>
+                    <seg rend="33,416,307,434">renu<ex>n</ex>ce en cest fait
+                        p<ex>ar</ex> mo<ex>n</ex> soirem<ex>en</ex>t </seg>
+                    <seg rend="310,416,738,433">a b<ex>e</ex>n<ex>e</ex>fice de doaire,
                         de mariaige et de donacion pour</seg>
                     <seg rend="39,435,492,454">noces, certifie de l&#x2019;un et de
-                            l&#x2019;aut<expan>r</expan>e. En tesmoi<expan>n</expan>g de
-                            laq<expan>ue</expan>l chouse, </seg>
-                    <seg rend="493,434,723,453">nos lidiz Est<expan>evenin</expan>
-                        <expan>et</expan> Guillemete sa</seg>
-                    <seg rend="36,455,382,474">fe<expan>m</expan>me avons requis <expan>et</expan>
-                        fait mett<expan>r</expan>e en ces lett<expan>r</expan>es,</seg>
-                    <seg rend="383,455,729,474">fait<expan>es</expan> p<expan>ar</expan> la
-                            mai<expan>n</expan> Wuill&#x2019; Warguet, le seal de
-                        n<expan>ost</expan>re-</seg>
-                    <seg rend="37,477,460,496">-dit seign<expan>our</expan> le roy,
-                        douq<expan>ue</expan>l on use en la cour de Salins. </seg>
-                    <seg rend="461,475,728,496">Saelees <expan>et</expan> deliv<expan>r</expan>ees
-                            p<expan>ar</expan> Est&#x2019; Bereng<expan>ier</expan>,</seg>
-                    <seg rend="38,498,587,521">Wuynet Pancepi<expan>n</expan>
-                        <expan>et</expan> ledit Wuill&#x2019;, l&#x2019;an mil doux cent
-                            nona<expan>n</expan>te siex, </seg>
-                    <seg rend="591,498,735,520">le lundi ap<expan>ré</expan>s la
-                        q<expan>u</expan>in-</seg>
+                            l&#x2019;aut<ex>r</ex>e. En tesmoi<ex>n</ex>g de
+                            laq<ex>ue</ex>l chouse, </seg>
+                    <seg rend="493,434,723,453">nos lidiz Est<ex>evenin</ex> <ex>et</ex> Guillemete sa</seg>
+                    <seg rend="36,455,382,474">fe<ex>m</ex>me avons requis <ex>et</ex>
+                        fait mett<ex>r</ex>e en ces lett<ex>r</ex>es,</seg>
+                    <seg rend="383,455,729,474">fait<ex>es</ex> p<ex>ar</ex> la
+                            mai<ex>n</ex> Wuill&#x2019; Warguet, le seal de
+                        n<ex>ost</ex>re-</seg>
+                    <seg rend="37,477,460,496">-dit seign<ex>our</ex> le roy,
+                        douq<ex>ue</ex>l on use en la cour de Salins. </seg>
+                    <seg rend="461,475,728,496">Saelees <ex>et</ex> deliv<ex>r</ex>ees
+                            p<ex>ar</ex> Est&#x2019; Bereng<ex>ier</ex>,</seg>
+                    <seg rend="38,498,587,521">Wuynet Pancepi<ex>n</ex> <ex>et</ex> ledit Wuill&#x2019;, l&#x2019;an mil doux cent
+                            nona<ex>n</ex>te siex, </seg>
+                    <seg rend="591,498,735,520">le lundi ap<ex>ré</ex>s la
+                        q<ex>u</ex>in-</seg>
                     <seg rend="41,523,368,542">-zaine de Penthecoste ou moi de may.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <l>Nous Estevenins, fil jadix Renaut Burciot <expan>et</expan> Guillemete sa
+                    <l>Nous Estevenins, fil jadix Renaut Burciot <ex>et</ex> Guillemete sa
                         femme, façons savoir a tout </l>
-                    <l>que nos avons vendu <expan>et</expan> outroiez en nom de vendue
-                        p<expan>er</expan>petuel a l'abbez <expan>et</expan> a covent de <term
+                    <l>que nos avons vendu <ex>et</ex> outroiez en nom de vendue
+                        p<ex>er</ex>petuel a l'abbez <ex>et</ex> a covent de <term
                             n="Goailles (Jura, comm. Salins), abbaye d&#x2019;augustins dédiée à Notre-Dame (dioc. Besançon)."
                             >Goyle</term>, pour l'a-</l>
-                    <l>monne de l'anniv<expan>er</expan>saire de Richard Broq<expan>u</expan>ard
-                            <expan>et</expan> de sa feme Alix de Boiz <expan>et</expan> de ses
+                    <l>monne de l'anniv<ex>er</ex>saire de Richard Broq<ex>u</ex>ard <ex>et</ex> de sa feme Alix de Boiz <ex>et</ex> de ses
                         ancessours a ffaire </l>
                     <l>chascon anz en li eglise de Goyle, cinq sox de <term
                             n="Le terme de &#34;cens&#34; s&#x2019;applique ici à une redevance annuelle payée à partir de ce moment, assise sur un bien immeuble, et en échange d&#x2019;un versement ponctuel (ici au taux très normal de 12 pour 1). Il s&#x2019;agit à l&#x2019;évidence de ce que la langue d&#x2019;aujourd&#x2019;hui nomme une &#34;rente&#34;."
                             >cens</term>, <term
                             n="Comprendre &#171; (em)portant (incluant) loux (droit de lods), loy (pouvoir légal) et seigneurie &#187;."
-                            >loux, loy <expan>et</expan> signorie portant</term>
-                        selu<expan>n</expan> la custume de</l>
+                            >loux, loy <ex>et</ex> signorie portant</term>
+                        selu<ex>n</ex> la custume de</l>
                     <l>
                         <term n="Salins-les-Bains (Jura, ch.-l. cant.).">Salins</term> ;
-                            lesq<expan>ue</expan>s nos lor avons assis <expan>et</expan> assignez
-                        sux une n<expan>ost</expan>re vigne, franche de tout aut<expan>r</expan>e
-                        cens <expan>et</expan> s<expan>er</expan>vit-</l>
-                    <l>tuz, assise ou t<expan>er</expan>ritoire de Salins, p<expan>re</expan>s de
+                            lesq<ex>ue</ex>s nos lor avons assis <ex>et</ex> assignez
+                        sux une n<ex>ost</ex>re vigne, franche de tout aut<ex>r</ex>e
+                        cens <ex>et</ex> s<ex>er</ex>vit-</l>
+                    <l>tuz, assise ou t<ex>er</ex>ritoire de Salins, p<ex>re</ex>s de
                         boiz desub <term n="Avesches (Jura, comm. Salins).">Aresche</term>, tochant
-                        d'une p<expan>ar</expan>t a la vigne es en-</l>
-                    <l>ffant Estevenon A Joli, jadix burgoy de Salins, <expan>et</expan>
-                            d'aut<expan>r</expan>e p<expan>ar</expan>t a la vigne de mes freres de
-                        moi Esteveni<expan>n</expan>
+                        d'une p<ex>ar</ex>t a la vigne es en-</l>
+                    <l>ffant Estevenon A Joli, jadix burgoy de Salins, <ex>et</ex>
+                            d'aut<ex>r</ex>e p<ex>ar</ex>t a la vigne de mes freres de
+                        moi Esteveni<ex>n</ex>
                     </l>
-                    <l>dessux dit, <expan>et</expan> tochant a chemi<expan>n</expan>
-                        q<expan>u</expan>i moine en boiz devant dit ; li q<expan>ue</expan>x cinq
+                    <l>dessux dit, <ex>et</ex> tochant a chemi<ex>n</ex>
+                        q<ex>u</ex>i moine en boiz devant dit ; li q<ex>ue</ex>x cinq
                         sox censalx sunt a paier </l>
-                    <l>
-                        <expan>et</expan> a rendre chas<expan>con</expan> anz esdit abbez <expan>et</expan>
-                        <expan>con</expan>vent ou a lor <expan>com</expan>mandem<expan>en</expan>t
+                    <l> <ex>et</ex> a rendre chas<ex>con</ex> anz esdit abbez <ex>et</ex> <ex>con</ex>vent ou a lor <ex>com</ex>mandem<ex>en</ex>t
                         le jour de la <term
                             n="La fête de la Naissance de la Vierge est célébrée le 8 septembre (&#171; Notre Dame septembresche &#187;)."
-                            >Nativité N<expan>ost</expan>re Da-</term>
+                            >Nativité N<ex>ost</ex>re Da-</term>
                     </l>
                     <l>
                         <term
                             n="La fête de la Naissance de la Vierge est célébrée le 8 septembre (&#171; Notre Dame septembresche &#187;)."
                             >me</term>. Et cesdit cinq sox de cens nos lor avons vendu pour le
-                            p<expan>r</expan>is de sexante sox d'<term
+                            p<ex>r</ex>is de sexante sox d'<term
                             n="Les estévenants, monnaie de l&#x2019;archevêque de Besançon, tirent leur nom du bras reliquaire de saint Étienne qui y était représenté."
-                                >est<expan>evenans</expan>
-                        </term>, lesq<expan>ue</expan>s n<expan>os</expan>
+                                >est<ex>evenans</ex>
+                        </term>, lesq<ex>ue</ex>s n<ex>os</ex>
                     </l>
-                    <l>avons hahu <expan>et</expan> recehu de lors en bons den<expan>ier</expan>s
-                        nombrez, c'est assavoir cinq<expan>u</expan>a<expan>n</expan>te sox
-                            p<expan>ar</expan> la mai<expan>n</expan> Rich<expan>ard</expan>
+                    <l>avons hahu <ex>et</ex> recehu de lors en bons den<ex>ier</ex>s
+                        nombrez, c'est assavoir cinq<ex>u</ex>a<ex>n</ex>te sox
+                            p<ex>ar</ex> la mai<ex>n</ex> Rich<ex>ard</ex>
                     </l>
-                    <l>de Boiz <expan>et</expan> de J<expan>e</expan>hanete sa femme, her doudit
-                            Rich<expan>ar</expan>d, <expan>et</expan> le remanant p<expan>ar</expan>
-                        lor mai<expan>n</expan> ; <expan>et</expan> de ces nos </l>
-                    <l>tenons nos <expan>et</expan> apelons p<expan>ar</expan> bie<expan>n</expan>
-                        paiez. Lesq<expan>ue</expan>s cinq sox censax nos lor
-                        p<expan>ro</expan>mettons garandir, deffend<expan>r</expan>e </l>
-                    <l>
-                        <expan>et</expan> appaisier <expan>con</expan>t<expan>re</expan> tout, tout
-                        jours <expan>et</expan> en tout leux, sux ladit<expan>e</expan>
-                        vign<expan>e</expan> f<expan>r</expan>anche de tout aut<expan>r</expan>e
+                    <l>de Boiz <ex>et</ex> de J<ex>e</ex>hanete sa femme, her doudit
+                            Rich<ex>ar</ex>d, <ex>et</ex> le remanant p<ex>ar</ex>
+                        lor mai<ex>n</ex> ; <ex>et</ex> de ces nos </l>
+                    <l>tenons nos <ex>et</ex> apelons p<ex>ar</ex> bie<ex>n</ex>
+                        paiez. Lesq<ex>ue</ex>s cinq sox censax nos lor
+                        p<ex>ro</ex>mettons garandir, deffend<ex>r</ex>e </l>
+                    <l> <ex>et</ex> appaisier <ex>con</ex>t<ex>re</ex> tout, tout
+                        jours <ex>et</ex> en tout leux, sux ladit<ex>e</ex>
+                        vign<ex>e</ex> f<ex>r</ex>anche de tout aut<ex>r</ex>e
                         cens </l>
-                    <l>et servittuz. Ces <expan>con</expan>ven<expan>en</expan>ces nos nos andui
-                        ensamble <expan>et</expan> chas<expan>con</expan>s de n<expan>os</expan>
-                            p<expan>ar</expan> lui p<expan>ro</expan>mettons a lors
-                        <expan>et</expan> a </l>
-                    <l>lor successours p<expan>ar</expan> stip<expan>u</expan>lacion sollempnel
-                            p<expan>ar</expan> nos soir<expan>emenz</expan> don<expan>nez</expan>
-                        sux saint evang<expan>i</expan>le <expan>et</expan> sux
-                        l'obligacio<expan>n</expan>
+                    <l>et servittuz. Ces <ex>con</ex>ven<ex>en</ex>ces nos nos andui
+                        ensamble <ex>et</ex> chas<ex>con</ex>s de n<ex>os</ex>
+                            p<ex>ar</ex> lui p<ex>ro</ex>mettons a lors <ex>et</ex> a </l>
+                    <l>lor successours p<ex>ar</ex> stip<ex>u</ex>lacion sollempnel
+                            p<ex>ar</ex> nos soir<ex>emenz</ex> don<ex>nez</ex>
+                        sux saint evang<ex>i</ex>le <ex>et</ex> sux
+                        l'obligacio<ex>n</ex>
                     </l>
-                    <l>de nos <expan>et</expan> de nos biens q<expan>ue</expan> fait en avons en lor
-                            mai<expan>n</expan>
-                        <expan>et</expan> maimem<expan>en</expan>t en la jur<expan>is</expan>dicion
+                    <l>de nos <ex>et</ex> de nos biens q<ex>ue</ex> fait en avons en lor
+                            mai<ex>n</ex> <ex>et</ex> maimem<ex>en</ex>t en la jur<ex>is</ex>dicion
                         de la </l>
-                    <l>cour de n<expan>ost</expan>re seignour le <term
+                    <l>cour de n<ex>ost</ex>re seignour le <term
                             n="Le roi de France Philippe le Bel exerçait alors, de façon assez énergique, le bail de la Comté. Les institutions comtoises fonctionnent donc en son nom."
-                            >roy de F<expan>r</expan>ance</term>, tenir <expan>et</expan> garder
-                            leam<expan>en</expan>t, senz riens dire ne p<expan>ro</expan>-</l>
-                    <l>ver en l'encont<expan>r</expan>e, se n'est p<expan>ar</expan>
-                        lett<expan>r</expan>es saelees dou seal de ladit<expan>e</expan> cour. Je
-                        Guillemete dess<expan>us</expan> dit<expan>e</expan>
+                            >roy de F<ex>r</ex>ance</term>, tenir <ex>et</ex> garder
+                            leam<ex>en</ex>t, senz riens dire ne p<ex>ro</ex>-</l>
+                    <l>ver en l'encont<ex>r</ex>e, se n'est p<ex>ar</ex>
+                        lett<ex>r</ex>es saelees dou seal de ladit<ex>e</ex> cour. Je
+                        Guillemete dess<ex>us</ex> dit<ex>e</ex>
                     </l>
-                    <l>renu<expan>n</expan>ce en cest fait p<expan>ar</expan> mo<expan>n</expan>
-                            soirem<expan>en</expan>t a b<expan>e</expan>n<expan>e</expan>fice de
+                    <l>renu<ex>n</ex>ce en cest fait p<ex>ar</ex> mo<ex>n</ex>
+                            soirem<ex>en</ex>t a b<ex>e</ex>n<ex>e</ex>fice de
                         doaire, de mariaige et de donacion pour </l>
-                    <l>noces, certifie de l'un et de l'aut<expan>r</expan>e. En
-                        tesmoi<expan>n</expan>g de laq<expan>ue</expan>l chouse, nos lidiz
-                            Est<expan>evenin</expan>
-                        <expan>et</expan> Guillemete sa </l>
-                    <l>fe<expan>m</expan>me avons requis <expan>et</expan> fait
-                        mett<expan>r</expan>e en ces lett<expan>r</expan>es, fait<expan>es</expan>
-                            p<expan>ar</expan> la mai<expan>n</expan> Wuill' <term
+                    <l>noces, certifie de l'un et de l'aut<ex>r</ex>e. En
+                        tesmoi<ex>n</ex>g de laq<ex>ue</ex>l chouse, nos lidiz
+                            Est<ex>evenin</ex> <ex>et</ex> Guillemete sa </l>
+                    <l>fe<ex>m</ex>me avons requis <ex>et</ex> fait
+                        mett<ex>r</ex>e en ces lett<ex>r</ex>es, fait<ex>es</ex>
+                            p<ex>ar</ex> la mai<ex>n</ex> Wuill' <term
                             n="Le nom est graphié &#171; Walguet &#187; dans l&#x2019;autre acte de 1296 présenté sur le site ; on pourrait aussi transcrire &#171; Walgnet &#187; ou, plus vraisemblablement, &#171; Wargnet &#187;."
-                            >Warguet</term>, le seal de n<expan>ost</expan>re-</l>
-                    <l>dit seign<expan>our</expan> le roy, douq<expan>ue</expan>l on use en la cour
-                        de Salins. Saelees <expan>et</expan> deliv<expan>r</expan>ees
-                        p<expan>ar</expan> Est' Bereng<expan>ier</expan>, </l>
-                    <l>Wuynet Pancepi<expan>n</expan>
-                        <expan>et</expan> ledit Wuill', l'an mil doux cent nona<expan>n</expan>te
-                        siex, le lundi ap<expan>ré</expan>s la q<expan>u</expan>in-</l>
+                            >Warguet</term>, le seal de n<ex>ost</ex>re-</l>
+                    <l>dit seign<ex>our</ex> le roy, douq<ex>ue</ex>l on use en la cour
+                        de Salins. Saelees <ex>et</ex> deliv<ex>r</ex>ees
+                        p<ex>ar</ex> Est' Bereng<ex>ier</ex>, </l>
+                    <l>Wuynet Pancepi<ex>n</ex> <ex>et</ex> ledit Wuill', l'an mil doux cent nona<ex>n</ex>te
+                        siex, le lundi ap<ex>ré</ex>s la q<ex>u</ex>in-</l>
                     <l>zaine de Penthecoste ou moi de may.</l>
                 </div>
                 <div type="commentaires">
@@ -258,9 +237,9 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
 			  <figure rend="62/faxexternes.jpg">
 			    <figDesc>
@@ -281,7 +260,7 @@
                                     l&#x2019;acte est dessiné repli déplié</seg>
 			    </figDesc>
 			  </figure>
-                        </p>
+                       </p>
                         <p>Noter avant tout, caractère très commun, la modestie des abréviations,
                             généralement beaucoup plus nombreuses et sévères dans les actes latins
                             contemporains. Plusieurs mots d'ailleurs sont abrégés de façon
@@ -290,9 +269,9 @@
                             leur développement par l'éditeur.</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>L'acte est à comparer avec le document commenté dans le <xref to="notice26.php">
                             dossier 26</xref>. Cet acte mettait
                             déjà en scène, quelques mois plus tôt, Estévenin, mais aussi sa mère,

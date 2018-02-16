@@ -16,7 +16,7 @@
             <publicationStmt>
                 <idno type="numero">102</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-02">février 2008</date>
+                <date when="2008-02">février 2008</date>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -201,11 +201,11 @@
                     <seg
                         rend="342,907,450,904,456,912,469,905,491,909,574,905,573,935,546,941,416,941,342,935,343,935"
                         n="poly">multa gl(ori)ose facturos.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> Sermones Godefridi canonici Sancti Victoris Parisiensis <lb/> in majoribus
+                    <p>Sermones Godefridi canonici Sancti Victoris Parisiensis <lb/> in majoribus
                         sollempnitatibus per anni circulum. <lb/> Sermo primus in prima dominica
                             <term
                             n="période liturgique de quatre semaines qui précède la fête de Noël. "
@@ -241,10 +241,10 @@
                         <lb/> quamplurimos, licet de lutea materia factos, <lb/> generis sui
                         inimicos fortiter debellaturos<lb/> et in confusionem illorum qui de lutea
                         materia nihil habentes peccaverunt,<lb/> multa gloriose facturos.<lb/>
-                    </p>
+                   </p>
                 </div>
                 <div type="traduction">
-                    <p> Sermons de Godefroid chanoine de Saint-Victor de Paris<lb/> pour les grandes
+                    <p>Sermons de Godefroid chanoine de Saint-Victor de Paris<lb/> pour les grandes
                         solennités de l’année.<lb/> Premier sermon pour le premier dimanche de <term
                             n="période liturgique de quatre semaines qui précède la fête de Noël. "
                             >l’Avent</term>.<lb/>
@@ -284,21 +284,21 @@
                         leur race<lb/> et que, pour la confusion de ceux qui ont péché sans avoir
                         aucune part à la boue, <lb/> ils accompliraient de nombreux actes glorieux.
                         <lb/>
-                    </p>
+                   </p>
                 </div>
             </div>
             <div type="commentaire" n="paleographie">
                 <head>Commentaire paléographique</head>
-                <div n="1">
+                <div>
                     <head>Aspect général et formes particulières</head>
-                    <div type="contenu_commentaire">
+                    <div>
  		    <p><figure rend="102/faxexterne.jpg"/></p>
-                        <p> La page comprend deux écritures principales, de type « prégothique », au
-                            tracé épais et médiocrement soigné. </p>
-                        <p> La rubrique initiale, tracée après le texte et d’une autre main, est
+                        <p>La page comprend deux écritures principales, de type « prégothique », au
+                            tracé épais et médiocrement soigné.</p>
+                        <p>La rubrique initiale, tracée après le texte et d’une autre main, est
                             traitée comme une écriture de charte (surtout la première ligne) :
                             lettres au corps réduit, aux hastes allongées et ornées, <hi rend="bold"
-                                >m</hi> et <hi rend="bold">i</hi> plongeants à la fin du mot. </p>
+                                >m</hi> et <hi rend="bold">i</hi> plongeants à la fin du mot.</p>
                         <p>L’écriture du texte est déjà largement « gothicisée », avec des
                             hésitations : <lb/>
                             <list type="simple">
@@ -316,7 +316,7 @@
                                     flottante ; par ailleurs, ce trait n’est pas supprimé (« élidé
                                     ») lorsqu’il suit la traverse d’un <hi rend="bold">c</hi>, <hi
                                         rend="bold">t</hi> ou <hi rend="bold">g</hi>, comme ce sera
-                                    le cas au XIII<hi rend="italic">e</hi> siècle. </item>
+                                    le cas au XIII<hi rend="i">e</hi> siècle. </item>
                                 <item> le couple <hi rend="bold">or</hi> est formé avec un demi-<hi
                                         rend="bold">r</hi> (usage à peu près systématique dans
                                     l’écriture gothique mais non nouveau) ; </item>
@@ -326,7 +326,7 @@
                                     lettres redoublées, ici <hi rend="bold">pp</hi>, dans <hi
                                         rend="bold">p(er)petuam</hi> (et <hi rend="bold">bb</hi>
                                     serait sans doute traité de même) ; cela aussi est assez
-                                    fréquent depuis le milieu du XII<hi rend="italic">e</hi> siècle
+                                    fréquent depuis le milieu du XII<hi rend="i">e</hi> siècle
                                     environ ; </item>
                                 <item>
                                     <hi rend="bold">d</hi> est souvent oncial (penché), mais <hi
@@ -339,45 +339,45 @@
                                     <hi rend="bold">et</hi> est abrégé par la note tironienne (7)
                                     mais parfois encore par l’éperluette (<hi rend="bold"
                                     >&amp;</hi>), dans une forme basculée à droite, typique de
-                                    la fin du XII<hi rend="italic">e</hi> siècle ; </item>
+                                    la fin du XII<hi rend="i">e</hi> siècle ; </item>
                                 <item> lettres marquées d’un accent oblique : <hi rend="bold">i</hi>
                                     voisin d’autres jambages ; <hi rend="bold">o</hi> isolé
                                     (interjection). </item>
                             </list>
-                        </p>
-                        <p> Enfin quelques lettres montrent l’influence des cursives documentaires,
+                       </p>
+                        <p>Enfin quelques lettres montrent l’influence des cursives documentaires,
                             par des tracés plus contournés, brisés, prolongés vers le bas par des
                             filets : <hi rend="bold">h</hi> et <hi rend="bold">v</hi> initiaux, <hi
                                 rend="bold">g</hi> avec trait inférieur plus ou moins recourbé vers
                             le bas, couple <hi rend="bold">ii</hi>, et <hi rend="bold">s</hi> final
-                            (dernier mot de la page). </p>
-                        <p> Aux lignes 12 à 15, et surtout 13, des corrections ont été portées après
+                            (dernier mot de la page).</p>
+                        <p>Aux lignes 12 à 15, et surtout 13, des corrections ont été portées après
                             grattage du parchemin. Il pourrait s’agir d’une autre main
                             contemporaine, ou bien plutôt de la même main altérée par manque de
                             place et de soin. L’écriture est rétrécie, penchée à gauche au début de
                             la l. 13 (signe de rapidité), pleine d’abréviations, et oublie deux
                             lettres (l. 13, fin). A la fin de la ligne 15, au moins <hi rend="bold"
-                                >eam</hi> est nettement d’une autre main encore. </p>
-                        <p> L’ex-libris au bas de la page est probablement de la première moitié du
-                                XV<hi rend="italic">e</hi> siècle : noter entre autres la forme des
+                                >eam</hi> est nettement d’une autre main encore.</p>
+                        <p>L’ex-libris au bas de la page est probablement de la première moitié du
+                                XV<hi rend="i">e</hi> siècle : noter entre autres la forme des
                                 <hi rend="bold">a</hi> construits sur deux traits verticaux ;
                             l’extension en hauteur des <hi rend="bold">t</hi> ; et le très large <hi
                                 rend="bold">A</hi> (« majuscule gothique »), sans doute une
                             indication de cote tracée en même temps, à en juger par la couleur de
-                            l’encre. </p>
+                            l’encre.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Abréviations</head>
-                    <div type="contenu_commentaire">
-                        <p> Le système abréviatif présente les formes habituelles à cette date :
+                    <div>
+                        <p>Le système abréviatif présente les formes habituelles à cette date :
                             tildes pour nasales et <hi rend="bold">re</hi> (tracés avec ou sans
                             filet d’attaque, sans règle précise) ; abréviations sur <hi rend="bold"
                                 >p</hi> ; conjonction <hi rend="bold">et</hi> (soit <hi rend="bold"
                                 >7</hi> soit <hi rend="bold">&amp;</hi>, voir plus haut) ;
                             lettres suscrites ; terminaisons -<hi rend="bold">b(us)</hi> et -<hi
                                 rend="bold">or(um)</hi> ; signe conventionnel pour -<hi rend="bold"
-                                >us</hi> ou -<hi rend="bold">ur</hi>. </p>
+                                >us</hi> ou -<hi rend="bold">ur</hi>.</p>
                         <p>Noter plus spécialement : <lb/>
                             <list type="simple">
                                 <item> la multiplicité d’abréviations de la ligne 13 ; </item>
@@ -392,34 +392,34 @@
                                     copiste ayant écrit par solécisme <hi rend="bold"
                                     >provideat</hi>). </item>
                             </list>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Structuration</head>
-                    <div type="contenu_commentaire">
+                    <div>
 		    <p><figure rend="102/faxexterne.jpg"/></p>
-                        <p> Sur ce feuillet de dimensions moyennes (250 x 170 mm), la réglure est
+                        <p>Sur ce feuillet de dimensions moyennes (250 x 170 mm), la réglure est
                             tracée à la mine de plomb. Le texte, dont l’écriture est presque posée
                             sur les lignes, est encadré par deux marges étroites (6 mm), laissées
                             libres sauf ajout de corrections. Dans la marge extérieure, une autre
                             colonne définit l’espace de réglure. Enfin l’ex-libris de l’abbaye de
                             Saint-Victor a été ajouté sur deux lignes réglées en même temps à
-                            l’encre brune dans la marge inférieure. </p>
-                        <p> Le recueil de sermons est introduit par un titre général rubriqué dont
-                            la longueur a été mal calculée, puisqu’il doit déborder dans la marge. </p>
-                        <p> Le début du premier sermon est mis en valeur par une grande initiale
+                            l’encre brune dans la marge inférieure.</p>
+                        <p>Le recueil de sermons est introduit par un titre général rubriqué dont
+                            la longueur a été mal calculée, puisqu’il doit déborder dans la marge.</p>
+                        <p>Le début du premier sermon est mis en valeur par une grande initiale
                                 (<hi rend="bold">A</hi>) « puzzle » ou « émanchée » filigranée et à
                             fleurons, à l’encre rouge et bleue, donc le décor est encore d’esprit
-                            plutôt roman. </p>
-                        <p> Les mots sont régulièrement séparés à l’exception de certaines
+                            plutôt roman.</p>
+                        <p>Les mots sont régulièrement séparés à l’exception de certaines
                             prépositions et conjonctions. A la ligne 22, pour éviter un risque
                             d’ambiguïté, le scribe a ajouté deux traits, au-dessus et au-dessous,
-                            entre <hi rend="bold">de</hi> et <hi rend="bold">generis</hi>. </p>
-                        <p> La coupe en fin de ligne est signalée par un trait d’union. </p>
-                        <p> La ponctuation, simple, utilise le point (<hi rend="italic"
+                            entre <hi rend="bold">de</hi> et <hi rend="bold">generis</hi>.</p>
+                        <p>La coupe en fin de ligne est signalée par un trait d’union.</p>
+                        <p>La ponctuation, simple, utilise le point (<hi rend="i"
                             >punctus</hi>) seul pour séparer les propositions, et associé à une
-                            majuscule pour le début d’une nouvelle phrase. </p>
+                            majuscule pour le début d’une nouvelle phrase.</p>
                         <p><!-- A la différence des autres paragraphes de ce div, celui-ci s'accompagne d'un saut de 
                         ligne : faut-il l'encoder d'une manière particulière ?  -->
                             L’économie originelle de la page a été modifiée par la suite : <lb/>
@@ -431,45 +431,45 @@
                                     cotes, des essais de plume et le cachet de la bibliothèque
                                     Mazarine. </item>
                             </list>
-                        </p>
+                       </p>
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique</head>
-                <div n="1">
+                <div>
                     <head>Un auteur singulier</head>
-                    <div type="contenu_commentaire">
-                        <p> Né à la fin des années 1120, Godefroid fait ses études à Paris entre
+                    <div>
+                        <p>Né à la fin des années 1120, Godefroid fait ses études à Paris entre
                             1140 et 1155. Devenu alors chanoine à Saint-Victor, il complète sa
                             formation grâce l’étude de la théologie et des auteurs victorins,
-                            notamment Hugues. À côté de deux œuvres majeures, le <hi rend="italic">
-                                Fons philosophiae</hi> et le <hi rend="italic">Microcosmus</hi>, on
+                            notamment Hugues. À côté de deux œuvres majeures, le <hi rend="i">
+                                Fons philosophiae</hi> et le <hi rend="i">Microcosmus</hi>, on
                             conserve de lui 32 sermons et des pièces liturgiques qui illustrent son
                             rôle au sein de l’abbaye. L’attrait manifesté par Godefroid pour les
                             auteurs antiques et les arts mécaniques explique sans doute la disgrâce
                             qui le frappe vers 1180. Il est alors exilé et meurt probablement à
-                            Saint-Victor à la fin des années 1190. </p>
+                            Saint-Victor à la fin des années 1190.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Les sermons</head>
-                    <div type="contenu_commentaire">
-                        <p> Peu diffusée à l’époque médiévale, l’œuvre homilétique de Godefroid est
+                    <div>
+                        <p>Peu diffusée à l’époque médiévale, l’œuvre homilétique de Godefroid est
                             encore méconnue en raison de son caractère largement inédit. Principale
                             source sur la prédication du chanoine, le manuscrit 1002 de la Mazarine
                             donne une série de 19 sermons. Ceux-ci forment une collection réunie par
-                            l’auteur avant la composition du <hi rend="italic">Microcosmus</hi>, où
-                            il est y fait référence comme à son <hi rend="italic">libellus
+                            l’auteur avant la composition du <hi rend="i">Microcosmus</hi>, où
+                            il est y fait référence comme à son <hi rend="i">libellus
                             sermonum</hi>. Ce manuscrit a été copié à la fin des années 1170 par un
                             confrère victorin contemporain de Godefroid et relu par ce dernier qui y
-                            ajouta des annotations. </p>
+                            ajouta des annotations.</p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Le sermon pour l’Avent</head>
-                    <div type="contenu_commentaire">
-                        <p> Période de préparation spirituelle où les chrétiens attendent la fête de
+                    <div>
+                        <p>Période de préparation spirituelle où les chrétiens attendent la fête de
                             Noël, l’Avent est l’occasion pour le prédicateur de rappeler le plan
                             établi par Dieu pour sauver l’humanité. Le sermon s’ouvre par le
                             commentaire d’un texte liturgique. Suivant les recommandations d’Hugues
@@ -477,20 +477,20 @@
                             passage. C'est pourquoi, il cherche à établir les circonstances précises
                             dans lesquelles a été proféré le texte. Il recourt ainsi à l’étymologie qui sert
                             d’amorce à un développement mettant en parallèle la cité de Dieu et le
-                            camp de Dieu. </p>
-                        <p> Dans ce sermon typique de la prédication canoniale, Godefroid expose une
+                            camp de Dieu.</p>
+                        <p>Dans ce sermon typique de la prédication canoniale, Godefroid expose une
                             ecclésiologie conforme à la pensée des Pères, notamment Augustin. Il
                             voit ainsi dans la cité de Dieu l’ensemble des anges demeurés fidèles
                             après la chute de Satan et des mauvais anges. Quant au camp de Dieu, il
                             s’agit de l’Église militante, c’est-à-dire des hommes qui combattent
-                            afin de rejoindre au ciel l’Église triomphante. Les <hi rend="italic"
+                            afin de rejoindre au ciel l’Église triomphante. Les <hi rend="i"
                                 >speculatores</hi> sont tous ceux qui défendent l’Église dans son
-                            combat terrestre, qu’il s’agisse des saints ou de Dieu lui-même. </p>
+                            combat terrestre, qu’il s’agisse des saints ou de Dieu lui-même.</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Pour approfondir</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <listBibl>
                             <bibl>
                                 <author>Delhaye (P.)</author>, « Les sermons de Godefroy de

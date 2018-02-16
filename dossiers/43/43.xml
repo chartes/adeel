@@ -22,174 +22,167 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
                     <seg rend="688,3,794,24">&#60;discreto viro&#62;</seg>
-                    <seg rend="5,22,449,48">Petrus de Ferrar<expan>iis</expan>, mil<expan>es</expan>
-                            d<expan>omi</expan>ni n<expan>ost</expan>ri Franc&#x2019;
-                        <expan>et</expan> Navarre reg<expan>is</expan>
-                    </seg>
-                    <seg rend="455,25,898,50">ejusq<expan>ue</expan> sen<expan>escallus</expan>
-                            Xancton<expan>ensis</expan>
-                        <expan>et</expan> Eng<expan>olismensis</expan>, Guill<expan>el</expan>mo
+                    <seg rend="5,22,449,48">Petrus de Ferrar<ex>iis</ex>, mil<ex>es</ex>
+                            d<ex>omi</ex>ni n<ex>ost</ex>ri Franc&#x2019; <ex>et</ex> Navarre reg<ex>is</ex></seg>
+                    <seg rend="455,25,898,50">ejusq<ex>ue</ex> sen<ex>escallus</ex>
+                            Xancton<ex>ensis</ex> <ex>et</ex> Eng<ex>olismensis</ex>, Guill<ex>el</ex>mo
                         Amblardi, thesau-</seg>
-                    <seg rend="7,52,433,76">-rario {n<expan>ost</expan>ro} regio
-                        Xancton<expan>ensi</expan> v<expan>e</expan>l ejus locu<expan>m</expan>
-                            ten<expan>enti</expan>, sal<expan>u</expan>t<expan>em</expan>. </seg>
-                    <seg rend="441,51,890,76">Patent<expan>es</expan> l<expan>itte</expan>ras
-                            reg<expan>ias</expan> recepimus in hec v<expan>er</expan>ba : &#34;
-                            Ph<expan>ilippus</expan>, Dei</seg>
-                    <seg rend="7,81,553,98">gr<expan>ati</expan>a Franc<expan>orum</expan> et
-                        Navarre rex, sen<expan>escall</expan>o Xancton<expan>ensi</expan> aut ejus
-                            locu<expan>m</expan> ten<expan>enti</expan>,
-                            sal<expan>u</expan>t<expan>em</expan>. </seg>
-                    <seg rend="564,81,887,99">Al<expan>ias</expan> vob<expan>is</expan> mandavimus
-                        et it<expan>er</expan>ato p<expan>re</expan>cipie<expan>n</expan>te</seg>
+                    <seg rend="7,52,433,76">-rario {n<ex>ost</ex>ro} regio
+                        Xancton<ex>ensi</ex> v<ex>e</ex>l ejus locu<ex>m</ex>
+                            ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>. </seg>
+                    <seg rend="441,51,890,76">Patent<ex>es</ex> l<ex>itte</ex>ras
+                            reg<ex>ias</ex> recepimus in hec v<ex>er</ex>ba : &#34;
+                            Ph<ex>ilippus</ex>, Dei</seg>
+                    <seg rend="7,81,553,98">gr<ex>ati</ex>a Franc<ex>orum</ex> et
+                        Navarre rex, sen<ex>escall</ex>o Xancton<ex>ensi</ex> aut ejus
+                            locu<ex>m</ex> ten<ex>enti</ex>,
+                            sal<ex>u</ex>t<ex>em</ex>. </seg>
+                    <seg rend="564,81,887,99">Al<ex>ias</ex> vob<ex>is</ex> mandavimus
+                        et it<ex>er</ex>ato p<ex>re</ex>cipie<ex>n</ex>te</seg>
                     <seg rend="7,105,592,122">districte mandamus precipiendo districte mandamus
-                            q<expan>ua</expan>t<expan>inus</expan> castrum
-                            n<expan>ost</expan>r<expan>u</expan>m </seg>
-                    <seg rend="597,105,891,121">de Rupp<expan>ella</expan> faciat<expan>is</expan>
-                            rep<expan>ar</expan>ac<expan>i</expan>one nec<expan>ess</expan>aria
-                            q<expan>u</expan>am</seg>
-                    <seg rend="8,130,529,149">cicius rep<expan>ar</expan>ari, et nos
-                        gentib<expan>us</expan> n<expan>ost</expan>ris
-                            p<expan>re</expan>sentib<expan>us</expan> in mandatis
-                        quat<expan>inus</expan>
-                    </seg>
-                    <seg rend="533,127,894,148">quicquid p<expan>ro</expan>
-                            rep<expan>ar</expan>ac<expan>i</expan>one
-                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>a vos
-                        pon<expan>er</expan>e contig<expan>er</expan>it</seg>
+                            q<ex>ua</ex>t<ex>inus</ex> castrum
+                            n<ex>ost</ex>r<ex>u</ex>m </seg>
+                    <seg rend="597,105,891,121">de Rupp<ex>ella</ex> faciat<ex>is</ex>
+                            rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria
+                            q<ex>u</ex>am</seg>
+                    <seg rend="8,130,529,149">cicius rep<ex>ar</ex>ari, et nos
+                        gentib<ex>us</ex> n<ex>ost</ex>ris
+                            p<ex>re</ex>sentib<ex>us</ex> in mandatis
+                        quat<ex>inus</ex></seg>
+                    <seg rend="533,127,894,148">quicquid p<ex>ro</ex>
+                            rep<ex>ar</ex>ac<ex>i</ex>one
+                            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vos
+                        pon<ex>er</ex>e contig<ex>er</ex>it</seg>
                     <seg rend="9,182,42,158,456,149,455,171,135,172" n="poly">in
-                        v<expan>est</expan>ris compotis allocent <expan>et</expan> de
-                        v<expan>est</expan>ra recepta deducant ; </seg>
-                    <seg rend="471,152,894,173">scituri q<expan>uod</expan>, si ob
-                        v<expan>est</expan>ram negligenciam d<expan>i</expan>c<expan>tu</expan>m
-                            castru<expan>m</expan></seg>
+                        v<ex>est</ex>ris compotis allocent <ex>et</ex> de
+                        v<ex>est</ex>ra recepta deducant ; </seg>
+                    <seg rend="471,152,894,173">scituri q<ex>uod</ex>, si ob
+                        v<ex>est</ex>ram negligenciam d<ex>i</ex>c<ex>tu</ex>m
+                            castru<ex>m</ex></seg>
                     <seg rend="18,220,113,204,369,201,369,182,94,181,17,196" n="poly"
-                        >p<expan>er</expan> deffectu<expan>m</expan>
-                        rep<expan>ar</expan>ac<expan>i</expan>onis contig<expan>er</expan>it
+                        >p<ex>er</ex> deffectu<ex>m</ex>
+                        rep<ex>ar</ex>ac<ex>i</ex>onis contig<ex>er</ex>it
                         deteriorari, </seg>
-                    <seg rend="377,182,870,199">nos ip<expan>su</expan>m castrum
-                        v<expan>est</expan>ris faciemus sumptib<expan>us</expan>
-                        rep<expan>ar</expan>ari. Nolumus</seg>
+                    <seg rend="377,182,870,199">nos ip<ex>su</ex>m castrum
+                        v<ex>est</ex>ris faciemus sumptib<ex>us</ex>
+                        rep<ex>ar</ex>ari. Nolumus</seg>
                     <seg rend="19,247,18,225,105,212,378,209,379,225,108,232" n="poly"
-                        >tam<expan>en</expan> q<expan>uod</expan> si aliq<expan>u</expan>a nova
+                        >tam<ex>en</ex> q<ex>uod</ex> si aliq<ex>u</ex>a nova
                         edificia faciatis ibidem. </seg>
                     <seg rend="390,207,878,225">Datum apud Lochias, die XIIII maii, anno
-                        D<expan>omi</expan>ni M° CCC° vicesimo</seg>
+                        D<ex>omi</ex>ni M° CCC° vicesimo</seg>
                     <seg rend="20,255,23,280,116,262,241,253,365,247,371,229,137,237" n="poly"
-                        >primo. &#34; Quar<expan>um</expan> auct<expan>oritat</expan>e
-                            l<expan>itte</expan>rar<expan>um</expan> castrum reg<expan>ium</expan>
-                    </seg>
-                    <seg rend="378,230,881,248">de Rupp<expan>ell</expan>a faciat<expan>is</expan>
-                            rep<expan>ar</expan>ac<expan>i</expan>one nec<expan>ess</expan>aria
-                            rep<expan>ar</expan>ari juxt<expan>a</expan> contine<expan>n</expan>tiam</seg>
+                        >primo. &#34; Quar<ex>um</ex> auct<ex>oritat</ex>e
+                            l<ex>itte</ex>rar<ex>um</ex> castrum reg<ex>ium</ex></seg>
+                    <seg rend="378,230,881,248">de Rupp<ex>ell</ex>a faciat<ex>is</ex>
+                            rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria
+                            rep<ex>ar</ex>ari juxt<ex>a</ex> contine<ex>n</ex>tiam</seg>
                     <seg rend="25,305,20,289,100,269,204,261,208,282,100,288" n="poly">et
-                            tenore<expan>m</expan> l<expan>itte</expan>rar<expan>um</expan>
-                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>ar<expan>um</expan>, </seg>
-                    <seg rend="214,258,885,278">sine aliquib<expan>us</expan> novis edificiis
-                            ibid<expan>em</expan> faciendo, p<expan>ro</expan>ut in
-                            d<expan>i</expan>c<expan>t</expan>is l<expan>itte</expan>ris videbitis
-                            contin<expan>er</expan>i.</seg>
+                            tenore<ex>m</ex> l<ex>itte</ex>rar<ex>um</ex>
+                            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>ar<ex>um</ex>, </seg>
+                    <seg rend="214,258,885,278">sine aliquib<ex>us</ex> novis edificiis
+                            ibid<ex>em</ex> faciendo, p<ex>ro</ex>ut in
+                            d<ex>i</ex>c<ex>t</ex>is l<ex>itte</ex>ris videbitis
+                            contin<ex>er</ex>i.</seg>
                     <seg rend="26,307,181,289,282,288,468,282,466,300,159,313,27,327" n="poly"
-                            >Datu<expan>m</expan> Rupp<expan>elle</expan>, die
-                        d<expan>omi</expan>nica post festu<expan>m</expan> B<expan>eat</expan>i
-                            M<expan>ar</expan>tini yemal<expan>is</expan>, </seg>
-                    <seg rend="474,284,755,299">anno D<expan>omi</expan>ni M° CCC° vicesimo
+                            >Datu<ex>m</ex> Rupp<ex>elle</ex>, die
+                        d<ex>omi</ex>nica post festu<ex>m</ex> B<ex>eat</ex>i
+                            M<ex>ar</ex>tini yemal<ex>is</ex>, </seg>
+                    <seg rend="474,284,755,299">anno D<ex>omi</ex>ni M° CCC° vicesimo
                     primo.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
                     <l><term
                             n="Pierre de Ferrières fut sénéchal de Saintonge de 1321 à 1324, après avoir été sénéchal de Rouergue."
-                            >Petrus de Ferrar<expan>iis</expan></term>, mil<expan>es</expan>
-                            d<expan>omi</expan>ni n<expan>ost</expan>ri </l>
+                            >Petrus de Ferrar<ex>iis</ex></term>, mil<ex>es</ex>
+                            d<ex>omi</ex>ni n<ex>ost</ex>ri </l>
                     <l><term
                             n="La titulature du roi dans ses actes et sur ses sceaux est toujours, par tradition, rex Francorum ; les contemporains transposent plus volontiers la formule vernaculaire en rex Francie ; les actes de l&#x2019;administration royale hésitent entre les deux formes, quand elles ne sont pas abrégées. - Les fils de Philippe le Bel, de 1314 à 1328, ont pris régulièrement le titre complémentaire de roi de Navarre."
-                            >Franc&#x2019; <expan>et</expan> Navarre</term> reg<expan>is</expan>
-                            ejusq<expan>ue</expan> sen<expan>escallus</expan>
+                            >Franc&#x2019; <ex>et</ex> Navarre</term> reg<ex>is</ex>
+                            ejusq<ex>ue</ex> sen<ex>escallus</ex>
                     </l>
-                    <l>Xancton<expan>ensis</expan>
-                        <expan>et</expan>
+                    <l>Xancton<ex>ensis</ex> <ex>et</ex>
                         <term
                             n="L&#x2019;Angoumois, acquis par le roi en 1303, ne constitua une sénéchaussée indépendante de la Saintonge qu&#x2019;à compter des années 1330. Plus bas, le roi ne qualifie le sénéchal que de sénéchal de Saintonge parce que l&#x2019;action visée ne concerne que cette circonscription."
-                                >Eng<expan>olismensis</expan></term>, </l>
+                                >Eng<ex>olismensis</ex></term>, </l>
                     <l><term
                             n="Le qualificatif de discretus vir dit le discernement, la sagesse, donc par défaut la non-noblesse."
-                            >&#60;discreto viro&#62;</term> Guill<expan>el</expan>mo
+                            >&#60;discreto viro&#62;</term> Guill<ex>el</ex>mo
                         Amblardi, <term
                             n="Guillaume Amblard fut trésorier royal de Saintonge de 1321 à 1324. Il faisait aussi à l&#x2019;époque office de receveur de la sénéchaussée. Noter surtout que cet important adjoint du sénéchal est directement rattaché au roi."
-                            >thesaurario</term> {n<expan>ost</expan>ro} regio </l>
-                    <l>Xancton<expan>ensi</expan> v<expan>e</expan>l ejus locu<expan>m</expan>
-                            ten<expan>enti</expan>, sal<expan>u</expan>t<expan>em</expan>. </l>
-                    <l>Patent<expan>es</expan> l<expan>itte</expan>ras <term
+                            >thesaurario</term> {n<ex>ost</ex>ro} regio </l>
+                    <l>Xancton<ex>ensi</ex> v<ex>e</ex>l ejus locu<ex>m</ex>
+                            ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>. </l>
+                    <l>Patent<ex>es</ex> l<ex>itte</ex>ras <term
                             n="On a transcrit &#34; regias &#34; et non &#34; regis &#34;, car dans ce dernier cas, on attendrait plutôt une tournure du type &#34; domini nostri regis &#34; : on parle de &#34; lettres patentes royaux &#34;, comme plus bas de &#34; château royal &#34;. Noter au passage que la formule toute faite &#34; lettres royaux &#34; renvoie d&#x2019;une part au latin (plur. litterae = une lettre, un acte, a.fr. &#34; unes lettres &#34;) et d&#x2019;autre part à l&#x2019;ancien français (royaus vient de regales peut être aussi bien féminin que masculin)."
-                                >reg<expan>ias</expan></term> recepimus in hec v<expan>er</expan>ba
+                                >reg<ex>ias</ex></term> recepimus in hec v<ex>er</ex>ba
                         : </l>
                     <l/>
                     <l>&#34; <term n="Philippe V le Long, roi de France de 1316 à 1322."
-                                >Ph<expan>ilippus</expan></term>, Dei gr<expan>ati</expan>a
-                            Franc<expan>orum</expan> et Navarre </l>
-                    <l>rex, sen<expan>escall</expan>o Xancton<expan>ensi</expan> aut ejus
-                            locu<expan>m</expan>
+                                >Ph<ex>ilippus</ex></term>, Dei gr<ex>ati</ex>a
+                            Franc<ex>orum</ex> et Navarre </l>
+                    <l>rex, sen<ex>escall</ex>o Xancton<ex>ensi</ex> aut ejus
+                            locu<ex>m</ex>
                     </l>
-                    <l>ten<expan>enti</expan>, sal<expan>u</expan>t<expan>em</expan>.
-                        Al<expan>ias</expan> vob<expan>is</expan> mandavimus et </l>
-                    <l>it<expan>er</expan>ato [p<expan>re</expan>cipie<expan>n</expan>te districte
+                    <l>ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>.
+                        Al<ex>ias</ex> vob<ex>is</ex> mandavimus et </l>
+                    <l>it<ex>er</ex>ato [p<ex>re</ex>cipie<ex>n</ex>te districte
                         mandamus]</l>
-                    <l>precipiendo districte mandamus q<expan>ua</expan>t<expan>inus</expan>
+                    <l>precipiendo districte mandamus q<ex>ua</ex>t<ex>inus</ex>
                     </l>
-                    <l>castrum n<expan>ost</expan>r<expan>u</expan>m de Rupp<expan>ella</expan>
-                            faciat<expan>is</expan>
+                    <l>castrum n<ex>ost</ex>r<ex>u</ex>m de Rupp<ex>ella</ex>
+                            faciat<ex>is</ex>
                     </l>
-                    <l>rep<expan>ar</expan>ac<expan>i</expan>one nec<expan>ess</expan>aria
-                        q<expan>u</expan>am cicius rep<expan>ar</expan>ari, et </l>
+                    <l>rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria
+                        q<ex>u</ex>am cicius rep<ex>ar</ex>ari, et </l>
                     <l>nos <term
                             n="Comprendre, selon l&#x2019;expression plus courante, &#34; aux gens de nos comptes &#34;, &#34; aux gens qui peuplent présentement notre chambre des comptes &#34;."
-                                >gentib<expan>us</expan> n<expan>ost</expan>ris
-                                p<expan>re</expan>sentib<expan>us</expan></term> [[damus]] in </l>
-                    <l>mandatis quat<expan>inus</expan> quicquid p<expan>ro</expan>
-                            rep<expan>ar</expan>ac<expan>i</expan>one </l>
-                    <l>p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>a vos
-                        pon<expan>er</expan>e contig<expan>er</expan>it in v<expan>est</expan>ris </l>
+                                >gentib<ex>us</ex> n<ex>ost</ex>ris
+                                p<ex>re</ex>sentib<ex>us</ex></term> [[damus]] in </l>
+                    <l>mandatis quat<ex>inus</ex> quicquid p<ex>ro</ex>
+                            rep<ex>ar</ex>ac<ex>i</ex>one </l>
+                    <l>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vos
+                        pon<ex>er</ex>e contig<ex>er</ex>it in v<ex>est</ex>ris </l>
                     <l>compotis <term
                             n="&#34; Allouer &#34; signifie &#34; placer &#34; une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L&#x2019;expression renvoie aux temps où c&#x2019;étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers."
-                            >allocent</term>
-                        <expan>et</expan> de v<expan>est</expan>ra recepta </l>
-                    <l>deducant ; scituri q<expan>uod</expan>, si ob v<expan>est</expan>ram </l>
-                    <l>negligenciam d<expan>i</expan>c<expan>tu</expan>m castru<expan>m</expan>
-                            p<expan>er</expan> deffectu<expan>m</expan>
+                            >allocent</term> <ex>et</ex> de v<ex>est</ex>ra recepta </l>
+                    <l>deducant ; scituri q<ex>uod</ex>, si ob v<ex>est</ex>ram </l>
+                    <l>negligenciam d<ex>i</ex>c<ex>tu</ex>m castru<ex>m</ex>
+                            p<ex>er</ex> deffectu<ex>m</ex>
                     </l>
-                    <l>rep<expan>ar</expan>ac<expan>i</expan>onis contig<expan>er</expan>it
-                        deteriorari, nos ip<expan>su</expan>m </l>
-                    <l>castrum v<expan>est</expan>ris faciemus sumptib<expan>us</expan>
-                        rep<expan>ar</expan>ari. </l>
-                    <l>Nolumus tam<expan>en</expan> q<expan>uod</expan> [si] aliq<expan>u</expan>a
+                    <l>rep<ex>ar</ex>ac<ex>i</ex>onis contig<ex>er</ex>it
+                        deteriorari, nos ip<ex>su</ex>m </l>
+                    <l>castrum v<ex>est</ex>ris faciemus sumptib<ex>us</ex>
+                        rep<ex>ar</ex>ari. </l>
+                    <l>Nolumus tam<ex>en</ex> q<ex>uod</ex> [si] aliq<ex>u</ex>a
                         nova edificia </l>
                     <l>faciatis ibidem. Datum apud <term n="Loches (Indre-et-Loire, ch.-l. arr.)."
                             >Lochias</term>, die XIIII </l>
-                    <l>maii, anno D<expan>omi</expan>ni M° CCC° vicesimo primo. &#34; </l>
+                    <l>maii, anno D<ex>omi</ex>ni M° CCC° vicesimo primo. &#34; </l>
                     <l/>
-                    <l>Quar<expan>um</expan> auct<expan>oritat</expan>e
-                            l<expan>itte</expan>rar<expan>um</expan> castrum reg<expan>ium</expan>
+                    <l>Quar<ex>um</ex> auct<ex>oritat</ex>e
+                            l<ex>itte</ex>rar<ex>um</ex> castrum reg<ex>ium</ex>
                     </l>
-                    <l>de Rupp<expan>ell</expan>a faciat<expan>is</expan>
-                            rep<expan>ar</expan>ac<expan>i</expan>one nec<expan>ess</expan>aria </l>
-                    <l>rep<expan>ar</expan>ari juxt<expan>a</expan> contine<expan>n</expan>tiam et
-                            tenore<expan>m</expan>
+                    <l>de Rupp<ex>ell</ex>a faciat<ex>is</ex>
+                            rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria </l>
+                    <l>rep<ex>ar</ex>ari juxt<ex>a</ex> contine<ex>n</ex>tiam et
+                            tenore<ex>m</ex>
                     </l>
-                    <l>l<expan>itte</expan>rar<expan>um</expan>
-                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>ar<expan>um</expan>,
-                        sine aliquib<expan>us</expan> novis </l>
-                    <l>edificiis ibid<expan>em</expan> faciendo, p<expan>ro</expan>ut in
-                            d<expan>i</expan>c<expan>t</expan>is l<expan>itte</expan>ris </l>
-                    <l>videbitis contin<expan>er</expan>i. Datu<expan>m</expan>
-                        Rupp<expan>elle</expan>, die </l>
-                    <l>d<expan>omi</expan>nica post festu<expan>m</expan>
+                    <l>l<ex>itte</ex>rar<ex>um</ex>
+                            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>ar<ex>um</ex>,
+                        sine aliquib<ex>us</ex> novis </l>
+                    <l>edificiis ibid<ex>em</ex> faciendo, p<ex>ro</ex>ut in
+                            d<ex>i</ex>c<ex>t</ex>is l<ex>itte</ex>ris </l>
+                    <l>videbitis contin<ex>er</ex>i. Datu<ex>m</ex>
+                        Rupp<ex>elle</ex>, die </l>
+                    <l>d<ex>omi</ex>nica post festu<ex>m</ex>
                         <term
                             n="La Saint-Martin d&#x2019;hiver, où l&#x2019;on commémore l&#x2019;inhumation du saint à Tours, est célébrée le 11 novembre. En 1321, elle tombe un mercredi ; l&#x2019;acte est donc du dimanche 15 novembre."
-                                >B<expan>eat</expan>i M<expan>ar</expan>tini
-                        yemal<expan>is</expan></term>, </l>
-                    <l>anno D<expan>omi</expan>ni M° CCC° vicesimo primo.</l>
+                                >B<ex>eat</ex>i M<ex>ar</ex>tini
+                        yemal<ex>is</ex></term>, </l>
+                    <l>anno D<ex>omi</ex>ni M° CCC° vicesimo primo.</l>
                 </div>
                 <div type="traduction">
                     <l><term
@@ -272,14 +265,14 @@
                             tient compte que de l'état corrigé.</p>
                         <p>Dans la transcription interactive du fac-similé, les accolades {}
                             encadrent les mots rayés et les crochets brisés &#60; &#62;
-                            signalent les mots ajoutés en interligne par le scribe. </p>
+                            signalent les mots ajoutés en interligne par le scribe.</p>
                     </div>
                 </div>
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
-                    <div type="contenu_commentaire">
+                <div>
+                    <div>
                         <head>Caractères externes</head>
                         <div class="recommandation">
                             <p>Passer la souris sur les cercles rouges pour des commentaires de
@@ -287,64 +280,64 @@
                         </div>
 
                         <p>
-                            <seg corresp="" rend="color:#0099CC">Petrus de Ferrariis, miles domini
+                            <seg corresp="">Petrus de Ferrariis, miles domini
                                 nostri Franc’ et Navarre regis ejusque senescallus Xanctonensis et
-                                    Engolismensis,<note id="" type="bulle">Suscription.</note></seg>
-                            <seg corresp="" rend="color:#FF0000">discreto viro Guillelmo Amblardi,
+                                    Engolismensis,<note id="">Suscription.</note></seg>
+                            <seg corresp="">discreto viro Guillelmo Amblardi,
                                 thesaurario regio Xanctonensi vel ejus locum tenenti,<note id=""
-                                    type="bulle">Adresse.</note></seg>
-                            <seg corresp="" rend="color:#993399">salutem.<note id="" type="bulle"
+                                   >Adresse.</note></seg>
+                            <seg corresp="">salutem.<note id=""
                                     >Salut.</note></seg>
-                            <seg corresp="" rend="color:#009966">Patentes litteras regias recepimus
-                                in hec verba :<note id="" type="bulle">Début de l?exposé de l?acte
+                            <seg corresp="">Patentes litteras regias recepimus
+                                in hec verba :<note id="">Début de l?exposé de l?acte
                                     du sénéchal, qui inclut tout l?acte inséré.</note></seg>
-                            <seg corresp="" rend="color:#0099CC">“ Philippus, Dei gratia Francorum
-                                et Navarre rex,<note id="" type="bulle">Acte inséré :
+                            <seg corresp="">“ Philippus, Dei gratia Francorum
+                                et Navarre rex,<note id="">Acte inséré :
                                 suscription.</note></seg>
-                            <seg corresp="" rend="color:#FF0000">senescallo Xanctonensi aut ejus
-                                locum tenenti,<note id="" type="bulle">Acte inséré : adresse.</note></seg>
-                            <seg corresp="" rend="color:#993399">salutem.<note id="" type="bulle"
+                            <seg corresp="">senescallo Xanctonensi aut ejus
+                                locum tenenti,<note id="">Acte inséré : adresse.</note></seg>
+                            <seg corresp="">salutem.<note id=""
                                     >Acte inséré : salut.</note></seg>
-                            <seg corresp="" rend="color:#CC3366">Alias vobis mandavimus et iterato
+                            <seg corresp="">Alias vobis mandavimus et iterato
                                 (precipiente districte mandamus) precipiendo districte mandamus
                                 quatinus castrum nostrum de Ruppella faciatis reparacione necessaria
-                                quam cicius reparari,<note id="" type="bulle">Acte inséré :
+                                quam cicius reparari,<note id="">Acte inséré :
                                     dispositif.</note></seg>
-                            <seg corresp="" rend="color:#993399">et nos gentibus nostris presentibus
+                            <seg corresp="">et nos gentibus nostris presentibus
                                 [damus] in mandatis quatinus quicquid pro reparacione predicta vos
                                 ponere contigerit in vestris compotis allocent et de vestra recepta
-                                deducant ;<note id="" type="bulle">Acte inséré : clause de
+                                deducant ;<note id="">Acte inséré : clause de
                                 décharge.</note></seg>
-                            <seg corresp="" rend="color:#CC9966">scituri quod, si ob vestram
+                            <seg corresp="">scituri quod, si ob vestram
                                 negligenciam dictum castrum per deffectum reparacionis contigerit
                                 deteriorari, nos ipsum castrum vestris faciemus sumptibus
-                                    reparari.<note id="" type="bulle">Acte inséré : clause
+                                    reparari.<note id="">Acte inséré : clause
                                 pénale.</note></seg>
-                            <seg corresp="" rend="color:#FF00FF">Nolumus tamen quod (si) aliqua nova
-                                edificia faciatis ibidem.<note id="" type="bulle">Acte inséré :
+                            <seg corresp="">Nolumus tamen quod (si) aliqua nova
+                                edificia faciatis ibidem.<note id="">Acte inséré :
                                     ajout au dispositif.</note></seg>
-                            <seg corresp="" rend="color:#006600">Datum apud Lochias, die XIIII maii,
-                                anno Domini M° CCC° vicesimo primo. ”<note id="" type="bulle">Acte
+                            <seg corresp="">Datum apud Lochias, die XIIII maii,
+                                anno Domini M° CCC° vicesimo primo. ”<note id="">Acte
                                     inséré : date de lieu et de temps.</note></seg>
-                            <seg corresp="" rend="color:#CC3366">Quarum auctoritate litterarum
+                            <seg corresp="">Quarum auctoritate litterarum
                                 castrum regium de Ruppella faciatis reparacione necessaria reparari
                                 juxta continentiam et tenorem litterarum predictarum, sine aliquibus
                                 novis edificiis ibidem faciendo, prout in dictis litteris videbitis
-                                    contineri.<note id="" type="bulle">Dispositif.</note></seg>
-                            <seg corresp="" rend="color:#006600">Datum Ruppelle, die dominica post
+                                    contineri.<note id="">Dispositif.</note></seg>
+                            <seg corresp="">Datum Ruppelle, die dominica post
                                 festum Beati Martini yemalis, anno Domini M° CCC° vicesimo
-                                    primo.<note id="" type="bulle">Date de lieu et de
+                                    primo.<note id="">Date de lieu et de
                             temps.</note></seg>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Commentaire</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>L’acte royal transmis pour exécution par le sénéchal au trésorier porte
                             tous les caractères du mandement au sens diplomatique (adresse, absence
                             de corroboration) aussi bien que juridique (présence du verbe <hi
-                                rend="italic">mandamus</hi>). Dans l’organisation du discours comme
+                                rend="i">mandamus</hi>). Dans l’organisation du discours comme
                             dans les caractères externes (format allongé, scellement sur simple
                             queue, écriture rapide et sans ornement, absence de justification à
                             droite, tassement des lignes), l’acte du sénéchal en est une réplique

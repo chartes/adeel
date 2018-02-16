@@ -3,10 +3,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>1744, 1<hi rend="exposant">er</hi> avril. Procès-verbal de police (Paris).
-                    1744, 1<hi rend="exposant">er</hi> avril. (Paris). Minut
+                <title>1744, 1<hi rend="sup">er</hi> avril. Procès-verbal de police (Paris).
+                    1744, 1<hi rend="sup">er</hi> avril. (Paris). Minut
                     <!-- Juste au cas où... n'y a-t-il pas d'erreur ici ?  -->de procès-verbal de
-                    police (Paris). <hi rend="italic">Le faux incendie du 1<hi rend="exposant"
+                    police (Paris). <hi rend="i">Le faux incendie du 1<hi rend="exposant"
                         >er</hi>avril</hi> : Procès verbal d’ouverture de porte au Châtelet de
                     Paris. </title>
                 <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à
@@ -21,7 +21,7 @@
             <publicationStmt>
                 <idno type="numero">109</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+                <date when="2008-03/2008-04">mars-avril 2008</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Archives nationales, Y 14960.</p>
@@ -41,29 +41,29 @@
                     <seg rend="12,4,197,36">Procès-verbal </seg>
                     <seg rend="11,36,233,55">à l’occasion du feu </seg>
                     <seg rend="5,57,257,77">qu’on croyoit estre dans </seg>
-                    <seg rend="5,78,220,97">le petit cabinet de mons<expan>ieu</expan>r </seg>
+                    <seg rend="5,78,220,97">le petit cabinet de mons<ex>ieu</ex>r </seg>
                     <seg rend="6,99,208,118">le lieutenant criminel </seg>
-                    <seg rend="7,117,137,135">au Ch<expan>âte</expan>let.</seg>
-                    <seg rend="8,136,180,176">1<hi rend="exposant">er</hi> avril 1744.</seg>
-                </p>
+                    <seg rend="7,117,137,135">au Ch<ex>âte</ex>let.</seg>
+                    <seg rend="8,136,180,176">1<hi rend="sup">er</hi> avril 1744.</seg>
+               </p>
                 <p>
                     <seg rend="468,6,745,62">M. le procureur du roy.</seg>
-                </p>
+               </p>
                 <p>
                     <seg rend="205,58,787,127">L’an mil sept cent quarante-</seg>
                     <seg rend="189,126,616,157">quatre, le mercredy premier jour d’avril</seg>
                     <seg rend="620,128,788,159">sur les dix heures </seg>
                     <seg rend="190,158,339,179">et demie du soir, </seg>
                     <seg rend="340,157,787,179">nous, André Le Guay de Prémontval, </seg>
-                    <seg rend="184,179,584,199">con<expan>seill</expan>er du roy
-                        comm<expan>issai</expan>re au Ch<expan>âte</expan>let de Paris,</seg>
+                    <seg rend="184,179,584,199">con<ex>seill</ex>er du roy
+                        comm<ex>issai</ex>re au Ch<ex>âte</ex>let de Paris,</seg>
                     <seg rend="585,180,788,203">ancien préposé pour </seg>
                     <seg rend="185,199,410,227">la police au quartier de </seg>
-                    <seg rend="411,201,788,228">S<expan>ain</expan>t-Jacques-de-la-Boucherie dont </seg>
+                    <seg rend="411,201,788,228">S<ex>ain</ex>t-Jacques-de-la-Boucherie dont </seg>
                     <seg rend="185,228,416,250">dépend le Grand Châtelet,</seg>
                     <seg rend="417,228,789,248">ayant eu avis par Pierre Bourgeois, </seg>
                     <seg rend="185,250,588,273">l’un des guichetiers des prisons dud.
-                        Ch<expan>âte</expan>let, </seg>
+                        Ch<ex>âte</ex>let, </seg>
                     <seg rend="590,249,789,276">et par Pierre </seg>
                     <seg rend="178,274,460,297">L’Official, garçon du buvetier,</seg>
                     <seg rend="461,274,788,296">que l’on croyoit que le feu étoit </seg>
@@ -78,11 +78,11 @@
                     <seg rend="177,398,466,425">plusieurs des prisonniers qui, en ayant donné avis à
                         la </seg>
                     <seg rend="468,398,787,424">en ayant donné avis à la </seg>
-                    <seg rend="177,424,506,448">d<expan>emoise</expan>lle Poulet, concierge desd.
-                        prisons, et au s<expan>ieur</expan> Le Brun, chapelain, </seg>
-                    <seg rend="509,425,789,449">et au s<expan>ieur</expan> Le Brun, chapelain, </seg>
+                    <seg rend="177,424,506,448">d<ex>emoise</ex>lle Poulet, concierge desd.
+                        prisons, et au s<ex>ieur</ex> Le Brun, chapelain, </seg>
+                    <seg rend="509,425,789,449">et au s<ex>ieur</ex> Le Brun, chapelain, </seg>
                     <seg rend="177,449,592,471">ils étoient montez à la porte dud. cabinet </seg>
-                    <seg rend="593,452,788,479">avec le s<expan>ieur</expan> Aumont, </seg>
+                    <seg rend="593,452,788,479">avec le s<ex>ieur</ex> Aumont, </seg>
                     <seg rend="178,473,486,499">buvetier, lesquels ayant vû</seg>
                     <seg rend="487,473,788,501">qu’il y avoit en effet de la </seg>
                     <seg rend="176,500,453,526">lumière dans led. cabinet,</seg>
@@ -95,15 +95,15 @@
                     <seg rend="484,583,787,613">de venir nous en donner </seg>
                     <seg rend="176,604,556,631">avis à l’effet de nous y transporter</seg>
                     <seg rend="558,614,788,635">et y pourvoir.</seg>
-                    <seg rend="175,631,502,656">Pourquoy nous, comm<expan>issai</expan>re susd.,</seg>
+                    <seg rend="175,631,502,656">Pourquoy nous, comm<ex>issai</ex>re susd.,</seg>
                     <seg rend="504,631,789,660">nous étants à l’instant </seg>
-                    <seg rend="175,656,517,682">transportez dans led. Grand Ch<expan>âte</expan>let </seg>
+                    <seg rend="175,656,517,682">transportez dans led. Grand Ch<ex>âte</ex>let </seg>
                     <seg rend="520,661,787,695">et ayant au même </seg>
                     <seg rend="174,684,661,713">instant envoyé led. L’Official chez
-                        m<expan>aîtr</expan>e Marot,</seg>
+                        m<ex>aîtr</ex>e Marot,</seg>
                     <seg rend="663,697,787,718">l’un des </seg>
-                    <seg rend="174,716,479,740">greffiers criminel aud. Ch<expan>âte</expan>let,</seg>
-                    <seg rend="481,715,787,747">dem<expan>euran</expan>t rue Bertin-Poirée, </seg>
+                    <seg rend="174,716,479,740">greffiers criminel aud. Ch<ex>âte</ex>let,</seg>
+                    <seg rend="481,715,787,747">dem<ex>euran</ex>t rue Bertin-Poirée, </seg>
                     <seg rend="174,740,545,766">comme étant le plus proche pour lui</seg>
                     <seg rend="545,748,788,772">en donner avis et </seg>
                     <seg rend="174,768,550,793">sçavoir s’il avoit la clef dud. cabinet,</seg>
@@ -113,24 +113,24 @@
                     <seg rend="175,814,465,838">avoit point, qu’il étoit couché,</seg>
                     <seg rend="467,817,788,842">et que nous pouvions faire </seg>
                     <seg rend="175,839,632,866">faire ouverture de lad. porte, nous,
-                            comm<expan>issai</expan>re,</seg>
+                            comm<ex>issai</ex>re,</seg>
                     <seg rend="634,844,784,871">étant descendus </seg>
                     <seg rend="175,866,629,891">dans la cour desd. prisons avec lad.
-                        d<expan>emoise</expan>lle Poulet </seg>
-                    <seg rend="632,871,786,895">et lesd. s<expan>ieu</expan>rs </seg>
+                        d<ex>emoise</ex>lle Poulet </seg>
+                    <seg rend="632,871,786,895">et lesd. s<ex>ieu</ex>rs </seg>
                     <seg rend="175,893,414,916">Le Brun et Aumont et </seg>
                     <seg rend="414,893,786,920">quatre ou cinq autres personnes </seg>
                     <seg rend="175,916,381,941">qui étoient avec eux,</seg>
                     <seg rend="383,917,781,945">ayant remarqué que l’on voyoit en effet </seg>
                     <seg rend="174,942,553,967">de la lumière dans led. petit cabinet </seg>
                     <seg rend="555,947,786,972">par les fenestres </seg>
-                    <seg rend="158,966,245,1006">premier <expan>paraphe</expan></seg>
+                    <seg rend="158,966,245,1006">premier <ex>paraphe</ex></seg>
 
                     <!-- Voici la transcription du fichier Word : "//premier #//". 
                         Dans ce document, le signe "#" appraît trois fois, donc deux pour renvoyer à des paraphes.  
                         Pour les doubles /, j'ignore comment les encoder voire même s'il le faut. 
                         Par ailleurs, n'y a-t-il pas une majuscule sur "le "p" de "Premier" ? (idem pour le "d" de "Deux et dernière") -->
-                </p>
+               </p>
             </div>
             <div type="facsimile" rend="fax2.jpg">
                 <!-- Il y a deux images, donc deux div de type "facsimilé". Je les ai fait se suivre. A noter que dans ce cas-là, la première image est "fax1" et la seconde "fax2"  -->
@@ -147,8 +147,8 @@
                     <seg rend="173,177,574,199">Louis Pajou, aussy guichetiers desd. prisons,</seg>
                     <seg rend="575,173,787,199">qui nous a dit être </seg>
                     <seg rend="172,199,606,219">compagnon menuisier, et ce en notre présence</seg>
-                    <seg rend="606,201,785,223">et desd. s<expan>ieu</expan>rs et </seg>
-                    <seg rend="173,218,360,249">d<expan>emoise</expan>lle susnommez ;</seg>
+                    <seg rend="606,201,785,223">et desd. s<ex>ieu</ex>rs et </seg>
+                    <seg rend="173,218,360,249">d<ex>emoise</ex>lle susnommez ;</seg>
                     <seg rend="361,221,787,248">laquelle porte ayant été levée et étant </seg>
                     <seg rend="173,248,478,269">tous entrez dans led. cabinet,</seg>
                     <seg rend="479,249,786,270">nous avons remarqué que </seg>
@@ -174,12 +174,10 @@
                     <seg rend="587,482,787,509">dans led. cabinet</seg>
                     <seg rend="186,512,509,536">que led. bureau, et quelques chaises,</seg>
                     <seg rend="9,478,184,516">
-                        <add place="margin-left">dont le tiroir s’est trouvé fermé à clef,</add>
-                    </seg>
+                        <add place="margin-left">dont le tiroir s’est trouvé fermé à clef,</add></seg>
                     <seg rend="7,517,121,549">
                         <add place="margin-left">fermé à clef,</add>
-                        <add place="supralinear">#</add>
-                    </seg>
+                        <add place="supralinear">#</add></seg>
                     <!-- le positionnement de cette "ligne" et du signe supralinéaire qui y renvoie, et mon encodage, peuvent poser question. N.L.-C. place 
                         tout sur la même ligne, ce qui ne me semble pas viable du point de vue de l'enocodage en xml. 
                         De plus, le signe "#" ne désigne pas un paraphe, comme à l'habitude, mais le signe même qui indique la présence d'une annotation en marge 
@@ -193,18 +191,18 @@
                     <seg rend="459,616,787,639">nous avons fait et dressé le </seg>
                     <seg rend="177,643,439,669">present procès-verbal pour</seg>
                     <seg rend="439,641,751,674">servir et valoir ce que de raison.</seg>
-                    <seg rend="124,668,300,722">deux et dernière <expan>paraphe</expan></seg>
-                    <seg rend="304,682,548,750">D<hi rend="small caps">E</hi> P<hi rend="small caps"
+                    <seg rend="124,668,300,722">deux et dernière <ex>paraphe</ex></seg>
+                    <seg rend="304,682,548,750">D<hi rend="sc">E</hi> P<hi rend="small caps"
                             >REMONTVAL</hi></seg>
                     <!-- Comme le révèlent et l'image et la transcription à longues lignes, un paraphe suit ici. N.L-C. ne le fait figurer que dans la transcription à longues lignes. Je ne l'indique pas tout en posant la question de la pertinence d'un tel choix du point de vue de ceux qui visualiseront l'image et l'imagemap -->
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> Procès-verbal à l’occasion du feu qu’on croyoit estre dans le petit cabinet
+                    <p>Procès-verbal à l’occasion du feu qu’on croyoit estre dans le petit cabinet
                         de monsieur le lieutenant <lb/> criminel au Châtelet.<lb/> 1<hi
-                            rend="small caps">er</hi> avril 1744. </p>
-                    <p> M. le procureur du roy.<lb/> L’an mil sept cent quarante-quatre, le mercredy
+                            rend="small caps">er</hi> avril 1744.</p>
+                    <p>M. le procureur du roy.<lb/> L’an mil sept cent quarante-quatre, le mercredy
                         premier jour d’avril sur les dix heures et demie du <lb/> soir, nous, <term
                             n="André Leguay de Premonval (†1751), commissaire au Châtelet (1720-1750)."
                             >André Le Guay de Prémontval</term>, conseiller du roy commissaire au
@@ -294,45 +292,44 @@
                             >chambranle</term> attachez avec lesd. pattes de la <lb/> même manière
                         qu’ils étoient. Dont et de ce que dessus nous avons fait et dressé le
                         present procès-<lb/> verbal pour servir et valoir ce que de raison. D<hi
-                            rend="small caps">E</hi> P<hi rend="small caps">REMONTVAL</hi>
-                        <expan>paraphe</expan><!-- Cf. supra.  -->
-                    </p>
+                            rend="small caps">E</hi> P<hi rend="sc">REMONTVAL</hi> <ex>paraphe</ex><!-- Cf. supra.  -->
+                   </p>
                 </div>
                 <div type="regeste">
-                    <head>1744, 1<hi rend="exposant">er</hi> avril — Paris</head>
-                    <p> Le commissaire au Châtelet André Legay de Prémontval dresse procès-verbal de
+                    <head>1744, 1<hi rend="sup">er</hi> avril — Paris</head>
+                    <p>Le commissaire au Châtelet André Legay de Prémontval dresse procès-verbal de
                         l’ouverture forcée durant la nuit de la porte du cabinet du lieutenant
-                        criminel au Châtelet par crainte d’un incendie. </p>
+                        criminel au Châtelet par crainte d’un incendie.</p>
                 </div>
             </div>
 
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
 
-                <div n="1">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de
                         détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="analyse" rend="color:#0099CC">Procès-verbal à l’occasion
+                            <seg corresp="analyse">Procès-verbal à l’occasion
                                 du feu qu’on croyoit estre dans le petit cabinet de monsieur le
-                                lieutenant criminel au Châtelet. 1<hi rend="exposant">er</hi> avril
-                                    1744.<note xml:id="analyse" type="bulle">Analyse</note></seg>
-                            <seg corresp="adresse" rend="color:#f90808">M. le procureur du roy.<note
-                                    xml:id="adresse" type="bulle">Adresse</note></seg>
-                            <seg corresp="date" rend="color:#01def8">L’an mil sept cent
+                                lieutenant criminel au Châtelet. 1<hi rend="sup">er</hi> avril
+                                    1744.<note xml:id="analyse">Analyse</note></seg>
+                            <seg corresp="adresse">M. le procureur du roy.<note
+                                    xml:id="adresse">Adresse</note></seg>
+                            <seg corresp="date">L’an mil sept cent
                                 quarante-quatre, le mercredy premier jour d’avril sur les dix heures
-                                et demie du soir,<note xml:id="date" type="bulle">Date de
+                                et demie du soir,<note xml:id="date">Date de
                                 temps</note></seg>
-                            <seg corresp="suscription" rend="color:#0099CC">nous, André Le Guay de
+                            <seg corresp="suscription">nous, André Le Guay de
                                 Prémontval, conseiller du roy commissaire au Châtelet de Paris,
                                 ancien préposé pour la police au quartier de
                                 Saint-Jacques-de-la-Boucherie dont dépend le Grand Châtelet, <note
-                                    xml:id="suscription" type="bulle">Suscription</note></seg>
-                            <seg corresp="expose" rend="color:#01def8">ayant eu avis par Pierre
+                                    xml:id="suscription">Suscription</note></seg>
+                            <seg corresp="expose">ayant eu avis par Pierre
                                 Bourgeois, l’un des guichetiers des prisons dud. Châtelet, et par
                                 Pierre L’Official, garçon du buvetier, que l’on croyoit que le feu
                                 étoit dans le petit cabinet de monsieur le lieutenant criminel aud.
@@ -379,91 +376,91 @@
                                 trouvé fermé à clef, et quelques chaises, non plus que dans un petit
                                 retranchement qui y est pratiqué, nous avons fait remettre lad.
                                 porte avec son chambranle attachez avec lesd. pattes de la même
-                                manière qu’ils étoient. <note xml:id="expose" type="bulle"
+                                manière qu’ils étoient. <note xml:id="expose"
                                 >Exposé</note></seg>
-                            <seg corresp="dispositif" rend="color:#f808c8">Dont et de ce que dessus nous avons fait et
+                            <seg corresp="dispositif">Dont et de ce que dessus nous avons fait et
                                 dressé le present procès-verbal pour servir et valoir ce que de
-                                    raison.<note xml:id="dispositif" type="bulle">Dispositif</note></seg>
-                            <seg corresp="signature" rend="color:#0099CC">D<hi rend="small caps"
-                                >E</hi> P<hi rend="small caps">REMONTVAL</hi> (paraphe)<note
-                                    xml:id="signature" type="bulle">Signature</note></seg>
-                        </p>
+                                    raison.<note xml:id="dispositif">Dispositif</note></seg>
+                            <seg corresp="signature">D<hi rend="small caps"
+                                >E</hi> P<hi rend="sc">REMONTVAL</hi> (paraphe)<note
+                                    xml:id="signature">Signature</note></seg>
+                       </p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
-                        <p> Cette minute de procès-verbal de deux pages paraphées et numérotées par
+                    <div>
+                        <p>Cette minute de procès-verbal de deux pages paraphées et numérotées par
                             le commissaire (ou son secrétaire) est dressée sur papier timbré à
                             en-tête de la généralité de Paris, comme tous les actes des
                             commissaires. Il porte une adresse au procureur du roi qui est le
                             destinataire de l’expédition, comme de tous les actes que rédigent les
                             commissaires lors des enquêtes criminelles (interrogatoires,
-                            perquisitions). </p>
-                        <p> L’acte, quasiment dépourvu de dispositif, est dressé pour justifier les
+                            perquisitions).</p>
+                        <p>L’acte, quasiment dépourvu de dispositif, est dressé pour justifier les
                             dommages éventuels causés à la porte du lieutenant criminel et expliquer
                             l’intrusion dans les locaux du tribunal. Le commissaire prend soin de
                             préciser que rien n’a été emporté, ni dossier ni papier. Les
                             commissaires certes ont l’habitude d’enfoncer les portes, mais en
-                            général dans des procédures opposant propriétaires et locataires. </p>
-                        <p> La première ligne qui porte en partie la date est d’un module plus
-                            important. </p>
-                        <p> L’officier signe de son nom «noble» et non de son nom patronymique qu’il
+                            général dans des procédures opposant propriétaires et locataires.</p>
+                        <p>La première ligne qui porte en partie la date est d’un module plus
+                            important.</p>
+                        <p>L’officier signe de son nom «noble» et non de son nom patronymique qu’il
                             accompagne d’un paraphe très graphique semblable à celui des notaires.
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Bibliographie</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <listBibl>
                             <bibl>
-                                <author>C<hi rend="small caps">OLIN</hi> (Cécile)</author>, <title
-                                    level="a">Pratiques et réalités d’un quartier de police dans le
-                                    première moitié du XVIII<hi rend="exposant">e</hi> siècle :
+                                <author>C<hi rend="sc">OLIN</hi> (Cécile)</author>, <title
+                                   >Pratiques et réalités d’un quartier de police dans le
+                                    première moitié du XVIII<hi rend="sup">e</hi> siècle :
                                     l’espace Saint-Eustache et le commissaire Pierre Regnard le
-                                    jeune (1712-1751)</title>, dans <title level="j">Cahiers du
-                                    Crepif</title>, <date when-iso="1992">1992</date>, <biblScope
+                                    jeune (1712-1751)</title>, dans <title>Cahiers du
+                                    Crepif</title>, <date when="1992">1992</date>, <biblScope
                                     type="vol">t. 28</biblScope>, <biblScope type="pp">p.
                                 119-130</biblScope>. </bibl>
                             <bibl>
-                                <author>K<hi rend="small caps">APLAN</hi> (Steven L.)</author>,
-                                    <title level="a">Note sur les commissaires de police de Paris au
-                                        XVIII<hi rend="exposant">e</hi> siècle</title>, dans <title
-                                    level="j">Revue d'histoire moderne et contemporaine</title>,
-                                    <date when-iso="1981">1981</date>, <biblScope type="vol">t.
+                                <author>K<hi rend="sc">APLAN</hi> (Steven L.)</author>,
+                                    <title>Note sur les commissaires de police de Paris au
+                                        XVIII<hi rend="sup">e</hi> siècle</title>, dans <title
+                                   >Revue d'histoire moderne et contemporaine</title>,
+                                    <date when="1981">1981</date>, <biblScope type="vol">t.
                                     XXVIII-1</biblScope>, <biblScope type="pp">p.
                                 669-686</biblScope>. </bibl>
                             <bibl>
-                                <author>D<hi rend="small caps">ESCIMON</hi> (Robert)</author>,
-                                    <title level="a">Les auxiliaires de justice du Châtelet de Paris
+                                <author>D<hi rend="sc">ESCIMON</hi> (Robert)</author>,
+                                    <title>Les auxiliaires de justice du Châtelet de Paris
                                     : aperçus sur l’économie du monde des offices ministériels
-                                        (XVI<hi rend="exposant">e</hi>-XVIII<hi rend="exposant"
-                                    >e</hi> siècles) </title>, dans <title level="m">Entre Justice
+                                        (XVI<hi rend="sup">e</hi>-XVIII<hi rend="exposant"
+                                    >e</hi> siècles) </title>, dans <title>Entre Justice
                                     et justiciables. Les auxiliaires de la justice du Moyen Age au
-                                        XX<hi rend="exposant">e</hi> siècle</title>, <editor>Claire
-                                        D<hi rend="small caps">OLAN</hi></editor>,
+                                        XX<hi rend="sup">e</hi> siècle</title>, <editor>Claire
+                                        D<hi rend="sc">OLAN</hi></editor>,
                                     <pubPlace>Sainte-Foy (Québec)</pubPlace>, <publisher>Presses
-                                    univ. de Laval</publisher>, <date when-iso="2005">2005</date>,
+                                    univ. de Laval</publisher>, <date when="2005">2005</date>,
                                     <biblScope type="pp">p. 301-325</biblScope>. </bibl>
                             <bibl>
-                                <author>E<hi rend="small caps">L</hi> G<hi rend="small caps"
-                                    >HOUL</hi> (Fayçal)</author>, <title level="m">La police
+                                <author>E<hi rend="sc">L</hi> G<hi rend="small caps"
+                                    >HOUL</hi> (Fayçal)</author>, <title>La police
                                     parisienne dans la seconde moitié du XVIII<hi rend="exposant"
                                     >e</hi> siècle (1760-1785)</title>, <pubPlace>Tunis</pubPlace>,
                                     <publisher>Université de Tunis, Faculté des sciences humaines et
-                                    sociales</publisher>, <date when-iso="1995">1995</date>,
+                                    sociales</publisher>, <date when="1995">1995</date>,
                                     <biblScope type="vol">2 vol., t. I</biblScope>, <biblScope
                                     type="pp">p. 285-297</biblScope>. </bibl>
                         </listBibl>
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique.</head>
-                <div n="1">
-                    <div type="contenu_commentaire">
-                        <p> Détachés de la cour du Châtelet proprement dite avec laquelle ils font
+                <div>
+                    <div>
+                        <p>Détachés de la cour du Châtelet proprement dite avec laquelle ils font
                             pourtant corps, et membres d’une compagnie d’officiers remontant à la
                             fin du Moyen Âge, les quarante-huit commissaires au Châtelet, installés
                             dans les vingt-quatre quartiers de police de Paris ont la charge de
@@ -482,15 +479,15 @@
                             à la mi-juillet les élections des responsables de l’allumage des
                             chandelles des luminaires, en convoquant par billet en leur hôtel les
                             bourgeois et habitants des différentes rues (par exemple, Arch. nat., Y
-                            13622, registre des élections pour Saint-Germain-des-Prés, 1743-1764). </p>
-                        <p> Bien qu’il existe depuis 1722 un équipe d’une soixantaine de pompiers
+                            13622, registre des élections pour Saint-Germain-des-Prés, 1743-1764).</p>
+                        <p>Bien qu’il existe depuis 1722 un équipe d’une soixantaine de pompiers
                             (des artisans titulaires d’une double activité, comme le guichetier
                             Pajou, également compagnon menuisier) assistés par des religieux et
                             équipés d’une vingtaine de pompes mécaniques, cette histoire montre que
                             le commissaire est l’organisateur en première instance des secours.
                             Personne ne semble détenir la clef du cabinet du lieutenant criminel,qui
                             à cette époque réside sur l’île Saint-Louis, pas même ses propres
-                            greffiers. </p>
+                            greffiers.</p>
                     </div>
                 </div>
             </div>

@@ -19,7 +19,7 @@
             <publicationStmt>
                 <idno type="numero">106</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2010-01">janvier 2010</date>
+                <date when="2010-01">janvier 2010</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Archives nationales, H 21962</p>
@@ -37,26 +37,19 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
 		    <seg rend="302,8,544,65">
-                        <add place="margin-left">Registré f[olio] 131vo </add>
-                    </seg>
+                        <add place="margin-left">Registré f[olio] 131vo </add></seg>
                     <seg rend="22,15,213,57">
-                        <add place="margin-left">4 mars 1763. </add>
-                    </seg>
+                        <add place="margin-left">4 mars 1763. </add></seg>
                     <seg rend="20,61,213,95">
-                        <add place="margin-left">Délibération pour</add>
-                    </seg>
+                        <add place="margin-left">Délibération pour</add></seg>
                     <seg rend="20,97,201,119">
-                        <add place="margin-left">faire transporter à </add>
-                    </seg>
+                        <add place="margin-left">faire transporter à </add></seg>
                     <seg rend="19,122,180,143">
-                        <add place="margin-left">la bibliothèque de</add>
-                    </seg>
+                        <add place="margin-left">la bibliothèque de</add></seg>
                     <seg rend="18,146,176,168">
-                        <add place="margin-left">la ville des livres </add>
-                    </seg>
+                        <add place="margin-left">la ville des livres </add></seg>
                     <seg rend="15,174,174,199">
-                        <add place="margin-left">qui étoient au greffe.</add>
-                    </seg>
+                        <add place="margin-left">qui étoient au greffe.</add></seg>
                     <seg rend="410,64,776,91">Du vendredy quatre mars mil</seg>
                     <seg rend="410,96,757,122">sept cent soixante-trois</seg>
                     <seg rend="186,131,778,162">Ce jour, nous, prévost des marchands et </seg>
@@ -121,13 +114,13 @@
 		    <seg rend="57,1476,525,1535">CAMUS MERCIER </seg>
                     <seg rend="78,1539,532,1598">BABILLE DE VARENNE </seg>
                     <seg rend="80,1617,396,1744">DESHAYES JOLLIVET</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> 4 mars 1763. Délibération pour faire transporter à la bibliothèque de la
-                        ville des livres qui étoient au greffe. </p>
-                    <p> Du vendredy quatre mars mil sept cent soixante-trois. </p>
+                    <p>4 mars 1763. Délibération pour faire transporter à la bibliothèque de la
+                        ville des livres qui étoient au greffe.</p>
+                    <p>Du vendredy quatre mars mil sept cent soixante-trois.</p>
                     <p>Ce jour, nous,<term
                             n="Le Prévot des marchands est le chef de la municipalité parisienne. Au XVIIIe siècle, 
                             il s&#8217;agit toujours d&#8217;un maître des requêtes de l&#8217;hôtel du roi;  en principe élu, il est de facto désigné par le roi. "
@@ -195,7 +188,7 @@
                         <term
                             n="Jacques-Jérôme Jollivet de Vannes, procureur du roi et de la ville en charge de 1759 à 1785."
                             >Jollivet</term>
-                    </p>
+                   </p>
                 </div>
                 <div type="regeste">
                     <head>4 mars 1763. — Paris.</head>
@@ -204,34 +197,33 @@
                         bibliothèque publique de la ville créé en 1760 par le legs du procureur du
                         roi Antoine Moriau, et qui doit ouvrir prochainement. Le bibliothécaire doit
                         en dresser un inventaire qui servira de décharge au greffier de la ville.
-                    </p>
+                   </p>
                 </div>
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de
                         détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="vide" rend="color:#0099CC">Registré folio 131verso. <note
-                                    xml:id="vide" type="bulle"/></seg>
-                            <seg corresp=" minute" rend="color:#0099CC">
+                            <seg corresp="vide">Registré folio 131verso. <note
+                                    xml:id="vide"/></seg>
+                            <seg corresp=" minute">
                                 <add place="margin-left">4 mars 1763.</add>
-                                <note xml:id=" minute" type="bulle">Références de la minute de la
-                                    délibération</note>
-                            </seg>
-                            <seg corresp="analyse" rend="color:#f90808"><add place="margin-left"
+                                <note xml:id=" minute">Références de la minute de la
+                                    délibération</note></seg>
+                            <seg corresp="analyse"><add place="margin-left"
                                 />Délibération pour faire transporter à la bibliothèque de la ville
-                                des livres qui étoient au greffe.<note xml:id="analyse" type="bulle"
+                                des livres qui étoient au greffe.<note xml:id="analyse"
                                     >Analyse</note></seg>
-                            <seg corresp="date_1" rend="color:#0099CC">Du vendredy quatre mars mil
-                                sept cent soixante-trois.<note xml:id="date_1" type="bulle"
+                            <seg corresp="date_1">Du vendredy quatre mars mil
+                                sept cent soixante-trois.<note xml:id="date_1"
                                 >Date</note></seg>
-                            <seg corresp="exposé" rend="color:#01def8">Ce jour, nous, prévost des
+                            <seg corresp="exposé">Ce jour, nous, prévost des
                                 marchands et échevins de la ville de Paris assemblés au bureau de
                                 lad. ville avec le procureur du roy et de la ville pour les affaires
                                 d’icelle, monsieur le prévost des marchands a dit que le bureau
@@ -246,9 +238,9 @@
                                 l’état qu’il nous mettoit sous les yeux et qui sont depuis ce temps
                                 déposés dans une des pièces dépendantes du greffe de lad. ville. Sur
                                 quoy, la matière mise en délibération, ouy et ce consentant le
-                                procureur du roi et de la ville,<note xml:id="exposé" type="bulle"
+                                procureur du roi et de la ville,<note xml:id="exposé"
                                     >Exposé</note></seg>
-                            <seg corresp="dispositif" rend="color:#f808c8">nous avons arresté et
+                            <seg corresp="dispositif">nous avons arresté et
                                 délibéré, arrestons et delibérons que les livres contenus en l’état
                                 qui demeurera joint à ces presentes après avoir été paraphé de nous
                                 et du procureur du roy et de la ville seront transportés incessament
@@ -257,24 +249,24 @@
                                 chargera par l’inventaire de la totalité qu’il est tenu de remettre
                                 au greffe de la ville et au moyen de la-quelle remise des livres
                                 contenus aud. état cy-joint le greffier de la ville en demeurera
-                                bien et valablement déchargé. <note xml:id="dispositif" type="bulle"
+                                bien et valablement déchargé. <note xml:id="dispositif"
                                     >Dispositif</note></seg>
-                            <seg corresp="date_2" rend="color:#0099CC">Fait au bureau de la ville
-                                lesd. jour et an que dessus.<note xml:id="date_2" type="bulle"
+                            <seg corresp="date_2">Fait au bureau de la ville
+                                lesd. jour et an que dessus.<note xml:id="date_2"
                                 >Date</note></seg>
-                            <seg corresp="signatures" rend="color:#01def8"> Camus Mercier Babille
-                                de Varenne  Deshayes <expan>paraphe</expan> Jollivet <note
-                                    xml:id="signatures" type="bulle">Signatures des membres du
+                            <seg corresp="signatures"> Camus Mercier Babille
+                                de Varenne  Deshayes <ex>paraphe</ex> Jollivet <note
+                                    xml:id="signatures">Signatures des membres du
                                     bureau</note></seg>
 
                             <!-- Tout comme l'a fait  Alexandre Monnin pour, par exemple, le dossier Theleme-1763-05,  
-                                j'ai remplacé, dans ce document, le signe "#" (hors xml:id et assimilés) par "<expan>paraphe</expan>" -->
-                        </p>
+                                j'ai remplacé, dans ce document, le signe "#" (hors xml:id et assimilés) par "<ex>paraphe</ex>" -->
+                       </p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Arrêt du bureau de la ville (le Petit Bureau et le procureur) expédié sur
                             papier timbré à en-tête de la généralité de Paris. L’original de la
                             délibération figure dans le registre correspondant (AN, H*1870, fol.
@@ -288,17 +280,17 @@
                             III, 1873, p. 224-225, pièce n°IX.</p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Bibliographie</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <div>
                             <listBibl>
                                 <bibl>
-                                    <author>C<hi rend="small caps">OUSIN</hi> (Mathieu)</author>,
+                                    <author>C<hi rend="sc">OUSIN</hi> (Mathieu)</author>,
                                         <title>« Les conférences historiques des conseillers de
-                                        ville au xviiie siècle »</title>, <title level="s">Bulletin
+                                        ville au xviiie siècle »</title>, <title>Bulletin
                                         de la Fédération des sociétés historiques de Paris</title>
-                                    <date when-iso="1883">1883</date>
+                                    <date when="1883">1883</date>
                                     <biblScope type="vol">12</biblScope>, <biblScope type="pp"
                                         >p.170-176</biblScope>
                                 </bibl>
@@ -307,10 +299,10 @@
                                         <title>« La municipalité parisienne à l’épreuve des
                                         absolutismes : démantèlement d’une structure politique et
                                         création d’une administration (1660-1789) »</title>, <title
-                                        level="s">Le prince, la ville et le bourgeois (xive-xviiie
+                                       >Le prince, la ville et le bourgeois (xive-xviiie
                                         siècles)</title>, <editor>Laurence Croq éd.</editor>,
                                         <pubPlace>Paris</pubPlace>, <publisher>Nolin</publisher>,
-                                        <date when-iso="2004">2004</date>, <biblScope type="pp"
+                                        <date when="2004">2004</date>, <biblScope type="pp"
                                         >p. 175-201</biblScope>. </bibl>
                                 <bibl>
                                     <author>F<hi rend="smalls caps">RANKLIN</hi> (Alfred)</author>,
@@ -318,23 +310,23 @@
                                         monastères, collèges, etc...</title>,
                                     <pubPlace>Paris</pubPlace>, <publisher>Imprimerie
                                     nationale</publisher>, <biblScope type="vol">t. III</biblScope>,
-                                        <date when-iso="1873">1873</date>
+                                        <date when="1873">1873</date>
                                     <biblScope type="pp">p. 181-300</biblScope>. </bibl>
                                 <bibl>
                                     <author>J<hi rend="smalls caps">UNGES</hi>(Catherine)</author>,
                                         <title>Les échevins parisiens au xviiie siècle</title>,
-                                        <title level="s"> thèse inédite de l’École des chartes
-                                    </title>, 1996, 2 vol, résumée dans <title level="s">Positions
+                                        <title> thèse inédite de l’École des chartes
+                                    </title>, 1996, 2 vol, résumée dans <title>Positions
                                         des thèses (…) </title>
-                                    <date when-iso="1996">1996</date>, <biblScope type="pp"
+                                    <date when="1996">1996</date>, <biblScope type="pp"
                                         >p. 163-170</biblScope>. </bibl>
                                 <bibl>
                                     <author>S<hi rend="smalls caps">URIREY</hi>D<hi
                                             rend="smalls caps">E</hi>S<hi rend="smalls caps"
                                             >AINT</hi>-R<hi rend="smalls caps">EMY</hi>(Henry
                                     de)</author>, <title>« La Bibliothèque historique de la Ville de
-                                        Paris »</title>, <title level="s">Bulletin des Bibliothèques
-                                        de France</title>, <date when-iso="1969"/>
+                                        Paris »</title>, <title>Bulletin des Bibliothèques
+                                        de France</title>, <date when="1969"/>
                                     <biblScope type="vol">(14-2)</biblScope>, <biblScope type="pp"
                                         >p. 47-62</biblScope>, : <note> [en ligne sur
                                         http://bbf.enssib.fr]</note>. </bibl>
@@ -343,10 +335,10 @@
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique.</head>
-                <div n="1">
-                    <div type="contenu_commentaire">
+                <div>
+                    <div>
                         <p>Les premiers jalons de la bibliothèque de la ville de Paris, ouverte au
                             public le 13 avril 1763, sont posés grâce au legs fait par le procureur
                             du roi et de la ville Antoine Moriau (1699-1760). Comme il habitait

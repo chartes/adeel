@@ -20,7 +20,7 @@
             <publicationStmt>
                 <idno type="numero">80</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2007-09">septembre 2007</date>
+                <date when="2007-09">septembre 2007</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Fac-sim. ENC : AF 173 (lithographie d'après un dessin exécuté pour l'érudit
@@ -46,105 +46,100 @@
                 </div>
                 <div>
                     <p>
-                        <seg rend="58,14,53,62,548,74,543,21,541,30,59,13" n="poly"><expan>Croix</expan>
-                        In nomi<expan>n</expan>e s<expan>an</expan>c<expan>t</expan>e <expan>et</expan> individue Trinitatis, amen.</seg>
+                        <seg rend="58,14,53,62,548,74,543,21,541,30,59,13" n="poly"><ex>Croix</ex>
+                        In nomi<ex>n</ex>e s<ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue Trinitatis, amen.</seg>
                         <seg n="poly" rend="551,73,612,73,682,79,680,31,585,24,551,23">Ego Odo,
-                            d<expan>omi</expan>n<expan>u</expan>s</seg>
+                            d<ex>omi</ex>n<ex>u</ex>s</seg>
                         <seg n="poly" rend="52,89,397,108,395,70,275,71,196,66,55,64">castri Hamensis,
-                        notum fieri volo p<expan>re</expan>sentib<expan>us</expan>
-                        <expan>et</expan> futuris</seg>
-                        <seg n="poly" rend="402,77,405,109,682,119,676,120,676,86,586,80,523,78,443,73,403,75">q<expan>uo</expan>d eccl<expan>esi</expan>a
-                            *P<expan>re</expan>monst<expan>r</expan>atensis quanda<expan>m</expan> silvam habe-</seg>
-                        <seg n="poly" rend="48,100,50,133,122,140,393,138,393,113,305,108,128,98,48,99,48,97,50,99">-bat, que vulgo Concis vocat<expan>ur</expan>, in
-                        *t<expan>er</expan>ritorio de Gollencurt,</seg>
+                        notum fieri volo p<ex>re</ex>sentib<ex>us</ex> <ex>et</ex> futuris</seg>
+                        <seg n="poly" rend="402,77,405,109,682,119,676,120,676,86,586,80,523,78,443,73,403,75">q<ex>uo</ex>d eccl<ex>esi</ex>a
+                            *P<ex>re</ex>monst<ex>r</ex>atensis quanda<ex>m</ex> silvam habe-</seg>
+                        <seg n="poly" rend="48,100,50,133,122,140,393,138,393,113,305,108,128,98,48,99,48,97,50,99">-bat, que vulgo Concis vocat<ex>ur</ex>, in
+                        *t<ex>er</ex>ritorio de Gollencurt,</seg>
                         <seg n="poly" rend="397,141,679,154,679,152,678,124,613,123,529,119,451,117,397,115">in
-                        qua s<expan>ib</expan>i d<expan>omi</expan>n<expan>u</expan>m
-                            Lancelinu<expan>m</expan> patre<expan>m</expan> meu<expan>m</expan> assotiavit</seg>
+                        qua s<ex>ib</ex>i d<ex>omi</ex>n<ex>u</ex>m
+                            Lancelinu<ex>m</ex> patre<ex>m</ex> meu<ex>m</ex> assotiavit</seg>
                         <seg n="poly" rend="294,171,432,173,428,144,37,143,38,169,223,173">ad
-                            quartu<expan>m</expan> denariu<expan>m</expan> si eam
-                        aliq<expan>u</expan>ando vend<expan>er</expan>e vellet
-                        p<expan>re</expan>fata eccl<expan>esi</expan>a.</seg>
+                            quartu<ex>m</ex> denariu<ex>m</ex> si eam
+                        aliq<ex>u</ex>ando vend<ex>er</ex>e vellet
+                        p<ex>re</ex>fata eccl<ex>esi</ex>a.</seg>
                         <seg n="poly" rend="435,148,438,174,679,184,677,158,548,150">Post
-                        morte<expan>m</expan> v<expan>er</expan>o ejusde<expan>m</expan> Lancelini,
+                        morte<ex>m</ex> v<ex>er</ex>o ejusde<ex>m</ex> Lancelini,
                         ego Odo,</seg>
-                        <seg n="poly" rend="38,179,38,203,338,205,342,176">fili<expan>us</expan> ej<expan>us</expan>, illum q<expan>u</expan>artum
-                        denariu<expan>m</expan> indulsi p<expan>re</expan>fate
-                        eccl<expan>esi</expan>e</seg>
-                        <seg n="poly" rend="344,178,344,206,683,222,684,187,683,187,684,191"><expan>et</expan> ipsam t<expan>er</expan>ram ad extirpandu<expan>m</expan>
-                        <expan>et</expan> excolendu<expan>m</expan> in p<expan>er</expan>petuum</seg>
-                        <seg n="poly" rend="35,214,35,242,328,245,327,216,35,212">ad nonam garbam, salva decima
-                            <expan>et</expan> secatione,</seg>
+                        <seg n="poly" rend="38,179,38,203,338,205,342,176">fili<ex>us</ex> ej<ex>us</ex>, illum q<ex>u</ex>artum
+                        denariu<ex>m</ex> indulsi p<ex>re</ex>fate
+                        eccl<ex>esi</ex>e</seg>
+                        <seg n="poly" rend="344,178,344,206,683,222,684,187,683,187,684,191"><ex>et</ex> ipsam t<ex>er</ex>ram ad extirpandu<ex>m</ex> <ex>et</ex> excolendu<ex>m</ex> in p<ex>er</ex>petuum</seg>
+                        <seg n="poly" rend="35,214,35,242,328,245,327,216,35,212">ad nonam garbam, salva decima <ex>et</ex> secatione,</seg>
                         <seg n="poly" rend="331,216,332,249,591,255,687,261,684,229,473,219,473,218,473,217,473,219">eidem
-                            eccl<expan>esi</expan>e reddidi, assensu uxoris mee Elisabeth <expan>et</expan> f<expan>rat</expan>rum</seg>
-                        <seg n="poly" rend="37,250,38,275,231,279,314,280,314,253,175,250">meor<expan>um</expan> Gerardi, Symonis, Lancelini clerici,</seg>
-                        <seg n="poly" rend="318,258,318,283,671,289,670,260,320,255"><expan>et</expan> liberor<expan>um</expan> meor<expan>um</expan> Odonis, Gaufridi, ita
-                            q<expan>uo</expan>d eadem eccl<expan>esi</expan>a</seg>
-                        <seg n="poly" rend="32,284,33,312,190,318,384,322,389,287,213,282,32,281,32,280,32,279">assotiavit me <expan>et</expan> heredes meos similit<expan>er</expan> ad
+                            eccl<ex>esi</ex>e reddidi, assensu uxoris mee Elisabeth <ex>et</ex> f<ex>rat</ex>rum</seg>
+                        <seg n="poly" rend="37,250,38,275,231,279,314,280,314,253,175,250">meor<ex>um</ex> Gerardi, Symonis, Lancelini clerici,</seg>
+                        <seg n="poly" rend="318,258,318,283,671,289,670,260,320,255"><ex>et</ex> liberor<ex>um</ex> meor<ex>um</ex> Odonis, Gaufridi, ita
+                            q<ex>uo</ex>d eadem eccl<ex>esi</ex>a</seg>
+                        <seg n="poly" rend="32,284,33,312,190,318,384,322,389,287,213,282,32,281,32,280,32,279">assotiavit me <ex>et</ex> heredes meos similit<ex>er</ex> ad
                         nonam garbam</seg>
-                        <seg n="poly" rend="395,290,394,289,389,320,615,330,674,325,675,301,571,292,394,289,394,288,394,286">in t<expan>er</expan>ra Lamb<expan>er</expan>ti, in q<expan>u</expan>a
-                            pri<expan>us</expan> nichil habuera<expan>m</expan> nec</seg>
-                        <seg n="poly" rend="31,327,31,355,217,351,391,358,393,325,29,326,29,325,29,324">p<expan>re</expan>decessores mei. Statutu<expan>m</expan> e<expan>st</expan> etia<expan>m</expan> q<expan>uo</expan>d, si deinceps
-                            eade<expan>m</expan> eccl<expan>esi</expan>a</seg>
-                        <seg n="poly" rend="399,330,395,357,580,363,678,365,676,335,514,332">aliq<expan>u</expan>a<expan>m</expan> silva<expan>m</expan> in
-                            t<expan>er</expan>ritorio de Gollencurt adq<expan>u</expan>isie-</seg>
-                        <seg n="poly" rend="29,365,28,391,125,396,350,394,351,365,228,358,174,357,29,364">-rit <expan>et</expan> extirpav<expan>er</expan>it, ibide<expan>m</expan> simili m<expan>od</expan>o nona<expan>m</expan> garba<expan>m</expan> habebo ;</seg>
-                        <seg n="poly" rend="353,370,353,390,353,397,491,399,684,401,682,370,519,366">s<expan>ed</expan> in t<expan>er</expan>ra ab antiq<expan>u</expan>o
-                        exculta, si eade<expan>m</expan> eccl<expan>esi</expan>a eam
-                        adq<expan>u</expan>isierit,</seg>
-                        <seg n="poly" rend="28,401,28,424,163,430,434,434,436,405,286,400,28,398">nullu<expan>m</expan> m<expan>ih</expan>i jus vendicare
-                        pot<expan>er</expan>o. Cum aute<expan>m</expan> secatio<expan>n</expan>is
-                            temp<expan>us</expan> adven<expan>er</expan>it,</seg>
+                        <seg n="poly" rend="395,290,394,289,389,320,615,330,674,325,675,301,571,292,394,289,394,288,394,286">in t<ex>er</ex>ra Lamb<ex>er</ex>ti, in q<ex>u</ex>a
+                            pri<ex>us</ex> nichil habuera<ex>m</ex> nec</seg>
+                        <seg n="poly" rend="31,327,31,355,217,351,391,358,393,325,29,326,29,325,29,324">p<ex>re</ex>decessores mei. Statutu<ex>m</ex> e<ex>st</ex> etia<ex>m</ex> q<ex>uo</ex>d, si deinceps
+                            eade<ex>m</ex> eccl<ex>esi</ex>a</seg>
+                        <seg n="poly" rend="399,330,395,357,580,363,678,365,676,335,514,332">aliq<ex>u</ex>a<ex>m</ex> silva<ex>m</ex> in
+                            t<ex>er</ex>ritorio de Gollencurt adq<ex>u</ex>isie-</seg>
+                        <seg n="poly" rend="29,365,28,391,125,396,350,394,351,365,228,358,174,357,29,364">-rit <ex>et</ex> extirpav<ex>er</ex>it, ibide<ex>m</ex> simili m<ex>od</ex>o nona<ex>m</ex> garba<ex>m</ex> habebo ;</seg>
+                        <seg n="poly" rend="353,370,353,390,353,397,491,399,684,401,682,370,519,366">s<ex>ed</ex> in t<ex>er</ex>ra ab antiq<ex>u</ex>o
+                        exculta, si eade<ex>m</ex> eccl<ex>esi</ex>a eam
+                        adq<ex>u</ex>isierit,</seg>
+                        <seg n="poly" rend="28,401,28,424,163,430,434,434,436,405,286,400,28,398">nullu<ex>m</ex> m<ex>ih</ex>i jus vendicare
+                        pot<ex>er</ex>o. Cum aute<ex>m</ex> secatio<ex>n</ex>is
+                            temp<ex>us</ex> adven<ex>er</ex>it,</seg>
                         <seg n="poly" rend="438,409,437,430,674,435,675,408,437,404,437,402">una die
-                            an<expan>te</expan>q<expan>u</expan>a<expan>m</expan> secet
-                            nuntiabit<expan>ur</expan> m<expan>ih</expan>i, ut</seg>
-                        <seg n="poly" rend="23,438,23,462,201,465,378,470,381,440,22,433,22,432,21,432">p<expan>ro</expan> parte mea mitta<expan>m</expan> serviente<expan>m</expan> meu<expan>m</expan> ; que<expan>m</expan> si
-                            mitt<expan>er</expan>e noluero,</seg>
-                        <seg n="poly" rend="384,444,383,466,513,472,676,473,679,442,484,436,384,440">v<expan>er</expan>itati f<expan>rat</expan>ris q<expan>u</expan>i
-                        messores custodierit v<expan>e</expan>l fam<expan>u</expan>lo
-                            ej<expan>us</expan>de<expan>m</expan></seg>
-                        <seg n="poly" rend="20,473,19,501,184,499,378,507,378,474,109,469,19,472">f<expan>rat</expan>ris, si frat<expan>er</expan> defu<expan>er</expan>it, debebo cred<expan>er</expan>e de partis mee
-                            q<expan>u</expan>antitate ;</seg>
+                            an<ex>te</ex>q<ex>u</ex>a<ex>m</ex> secet
+                            nuntiabit<ex>ur</ex> m<ex>ih</ex>i, ut</seg>
+                        <seg n="poly" rend="23,438,23,462,201,465,378,470,381,440,22,433,22,432,21,432">p<ex>ro</ex> parte mea mitta<ex>m</ex> serviente<ex>m</ex> meu<ex>m</ex> ; que<ex>m</ex> si
+                            mitt<ex>er</ex>e noluero,</seg>
+                        <seg n="poly" rend="384,444,383,466,513,472,676,473,679,442,484,436,384,440">v<ex>er</ex>itati f<ex>rat</ex>ris q<ex>u</ex>i
+                        messores custodierit v<ex>e</ex>l fam<ex>u</ex>lo
+                            ej<ex>us</ex>de<ex>m</ex></seg>
+                        <seg n="poly" rend="20,473,19,501,184,499,378,507,378,474,109,469,19,472">f<ex>rat</ex>ris, si frat<ex>er</ex> defu<ex>er</ex>it, debebo cred<ex>er</ex>e de partis mee
+                            q<ex>u</ex>antitate ;</seg>
                         <seg n="poly" rend="381,476,383,476,384,508,506,512,676,513,674,480,537,476,383,476">quod
-                        si ip<expan>su</expan>m famulu<expan>m</expan> de infidelitate
-                            suspectu<expan>m</expan> ha-</seg>
+                        si ip<ex>su</ex>m famulu<ex>m</ex> de infidelitate
+                            suspectu<ex>m</ex> ha-</seg>
                         <seg n="poly"
-                            rend="19,507,19,531,165,539,283,541,343,545,341,510,156,507,18,507">-bu<expan>er</expan>o,
-                            eu<expan>m</expan> ad *juram<expan>en</expan>tu<expan>m</expan> sup<expan>er</expan> s<expan>an</expan>c<expan>t</expan>a pot<expan>er</expan>o co<expan>m</expan>pellere, <expan>et</expan> ab ipso</seg>
-                        <seg n="poly" rend="346,517,346,542,550,546,678,555,676,521,542,517,346,512">v<expan>e</expan>l a f<expan>rat</expan>rib<expan>us</expan> exinde
-                        nichil ampli<expan>us</expan> exig<expan>er</expan>e.
-                        *F<expan>rat</expan>res etia<expan>m</expan> p<expan>re</expan>fate</seg>
-                        <seg n="poly" rend="18,543,18,570,18,543,18,574,148,580,333,584,335,552">eccl<expan>esi</expan>e garbam mea<expan>m</expan> ducent ad Gollencurt
+                            rend="19,507,19,531,165,539,283,541,343,545,341,510,156,507,18,507">-bu<ex>er</ex>o,
+                            eu<ex>m</ex> ad *juram<ex>en</ex>tu<ex>m</ex> sup<ex>er</ex> s<ex>an</ex>c<ex>t</ex>a pot<ex>er</ex>o co<ex>m</ex>pellere, <ex>et</ex> ab ipso</seg>
+                        <seg n="poly" rend="346,517,346,542,550,546,678,555,676,521,542,517,346,512">v<ex>e</ex>l a f<ex>rat</ex>rib<ex>us</ex> exinde
+                        nichil ampli<ex>us</ex> exig<ex>er</ex>e.
+                        *F<ex>rat</ex>res etia<ex>m</ex> p<ex>re</ex>fate</seg>
+                        <seg n="poly" rend="18,543,18,570,18,543,18,574,148,580,333,584,335,552">eccl<ex>esi</ex>e garbam mea<ex>m</ex> ducent ad Gollencurt
                         si voluero</seg>
-                        <seg n="poly" rend="341,554,340,551,336,585,439,588,585,592,678,595,675,555,429,553,429,552">v<expan>e</expan>l, si m<expan>ih</expan>i magis
-                        placu<expan>er</expan>it, in grangia sua Bonolii sub cer-</seg>
+                        <seg n="poly" rend="341,554,340,551,336,585,439,588,585,592,678,595,675,555,429,553,429,552">v<ex>e</ex>l, si m<ex>ih</ex>i magis
+                        placu<ex>er</ex>it, in grangia sua Bonolii sub cer-</seg>
                         <seg n="poly" rend="14,587,14,619,131,621,302,624,407,626,408,591,262,588">-to
-                        testimonio <expan>et</expan> certa co<expan>m</expan>putatione collocabunt, <expan>et</expan> usq<expan>ue</expan> ad festu<expan>m</expan></seg>
-                        <seg n="poly" rend="413,598,413,621,412,592,412,627,521,628,676,633,675,598,412,596">omniu<expan>m</expan> s<expan>an</expan>c<expan>t</expan>or<expan>um</expan> facient triturari, <expan>et</expan> granu<expan>m</expan></seg>
+                        testimonio <ex>et</ex> certa co<ex>m</ex>putatione collocabunt, <ex>et</ex> usq<ex>ue</ex> ad festu<ex>m</ex></seg>
+                        <seg n="poly" rend="413,598,413,621,412,592,412,627,521,628,676,633,675,598,412,596">omniu<ex>m</ex> s<ex>an</ex>c<ex>t</ex>or<ex>um</ex> facient triturari, <ex>et</ex> granu<ex>m</ex></seg>
                         <seg n="poly" rend="14,625,14,655,195,657,372,664,371,633">ducent
-                        Hamu<expan>m</expan>, forragium s<expan>ib</expan>i retinentes. Huic
+                        Hamu<ex>m</ex>, forragium s<ex>ib</ex>i retinentes. Huic
                         concessioni</seg>
-                        <seg n="poly" rend="377,637,377,667,523,664,673,671,667,638,377,630,377,629"><expan>et</expan> donationi int<expan>er</expan>fuerunt testes :
-                            Guillelm<expan>us</expan> de Vi-</seg>
-                        <seg n="poly" rend="13,664,14,692,168,694,414,702,416,671,278,666,14,662,14,661">-lete, Rainer<expan>us</expan> de Mateni, Symon Rattus, Petrus del
+                        <seg n="poly" rend="377,637,377,667,523,664,673,671,667,638,377,630,377,629"><ex>et</ex> donationi int<ex>er</ex>fuerunt testes :
+                            Guillelm<ex>us</ex> de Vi-</seg>
+                        <seg n="poly" rend="13,664,14,692,168,694,414,702,416,671,278,666,14,662,14,661">-lete, Rainer<ex>us</ex> de Mateni, Symon Rattus, Petrus del
                         Pleissei.</seg>
-                        <seg n="poly" rend="421,674,420,701,505,705,611,707,678,711,677,679,537,669,537,668">Ut <expan>i</expan>gi<expan>tur</expan> hec concessio <expan>et</expan> donatio rata p<expan>er</expan>ma-</seg>
-                        <seg n="poly" rend="8,699,8,723,117,735,284,739,542,748,542,713,211,705">-neat
-                            <expan>et</expan> inconvulsa, p<expan>re</expan>sentem
-                        pagina<expan>m</expan> sigilli n<expan>ost</expan>ri impressione
-                            commu<expan>ni</expan>re curavi.</seg>
+                        <seg n="poly" rend="421,674,420,701,505,705,611,707,678,711,677,679,537,669,537,668">Ut <ex>i</ex>gi<ex>tur</ex> hec concessio <ex>et</ex> donatio rata p<ex>er</ex>ma-</seg>
+                        <seg n="poly" rend="8,699,8,723,117,735,284,739,542,748,542,713,211,705">-neat <ex>et</ex> inconvulsa, p<ex>re</ex>sentem
+                        pagina<ex>m</ex> sigilli n<ex>ost</ex>ri impressione
+                            commu<ex>ni</ex>re curavi.</seg>
                         <seg n="poly" rend="8,733,6,771,150,776,347,778,563,783,563,754">Actum anno
                         incarnati Verbi M° C° LXXVII°.</seg>
-                        <seg n="circle" rend="252,896,105">[<hi rend="italic">Légende du sceau :</hi>]
-                            Sigill<expan>um</expan> domini Odonis de Ham.</seg>
-                    </p>
+                        <seg n="circle" rend="252,896,105">[<hi rend="i">Légende du sceau :</hi>]
+                            Sigill<ex>um</ex> domini Odonis de Ham.</seg>
+                   </p>
                 </div>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p>
-                        <expan>
-                            <hi rend="italic">Croix</hi>
-                        </expan> In nomine sancte et individue Trinitatis, amen. Ego Odo, dominus
+                    <p> <ex>
+                            <hi rend="i">Croix</hi>
+                        </ex> In nomine sancte et individue Trinitatis, amen. Ego Odo, dominus
                         castri <lb/><term n="Ham (Somme, ch.-l. cant.).">Hamensis</term>, notum
                         fieri volo presentibus et futuris quod ecclesia <term
                             n="Prémontré, abbaye et chef d’ordre, chanoines réguliers, ancien diocèse de Laon (Aisne, cant. Anizy-le-Château). Le terme ecclesia, selon le contexte, peut désigner aussi bien l’église que la congrégation (cette dernière progressivement appelée ordo)."
@@ -190,11 +185,11 @@
                             Pleissei</term>. Ut igitur hec concessio et donatio rata <lb/>permaneat
                         et inconvulsa, presentem paginam sigilli nostri impressione communire
                         <lb/>curavi. Actum anno incarnati Verbi M° C° LXXVII°. <lb/>[<hi
-                            rend="italic">Légende du sceau :</hi>] Sigillum domini Odonis de
+                            rend="i">Légende du sceau :</hi>] Sigillum domini Odonis de
                             <foreign xml:lang="frm">Ham</foreign>.</p>
                 </div>
                 <div type="traduction">
-                    <p> (<hi rend="italic">Croix</hi>) Au nom de la sainte et indivise Trinité,
+                    <p>(<hi rend="i">Croix</hi>) Au nom de la sainte et indivise Trinité,
                         amen. Moi Eudes, seigneur du <lb/>château de <term
                             n="Ham (Somme, ch.-l. cant.).">Ham</term>, je veux que soit connu des
                         hommes présents et à venir que l’église <lb/>de <term
@@ -239,7 +234,7 @@
                             n="Le Plessis-Patte-d’Oie (Oise, cant. Guiscard), 7 km S de Ham."
                             >Plessis</term>. Pour que cette concession et <lb/>donation demeure
                         ferme et respectée, j’ai pris soin de munir le présent acte de notre
-                        <lb/>sceau. Fait en l’an du Verbe incarné 1177. <lb/>[<hi rend="italic"
+                        <lb/>sceau. Fait en l’an du Verbe incarné 1177. <lb/>[<hi rend="i"
                             >Légende du sceau :</hi>] Sceau du seigneur Eudes de Ham.</p>
                 </div>
                 <div type="comprendre">
@@ -250,8 +245,8 @@
                         de mise en valeur de la terre ; le seigneur de Ham, un puissant seigneur
                         châtelain du sud de la Picardie (anc. diocèse de Noyon), contrôlant un
                         carrefour de routes (Nesle, Saint-Quentin, Noyon) et ici saisi, comme dans
-                        nombre de chartes du XII<hi rend="exposant">e</hi> siècle, grâce au double
-                        apport de la <hi rend="italic">laudatio parentum</hi> et des listes de
+                        nombre de chartes du XII<hi rend="sup">e</hi> siècle, grâce au double
+                        apport de la <hi rend="i">laudatio parentum</hi> et des listes de
                         témoins, dans un instantané de sa famille (épouse, trois frères, deux fils)
                         et d’un groupe de voisins qui ont toutes les chances d’être aussi des
                         vassaux.</p>
@@ -264,15 +259,15 @@
                         prenons pour son objet propre (créer un nouveau rapport de droit), pour
                         sanctionner et consolider ou redresser des statuts : on pourra à cet égard
                         relever le luxe de détails qui entourent la question de la crédibilité (<hi
-                            rend="italic">veritas</hi>) du frère préposé à la moisson ou de son
+                            rend="i">veritas</hi>) du frère préposé à la moisson ou de son
                         serviteur, qui, à la différence du religieux, pourra être contraint à prêter
                         serment « sur les saints » (c’est-à-dire sur tout objet sacré). Point nodal
                         de la théologie et de la justice du temps, la foi et le serment sont
-                        représentés ici par une riche palette sémantique : <hi rend="italic"
+                        représentés ici par une riche palette sémantique : <hi rend="i"
                             >veritas, infidelitas, juramentum</hi>.</p>
                     <p>Le vocabulaire et sa traduction posent plus d’un problème : faut-il et en
-                        quoi opposer le <hi rend="italic">serviens</hi> du seigneur et le <hi
-                            rend="italic">famulus</hi> de l’abbaye ? Le premier donnera « sergent »
+                        quoi opposer le <hi rend="i">serviens</hi> du seigneur et le <hi
+                            rend="i">famulus</hi> de l’abbaye ? Le premier donnera « sergent »
                         dans l’administration royale et princière, mais ce terme semble encore un
                         peu trop précis pour l’époque. Le second fait-il écho à la grande famille
                         que religieux et convers sont censés formés ? Notre traduction se résout à
@@ -280,33 +275,33 @@
                         dans les deux cas on désigne des subalternes affectés à la gestion.</p>
                     <p>Pour parler plus directement, la traduction amène aussi à glisser vers
                         l’anachronisme : on parle de fauche au moment de la moisson, alors que,
-                        comme dans l’Antiquité classique, il s’agit de <hi rend="italic">secare</hi>
+                        comme dans l’Antiquité classique, il s’agit de <hi rend="i">secare</hi>
                         les épis, de les « scier », surtout à la faucille, et haut sur la tige.
-                        L’opération est traduite par <hi rend="italic">secare/secatio</hi>, alors
-                        que ses agents sont qualifiés, plus génériquement, de <hi rend="italic"
+                        L’opération est traduite par <hi rend="i">secare/secatio</hi>, alors
+                        que ses agents sont qualifiés, plus génériquement, de <hi rend="i"
                             >messores</hi>. Le vocabulaire technique est encore représenté par <hi
-                            rend="italic">triturari, forragium</hi>. L’on ne peut donc dire que le
+                            rend="i">triturari, forragium</hi>. L’on ne peut donc dire que le
                         rédacteur soit éloigné de la vie des champs.</p>
                     <p>Son expression n’en pose pas moins, au détour, de graves problèmes de
                         compréhension, que nous avons voulu laisser subsister à l’état brut dans la
                         traduction. Le plus épineux réside (l. 7) dans le premier emploi du mot <hi
-                            rend="italic">secatio</hi>, plus loin employé pour la moisson.
-                        L’association du seigneur Eudes dans le bois de <hi rend="italic"
-                        >Concis</hi> (l’appellation est-elle à rapprocher du latin <hi rend="italic"
-                            >concisum</hi>, mis en coupe ?) est en effet présentée <hi rend="italic"
+                            rend="i">secatio</hi>, plus loin employé pour la moisson.
+                        L’association du seigneur Eudes dans le bois de <hi rend="i"
+                        >Concis</hi> (l’appellation est-elle à rapprocher du latin <hi rend="i"
+                            >concisum</hi>, mis en coupe ?) est en effet présentée <hi rend="i"
                             >salva decima et secatione</hi>. Comme elle porte précisément, on
                         l’explique en détail plus loin, sur le revenu de la récolte en grains, on ne
                         voit pas pourquoi la moisson serait ici exceptée. Il faut donc supposer que,
                         avec la dîme, qu’elle empoche, l’abbaye de Prémontré entend excepter du
                         partage un droit précis, ne portant pas sur la récolte : ou la coupe des
                         chaumes laissés en terre au moment de la moisson, ou (sens parfois attesté
-                        de <hi rend="italic">secatio</hi>) la fauche de prés.</p>
+                        de <hi rend="i">secatio</hi>) la fauche de prés.</p>
                     <p>Sur le fond, la charte devrait être remise en série pour voir comment elle
                         intervient à un moment précis de la négociation, intense en ces décennies,
                         par laquelle l’entrepreneur ecclésiastique associe (le terme est là, <hi
-                            rend="italic">assotiavit</hi>, l. 3) et intéresse à ses entreprises de
+                            rend="i">assotiavit</hi>, l. 3) et intéresse à ses entreprises de
                         défrichement et de mise en culture (les termes aussi sont là, <hi
-                            rend="italic">extirpare, excolere</hi>, l. 5) le seigneur du lieu (qui
+                            rend="i">extirpare, excolere</hi>, l. 5) le seigneur du lieu (qui
                         n’est pas forcément moins dynamique, mais dont les entreprises restent dans
                         l’ombre documentaire et dont la patrimoine et la trésorerie ont moins de
                         surface). Le nouveau contrat est clair : Eudes consent de nouvelles
@@ -328,17 +323,17 @@
                         cultivées.</p>
                     <p>Par-delà le flou de certaines prescriptions, la charte constitue un document
                         précieux sur les opérations de défrichement, plus encore sur la gestion
-                        agraire et sur ses horizons comptables affermis (<hi rend="italic">quartum
+                        agraire et sur ses horizons comptables affermis (<hi rend="i">quartum
                             denarium, nonam garbem, certa computatione</hi>).</p>
                 </div>
                 <div type="regeste-proposition">
                     <head>1177.</head>
                     <p>Eudes, seigneur de Ham, concède à l’abbaye de Prémontré le bois dit <hi
-                            rend="italic">Concis</hi> au finage de Golancourt, en abandonnant le
+                            rend="i">Concis</hi> au finage de Golancourt, en abandonnant le
                         droit qu’y avait son père Lancelin de percevoir le quart du prix d’une
                         éventuelle vente. L’abbaye défrichera le bois et reversera au seigneur le
                         neuvième de la récolte, excepté la dîme et le droit de fauche (<hi
-                            rend="italic">secatio</hi>). Le même avantage est accordé au seigneur
+                            rend="i">secatio</hi>). Le même avantage est accordé au seigneur
                         sur la terre de Lambert et sur les futurs essarts du finage, mais pas sur
                         les terres anciennement cultivées. Prévenu un jour avant de la moisson, le
                         seigneur pourra dépêcher sur place un serviteur, faute de quoi il devra s’en
@@ -350,12 +345,12 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="80/faxexterne.jpg"/>
-                        </p>
+                       </p>
                         <p>Cet acte mis au nom du seigneur de Ham revêt une forme presque
                             majestueuse : la feuille de parchemin est grande, plus haute que large,
                             et l’écriture, au début surtout, est aérée : elle se resserre vers le
@@ -379,27 +374,25 @@
                             et allongée de la ligne finale de date.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de
                         détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="invocation_figurée" rend="color:#f90808"> (<hi rend="italic">Croix</hi>) <note xml:id="invocation_figurée" type="bulle">Invocation figurée</note>
-                            </seg>
-                            <seg corresp="invocation_verbale" rend="color:#16ea11"> In nomine sancte
-                                et individue Trinitatis, amen. <note xml:id="invocation_verbale" type="bulle">Invocation verbale</note>
-                            </seg>
-                            <seg corresp="suscription" rend="color:#f90808">Ego Odo, dominus castri
-                                    Hamensis,<note xml:id="suscription" type="bulle">Suscription</note></seg>
-                            <seg corresp="notification_universelle" rend="color:#f808c8">notum fieri
-                                volo presentibus et futuris quod<note xml:id="notification_universelle" type="bulle">Notification
+                            <seg corresp="invocation_figurée"> (<hi rend="i">Croix</hi>) <note xml:id="invocation_figurée">Invocation figurée</note></seg>
+                            <seg corresp="invocation_verbale"> In nomine sancte
+                                et individue Trinitatis, amen. <note xml:id="invocation_verbale">Invocation verbale</note></seg>
+                            <seg corresp="suscription">Ego Odo, dominus castri
+                                    Hamensis,<note xml:id="suscription">Suscription</note></seg>
+                            <seg corresp="notification_universelle">notum fieri
+                                volo presentibus et futuris quod<note xml:id="notification_universelle">Notification
                                     universelle</note></seg>
-                            <seg corresp="dispositif" rend="color:#01def8">ecclesia Premonstratensis
-                                quandam silvam habebat, que vulgo <hi rend="italic">Concis</hi>
-                                vocatur, in territorio de <hi rend="italic">Gollencurt</hi>, in qua
+                            <seg corresp="dispositif">ecclesia Premonstratensis
+                                quandam silvam habebat, que vulgo <hi rend="i">Concis</hi>
+                                vocatur, in territorio de <hi rend="i">Gollencurt</hi>, in qua
                                 sibi dominum Lancelinum patrem meum assotiavit ad quartum denarium
                                 si eam aliquando vendere vellet prefata ecclesia. Post mortem vero
                                 ejusdem Lancelini, ego Odo, filius ejus, illum quartum denarium
@@ -410,7 +403,7 @@
                                 Odonis, Gaufridi, ita quod eadem ecclesia assotiavit me et heredes
                                 meos similiter ad nonam garbam in terra Lamberti, in qua prius
                                 nichil habueram nec predecessores mei. Statutum est etiam quod, si
-                                deinceps eadem ecclesia aliquam silvam in territorio de <hi rend="italic">Gollencurt</hi> adquisierit et extirpaverit,
+                                deinceps eadem ecclesia aliquam silvam in territorio de <hi rend="i">Gollencurt</hi> adquisierit et extirpaverit,
                                 ibidem simili modo nonam garbam habebo ; sed in terra ab antiquo
                                 exculta, si eadem ecclesia eam adquisierit, nullum mihi jus
                                 vendicare potero. Cum autem secationis tempus advenerit, una die
@@ -420,26 +413,26 @@
                                 credere de partis mee quantitate ; quod si ipsum famulum de
                                 infidelitate suspectum habuero, eum ad juramentum super sancta
                                 potero compellere, et ab ipso vel a fratribus exinde nichil amplius
-                                exigere. Fratres etiam prefate ecclesie garbam meam ducent ad <hi rend="italic">Gollencurt</hi> si voluero vel, si mihi magis
+                                exigere. Fratres etiam prefate ecclesie garbam meam ducent ad <hi rend="i">Gollencurt</hi> si voluero vel, si mihi magis
                                 placuerit, in grangia sua Bonolii sub certo testimonio et certa
                                 computatione collocabunt, et usque ad festum omnium sanctorum
                                 facient triturari, et granum ducent Hamum, forragium sibi
-                                    retinentes.<note xml:id="dispositif" type="bulle">Dispositif</note></seg>
-                            <seg corresp="liste_de_témoins" rend="color:#9999FF">Huic concessioni et
-                                donationi interfuerunt testes Guillelmus de <hi rend="italic">Vilete</hi>, Rainerus de <hi rend="italic">Mateni</hi>, Symon
-                                Rattus, Petrus <hi rend="italic">del Pleissei</hi>.<note xml:id="liste_de_témoins" type="bulle">Liste de témoins</note></seg>
-                            <seg corresp="corroboration" rend="color:#0ddbc5">Ut igitur hec
+                                    retinentes.<note xml:id="dispositif">Dispositif</note></seg>
+                            <seg corresp="liste_de_témoins">Huic concessioni et
+                                donationi interfuerunt testes Guillelmus de <hi rend="i">Vilete</hi>, Rainerus de <hi rend="i">Mateni</hi>, Symon
+                                Rattus, Petrus <hi rend="i">del Pleissei</hi>.<note xml:id="liste_de_témoins">Liste de témoins</note></seg>
+                            <seg corresp="corroboration">Ut igitur hec
                                 concessio et donatio rata permaneat et inconvulsa, presentem paginam
-                                sigilli nostri impressione communire curavi.<note xml:id="corroboration" type="bulle">Corroboration</note></seg>
-                            <seg corresp="date" rend="color:#24b37f">Actum anno incarnati Verbi M°
-                                C° LXXVII°.<note xml:id="date" type="bulle">Date de
+                                sigilli nostri impressione communire curavi.<note xml:id="corroboration">Corroboration</note></seg>
+                            <seg corresp="date">Actum anno incarnati Verbi M°
+                                C° LXXVII°.<note xml:id="date">Date de
                             temps</note></seg>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Synthèse</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Les différentes étapes de l’analyse convergent. L’acte est solennel et
                             orné, impose l’impression de la puissance du seigneur et de la fermeté
                             de son engagement. Il peut être obscur pour nous par ses sous-entendus,

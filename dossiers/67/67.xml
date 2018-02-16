@@ -148,40 +148,39 @@
 	  <head>[1119-1157]</head>
 	  <p>Le comte Guillaume [II] de Ponthieu fait savoir à ses agents qu’il
 	  a concédé aux chanoines de Sainte-Barbe la terre de La Cochère, avec
-	      l’herbage, le panage et tous les droits (<hi rend="italic">consuetudo</hi>) qui y sont
+	      l’herbage, le panage et tous les droits (<hi rend="i">consuetudo</hi>) qui y sont
 	  attachés. — Vidimus du 15 novembre 1487 sous le sceau de la
 	  châtellenie d’Exmes.</p>
-	  <p> 
-	      N.B. : L’acte a été édité par Clovis Brunel, <hi rend="italic">Recueil des chartes
-		des comtes de Pontieu</hi>, 1026-1279, Paris, 1930 (<hi rend="italic">Documents inédits
+	  <p>
+	      N.B. : L’acte a été édité par Clovis Brunel, <hi rend="i">Recueil des chartes
+		des comtes de Pontieu</hi>, 1026-1279, Paris, 1930 (<hi rend="i">Documents inédits
 	  in-4<sup>o</sup></hi>),  n<sup>o</sup> LVIII, p. 85-86.
-	  </p>
+	 </p>
 	
 	</div></div>
 	<div type="commentaire" n="diplomatique">
 	  <head>Commentaire diplomatique</head>
-	  <div n="1">
+	  <div>
 	  <head>Caractères externes</head>
 	  <div type="recommandation">
 	  <p>
 	  Passer la souris sur les cercles rouges pour des commentaires de détail
-	  </p>
+	 </p>
 	</div>
-
-	  <div type="contenu_commentaire">
+	  <div>
 	  <p>
 	    <figure rend="67/faxexternes.jpg">
 	      <figDesc>
 		<seg type="poly" rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
 		<seg type="circle" rend="153,177,12">Début de l’acte vidimé</seg>
 		<seg type="circle" rend="574,259,8">Fin de l’acte vidimé</seg>
-		    <seg type="circle" rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="italic">n</hi> (pour <hi rend="italic">nota</hi>, <hi rend="italic">notavi</hi>, <hi rend="italic">notarius</hi>… ?).</seg>
+		    <seg type="circle" rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
 		<seg type="poly" rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
-		    <seg type="poly" rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="italic">n</hi> (pour <hi rend="italic">nota</hi>, <hi rend="italic">notavi</hi>, <hi rend="italic">notarius</hi>… ?).</seg>
+		    <seg type="poly" rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
 		<seg type="poly" rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
 	      </figDesc>
 	    </figure>
-	  </p>
+	 </p>
 	  <p>L’acte est rédigé sur un parchemin plus large que haut,
 	  soigneusement coupé. Les marges sont importantes sauf sur le bord
 	  droit ; on peut se demander si le document n’a pas été plus tard
@@ -196,7 +195,7 @@
 	  problèmes de lecture. Le soin graphique, qui joue des effets de
 	  scansion propres à la mixte et à ses nombreux traits obliques, est
 	  confirmé par le traitement solennel des trois mots initiaux, grossis
-		et dont le <hi rend="italic">A</hi> initial est légèrement orné.</p>
+		et dont le <hi rend="i">A</hi> initial est légèrement orné.</p>
 	  <p>On n’observe pas de trace apparente de sceau, mais on devine la
 	  double fente (repli déplié) par où passait une double queue de
 	  parchemin. Sa position excentrée tendrait à confirmer l’hypothèse
@@ -206,104 +205,102 @@
 	  point à peine étiré en clôture.</p>
 	  </div>
 	  </div>
-	  <div n="2">
+	  <div>
 	  <head>Parties du discours</head>
-	  <div type="contenu_commentaire">
+	  <div>
 	    <p>
-	      <seg corresp="adresse" rend="color:#FF0000">
+	      <seg corresp="adresse">
 	      A tous ceulx qui ces lettres verront ou orront
-	      <note id="adresse" type="bulle">Adresse universelle</note>
+	      <note id="adresse">Adresse universelle</note>
 	      </seg>
-	      <seg corresp="suscription" rend="color:#0099CC">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes
-	      <note id="suscription" type="bulle">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes</note>
+	      <seg corresp="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes
+	      <note id="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes</note>
 	      </seg>
-	      <seg corresp="salut" rend="color:#993399">
+	      <seg corresp="salut">
 	      salut.
-	      <note id="salut" type="bulle">Salut</note>
+	      <note id="salut">Salut</note>
 	      </seg>
-	      <seg corresp="notification" rend="color:#000099">
+	      <seg corresp="notification">
 	      Savoir faisons que
 	      <note id="notification">Notification</note>
 	      </seg>
-	      <seg corresp="date" rend="color:#FF00FF">
+	      <seg corresp="date">
 	        au jour d’uy, quinzieme jour de novembre l’an mil IIIICC IIIIXX et sept,
-		<note id="date" type="bulle">Date initiale</note>
+		<note id="date">Date initiale</note>
 	      </seg>
-	      <seg corresp="vidisuscription" rend="color:#CC9966">
+	      <seg corresp="vidisuscription">
 	        « Willermus comes Pontuvii,
-		<note id="vidisuscription" type="bulle">Début de l’acte vidimé Suscription</note>
+		<note id="vidisuscription">Début de l’acte vidimé Suscription</note>
 	      </seg>
-	      <seg corresp="vidiadresse" rend="color:#CC0000">
+	      <seg corresp="vidiadresse">
 		      servientibus et forestariis suis de Almenechis,
-		      <note id="vidiadresse" type="bulle">Adresse collective</note>
+		      <note id="vidiadresse">Adresse collective</note>
 	      </seg>
-	      <seg corresp="vidisalut" rend="color:#21F0DA">
+	      <seg corresp="vidisalut">
 	      Salut
-	      <note id="vidisalut" type="bulle">Salut</note>
+	      <note id="vidisalut">Salut</note>
 	      </seg>
-	      <seg corresp="vidinotification" rend="color:#5fb934">
+	      <seg corresp="vidinotification">
 	      Scitote quia
-	      <note id="vidinotification" type="bulle">Notification</note>  
+	      <note id="vidinotification">Notification</note>  
 	      </seg>
-	      <seg corresp="vidiexpose" rend="color:#f08608">
+	      <seg corresp="vidiexpose">
 	      concessi canonicis Sancte Barbare locum de Salta Cocheria pro
 	      amore Dei et salute anime mee et antecessorum meorum et filiorum,
 	      et herbagium et pasnagium et omnem consuetudinem solutam et
 	      liberam.
-	      <note id="vidiexpose" type="bulle">Exposé</note>
+	      <note id="vidiexpose">Exposé</note>
 	      </seg>
-	       <seg corresp="vididispo" rend="color:#ff00ea">
+	       <seg corresp="vididispo">
               Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.
-	      <note id="vididispo" type="bulle">Dispositif</note>
+	      <note id="vididispo">Dispositif</note>
 	      </seg>
-	      <seg corresp="vididate" rend="color:#679ef1">
+	      <seg corresp="vididate">
 	      Apud Almeneschas.
-	      <note id="vididate" type="bulle">Date de lieu</note>
+	      <note id="vididate">Date de lieu</note>
 	      </seg>
-	      <seg corresp="viditemoin" rend="color:#b92250">
+	      <seg corresp="viditemoin">
 	      Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.
-	      <note id="viditemoin" type="bulle">
+	      <note id="viditemoin">
 	      Liste de témoins
 	      </note>
 	      </seg>
-	      <seg corresp="vidisalut" rend="color:#20eec0">
+	      <seg corresp="vidisalut">
 	      Valete. »
-	      <note id="vidisalut" type="bulle">Salut final</note>
+	      <note id="vidisalut">Salut final</note>
 	      </seg>
-	      <seg corresp="corrobo" rend="color:#9ecdb6">
+	      <seg corresp="corrobo">
 	      En tesmoing de ce, nous, a la relacion desdits tabellions, avons
 	      mys a cest present vidimus ou transcript l’un des seaulx
 	      dessusdits.  
-	      <note id="corrobo" type="bulle">Retour au vidimus : corroboration (allusion
+	      <note id="corrobo">Retour au vidimus : corroboration (allusion
 non expliquée à plusieurs sceaux concurrents)</note>
 	      </seg>
-	      <seg corresp="datefin" rend="color:#ffe400">
+	      <seg corresp="datefin">
 	      Ce fut faict en l’an et jour dessusdits.
-	      <note id="datefin" type="bulle">Date finale</note>
+	      <note id="datefin">Date finale</note>
 	      </seg>
-	      <seg corresp="collation" rend="color:#ff9e5e">
+	      <seg corresp="collation">
 	      Collacion faicte.
-	      <note id="collation" type="bulle">Mention de collation par laquelle les tabellions attestent
+	      <note id="collation">Mention de collation par laquelle les tabellions attestent
 avoir revu leur copie en la collationnant à l’original</note> 
 	      </seg>
-	      <seg corresp="sign" rend="color:#0fe9d2">
+	      <seg corresp="sign">
 	      (Signé :) Gaudin, Bouton.
-	      <note id="sign" type="bulle">Signature des tabellions</note>
+	      <note id="sign">Signature des tabellions</note>
 	      </seg>
-
 	      
-	    </p>
+	   </p>
 	  </div>
 	  </div>
-	  <div n="3">
+	  <div>
 	  <head>Interprétation</head>
-	  <div type="contenu_commentaire">
+	  <div>
 	    <p>L’opposition des deux langues, français et latin, souligne
 	    encore le contraste entre les deux actes, vidimus et vidimé.</p>
 	    
 	    <p>1. Le vidimus de 1487</p>
-
-	    <p>Le vidimus de la fin du XV<hi rend="exposant">e</hi> siècle,
+	    <p>Le vidimus de la fin du XV<hi rend="sup">e</hi> siècle,
 	    très ordinairement délivré par une juridiction gracieuse royale de
 	    proximité, au niveau de la châtellenie (on dirait ailleurs vicomté
 	    ou prévôté), repose non moins normalement sur la séparation des
@@ -328,10 +325,9 @@ avoir revu leur copie en la collationnant à l’original</note>
 	    transcript.</p> 
 	    
 	    <p>2. L’acte comtal</p>
-
 	    <p>C’est encore de lettres qu’est qualifié l’acte comtal, et fort à
 	    propos, car il est entièrement coulé dans un moule épistolaire,
-		adresse collective et même salut final par <hi rend="italic">Valete</hi>. On y voit une
+		adresse collective et même salut final par <hi rend="i">Valete</hi>. On y voit une
 	    influence patente de la chancellerie royale anglaise, et jusque
 	    dans l’absence de date de temps et dans la liste de témoins puisés
 	    dans l’entourage princier. Nombre de dons mineurs sont ainsi
@@ -351,5 +347,4 @@ avoir revu leur copie en la collationnant à l’original</note>
     </body>
     <back></back>
   </text>
-
 </TEI.2>

@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>1546, 22 septembre. Acte de tabellionnage (Orbec). 1546, 22 septembre. (Orbec). Mandement du baillage d’Evreux (Orbec). <hi rend="italic">« La récompense de Néron»<!-- cf. guillemets --> : quittance Pierre Néron au vicomte d’Orbec</hi>. </title>
+                <title>1546, 22 septembre. Acte de tabellionnage (Orbec). 1546, 22 septembre. (Orbec). Mandement du baillage d’Evreux (Orbec). <hi rend="i">« La récompense de Néron»<!-- cf. guillemets --> : quittance Pierre Néron au vicomte d’Orbec</hi>. </title>
                 <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
                 <author/>
                 <respStmt>
@@ -15,10 +15,10 @@
             <publicationStmt>
                 <idno type="numero">114</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
+                <date when="2008-03/2008-04">mars-avril 2008</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Archives nationales, K 2379, pièce n<hi rend="exposant">°</hi> 28, verso.</p>
+                <p>Archives nationales, K 2379, pièce n° 28, verso.</p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -33,62 +33,60 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
                     <seg rend="8,49,741,74">L’an mil cinq cens quarante-six, le vingt-deuxième jour de septembre, </seg>
-                    <seg rend="750,46,1032,72">devant les tabell<expan>ions</expan> d’Orbec</seg>
-                    <seg rend="15,79,863,102">fut p<expan>rese</expan>nt P<expan>ier</expan>res Neron, executeur du testame<expan>n</expan>t
-                        <!-- indiqué simplement entre crochets --> des senten<expan>ces</expan> cryminelles en ceste vicon<expan>té</expan>, </seg>
-                    <seg rend="865,77,1035,100">lequelle <expan>con</expan>fesse</seg>
-                    <seg rend="13,106,630,131">avoir eu et receu de honn<expan>orable</expan> hom<expan>m</expan>e Thomas de Sainct-Aubin, </seg>
-                    <seg rend="634,108,1054,130">recepveur du dom<expan>m</expan>aine de cested. vicon<expan>té</expan> abs<expan>ent</expan>, </seg>
-                    <seg rend="7,136,512,161">les cens cinq solz tourn<expan>ois</expan>
-                        <expan>con</expan>tenus en l’autre p<expan>ar</expan>t </seg>
-                    <seg rend="522,137,1079,159">qui taxés luy avoie<expan>n</expan>t esté a prend<expan>re</expan> sur led. dom<expan>m</expan>aine </seg>
-                    <seg rend="17,166,469,188"> joux<expan>tant</expan> et pour les causes
-                            <expan>con</expan>tenus en l’aut<expan>re</expan> p<expan>ar</expan>t, </seg>
-                    <seg rend="477,164,1089,187">p<expan>ro</expan>mectant led. Neron que jamaiz riens desd. cent cinq solz </seg>
-                    <seg rend="25,194,605,219"> tourn<expan>ois</expan> ne sera demandé tant aud. recepveur que aultres, </seg>
-                    <seg rend="610,193,1088,220">sur l’obliga<expan>ti</expan>on de biens et heritaiges etc. P<expan>rese</expan>n<expan>t</expan>s </seg>
-                    <seg rend="32,226,518,253">Thomas Feret et Françoys Ourtheys tesm<expan>oin</expan>s.</seg>
-                    <seg rend="62,265,403,369">D. <expan> ?</expan> COLLET</seg>
+                    <seg rend="750,46,1032,72">devant les tabell<ex>ions</ex> d’Orbec</seg>
+                    <seg rend="15,79,863,102">fut p<ex>rese</ex>nt P<ex>ier</ex>res Neron, executeur du testame<ex>n</ex>t
+                        <!-- indiqué simplement entre crochets --> des senten<ex>ces</ex> cryminelles en ceste vicon<ex>té</ex>, </seg>
+                    <seg rend="865,77,1035,100">lequelle <ex>con</ex>fesse</seg>
+                    <seg rend="13,106,630,131">avoir eu et receu de honn<ex>orable</ex> hom<ex>m</ex>e Thomas de Sainct-Aubin, </seg>
+                    <seg rend="634,108,1054,130">recepveur du dom<ex>m</ex>aine de cested. vicon<ex>té</ex> abs<ex>ent</ex>, </seg>
+                    <seg rend="7,136,512,161">les cens cinq solz tourn<ex>ois</ex> <ex>con</ex>tenus en l’autre p<ex>ar</ex>t </seg>
+                    <seg rend="522,137,1079,159">qui taxés luy avoie<ex>n</ex>t esté a prend<ex>re</ex> sur led. dom<ex>m</ex>aine </seg>
+                    <seg rend="17,166,469,188"> joux<ex>tant</ex> et pour les causes <ex>con</ex>tenus en l’aut<ex>re</ex> p<ex>ar</ex>t, </seg>
+                    <seg rend="477,164,1089,187">p<ex>ro</ex>mectant led. Neron que jamaiz riens desd. cent cinq solz </seg>
+                    <seg rend="25,194,605,219"> tourn<ex>ois</ex> ne sera demandé tant aud. recepveur que aultres, </seg>
+                    <seg rend="610,193,1088,220">sur l’obliga<ex>ti</ex>on de biens et heritaiges etc. P<ex>rese</ex>n<ex>t</ex>s </seg>
+                    <seg rend="32,226,518,253">Thomas Feret et Françoys Ourtheys tesm<ex>oin</ex>s.</seg>
+                    <seg rend="62,265,403,369">D. <ex> ?</ex> COLLET</seg>
                     <seg rend="661,273,860,384">TAFFIN</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> L’an mil cinq cens quarante-six, le vingt-deuxième jour de septembre, devant les <term n="Les tabellions sont, à la fin du Moyen Âge en Normandie, l’équivalent des notaires ; ils présentent  la particularité de conserver en commun leurs minutes sans les transmettre à leur successeur direct." > tabellions</term>
-                        <lb/> d’Orbec fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle <lb/> confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine <lb/> de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient <lb/> esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part, promectant <lb/> led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que <lb/> aultres, sur l’obligation de biens et heritaiges, etc... Presents Thomas Feret et Françoys Ourtheys <lb/> tesmoins. </p>
-                    <p> D. C<hi rend="small caps">OLLET</hi> ; T<hi rend="small caps">AFFIN</hi>
-                    </p>
+                    <p>L’an mil cinq cens quarante-six, le vingt-deuxième jour de septembre, devant les <term n="Les tabellions sont, à la fin du Moyen Âge en Normandie, l’équivalent des notaires ; ils présentent  la particularité de conserver en commun leurs minutes sans les transmettre à leur successeur direct."> tabellions</term>
+                        <lb/> d’Orbec fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle <lb/> confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine <lb/> de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient <lb/> esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part, promectant <lb/> led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que <lb/> aultres, sur l’obligation de biens et heritaiges, etc... Presents Thomas Feret et Françoys Ourtheys <lb/> tesmoins.</p>
+                    <p>D. C<hi rend="sc">OLLET</hi> ; T<hi rend="sc">AFFIN</hi>
+                   </p>
                 </div>
                 <div type="regeste">
                     <head>1546, 22 septembre — Orbec</head>
-                    <p> Le bourreau Pierre Néron donne quittance au vicomte d’Orbec des 105 sous contenus dans l’ordre de paiement du lieutenant général du bailli d’Évreux
-                        <!-- Intervention de N.L.-C. : "renvoi au texte  n<hi rend="exposant">°</hi> 17 : au verso de l’acte d’ordonnancement figure la quittance du  bénéficiaire, passée devant deux tabellions d’Orbec (dont les actes ne sont pas conservés  avant 1580), qui sert de décharge au trésorier."  -->
-                    </p>
+                    <p>Le bourreau Pierre Néron donne quittance au vicomte d’Orbec des 105 sous contenus dans l’ordre de paiement du lieutenant général du bailli d’Évreux
+                        <!-- Intervention de N.L.-C. : "renvoi au texte  n° 17 : au verso de l’acte d’ordonnancement figure la quittance du  bénéficiaire, passée devant deux tabellions d’Orbec (dont les actes ne sont pas conservés  avant 1580), qui sert de décharge au trésorier."  -->
+                   </p>
                 </div>
             </div>
 
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de détail</p>
                     </div>
 
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="date" rend="color:#0099CC">L’an mil cinq cens quarante-six le vingt-deuxième jour de septembre,<note xml:id="date" type="bulle" >Date</note></seg>
-                            <seg corresp="suscription" rend="color:#f90808">devant les tabellions d’Orbec<note xml:id="suscription" type="bulle" >Suscription</note></seg>
-                            <seg corresp="expose_dispositif" rend="color:#f808c8">fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part<note xml:id="expose_dispositif" type="bulle">Exposé et dispositif</note></seg>
-                            <seg corresp="clause_finale" rend="color:#01def8">promectant led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que aultres, sur l’obligation de biens et heritaiges, etc... <note xml:id="clause_finale" type="bulle">Clause finale</note></seg>
-                            <seg corresp="clause_corroboration" rend="color:#24b37f">Presents Thomas Feret et Françoys Ourtheys tesmoins<note xml:id="clause_corroboration" type="bulle">Clause de corroboration</note></seg>
-                        </p>
+                            <seg corresp="date">L’an mil cinq cens quarante-six le vingt-deuxième jour de septembre,<note xml:id="date">Date</note></seg>
+                            <seg corresp="suscription">devant les tabellions d’Orbec<note xml:id="suscription">Suscription</note></seg>
+                            <seg corresp="expose_dispositif">fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part<note xml:id="expose_dispositif">Exposé et dispositif</note></seg>
+                            <seg corresp="clause_finale">promectant led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que aultres, sur l’obligation de biens et heritaiges, etc... <note xml:id="clause_finale">Clause finale</note></seg>
+                            <seg corresp="clause_corroboration">Presents Thomas Feret et Françoys Ourtheys tesmoins<note xml:id="clause_corroboration">Clause de corroboration</note></seg>
+                       </p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
-                        <p> Il s’agit de l’extrait authentique d’une quittance de paiement portée sur l’ordonnance même de paiement, la minute devant probablement être signée des témoins et des parties. Cette dernière n’est toutefois pas obligatoire avant l’ordonnance de Fontainebleau de mars 1554. </p>
+                    <div>
+                        <p>Il s’agit de l’extrait authentique d’une quittance de paiement portée sur l’ordonnance même de paiement, la minute devant probablement être signée des témoins et des parties. Cette dernière n’est toutefois pas obligatoire avant l’ordonnance de Fontainebleau de mars 1554.</p>
                     </div>
                 </div>
             </div>

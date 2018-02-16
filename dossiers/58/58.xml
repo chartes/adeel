@@ -21,257 +21,234 @@
         <body>
             <div type="facsimile" rend="fax.jpg">
                 <p>
-                    <seg rend="40,20,528,45">In no<expan>m</expan>i<expan>n</expan>e
-                            s<expan>an</expan>c<expan>t</expan>e <expan>et</expan> individue
-                            T<expan>r</expan>initatis. Fredericus, Dei gr<expan>ati</expan>a
-                            s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>s
-                        Romanor<expan>um</expan> inp<expan>er</expan>ator
-                            se<expan>m</expan>p<expan>er</expan> augustus, </seg>
-                    <seg rend="530,10,886,38">divina fave<expan>n</expan>te cleme<expan>n</expan>cia
-                            Jer<expan>usa</expan>lem <expan>et</expan> Cicilie rex.
-                        T<expan>un</expan>c inp<expan>er</expan>ialis excell<expan>e</expan>ncie</seg>
-                    <seg rend="44,46,425,65">firmissimo robore firmat<expan>ur</expan>
-                            imp<expan>er</expan>iu<expan>m</expan>, t<expan>un</expan>c decus
-                            extollit<expan>ur</expan> cesaree majestatis, </seg>
-                    <seg rend="428,44,900,63">cum infidelibus pro p<expan>er</expan>fidia
-                            pena<expan>m</expan> digne ret<expan>r</expan>ibuit <expan>et</expan>
-                        pro fide fidelibus p<expan>re</expan>mia
-                        lib<expan>er</expan>alit<expan>er</expan> elargit<expan>ur</expan></seg>
-                    <seg rend="44,68,399,88">amorq<expan>u</expan>e virtutis tu<expan>n</expan>c
-                        cresit in bonis <expan>et</expan> pene fra[n]gor acuit<expan>ur</expan>
-                    </seg>
-                    <seg rend="403,66,910,83">cum injustor<expan>um</expan> diviciis justi
-                            ditant<expan>ur</expan>
-                        <expan>et</expan> induunt<expan>ur</expan> innocentes
-                        quoda<expan>m</expan>modo spoliis da<expan>m</expan>pnator<expan>um</expan>.
+                    <seg rend="40,20,528,45">In no<ex>m</ex>i<ex>n</ex>e
+                            s<ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue
+                            T<ex>r</ex>initatis. Fredericus, Dei gr<ex>ati</ex>a
+                            s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>s
+                        Romanor<ex>um</ex> inp<ex>er</ex>ator
+                            se<ex>m</ex>p<ex>er</ex> augustus, </seg>
+                    <seg rend="530,10,886,38">divina fave<ex>n</ex>te cleme<ex>n</ex>cia
+                            Jer<ex>usa</ex>lem <ex>et</ex> Cicilie rex.
+                        T<ex>un</ex>c inp<ex>er</ex>ialis excell<ex>e</ex>ncie</seg>
+                    <seg rend="44,46,425,65">firmissimo robore firmat<ex>ur</ex>
+                            imp<ex>er</ex>iu<ex>m</ex>, t<ex>un</ex>c decus
+                            extollit<ex>ur</ex> cesaree majestatis, </seg>
+                    <seg rend="428,44,900,63">cum infidelibus pro p<ex>er</ex>fidia
+                            pena<ex>m</ex> digne ret<ex>r</ex>ibuit <ex>et</ex>
+                        pro fide fidelibus p<ex>re</ex>mia
+                        lib<ex>er</ex>alit<ex>er</ex> elargit<ex>ur</ex></seg>
+                    <seg rend="44,68,399,88">amorq<ex>u</ex>e virtutis tu<ex>n</ex>c
+                        cresit in bonis <ex>et</ex> pene fra[n]gor acuit<ex>ur</ex></seg>
+                    <seg rend="403,66,910,83">cum injustor<ex>um</ex> diviciis justi
+                            ditant<ex>ur</ex> <ex>et</ex> induunt<ex>ur</ex> innocentes
+                        quoda<ex>m</ex>modo spoliis da<ex>m</ex>pnator<ex>um</ex>.
                         Hac</seg>
-                    <seg rend="45,94,517,108">igit<expan>ur</expan> consideracione
-                        p<expan>re</expan>mo{ni}ti, qui Romani frena inp<expan>er</expan>ii
-                            moderam<expan>ur</expan>, adtendentes puram fidem </seg>
-                    <seg rend="519,89,915,106"><expan>et</expan> devocionis
-                            integ<expan>r</expan>itate<expan>m</expan> quam Raimund<expan>us</expan>
+                    <seg rend="45,94,517,108">igit<ex>ur</ex> consideracione
+                        p<ex>re</ex>mo{ni}ti, qui Romani frena inp<ex>er</ex>ii
+                            moderam<ex>ur</ex>, adtendentes puram fidem </seg>
+                    <seg rend="519,89,915,106"><ex>et</ex> devocionis
+                            integ<ex>r</ex>itate<ex>m</ex> quam Raimund<ex>us</ex>
                         comes Tolosanus, dilectus affini{s}</seg>
-                    <seg rend="47,110,550,129">[s] <expan>et</expan> fidelis n<expan>oste</expan>r,
-                        ad p<expan>er</expan>sonam n<expan>ost</expan>ram specialiter
-                        <expan>et</expan> ad sacrum n<expan>ost</expan>r<expan>u</expan>m
-                            Romanu<expan>m</expan> inp<expan>er</expan>iu<expan>m</expan> nossitur
+                    <seg rend="47,110,550,129">[s] <ex>et</ex> fidelis n<ex>oste</ex>r,
+                        ad p<ex>er</ex>sonam n<ex>ost</ex>ram specialiter <ex>et</ex> ad sacrum n<ex>ost</ex>r<ex>u</ex>m
+                            Romanu<ex>m</ex> inp<ex>er</ex>iu<ex>m</ex> nossitur
                         habuisse, </seg>
-                    <seg rend="555,108,911,129">considerantes quoq<expan>ue</expan> grata satis et
-                        fructuosa servicia que nob<expan>is</expan> et in-</seg>
-                    <seg rend="45,135,374,150">-p<expan>er</expan>io indeffe[i]ssa
-                        v<expan>ir</expan>tute semp<expan>er</expan> ex{h}ibuit <expan>et</expan> in
-                        futurum poterit exib<expan>e</expan>re, </seg>
-                    <seg rend="378,128,907,147">advertentes insup<expan>er</expan> manifestam
-                            p<expan>er</expan>fidiam qua<expan>m</expan>
-                            Raimu<expan>n</expan>d<expan>us</expan> comes P<expan>ro</expan>vincie,
-                            beneficior<expan>um</expan> n<expan>ost</expan>ror<expan>um</expan>
-                        inmemor <expan>et</expan> fi-</seg>
-                    <seg rend="42,152,433,166">-dei qua nob<expan>is</expan>
-                        <expan>et</expan> imp<expan>er</expan>io tenebat<expan>ur</expan> oblitus,
-                            cont<expan>r</expan>a nos p<expan>ro</expan>ditorie
-                        p<expan>re</expan>sumsit comm{i}ttere, </seg>
-                    <seg rend="434,147,908,169">civitate<expan>m</expan> Arlatensem nob<expan>is</expan>
-                        <expan>et</expan> imp<expan>er</expan>io subdita<expan>m</expan> a fide
-                            n<expan>ost</expan>ra p<expan>er</expan>vertens <expan>et</expan>
-                        occupare p<expan>re</expan>sumens, unde ip<expan>su</expan>m
-                        c<expan>r</expan>i-</seg>
-                    <seg rend="48,169,566,185">-minis lese majestatis reum publico <expan>et</expan>
-                        justo judicio conde<expan>m</expan>pnat<expan>um</expan> perpetuo banno
-                            inp<expan>er</expan>ii subd<expan>e</expan>ndum duximus </seg>
-                    <seg rend="568,170,913,187">et p<expan>ro</expan>ditore<expan>m</expan>
-                        <expan>et</expan> hoste<expan>m</expan> puplicum reputamus <expan>et</expan>
-                        eum o<expan>mn</expan>ib<expan>us</expan> bonis ejus s<expan>e</expan>n-</seg>
-                    <seg rend="47,186,330,199">-t<expan>e</expan>ncialit<expan>er</expan>
-                            p<expan>r</expan>ivavim<expan>us</expan>, que inp<expan>er</expan>ii
-                            n<expan>ost</expan>ri jurib<expan>us</expan> decrevim<expan>us</expan>
+                    <seg rend="555,108,911,129">considerantes quoq<ex>ue</ex> grata satis et
+                        fructuosa servicia que nob<ex>is</ex> et in-</seg>
+                    <seg rend="45,135,374,150">-p<ex>er</ex>io indeffe[i]ssa
+                        v<ex>ir</ex>tute semp<ex>er</ex> ex{h}ibuit <ex>et</ex> in
+                        futurum poterit exib<ex>e</ex>re, </seg>
+                    <seg rend="378,128,907,147">advertentes insup<ex>er</ex> manifestam
+                            p<ex>er</ex>fidiam qua<ex>m</ex>
+                            Raimu<ex>n</ex>d<ex>us</ex> comes P<ex>ro</ex>vincie,
+                            beneficior<ex>um</ex> n<ex>ost</ex>ror<ex>um</ex>
+                        inmemor <ex>et</ex> fi-</seg>
+                    <seg rend="42,152,433,166">-dei qua nob<ex>is</ex> <ex>et</ex> imp<ex>er</ex>io tenebat<ex>ur</ex> oblitus,
+                            cont<ex>r</ex>a nos p<ex>ro</ex>ditorie
+                        p<ex>re</ex>sumsit comm{i}ttere, </seg>
+                    <seg rend="434,147,908,169">civitate<ex>m</ex> Arlatensem nob<ex>is</ex> <ex>et</ex> imp<ex>er</ex>io subdita<ex>m</ex> a fide
+                            n<ex>ost</ex>ra p<ex>er</ex>vertens <ex>et</ex>
+                        occupare p<ex>re</ex>sumens, unde ip<ex>su</ex>m
+                        c<ex>r</ex>i-</seg>
+                    <seg rend="48,169,566,185">-minis lese majestatis reum publico <ex>et</ex>
+                        justo judicio conde<ex>m</ex>pnat<ex>um</ex> perpetuo banno
+                            inp<ex>er</ex>ii subd<ex>e</ex>ndum duximus </seg>
+                    <seg rend="568,170,913,187">et p<ex>ro</ex>ditore<ex>m</ex> <ex>et</ex> hoste<ex>m</ex> puplicum reputamus <ex>et</ex>
+                        eum o<ex>mn</ex>ib<ex>us</ex> bonis ejus s<ex>e</ex>n-</seg>
+                    <seg rend="47,186,330,199">-t<ex>e</ex>ncialit<ex>er</ex>
+                            p<ex>r</ex>ivavim<ex>us</ex>, que inp<ex>er</ex>ii
+                            n<ex>ost</ex>ri jurib<ex>us</ex> decrevim<ex>us</ex>
                         aplicanda, </seg>
-                    <seg rend="337,187,918,203">comitat<expan>um</expan>
-                        Folqualq<expan>ue</expan>rii, quem idem com<expan>e</expan>s
-                            P<expan>ro</expan>vi<expan>n</expan>cie hacten<expan>us</expan> tenuit,
-                            <expan>et</expan> o<expan>mn</expan>ia pheuda q<expan>ue</expan>
-                            r<expan>aci</expan>one comitat<expan>us</expan>
-                            ip<expan>s</expan>i<expan>us</expan> ad ip<expan>su</expan>m
-                            comite<expan>m</expan> p<expan>er</expan>ve-</seg>
-                    <seg rend="49,203,585,221">-nerunt <expan>et</expan> specialit<expan>er</expan>
-                        civitatem Sistarici <expan>et</expan> castrum Folcalq<expan>ue</expan>rii
-                            ip<expan>s</expan>i Raimundo comiti Tolosano, dilecto affini
-                        <expan>et</expan> fideli n<expan>ost</expan>ro, </seg>
-                    <seg rend="586,203,913,223"><expan>et</expan> ejus heredib<expan>us</expan> de
-                            n<expan>ost</expan>ra gr<expan>ati</expan>a concedim<expan>us</expan>
-                        <expan>et</expan> p<expan>er</expan>petuo
-                        co<expan>n</expan>firmam<expan>us</expan>, salva</seg>
-                    <seg rend="50,223,548,236">in o<expan>mn</expan>ib<expan>us</expan>
-                        imp<expan>er</expan>iali justicia. Ad hujus aut<expan>em</expan>
-                        n<expan>ost</expan>re consecionis <expan>et</expan>
-                        co<expan>n</expan>firmacionis memoriam <expan>et</expan> robur
-                        p<expan>er</expan>petuo vali[i]turu<expan>m</expan>, </seg>
-                    <seg rend="551,224,914,244">p<expan>re</expan>s<expan>e</expan>ns
-                        p<expan>r</expan>ivilegium scribi <expan>et</expan> sigillo magestatis
-                            n<expan>ost</expan>re juss{i}mus conmuniri. Hujus
-                            a<expan>u</expan>t<expan>em</expan></seg>
-                    <seg rend="50,237,502,255">rei sunt testes B. Panormitan<expan>us</expan>
-                            archiep<expan>iscopu</expan>s, Regin<expan>us</expan> et
-                            Taurinen<expan>sis</expan> ep<expan>iscop</expan>i,
-                        Gavard<expan>us</expan> de Arnesteyn, </seg>
+                    <seg rend="337,187,918,203">comitat<ex>um</ex>
+                        Folqualq<ex>ue</ex>rii, quem idem com<ex>e</ex>s
+                            P<ex>ro</ex>vi<ex>n</ex>cie hacten<ex>us</ex> tenuit, <ex>et</ex> o<ex>mn</ex>ia pheuda q<ex>ue</ex>
+                            r<ex>aci</ex>one comitat<ex>us</ex>
+                            ip<ex>s</ex>i<ex>us</ex> ad ip<ex>su</ex>m
+                            comite<ex>m</ex> p<ex>er</ex>ve-</seg>
+                    <seg rend="49,203,585,221">-nerunt <ex>et</ex> specialit<ex>er</ex>
+                        civitatem Sistarici <ex>et</ex> castrum Folcalq<ex>ue</ex>rii
+                            ip<ex>s</ex>i Raimundo comiti Tolosano, dilecto affini <ex>et</ex> fideli n<ex>ost</ex>ro, </seg>
+                    <seg rend="586,203,913,223"><ex>et</ex> ejus heredib<ex>us</ex> de
+                            n<ex>ost</ex>ra gr<ex>ati</ex>a concedim<ex>us</ex> <ex>et</ex> p<ex>er</ex>petuo
+                        co<ex>n</ex>firmam<ex>us</ex>, salva</seg>
+                    <seg rend="50,223,548,236">in o<ex>mn</ex>ib<ex>us</ex>
+                        imp<ex>er</ex>iali justicia. Ad hujus aut<ex>em</ex>
+                        n<ex>ost</ex>re consecionis <ex>et</ex>
+                        co<ex>n</ex>firmacionis memoriam <ex>et</ex> robur
+                        p<ex>er</ex>petuo vali[i]turu<ex>m</ex>, </seg>
+                    <seg rend="551,224,914,244">p<ex>re</ex>s<ex>e</ex>ns
+                        p<ex>r</ex>ivilegium scribi <ex>et</ex> sigillo magestatis
+                            n<ex>ost</ex>re juss{i}mus conmuniri. Hujus
+                            a<ex>u</ex>t<ex>em</ex></seg>
+                    <seg rend="50,237,502,255">rei sunt testes B. Panormitan<ex>us</ex>
+                            archiep<ex>iscopu</ex>s, Regin<ex>us</ex> et
+                            Taurinen<ex>sis</ex> ep<ex>iscop</ex>i,
+                        Gavard<ex>us</ex> de Arnesteyn, </seg>
                     <seg rend="507,237,547,245,914,252,914,269,713,268,508,255" n="poly"
-                            >Thom<expan>asius</expan> comes Acerrar<expan>um</expan>,
-                            Henric<expan>us</expan> de More magister justitiarius,
-                        magist<expan>er</expan> Petrus d<expan>e</expan> Vine-</seg>
-                    <seg rend="51,255,365,274">-a <expan>et</expan> magist<expan>er</expan> Taddeus
+                            >Thom<ex>asius</ex> comes Acerrar<ex>um</ex>,
+                            Henric<ex>us</ex> de More magister justitiarius,
+                        magist<ex>er</ex> Petrus d<ex>e</ex> Vine-</seg>
+                    <seg rend="51,255,365,274">-a <ex>et</ex> magist<ex>er</ex> Taddeus
                         de Suessa magne curie judices, et alii plures.</seg>
-                    <seg rend="44,340,318,361">Signu<expan>m</expan> Federici secundi, Dei
-                            gr<expan>ati</expan>a invictissimi Romanor<expan>um</expan>
-                    </seg>
+                    <seg rend="44,340,318,361">Signu<ex>m</ex> Federici secundi, Dei
+                            gr<ex>ati</ex>a invictissimi Romanor<ex>um</ex></seg>
                     <seg rend="341,285,419,376">(monogramme) </seg>
-                    <seg rend="421,337,644,358">imp<expan>er</expan>atoris semp<expan>er</expan>
-                        augusti, Jer<expan>usa</expan>l<expan>e</expan>m <expan>et</expan> Cicilie
+                    <seg rend="421,337,644,358">imp<ex>er</ex>atoris semp<ex>er</ex>
+                        augusti, Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Cicilie
                         regis. </seg>
-                    <seg rend="652,338,911,362">Aacta sunt h<expan>ec</expan> anno
-                        d<expan>omi</expan>nice Incarnacionis millezimo</seg>
-                    <seg rend="47,364,330,380">duce<expan>n</expan>tesimo trisesimo nono, mense
-                            dece<expan>m</expan>br<expan>is</expan>, tert<expan>i</expan>e decime
+                    <seg rend="652,338,911,362">Aacta sunt h<ex>ec</ex> anno
+                        d<ex>omi</ex>nice Incarnacionis millezimo</seg>
+                    <seg rend="47,364,330,380">duce<ex>n</ex>tesimo trisesimo nono, mense
+                            dece<ex>m</ex>br<ex>is</ex>, tert<ex>i</ex>e decime
                         in-</seg>
-                    <seg rend="419,366,920,385">-dictionis, imp<expan>er</expan>ante
-                        d<expan>omi</expan>no n<expan>ost</expan>ro Fr<expan>ederico</expan> Dei
-                            gr<expan>ati</expan>a invictissimo Romanor<expan>um</expan>
-                        imp<expan>er</expan>atore semp<expan>er</expan> augusto,
-                            Jer<expan>usa</expan>l<expan>e</expan>m <expan>et</expan> Cici-</seg>
+                    <seg rend="419,366,920,385">-dictionis, imp<ex>er</ex>ante
+                        d<ex>omi</ex>no n<ex>ost</ex>ro Fr<ex>ederico</ex> Dei
+                            gr<ex>ati</ex>a invictissimo Romanor<ex>um</ex>
+                        imp<ex>er</ex>atore semp<ex>er</ex> augusto,
+                            Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Cici-</seg>
                     <seg rend="49,383,376,404">-lie re[x]ge, imperii ejus anno vicesimo, regni
-                            Jer<expan>usa</expan>l<expan>e</expan>m quinto decimo, </seg>
-                    <seg rend="381,386,702,402">regni v<expan>er</expan>o Sicil<expan>ie</expan>
-                        quadragesimo s<expan>e</expan>c<expan>un</expan>do,
-                        felicit<expan>er</expan>, ame<expan>n</expan>.</seg>
-                    <seg rend="45,417,363,440">Data Cremone, anno, mense <expan>et</expan>
+                            Jer<ex>usa</ex>l<ex>e</ex>m quinto decimo, </seg>
+                    <seg rend="381,386,702,402">regni v<ex>er</ex>o Sicil<ex>ie</ex>
+                        quadragesimo s<ex>e</ex>c<ex>un</ex>do,
+                        felicit<ex>er</ex>, ame<ex>n</ex>.</seg>
+                    <seg rend="45,417,363,440">Data Cremone, anno, mense <ex>et</ex>
                         indictione predictis.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
-                <div type="texte"> In no<expan>m</expan>i<expan>n</expan>e
-                        s<expan>an</expan>c<expan>t</expan>e <expan>et</expan> individue
-                    T<expan>r</expan>initatis. <term
+                <div type="texte"> In no<ex>m</ex>i<ex>n</ex>e
+                        s<ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue
+                    T<ex>r</ex>initatis. <term
                         n="Frédéric II, petit-fils de Frédéric Ier Barberousse, fils de Henri VI et de Constance de Sicile (1194-1250), couronné empereur à Rome par Honorius III en 1220."
-                        >Fredericus</term>, Dei gr<expan>ati</expan>a <term
+                        >Fredericus</term>, Dei gr<ex>ati</ex>a <term
                         n="L&#x2019;ordinal est d&#x2019;emploi fréquent dans les actes impériaux, alors qu&#x2019;il est totalement absent des actes royaux français (il n&#x2019;apparaît jamais dans la suscription et s&#x2019;introduit sur la légende des sceaux sous Charles VIII)."
-                            >s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>s</term>
-                        Romanor<expan>um</expan> inp<expan>er</expan>ator
-                        se<expan>m</expan>p<expan>er</expan> augustus, divina fave<expan>n</expan>te
-                        cleme<expan>n</expan>cia Jer<expan>usa</expan>lem <expan>et</expan> Cicilie
-                    rex. T<expan>un</expan>c inp<expan>er</expan>ialis excell<expan>e</expan>ncie
-                    firmissimo robore firmat<expan>ur</expan>
-                    imp<expan>er</expan>iu<expan>m</expan>, t<expan>un</expan>c decus
-                        extollit<expan>ur</expan> cesaree majestatis, cum infidelibus pro
-                    p<expan>er</expan>fidia pena<expan>m</expan> digne ret<expan>r</expan>ibuit
-                        <expan>et</expan> pro fide fidelibus p<expan>re</expan>mia
-                        lib<expan>er</expan>alit<expan>er</expan> elargit<expan>ur</expan>
+                            >s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>s</term>
+                        Romanor<ex>um</ex> inp<ex>er</ex>ator
+                        se<ex>m</ex>p<ex>er</ex> augustus, divina fave<ex>n</ex>te
+                        cleme<ex>n</ex>cia Jer<ex>usa</ex>lem <ex>et</ex> Cicilie
+                    rex. T<ex>un</ex>c inp<ex>er</ex>ialis excell<ex>e</ex>ncie
+                    firmissimo robore firmat<ex>ur</ex>
+                    imp<ex>er</ex>iu<ex>m</ex>, t<ex>un</ex>c decus
+                        extollit<ex>ur</ex> cesaree majestatis, cum infidelibus pro
+                    p<ex>er</ex>fidia pena<ex>m</ex> digne ret<ex>r</ex>ibuit <ex>et</ex> pro fide fidelibus p<ex>re</ex>mia
+                        lib<ex>er</ex>alit<ex>er</ex> elargit<ex>ur</ex>
                     <term n="Nous traduisons en corrigeant &#171; amorque &#187;."
-                            >amorq<expan>u</expan>e</term> virtutis tu<expan>n</expan>c cresit in
-                    bonis <expan>et</expan> pene fra[n]gor <term
+                            >amorq<ex>u</ex>e</term> virtutis tu<ex>n</ex>c cresit in
+                    bonis <ex>et</ex> pene fra[n]gor <term
                         n="Il faut rétablir &#171; in malis acuitur &#187;."
-                        >acuit<expan>ur</expan></term> cum injustor<expan>um</expan> diviciis justi
-                        ditant<expan>ur</expan>
-                    <expan>et</expan> induunt<expan>ur</expan> innocentes quoda<expan>m</expan>modo
-                    spoliis da<expan>m</expan>pnator<expan>um</expan>. Hac igit<expan>ur</expan>
+                        >acuit<ex>ur</ex></term> cum injustor<ex>um</ex> diviciis justi
+                        ditant<ex>ur</ex> <ex>et</ex> induunt<ex>ur</ex> innocentes quoda<ex>m</ex>modo
+                    spoliis da<ex>m</ex>pnator<ex>um</ex>. Hac igit<ex>ur</ex>
                     consideracione <term n="Il faut corriger &#171; permoniti &#187;."
-                            >p<expan>re</expan>mo{ni}ti</term>, qui Romani frena
-                    inp<expan>er</expan>ii moderam<expan>ur</expan>, adtendentes puram fidem
-                        <expan>et</expan> devocionis integ<expan>r</expan>itate<expan>m</expan> quam
+                            >p<ex>re</ex>mo{ni}ti</term>, qui Romani frena
+                    inp<ex>er</ex>ii moderam<ex>ur</ex>, adtendentes puram fidem <ex>et</ex> devocionis integ<ex>r</ex>itate<ex>m</ex> quam
                         <term
                         n="Raimond VII de Toulouse, fils de Raimond VI, naît à Beaucaire en 1197. Il succède à son père en 1222, et meurt à Millau en 1249. Sa fille Jeanne épouse Alphonse de Poitiers, frère de saint Louis. Il se rapproche un temps du parti impérial, anti-pontifical, dans une tentative de révolte contre la mise en tutelle du comté par le roi de France."
-                            >Raimund<expan>us</expan></term> comes Tolosanus, dilectus affini{s} [s]
-                        <expan>et</expan> fidelis n<expan>oste</expan>r, ad p<expan>er</expan>sonam
-                        n<expan>ost</expan>ram specialiter <expan>et</expan> ad sacrum
-                        n<expan>ost</expan>r<expan>u</expan>m Romanu<expan>m</expan>
-                        inp<expan>er</expan>iu<expan>m</expan> nossitur habuisse, considerantes
-                        quoq<expan>ue</expan> grata satis et fructuosa servicia que
-                    nob<expan>is</expan> et in- -p<expan>er</expan>io indeffe[i]ssa
-                    v<expan>ir</expan>tute semp<expan>er</expan> ex{h}ibuit <expan>et</expan> in
-                    futurum poterit exib<expan>e</expan>re, advertentes insup<expan>er</expan>
-                    manifestam p<expan>er</expan>fidiam qua<expan>m</expan>
+                            >Raimund<ex>us</ex></term> comes Tolosanus, dilectus affini{s} [s] <ex>et</ex> fidelis n<ex>oste</ex>r, ad p<ex>er</ex>sonam
+                        n<ex>ost</ex>ram specialiter <ex>et</ex> ad sacrum
+                        n<ex>ost</ex>r<ex>u</ex>m Romanu<ex>m</ex>
+                        inp<ex>er</ex>iu<ex>m</ex> nossitur habuisse, considerantes
+                        quoq<ex>ue</ex> grata satis et fructuosa servicia que
+                    nob<ex>is</ex> et in- -p<ex>er</ex>io indeffe[i]ssa
+                    v<ex>ir</ex>tute semp<ex>er</ex> ex{h}ibuit <ex>et</ex> in
+                    futurum poterit exib<ex>e</ex>re, advertentes insup<ex>er</ex>
+                    manifestam p<ex>er</ex>fidiam qua<ex>m</ex>
                     <term
                         n="Raimond Béranger V, comte de Provence de 1217 à sa mort en 1245. Confronté aux rivalités aristocratiques et aux anciennes prétentions de la maison de Toulouse, il opte pour le parti pontifical, alors que la Provence était terre d&#x2019;Empire ; Charles d&#x2019;Anjou, époux de sa fille Béatrice, recueillera l&#x2019;héritage de la Provence."
-                            >Raimu<expan>n</expan>d<expan>us</expan></term> comes
-                    P<expan>ro</expan>vincie, beneficior<expan>um</expan>
-                        n<expan>ost</expan>ror<expan>um</expan> inmemor <expan>et</expan> fi- -dei
-                    qua nob<expan>is</expan>
-                    <expan>et</expan> imp<expan>er</expan>io tenebat<expan>ur</expan> oblitus,
-                        cont<expan>r</expan>a nos p<expan>ro</expan>ditorie p<expan>re</expan>sumsit
-                    comm{i}ttere, civitate<expan>m</expan>
+                            >Raimu<ex>n</ex>d<ex>us</ex></term> comes
+                    P<ex>ro</ex>vincie, beneficior<ex>um</ex>
+                        n<ex>ost</ex>ror<ex>um</ex> inmemor <ex>et</ex> fi- -dei
+                    qua nob<ex>is</ex> <ex>et</ex> imp<ex>er</ex>io tenebat<ex>ur</ex> oblitus,
+                        cont<ex>r</ex>a nos p<ex>ro</ex>ditorie p<ex>re</ex>sumsit
+                    comm{i}ttere, civitate<ex>m</ex>
                     <term
                         n="La ville d&#x2019;Arles (Bouches-du-Rhône, ch.-l. arr.), point fort de la puissance impériale en Provence, a été &#34;retournée&#34; au profit du parti pontifical par Raimond Béranger avec l&#x2019;aide de partisans du pape, presque aussitôt connue la nouvelle excommunication de Frédéric II par Grégoire IX en mars 1239."
-                        >Arlatensem</term> nob<expan>is</expan>
-                    <expan>et</expan> imp<expan>er</expan>io subdita<expan>m</expan> a fide
-                        n<expan>ost</expan>ra p<expan>er</expan>vertens <expan>et</expan> occupare
-                        p<expan>re</expan>sumens, unde ip<expan>su</expan>m c<expan>r</expan>i-
-                    -minis lese majestatis reum publico <expan>et</expan> justo judicio
-                        conde<expan>m</expan>pnat<expan>um</expan> perpetuo banno
-                    inp<expan>er</expan>ii subd<expan>e</expan>ndum duximus et
-                        p<expan>ro</expan>ditore<expan>m</expan>
-                    <expan>et</expan> hoste<expan>m</expan> puplicum reputamus <expan>et</expan> eum
-                        o<expan>mn</expan>ib<expan>us</expan> bonis ejus s<expan>e</expan>n-
-                        -t<expan>e</expan>ncialit<expan>er</expan>
-                    p<expan>r</expan>ivavim<expan>us</expan>, que inp<expan>er</expan>ii
-                    n<expan>ost</expan>ri jurib<expan>us</expan> decrevim<expan>us</expan>
-                    aplicanda, comitat<expan>um</expan>
+                        >Arlatensem</term> nob<ex>is</ex> <ex>et</ex> imp<ex>er</ex>io subdita<ex>m</ex> a fide
+                        n<ex>ost</ex>ra p<ex>er</ex>vertens <ex>et</ex> occupare
+                        p<ex>re</ex>sumens, unde ip<ex>su</ex>m c<ex>r</ex>i-
+                    -minis lese majestatis reum publico <ex>et</ex> justo judicio
+                        conde<ex>m</ex>pnat<ex>um</ex> perpetuo banno
+                    inp<ex>er</ex>ii subd<ex>e</ex>ndum duximus et
+                        p<ex>ro</ex>ditore<ex>m</ex> <ex>et</ex> hoste<ex>m</ex> puplicum reputamus <ex>et</ex> eum
+                        o<ex>mn</ex>ib<ex>us</ex> bonis ejus s<ex>e</ex>n-
+                        -t<ex>e</ex>ncialit<ex>er</ex>
+                    p<ex>r</ex>ivavim<ex>us</ex>, que inp<ex>er</ex>ii
+                    n<ex>ost</ex>ri jurib<ex>us</ex> decrevim<ex>us</ex>
+                    aplicanda, comitat<ex>um</ex>
                     <term
                         n="Forcalquier (Alpes de Haute-Provence, ch.-l. arr.). Le comté est tenu par Raimond Béranger V du chef de sa mère ; il est depuis lors uni à la Provence, mais continue à figurer séparément dans la titulature comtale."
-                            >Folqualq<expan>ue</expan>rii</term>, quem idem com<expan>e</expan>s
-                        P<expan>ro</expan>vi<expan>n</expan>cie hacten<expan>us</expan> tenuit,
-                        <expan>et</expan> o<expan>mn</expan>ia pheuda q<expan>ue</expan>
-                    r<expan>aci</expan>one comitat<expan>us</expan>
-                    ip<expan>s</expan>i<expan>us</expan> ad ip<expan>su</expan>m
-                    comite<expan>m</expan> p<expan>er</expan>ve- -nerunt <expan>et</expan>
-                        specialit<expan>er</expan> civitatem <term
-                        n="Sisteron (Alpes de Haute-Provence, ch.-l. cant.).">Sistarici</term>
-                    <expan>et</expan> castrum Folcalq<expan>ue</expan>rii ip<expan>s</expan>i
-                    Raimundo comiti Tolosano, dilecto affini <expan>et</expan> fideli
-                    n<expan>ost</expan>ro, <expan>et</expan> ejus heredib<expan>us</expan> de
-                        n<expan>ost</expan>ra gr<expan>ati</expan>a concedim<expan>us</expan>
-                    <expan>et</expan> p<expan>er</expan>petuo
-                    co<expan>n</expan>firmam<expan>us</expan>, salva in
-                        o<expan>mn</expan>ib<expan>us</expan> imp<expan>er</expan>iali justicia. Ad
-                    hujus aut<expan>em</expan> n<expan>ost</expan>re consecionis <expan>et</expan>
-                        co<expan>n</expan>firmacionis memoriam <expan>et</expan> robur
-                    p<expan>er</expan>petuo vali[i]turu<expan>m</expan>,
-                    p<expan>re</expan>s<expan>e</expan>ns p<expan>r</expan>ivilegium scribi
-                        <expan>et</expan> sigillo magestatis n<expan>ost</expan>re juss{i}mus
-                    conmuniri. Hujus a<expan>u</expan>t<expan>em</expan> rei sunt testes B. <term
+                            >Folqualq<ex>ue</ex>rii</term>, quem idem com<ex>e</ex>s
+                        P<ex>ro</ex>vi<ex>n</ex>cie hacten<ex>us</ex> tenuit, <ex>et</ex> o<ex>mn</ex>ia pheuda q<ex>ue</ex>
+                    r<ex>aci</ex>one comitat<ex>us</ex>
+                    ip<ex>s</ex>i<ex>us</ex> ad ip<ex>su</ex>m
+                    comite<ex>m</ex> p<ex>er</ex>ve- -nerunt <ex>et</ex>
+                        specialit<ex>er</ex> civitatem <term
+                        n="Sisteron (Alpes de Haute-Provence, ch.-l. cant.).">Sistarici</term> <ex>et</ex> castrum Folcalq<ex>ue</ex>rii ip<ex>s</ex>i
+                    Raimundo comiti Tolosano, dilecto affini <ex>et</ex> fideli
+                    n<ex>ost</ex>ro, <ex>et</ex> ejus heredib<ex>us</ex> de
+                        n<ex>ost</ex>ra gr<ex>ati</ex>a concedim<ex>us</ex> <ex>et</ex> p<ex>er</ex>petuo
+                    co<ex>n</ex>firmam<ex>us</ex>, salva in
+                        o<ex>mn</ex>ib<ex>us</ex> imp<ex>er</ex>iali justicia. Ad
+                    hujus aut<ex>em</ex> n<ex>ost</ex>re consecionis <ex>et</ex>
+                        co<ex>n</ex>firmacionis memoriam <ex>et</ex> robur
+                    p<ex>er</ex>petuo vali[i]turu<ex>m</ex>,
+                    p<ex>re</ex>s<ex>e</ex>ns p<ex>r</ex>ivilegium scribi <ex>et</ex> sigillo magestatis n<ex>ost</ex>re juss{i}mus
+                    conmuniri. Hujus a<ex>u</ex>t<ex>em</ex> rei sunt testes B. <term
                         n="Berardo, archevêque de Palerme (1213-1252), est, avec les autres témoins laïques cités, un proche familier de Frédéric II."
-                            >Panormitan<expan>us</expan></term> archiep<expan>iscopu</expan>s, <term
+                            >Panormitan<ex>us</ex></term> archiep<ex>iscopu</ex>s, <term
                         n="Nicolò, évêque de Reggio d&#x2019;Emilie (1211-1243)."
-                        >Regin<expan>us</expan></term> et <term
+                        >Regin<ex>us</ex></term> et <term
                         n="Ugo ou Uguccio, évêque de Turin (1231-1241)."
-                    >Taurinen<expan>sis</expan></term> ep<expan>iscop</expan>i, <term
+                    >Taurinen<ex>sis</ex></term> ep<ex>iscop</ex>i, <term
                         n="Gebhard d&#x2019;Arnstein, noble de Thuringe, sert Frédéric II en Italie septentrionale et centrale, où il agit comme légat impérial depuis 1231."
-                            >Gavard<expan>us</expan></term> de Arnesteyn, <term
+                            >Gavard<ex>us</ex></term> de Arnesteyn, <term
                         n="Thomas d&#x2019;Aquin (Aquino, Italie, prov. Frosinone), d&#x2019;une famille de fidèles de l&#x2019;empereur, dont est issu le célèbre théologien homonyme, a reçu le comté d&#x2019;Acerra (prov. Naples) du souverain en 1221 ; il est employé de nombreuses fois dans les années 1230 à des missions de confiance."
-                            >Thom<expan>asius</expan></term> comes Acerrar<expan>um</expan>, <term
+                            >Thom<ex>asius</ex></term> comes Acerrar<ex>um</ex>, <term
                         n="Henri de Morra, grand justicier de la cour royale de Sicile depuis au moins 1223 ; il meurt à la fin de 1242."
-                            >Henric<expan>us</expan></term> de More magister justitiarius,
-                        magist<expan>er</expan>
+                            >Henric<ex>us</ex></term> de More magister justitiarius,
+                        magist<ex>er</ex>
                     <term
                         n="Pierre de La Vigne ou des Vignes, juge de la cour royale, célèbre pour son formulaire de lettres impériales (mort en 1249)."
-                        >Petrus</term> d<expan>e</expan> Vine- -a <expan>et</expan> magist<expan>er</expan>
+                        >Petrus</term> d<ex>e</ex> Vine- -a <ex>et</ex> magist<ex>er</ex>
                     <term
                         n="Taddeo da Sessa (Sessa Aurunca, Italie, prov. Caserta), partage alors avec Pierre de La Vigne la responsabilité de fait de la chancellerie italienne de l&#x2019;empereur."
                         >Taddeus</term> de Suessa magne curie judices, et alii plures.
-                    Signu<expan>m</expan> Federici secundi, Dei gr<expan>ati</expan>a invictissimi
-                        Romanor<expan>um</expan>
-                    <expan>monogramme</expan> imp<expan>er</expan>atoris semp<expan>er</expan>
-                    augusti, Jer<expan>usa</expan>l<expan>e</expan>m <expan>et</expan> Cicilie
-                    regis. Aacta sunt h<expan>ec</expan> anno d<expan>omi</expan>nice Incarnacionis
-                    millezimo duce<expan>n</expan>tesimo trisesimo nono, mense
-                        dece<expan>m</expan>br<expan>is</expan>, tert<expan>i</expan>e decime
-                    indictionis, imp<expan>er</expan>ante d<expan>omi</expan>no
-                    n<expan>ost</expan>ro Fr<expan>ederico</expan> Dei gr<expan>ati</expan>a
-                    invictissimo Romanor<expan>um</expan> imp<expan>er</expan>atore
-                    semp<expan>er</expan> augusto, Jer<expan>usa</expan>l<expan>e</expan>m
-                    <expan>et</expan> Cici- -lie re[x]ge, imperii ejus anno vicesimo, regni
-                        Jer<expan>usa</expan>l<expan>e</expan>m quinto decimo, regni
-                    v<expan>er</expan>o Sicil<expan>ie</expan> quadragesimo
-                        s<expan>e</expan>c<expan>un</expan>do, felicit<expan>er</expan>,
-                    ame<expan>n</expan>. Data <term
+                    Signu<ex>m</ex> Federici secundi, Dei gr<ex>ati</ex>a invictissimi
+                        Romanor<ex>um</ex> <ex>monogramme</ex> imp<ex>er</ex>atoris semp<ex>er</ex>
+                    augusti, Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Cicilie
+                    regis. Aacta sunt h<ex>ec</ex> anno d<ex>omi</ex>nice Incarnacionis
+                    millezimo duce<ex>n</ex>tesimo trisesimo nono, mense
+                        dece<ex>m</ex>br<ex>is</ex>, tert<ex>i</ex>e decime
+                    indictionis, imp<ex>er</ex>ante d<ex>omi</ex>no
+                    n<ex>ost</ex>ro Fr<ex>ederico</ex> Dei gr<ex>ati</ex>a
+                    invictissimo Romanor<ex>um</ex> imp<ex>er</ex>atore
+                    semp<ex>er</ex> augusto, Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Cici- -lie re[x]ge, imperii ejus anno vicesimo, regni
+                        Jer<ex>usa</ex>l<ex>e</ex>m quinto decimo, regni
+                    v<ex>er</ex>o Sicil<ex>ie</ex> quadragesimo
+                        s<ex>e</ex>c<ex>un</ex>do, felicit<ex>er</ex>,
+                    ame<ex>n</ex>. Data <term
                         n="Crémone, Lombardie, ch.-l. de la province homonyme.">Cremone</term>,
-                    anno, mense <expan>et</expan> indictione predictis. </div>
+                    anno, mense <ex>et</ex> indictione predictis. </div>
                 <div type="traduction"> Au nom de la sainte et indivise Trinité. <term
                         n="Frédéric II, petit-fils de Frédéric Ier Barberousse, fils de Henri VI et de Constance de Sicile (1194-1250), couronné empereur à Rome par Honorius III en 1220."
                         >Frédéric</term>, par la grâce de Dieu <term
@@ -345,9 +322,9 @@
                 <div type="commentaires">
                     <div>
                         <head>Note sur la transcription</head>
-                        <p> Le signe [...] encadre les lettres d'abord écrites puis supprimées par
+                        <p>Le signe [...] encadre les lettres d'abord écrites puis supprimées par
                             le scribe par exponctuation. Le signe {...} encadre des lettres par lui
-                            ajoutées pour corriger le texte. </p>
+                            ajoutées pour corriger le texte.</p>
                     </div>
                     <div>
                         <head> Examen de la datation </head>
@@ -355,15 +332,15 @@
                             décembre 1239, ce qui s'accorde parfaitement avec le contexte
                             historique. Voyons si les éléments chronologiques multiples concordent :</p>
                         <list>
-                            <label>Indiction 13<hi rend="exposant">e</hi></label>
+                            <label>Indiction 13<hi rend="sup">e</hi></label>
                             <item>Les dictionnaires de chronologie donnent « 12 » pour l'année 1239
                                 ; mais il faut considérer que nous sommes à la fin de cette année ;
                                 la chancellerie de Frédéric II use, définitivement depuis 1219,
                                 toutes terres confondues, du style indictionnel « grec »,
                                 traditionnel en Sicile, qui fait passer au rang suivant (ici « 13 »)
-                                dès le 1<hi rend="exposant">er</hi> septembre. L'indication est donc
+                                dès le 1<hi rend="sup">er</hi> septembre. L'indication est donc
                                 bonne.</item>
-                            <label>Année d'empire 20<hi rend="exposant">e</hi></label>
+                            <label>Année d'empire 20<hi rend="sup">e</hi></label>
                             <item>Frédéric II est couronné empereur le 22 novembre 1220 ;
                                 l'indication est donc correcte.</item>
                             <label>Année de règne comme roi de Jérusalem 15<hi rend="exposant"
@@ -372,7 +349,7 @@
                                 Yolande de Brienne, fille de Jean de Brienne, roi de Jérusalem, que
                                 Frédéric estima pouvoir remplacer dès ce jour (9 novembre 1225). Le
                                 chiffre est donc correct.</item>
-                            <label>Année de règne comme roi de Sicile 42<hi rend="exposant">e</hi></label>
+                            <label>Année de règne comme roi de Sicile 42<hi rend="sup">e</hi></label>
                             <item>Le comput usuel part du couronnement de Frédéric II le 17 mai
                                 1198. L'indication est donc bonne.</item>
                         </list>
@@ -393,18 +370,18 @@
                         541-543, et par Alexandre Teulet, <hi rend="italique">Layettes du Trésor des
                             chartes</hi>, t. II, Paris, 1866, n° 2842, p. 419-420. - L'édition
                         critique des actes de Frédéric II est en préparation aux <hi rend="italique"
-                            >M.G.H.</hi> sous la direction de W. Koch (1<hi rend="exposant">er</hi>
+                            >M.G.H.</hi> sous la direction de W. Koch (1<hi rend="sup">er</hi>
                         volume, 1198-1212, paru en 2002).</p>
                 </div>
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>                
-                    <div type="contenu_commentaire">
-                        <p>                            
+                    <div>
+                        <p>                           
                             <figure rend="58/faxexternes.jpg"/>
-                        </p>
+                       </p>
                         <p>Le parchemin est de petites dimensions, de mise en page régulière.
                             Certains des traits les plus évidents des diplômes impériaux sont
                             présents : le monogramme, dont la forme est canonique, le découpage du
@@ -415,18 +392,18 @@
                         <p>Pourtant, si l'écriture présente une allure diplomatique, elle n'est pas
                             du tout conforme au type caractéristique pratiqué à la chancellerie
                             impériale. On relève nombre d'autres anomalies :</p>                       
-                            <p> - les dimensions réduites,</p>
-                            <p> - le manque global de solennité,</p>
-                            <p> - l'absence du chrismon initial en forme de C, remplacé par un pied
+                            <p>- les dimensions réduites,</p>
+                            <p>- le manque global de solennité,</p>
+                            <p>- l'absence du chrismon initial en forme de C, remplacé par un pied
                                 de mouche, répété sans raison au début du second alinéa,</p>
-                            <p> - le traitement sans ornement ni majuscule du nom de l'empereur, dont
+                            <p>- le traitement sans ornement ni majuscule du nom de l'empereur, dont
                                 les lettres sont ordinairement disposées après l'initiale sur deux
                                 lignes,</p>
-                            <p> - un interlignage irrégulier, plus tassé après la sixième ligne,</p>
-                            <p> - les multiples bévues et traces de corrections dont le texte est
+                            <p>- un interlignage irrégulier, plus tassé après la sixième ligne,</p>
+                            <p>- les multiples bévues et traces de corrections dont le texte est
                                 émaillé (exponctuation de lettres fautives dans cinq cas, ajout de
                                 lettres ou de syllabes dans quatre cas),</p>
-                            <p> - le traitement du nom même de l'auteur (Fredericus, puis même
+                            <p>- le traitement du nom même de l'auteur (Fredericus, puis même
                                 Federicus, alors que la forme canonique est Fridericus : un bruit
                                 courut selon lequel l'empereur aurait fait couper le pouce à l'un de
                                 ses notaires pour avoir écrit son nom Fredericus !).</p>                    
@@ -436,12 +413,12 @@
                             reste celle d'une copie, faite sur l'original et manifestement à peu de
                             temps de distance. Elle est corroborée par l'absence de toute trace de
                             scellement et, en outre, par l'existence de l'original lui-même, lui
-                            aussi conservé aux Archives nationales (J 610, n° 4). </p>
+                            aussi conservé aux Archives nationales (J 610, n° 4).</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Langue et style</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Le style de l'acte est empreint de solennité, et sa rhétorique bien
                             caractéristique : pendant un siècle au moins, elle va former dans les
                             chancelleries d'Europe continentale, au travers de la figure de Pierre
@@ -450,45 +427,45 @@
                             juridique du discours, très orné dans le préambule et l'exposé. C'est en
                             effet au début du texte qu'abondent les fleurs rhétoriques, entre autres
                             :</p> une construction savante reposant sur des structures binaires
-                        (deux fois deux dans le préambule : <hi rend="italic">tunc firmatur... tunc
+                        (deux fois deux dans le préambule : <hi rend="i">tunc firmatur... tunc
                             extollitur... cum retribuit... et elargitur ; amor cresit... fragor
                             acuitur... cum ditantur et induuntur...</hi>), ou ternaires (dans
-                        l'exposé : <hi rend="italic">adtendentes... considerantes quoque...
-                            advertentes insuper...</hi>), la métaphore (<hi rend="italic">fragor
-                            acuitur</hi>), le chiasme (<hi rend="italic">firmatur imperium/decus
+                        l'exposé : <hi rend="i">adtendentes... considerantes quoque...
+                            advertentes insuper...</hi>), la métaphore (<hi rend="i">fragor
+                            acuitur</hi>), le chiasme (<hi rend="i">firmatur imperium/decus
                             extollitur, infidelibus pro perfidia/pro fide fidelibus</hi>), la figure
-                        étymologique qui rapproche des mots d'étymologie commune (<hi rend="italic"
+                        étymologique qui rapproche des mots d'étymologie commune (<hi rend="i"
                             >firmissimo firmatur, infidelibus perfidia... fide fidelibus</hi>),
                         l'adnominatio qui rapproche des mots sur les sons et non sur l'étymologie
-                            (<hi rend="italic">ditantur et induuntur</hi>), le cursus (multiples
-                        traces de cursus velox, par exemple : <hi rend="italic">cesáree májestátis,
+                            (<hi rend="i">ditantur et induuntur</hi>), le cursus (multiples
+                        traces de cursus velox, par exemple : <hi rend="i">cesáree májestátis,
                             spóliis dámpnatórum, inpérii móderámur, nóssitur hábuísse, póterit
                             éxibére, decrévimus ápplicánda...</hi>). </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de
                         détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="invocation_verbale" rend="color:#0099CC">In nomine sancte
-                                et individue Trinitatis.<note id="invocation_verbale" type="bulle"
+                            <seg corresp="invocation_verbale">In nomine sancte
+                                et individue Trinitatis.<note id="invocation_verbale"
                                     >Invocation verbale.</note></seg>
-                            <seg corresp="suscription" rend="color:#FF0000">Fredericus, Dei gratia
+                            <seg corresp="suscription">Fredericus, Dei gratia
                                 secundus Romanorum inperator semper augustus, divina favente
                                 clemencia Jerusalem et Cicilie rex.<note id="suscription"
-                                    type="bulle">Suscription.</note></seg>
-                            <seg corresp="preambule" rend="color:#993399">Tunc inperialis
+                                   >Suscription.</note></seg>
+                            <seg corresp="preambule">Tunc inperialis
                                 excellencie firmissimo robore firmatur imperium, tunc decus
                                 extollitur cesaree majestatis, cum infidelibus pro perfidia penam
                                 digne retribuit et pro fide fidelibus premia liberaliter elargitur,
                                 amorque virtutis tunc cresit in bonis et pene fragor acuitur cum
                                 injustorum diviciis justi ditantur et induuntur innocentes
-                                quodammodo spoliis dampnatorum.<note id="preambule" type="bulle"
+                                quodammodo spoliis dampnatorum.<note id="preambule"
                                     >Préambule.</note></seg>
-                            <seg corresp="expose" rend="color:#CC9966">Hac igitur consideracione
+                            <seg corresp="expose">Hac igitur consideracione
                                 premoniti, qui Romani frena inperii moderamur, adtendentes puram
                                 fidem et devocionis integritatem quam Raimundus comes Tolosanus,
                                 dilectus affinis et fidelis noster, ad personam nostram specialiter
@@ -503,52 +480,52 @@
                                 majestatis reum publico et justo judicio condempnatum perpetuo banno
                                 inperii subdendum duximus et proditorem et hostem puplicum reputamus
                                 et eum omnibus bonis ejus sentencialiter privavimus, que inperii
-                                nostri juribus decrevimus aplicanda,<note id="expose" type="bulle"
+                                nostri juribus decrevimus aplicanda,<note id="expose"
                                     >Exposé.</note></seg>
-                            <seg corresp="dispositif" rend="color:#009966">comitatum Folqualquerii,
+                            <seg corresp="dispositif">comitatum Folqualquerii,
                                 quem idem comes Provincie hactenus tenuit, et omnia pheuda que
                                 racione comitatus ipsius ad ipsum comitem pervenerunt et specialiter
                                 civitatem Sistarici et castrum Folcalquerii ipsi Raimundo comiti
                                 Tolosano, dilecto affini et fideli nostro, et ejus heredibus de
                                 nostra gratia concedimus et perpetuo confirmamus,<note
-                                    id="dispositif" type="bulle">Dispositif.</note></seg>
-                            <seg corresp="clause" rend="color:#FF00FF">salva in omnibus imperiali
-                                    justicia.<note id="clause" type="bulle">Clause de
+                                    id="dispositif">Dispositif.</note></seg>
+                            <seg corresp="clause">salva in omnibus imperiali
+                                    justicia.<note id="clause">Clause de
                                 réserve.</note></seg>
-                            <seg corresp="corroboration" rend="color:#006600">Ad hujus autem nostre
+                            <seg corresp="corroboration">Ad hujus autem nostre
                                 consecionis et confirmacionis memoriam et robur perpetuo valiturum,
                                 presens privilegium scribi et sigillo magestatis nostre jussimus
-                                    conmuniri.<note id="corroboration" type="bulle"
+                                    conmuniri.<note id="corroboration"
                                 >Corroboration.</note></seg>
-                            <seg corresp="liste" rend="color:#0099CC">Hujus autem rei sunt testes B.
+                            <seg corresp="liste">Hujus autem rei sunt testes B.
                                 Panormitanus archiepiscopus, Reginus et Taurinensis episcopi,
                                 Gavardus de Arnesteyn, Thomasius comes Acerrarum, Henricus de More
                                 magister justitiarius, magister Petrus de Vinea et magister Taddeus
                                 de Suessa magne curie judices, et alii plures.<note id="liste"
-                                    type="bulle">Liste de témoins.</note></seg>
-                            <seg corresp="souscription" rend="color:#FF0000">Signum Federici
+                                   >Liste de témoins.</note></seg>
+                            <seg corresp="souscription">Signum Federici
                                 secundi, Dei gratia invictissimi Romanorum (monogramme) imperatoris
                                 semper augusti, Jerusalem et Cicilie regis.<note id="souscription"
-                                    type="bulle">Souscription impériale (monogramme avec sa
+                                   >Souscription impériale (monogramme avec sa
                                     légende).</note></seg>
-                            <seg corresp="date_temps" rend="color:#993399">Aacta sunt hec anno
+                            <seg corresp="date_temps">Aacta sunt hec anno
                                 dominice Incarnacionis millezimo ducentesimo trisesimo nono, mense
                                 decembris, tertie decime indictionis, imperante domino nostro
                                 Frederico Dei gratia invictissimo Romanorum imperatore semper
                                 augusto, Jerusalem et Cicilie rege, imperii ejus anno vicesimo,
                                 regni Jerusalem quinto decimo, regni vero Sicilie quadragesimo
-                                    secundo,<note id="date_temps" type="bulle">Date de temps.</note></seg>
-                            <seg corresp="apprecation" rend="color:#CC9966">feliciter, amen.<note
-                                    id="apprecation" type="bulle">Apprécation finale.</note></seg>
-                            <seg corresp="date_lieu" rend="color:#009966">Data Cremone, anno, mense
-                                et indictione predictis.<note id="date_lieu" type="bulle">Date de
+                                    secundo,<note id="date_temps">Date de temps.</note></seg>
+                            <seg corresp="apprecation">feliciter, amen.<note
+                                    id="apprecation">Apprécation finale.</note></seg>
+                            <seg corresp="date_lieu">Data Cremone, anno, mense
+                                et indictione predictis.<note id="date_lieu">Date de
                                     lieu avec rappel de la date de temps.</note></seg>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Éloquent, le discours propose une belle synthèse de la majesté impériale
                             et de la monarchie féodale ; enflammée et vengeresse, la parole rend
                             présent l'état d'urgence où se trouve le souverain, excommunié,
@@ -557,9 +534,9 @@
                             l'usage du monogramme et la présence d'une invocation verbale, montrent
                             que nous sommes en face d'un diplôme, et même de sa version la plus
                             solennelle. Héritée des temps carolingiens, modifiée à petites touches,
-                            redynamisée sous Frédéric I<hi rend="exposant">er</hi> (qui est par
-                            exemple à l'origine de la " datation solennelle ", où <hi rend="italic"
-                                >Actum</hi>... et <hi rend="italic">Datum</hi>... sont à nouveau
+                            redynamisée sous Frédéric I<hi rend="sup">er</hi> (qui est par
+                            exemple à l'origine de la " datation solennelle ", où <hi rend="i"
+                                >Actum</hi>... et <hi rend="i">Datum</hi>... sont à nouveau
                             dissociés, ici dans une configuration un peu adaptée), cette forme
                             convient à des actes perpétuels, de prestige, éloignés de la production
                             quotidienne et beaucoup moins nombreux : sort commun du diplôme capétien
@@ -584,13 +561,13 @@
                             copiste. Il est fort probable que la copie, présente dans les archives
                             du comte de Toulouse ensuite dévolues à Alphonse de Poitiers, puis au
                             roi de France, ait été commanditée par le comte ou son entourage. De
-                            multiples traits graphiques (<hi rend="italic">cresit</hi> pour <hi
-                                rend="italic">crescit</hi>, <hi rend="italic">nossitur</hi> pour <hi
-                                rend="italic">noscitur</hi>, <hi rend="italic">consecionis</hi> pour
-                                <hi rend="italic">concessionis</hi>, <hi rend="italic"
-                            >millezimo</hi> pour <hi rend="italic">millesimo</hi>, <hi rend="italic"
-                                >trisesimo</hi> pour <hi rend="italic">tricesimo</hi>, <hi
-                                rend="italic">Federicus</hi> pour <hi rend="italic">Fredericus</hi>)
+                            multiples traits graphiques (<hi rend="i">cresit</hi> pour <hi
+                                rend="i">crescit</hi>, <hi rend="i">nossitur</hi> pour <hi
+                                rend="i">noscitur</hi>, <hi rend="i">consecionis</hi> pour
+                                <hi rend="i">concessionis</hi>, <hi rend="i"
+                            >millezimo</hi> pour <hi rend="i">millesimo</hi>, <hi rend="i"
+                                >trisesimo</hi> pour <hi rend="i">tricesimo</hi>, <hi
+                                rend="i">Federicus</hi> pour <hi rend="i">Fredericus</hi>)
                             sont parfaitement compatibles avec une origine italienne, "française" ou
                             occitane...</p>
 

@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>1109. Acte Royal <expan>Espagne</expan></title>
+                <title>1109. Acte Royal <ex>Espagne</ex></title>
             </titleStmt>
             <publicationStmt>
                 <idno type="numero">74</idno>
@@ -12,7 +12,7 @@
             </publicationStmt>
             <sourceDesc>
                 <p>Orig.&#160;: Bibl. nat. de Fr.</p>
-                <p>Fac-sim. ENC&#160;: AF 416 <expan>lithographie</expan></p>
+                <p>Fac-sim. ENC&#160;: AF 416 <ex>lithographie</ex></p>
             </sourceDesc>
         </fileDesc>
         <profileDesc/>
@@ -23,45 +23,45 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>Note sur la transcription. Les “e cédillés” sont rendus par “æ” (on transcrit donc “ae” les lettres conjointes “æ” employées une fois par le scribe).</p>
                 <p>
-                    <seg rend="28,26,45,5,84,4,159,22,257,26,384,32,414,44,411,58,349,62,241,59,161,57,99,56,72,61,62,108,50,123,26,121,19,105,15,80,18,34,27,17,27,18,27,19"  n="poly"><expan><hi rend="italic">Chrismon</hi></expan> In Dei nomine. Ego infanta domna Urraka,</seg>
+                    <seg rend="28,26,45,5,84,4,159,22,257,26,384,32,414,44,411,58,349,62,241,59,161,57,99,56,72,61,62,108,50,123,26,121,19,105,15,80,18,34,27,17,27,18,27,19"  n="poly"><ex><hi rend="i">Chrismon</hi></ex> In Dei nomine. Ego infanta domna Urraka,</seg>
                     <seg rend="423,32,502,26,596,25,679,16,777,15,859,12,944,27,940,53,858,49,729,52,600,59,526,61,463,61,413,61,416,44,423,35"  n="poly">regis domni Adefonsi filia et totius Galletie domina, vobis abbati domno Ugoni</seg>
-                    <seg rend="76,68,129,64,222,67,330,67,396,69,451,67,465,73,473,91,469,99,426,98,334,98,232,94,137,95,76,88,76,87"  n="poly">et omnibus monacis Cluniacensibus, in d<expan>omi</expan>no D<expan>e</expan>o salutem, am<expan>en</expan>.</seg>
+                    <seg rend="76,68,129,64,222,67,330,67,396,69,451,67,465,73,473,91,469,99,426,98,334,98,232,94,137,95,76,88,76,87"  n="poly">et omnibus monacis Cluniacensibus, in d<ex>omi</ex>no D<ex>e</ex>o salutem, am<ex>en</ex>.</seg>
                     <seg rend="472,73,520,68,608,63,704,63,792,62,896,61,937,65,932,83,889,86,788,87,667,91,583,96,497,97,477,95,474,82,474,80"  n="poly">Placuit michi liberali animo, nullo cogente imperio, sed mea propria</seg>
-                    <seg rend="74,105,148,105,257,104,373,108,438,105,472,113,471,133,427,133,334,133,220,131,141,129,65,126"  n="poly">voluntate atq<expan>ue</expan> consilio patris mei imperatoris domni Adefonsi,</seg>
-                    <seg rend="479,106,562,102,672,99,855,97,934,99,941,113,938,124,909,125,827,123,697,126,605,129,535,128,474,128"  n="poly">facere d<expan>omi</expan>no D<expan>e</expan>o et sancto Petro Cluniacensi et vobis dompno abbati Ugoni</seg>
-                    <seg rend="8,139,85,138,185,139,267,139,348,144,393,146,393,164,373,164,261,166,150,164,33,164,11,166"  n="poly">et omnib<expan>us</expan> monacis ejusdem monasterii hanc cartula<expan>m</expan> donationis</seg>
+                    <seg rend="74,105,148,105,257,104,373,108,438,105,472,113,471,133,427,133,334,133,220,131,141,129,65,126"  n="poly">voluntate atq<ex>ue</ex> consilio patris mei imperatoris domni Adefonsi,</seg>
+                    <seg rend="479,106,562,102,672,99,855,97,934,99,941,113,938,124,909,125,827,123,697,126,605,129,535,128,474,128"  n="poly">facere d<ex>omi</ex>no D<ex>e</ex>o et sancto Petro Cluniacensi et vobis dompno abbati Ugoni</seg>
+                    <seg rend="8,139,85,138,185,139,267,139,348,144,393,146,393,164,373,164,261,166,150,164,33,164,11,166"  n="poly">et omnib<ex>us</ex> monacis ejusdem monasterii hanc cartula<ex>m</ex> donationis</seg>
                     <seg rend="403,143,515,141,657,135,813,133,917,133,933,145,913,158,813,157,645,167,506,168,408,172,395,167"  n="poly">de illo monasterio de Palombario cum omnibus ajunctionibus tam ecclesiis quam etiam</seg>
                     <seg rend="7,179,152,175,319,180,425,180,494,178,539,188,539,209,500,211,403,209,290,207,199,211,101,206,10,204"  n="poly">laicalibus sibi pertinentibus. Ego infanta domna Urracka supra scripta dono</seg>
-                    <seg rend="547,182,695,175,859,169,938,169,943,202,864,201,746,205,591,208,543,207"  n="poly">atq<expan>ue</expan> offero vobis illud monasterium supra scriptum pro anima</seg>
-                    <seg rend="9,222,183,220,297,219,449,222,557,222,587,237,580,249,553,249,385,253,280,253,141,248,61,247,6,247"  n="poly">mariti mei comitis domni Raimundi <expan>et</expan> pro remedio animæ meæ et parentum meorum,</seg>
-                    <seg rend="587,223,717,218,857,212,922,218,916,236,831,244,732,244,629,249,591,248"  n="poly">ut habeatis <expan>et</expan> possideatis <expan>et</expan> secundum vestram</seg>
+                    <seg rend="547,182,695,175,859,169,938,169,943,202,864,201,746,205,591,208,543,207"  n="poly">atq<ex>ue</ex> offero vobis illud monasterium supra scriptum pro anima</seg>
+                    <seg rend="9,222,183,220,297,219,449,222,557,222,587,237,580,249,553,249,385,253,280,253,141,248,61,247,6,247"  n="poly">mariti mei comitis domni Raimundi <ex>et</ex> pro remedio animæ meæ et parentum meorum,</seg>
+                    <seg rend="587,223,717,218,857,212,922,218,916,236,831,244,732,244,629,249,591,248"  n="poly">ut habeatis <ex>et</ex> possideatis <ex>et</ex> secundum vestram</seg>
                     <seg rend="9,263,101,259,187,265,193,286,186,294,110,292,9,288"  n="poly">voluntatem de eo faciatis,</seg>
-                    <seg rend="195,260,352,266,511,258,662,260,763,254,795,253,855,253,922,251,932,276,904,283,787,285,647,289,512,292,404,298,313,295,208,297,193,294"  n="poly">ita de hodie die v<expan>e</expan>l tempore de juri meo ablato vestro dominio sit tradito et concesso habeatis vos illud</seg>
-                    <seg rend="9,303,112,305,254,309,370,308,422,320,418,331,380,338,257,338,133,332,33,336,5,327"  n="poly"><expan>et</expan> omnes successores vestri evo per evu et s<expan>e</expan>c<expan>u</expan>la cuncta, amen.</seg>
+                    <seg rend="195,260,352,266,511,258,662,260,763,254,795,253,855,253,922,251,932,276,904,283,787,285,647,289,512,292,404,298,313,295,208,297,193,294"  n="poly">ita de hodie die v<ex>e</ex>l tempore de juri meo ablato vestro dominio sit tradito et concesso habeatis vos illud</seg>
+                    <seg rend="9,303,112,305,254,309,370,308,422,320,418,331,380,338,257,338,133,332,33,336,5,327"  n="poly"><ex>et</ex> omnes successores vestri evo per evu et s<ex>e</ex>c<ex>u</ex>la cuncta, amen.</seg>
                     <seg rend="426,306,580,301,768,295,904,294,947,300,945,324,896,326,756,327,600,331,485,334,426,334"  n="poly">Si quis tamen de meis posterioribus tam propinquis quam extraneis</seg>
                     <seg rend="8,341,86,345,182,342,295,346,405,348,489,349,529,358,524,371,473,379,320,375,145,373,34,375,3,367"  n="poly">aliquid contra vos dixerit vel vobis de illo monasterio auferre voluerit,</seg>
                     <seg rend="537,351,698,345,799,339,890,338,920,346,917,365,879,369,750,369,628,374,532,374"  n="poly">quod minime fieri credo, imprimis duplicet quantum</seg>
-                    <seg rend="9,385,157,383,278,386,346,406,333,421,280,423,162,423,64,419,8,409"  n="poly">calumpniaverit <expan>et</expan> insuper decem auri talenta,</seg>
-                    <seg rend="345,384,458,390,736,385,879,383,923,392,912,422,779,423,629,424,492,425,394,424,350,423,350,408,347,398"  n="poly">post haec sit excommunicatus in secula seculor<expan>um</expan> donec ad emendationem veniat.</seg>
+                    <seg rend="9,385,157,383,278,386,346,406,333,421,280,423,162,423,64,419,8,409"  n="poly">calumpniaverit <ex>et</ex> insuper decem auri talenta,</seg>
+                    <seg rend="345,384,458,390,736,385,879,383,923,392,912,422,779,423,629,424,492,425,394,424,350,423,350,408,347,398"  n="poly">post haec sit excommunicatus in secula seculor<ex>um</ex> donec ad emendationem veniat.</seg>
                     <seg rend="10,417,50,424,115,432,221,443,297,436,386,441,395,471,309,468,144,469,79,469,11,462,2,446,3,426,3,427,5,428"  n="poly">Facta cartula donationis sub era millesima</seg>
-                    <seg rend="392,436,537,434,660,430,726,439,711,472,608,469,499,472,401,470,395,456,393,445"  n="poly">C<hi rend="exposant">a</hi> XL<hi rend="exposant">a</hi> VII<hi rend="exposant">a</hi> et q<expan>uo</expan>t VIII k<expan>a</expan>l<expan>endas</expan> m<expan>a</expan>rc<expan>ii</expan>.</seg>
+                    <seg rend="392,436,537,434,660,430,726,439,711,472,608,469,499,472,401,470,395,456,393,445"  n="poly">C<hi rend="sup">a</hi> XL<hi rend="sup">a</hi> VII<hi rend="sup">a</hi> et q<ex>uo</ex>t VIII k<ex>a</ex>l<ex>endas</ex> m<ex>a</ex>rc<ex>ii</ex>.</seg>
                     <seg rend="16,477,83,484,192,480,329,491,424,494,429,520,362,524,183,520,81,516,19,515"  n="poly">Ex omni gente regali infanta domna Urraka,</seg>
                     <seg rend="433,492,532,493,644,479,739,483,812,476,892,483,882,512,789,517,684,519,557,524,435,517"  n="poly">totius Galletie domina et imperatoris domni Adefonsi filia</seg>
-                    <seg rend="24,538,210,537,326,540,405,548,399,566,371,574,219,569,98,567,16,569"  n="poly"><expan>et</expan> Constantiæ reginæ nata, hanc cartulam fieri jussi</seg>
-                    <seg rend="407,553,432,540,521,542,651,542,637,568,534,573,405,569"  n="poly">et hoc meum signum facere precepi <expan><hi rend="italic">seing</hi></expan>.</seg>
-                    <seg rend="11,593,180,616,434,610,462,612,472,663,420,660,322,668,158,659,68,659,8,649"  n="poly">Didacus Conpostellane sedis <expan>et</expan> æcclesiæ beati Jacobi ap<expan>osto</expan>li s<expan>e</expan>c<expan>un</expan>d<expan>u</expan>s ep<expan>iscopu</expan>s <expan>con</expan>f<expan>irmat</expan>.</seg>
-                    <seg rend="8,658,52,667,130,667,269,673,357,673,439,668,464,707,415,719,258,708,161,707,37,699,6,691"  n="poly">Mauricius Bragalense sedis ep<expan>iscopu</expan>s <expan>con</expan>f<expan>irmat</expan>.</seg>
-                    <seg rend="9,706,141,714,257,714,364,725,425,726,446,716,456,750,424,770,262,764,113,756,16,749"  n="poly">Didacus Auriense sedis ep<expan>iscopu</expan>s <expan>con</expan>f<expan>irmat</expan>.</seg>
-                    <seg rend="475,705,604,709,679,692,684,747,635,752,550,751,463,751"  n="poly">Abbas Petrus Celle nove <expan>con</expan>f<expan>irmat</expan>.</seg>
-                    <seg rend="460,757,575,757,685,752,731,740,777,725,810,683,832,629,878,645,914,662,927,691,943,737,920,780,854,834,802,842,755,809,685,815,669,796,592,803,517,802,458,798"  n="poly">Petrus notarius infante d<expan>o</expan>mne U<expan>rrake</expan> <expan>con</expan>f<expan>irmat</expan> <expan><hi rend="italic">seing</hi></expan>.</seg>
-                </p>
+                    <seg rend="24,538,210,537,326,540,405,548,399,566,371,574,219,569,98,567,16,569"  n="poly"><ex>et</ex> Constantiæ reginæ nata, hanc cartulam fieri jussi</seg>
+                    <seg rend="407,553,432,540,521,542,651,542,637,568,534,573,405,569"  n="poly">et hoc meum signum facere precepi <ex><hi rend="i">seing</hi></ex>.</seg>
+                    <seg rend="11,593,180,616,434,610,462,612,472,663,420,660,322,668,158,659,68,659,8,649"  n="poly">Didacus Conpostellane sedis <ex>et</ex> æcclesiæ beati Jacobi ap<ex>osto</ex>li s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>s ep<ex>iscopu</ex>s <ex>con</ex>f<ex>irmat</ex>.</seg>
+                    <seg rend="8,658,52,667,130,667,269,673,357,673,439,668,464,707,415,719,258,708,161,707,37,699,6,691"  n="poly">Mauricius Bragalense sedis ep<ex>iscopu</ex>s <ex>con</ex>f<ex>irmat</ex>.</seg>
+                    <seg rend="9,706,141,714,257,714,364,725,425,726,446,716,456,750,424,770,262,764,113,756,16,749"  n="poly">Didacus Auriense sedis ep<ex>iscopu</ex>s <ex>con</ex>f<ex>irmat</ex>.</seg>
+                    <seg rend="475,705,604,709,679,692,684,747,635,752,550,751,463,751"  n="poly">Abbas Petrus Celle nove <ex>con</ex>f<ex>irmat</ex>.</seg>
+                    <seg rend="460,757,575,757,685,752,731,740,777,725,810,683,832,629,878,645,914,662,927,691,943,737,920,780,854,834,802,842,755,809,685,815,669,796,592,803,517,802,458,798"  n="poly">Petrus notarius infante d<ex>o</ex>mne U<ex>rrake</ex> <ex>con</ex>f<ex>irmat</ex> <ex><hi rend="i">seing</hi></ex>.</seg>
+               </p>
             </div>
             <div type="transcription">
                 <div type="remarque">
                     <p>Note sur la transcription. Les “e cédillés” sont rendus par “æ” (on transcrit donc “ae” les lettres conjointes “æ” employées une fois par le scribe).</p>
                 </div>
                 <div type="texte">
-                    <l><expan><hi rend="italic">Chrismon</hi></expan> In Dei nomine. Ego infanta domna <term n="Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.">Urraka</term>, regis domni <term n="Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.">Adefonsi</term> filia et totius</l>
+                    <l><ex><hi rend="i">Chrismon</hi></ex> In Dei nomine. Ego infanta domna <term n="Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.">Urraka</term>, regis domni <term n="Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.">Adefonsi</term> filia et totius</l>
                     <l>Galletie domina, vobis abbati domno <term n="Hugues de Semur, abbé de Cluny de 1049 à 1109.">Ugoni</term> et omnibus monacis <term n="Cluny L’expansion de Cluny dans la péninsule ibérique connaît un succès décisif sous l’abbé Hugues de Semur, dont le roi Alphonse VI a épousé en secondes noces une nièce. La donation d’Urraka se place dans une tradition familiale, renforcée par les liens entretenus par son époux Raimond de Bourgogne avec l’abbé Hugues.">Cluniacensibus</term>, in</l>
                     <l>domino Deo salutem, amen. Placuit michi liberali animo, nullo cogente imperio, sed mea</l>
                     <l>propria voluntate atque consilio patris mei imperatoris domni Adefonsi, facere domino</l>
@@ -77,19 +77,19 @@
                     <l>illo monasterio auferre voluerit, quod minime fieri credo, imprimis duplicet quantum</l>
                     <l>calumpniaverit et insuper decem auri talenta, post haec sit excommunicatus in secula</l>
                     <l>seculorum donec ad emendationem veniat.</l>
-                    <l>Facta cartula donationis sub <term n="1147 de l’ère d’Espagne = 1109 de l’ère de l’Incarnation.">era millesima C<hi rend="exposant">a</hi> XL<hi rend="exposant">a</hi> VII<hi rend="exposant">a</hi></term> et quot VIII kalendas marcii.</l>
+                    <l>Facta cartula donationis sub <term n="1147 de l’ère d’Espagne = 1109 de l’ère de l’Incarnation.">era millesima C<hi rend="sup">a</hi> XL<hi rend="sup">a</hi> VII<hi rend="sup">a</hi></term> et quot VIII kalendas marcii.</l>
                     <l>Ex omni gente regali infanta domna Urraka, totius Galletie domina et imperatoris domni</l>
                     <l>Adefonsi filia et <term n="Constance (1046-1092), fille de Robert Ier de Bourgogne, a épousé successivement Hugues II de Chalon puis Alphonse VI de León-Castille, dont elle a Urraka.">Constantiæ</term> reginæ nata, hanc cartulam fieri jussi et hoc meum signum</l>
-                    <l>facere precepi <expan><hi rend="italic">seing</hi></expan>.</l>
+                    <l>facere precepi <ex><hi rend="i">seing</hi></ex>.</l>
                     <l><term n="Diego Gelmírez (vers 1060-1140), chancelier et conseiller privilégié de Raimond de Bourgogne, accède en 1098/1100 au siège épiscopal de Compostelle, capitale de la Galice (devenu archevêché en 1120/1121)&#160;; il est le deuxième Diego du nom à occuper la fonction, d’où le qualificatif de «&#160;secundus&#160;».">Didacus</term> Conpostellane sedis et æcclesiæ beati Jacobi apostoli secundus episcopus</l>
                     <l><term n="confirmat Le mot est systématiquement abrégé dans les actes, et l’on pourrait aussi bien lire confirmans ou confirmo&#160;; les éditeurs espagnols s’en tiennent souvent à «&#160;conf.&#160;».">confirmat</term>.</l>
                     <l><term n="Mauricio Burdinho, peut-être originaire de Bourgogne, a été successivement archidiacre de Tolède, évêque de Coimbra (en 1099), puis archevêque de Braga (à compter du début 1109). Envoyé comme légat auprès de l’empereur Henri V, il fut créé par ce dernier antipape sous le nom de Grégoire VIII (8 mars 1114-avril 1121).">Mauricius</term> Bragalense sedis episcopus confirmat.</l>
                     <l><term n="Diego Velasco, évêque d’Orense (siège suffragant de Saint-Jacques de Compostelle) de 1102 à 1132, participa au concile de Palencia et à trois conciles à Saint-Jacques de Compostelle.">Didacus</term> Auriense sedis episcopus confirmat.</l>
                     <l>Abbas Petrus <term n="Celanova, abbaye bénédictine (diocèse Orense).">Celle nove</term> confirmat.</l>
-                    <l>Petrus notarius infante domne Urrake confirmat <expan><hi rend="italic">seing</hi></expan>.</l>
+                    <l>Petrus notarius infante domne Urrake confirmat <ex><hi rend="i">seing</hi></ex>.</l>
                 </div>
                 <div type="traduction">
-                    <l><expan><hi rend="italic">Chrismon</hi></expan> Au nom de Dieu. Moi la dame infante <term n="Urraka Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.">Urraka</term>, fille du seigneur roi <term n="Alphonse VI Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.">Alphonse</term> et</l>
+                    <l><ex><hi rend="i">Chrismon</hi></ex> Au nom de Dieu. Moi la dame infante <term n="Urraka Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.">Urraka</term>, fille du seigneur roi <term n="Alphonse VI Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.">Alphonse</term> et</l>
                     <l>dame de toute la Galice, à vous seigneur abbé <term n="Hugues Hugues de Semur, abbé de Cluny de 1049 à 1109.">Hugues</term> et à tous les moines de <term n="Cluny L’expansion de Cluny dans la péninsule ibérique connaît un succès décisif sous l’abbé Hugues de Semur, dont le roi Alphonse VI a épousé en secondes noces une nièce. La donation d’Urraka se place dans une tradition familiale, renforcée par les liens entretenus par son époux Raimond de Bourgogne avec l’abbé Hugues.">Cluny</term>, salut</l>
                     <l>dans le seigneur Dieu, amen. J’ai décidé de mon plein gré, sans la contrainte d’aucun</l>
                     <l>pouvoir, mais de ma propre volonté et avec le conseil de mon père, le seigneur empereur</l>
@@ -110,27 +110,27 @@
                     <l>mars.</l>
                     <l>Moi, issue de toute race royale, la dame infante Urraka, dame de toute la Galice et fille du</l>
                     <l>seigneur empereur Alphonse et de la reine <term n="Constance (1046-1092), fille de Robert Ier de Bourgogne, a épousé successivement Hugues II de Chalon puis Alphonse VI de León-Castille, dont elle a Urraka.">Constance</term>, j’ai ordonné de faire cette charte et</l>
-                    <l>y ai fait faire mon seing <expan><hi rend="italic">seing</hi></expan>.</l>
+                    <l>y ai fait faire mon seing <ex><hi rend="i">seing</hi></ex>.</l>
                     <l><term n="Diego Gelmírez (vers 1060-1140), chancelier et conseiller privilégié de Raimond de Bourgogne, accède en 1098/1100 au siège épiscopal de Compostelle, capitale de la Galice (devenu archevêché en 1120/1121)&#160;; il est le deuxième Diego du nom à occuper la fonction, d’où le qualificatif de «&#160;secundus&#160;».">Diego</term>, deuxième évêque du siège de Compostelle et de l’église du bienheureux apôtre</l>
                     <l>Jacques, <term n="confirmat Le mot est systématiquement abrégé dans les actes, et l’on pourrait aussi bien lire confirmans ou confirmo&#160;; les éditeurs espagnols s’en tiennent souvent à «&#160;conf.&#160;».">confirme</term>.</l>
                     <l><term n="Mauricio Burdinho, peut-être originaire de Bourgogne, a été successivement archidiacre de Tolède, évêque de Coimbra (en 1099), puis archevêque de Braga (à compter du début 1109). Envoyé comme légat auprès de l’empereur Henri V, il fut créé par ce dernier antipape sous le nom de Grégoire VIII (8 mars 1114-avril 1121).">Mauricio</term>, évêque du siège de Braga, confirme.</l>
                     <l><term n="Diego Velasco, évêque d’Orense (siège suffragant de Saint-Jacques de Compostelle) de 1102 à 1132, participa au concile de Palencia et à trois conciles à Saint-Jacques de Compostelle.">Diego</term>, évêque du siège d’Orense, confirme.</l>
                     <l>Pierre, abbé de <term n="Celanova, abbaye bénédictine (diocèse Orense).">Celanova</term>, confirme.</l>
-                    <l>Pierre, notaire de la dame infante Urraka, confirme <expan><hi rend="italic">seing</hi></expan>.</l>
+                    <l>Pierre, notaire de la dame infante Urraka, confirme <ex><hi rend="i">seing</hi></ex>.</l>
                 </div>
                 <div type="regeste">
                     <head>1109, 22 Février.</head>
                     <p>L’infante Urraka, fille du roi Alphonse [VI], dame de Galice, offre à Cluny et à son abbé Hugues le monastère de Pombeiro et toutes ses dépendances, ecclésiastiques et séculières, pour le salut de son âme et de celles de son défunt mari le comte Raimond [de Bourgogne] et de ses parents.</p>
-                    <p>N.B.&#160;: L’acte est édité par Auguste Bernard et Alexandre Bruel, <hi rend="italic">Recueil des chartes de l’abbaye de Cluny</hi>, t. II, Paris, 1888, n° 3533, p. 654-655, sous l’année erronée «&#160;1079&#160;».</p>
+                    <p>N.B.&#160;: L’acte est édité par Auguste Bernard et Alexandre Bruel, <hi rend="i">Recueil des chartes de l’abbaye de Cluny</hi>, t. II, Paris, 1888, n° 3533, p. 654-655, sous l’année erronée «&#160;1079&#160;».</p>
                 </div>
             </div>
             <div type="commentaire" n="diplomatique">
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
                     <div type="recommandation">
                         <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="74/faxexterne.jpg">
                                 <figDesc>
@@ -141,76 +141,65 @@
                                     <seg type="poly" rend="377,180,393,181,396,186,395,201,389,205,381,204,373,199,370,193,374,184">Graphie wisigothique du “e” en ligature</seg>
                                     <seg type="poly" rend="82,242,95,237,103,241,105,248,105,257,101,263,93,267,83,261,80,256,81,245">Graphie non wisigothique de “es”</seg>
                                     <seg type="poly" rend="133,241,140,248,140,260,134,265,127,265,121,262,118,253,121,244,126,243">Graphie wisigothique de “es”</seg>
-                                    <seg type="poly" rend="342,341,361,332,373,339,381,346,383,355,381,361,374,371,361,380,347,375,337,364,335,354,343,336">Graphie wisigothique de “XLa”. Les éditeurs du <hi rend="italic">Recueil des chartes de l’abbaye de Cluny…</hi> s’y sont laissé prendre et n’ont pas vu le “L” suspendu à la barre du “X”. Ils ont donc lu “millesima C<hi rend="exposant">a</hi> X<hi rend="exposant">a</hi> VII<hi rend="exposant">a</hi>” (an 1117 de l’ère) et converti “1079”, tout en relevant les incohérences chronologiques soulevées par cette datation.</seg>
+                                    <seg type="poly" rend="342,341,361,332,373,339,381,346,383,355,381,361,374,371,361,380,347,375,337,364,335,354,343,336">Graphie wisigothique de “XLa”. Les éditeurs du <hi rend="i">Recueil des chartes de l’abbaye de Cluny…</hi> s’y sont laissé prendre et n’ont pas vu le “L” suspendu à la barre du “X”. Ils ont donc lu “millesima C<hi rend="sup">a</hi> X<hi rend="sup">a</hi> VII<hi rend="sup">a</hi>” (an 1117 de l’ère) et converti “1079”, tout en relevant les incohérences chronologiques soulevées par cette datation.</seg>
                                     <seg type="poly" rend="512,316,529,319,530,330,530,340,521,348,506,347,501,339,501,327,502,320">Tilde orné</seg>
                                     <seg type="poly" rend="559,412,615,405,656,411,691,423,722,453,730,478,721,501,709,520,657,547,596,555,551,546,504,515,494,492,499,459,523,432,569,410,596,407">Seing d’Urraka, incluant les lettres de son nom et, à gauche, les lettres f (?), m et t, apparemment comme le seing du rédacteur (pour “firmat”&#160;?).</seg>
                                 </figDesc>
                             </figure>
-                        </p>
+                       </p>
                         <p>Les caractères externes les plus éclatants sont ceux qui sont enracinés dans les traditions ibériques. Le document affiche en effet une large originalité face à la matrice carolingienne des actes de souverains au nord des Pyrénées. Il emprunte sa disposition d’ensemble à l’acte privé, n’y ajoutant qu’une ornementation supplémentaire (lettres capitales, tildes ornés, application graphique, seings décorés). Élément totalement étranger à l’acte souverain d’empreinte carolingienne, le scribe-rédacteur trace un seing-monogramme de même forme et de même taille que celui de la princesse. C’est ainsi le début timide d’organisation des souscripteurs en colonnes qui signe le mieux la différence avec l’acte privé, où ils viennent ordinairement à longue ligne.</p>
                         <p>Second trait éclatant, et concordant, dans les rémanences d’écriture wisigothique, qui est d’ailleurs en train de disparaître et ne subsiste plus, assez contrainte et artificielle, que dans quelques lettres (a, t, e en ligature, XL de l’année), peinant même à se maintenir face à la déferlante de l’écriture caroline. Quelque crédit que l’on accorde à l’idée commune selon laquelle les conciles de Burgos et León de 1080 et 1090 auraient explicitement remplacé la liturgie hispanique par la romaine, et l&#x2019;écriture wisigothique par la caroline (pour les seuls livres liturgiques), on est bien ici à un tournant&#160;: dans les années 1130, la victoire de la caroline sera totale.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
                         <p>Passer la souris sur le texte pour obtenir des commentaires de détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="invocation_figurée" rend="color:#f90808">
-                                (<hi rend="italic">Chrismon</hi>)
-                                <note id="invocation_figurée" type="bulle">Invocation figurée</note>
-                            </seg>
-                            <seg corresp="invocation_verbale" rend="color:#16ea11">
+                            <seg corresp="invocation_figurée">
+                                (<hi rend="i">Chrismon</hi>)
+                                <note id="invocation_figurée">Invocation figurée</note></seg>
+                            <seg corresp="invocation_verbale">
                                 In Dei nomine.
-                                <note id="invocation_verbale" type="bulle">Invocation verbale</note>
-                            </seg>
-                            <seg corresp="suscription" rend="color:#c1bf29">
+                                <note id="invocation_verbale">Invocation verbale</note></seg>
+                            <seg corresp="suscription">
                                 Ego infanta domna Urraka, regis domni Adefonsi filia et totius Galletie domina,
-                                <note id="suscription" type="bulle">Suscription</note>
-                            </seg>
-                            <seg corresp="adresse" rend="color:#f808c8">
+                                <note id="suscription">Suscription</note></seg>
+                            <seg corresp="adresse">
                                 vobis abbati domno Ugoni et omnibus monacis Cluniacensibus
-                                <note id="adresse" type="bulle">Adresse</note>
-                            </seg>
-                            <seg corresp="salut" rend="color:#01def8">
+                                <note id="adresse">Adresse</note></seg>
+                            <seg corresp="salut">
                                 in d(omi)no D(e)o salutem, am(en).
-                                <note id="salut" type="bulle">Salut</note>
-                            </seg>
-                            <seg corresp="dispositif" rend="color:#1422de">
+                                <note id="salut">Salut</note></seg>
+                            <seg corresp="dispositif">
                                 Placuit michi liberali animo, nullo cogente imperio, sed mea propria voluntate atq(ue) consilio patris mei imperatoris domni Adefonsi, facere d(omi)no D(e)o et sancto Petro Cluniacensi et vobis dompno abbati Ugoni et omnib(us) monacis ejusdem monasterii hanc cartula(m) donationis de illo monasterio de Palombario cum omnibus ajunctionibus tam ecclesiis quam etiam laicalibus sibi pertinentibus. Ego infanta domna Urraka supra scripta dono atq(ue) offero vobis illud monasterium supra scriptum pro anima mariti mei comitis domni Raimundi (et) pro remedio animæ meæ et parentum meorum, ut habeatis (et) possideatis (et) secundum vestram voluntatem de eo faciatis, ita de hodie die v(e)l tempore de juri meo ablato vestro dominio sit tradito et concesso habeatis vos illud (et) omnes successores vestri evo per evu et s(e)c(u)la cuncta, amen.
-                                <note id="dispositif" type="bulle">Dispositif</note>
-                            </seg>
-                            <seg corresp="clause_pénale" rend="color:#c87718">
+                                <note id="dispositif">Dispositif</note></seg>
+                            <seg corresp="clause_pénale">
                                 Si quis tamen de meis posterioribus tam propinquis quam extraneis aliquid contra vos dixerit vel vobis de illo monasterio auferre voluerit, quod minime fieri credo, imprimis duplicet quantum calumpniaverit (et) insuper decem auri talenta, post haec sit excommunicatus in secula seculor(um) donec ad emendationem veniat.
-                                <note id="clause_pénale" type="bulle">Clause pénale et comminatoire</note>
-                            </seg>
-                            <seg corresp="date_de_temps" rend="color:#1d7718">
-                                Facta cartula donationis sub era millesima C<hi rend="exposant">a</hi> XL<hi rend="exposant">a</hi> VII<hi rend="exposant">a</hi> et q(uo)t VIII k(a)l(endas) m(ar)c(is).
-                                <note id="date_de_temps" type="bulle">Date de temps</note>
-                            </seg>
-                            <seg corresp="souscription_auteur" rend="color:#0ddbc5">
-                                Ex omni gente regali infanta domna Urraka, totius Galletie domina et imperatoris domni Adefonsi filia (et) Constantiæ reginæ nata, hanc cartulam fieri jussi et hoc meum signum facere precepi (<hi rend="italic">seing</hi>).
-                                <note id="souscription_auteur" type="bulle">Souscription de l&#x2019;auteur</note>
-                            </seg>
-                            <seg corresp="souscription_témoins" rend="color:#24b37f">
+                                <note id="clause_pénale">Clause pénale et comminatoire</note></seg>
+                            <seg corresp="date_de_temps">
+                                Facta cartula donationis sub era millesima C<hi rend="sup">a</hi> XL<hi rend="sup">a</hi> VII<hi rend="sup">a</hi> et q(uo)t VIII k(a)l(endas) m(ar)c(is).
+                                <note id="date_de_temps">Date de temps</note></seg>
+                            <seg corresp="souscription_auteur">
+                                Ex omni gente regali infanta domna Urraka, totius Galletie domina et imperatoris domni Adefonsi filia (et) Constantiæ reginæ nata, hanc cartulam fieri jussi et hoc meum signum facere precepi (<hi rend="i">seing</hi>).
+                                <note id="souscription_auteur">Souscription de l&#x2019;auteur</note></seg>
+                            <seg corresp="souscription_témoins">
                                 Didacus Conpostellane sedis (et) æcclesiæ beati Jacobi ap(osto)li s(e)c(un)d(u)s ep(iscopu)s (con)f(irmat). Mauricius Bragalense sedis ep(iscopu)s (con)f(irmat). Didacus Auriense sedis ep(iscopu)s (con)f(irmat). Abbas Petrus Celle nove (con)f(irmat).
-                                <note id="souscription_témoins" type="bulle">Souscription des témoins</note>
-                            </seg>
-                            <seg corresp="souscription_rédacteur" rend="color:#8f6842">
-                                Petrus notarius infante d(o)mne U(rrake) (con)f(irmat) (<hi rend="italic">seing</hi>).
-                                <note id="souscription_rédacteur" type="bulle">Souscription du rédacteur</note>
-                            </seg>
-                        </p>
+                                <note id="souscription_témoins">Souscription des témoins</note></seg>
+                            <seg corresp="souscription_rédacteur">
+                                Petrus notarius infante d(o)mne U(rrake) (con)f(irmat) (<hi rend="i">seing</hi>).
+                                <note id="souscription_rédacteur">Souscription du rédacteur</note></seg>
+                       </p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                     <p>Comme l’écriture, la langue et le formulaire mêlent des solutions très standardisées à un vieux fond local, qui affleure dans quelques scories graphiques ou morphologiques (“ajunctionibus” pour “adjunctionibus”, l. 4&#160;; “de hodie die”, l. 5&#160;; “evu” pour “aevum”, l. 8&#160;; polyvalence des datifs).</p>
                     <p>Ici comme là, l’acte est à la croisée des chemins, avant la grande structuration diplomatique du règne d’Alphonse VII. Le début d’organisation d’une chancellerie royale coïncide avec les débuts balbutiants d’un acte royal érigé en forme spécifique, radicalement distincte de l’acte privé, mais puisant encore pour l’heure dans de vieilles traditions d’écriture. Le cadre rédactionnel, jusque dans la formule-clef «&#160;facio vobis cartulam donationis&#160;», est en effet directement issu de l’acte privé, et l’on voit à peine la formule d’attaque traditionnelle (Ego… vobis… facio cartulam…) transmuée en une ouverture épistolaire (Ego…, vobis…, salutem…), qui autorise quelques expérimentations en matière de titulature souveraine. La double invocation initiale, figurée et verbale, remonte elle aussi à l’acte privé, mais, concluant le dispositif, la formule «&#160;evo per evu et s(e)c(u)la cuncta, amen&#160;» donne une touche liturgique appuyée à la parole royale.</p>
-                    <p>L’évolution est pourtant puissante&#160;: soutenues par un flux de chevaliers et de clercs venus d’outre-Pyrénées, acculturées au modèle romain grégorien, les monarchies ibériques gagnent le concert des monarchies occidentales et de leurs diplomatiques royales, n’affichant plus que quelques spécificités, comme cette datation dans l’«&#160;ère&#160;» d’Espagne, qui n’achève de disparaître qu’au cœur du XIV<hi rend="exposant">e</hi> siècle.</p>
+                    <p>L’évolution est pourtant puissante&#160;: soutenues par un flux de chevaliers et de clercs venus d’outre-Pyrénées, acculturées au modèle romain grégorien, les monarchies ibériques gagnent le concert des monarchies occidentales et de leurs diplomatiques royales, n’affichant plus que quelques spécificités, comme cette datation dans l’«&#160;ère&#160;» d’Espagne, qui n’achève de disparaître qu’au cœur du XIV<hi rend="sup">e</hi> siècle.</p>
                     <p>Ces constatations générales à part, les remarques de détail doivent être mesurées&#160;: au sentiment des spécialistes, le dessin du seing d’Urraka laisse planer le doute que l’on ne soit pas face à un original, mais à une copie figurée ancienne, sans doute réalisée dans le scriptorium de Cluny.</p>
                         </div>
                 </div>

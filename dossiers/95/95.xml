@@ -18,7 +18,7 @@
             <publicationStmt>
                 <idno type="numero">95</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2010-01">janvier 2010</date>
+                <date when="2010-01">janvier 2010</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Orig. : Bibl. nat. de Fr.</p>
@@ -37,207 +37,200 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
                     <!-- Texte 1 -->
-                    <seg rend="734,170,913,191"> Abb<expan>at</expan>isse <expan>et</expan> con
-                            <expan>ven</expan>tui mon<expan>asterii</expan> Vallis
-                        S<expan>an</expan>c <expan>t</expan>e </seg>
-                    <seg rend="734,195,910,210"> Marie de Oglavia, Cistertien<expan>sis</expan>
-                    </seg>
-                    <seg rend="735,214,861,227"> ord<expan>inis</expan>, Olomucen<expan>sis</expan>
-                            dioc<expan>esis</expan>
-                    </seg>
-                    <seg rend="19,200,275,217"> Devotionis augm<expan>en</expan>tum vobis Deo
+                    <seg rend="734,170,913,191"> Abb<ex>at</ex>isse <ex>et</ex> con <ex>ven</ex>tui mon<ex>asterii</ex> Vallis
+                        S<ex>an</ex>c <ex>t</ex>e </seg>
+                    <seg rend="734,195,910,210"> Marie de Oglavia, Cistertien<ex>sis</ex></seg>
+                    <seg rend="735,214,861,227"> ord<ex>inis</ex>, Olomucen<ex>sis</ex>
+                            dioc<ex>esis</ex></seg>
+                    <seg rend="19,200,275,217"> Devotionis augm<ex>en</ex>tum vobis Deo
                         propitio </seg>
-                    <seg rend="20,218,640,241"> p<expan>ro</expan>venire confidim<expan>us</expan>
-                        si sup<expan>er</expan> hiis que digne cupitis nos vobis invenisse benivolos
+                    <seg rend="20,218,640,241"> p<ex>ro</ex>venire confidim<ex>us</ex>
+                        si sup<ex>er</ex> hiis que digne cupitis nos vobis invenisse benivolos
                         gaudeatis. </seg>
                     <seg rend="644,219,736,241"> Sane petitio </seg>
-                    <seg rend="21,245,256,261">v<expan>est</expan>ra nobis exhibita continebat
-                            q<expan>uo</expan>d</seg>
-                    <seg rend="258,245,743,262">cum clare memorie P<expan>remislaus</expan> rex
-                        Boemie jus patronatus quod i<expan>n</expan> ecc<expan>lesi</expan>a</seg>
-                    <seg rend="17,266,618,283">S<expan>an</expan>c<expan>t</expan>i Jacobi de Burgo
-                            Brunen<expan>si</expan>, Olomucen<expan>sis</expan>
-                        dioc<expan>esis</expan>, obtinebat de assensu [exponctué :
-                            ve<expan>nerabilis</expan> f<expan>rat</expan>ris n<expan>ost</expan>ri]
+                    <seg rend="21,245,256,261">v<ex>est</ex>ra nobis exhibita continebat
+                            q<ex>uo</ex>d</seg>
+                    <seg rend="258,245,743,262">cum clare memorie P<ex>remislaus</ex> rex
+                        Boemie jus patronatus quod i<ex>n</ex> ecc<ex>lesi</ex>a</seg>
+                    <seg rend="17,266,618,283">S<ex>an</ex>c<ex>t</ex>i Jacobi de Burgo
+                            Brunen<ex>si</ex>, Olomucen<ex>sis</ex>
+                        dioc<ex>esis</ex>, obtinebat de assensu [exponctué :
+                            ve<ex>nerabilis</ex> f<ex>rat</ex>ris n<ex>ost</ex>ri]
                         .. </seg>
-                    <seg rend="618,266,743,285">Olomucen<expan>sis</expan> ep<expan>iscop</expan>i
+                    <seg rend="618,266,743,285">Olomucen<ex>sis</ex> ep<ex>iscop</ex>i
                         re-</seg>
-                    <seg rend="781,258,870,287">bone me<expan>morie</expan></seg>
+                    <seg rend="781,258,870,287">bone me<ex>morie</ex></seg>
                     <seg rend="18,286,430,303">-gia vobis liberalitate donasset intuitu pietatis,
                         tandem </seg>
-                    <seg rend="433,288,747,307">[exponctué : d<expan>i</expan>c<expan>tu</expan>s
-                            ep<expan>iscopu</expan>s] ci<expan>r</expan>ca vos dirigens
-                        pat<expan>er</expan>ne benigni-</seg>
-                    <seg rend="773,290,937,312">ven<expan>er</expan>abilis f<expan>rate</expan>r
-                            n<expan>oste</expan>r . . ep<expan>iscopu</expan>s</seg>
-                    <seg rend="769,316,939,336">Olomucen<expan>sis</expan> successor
-                        illi<expan>us</expan></seg>
-                    <seg rend="16,306,349,324">-tatis affectu<expan>m</expan>, diligenti
-                        deliberatione p<expan>re</expan>habita,</seg>
-                    <seg rend="355,310,747,326">vobis ordinaria auc<expan>torita</expan>te
-                            co<expan>n</expan>cessit ut d<expan>i</expan>c<expan>t</expan>am
-                            ecc<expan>lesi</expan>a<expan>m</expan>, tunc va-</seg>
-                    <seg rend="14,329,367,347">-cantem, cuj<expan>us</expan> collatio spectabat ad
-                        eum, cum jurib<expan>us</expan></seg>
-                    <seg rend="372,331,744,350">et p<expan>er</expan>tinentiis suis
-                        i<expan>n</expan> v<expan>est</expan>ros usus p<expan>ro</expan>prios
+                    <seg rend="433,288,747,307">[exponctué : d<ex>i</ex>c<ex>tu</ex>s
+                            ep<ex>iscopu</ex>s] ci<ex>r</ex>ca vos dirigens
+                        pat<ex>er</ex>ne benigni-</seg>
+                    <seg rend="773,290,937,312">ven<ex>er</ex>abilis f<ex>rate</ex>r
+                            n<ex>oste</ex>r . . ep<ex>iscopu</ex>s</seg>
+                    <seg rend="769,316,939,336">Olomucen<ex>sis</ex> successor
+                        illi<ex>us</ex></seg>
+                    <seg rend="16,306,349,324">-tatis affectu<ex>m</ex>, diligenti
+                        deliberatione p<ex>re</ex>habita,</seg>
+                    <seg rend="355,310,747,326">vobis ordinaria auc<ex>torita</ex>te
+                            co<ex>n</ex>cessit ut d<ex>i</ex>c<ex>t</ex>am
+                            ecc<ex>lesi</ex>a<ex>m</ex>, tunc va-</seg>
+                    <seg rend="14,329,367,347">-cantem, cuj<ex>us</ex> collatio spectabat ad
+                        eum, cum jurib<ex>us</ex></seg>
+                    <seg rend="372,331,744,350">et p<ex>er</ex>tinentiis suis
+                        i<ex>n</ex> v<ex>est</ex>ros usus p<ex>ro</ex>prios
                         retinere</seg>
                     <seg rend="12,350,374,370">possetis, deputata de
-                            p<expan>ro</expan>ventib<expan>us</expan> ip<expan>s</expan>ius
-                            ecc<expan>lesi</expan>e vicario</seg>
-                    <seg rend="378,353,745,373">ibidem p<expan>er</expan>petuo
-                        s<expan>er</expan>vituro pro sustentatione sua et ep<expan>iscop</expan>a-</seg>
-                    <seg rend="13,375,499,391">-lib<expan>us</expan> jurib<expan>us</expan>
-                            p<expan>er</expan>solvendis et supportandis ejus consuetis
-                            onerib<expan>us</expan> congrua</seg>
-                    <seg rend="500,376,743,395">portione, p<expan>ro</expan>ut i<expan>n</expan>
-                            patentib<expan>us</expan> litt<expan>er</expan>is</seg>
-                    <seg rend="10,394,541,413">co<expan>n</expan>fectis exinde ac sigillo
-                            ep<expan>iscop</expan>i memorati signatis plenius dicitur
-                        co<expan>n</expan>tineri. </seg>
-                    <seg rend="539,397,749,417">Nos itaq<expan>ue</expan>, v<expan>est</expan>ris
-                            supp<expan>licationi</expan>b<expan>us</expan> inclinati,</seg>
-                    <seg rend="12,420,490,435">q<expan>uo</expan>d ab eisdem rege et
-                        ep<expan>iscop</expan>o sup<expan>er</expan> p<expan>re</expan>missis pie ac
-                        provide f<expan>a</expan>c<expan>tu</expan>m est</seg>
-                    <seg rend="494,422,746,441">ratu<expan>m</expan> et firmu<expan>m</expan>
+                            p<ex>ro</ex>ventib<ex>us</ex> ip<ex>s</ex>ius
+                            ecc<ex>lesi</ex>e vicario</seg>
+                    <seg rend="378,353,745,373">ibidem p<ex>er</ex>petuo
+                        s<ex>er</ex>vituro pro sustentatione sua et ep<ex>iscop</ex>a-</seg>
+                    <seg rend="13,375,499,391">-lib<ex>us</ex> jurib<ex>us</ex>
+                            p<ex>er</ex>solvendis et supportandis ejus consuetis
+                            onerib<ex>us</ex> congrua</seg>
+                    <seg rend="500,376,743,395">portione, p<ex>ro</ex>ut i<ex>n</ex>
+                            patentib<ex>us</ex> litt<ex>er</ex>is</seg>
+                    <seg rend="10,394,541,413">co<ex>n</ex>fectis exinde ac sigillo
+                            ep<ex>iscop</ex>i memorati signatis plenius dicitur
+                        co<ex>n</ex>tineri. </seg>
+                    <seg rend="539,397,749,417">Nos itaq<ex>ue</ex>, v<ex>est</ex>ris
+                            supp<ex>licationi</ex>b<ex>us</ex> inclinati,</seg>
+                    <seg rend="12,420,490,435">q<ex>uo</ex>d ab eisdem rege et
+                        ep<ex>iscop</ex>o sup<ex>er</ex> p<ex>re</ex>missis pie ac
+                        provide f<ex>a</ex>c<ex>tu</ex>m est</seg>
+                    <seg rend="494,422,746,441">ratu<ex>m</ex> et firmu<ex>m</ex>
                         habentes, id, non </seg>
-                    <seg rend="17,439,488,458">obstante q<expan>uo</expan>d ad hoc assensus
-                            Olomucen<expan>sis</expan> capituli minime intervenit,</seg>
-                    <seg rend="492,446,744,466">auc<expan>torita</expan>te ap<expan>ostoli</expan>ca
-                            co<expan>n</expan>firmam<expan>us</expan>
-                        <expan>et</expan> p<expan>resentis</expan> s<expan>cripti</expan>
-                            p<expan>atrocinio</expan> co<expan>mmun</expan>im<expan>us</expan>. </seg>
-                    <seg rend="17,461,246,479">Nulli n<expan>ost</expan>re
-                        co<expan>n</expan>firmationis <expan>et</expan>c<expan>etera</expan>. </seg>
-                    <seg rend="250,465,581,488">Dat<expan>um</expan> Lateran<expan>i</expan>, V
-                            k<expan>a</expan>l<expan>endas</expan> febr<expan>uarii</expan>, anno
+                    <seg rend="17,439,488,458">obstante q<ex>uo</ex>d ad hoc assensus
+                            Olomucen<ex>sis</ex> capituli minime intervenit,</seg>
+                    <seg rend="492,446,744,466">auc<ex>torita</ex>te ap<ex>ostoli</ex>ca
+                            co<ex>n</ex>firmam<ex>us</ex> <ex>et</ex> p<ex>resentis</ex> s<ex>cripti</ex>
+                            p<ex>atrocinio</ex> co<ex>mmun</ex>im<ex>us</ex>. </seg>
+                    <seg rend="17,461,246,479">Nulli n<ex>ost</ex>re
+                        co<ex>n</ex>firmationis <ex>et</ex>c<ex>etera</ex>. </seg>
+                    <seg rend="250,465,581,488">Dat<ex>um</ex> Lateran<ex>i</ex>, V
+                            k<ex>a</ex>l<ex>endas</ex> febr<ex>uarii</ex>, anno
                         septimo.</seg>
                     <!-- Texte 2 -->
-                    <seg rend="743,464,944,483"> . . Abb<expan>at</expan>isse <expan>et</expan>
-                            con<expan>ven</expan>tui mon<expan>asterii</expan> de Celi</seg>
-                    <seg rend="740,487,935,502">Porta, Cistercien<expan>sis</expan>
-                        ordin<expan>is</expan>, Olomu- </seg>
-                    <seg rend="743,507,806,523">-cen<expan>sis</expan> dioc<expan>esis</expan>.</seg>
-                    <seg rend="12,482,242,502"> Devotionis augm<expan>en</expan>tum
-                            <expan>et</expan>c<expan>etera</expan> ut <expan>i</expan>n alia</seg>
-                    <seg rend="9,505,432,524">us<expan>que</expan> memorie W<expan>enceslaus</expan>
-                        rex Boemie jus patronatus quod i<expan>n</expan> ecc<expan>lesi</expan>a
-                            S<expan>an</expan>c<expan>t</expan>i </seg>
-                    <seg rend="436,513,738,534">Petri de Burgo Brunen<expan>si</expan>,
-                            Olomucen<expan>sis</expan> dioc<expan>esis</expan></seg>
+                    <seg rend="743,464,944,483"> . . Abb<ex>at</ex>isse <ex>et</ex>
+                            con<ex>ven</ex>tui mon<ex>asterii</ex> de Celi</seg>
+                    <seg rend="740,487,935,502">Porta, Cistercien<ex>sis</ex>
+                        ordin<ex>is</ex>, Olomu- </seg>
+                    <seg rend="743,507,806,523">-cen<ex>sis</ex> dioc<ex>esis</ex>.</seg>
+                    <seg rend="12,482,242,502"> Devotionis augm<ex>en</ex>tum <ex>et</ex>c<ex>etera</ex> ut <ex>i</ex>n alia</seg>
+                    <seg rend="9,505,432,524">us<ex>que</ex> memorie W<ex>enceslaus</ex>
+                        rex Boemie jus patronatus quod i<ex>n</ex> ecc<ex>lesi</ex>a
+                            S<ex>an</ex>c<ex>t</ex>i </seg>
+                    <seg rend="436,513,738,534">Petri de Burgo Brunen<ex>si</ex>,
+                            Olomucen<ex>sis</ex> dioc<ex>esis</ex></seg>
                     <seg rend="8,528,285,547">obtinebat de assensu [exponctué :
-                        ve<expan>nerabilis</expan> f<expan>rat</expan>ris n<expan>ost</expan>ri] . .</seg>
-                    <seg rend="289,536,751,555">Olomucen<expan>sis</expan> ep<expan>iscop</expan>i
+                        ve<ex>nerabilis</ex> f<ex>rat</ex>ris n<ex>ost</ex>ri] . .</seg>
+                    <seg rend="289,536,751,555">Olomucen<ex>sis</ex> ep<ex>iscop</ex>i
                         regia vobis liberalitate donasset intuitu pietatis,</seg>
-                    <seg rend="765,539,892,563">bone me<expan>morie</expan></seg>
+                    <seg rend="765,539,892,563">bone me<ex>morie</ex></seg>
                     <seg rend="10,556,431,574">tandem [souligné :
-                        d<expan>i</expan>c<expan>tu</expan>s ep<expan>iscopu</expan>s] circa vos
-                        dirigens pat<expan>er</expan>ne benignitatis</seg>
-                    <seg rend="436,559,750,581">affectu<expan>m</expan>, diligenti deliberatione
-                            p<expan>re</expan>habita, vo-</seg>
-                    <seg rend="763,569,942,584">ven<expan>er</expan>abilis f<expan>rate</expan>r
-                            n<expan>oste</expan>r . . Olomucen<expan>sis</expan>
-                    </seg>
-                    <seg rend="763,588,893,609">ep<expan>iscopu</expan>s successor
-                        illi<expan>us</expan></seg>
-                    <seg rend="19,576,323,591">-bis ordinaria auc<expan>torita</expan>te
-                        co<expan>n</expan>cessit ut d<expan>i</expan>c<expan>t</expan>am
-                            ecc<expan>lesi</expan>a<expan>m</expan>,</seg>
-                    <seg rend="328,581,748,598">i<expan>n</expan> qua rectoris institutio spectabat
-                        ad eu<expan>m</expan>, cum jurib<expan>us</expan> et </seg>
-                    <seg rend="9,600,476,618">p<expan>er</expan>tinentiis suis, cedente
-                        v<expan>e</expan>l decedente illi<expan>us</expan> rectore,
-                        i<expan>n</expan> v<expan>est</expan>ros usus</seg>
-                    <seg rend="482,602,745,623">p<expan>ro</expan>p<expan>r</expan>ios retinere
+                        d<ex>i</ex>c<ex>tu</ex>s ep<ex>iscopu</ex>s] circa vos
+                        dirigens pat<ex>er</ex>ne benignitatis</seg>
+                    <seg rend="436,559,750,581">affectu<ex>m</ex>, diligenti deliberatione
+                            p<ex>re</ex>habita, vo-</seg>
+                    <seg rend="763,569,942,584">ven<ex>er</ex>abilis f<ex>rate</ex>r
+                            n<ex>oste</ex>r . . Olomucen<ex>sis</ex></seg>
+                    <seg rend="763,588,893,609">ep<ex>iscopu</ex>s successor
+                        illi<ex>us</ex></seg>
+                    <seg rend="19,576,323,591">-bis ordinaria auc<ex>torita</ex>te
+                        co<ex>n</ex>cessit ut d<ex>i</ex>c<ex>t</ex>am
+                            ecc<ex>lesi</ex>a<ex>m</ex>,</seg>
+                    <seg rend="328,581,748,598">i<ex>n</ex> qua rectoris institutio spectabat
+                        ad eu<ex>m</ex>, cum jurib<ex>us</ex> et </seg>
+                    <seg rend="9,600,476,618">p<ex>er</ex>tinentiis suis, cedente
+                        v<ex>e</ex>l decedente illi<ex>us</ex> rectore,
+                        i<ex>n</ex> v<ex>est</ex>ros usus</seg>
+                    <seg rend="482,602,745,623">p<ex>ro</ex>p<ex>r</ex>ios retinere
                         possitis, deputata de</seg>
-                    <seg rend="15,622,402,637">p<expan>ro</expan>ventib<expan>us</expan>
-                        ip<expan>s</expan>ius ecc<expan>lesi</expan>e vicario ibide<expan>m</expan>
-                            p<expan>er</expan>petuo s<expan>er</expan>vituro pro</seg>
-                    <seg rend="408,628,760,646">sustentatione sua <expan>et</expan>
-                            ep<expan>iscop</expan>alib<expan>us</expan> jurib<expan>us</expan>
-                            p<expan>er</expan>solvendis <expan>et</expan> sup-</seg>
-                    <seg rend="13,642,393,659">-portandis ej<expan>us</expan>
-                        co<expan>n</expan>suetis onerib<expan>us</expan> co<expan>n</expan>grua
-                        portione <expan>et</expan>c<expan>etera</expan> us<expan>que</expan></seg>
-                    <seg rend="397,649,765,673">co<expan>mmun</expan>im<expan>us</expan>. Nulli
-                            n<expan>ost</expan>re co<expan>n</expan>firmationis
-                            <expan>et</expan>c<expan>etera</expan>. Dat<expan>um</expan> La-</seg>
-                    <seg rend="15,662,290,680">-teran<expan>i</expan>, III
-                            k<expan>a</expan>l<expan>endas</expan> febr<expan>uarii</expan>, anno
+                    <seg rend="15,622,402,637">p<ex>ro</ex>ventib<ex>us</ex>
+                        ip<ex>s</ex>ius ecc<ex>lesi</ex>e vicario ibide<ex>m</ex>
+                            p<ex>er</ex>petuo s<ex>er</ex>vituro pro</seg>
+                    <seg rend="408,628,760,646">sustentatione sua <ex>et</ex>
+                            ep<ex>iscop</ex>alib<ex>us</ex> jurib<ex>us</ex>
+                            p<ex>er</ex>solvendis <ex>et</ex> sup-</seg>
+                    <seg rend="13,642,393,659">-portandis ej<ex>us</ex>
+                        co<ex>n</ex>suetis onerib<ex>us</ex> co<ex>n</ex>grua
+                        portione <ex>et</ex>c<ex>etera</ex> us<ex>que</ex></seg>
+                    <seg rend="397,649,765,673">co<ex>mmun</ex>im<ex>us</ex>. Nulli
+                            n<ex>ost</ex>re co<ex>n</ex>firmationis <ex>et</ex>c<ex>etera</ex>. Dat<ex>um</ex> La-</seg>
+                    <seg rend="15,662,290,680">-teran<ex>i</ex>, III
+                            k<ex>a</ex>l<ex>endas</ex> febr<ex>uarii</ex>, anno
                         septimo.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
                     <!-- Texte 1 -->
                     <l>
                       <!-- @type='corr' utile pour générer le sous titre "Ajouts en marge", cf transcription.xsl, l. 331, à la demande de OGJ  -->
-                        <add n="1" place="left" type="corr">
-                            <p>Abb<expan>at</expan>isse <expan>et</expan><term
+                        <add place="left" type="corr">
+                            <p>Abb<ex>at</ex>isse <ex>et</ex><term
                                     n="Le « convent » (qui a donné « couvent ») est l’ensemble des moines ou 
                             moniales d’un monastère, en opposition/complémentarité à l’abbé ou abbesse 
                             (ils ont vite deux sceaux différents) ; le droit canonique impose à l’abbé ou abbesse 
                             de s’assurer du consentement du convent dans les actes de gestion."
-                                        >con<expan>ven</expan>tui</term>
-                                    mon<expan>asterii</expan><term
+                                        >con<ex>ven</ex>tui</term>
+                                    mon<ex>asterii</ex><term
                                     n="Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno."
-                                    >Vallis S<expan>an</expan>c<expan>t</expan>e</term></p>
+                                    >Vallis S<ex>an</ex>c<ex>t</ex>e</term></p>
                             <p><term
                                     n="Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno."
-                                    >Marie de Oglavia,</term> Cistertien<expan>sis</expan></p>
-                            <p>ord<expan>inis</expan>, <term
+                                    >Marie de Oglavia,</term> Cistertien<ex>sis</ex></p>
+                            <p>ord<ex>inis</ex>, <term
                                     n="Tch. Olomouc (all. Olmütz), cité de Moravie (Rép. tchèque)."
-                                        >Olomucen<expan>sis</expan></term>
-                            dioc<expan>esis</expan>.</p>
+                                        >Olomucen<ex>sis</ex></term>
+                            dioc<ex>esis</ex>.</p>
                         </add>
                     </l>
-                    <l>Devotionis augm<expan>en</expan>tum vobis Deo propitio</l>
-                    <l>p<expan>ro</expan>venire confidim<expan>us</expan> si sup<expan>er</expan>
+                    <l>Devotionis augm<ex>en</ex>tum vobis Deo propitio</l>
+                    <l>p<ex>ro</ex>venire confidim<ex>us</ex> si sup<ex>er</ex>
                         hiis que digne cupitis nos vobis invenisse benivolos </l>
                     <l>gaudeatis. Sane petitio</l>
-                    <l>v<expan>est</expan>ra nobis exhibita continebat q<expan>uo</expan>d, cum
+                    <l>v<ex>est</ex>ra nobis exhibita continebat q<ex>uo</ex>d, cum
                         clare memorie <term
                             n="Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230."
-                                >P<expan>remislaus</expan></term> rex Boemie</l>
-                    <l>jus patronatus quod i<expan>n</expan> ecc<expan>lesi</expan>a</l>
+                                >P<ex>remislaus</ex></term> rex Boemie</l>
+                    <l>jus patronatus quod i<ex>n</ex> ecc<ex>lesi</ex>a</l>
                     <l><term
                             n="Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle."
-                                >S<expan>an</expan>c<expan>t</expan>i Jacobi</term> de Burgo <term
+                                >S<ex>an</ex>c<ex>t</ex>i Jacobi</term> de Burgo <term
                             n="Brno (all. Brünn), capitale de la Moravie (Rép. tchèque). Le vocable de « bourg » 
                             (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle, 
                             mais dénonce aussi que la ville n’est pas une civitas épiscopale 
                             (un évêché n’y sera installé qu’en 1777)."
-                                >Brunen<expan>si</expan></term>, Olomucen<expan>sis</expan>
-                            dioc<expan>esis</expan>, obtinebat de assensu</l>
-                    <l>[<hi rend="italic">exponctué</hi> venerabilis fratris nostri]<term
+                                >Brunen<ex>si</ex></term>, Olomucen<ex>sis</ex>
+                            dioc<ex>esis</ex>, obtinebat de assensu</l>
+                    <l>[<hi rend="i">exponctué</hi> venerabilis fratris nostri]<term
                             n="La correction portée au registre 
                         indique in extremis que l’évêque concerné était l’un des prédécesseurs 
                         de l’évêque alors en fonction, Bruno de Holstein (1245-1281)."
-                      >Olomucensis episcopi</term> re -<add n="2" place="left" type="corr">
-                            <p>bone me<expan>morie</expan></p>
+                      >Olomucensis episcopi</term> re -<add place="left" type="corr">
+                            <p>bone me<ex>morie</ex></p>
                         </add>. </l>
                     <l>-gia vobis liberalitate donasset intuitu pietatis, tandem [exponctué :
-                            d<expan>i</expan>c<expan>tu</expan>s</l>
-                    <l>ep<expan>iscopu</expan>s] ci<expan>r</expan>ca vos dirigens
-                      pat<expan>er</expan>ne benigni- <add n="3" place="left" type="corr">
-                            <p>ven<expan>er</expan>abilis f<expan>rate</expan>r
-                                n<expan>oste</expan>r . . ep<expan>iscopu</expan>s</p>
-                            <p>Olomucen<expan>sis</expan> successor illi<expan>us</expan></p>
+                            d<ex>i</ex>c<ex>tu</ex>s</l>
+                    <l>ep<ex>iscopu</ex>s] ci<ex>r</ex>ca vos dirigens
+                      pat<ex>er</ex>ne benigni- <add place="left" type="corr">
+                            <p>ven<ex>er</ex>abilis f<ex>rate</ex>r
+                                n<ex>oste</ex>r . . ep<ex>iscopu</ex>s</p>
+                            <p>Olomucen<ex>sis</ex> successor illi<ex>us</ex></p>
                         </add>. </l>
-                    <l>-tatis affectu<expan>m</expan>, diligenti deliberatione
-                        p<expan>re</expan>habita, vobis ordinaria auc<expan>torita</expan>te</l>
-                    <l>co<expan>n</expan>cessit ut d<expan>i</expan>c<expan>t</expan>am
-                            ecc<expan>lesi</expan>a<expan>m</expan>, tunc va-</l>
-                    <l>-cantem, cuj<expan>us</expan> collatio spectabat ad eum, cum
-                        jurib<expan>us</expan> et p<expan>er</expan>tinentiis suis i<expan>n</expan></l>
-                    <l>v<expan>est</expan>ros usus p<expan>ro</expan>prios retinere</l>
-                    <l>possetis, deputata de p<expan>ro</expan>ventib<expan>us</expan>
-                        ip<expan>s</expan>ius ecc<expan>lesi</expan>e vicario ibidem
-                        p<expan>er</expan>petuo</l>
-                    <l>s<expan>er</expan>vituro pro sustentatione sua et ep<expan>iscop</expan>a-</l>
-                    <l>-lib<expan>us</expan> jurib<expan>us</expan> p<expan>er</expan>solvendis et
-                        supportandis ejus consuetis onerib<expan>us</expan>
+                    <l>-tatis affectu<ex>m</ex>, diligenti deliberatione
+                        p<ex>re</ex>habita, vobis ordinaria auc<ex>torita</ex>te</l>
+                    <l>co<ex>n</ex>cessit ut d<ex>i</ex>c<ex>t</ex>am
+                            ecc<ex>lesi</ex>a<ex>m</ex>, tunc va-</l>
+                    <l>-cantem, cuj<ex>us</ex> collatio spectabat ad eum, cum
+                        jurib<ex>us</ex> et p<ex>er</ex>tinentiis suis i<ex>n</ex></l>
+                    <l>v<ex>est</ex>ros usus p<ex>ro</ex>prios retinere</l>
+                    <l>possetis, deputata de p<ex>ro</ex>ventib<ex>us</ex>
+                        ip<ex>s</ex>ius ecc<ex>lesi</ex>e vicario ibidem
+                        p<ex>er</ex>petuo</l>
+                    <l>s<ex>er</ex>vituro pro sustentatione sua et ep<ex>iscop</ex>a-</l>
+                    <l>-lib<ex>us</ex> jurib<ex>us</ex> p<ex>er</ex>solvendis et
+                        supportandis ejus consuetis onerib<ex>us</ex>
                         <term
                             n="L’expression est à prendre 
                             en son sens étymologique : une partie convenable, adaptée. Les patrons ayant eu tendance à sans 
@@ -248,29 +241,28 @@
                         une partie convenable, adaptée. Les patrons ayant eu tendance à 
                         sans cesse la réduire, la « portion congrue » en est venue à désigner 
                         l’inverse, une portion insuffisante…"
-                            >portione</term>, p<expan>ro</expan>ut i<expan>n</expan>
-                            patentib<expan>us</expan> litt<expan>er</expan>is</l>
-                    <l>co<expan>n</expan>fectis exinde ac sigillo ep<expan>iscop</expan>i memorati
-                        signatis plenius dicitur co<expan>n</expan>tineri. Nos</l>
-                    <l>itaq<expan>ue</expan>, v<expan>est</expan>ris
-                            supp<expan>licationi</expan>b<expan>us</expan> inclinati,</l>
-                    <l>q<expan>uo</expan>d ab eisdem rege et ep<expan>iscop</expan>o
-                        sup<expan>er</expan> p<expan>re</expan>missis pie ac provide
-                            f<expan>a</expan>c<expan>tu</expan>m est</l>
-                    <l>ratu<expan>m</expan> et firmu<expan>m</expan> habentes, id, non</l>
-                    <l>obstante q<expan>uo</expan>d ad hoc assensus Olomucen<expan>sis</expan>
-                        capituli minime intervenit, auc<expan>torita</expan>te</l>
-                    <l>ap<expan>ostoli</expan>ca co<expan>n</expan>firmam<expan>us</expan>
-                        <expan>et</expan> p<expan>resentis</expan> s<expan>cripti</expan>
-                            p<expan>atrocinio</expan> co<expan>mmun</expan>im<expan>us</expan>.</l>
+                            >portione</term>, p<ex>ro</ex>ut i<ex>n</ex>
+                            patentib<ex>us</ex> litt<ex>er</ex>is</l>
+                    <l>co<ex>n</ex>fectis exinde ac sigillo ep<ex>iscop</ex>i memorati
+                        signatis plenius dicitur co<ex>n</ex>tineri. Nos</l>
+                    <l>itaq<ex>ue</ex>, v<ex>est</ex>ris
+                            supp<ex>licationi</ex>b<ex>us</ex> inclinati,</l>
+                    <l>q<ex>uo</ex>d ab eisdem rege et ep<ex>iscop</ex>o
+                        sup<ex>er</ex> p<ex>re</ex>missis pie ac provide
+                            f<ex>a</ex>c<ex>tu</ex>m est</l>
+                    <l>ratu<ex>m</ex> et firmu<ex>m</ex> habentes, id, non</l>
+                    <l>obstante q<ex>uo</ex>d ad hoc assensus Olomucen<ex>sis</ex>
+                        capituli minime intervenit, auc<ex>torita</ex>te</l>
+                    <l>ap<ex>ostoli</ex>ca co<ex>n</ex>firmam<ex>us</ex> <ex>et</ex> p<ex>resentis</ex> s<ex>cripti</ex>
+                            p<ex>atrocinio</ex> co<ex>mmun</ex>im<ex>us</ex>.</l>
                     <l><term
                             n="Appel condensé de la clause prohibitive, d’une formulation développée
                         telle que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis 
                         infringere vel ei ausu temerario contraire »."
-                            >Nulli n<expan>ost</expan>re co<expan>n</expan>firmationis</term>
-                        <hi rend="italic"><expan>et</expan>c<expan>etera</expan></hi>.
-                        Dat<expan>um</expan> Lateran<expan>i</expan>, V
-                            k<expan>a</expan>l<expan>endas</expan> febr<expan>uarii</expan>,</l>
+                            >Nulli n<ex>ost</ex>re co<ex>n</ex>firmationis</term>
+                        <hi rend="i"><ex>et</ex>c<ex>etera</ex></hi>.
+                        Dat<ex>um</ex> Lateran<ex>i</ex>, V
+                            k<ex>a</ex>l<ex>endas</ex> febr<ex>uarii</ex>,</l>
                     <l>
                         <term
                             n="L’année de pontificat est calculée à partir du jour de la consécration du 
@@ -286,80 +278,79 @@
                     <!-- Texte 2 -->
                     <l>
                         <br/>
-                      <add n="4" place="left" type="corr">
-                            <p>. . Abb<expan>at</expan>isse <expan>et</expan>
-                                con<expan>ven</expan>tui mon<expan>asterii</expan> de <term
+                      <add place="left" type="corr">
+                            <p>. . Abb<ex>at</ex>isse <ex>et</ex>
+                                con<ex>ven</ex>tui mon<ex>asterii</ex> de <term
                                     n="Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno."
                                     >Celi</term></p>
                             <p><term
                                     n="Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno."
-                                    >Porta</term>, Cistercien<expan>sis</expan>
-                                ordin<expan>is</expan>, Olomu-</p>
-                            <p>-cen<expan>sis</expan> dioc<expan>esis</expan>.</p>
-                        </add> Devotionis augm<expan>en</expan>tum <hi rend="italic"
-                                ><expan>et</expan>c<expan>etera</expan> ut <expan>i</expan>n alia
+                                    >Porta</term>, Cistercien<ex>sis</ex>
+                                ordin<ex>is</ex>, Olomu-</p>
+                            <p>-cen<ex>sis</ex> dioc<ex>esis</ex>.</p>
+                        </add> Devotionis augm<ex>en</ex>tum <hi rend="i"
+                                ><ex>et</ex>c<ex>etera</ex> ut <ex>i</ex>n alia
                         </hi></l>
-                    <l><hi rend="italic">us<expan>que</expan></hi> memorie <term
+                    <l><hi rend="i">us<ex>que</ex></hi> memorie <term
                             n="Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est 
                             ici encore question d’un prédécesseur de l’évêque alors en fonction, la 
                             mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245."
-                                >W<expan>enceslaus</expan></term> rex Boemie jus patronatus quod
-                            i<expan>n</expan> ecc<expan>lesi</expan>a <term
+                                >W<ex>enceslaus</ex></term> rex Boemie jus patronatus quod
+                            i<ex>n</ex> ecc<ex>lesi</ex>a <term
                             n="Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle."
-                                >S<expan>an</expan>c<expan>t</expan>i</term></l>
+                                >S<ex>an</ex>c<ex>t</ex>i</term></l>
                     <l><term
                             n="Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle."
-                            >Petri </term>de Burgo Brunen<expan>si</expan>,
-                        Olomucen<expan>sis</expan> dioc<expan>esis</expan></l>
-                    <l>obtinebat de assensu [<hi rend="italic">exponctué </hi>:
-                        ve<expan>nerabilis</expan> f<expan>rat</expan>ris n<expan>ost</expan>ri] . .
+                            >Petri </term>de Burgo Brunen<ex>si</ex>,
+                        Olomucen<ex>sis</ex> dioc<ex>esis</ex></l>
+                    <l>obtinebat de assensu [<hi rend="i">exponctué </hi>:
+                        ve<ex>nerabilis</ex> f<ex>rat</ex>ris n<ex>ost</ex>ri] . .
                             <term
                             n="La correction portée au registre 
                             indique in extremis que l’évêque concerné était l’un des prédécesseurs 
                             de l’évêque alors en fonction, Bruno de Holstein (1245-1281)."
-                                >Olomucen<expan>sis</expan></term></l>
+                                >Olomucen<ex>sis</ex></term></l>
                     <l><term
                             n="La correction portée au registre 
                         indique in extremis que l’évêque concerné était l’un des prédécesseurs 
                         de l’évêque alors en fonction, Bruno de Holstein (1245-1281)."
-                            > ep<expan>iscop</expan>i</term> regia vobis liberalitate donasset
-                      intuitu pietatis,<add n="5" place="left" type="corr">
-                            <p>bone me<expan>morie</expan></p>
+                            > ep<ex>iscop</ex>i</term> regia vobis liberalitate donasset
+                      intuitu pietatis,<add place="left" type="corr">
+                            <p>bone me<ex>morie</ex></p>
                         </add></l>
-                    <l>tandem [<hi rend="italic">souligné</hi> :
-                        d<expan>i</expan>c<expan>tu</expan>s ep<expan>iscopu</expan>s] circa vos
-                        dirigens pat<expan>er</expan>ne benignitatis</l>
-                    <l>affectu<expan>m</expan>, diligenti deliberatione p<expan>re</expan>habita,
-                      vo- <add n="6" place="left" type="corr">
-                            <p>ven<expan>er</expan>abilis f<expan>rate</expan>r
-                                n<expan>oste</expan>r . . Olomucen<expan>sis</expan>
-                            </p>
-                            <p>ep<expan>iscopu</expan>s successor illi<expan>us</expan></p>
+                    <l>tandem [<hi rend="i">souligné</hi> :
+                        d<ex>i</ex>c<ex>tu</ex>s ep<ex>iscopu</ex>s] circa vos
+                        dirigens pat<ex>er</ex>ne benignitatis</l>
+                    <l>affectu<ex>m</ex>, diligenti deliberatione p<ex>re</ex>habita,
+                      vo- <add place="left" type="corr">
+                            <p>ven<ex>er</ex>abilis f<ex>rate</ex>r
+                                n<ex>oste</ex>r . . Olomucen<ex>sis</ex>
+                           </p>
+                            <p>ep<ex>iscopu</ex>s successor illi<ex>us</ex></p>
                         </add>
                     </l>
-                    <l>-bis ordinaria auc<expan>torita</expan>te co<expan>n</expan>cessit ut
-                            d<expan>i</expan>c<expan>t</expan>am
-                        ecc<expan>lesi</expan>a<expan>m</expan>, i<expan>n</expan> qua rectoris</l>
-                    <l>institutio spectabat ad eu<expan>m</expan>, cum jurib<expan>us</expan> et</l>
-                    <l>p<expan>er</expan>tinentiis suis, cedente v<expan>e</expan>l decedente
-                            illi<expan>us</expan> rectore, i<expan>n</expan> v<expan>est</expan>ros
+                    <l>-bis ordinaria auc<ex>torita</ex>te co<ex>n</ex>cessit ut
+                            d<ex>i</ex>c<ex>t</ex>am
+                        ecc<ex>lesi</ex>a<ex>m</ex>, i<ex>n</ex> qua rectoris</l>
+                    <l>institutio spectabat ad eu<ex>m</ex>, cum jurib<ex>us</ex> et</l>
+                    <l>p<ex>er</ex>tinentiis suis, cedente v<ex>e</ex>l decedente
+                            illi<ex>us</ex> rectore, i<ex>n</ex> v<ex>est</ex>ros
                         usus</l>
-                    <l>p<expan>ro</expan>p<expan>r</expan>ios retinere possitis, deputata de</l>
-                    <l>p<expan>ro</expan>ventib<expan>us</expan> ip<expan>s</expan>ius
-                            ecc<expan>lesi</expan>e vicario ibide<expan>m</expan>
-                        p<expan>er</expan>petuo s<expan>er</expan>vituro pro</l>
-                    <l>sustentatione sua <expan>et</expan>
-                        ep<expan>iscop</expan>alib<expan>us</expan> jurib<expan>us</expan>
-                            p<expan>er</expan>solvendis <expan>et</expan> sup-</l>
-                    <l>-portandis ej<expan>us</expan> co<expan>n</expan>suetis
-                        onerib<expan>us</expan> co<expan>n</expan>grua portione
-                            <expan>et</expan>c<expan>etera</expan> us<expan>que</expan></l>
-                    <l>co<expan>mmun</expan>im<expan>us</expan>. Nulli n<expan>ost</expan>re
-                            co<expan>n</expan>firmationis <hi rend="italic"
-                                ><expan>et</expan>c<expan>etera</expan></hi>. Dat<expan>um</expan>
+                    <l>p<ex>ro</ex>p<ex>r</ex>ios retinere possitis, deputata de</l>
+                    <l>p<ex>ro</ex>ventib<ex>us</ex> ip<ex>s</ex>ius
+                            ecc<ex>lesi</ex>e vicario ibide<ex>m</ex>
+                        p<ex>er</ex>petuo s<ex>er</ex>vituro pro</l>
+                    <l>sustentatione sua <ex>et</ex>
+                        ep<ex>iscop</ex>alib<ex>us</ex> jurib<ex>us</ex>
+                            p<ex>er</ex>solvendis <ex>et</ex> sup-</l>
+                    <l>-portandis ej<ex>us</ex> co<ex>n</ex>suetis
+                        onerib<ex>us</ex> co<ex>n</ex>grua portione <ex>et</ex>c<ex>etera</ex> us<ex>que</ex></l>
+                    <l>co<ex>mmun</ex>im<ex>us</ex>. Nulli n<ex>ost</ex>re
+                            co<ex>n</ex>firmationis <hi rend="i"
+                                ><ex>et</ex>c<ex>etera</ex></hi>. Dat<ex>um</ex>
                         La-</l>
-                    <l>-teran<expan>i</expan>, III k<expan>a</expan>l<expan>endas</expan>
-                            febr<expan>uarii</expan>, anno septimo.</l>
+                    <l>-teran<ex>i</ex>, III k<ex>a</ex>l<ex>endas</ex>
+                            febr<ex>uarii</ex>, anno septimo.</l>
                 </div>
                 <div type="traduction">
                     <l>À l’abbesse et au <term
@@ -379,11 +370,10 @@
                         l’illustre</l>
                     <l><term
                             n="Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230."
-                            >Premislas</term> roi de Bohême vous avait dans sa piété, avec l’accord
-                            <expan>de notre vénérable frère</expan></l>
+                            >Premislas</term> roi de Bohême vous avait dans sa piété, avec l’accord <ex>de notre vénérable frère</ex></l>
                     <l>(de feu) . . <term
                             n="La correction portée au registre indique in extremis que l’évêque concerné était l’un des prédécesseurs de l’évêque alors en fonction, Bruno de Holstein (1245-1281)."
-                      >l’évêque d’Olmutz</term>, <add n="1" place="left" type="corr">
+                      >l’évêque d’Olmutz</term>, <add place="left" type="corr">
                             <p>de bonne mémoire</p>
                         </add>. , donné de sa royale libéralité le droit</l>
                     <l>de patronage qu’il avait en l’église <term
@@ -393,8 +383,8 @@
                             Le vocable de « bourg » (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle, 
                             mais dénonce aussi que la ville n’est pas une civitas épiscopale (un évêché n’y sera installé qu’en 1777)."
                             >Brno</term>, diocèse d’Olmutz,</l>
-                    <l><expan>ledit évêque</expan>
-                      <add n="2" place="left" type="corr">
+                    <l><ex>ledit évêque</ex>
+                      <add place="left" type="corr">
                             <p>notre vénérable frère l’évêque</p>
                             <p>d’Olmutz son successeur</p>
                         </add>. , tournant vers</l>
@@ -430,7 +420,7 @@
                             n="Appel condensé de la clause prohibitive, d’une formulation développée telle 
                             que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis
                             infringere vel ei ausu temerario contraire »."
-                            >Que personne de notre confirmation </term><hi rend="italic">etc</hi>.
+                            >Que personne de notre confirmation </term><hi rend="i">etc</hi>.
                         Donné au Latran, le 5</l>
                     <l>des calendes de février, <term
                             n="L’année de pontificat est calculée à partir du jour de la consécration du 
@@ -444,8 +434,8 @@
                     <l>[Fin de la première lettre]</l>
                     <p/>
                     <!-- début du deuxième texte -->
-                  <l><add n="3" place="left" type="corr">
-                            <p> À l’abbesse et au convent du monastère de <term
+                  <l><add place="left" type="corr">
+                            <p>À l’abbesse et au convent du monastère de <term
                                     n="Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno."
                                     >Himmelpforten</term>, ordre cistercien,</p>
                         </add> diocèse</l>
@@ -453,17 +443,17 @@
                             n="Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est 
                             ici encore question d’un prédécesseur de l’évêque alors en fonction, la mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245."
                             >Wenceslas</term> roi de Bohême vous</l>
-                    <l>vait dans sa piété, avec l’accord <expan>de notre vénérable frère</expan> {de
+                    <l>vait dans sa piété, avec l’accord <ex>de notre vénérable frère</ex> {de
                         feu} . . l’évêque d’Olmutz,</l>
-                  <l><add n="4" place="left" type="corr">
+                  <l><add place="left" type="corr">
                             <p>de bonne mémoire,</p>
                         </add> donné de sa royale libéralité le droit de patronage qu’il avait en</l>
                     <l>l’église <term
                             n="Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle."
-                            >Saint-Pierre</term> du château de Brno, diocèse d’Olmutz, <expan>ledit
-                            évêque</expan>
-                      <add n="5" place="left" type="corr">
-                            <p>notre vénérable </p>
+                            >Saint-Pierre</term> du château de Brno, diocèse d’Olmutz, <ex>ledit
+                            évêque</ex>
+                      <add place="left" type="corr">
+                            <p>notre vénérable</p>
                             <p>frère l’évêque d’Olmutz son successeur</p>
                         </add></l>
                     <l>,tournant vers vous un cœur empli de paternelle</l>
@@ -490,28 +480,27 @@
                     lettres patentes scellées, de l’évêque d’Olmutz, qui n’avait pas consulté son
                     chapitre : l’église, se trouvant vacante, a été incorporée à l’abbaye, qui doit
                     réserver une portion congrue des revenus à l’entretien du vicaire, au paiement
-                    des taxes épiscopales et aux charges courantes. N.B. : L’acte est recensé
-                        <expan>non sans erreurs</expan> dans <hi rend="italic">Les registres
-                            d’Alexandre <hi rend="small caps">IV</hi></hi>, t. III, fasc. <hi
+                    des taxes épiscopales et aux charges courantes. N.B. : L’acte est recensé <ex>non sans erreurs</ex> dans <hi rend="i">Les registres
+                            d’Alexandre <hi rend="sc">IV</hi></hi>, t. III, fasc. <hi
                         rend="small caps">VII</hi>, par Auguste Coulon, Paris, 1953, n° 3234,
                     p. 136.</p>
                 <head> 1261, 30 janvier. – Rome, palais du Latran.</head>
-                <p> Le pape [Alexandre IV] confirme à l’abbaye cistercienne de Himmelpforten
+                <p>Le pape [Alexandre IV] confirme à l’abbaye cistercienne de Himmelpforten
                     l’église Saint-Pierre du château de Brno, sur laquelle feu Venceslas, roi de
                     Bohême, leur avait donné son droit de patronage, avec l’accord, notifié par
                     lettres patentes scellées, de l’évêque d’Olmutz, qui n’avait pas consulté son
                     chapitre : l’église, au départ ou au décès du curé en fonction, serait
                     incorporée à l’abbaye, qui doit réserver une portion congrue des revenus à
                     l’entretien du vicaire, au paiement des taxes épiscopales et aux charges
-                    courantes. N.B. : L’acte est recensé <expan>non sans erreurs</expan> dans Les
+                    courantes. N.B. : L’acte est recensé <ex>non sans erreurs</ex> dans Les
                     registres d’Alexandre IV, t. III, fasc. VII, par Auguste Coulon, Paris, 1953,
                     n° 3235, p. 136.</p>
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="95/faxexterne.jpg">
                                 <figDesc>
@@ -543,7 +532,7 @@
                                         formule courante.</seg>
                                 </figDesc>
                             </figure>
-                        </p>
+                       </p>
                         <p>La présentation générale de la page est soignée, et la copie est
                             attentive à reporter des corrections (dont le contenu semble dénoncer
                             moins des bévues du copiste que des repentirs du rédacteur des actes),
@@ -557,24 +546,24 @@
                             30 janvier).</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de détail</p>
                         <p>N.B. : Le premier des deux textes, plus développé, est ici seul pris en
                             compte.</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="adresse" rend="color:#01def8">Abbatisse et conventui
+                            <seg corresp="adresse">Abbatisse et conventui
                                 monasterii Vallis Sancte Marie de Oglavia, Cistertiensis ordinis,
-                                Olomucensis diocesis. <note xml:id="adresse" type="bulle"
+                                Olomucensis diocesis. <note xml:id="adresse"
                                 >Adresse</note></seg>
-                            <seg corresp="preambule" rend="color:#f90808">Devotionis augmentum vobis
+                            <seg corresp="preambule">Devotionis augmentum vobis
                                 Deo propitio provenire confidimus si super hiis que digne cupitis
                                 nos vobis invenisse benivolos gaudeatis.<note xml:id="preambule"
-                                    type="bulle">Préambule</note></seg>
-                            <seg corresp="expose" rend="color:#f808c8">Sane petitio vestra nobis
+                                   >Préambule</note></seg>
+                            <seg corresp="expose">Sane petitio vestra nobis
                                 exhibita continebat quod, cum clare memorie Premislaus rex Boemie
                                 jus patronatus quod in ecclesia Sancti Jacobi de Burgo Brunensi,
                                 Olomucensis diocesis, obtinebat de assensu (venerabilis fratris
@@ -590,28 +579,27 @@
                                 persolvendis et supportandis ejus consuetis oneribus congrua
                                 portione, prout in patentibus litteris confectis exinde ac sigillo
                                 episcopi memorati signatis plenius dicitur contineri.<note
-                                    xml:id="expose" type="bulle">Exposé</note></seg>
-                            <seg corresp="dispositif" rend="color:#0099CC"> >Nos itaque, vestris
+                                    xml:id="expose">Exposé</note></seg>
+                            <seg corresp="dispositif"> >Nos itaque, vestris
                                 supplicationibus inclinati, quod ab eisdem rege et episcopo super
                                 premissis pie ac provide factum est ratum et firmum habentes, id,
                                 non obstante quod ad hoc assensus Olomucensis capituli minime
                                 intervenit, auctoritate apostolica confirmamus et presentis scripti
-                                patrocinio communimus.<note xml:id="dispositif" type="bulle"
+                                patrocinio communimus.<note xml:id="dispositif"
                                     >Dispositif</note></seg>
-                            <seg corresp="clause_prohibitive" rend="color:#f90808">Nulli nostre
-                                confirmationis <hi rend="italic">etcetera</hi>. <note
-                                    xml:id="clause_prohibitive" type="bulle">Clause prohibitive
-                                    (abrégée)</note>
-                            </seg>
-                            <seg corresp="date" rend="color:#24b37f">Datum Laterani, V kalendas
-                                februarii, anno septimo.<note xml:id="date" type="bulle">Date de
+                            <seg corresp="clause_prohibitive">Nulli nostre
+                                confirmationis <hi rend="i">etcetera</hi>. <note
+                                    xml:id="clause_prohibitive">Clause prohibitive
+                                    (abrégée)</note></seg>
+                            <seg corresp="date">Datum Laterani, V kalendas
+                                februarii, anno septimo.<note xml:id="date">Date de
                                     lieu et de temps</note></seg>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Langue et style</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>La langue utilisée traduit au premier abord le poids de la tradition, par
                             l’utilisation d’un grand nombre d’expressions stéréotypées, et le
                             prestige que conservent les modèles anciens. La présence d’abréviations
@@ -634,17 +622,17 @@
                         <p>Tous ces traits concourent depuis des siècles à donner au style une
                             tournure solennelle, presque empesée, qui traduit la mûre réflexion, la
                             sagesse d’une décision appuyée sur la raison et l’amour paternel.</p>
-                        <p> La formulation pourtant sait rester efficace, avec l’emploi d’un
+                        <p>La formulation pourtant sait rester efficace, avec l’emploi d’un
                             vocabulaire précis (« vicario », « rector »...), mais elle est ici
                             presque sèche, sans fioritures stylistique, ce qui est conforme à
                             l’évolution de la chancellerie vers une professionnalisation, une
                             emprise marquée des juristes pour ce genre d’intervention, le haut style
-                            se déployant dans les lettres les plus « politiques ». </p>
+                            se déployant dans les lettres les plus « politiques ».</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Les deux confirmations pontificales sont presque de routine ; leur date
                             (elles sont nettement postérieures aux décisions prises sur place par
                             les pieux rois et les sages évêques), la mention comme incidente de la
@@ -664,11 +652,11 @@
                             copies privilégiées puisque réalisées à la source, chez le producteur
                             des actes : ces copies mises en volume forment, au sens strict, un
                             « registre de chancellerie », dont on ne sait pour le 
-                            <hi rend="small caps">XIII</hi><hi rend="exposant">e</hi> 
+                            <hi rend="sc">XIII</hi><hi rend="sup">e</hi> 
                             siècle pontifical s’il procède de la
                             transcription des minutes ou des originaux avant ou après bullement
                             (voire de la collation de l’original sur le texte transcrit de la
-                            minute). Les <hi rend="italic">registratores</hi> procèdent encore avec
+                            minute). Les <hi rend="i">registratores</hi> procèdent encore avec
                             un mélange d'économie et de solennité, en transcrivant les textes des
                             privilèges et des lettres par paquets (ce que dénoncent les menues
                             ruptures de l'ordre chronologique des dates successives). Solennité et
@@ -692,7 +680,7 @@
                             nous livrent pas moins de 3260 textes – un chiffre en soi appréciable
                             mais qui d’après les sondages de quelques spécialistes ne refléterait
                             pas plus du cinquième de la production totale de la chancellerie. Les
-                            registres pontificaux du <hi rend="small caps">XIII</hi><hi rend="exposant">e</hi> 
+                            registres pontificaux du <hi rend="sc">XIII</hi><hi rend="sup">e</hi> 
                             siècle (Registra vaticana), remodelés et
                             destinés à une conservation perpétuelle (d’où le recours au parchemin et
                             à une écriture posée) depuis 1198, sont normalement regroupés aux
@@ -706,10 +694,10 @@
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique.</head>
-                <div n="1">
-                    <div type="contenu_commentaire">
+                <div>
+                    <div>
                         <p>Les premiers jalons de la bibliothèque de la ville de Paris, ouverte au
                             public le 13 avril 1763, sont posés grâce au legs fait par le procureur
                             du roi et de la ville Antoine Moriau (1699-1760). Comme il habitait

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>début du XI<hi rend="exposant">e</hi> siècle. Graduel de Saint-Denis</title>
+                <title>début du XI<hi rend="sup">e</hi> siècle. Graduel de Saint-Denis</title>
                 <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
                 <respStmt>
                     <resp>document encodé en XML/TEI P5 par</resp>
@@ -19,10 +19,10 @@
             <publicationStmt>
                 <idno type="numero">97</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-12">décembre 2008</date>
+                <date when="2008-12">décembre 2008</date>
             </publicationStmt>
             <sourceDesc>
-                <p>Paris, Bibliothèque Mazarine, 384, 109<hi rend="exposant">o</hi></p>
+                <p>Paris, Bibliothèque Mazarine, 384, 109<hi rend="sup">o</hi></p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -37,41 +37,41 @@
             <div type="facsimile" rend="fax.jpg">
                 <div>
                     <p>
-                        <seg rend="34,7,661,11,671,64,47,65" n="poly">Of<expan>fertorium</expan>.
+                        <seg rend="34,7,661,11,671,64,47,65" n="poly">Of<ex>fertorium</ex>.
                             Offerentur regi virgines post eam. Minorem.</seg>
-                        <seg rend="40,74,695,72,696,134,42,136" n="poly">Co<expan>mmunio</expan>.
+                        <seg rend="40,74,695,72,696,134,42,136" n="poly">Co<ex>mmunio</ex>.
                             Dilexisti justitiam et odisti iniquitatem.</seg>
-                        <seg rend="30,144,506,136,492,592,20,605" n="poly">G<expan>audeamus omnes in
-                                Domino</expan></seg>
+                        <seg rend="30,144,506,136,492,592,20,605" n="poly">G<ex>audeamus omnes in
+                                Domino</ex></seg>
                         <seg rend="175,633,683,628,687,696,172,700" n="poly">diem festum
                             caelebrantes</seg>
                         <seg rend="175,712,719,704,720,758,169,767" n="poly">sub honore Marie
-                            virginis de cujus assu<expan>m</expan>ptione</seg>
+                            virginis de cujus assu<ex>m</ex>ptione</seg>
                         <seg rend="175,781,725,770,735,836,178,844" n="poly">gaudent angeli et
-                            conlaudant Filiu<expan>m</expan> D<expan>e</expan>i.
-                                P<expan>salmus</expan>. Eructav(it).</seg>
+                            conlaudant Filiu<ex>m</ex> D<ex>e</ex>i.
+                                P<ex>salmus</ex>. Eructav(it).</seg>
                         <seg rend="84,861,683,853,680,902,85,917" n="poly"
-                                >R<expan>esponsorium</expan>. Benedicta et venerabilis es virgo
+                                >R<ex>esponsorium</ex>. Benedicta et venerabilis es virgo
                             Maria</seg>
                         <seg rend="178,927,684,922,683,973,183,987" n="poly">que sine tactu pudoris
                             inventa es mater</seg>
                         <seg rend="181,1002,436,994,431,1053,187,1054" n="poly">salvatoris.</seg>
                         <seg rend="83,1056,687,1049,693,1123,86,1126" n="poly"
-                            >V<expan>ersus</expan>. Virgo Dei geni-</seg>
+                            >V<ex>ersus</ex>. Virgo Dei geni-</seg>
                         <seg rend="194,1143,727,1133,730,1191,186,1202" n="poly">–trix quem totus
                             non capit orbis in tua…</seg>
-                    </p>
+                   </p>
                 </div>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> Offertorium. Offerentur regi virgines post eam. Minorem<lb/> Communio.
+                    <p>Offertorium. Offerentur regi virgines post eam. Minorem<lb/> Communio.
                         Dilexisti justitiam et odisti iniquitatem.<lb/> Gaudeamus omnes in Domino
                         <lb/> diem festum caelebrantes<lb/> sub honore Marie virginis, <lb/> de
                         cujus assumptione gaudent angeli et conlaudant Filium Dei.<lb/> Psalmus.
                         Eructavit.<lb/> Responsorium. Benedicta et venerabilis es virgo Maria<lb/>
                         que sine tactu pudoris inventa es matersalvatoris.<lb/> Versus. Virgo Dei
-                        genitrix quem totus non capit orbis in tua… </p>
+                        genitrix quem totus non capit orbis in tua…</p>
                 </div>
                 <div type="traduction">
                     <p>Offertoire. Que des vierges soient offertes au roi après elle. Mineur.<lb/>
@@ -81,20 +81,20 @@
                         louent à l’envi le Fils de Dieu.<lb/> Psaume. [Mon cœur] a éructé.<lb/>
                         Répons. Tu es bénie et digne de vénération, vierge Marie,<lb/> toi qui, sans
                         atteinte à ta pudeur, es devenue la mère du sauveur<lb/> Verset. Vierge mère
-                        du Dieu que le monde entier ne peut contenir… </p>
+                        du Dieu que le monde entier ne peut contenir…</p>
                 </div>
             </div>
             <div type="commentaire" n="paleographie">
                 <head>Commentaire paléographique</head>
-                <div n="1">
+                <div>
                     <head>Aspect général</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p>L’écriture est une minuscule caroline tardive d’aspect soigné et homogène
                             : on relèvera surtout ici les particularités qui la distinguent de
-                            l’écriture des IX<hi rend="exposant">e</hi>-X<hi rend="exposant">e</hi>
+                            l’écriture des IX<hi rend="sup">e</hi>-X<hi rend="sup">e</hi>
                             siècles. Le contraste est relativement marqué entre pleins et déliés, et
                             les hastes sont renforcées au sommet par un trait supplémentaire qui
                             prend l’aspect d’un empattement plus ou moins triangulaire
@@ -111,42 +111,42 @@
                             conjonction <hi rend="bold">NT</hi> étirée en largeur vise à allonger la
                             ligne presque jusqu’à la marge : artifice ornemental et détournement
                             d’une combinaison graphique dont la fonction était originellement de
-                            resserrer les lettres. </p>
+                            resserrer les lettres.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Formes individuelles</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p><hi rend="bold">r</hi>, <hi rend="bold">f</hi> et <hi rend="bold">s</hi>
                             descendent légèrement sous la ligne ; <hi rend="bold">r</hi> a par
                             ailleurs un trait supérieur fortement brisé.</p>
                         <p><hi rend="bold">g</hi> : les boucles supérieure et inférieure sont
                             maintenant entièrement fermées, contrairement à la minuscule caroline du
-                            IXe siècle. </p>
+                            IXe siècle.</p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Notation musicale</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p>« Le tracé des neumes, d’une grande qualité graphique, est précis, il
                             dénote une main habile, bien entraînée. Sa direction générale est
                             verticale, les angles et les arrondis sont également marqués. Une ligne
                             rouge est tracée sous les mélismes, entre deux syllabes de texte » (C.
-                            Maître). </p>
+                            Maître).</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Abréviations</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p>Les abréviations par suspension, la plupart réduites à l’initiale,
                             servent couramment dans les manuscrits liturgiques à désigner les pièces
                             : <hi rend="bold">of(fertorium), co(mmunio), r(esponsorium),
@@ -159,12 +159,12 @@
                             devait être chanté par cœur).</p>
                     </div>
                 </div>
-                <div n="5">
+                <div>
                     <head>Structuration</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p>Sur ce feuillet de dimensions moyennes (270 x 165 mm), la parfaite clarté
                             de la mise en page, réalisée sans lésiner sur le parchemin, est calculée
                             pour faciliter au mieux le repérage lors de l’exécution orale.</p>
@@ -179,7 +179,7 @@
                             rubriquées écrites en marge. Le début des chants est mis en valeur par
                             une initiale rubriquée, distinguée des précédentes par sa dimension
                             (elle est dessinée à la plume, non simplement écrite) et, la plupart du
-                            temps, par une touche de bleu. </p>
+                            temps, par une touche de bleu.</p>
                         <p>Il serait éclairant de comparer systématiquement la séparation des mots
                             dans les manuscrits musicaux et les autres livres contemporains. Le
                             découpage en tronçons arbitraires, correspondant assez peu aux limites
@@ -189,18 +189,18 @@
                             sauvegarde la cohérence verbale. Certaines soudures, notamment d’une
                             préposition monosyllabe avec le mot suivant <hi rend="bold"
                                 >(posteam</hi> l. 1) seront courantes jusqu’à la fin du Moyen Âge,
-                            en latin comme en français. </p>
+                            en latin comme en français.</p>
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique</head>
-                <div n="1">
+                <div>
                     <head>Le graduel ou antiphonaire de la messe</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p>La page appartient à un graduel ou antiphonaire de la messe, c’est-à-dire
                             au livre liturgique contenant les chants de la messe qui changent en
                             fonction de la fête du jour (chants du propre) par opposition aux chants
@@ -211,26 +211,26 @@
                             liturgie romaine, ce qui explique son attribution médiévale et moderne à
                             Grégoire le Grand (pape de 590 à 604). En réalité, le répertoire des
                             chants de la messe s’est formé pour la majeure partie à Rome entre le
-                                V<hi rend="exposant">e</hi> et le VII<hi rend="exposant">e</hi>
-                            siècles. </p>
+                                V<hi rend="sup">e</hi> et le VII<hi rend="sup">e</hi>
+                            siècles.</p>
                         <p>Le graduel a été ensuite diffusé notamment grâce aux souverains
                             carolingiens qui ont favorisé la pénétration en Gaule des usages
                             liturgiques romains. Ce phénomène est contemporain du développement de
-                            la notation neumatique. En effet, au IX<hi rend="exposant">e</hi>
+                            la notation neumatique. En effet, au IX<hi rend="sup">e</hi>
                             siècle, pour garder la mémoire d’une mélodie, on utilise des signes
                             graphiques, les neumes. Placés au-dessus des lignes de texte comme dans
                             cette page, les neumes permettent aux chantres de retrouver une mélodie
                             et de l’appliquer correctement aux paroles, bien qu’ils ne soient pas
                             une notation musicale proprement dite, puisque la hauteur des notes ne
-                            peut être indiquée en l’absence de portée. </p>
+                            peut être indiquée en l’absence de portée.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Le propre de la messe</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
+                       </p>
                         <p>La page correspond aux chants de la vigile et de la fête de l’Assomption
                             et comprend quatre des cinq chants du propre de la messe : <list>
                                 <item>l’introït (<hi rend="bold">Gaudeamus</hi>) accompagné d’un
@@ -253,27 +253,27 @@
                             </list></p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>La fête de l’Assomption</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="97/fax.jpg"/>
-                        </p>
-                        <p>Attestée en Orient au moins depuis le VI<hi rend="exposant">e</hi>
+                       </p>
+                        <p>Attestée en Orient au moins depuis le VI<hi rend="sup">e</hi>
                             siècle, la fête, sous le nom de Dormition, commémore à l’origine le
                             sommeil de la Vierge et l’élévation de son âme. Rapidement diffusée en
                             Occident, elle est fixée par l’empereur Maurice (582-602) au 15 août et
                             devient fête de l’Assomption pour rappeler l’élévation au ciel de l’âme
-                            mais aussi du corps de Marie. </p>
+                            mais aussi du corps de Marie.</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Pour approfondir</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <listBibl>
                             <bibl>
                                 <author>MAÎTRE (C.)</author>, <title>Graduel de l’abbaye royale de
-                                    Saint-Denis, début du XI<hi rend="exposant">e</hi> siècle.
+                                    Saint-Denis, début du XI<hi rend="sup">e</hi> siècle.
                                     Paris, Bibliothèque Mazarine, ms. 384</title>, Paris, 2005
                                     (<title>Manuscrits notés</title>, <biblScope>III</biblScope>).
                             </bibl>

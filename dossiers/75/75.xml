@@ -22,38 +22,38 @@
         <body>
             <div type="facsimile" rend="fax.jpg">
                 <p>
-                    <seg rend="123,17,103,54,149,77,205,95,282,96,493,98,781,93,820,92,810,30,605,22,383,17,207,21,152,14"  n="poly"><expan><hi rend="italic">Partie inférieure des lettres</hi></expan> CHI</seg>
+                    <seg rend="123,17,103,54,149,77,205,95,282,96,493,98,781,93,820,92,810,30,605,22,383,17,207,21,152,14"  n="poly"><ex><hi rend="i">Partie inférieure des lettres</hi></ex> CHI</seg>
                     <seg rend="60,109,61,91,71,80,93,76,118,82,131,87,140,102,147,101,179,106,299,109,366,106,427,102,484,109,493,114,489,122,461,122,423,123,385,124,325,125,280,125,237,128,187,127,153,130,119,132,98,140,92,142,75,149,59,146,59,116"  n="poly">Sacent tout chil qui cest escript veront u oront</seg>
-                    <seg rend="497,108,616,108,726,111,831,110,942,113,1011,113,1015,132,999,133,966,130,891,131,831,130,764,126,692,126,622,126,561,125,506,127,498,121"  n="poly">que par devant les jurés de cattel de le ville de Valench<expan>ie</expan>nn<expan>e</expan>s chi desoubz</seg>
-                    <seg rend="104,143,111,138,133,134,169,130,211,131,241,130,291,128,332,128,390,129,444,128,496,129,505,137,501,140,485,141,425,143,346,141,261,142,191,144,136,149,101,148"  n="poly">no<expan>m</expan>més se comparut personnelment Jehans Bonnés,</seg>
+                    <seg rend="497,108,616,108,726,111,831,110,942,113,1011,113,1015,132,999,133,966,130,891,131,831,130,764,126,692,126,622,126,561,125,506,127,498,121"  n="poly">que par devant les jurés de cattel de le ville de Valench<ex>ie</ex>nn<ex>e</ex>s chi desoubz</seg>
+                    <seg rend="104,143,111,138,133,134,169,130,211,131,241,130,291,128,332,128,390,129,444,128,496,129,505,137,501,140,485,141,425,143,346,141,261,142,191,144,136,149,101,148"  n="poly">no<ex>m</ex>més se comparut personnelment Jehans Bonnés,</seg>
                     <seg rend="510,131,542,130,588,129,660,131,734,130,800,132,865,134,914,134,965,136,1011,139,998,147,996,150,944,148,872,148,787,144,692,143,631,142,574,145,507,140"  n="poly">filz Pierre Bonnet l’ainsnet, et la endroit ils lidis Jehans, de se</seg>
-                    <seg rend="100,152,146,152,170,151,188,148,253,147,297,145,343,145,402,145,444,147,444,157,418,163,389,159,320,160,240,160,171,165,103,167"  n="poly">boine <expan>et</expan> francque volentet, sans constrainte,</seg>
-                    <seg rend="450,147,489,144,530,147,576,148,629,146,676,145,730,148,780,146,824,149,871,150,926,151,964,153,996,157,989,166,965,164,909,163,815,160,738,161,659,161,567,159,488,162,449,158"  n="poly">a congneult avoir eus <expan>et</expan> receus doudit Pierre Bonnet sen pere toute</seg>
-                    <seg rend="99,174,173,170,205,167,251,165,341,165,401,167,448,167,445,179,433,181,386,179,305,176,232,181,155,184,102,186"  n="poly">telle som<expan>m</expan>e de deniers <expan>et</expan> tout ce entirement</seg>
-                    <seg rend="458,164,552,166,612,165,682,167,755,166,824,166,912,167,943,167,995,169,1024,171,1024,186,988,187,950,181,858,181,751,178,644,177,555,179,494,176,452,179"  n="poly">que en biens meubles, joyaux, catteux <expan>et</expan> rentes a viage ils lidis Pierres</seg>
-                    <seg rend="103,192,163,188,260,183,362,183,464,183,472,190,465,196,423,194,356,197,240,199,144,203,101,204"  n="poly">Bonnés pro<expan>m</expan>mis <expan>et</expan> en convent lui avoit a donner</seg>
-                    <seg rend="481,181,617,186,686,184,753,183,822,185,901,185,965,185,982,188,994,190,1000,192,997,196,986,198,956,200,887,200,790,197,696,197,619,198,535,201,478,194"  n="poly">co<expan>m</expan>me en don <expan>et</expan> pro<expan>m</expan>messe de mariage avoecq demis<expan>elle</expan> Pieron<expan>n</expan>e d’Angriel,</seg>
-                    <seg rend="107,210,191,208,297,204,385,202,450,202,496,202,517,205,518,210,515,216,507,219,457,219,341,219,235,220,177,223,134,227,101,233,101,226"  n="poly">s’espeuse&#160;; et pour tout de tous yceux dons <expan>et</expan> pro<expan>m</expan>messes,</seg>
-                    <seg rend="525,204,654,202,791,204,913,205,987,203,1013,210,990,219,944,220,830,219,719,218,639,220,576,219,520,218"  n="poly">avoecq ossi de toutes <expan>et</expan> quelconcques aultres coses rewardans</seg>
-                    <seg rend="109,236,208,226,315,222,452,222,527,223,607,222,602,236,582,237,474,237,352,239,225,239,139,245,110,246"  n="poly">meubles <expan>et</expan> catteux dont ils, lidis Jehans Bonnés, avoit peus,</seg>
+                    <seg rend="100,152,146,152,170,151,188,148,253,147,297,145,343,145,402,145,444,147,444,157,418,163,389,159,320,160,240,160,171,165,103,167"  n="poly">boine <ex>et</ex> francque volentet, sans constrainte,</seg>
+                    <seg rend="450,147,489,144,530,147,576,148,629,146,676,145,730,148,780,146,824,149,871,150,926,151,964,153,996,157,989,166,965,164,909,163,815,160,738,161,659,161,567,159,488,162,449,158"  n="poly">a congneult avoir eus <ex>et</ex> receus doudit Pierre Bonnet sen pere toute</seg>
+                    <seg rend="99,174,173,170,205,167,251,165,341,165,401,167,448,167,445,179,433,181,386,179,305,176,232,181,155,184,102,186"  n="poly">telle som<ex>m</ex>e de deniers <ex>et</ex> tout ce entirement</seg>
+                    <seg rend="458,164,552,166,612,165,682,167,755,166,824,166,912,167,943,167,995,169,1024,171,1024,186,988,187,950,181,858,181,751,178,644,177,555,179,494,176,452,179"  n="poly">que en biens meubles, joyaux, catteux <ex>et</ex> rentes a viage ils lidis Pierres</seg>
+                    <seg rend="103,192,163,188,260,183,362,183,464,183,472,190,465,196,423,194,356,197,240,199,144,203,101,204"  n="poly">Bonnés pro<ex>m</ex>mis <ex>et</ex> en convent lui avoit a donner</seg>
+                    <seg rend="481,181,617,186,686,184,753,183,822,185,901,185,965,185,982,188,994,190,1000,192,997,196,986,198,956,200,887,200,790,197,696,197,619,198,535,201,478,194"  n="poly">co<ex>m</ex>me en don <ex>et</ex> pro<ex>m</ex>messe de mariage avoecq demis<ex>elle</ex> Pieron<ex>n</ex>e d’Angriel,</seg>
+                    <seg rend="107,210,191,208,297,204,385,202,450,202,496,202,517,205,518,210,515,216,507,219,457,219,341,219,235,220,177,223,134,227,101,233,101,226"  n="poly">s’espeuse&#160;; et pour tout de tous yceux dons <ex>et</ex> pro<ex>m</ex>messes,</seg>
+                    <seg rend="525,204,654,202,791,204,913,205,987,203,1013,210,990,219,944,220,830,219,719,218,639,220,576,219,520,218"  n="poly">avoecq ossi de toutes <ex>et</ex> quelconcques aultres coses rewardans</seg>
+                    <seg rend="109,236,208,226,315,222,452,222,527,223,607,222,602,236,582,237,474,237,352,239,225,239,139,245,110,246"  n="poly">meubles <ex>et</ex> catteux dont ils, lidis Jehans Bonnés, avoit peus,</seg>
                     <seg rend="612,223,717,222,814,223,903,223,975,229,1020,234,1021,248,989,245,875,239,792,240,696,239,627,237,607,234"  n="poly">savoit ne saroit a faire quelque demande u poursuilte</seg>
-                    <seg rend="107,251,210,243,265,244,327,243,405,243,459,241,514,245,539,244,539,258,514,256,440,258,368,255,262,258,179,261,125,265,105,265"  n="poly">a sendit pere, co<expan>m</expan>ment ne en quelle maniere que ce fust</seg>
+                    <seg rend="107,251,210,243,265,244,327,243,405,243,459,241,514,245,539,244,539,258,514,256,440,258,368,255,262,258,179,261,125,265,105,265"  n="poly">a sendit pere, co<ex>m</ex>ment ne en quelle maniere que ce fust</seg>
                     <seg rend="544,242,625,241,689,244,752,245,836,246,895,245,956,247,995,251,1018,254,1008,267,990,266,919,260,855,263,792,262,730,260,648,258,581,256,543,255"  n="poly">u peuwist y estre, pour tout le temps passet jusques au jour</seg>
                     <seg rend="104,272,155,267,204,263,273,261,340,259,386,261,415,264,414,274,401,276,369,277,270,278,170,279,108,284"  n="poly">de le datte de cest escript, il s’est tenus</seg>
-                    <seg rend="421,260,492,260,556,262,628,263,688,263,751,264,812,264,892,267,948,263,994,270,989,283,955,277,873,277,760,275,661,275,591,275,476,275,423,275,418,274"  n="poly">et tient des mainten<expan>ant</expan> dou tout pour bien contens, et de ce il a quittet <expan>et</expan> quitte</seg>
-                    <seg rend="110,288,186,282,271,282,354,280,453,279,515,281,565,281,567,295,544,295,453,292,345,295,231,298,144,300,113,303"  n="poly">clamet bien <expan>et</expan> souffissanment ledit Pierre Bonnet sen pere,</seg>
-                    <seg rend="569,279,642,279,764,280,880,282,943,282,992,287,993,291,981,299,902,294,791,297,684,296,616,295,573,293"  n="poly">tous ses b<expan>ie</expan>ns, ses hoirs <expan>et</expan> sen reman<expan>ant</expan> a tousjours. A ceste</seg>
-                    <seg rend="110,306,209,303,300,298,367,299,423,298,507,296,558,298,558,313,523,311,402,314,269,316,193,318,112,320"  n="poly">quittance faire si que dit est furent co<expan>m</expan>me juret de cattel</seg>
+                    <seg rend="421,260,492,260,556,262,628,263,688,263,751,264,812,264,892,267,948,263,994,270,989,283,955,277,873,277,760,275,661,275,591,275,476,275,423,275,418,274"  n="poly">et tient des mainten<ex>ant</ex> dou tout pour bien contens, et de ce il a quittet <ex>et</ex> quitte</seg>
+                    <seg rend="110,288,186,282,271,282,354,280,453,279,515,281,565,281,567,295,544,295,453,292,345,295,231,298,144,300,113,303"  n="poly">clamet bien <ex>et</ex> souffissanment ledit Pierre Bonnet sen pere,</seg>
+                    <seg rend="569,279,642,279,764,280,880,282,943,282,992,287,993,291,981,299,902,294,791,297,684,296,616,295,573,293"  n="poly">tous ses b<ex>ie</ex>ns, ses hoirs <ex>et</ex> sen reman<ex>ant</ex> a tousjours. A ceste</seg>
+                    <seg rend="110,306,209,303,300,298,367,299,423,298,507,296,558,298,558,313,523,311,402,314,269,316,193,318,112,320"  n="poly">quittance faire si que dit est furent co<ex>m</ex>me juret de cattel</seg>
                     <seg rend="564,299,646,301,736,299,814,301,884,300,979,302,1005,298,1038,300,1041,316,995,317,929,314,827,316,705,316,610,316,563,312,563,306"  n="poly">Jehans dou Pont de pierre, Jehans li Comtes dis dou Buissoit</seg>
                     <seg rend="115,322,188,321,243,321,328,319,406,318,487,316,550,313,580,318,611,320,653,323,652,336,628,338,573,332,471,329,355,332,247,334,173,334,110,337,110,336,110,327"  n="poly">et Jehans Gervaise&#160;; et par non de juret et par nom de tesmoing</seg>
                     <seg rend="662,321,740,320,833,320,945,318,1006,322,996,334,950,334,820,339,719,340,659,338"  n="poly">en furent appiellet. Che fu fait l’an mil</seg>
-                    <seg rend="107,340,198,338,321,336,396,336,478,334,547,334,590,346,579,370,542,349,411,348,227,358,115,361"  n="poly">IIII<hi rend="exposant">C</hi> et XXX, le darrain jour dou mois d’octombre.</seg>
-                    <seg rend="829,377,899,376,990,380,1000,417,957,425,836,430"  n="poly"><expan><hi rend="italic">Note dorsale</hi></expan> Chiux escrips est Pier<expan>re</expan> Bonnet le pere.</seg>
-                </p>
+                    <seg rend="107,340,198,338,321,336,396,336,478,334,547,334,590,346,579,370,542,349,411,348,227,358,115,361"  n="poly">IIII<hi rend="sup">C</hi> et XXX, le darrain jour dou mois d’octombre.</seg>
+                    <seg rend="829,377,899,376,990,380,1000,417,957,425,836,430"  n="poly"><ex><hi rend="i">Note dorsale</hi></ex> Chiux escrips est Pier<ex>re</ex> Bonnet le pere.</seg>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <l>(<hi rend="italic">Partie inférieure des lettres</hi>) CHI(rographe).</l>
+                    <l>(<hi rend="i">Partie inférieure des lettres</hi>) CHI(rographe).</l>
                     <l>Sacent tout chil qui cest escript veront u oront que par devant les jurés de cattel de le ville</l>
                     <l>de Valenchiennes chi desoubz nommés se comparut personnelment Jehans Bonnés, filz</l>
                     <l>Pierre Bonnet l’ainsnet, et la endroit ils lidis Jehans, de se boine et francque volentet, sans</l>
@@ -69,9 +69,9 @@
                     <l>quitte clamet bien et souffissanment ledit Pierre Bonnet sen pere, tous ses biens, ses hoirs</l>
                     <l>et sen remanant a tousjours. A ceste quittance faire si que dit est furent comme juret de</l>
                     <l>cattel Jehans dou Pont de pierre, Jehans li Comtes dis dou Buissoit et Jehans Gervaise&#160;; et</l>
-                    <l>par non de juret et par nom de tesmoing en furent appiellet. Che fu fait l’an mil IIII<hi rend="exposant">C</hi> et</l>
+                    <l>par non de juret et par nom de tesmoing en furent appiellet. Che fu fait l’an mil IIII<hi rend="sup">C</hi> et</l>
                     <l>XXX, le darrain jour dou mois d’octombre.</l>
-                    <l>(<hi rend="italic">Note dorsale</hi>) Chiux escrips est Pierre Bonnet le pere.</l>
+                    <l>(<hi rend="i">Note dorsale</hi>) Chiux escrips est Pierre Bonnet le pere.</l>
                 </div>
                <div type="regeste">
                    <head>1430, 31 Octobre. - Valenciennes.</head>
@@ -79,12 +79,12 @@
                </div>
             </div>
             <div type="commentaire" n="diplomatique">
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
                     <div type="recommandation">
                         <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="75/faxexterne.jpg">
                                 <figDesc>
@@ -93,24 +93,24 @@
                                     <seg type="poly" rend="645,246,718,247,765,252,784,251,784,261,763,263,714,266,656,267,591,266,525,263,494,260,486,258,482,256,482,252,499,248,532,248,611,245,678,247">Tirets de clôture de texte</seg>
                                 </figDesc>
                             </figure>
-                        </p>
+                       </p>
                         <p>L’ensemble des caractères externes dénote une recherche de clarté, de rapidité et d’efficacité, qui témoigne d’un développement et d’une systématisation des pratiques administratives échevinales.</p>
-                        <p>L’acte est bien centré sur le parchemin, de format très allongé. Des marges relativement importantes assurent la clarté de l’ensemble. On note un certain souci de justification (voir p. ex. l. 7, l’écriture très tassée de <hi rend="italic">poursuilte</hi> en fin de ligne), qui n’est pas pour autant parfaite. Le début et la fin du texte sont bien délimités par une majuscule ornée d’une part, et des tirets empêchant les falsifications par ajout d’autre part. Les interlignes sont réguliers mais serrés&#160;: le texte est concentré par souci d’économie.</p>
+                        <p>L’acte est bien centré sur le parchemin, de format très allongé. Des marges relativement importantes assurent la clarté de l’ensemble. On note un certain souci de justification (voir p. ex. l. 7, l’écriture très tassée de <hi rend="i">poursuilte</hi> en fin de ligne), qui n’est pas pour autant parfaite. Le début et la fin du texte sont bien délimités par une majuscule ornée d’une part, et des tirets empêchant les falsifications par ajout d’autre part. Les interlignes sont réguliers mais serrés&#160;: le texte est concentré par souci d’économie.</p>
                         <p>L’écriture se caractérise par une grande lisibilité et un souci d’efficacité, avec de petites lettres aiguës et bien formées, où apparaissent quelques signes de cursivité.</p>
                         <p>Les lettres voisines se distinguent encore très bien les unes des autres, à une époque où la cursivité commence à se développer dans les actes de la pratique&#160;: les hampes des “v” se terminent en une boucle plus ouverte que celles des “b”&#160;; la forme des “u”  est différente de celle des “v”&#160;; les “c”, formés de deux traits à angle aigu, se différencient des “e”, composés de deux traits inclinés, et des “t”, dont la hampe dépasse  de la barre horizontale. Les lettres à attaques fractionnées sont encore majoritairement formées de plusieurs traits distincts, comme en témoignent les “e”, ainsi que les “a” de “Valenchiennes” (l. 1),  “avoit adonner”(l. 5)…, les “s” ronds finaux de “ils lidis” (l. 4), “a tousjours”(l. 10)…, les “c”… Les “g” conservent leur forme fractionnée traditionnelle.</p>
                         <p>Les abréviations (comme à l’habitude relativement peu nombreuses dans les actes en langue vernaculaire) sont encore notées par un trait distinct, tracé au-dessus du mot après avoir levé la plume, et non pas par un trait montant ou plongeant dans le prolongement de la dernière lettre.</p>
                         <p>Les signes de cursivité, témoignant d’une évolution de l’écriture vers une plus grande rapidité d’exécution, demeurent discrets. Quelques lettres ont tendance à ne plus être formées qu’en un seul mouvement, comme par exemple le “a”  de “Jehans” (l. 2 et l. 11), le “o” de “avoit” (l. 7), ou, surtout, comme les “d”, constitués d’un seul trait montant de gauche à droite, terminé par une boucle. Le “n” de “des maintenant” (l. 9) et le “h” de “Jehans” (l. 11)  plongent très légèrement sous la ligne d’écriture, de même que les “x” finaux. Les hastes effilées se prolongent sous la ligne d’écriture, mais sans toutefois gêner la lecture.</p>
                         <p>La mention dorsale est rédigée dans une écriture plus fragmentée, irrégulière  et incertaine, qui est l’œuvre d’une seconde main.</p>
-                        <p>L’acte en question est un chirographe, acte écrit en plusieurs exemplaires entre lesquels le scribe écrit un ou plusieurs mots ou lettres  avant de découper la feuille de parchemin au milieu de cette “devise” (<hi rend="italic">divisa</hi>). On peut distinguer ici la partie inférieure de la devise, constituée par  les trois premières lettres du mot “CHI(ROGRAPHE)”, suivies d’une ligne ondulée ornementale. L’insistance mise sur la devise attire lourdement l’attention sur ce mode de validation.</p>
+                        <p>L’acte en question est un chirographe, acte écrit en plusieurs exemplaires entre lesquels le scribe écrit un ou plusieurs mots ou lettres  avant de découper la feuille de parchemin au milieu de cette “devise” (<hi rend="i">divisa</hi>). On peut distinguer ici la partie inférieure de la devise, constituée par  les trois premières lettres du mot “CHI(ROGRAPHE)”, suivies d’une ligne ondulée ornementale. L’insistance mise sur la devise attire lourdement l’attention sur ce mode de validation.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Langue et style</head>
-                    <div type="contenu_commentaire">
+                    <div>
                     <p>L’examen linguistique du texte peut être mené selon trois axes&#160;: la recherche des traits dialectaux (I) est la plus évidente&#160;; à y regarder de plus près, quelques phénomènes montrent que le texte participe aussi de l’évolution de la langue et de l’essor du moyen français (II)&#160;; une relecture d’ensemble montre enfin que le discours est très solidement charpenté (III).</p>
                     <div n="I">
                         <head>Traits dialectaux</head>
-                        <p>On peut relever dans ce texte un certain nombre de traits dialectaux. Pour ce type d’enquête, il est commode de s’appuyer sur un classement des phénomènes déjà opéré. Charles Théodore Gossen, <hi rend="italic">Grammaire de l’ancien picard</hi>, Paris, 1970 (<hi rend="italic">Bibliothèque française et romane</hi>, Série A, 19) fournit un point de départ commode pour le domaine picard entendu au sens large. On pourrait suivre aussi la présentation plus synthétique de Jacob Wüest (§ 140, «&#160;Les scriptae françaises, II, Picardie, Hainaut, Artois, Flandres&#160;», dans <hi rend="italic">Lexikon der Romanistischen Linguistik (LRL)</hi>, vol. II-2, <hi rend="italic">Les différentes langues romanes et leurs régions d’implantation du Moyen Âge à la Renaissance</hi>, Tübingen, 1995, p. 300-314).  Les relevés sont ici organisés selon les numéros des paragraphes consacrés à chaque phénomène par C. T. Gossen. On rappellera que les relevés n’ont d’intérêt que si sont signalées en même temps les autres graphies des mêmes phénomènes, et qu’il est nécessaire de confronter les traits relevés  avec les plus importantes scriptae d’oïl du Moyen âge (voir le tableau de C.-T. Gossen, op. cit., p. 152-155). Dans le cas présent (document unique et court), il est évident que les relevés n’ont qu’une valeur d’exemple.</p>
+                        <p>On peut relever dans ce texte un certain nombre de traits dialectaux. Pour ce type d’enquête, il est commode de s’appuyer sur un classement des phénomènes déjà opéré. Charles Théodore Gossen, <hi rend="i">Grammaire de l’ancien picard</hi>, Paris, 1970 (<hi rend="i">Bibliothèque française et romane</hi>, Série A, 19) fournit un point de départ commode pour le domaine picard entendu au sens large. On pourrait suivre aussi la présentation plus synthétique de Jacob Wüest (§ 140, «&#160;Les scriptae françaises, II, Picardie, Hainaut, Artois, Flandres&#160;», dans <hi rend="i">Lexikon der Romanistischen Linguistik (LRL)</hi>, vol. II-2, <hi rend="i">Les différentes langues romanes et leurs régions d’implantation du Moyen Âge à la Renaissance</hi>, Tübingen, 1995, p. 300-314).  Les relevés sont ici organisés selon les numéros des paragraphes consacrés à chaque phénomène par C. T. Gossen. On rappellera que les relevés n’ont d’intérêt que si sont signalées en même temps les autres graphies des mêmes phénomènes, et qu’il est nécessaire de confronter les traits relevés  avec les plus importantes scriptae d’oïl du Moyen âge (voir le tableau de C.-T. Gossen, op. cit., p. 152-155). Dans le cas présent (document unique et court), il est évident que les relevés n’ont qu’une valeur d’exemple.</p>
                         <div n="I">
                             <head>Phonétique</head>
                             <div n="I">
@@ -124,65 +124,65 @@
                                 <p>§ 33. Réduction de [ei] roman protonique devant s > i. Trait partagé avec le wallon et le lorrain.</p>
                                 <p>“demiselle” (l. 5).</p>
                             </div>
-                            <div n="2">
+                            <div>
                                 <head>Consonnantisme</head>
                                 <p>§ 38. C+E ou C+I latins à  l’initiale et intérieur derrière consonne > c, ch. Trait partagé avec le normand. On remarque que la graphie ch caractéristique de la scripta picarde pour ce phénomène est ici cantonnée au protocole et à l’eschatocole de l’acte&#160;:</p>
                                 <p>“chil” (l. 1), “Valenchiennes” (l. 1), “chi” (l. 1), “che” (l. 12), “che” (l. 12), “che” (l. 12), “chiux” (l. 14). — Inversement “sacent” (l. 1). Et on a une majorité de graphies non marquées dans la partie centrale du document&#160;: “cest” (l. 1, 9), “ce” (l. 4, 8, 9), “yceux” (l. 6), “ossi” (l. 6), “ceste” (l. 10).</p>
-                                <p>Voir les commentaires de C. T. Gossen, <hi rend="italic">op. cit.</hi>, p. 91-93, insistant sur le fait que les adjectifs et pronoms démonstratifs sont fréquemment écrits avec <hi rend="italic">c</hi>.</p>
+                                <p>Voir les commentaires de C. T. Gossen, <hi rend="i">op. cit.</hi>, p. 91-93, insistant sur le fait que les adjectifs et pronoms démonstratifs sont fréquemment écrits avec <hi rend="i">c</hi>.</p>
                                 <p>§ 41. C+A latins à l’initiale et intérieur derrière consonne > [k]. Trait partagé avec le normand.</p>
                                 <p>“cattel/catteux” (l. 1,  7, 11), “coses” (l. 6), “francque” (l. 3).</p>
-                                <p>§ 46. -ATU, -ATE latins &gt; -<hi rend="italic">et</hi>. Trait partagé avec le wallon et le lorrain.</p>
-                                <p>La graphie -<hi rend="italic">et</hi> &lt; -ATU latin  est représentée ici dans toutes les formes de participes passés masculins singuliers régimes&#160;: “ainsnet” (l. 2), “passet” (l. 8), “quittet” (l. 9), “clamet” (l. 10), “juret” (l. 11, l. 12), “appiellet” (l. 12) </p>
+                                <p>§ 46. -ATU, -ATE latins &gt; -<hi rend="i">et</hi>. Trait partagé avec le wallon et le lorrain.</p>
+                                <p>La graphie -<hi rend="i">et</hi> &lt; -ATU latin  est représentée ici dans toutes les formes de participes passés masculins singuliers régimes&#160;: “ainsnet” (l. 2), “passet” (l. 8), “quittet” (l. 9), “clamet” (l. 10), “juret” (l. 11, l. 12), “appiellet” (l. 12)</p>
                                 <p>Elle cède normalement devant le –s de flexion de régime pluriel&#160;: “jurés” (l. 2), “nommés” (l. 2)</p>
-                                <p>La  même graphie -<hi rend="italic">et</hi> s’observe pour le résultat du suffixe latin -ATE dans “volontet” (l. 3) </p>
+                                <p>La  même graphie -<hi rend="i">et</hi> s’observe pour le résultat du suffixe latin -ATE dans “volontet” (l. 3)</p>
                                 <p>§ 51. w- germanique initial conservé. Trait partagé avec le normand, le wallon et le lorrain.</p>
                                 <p>“rewardans” (l. 6).</p>
                                 <p>§ 54. Développement de –w- après u en hiatus. Trait partagé avec le normand, le wallon et le lorrain.</p>
                                 <p>“peuwist” (l. 8)</p>
                             </div>
                         </div>
-                        <div n="2">
+                        <div>
                             <head>Morphologie</head>
-                            <p>§ 63. Article défini féminin, sujet et régime le. Trait partagé avec le wallon. </p>
+                            <p>§ 63. Article défini féminin, sujet et régime le. Trait partagé avec le wallon.</p>
                             <p>“le” (l. 1, 9)</p>
-                            <p>§ 66. Sujet et régime du possessif féminin <hi rend="italic">me</hi>, <hi rend="italic">te</hi>, <hi rend="italic">se</hi>. Trait partagé avec le wallon.</p>
+                            <p>§ 66. Sujet et régime du possessif féminin <hi rend="i">me</hi>, <hi rend="i">te</hi>, <hi rend="i">se</hi>. Trait partagé avec le wallon.</p>
                             <p>“se” (l. 2).</p>
-                            <p>§ 67. Sujet et régime de l’adjectif possessif <hi rend="italic">men</hi>, <hi rend="italic">ten</hi>, <hi rend="italic">sen</hi>. Trait partagé avec le wallon.</p>
+                            <p>§ 67. Sujet et régime de l’adjectif possessif <hi rend="i">men</hi>, <hi rend="i">ten</hi>, <hi rend="i">sen</hi>. Trait partagé avec le wallon.</p>
                             <p>“sen” (l. 3, 8, 10 [2 occurrences]).</p>
                             <p>Ce document offre donc peu de graphies propres à sa région d’origine, et toute conclusion devrait s’appuyer sur une large comparaison avec des actes de même provenance&#160;: quelle est l’évolution dans le temps des traits relevés&#160;? L’opposition suggérée plus haut entre le protocole formulaire et le texte au sens restreint (cœur de l’acte) s’y retrouve-t-elle&#160;?</p>
                         </div>
                     </div>
-                    <div n="2">
+                    <div>
                         <head>Traits propres au moyen français</head>
                         <p>Du fait que le document daté de 1430, on n’est pas surpris d’y observer des traits caractéristiques du moyen français.</p>
-                        <div n="1">
+                        <div>
                             <head>Graphie</head>
                             <p>Surcharge graphique des fins de syllabes «&#160;latinisantes&#160;» dès la première ligne de l’acte&#160;: “escript” (l. 1, 9)  et “escrips” (l. 14,), “desoubz” (l. 1), on non latinisantes&#160;: “francque” (l. 3), “congneult” (l. 3), “avoecq” (l. 5,), “quelconcques” (l. 6), “poursuilte” (l. 7).</p>
                             <p>Utilisation de la lettre y&#160;: “yceulx” (l. 6), “y” (l. 8), “joyaux” (l. 4).</p>
                         </div>
-                        <div n="2">
+                        <div>
                             <head>Morphologie</head>
-                            <p>On notera par contre que la flexion nominale est encore respectée, y compris pour les surnoms sauf “Gervaise ” (l. 12), trait tourné vers le passé (C. T. Gossen, <hi rend="italic">op. cit.</hi>, § 63 a&#160;: «&#160;Grosso modo, il est permis de dire que la distinction entre le cas sujet singulier et le cas régime singulier exista en picard jusqu’à l’aube du XVe siècle, du moins dans l’usage écrit&#160;»).</p>
+                            <p>On notera par contre que la flexion nominale est encore respectée, y compris pour les surnoms sauf “Gervaise ” (l. 12), trait tourné vers le passé (C. T. Gossen, <hi rend="i">op. cit.</hi>, § 63 a&#160;: «&#160;Grosso modo, il est permis de dire que la distinction entre le cas sujet singulier et le cas régime singulier exista en picard jusqu’à l’aube du XVe siècle, du moins dans l’usage écrit&#160;»).</p>
                             <p>“ils” (pronom pers. 3e pers. sg) est peut-être une hypercorrection (trois fois, contre deux fois “il”).</p>
                             <p>On remarquera enfin que le pronom personnel régime masculin indirect faible offre déjà la forme “lui” (l. 5).</p>
                         </div>
                     </div>
-                    <div n="3">
+                    <div>
                         <head>Style et construction</head>
                         <p>La langue, dont la coloration dialectale peut troubler le lecteur, et la construction complexe du passage central, qui multiplie les incises, par opposition au protocole et à l’eschatocole composés dans un style très formulaire, donnent au texte une apparence d’obscurité ou de maladresse. Impression trompeuse car, à l’ancrage du texte dans la coutume et les pratiques juridiques et judiciaires locales, répond une rigoureuse construction du discours, à la fois sobre et complexe, que l’on peut ainsi dérouler&#160;:</p>
                         <p>ils lidis Jehans [de se boine et francque volentet, sans constrainte]</p>
-                        <p>(1) a <hi rend="gras">congneult avoir eus et receus</hi> doudit Pierre Bonnet sen pere (a) <hi rend="gras">toute</hi> telle somme de deniers et (b) <hi rend="gras">tout ce</hi> entirement que [en biens meubles, joyaux, catteux et rente a viage] ils lidis Pierres Bonnés prommis et en convent lui avoit a donner (<hi rend="italic">avait promis et convenu devoir lui donner</hi>) comme en don et prommesse de mariage avoecq demiselle Pieronne d’Angriel, s’espeuse&#160;;</p>
-                        <p>(2) et [pour tout] (a) <hi rend="gras">de tous</hi> yceux dons et prommesses, avoecq ossi (b) <hi rend="gras">de toutes et quelconcques</hi> aultres coses rewardans meubles et catteux dont ils, lidis Jehans Bonnés, avoit peus, savoit ne saroit a faire quelque demande u poursuilte a sendit pere, [comment ne en quelle maniere que ce fust u peuwist y estre, pour tout le temps passet jusques au jour de le datte de cest escript,] <hi rend="gras">il s’est tenus et tient</hi> des maintenant dou tout <hi rend="gras">pour bien contens</hi>, et de ce il a <hi rend="gras">quittet et quitte clamet</hi> (<hi rend="italic">acquitté et proclamé quitte</hi>) bien et souffissanment ledit Pierre Bonnet sen pere, tous ses biens, ses hoirs et sen remanant a tousjours.</p>
+                        <p>(1) a <hi rend="gras">congneult avoir eus et receus</hi> doudit Pierre Bonnet sen pere (a) <hi rend="gras">toute</hi> telle somme de deniers et (b) <hi rend="gras">tout ce</hi> entirement que [en biens meubles, joyaux, catteux et rente a viage] ils lidis Pierres Bonnés prommis et en convent lui avoit a donner (<hi rend="i">avait promis et convenu devoir lui donner</hi>) comme en don et prommesse de mariage avoecq demiselle Pieronne d’Angriel, s’espeuse&#160;;</p>
+                        <p>(2) et [pour tout] (a) <hi rend="gras">de tous</hi> yceux dons et prommesses, avoecq ossi (b) <hi rend="gras">de toutes et quelconcques</hi> aultres coses rewardans meubles et catteux dont ils, lidis Jehans Bonnés, avoit peus, savoit ne saroit a faire quelque demande u poursuilte a sendit pere, [comment ne en quelle maniere que ce fust u peuwist y estre, pour tout le temps passet jusques au jour de le datte de cest escript,] <hi rend="gras">il s’est tenus et tient</hi> des maintenant dou tout <hi rend="gras">pour bien contens</hi>, et de ce il a <hi rend="gras">quittet et quitte clamet</hi> (<hi rend="i">acquitté et proclamé quitte</hi>) bien et souffissanment ledit Pierre Bonnet sen pere, tous ses biens, ses hoirs et sen remanant a tousjours.</p>
                     </div>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Le document est un acte privé  produit par la juridiction gracieuse échevinale de Valenciennes, qui garantit une donation entre vifs&#160;: la dotation d’un fils par son père à l’occasion de son mariage.</p>
                         <p>Au plan diplomatique, la quittance est passée devant les «&#160;jurés de catel&#160;» de la ville. Leur rôle est clairement défini dans l’article 57 de la coutume de 1540&#160;: «&#160;Les eschevins durant leur tems d’eschevinage peuvent recevoir tous contractz et conventions mobilières, et aussi après leurdit eschevinaige expiré, demeurent le parfaict de leurs vies jurez de cattel, et en ceste qualité peuvent recepvoir et passer tous contractz et recognoissances mobiliaires seulement, pourveu qu’il y ait deux jurez du moins à ce faire&#160;». Hommes d’honneur et témoins crédibles, ils «&#160;écoutent&#160;» les transactions entre bourgeois, qu’un clerc de la ville met par écrit sous la forme de chirographes qui renforcent le dispositif. Les parties en effet gardent chacune un exemplaire, qui peut être rapprochée de l’autre en cas de contestation. Et surtout la municipalité assure, à l’origine dans ses coffres («&#160;écrits d’arche&#160;»), la conservation d’un troisième exemplaire. La position de la devise, la note dorsale surtout, où l’acteur est désigné de façon objective et lointaine, prouvent que nous sommes ici en face de l’exemplaire des archives communales.</p>
                         <p>La pratique est autorisée, forte de sa reconnaissance tacite dans le petit monde urbain. Significative à cet égard l’absence de corroboration&#160;: la nature chirographaire de l’acte n’est pas annoncée et se suffit à elle-même. La clause finale énumère précisément les noms et surnoms des trois jurés portant témoignage&#160;: ici encore point besoin de signature ou de sceau. En cas de contestation la convocation des témoins, la comparaison des parties du chirographe, le recours aux autorités échevinales et à leurs archives suffiront à attester la validité de la donation. Le système est parfaitement rôdé et fonctionnera à plein régime au moins jusqu’au règne de Louis XIV.</p>
-                        <p>Jurés de catel à Valenciennes, voirs jurés à Tournai, timaux à Lille…&#160;: chaque commune semble vivre avec son propre système, dans un isolat diplomatique. La communauté des pratiques (pourvoyeuse d’une formidable manne archivistique) est pourtant évidente, jusque dans la formule-clef «&#160;par devant… se comparut personnellement…&#160;», qui renvoie plus largement aux premières expérimentations du XIII<hi rend="exposant">e</hi> siècle dans les officialités. Comme pour la langue, l’acte procède d’un subtil dosage de particularisme et d’ouverture.</p>
+                        <p>Jurés de catel à Valenciennes, voirs jurés à Tournai, timaux à Lille…&#160;: chaque commune semble vivre avec son propre système, dans un isolat diplomatique. La communauté des pratiques (pourvoyeuse d’une formidable manne archivistique) est pourtant évidente, jusque dans la formule-clef «&#160;par devant… se comparut personnellement…&#160;», qui renvoie plus largement aux premières expérimentations du XIII<hi rend="sup">e</hi> siècle dans les officialités. Comme pour la langue, l’acte procède d’un subtil dosage de particularisme et d’ouverture.</p>
                     </div>
                 </div>
             </div>

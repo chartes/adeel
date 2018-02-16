@@ -15,7 +15,7 @@
             <publicationStmt>
                 <idno type="numero">94</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2007-10">octobre 2007</date>
+                <date when="2007-10">octobre 2007</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Fac-sim. ENC : AF 156 (lithographie).</p>
@@ -34,49 +34,48 @@
                 <p>
                     <seg rend="8,37,22,26,58,19,142,13,253,4,253,34,219,45,207,38,116,47,95,51,76,50,42,51,24,52,14,67" n="poly">Je Johanz, sires de Tile Chastial, </seg>
                     <seg rend="259,13,257,43,277,39,290,42,389,40,414,44,452,38,464,33,508,46,552,38,578,46,656,41,682,48,725,50,841,50,918,61,952,60,953,32,862,21,793,21,735,10,688,15,655,13,281,11" n="poly">faz 
-                        savoir a touz que je ai repris en fié <expan>et</expan> en homaige lige contre tous homes aprés</seg>
+                        savoir a touz que je ai repris en fié <ex>et</ex> en homaige lige contre tous homes aprés</seg>
                     <seg rend="19,65,27,54,97,54,207,41,220,49,251,37,255,50,280,42,286,46,358,44,358,69,323,72,295,76,246,68,195,74,162,73,125,82,90,79,55,90,19,84" n="poly">l’evesque 
-                        de Ly<expan>n</expan>gres <expan>et</expan> lo duc de Bergoyne </seg>
-                    <seg rend="362,45,388,44,412,48,449,43,462,37,508,50,552,42,581,50,654,46,683,53,842,55,930,65,952,70,947,91,925,92,905,93,877,94,854,86,794,82,758,81,743,80,685,77,673,79,661,81,641,72,611,76,577,78,525,71,505,68,461,69,442,73,422,72,392,80,361,67" n="poly"><expan>et</expan> aprés 
+                        de Ly<ex>n</ex>gres <ex>et</ex> lo duc de Bergoyne </seg>
+                    <seg rend="362,45,388,44,412,48,449,43,462,37,508,50,552,42,581,50,654,46,683,53,842,55,930,65,952,70,947,91,925,92,905,93,877,94,854,86,794,82,758,81,743,80,685,77,673,79,661,81,641,72,611,76,577,78,525,71,505,68,461,69,442,73,422,72,392,80,361,67" n="poly"><ex>et</ex> aprés 
                         Johan, conte de Bergoyne et segnor de Salins, tout ce que je hai</seg>
                     <seg rend="13,94,58,95,96,87,134,87,176,79,257,76,295,81,359,76,393,84,432,76,448,77,502,71,584,83,613,78,623,79,620,108,561,104,531,110,488,103,454,104,437,99,412,103,373,99,326,107,311,97,279,100,259,106,183,104,134,113,115,118,80,122,32,125,14,123" n="poly">a 
-                        Jemeaus en fiés, en demeneures <expan>et</expan> en aparteneences de mon chier seignor Th<expan>ibaud</expan>, </seg>
+                        Jemeaus en fiés, en demeneures <ex>et</ex> en aparteneences de mon chier seignor Th<ex>ibaud</ex>, </seg>
                     <seg rend="626,113,629,83,673,82,763,85,835,92,876,102,940,95,962,95,958,121,884,121,867,127,830,116,810,121,795,114,679,115" n="poly">par la grace de Deu roy de 
                         Navarre, de</seg>
-                    <seg rend="13,166,12,133,113,128,153,117,185,108,264,112,310,102,323,112,378,105,434,106,478,108,476,134,396,138,360,130,280,141,253,136,129,147,60,169,13,165" n="poly">Champaigne 
-                        <expan>et</expan> de Brie conte palazin, <expan>et</expan> de ses hoirs ; </seg>
-                    <seg rend="481,134,482,108,531,116,546,109,623,117,744,120,788,117,812,127,826,119,869,131,904,124,957,128,957,154,903,152,883,159,855,147,843,148,800,146,754,140,702,146,676,147,651,142,618,146,584,142,558,140,545,135,517,141,482,135" n="poly"><expan>et</expan> ces 
+                    <seg rend="13,166,12,133,113,128,153,117,185,108,264,112,310,102,323,112,378,105,434,106,478,108,476,134,396,138,360,130,280,141,253,136,129,147,60,169,13,165" n="poly">Champaigne  <ex>et</ex> de Brie conte palazin, <ex>et</ex> de ses hoirs ; </seg>
+                    <seg rend="481,134,482,108,531,116,546,109,623,117,744,120,788,117,812,127,826,119,869,131,904,124,957,128,957,154,903,152,883,159,855,147,843,148,800,146,754,140,702,146,676,147,651,142,618,146,584,142,558,140,545,135,517,141,482,135" n="poly"><ex>et</ex> ces 
                         choses sus je tenuz a faire valoir deus cens liveres</seg>
                     <seg rend="8,169,10,201,86,198,165,186,181,183,181,150,108,161,59,173,9,168" n="poly">de tornois au moins. </seg>
-                    <seg rend="185,150,259,142,284,146,311,143,366,136,398,143,478,139,519,146,544,139,563,144,622,150,650,145,679,151,754,143,851,152,882,161,964,158,963,181,903,180,858,185,827,171,798,172,783,177,758,170,698,170,627,174,554,172,519,170,392,166,279,174,244,178,186,186" n="poly"><expan>Et</expan> se 
+                    <seg rend="185,150,259,142,284,146,311,143,366,136,398,143,478,139,519,146,544,139,563,144,622,150,650,145,679,151,754,143,851,152,882,161,964,158,963,181,903,180,858,185,827,171,798,172,783,177,758,170,698,170,627,174,554,172,519,170,392,166,279,174,244,178,186,186" n="poly"><ex>Et</ex> se 
                         nuns i demandoit {fié} ne autre redevance, je li suz tenus a garentir come de franc aloy contre touz</seg>
                     <seg rend="13,211,94,202,311,178,313,206,262,209,42,239,12,239" n="poly">çaus qui a droit en voroient venir. </seg>
-                    <seg rend="316,179,385,172,636,179,758,175,787,182,823,174,860,190,964,186,961,209,903,209,854,215,720,207,665,208,568,208,537,201,509,209,397,201,318,208" n="poly"><expan>Et</expan> a 
-                        ces choses tenir <expan>et</expan> assevir si come eles sunt dites desus, oblige je moy <expan>et</expan> mes</seg>
-                    <seg rend="11,246,282,212,361,210,404,205,512,212,546,207,570,211,620,211,684,212,680,239,635,239,576,242,533,235,504,242,480,236,453,246,381,239,299,244,233,254,186,258,117,264,84,264,27,274,12,269" n="poly">hoirs <expan>et</expan> 
-                        tous mes [mes] biens moubles et nu<expan>n</expan> mobles en quecunque leu que il soient </seg>
-                    <seg rend="689,213,861,220,946,211,967,212,965,236,925,235,882,244,874,233,851,242,786,247,709,250,687,240" n="poly"><expan>et</expan> pri <expan>et</expan> requier mon seignor le</seg>
+                    <seg rend="316,179,385,172,636,179,758,175,787,182,823,174,860,190,964,186,961,209,903,209,854,215,720,207,665,208,568,208,537,201,509,209,397,201,318,208" n="poly"><ex>Et</ex> a 
+                        ces choses tenir <ex>et</ex> assevir si come eles sunt dites desus, oblige je moy <ex>et</ex> mes</seg>
+                    <seg rend="11,246,282,212,361,210,404,205,512,212,546,207,570,211,620,211,684,212,680,239,635,239,576,242,533,235,504,242,480,236,453,246,381,239,299,244,233,254,186,258,117,264,84,264,27,274,12,269" n="poly">hoirs <ex>et</ex> 
+                        tous mes [mes] biens moubles et nu<ex>n</ex> mobles en quecunque leu que il soient </seg>
+                    <seg rend="689,213,861,220,946,211,967,212,965,236,925,235,882,244,874,233,851,242,786,247,709,250,687,240" n="poly"><ex>et</ex> pri <ex>et</ex> requier mon seignor le</seg>
                     <seg rend="7,281,46,275,84,267,189,265,190,283,162,297,10,311" n="poly">duc de Bergoyne que, </seg>
                     <seg rend="195,266,300,250,453,250,499,244,528,245,592,246,656,242,710,254,860,243,873,240,879,248,970,242,969,272,928,273,896,277,835,269,819,279,781,272,707,275,681,273,672,274,615,272,506,273,452,271,392,284,302,282,191,293" n="poly">se 
                         je ou men hoir veniens encontre les devantdites choses outre aucune, que il les feist te-</seg>
-                    <seg rend="11,318,207,295,209,330,161,327,142,334,76,338,12,342" n="poly">-nir moy <expan>et</expan> mes hoirs. </seg>
-                    <seg rend="211,295,398,287,471,276,534,275,661,276,694,276,782,277,821,283,833,274,901,281,967,278,968,305,911,303,892,302,885,313,877,313,836,302,815,311,780,304,731,309,691,308,675,302,658,302,648,310,629,304,548,309,457,306,429,310,391,313,358,315,273,317,242,327,212,325" n="poly"><expan>Et</expan> aprés moi ciez qui sera sires de Tile Chastial il doit estre hons audit roy de Navarre</seg>
-                    <seg rend="18,349,114,340,181,333,242,335,283,327,282,355,222,358,203,366,152,370,106,375,18,382" n="poly"><expan>et</expan> ses hoirs dou fié desus nomé ; </seg>
-                    <seg rend="287,323,488,313,545,313,630,309,653,316,672,304,693,314,782,309,818,314,836,307,886,317,898,305,964,314,964,343,902,341,854,337,825,331,765,339,638,333,532,345,468,339,403,348,288,355" n="poly"><expan>et</expan> dou 
+                    <seg rend="11,318,207,295,209,330,161,327,142,334,76,338,12,342" n="poly">-nir moy <ex>et</ex> mes hoirs. </seg>
+                    <seg rend="211,295,398,287,471,276,534,275,661,276,694,276,782,277,821,283,833,274,901,281,967,278,968,305,911,303,892,302,885,313,877,313,836,302,815,311,780,304,731,309,691,308,675,302,658,302,648,310,629,304,548,309,457,306,429,310,391,313,358,315,273,317,242,327,212,325" n="poly"><ex>Et</ex> aprés moi ciez qui sera sires de Tile Chastial il doit estre hons audit roy de Navarre</seg>
+                    <seg rend="18,349,114,340,181,333,242,335,283,327,282,355,222,358,203,366,152,370,106,375,18,382" n="poly"><ex>et</ex> ses hoirs dou fié desus nomé ; </seg>
+                    <seg rend="287,323,488,313,545,313,630,309,653,316,672,304,693,314,782,309,818,314,836,307,886,317,898,305,964,314,964,343,902,341,854,337,825,331,765,339,638,333,532,345,468,339,403,348,288,355" n="poly"><ex>et</ex> dou 
                         fié que je tien dudit Jehan, conte de Bergoyne et seignor de Salyns, je</seg>
                     <seg rend="19,395,192,371,317,358,319,388,284,397,182,407,148,414,127,411,113,418,17,427" n="poly">ne cil qui sera sires de Tile Chastial </seg>
                     <seg rend="323,360,500,347,539,352,667,338,755,342,883,344,897,345,956,347,956,365,916,366,902,369,807,369,737,372,718,366,654,367,598,375,493,376,464,377,430,379,415,389,383,383,348,394,322,386" n="poly">ne 
                         puet estre hons devant la feauté ledit roy de Navarre a hoir</seg>
                     <seg rend="26,431,115,423,137,417,153,420,295,400,327,393,353,399,393,389,420,394,436,382,535,380,532,403,506,404,491,414,454,417,397,414,262,430,228,443,212,435,168,443,140,448,122,453,101,454,25,465" n="poly">que 
                         lidis Jehans ait qui teine le conté de Bergoyne. </seg>
-                    <seg rend="540,381,717,371,742,378,912,373,924,369,933,369,958,371,955,396,902,401,863,397,820,400,797,406,758,403,710,400,617,409,574,402,564,413,540,404" n="poly"><expan>Et</expan> 
-                        por ce que ceste chose soit ferme <expan>et</expan> estable,</seg>
+                    <seg rend="540,381,717,371,742,378,912,373,924,369,933,369,958,371,955,396,902,401,863,397,820,400,797,406,758,403,710,400,617,409,574,402,564,413,540,404" n="poly"><ex>Et</ex> 
+                        por ce que ceste chose soit ferme <ex>et</ex> estable,</seg>
                     <seg rend="26,476,209,444,235,449,287,432,338,429,339,460,327,466,271,470,177,481,112,497,26,504" n="poly">je ai mis mon saeel en ces letres, </seg>
                     <seg rend="343,431,493,419,514,408,538,411,569,417,575,405,628,414,704,406,778,409,823,407,879,402,905,404,959,405,961,435,620,436,467,452,424,454,405,450,347,465" n="poly">qui 
-                        su<expan>n</expan>t faites en l’an de l’Ancarnacion nostre Signor mil <expan>et</expan> deus</seg>
-                    <seg rend="30,513,251,480,252,509,71,537,29,534" n="poly">cens <expan>et</expan> seixante <expan>et</expan> cinc, </seg>
+                        su<ex>n</ex>t faites en l’an de l’Ancarnacion nostre Signor mil <ex>et</ex> deus</seg>
+                    <seg rend="30,513,251,480,252,509,71,537,29,534" n="poly">cens <ex>et</ex> seixante <ex>et</ex> cinc, </seg>
                     <seg rend="260,479,340,469,390,462,416,455,429,459,460,460,461,495,372,500,262,509" n="poly">ou mois de setenbre.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="remarque">
@@ -125,16 +124,16 @@
             
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Commentaire diplomatique</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="94/faxexterne.jpg"/>
-                        </p>
+                       </p>
                 <p>Établi au nom du seigneur et validé de son sceau, par un rédacteur parfaitement transparent (un chapelain, un
                     écrivain public, un clerc du comte de Champagne ?), l’acte est rapide, peu soucieux de décorum (les lignes
                     n’ont pas été préparées), insensible à la présence de corrections (un mot ajouté à la relecture car
-                    manifestement omis, <hi rend="italic">fié</hi>, l. 5 ; une répétition non relevée, <hi rend="italic">mes
+                    manifestement omis, <hi rend="i">fié</hi>, l. 5 ; une répétition non relevée, <hi rend="i">mes
                     mes</hi>, l. 7). L’écriture, presque hâtive mais non cursive, est comme toujours en français avare
                     d’abréviations. Le discours est structuré, les périodes assez longues, encore que la dernière clause (que nous
                     ne sommes pas certains de bien comprendre) ait manifestement l’apparence d’un ajout après les clauses plus
@@ -143,7 +142,7 @@
                 <p>Si le discours peut sembler difficile à pénétrer, c’est moins la faute du rédacteur et des protagonistes que de
                     la distance qui nous sépare de la transaction et de ses ressorts juridiques et sociaux, clairs pour eux,
                     maîtrisés et fonctionnels dans leur formulation : les titres, la qualification des biens concernés (les
-                    possessions de Jean à Gémeaux sont soit des fiefs tenus de lui, soit des <hi rend="italic">demeneures</hi>, «
+                    possessions de Jean à Gémeaux sont soit des fiefs tenus de lui, soit des <hi rend="i">demeneures</hi>, «
                     domaines » qu’il exploite en faire-valoir direct ou qu’il fait exploiter à cens ou à ferme), la qualification
                     des droits et devoirs féodaux sont précisément évalués et cités.</p>
                 <p>La complexité des liens, voulue par la procédure de « reprise en fief » d’un alleu, accrue dans cette zone de

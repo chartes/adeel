@@ -17,7 +17,7 @@
       <publicationStmt>
 	<idno type="numero">101</idno>
 	<publisher>École nationale des Chartes</publisher>
-	<date when-iso="2008-02">février 2008</date>
+	<date when="2008-02">février 2008</date>
       </publicationStmt>
       <sourceDesc>
 	<msDesc>
@@ -517,7 +517,7 @@
       </div>
       <div type="transcription">
 	<div type="texte">
-	  <p> Circa prologum libri sentenciarum quero primo<lb/> utrum de objecto per
+	  <p>Circa prologum libri sentenciarum quero primo<lb/> utrum de objecto per
 	  theologicum discursum<lb/> notitia proprie scientifica acquiratur. <lb/> Et
 	  arguo primo quod sic : <lb/> nam per theologicum discursum acquiritur <lb/>
 	  notitia superior fide,<lb/> ergo notitia scientifica. <lb/> Tenet
@@ -626,7 +626,7 @@
 	</p>
       </div>
       <div type="traduction">
-	<p> À propos du prologue du livre des Sentences, je recherche premièrement<lb/>
+	<p>À propos du prologue du livre des Sentences, je recherche premièrement<lb/>
 	si grâce au discours théologique<lb/> on acquiert une connaissance
 	proprement scientifique de l’objet.<lb/> Et j’avance premièrement que oui :
 	<lb/> en effet par le discours théologique on acquiert<lb/> une connaissance
@@ -752,14 +752,14 @@
 	en acte la conclusion de sa démonstration.<lb/> Cela est clair, mais on peut
 	prouver que le conséquent est faux<lb/> par expérience. Car le plus
 	souvent…<lb/>
-      </p>
+     </p>
     </div>
   </div>
   <div type="commentaire" n="paleographie">
     <head>Commentaire paléographique</head>
-    <div n="1">
+    <div>
       <head>Aspect général</head>
-      <div type="contenu_commentaire">
+      <div>
 	<p>Il s’agit d’une écriture gothique cursive et régulière, caractérisée par
 	deux traits principaux : <lb/>
 	<list type="simple">
@@ -773,9 +773,9 @@
 	</p>
       </div>
     </div>
-    <div n="2">
+    <div>
       <head>Formes individuelles à remarquer</head>
-      <div type="contenu_commentaire">
+      <div>
 	<p>Parmi les formes qui attestent la cursivité de l’écriture, on peut
 	relever : <lb/>
 	<list>
@@ -810,21 +810,21 @@
 	</p>
       </div>
     </div>
-    <div n="3">
+    <div>
       <head>Abréviations</head>
-      <div type="contenu_commentaire">
-	<p> Le système abréviatif présente les formes classiques :
+      <div>
+	<p>Le système abréviatif présente les formes classiques :
 	tildes pour les nasales ; les abréviations sur –<hi
 	rend="bold">p</hi> et sur –<hi rend="bold">q</hi> ; lettres
 	suscrites pour les conjonctions ; terminaisons en –<hi
-	rend="bold">b(us)</hi> et –<hi rend="bold" >or(um)</hi>,
+	rend="bold">b(us)</hi> et –<hi rend="bold">or(um)</hi>,
 	signes conventionnels pour –<hi rend="bold">et</hi>, -<hi
 	rend="bold">ur</hi>, -<hi rend="bold">re</hi> et -<hi
-	rend="bold" >us</hi>. La conjonction <hi rend="bold">et</hi>
+	rend="bold">us</hi>. La conjonction <hi rend="bold">et</hi>
 	est régulièrement remplacée par la note tironienne. Les
 	références et les divisions sont marquées par des chiffres
 	arabes, parmi lesquels on peut noter le 4 sous la forme d’une
-	boucle. </p>
+	boucle.</p>
 	<p>La page offre également de nombreuses abréviations par contraction et
 	  suspension qui sont typiques d’un texte scolaire au vocabulaire
 	  technique très riche. On remarquera plus particulièrement les
@@ -834,16 +834,16 @@
 	  impo(ssibi)le, o(ppositu)m, ob(ject)um, p(ri)n(cipaliter),
 	  p(ro)p(ositi)o, p(robatu)r, s(ignifica)tu(m), s(imilite)r,
 	  s(u)b-(je)c(tu)m, si(llogis)m(us), theo(logi)a et ses composés,
-	u(niversa)lis. </p>
-	<p> Quelques abréviations par suspension, moins nombreuses, sont également
+	u(niversa)lis.</p>
+	<p>Quelques abréviations par suspension, moins nombreuses, sont également
 	notables : a(pparet), c(apitulo), T(rinitate), huj(usmodi), p(atet),
-	p(reterea), s(cilicet), se-(queretur), se(quitur), sig(nificatur). </p>
+	p(reterea), s(cilicet), se-(queretur), se(quitur), sig(nificatur).</p>
       </div>
     </div>
-    <div n="4">
+    <div>
       <head>Structuration</head>
-      <div type="contenu_commentaire">
-	<p> Sauf rares exceptions pour quelques prépositions, les mots sont
+      <div>
+	<p>Sauf rares exceptions pour quelques prépositions, les mots sont
 	correctement séparés les uns des autres. Le copiste a revu son travail
 	de diverses manières : par grattage à la fin de la ligne 23a (pour
 	corriger la terminaison de <hi rend="bold">pollent</hi>) ou par
@@ -851,7 +851,7 @@
 	marge), 35a (<hi rend="bold">pollet</hi> devient <hi rend="bold"
 	>pollent</hi>) ou 40a (<hi rend="bold">non</hi> avec signe de renvoi).
 	En fin de ligne, la coupure des mots est indiquée par un trait. Le point
-	(<hi rend="italic">punctus</hi>) est utilisé pour séparer les
+	(<hi rend="i">punctus</hi>) est utilisé pour séparer les
 	propositions et les références aux autorités citées (titre, numéros de
 	livre et de chapitre). Sur cette page de grandes dimensions (320 x 240
 	mm), le texte est copié sur deux colonnes (225 x 170 mm) délimitées par
@@ -859,7 +859,7 @@
 	initiale historiée <hi rend="bold">C</hi> (45 x 40 mm) représentant
 	Grégoire de Rimini en chaire faisant cours à trois frères augustins
 	assis à ses pieds. Les trois premières lignes du prologue sont également
-	mises en valeur par l’emploi d’une écriture de gros module. </p>
+	mises en valeur par l’emploi d’une écriture de gros module.</p>
 	<p>La lecture du texte est facilitée par deux moyens : <lb/>
 	<list type="simple">
 	  <item> des pieds de mouche alternativement bleu et rouge soulignent
@@ -876,62 +876,62 @@
       </div>
     </div>
   </div>
-  <div type="commentaire" n="histoire">
+  <div type="history">
     <head>Commentaire historique</head>
-    <div n="1">
+    <div>
       <head>Le genre du commentaire des Sentences</head>
-      <div type="contenu_commentaire">
-	<p> Le commentaire de Grégoire de Rimini sur les Sentences
+      <div>
+	<p>Le commentaire de Grégoire de Rimini sur les Sentences
 	s’inscrit dans une tradition qui, à l’université de Paris, est
 	déjà longue de plus d’un siècle. Elle s’enracine dans le <hi
-	rend="italic">Livre des sentences</hi> (<hi
-	rend="italic">Liber sententiarum</hi>), œuvre célèbre de <term
-	n="1" xml:id="a-note-2" >Pierre Lombard</term> (✝
+	rend="i">Livre des sentences</hi> (<hi
+	rend="i">Liber sententiarum</hi>), œuvre célèbre de <term
+	n="1" xml:id="a-note-2">Pierre Lombard</term> (✝
 	1160). Compilation de textes patristiques disposés en quatre
 	livres, cet ouvrage est également une synthèse sur la
 	théologie scolastique du milieu du XII<hi
 	rend="exposant">e</hi> siècle.  Après les querelles de la
-	seconde moitié du XII<hi rend="exposant">e</hi> siècle,
+	seconde moitié du XII<hi rend="sup">e</hi> siècle,
 	l’autorité de l’œuvre est reconnue lors du concile de Latran
-	IV (1215). Au cours du XIII<hi rend="exposant">e</hi> siècle,
-	le <hi rend="italic">Livre des sentences</hi> devient ainsi
+	IV (1215). Au cours du XIII<hi rend="sup">e</hi> siècle,
+	le <hi rend="i">Livre des sentences</hi> devient ainsi
 	une étape obligée du cursus universitaire des
 	théologiens. Tout étudiant en théologie doit alors commenter
 	ce manuel pour devenir maître. La tradition commentatrice, qui
 	se poursuit en certains cas jusqu’au XVII<hi
 	rend="exposant">e</hi> siècle, quitte rapidement et de manière
 	durable le terrain de l’explication littérale. Chez les
-	auteurs du XIII<hi rend="exposant">e</hi> siècle comme <term
-	n="2" xml:id="a-note-3" >Alexandre de Halès</term>, <term
-	n="3" xml:id="a-note-4" >Bonaventure</term> <!-- le "ou" dans
+	auteurs du XIII<hi rend="sup">e</hi> siècle comme <term
+	n="2" xml:id="a-note-3">Alexandre de Halès</term>, <term
+	n="3" xml:id="a-note-4">Bonaventure</term> <!-- le "ou" dans
 	le texte est en gras, signe qu&#8217;il est englobé dans une balise
 	term. Cela ne semble pas nécessaire et surtout, le "ou" en
 	question n"apparaît sur aucune note : je l&#8217;exclus par
-	conséquent -->ou <term n="4" xml:id="a-note-5" >Thomas
+	conséquent -->ou <term xml:id="a-note-5">Thomas
 	d’Aquin</term>, le commentaire des Sentences est l’occasion de
 	développements de théologie spéculative auxquels le texte de
-	Pierre Lombard ne fournit qu’un point de départ lointain. </p>
+	Pierre Lombard ne fournit qu’un point de départ lointain.</p>
 	<p rend="notes">
-	  <note target="#a-note-2" type="footnote" n="1">D’origine
+	  <note target="#a-note-2" type="footnote">D’origine
 	  italienne, Pierre Lombard (✝ 1160) est l’auteur de
 	  commentaires sur les Psaumes et les épîtres pauliniennes. On
 	  lui doit aussi le Livre des Sentences, manuel de théologie à
 	  partir du XIIIe siècle. Il devient évêque de Paris en 1159.
 	  </note>
-	  <note target="#a-note-3" type="footnote" n="2">Franciscain
+	  <note target="#a-note-3" type="footnote">Franciscain
 	  anglais, Alexandre de Halès (? 1245) étudie et enseigne à
 	  Paris où il s&#8217;illustre comme maître en théologie. On lui
 	  attribue le premier commentaire continue des Sentences de
 	  Pierre Lombard.
 	  </note>
-	  <note target="#a-note-4" type="footnote" n="3">
+	  <note target="#a-note-4" type="footnote">
 	    Franciscain originaire d’Italie, Bonaventure (1221-1274)
 	    enseigne à Paris avant de devenir général de son ordre en
 	    1256. Cardinal en 1273, il est légat au concile de Lyon
 	    (1274). Son œuvre abondante s’inscrit dans la lignée
 	    augustinienne.
 	  </note>
-	  <note target="#a-note-5" type="footnote" n="4">
+	  <note target="#a-note-5" type="footnote">
 	    Dominicain originaire d’Italie, Thomas d’Aquin (1224-1274)
 	    consacre une bonne part de sa vie à l’enseignement de la
 	    théologie à Paris, auprès de la curie romaine et à
@@ -942,12 +942,12 @@
 	</p>
       </div>
     </div>
-    <div n="2">
+    <div>
       <head>Le commentaire de Grégoire de Rimini</head>
-      <div type="contenu_commentaire">
-	<p> Le commentaire de Grégoire s’inscrit dans la lignée des
-	grands commentaires du XIII<hi rend="exposant">e</hi>
-	siècle. Il est l’œuvre d’un <term n="1" type="footnote"
+      <div>
+	<p>Le commentaire de Grégoire s’inscrit dans la lignée des
+	grands commentaires du XIII<hi rend="sup">e</hi>
+	siècle. Il est l’œuvre d’un <term type="footnote"
 	xml:id="a-note-6">ermite de Saint-Augustin</term> né vers
 	1300 à Rimini. Après des études effectuées à Paris de 1323 à
 	1329, Grégoire enseigne la théologie successivement à Bologne,
@@ -957,10 +957,10 @@
 	Rimini est professeur à Padoue (1347) puis à Rimini (1351),
 	avant de devenir en 1357 supérieur général de son
 	ordre. Auréolé d’une réputation flatteuse pour ses mœurs et
-	son savoir, le <hi rend="italic">doctor authenticus</hi> meurt
+	son savoir, le <hi rend="i">doctor authenticus</hi> meurt
 	en 1358 et laisse une œuvre que domine son commentaire sur les
-	Sentences. </p>
-	<p> On ne conserve que les deux premiers livres de son imposant commentaire
+	Sentences.</p>
+	<p>On ne conserve que les deux premiers livres de son imposant commentaire
 	connu par 40 manuscrits partiels ou complets. L’œuvre se signale par sa
 	fidélité à la pensée d’Augustin dont il reprend les opinions les plus
 	dures, notamment celle sur la peine sensible des enfants morts sans
@@ -968,7 +968,7 @@
 	certaines des thèses d’Ockham et en change profondément la perspective.
 	</p>
 	<p rend="notes">
-	<note target="#a-note-6" type="footnote" n="1">
+	<note target="#a-note-6" type="footnote">
 	  Sous ce nom, Alexandre IV réunit en 1256 diverses
 	  congrégations d&#8217;ermites vivant selon les directives de saint
 	  Augustin. Ce nouvel ordre mendiant est approuvé
@@ -977,11 +977,11 @@
 	</p>
       </div>
     </div>
-    <div n="3">
+    <div>
       <head>Le prologue du commentaire</head>
-      <div type="contenu_commentaire">
-	<p> Les fortes nuances qu’apporte Grégoire de Rimini au
-	nominalisme d’<term rend="bold" xml:id="a-note-1" n="1">
+      <div>
+	<p>Les fortes nuances qu’apporte Grégoire de Rimini au
+	nominalisme d’<term rend="bold" xml:id="a-note-1">
 	Ockham</term> se perçoivent nettement dans le prologue de son
 	commentaire. Dans la première question, Grégoire pose la
 	question alors classique du statut scientifique de la
@@ -994,8 +994,8 @@
 	d’arguments, Grégoire indique que le discours scientifique
 	implique l’utilisation du syllogisme. Or, la théologie ne
 	saurait faire du syllogisme qu’un usage imparfait, puisqu’elle
-	se base sur des prémisses de foi. </p>
-	<p> Pour savoir à quel genre de connaissance parvient la théologie, il est
+	se base sur des prémisses de foi.</p>
+	<p>Pour savoir à quel genre de connaissance parvient la théologie, il est
 	donc nécessaire de clarifier ce qu’on entend par objet scientifique,
 	discours théologique et science. Dans le premier article, Grégoire de
 	Rimini s’efforce de déterminer ce qu’est un objet scientifique. Pour ce
@@ -1007,9 +1007,9 @@
 	Tout en refusant que la réalité extérieure soit l’objet de la science,
 	Grégoire propose une solution mesurée. Pour lui, l’objet scientifique
 	est ce qui signifié par la conclusion et non la proposition conclusive
-	elle-même. </p>
+	elle-même.</p>
 	<p rend="notes">
-	  <note target="#a-note-1" type="footnote" n="1">Franciscain
+	  <note target="#a-note-1" type="footnote">Franciscain
 	  anglais en conflit avec la papauté, Guillaume d’Ockham (✝
 	  1349) est un des principaux représentants médiévaux du
 	  nominalisme. Pour cette doctrine aux formes multiples, il
@@ -1019,9 +1019,9 @@
 	</p>
       </div>
     </div>
-    <div n="4">
+    <div>
       <head>Pour approfondir</head>
-      <div type="contenu_commentaire">
+      <div>
 	<listBibl>
 	  <bibl>
 	    <author>Aubert (R.)</author>, « Grégoire de Rimini », dans

@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
-
 <TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Cassiodore, les <hi rend="italic">Institutions</hi></title>
+                <title type="main">Cassiodore, les <hi rend="i">Institutions</hi></title>
                 <!--  <title type="sub">La nouvelle culture chrétienne : Cassiodore dans la préface définit la nouvelle culture
                     monastique unissant savoirs profanes et science sacrée.</title> -->
                 <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
@@ -23,7 +20,7 @@
             <publicationStmt>
                 <idno type="numero">98</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-12">décembre 2008</date>
+                <date when="2008-12">décembre 2008</date>
             </publicationStmt>
             <sourceDesc>
                 <!-- <msDesc>
@@ -33,7 +30,7 @@
                         <idno type="numero">660, 75r</idno>
                     </msIdentifier>
                     </msDesc> -->
-                <p>Paris, Bibliothèque Mazarine, 660, 75r<hi rend="exposant">o</hi></p>
+                <p>Paris, Bibliothèque Mazarine, 660, 75r<hi rend="sup">o</hi></p>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -47,21 +44,21 @@
         <body>
             <div type="facsimile" rend="fax.jpg">
                 <p>
-                    <seg rend="223,32,555,38,554,71,367,65,359,72,306,72,275,70,222,63,222,64" n="poly">Incip<expan>it</expan> prefatio Cassiodori.</seg>
+                    <seg rend="223,32,555,38,554,71,367,65,359,72,306,72,275,70,222,63,222,64" n="poly">Incip<ex>it</ex> prefatio Cassiodori.</seg>
                     <seg
                         rend="228,99,226,149,234,164,195,215,165,245,99,246,37,218,10,169,11,96,32,39,82,7,139,4,164,6,180,21,223,73,374,76,379,70,508,72,541,84,538,105"
                         n="poly">Cum studia saecula-</seg>
                     <seg rend="236,104,564,108,563,138,502,137,490,141,479,135,235,130" n="poly">–rium litterarum magno de-</seg>
                     <seg rend="244,134,477,139,491,143,506,140,547,140,546,168,445,168,336,164,327,170,244,162" n="poly">–siderio
-                        fervere cognoscere<expan>m</expan>,</seg>
+                        fervere cognoscere<ex>m</ex>,</seg>
                     <seg rend="238,171,339,173,349,168,455,170,555,174,555,200,396,199,387,207,380,198,237,195" n="poly">ita ut
                         multa pars hominum</seg>
                     <seg rend="217,199,376,202,390,210,538,203,538,233,427,229,415,236,337,229,247,234,222,234,216,225" n="poly"
-                            >p<expan>er</expan> ipsam <expan>sic</expan> se mundi prudentia<expan>m</expan></seg>
+                            >p<ex>er</ex> ipsam <ex>sic</ex> se mundi prudentia<ex>m</ex></seg>
                     <seg rend="8,233,8,260,232,260,279,269,350,265,525,269,552,263,552,240,192,237,169,250,93,250,41,228" n="poly"
                         >crederet adipisci, gravissimo sum fa-</seg>
                     <seg rend="8,264,213,264,211,294,144,294,124,300,58,290,8,291" n="poly">–teor dolore
-                        p<expan>er</expan>motus,</seg>
+                        p<ex>er</ex>motus,</seg>
                     <seg rend="217,265,283,273,559,273,556,303,536,305,500,300,490,294,301,295,288,301,215,293" n="poly">ut
                         scripturis divinis magistri</seg>
                     <seg rend="8,295,50,294,126,303,173,301,173,324,65,323,49,326,8,327" n="poly">publici deessent,</seg>
@@ -72,13 +69,13 @@
                     <seg rend="417,333,417,363,532,360,532,334" n="poly">nisus sum</seg>
                     <seg rend="8,362,46,360,327,365,370,363,466,368,465,397,362,393,302,399,269,398,244,392,216,398,182,397,8,391"
                         n="poly">cum beatissimo Agapito papa urbis Rome,</seg>
-                    <seg rend="473,367,540,365,538,396,473,394" n="poly">ut sic<expan>ut</expan></seg>
+                    <seg rend="473,367,540,365,538,396,473,394" n="poly">ut sic<ex>ut</ex></seg>
                     <seg rend="8,397,240,403,252,398,299,404,364,398,383,399,382,428,340,426,324,434,296,427,31,425,18,430,8,427"
                         n="poly">apud Alexandriam multo tempore</seg>
                     <seg rend="387,399,565,402,563,428,384,429" n="poly">fuisse traditur</seg>
                     <seg rend="7,433,23,433,33,428,116,430,116,458,7,454" n="poly">institutum,</seg>
                     <seg rend="120,429,299,431,323,439,343,429,551,432,550,460,486,458,468,470,463,458,160,458,124,463,120,456"
-                        n="poly">nunc etiam in Nisibi civitate Syroru<expan>m</expan></seg>
+                        n="poly">nunc etiam in Nisibi civitate Syroru<ex>m</ex></seg>
                     <seg
                         rend="8,457,118,464,121,469,134,464,189,461,316,462,315,495,272,492,260,499,239,490,181,495,158,494,45,494,31,487,8,487"
                         n="poly">Hebreis sedulo fertur exponi,</seg>
@@ -88,19 +85,18 @@
                     <seg
                         rend="169,501,232,493,257,502,276,496,401,498,412,503,421,502,428,495,459,498,565,500,565,527,493,526,488,536,473,525,217,527,172,530,168,522"
                         n="poly">professos doctores schole potius</seg>
-                    <seg rend="8,525,166,527,171,534,227,532,227,559,154,561,123,558,58,554,46,562,8,551" n="poly">acciperent
-                            <expan>christ</expan>iane,</seg>
+                    <seg rend="8,525,166,527,171,534,227,532,227,559,154,561,123,558,58,554,46,562,8,551" n="poly">acciperent <ex>christ</ex>iane,</seg>
                     <seg rend="230,532,469,530,487,540,499,532,552,534,550,558,488,557,478,565,475,556,230,560" n="poly">unde et
                         anima susciperet</seg>
-                    <seg rend="8,562,33,560,40,566,52,566,58,559,185,564,184,592,7,588" n="poly">aet<expan>er</expan>nam
+                    <seg rend="8,562,33,560,40,566,52,566,58,559,185,564,184,592,7,588" n="poly">aet<ex>er</ex>nam
                         salutem</seg>
                     <seg
                         rend="192,565,473,562,477,568,490,562,550,564,549,594,511,592,498,601,493,590,348,589,334,596,318,599,301,590,191,591"
-                        n="poly">et casto atq<expan>ue</expan> purissimo eloquio</seg>
+                        n="poly">et casto atq<ex>ue</ex> purissimo eloquio</seg>
                     <seg rend="5,592,300,595,299,626,6,624" n="poly">fidelium lingua comeretur.</seg>
                     <seg
                         rend="303,599,327,602,356,592,487,594,499,605,514,598,562,598,562,631,486,625,481,634,468,624,416,627,402,640,390,631,346,625,302,626"
-                        n="poly">Sed cum p<expan>er</expan> bella ferven-</seg>
+                        n="poly">Sed cum p<ex>er</ex> bella ferven-</seg>
                     <seg rend="6,629,32,629,32,654,6,654" n="poly">–tia</seg>
                     <seg
                         rend="36,630,97,628,363,632,401,641,407,640,417,630,467,629,480,637,485,632,550,636,548,659,479,657,403,661,336,664,316,657,35,655"
@@ -109,19 +105,19 @@
                     <seg
                         rend="40,661,310,662,340,668,414,662,538,662,565,667,563,702,550,700,519,697,487,689,136,685,116,688,108,698,105,687,40,684"
                         n="poly">desiderium meum nullatenus valuisset impleri, </seg>
-                    <seg rend="6,688,96,690,108,701,118,692,121,691,222,690,222,719,7,720" n="poly">q<expan>uonia</expan>m non
+                    <seg rend="6,688,96,690,108,701,118,692,121,691,222,690,222,719,7,720" n="poly">q<ex>uonia</ex>m non
                         habet locum</seg>
                     <seg rend="226,691,481,693,546,704,546,723,491,729,428,720,413,729,385,724,268,724,226,719" n="poly">res pacis
-                            temporib<expan>us</expan> inquie-</seg>
+                            temporib<ex>us</ex> inquie-</seg>
                     <seg rend="8,724,37,724,36,747,7,745" n="poly">–tis,</seg>
                     <seg
                         rend="40,723,253,727,362,729,372,726,414,732,427,724,492,733,542,727,542,753,502,759,493,750,328,756,39,749"
                         n="poly">ad hoc divina caritate probor esse conpul-</seg>
                     <seg rend="7,751,267,758,269,786,245,795,215,791,175,784,7,781" n="poly">–sus ut ad vicem magistri</seg>
                     <seg rend="272,759,487,756,502,763,560,757,558,790,528,793,437,786,407,797,400,785,271,785" n="poly"
-                        >introductorios vob<expan>is</expan> libros</seg>
+                        >introductorios vob<ex>is</ex> libros</seg>
                     <seg rend="7,785,178,789,246,799,278,787,366,789,366,821,116,817,105,825,93,818,6,811" n="poly">istos
-                            D<expan>omi</expan>no prestante conficerem,</seg>
+                            D<ex>omi</ex>no prestante conficerem,</seg>
                     <seg rend="373,790,398,789,405,801,437,792,547,797,547,822,450,818,438,827,409,817,386,829,373,820" n="poly"
                         >per quos sicut</seg>
                     <seg rend="7,818,72,821,69,854,7,843" n="poly">estimo</seg>
@@ -131,16 +127,16 @@
                     <seg
                         rend="6,851,30,850,108,855,119,867,142,857,412,855,431,863,448,854,484,855,484,883,462,884,414,878,315,881,300,888,112,886,63,882,47,891,7,871"
                         n="poly">–cularium litterarum compendiosa notitia</seg>
-                    <seg rend="488,856,540,857,537,885,489,883" n="poly">D<expan>omi</expan>ni</seg>
+                    <seg rend="488,856,540,857,537,885,489,883" n="poly">D<ex>omi</ex>ni</seg>
                     <seg rend="8,883,47,896,66,886,259,892,258,919,107,923,7,909" n="poly">munere panderetur,</seg>
                     <seg rend="269,892,268,920,479,921,566,920,566,888,407,886,394,883,316,886,301,891" n="poly">minus fortasse
                         dissertos…</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> Incipit prefatio Cassiodori.<lb/> Cum studia saecularium litterarum<lb/> magno desiderio fervere
-                        cognoscerem,<lb/> ita ut multa pars hominum<lb/> per ipsa (<hi rend="italic">ms</hi> : ipsam) se mundi
+                    <p>Incipit prefatio Cassiodori.<lb/> Cum studia saecularium litterarum<lb/> magno desiderio fervere
+                        cognoscerem,<lb/> ita ut multa pars hominum<lb/> per ipsa (<hi rend="i">ms</hi> : ipsam) se mundi
                         prudentiam crederet adipisci, <lb/> gravissimo sum fateor dolore permotus, <lb/> ut scripturis divinis
                         magistri publici deessent, <lb/> cum mundani auctores celeberrima proculdubio traditione pollerent.<lb/>
                         Nisus sum cum beatissimo <term n="Agapet : pape de 535-536, il est mort à Constantinople, alors qu’il
@@ -164,10 +160,10 @@
                             <term n="la préface est adressée aux moines de Vivarium.">vobis</term> libros istos <lb/> Domino
                         prestante conficerem, <lb/> per quos, sicut estimo, <lb/> et scripturarum divinarum series<lb/> et
                         saecularium litterarum compendiosa notitia <lb/> Domini munere panderetur, minus fortasse dissertos…<lb/>
-                    </p>
+                   </p>
                 </div>
                 <div type="traduction">
-                    <p> Début de la préface de Cassiodore. <lb/> Sachant que l’étude des lettres profanes <lb/> était portée par
+                    <p>Début de la préface de Cassiodore. <lb/> Sachant que l’étude des lettres profanes <lb/> était portée par
                         une faveur croissante<lb/> de sorte qu’une multitude d’hommes<lb/> croyait acquérir par là l’intelligence
                         des choses mondaines, <lb/> j’avoue avoir été touché d’une très vive douleur <lb/> de l’absence de maîtres
                         publics pour les Écritures saintes, <lb/> alors que les auteurs profanes jouissaient d’une diffusion
@@ -192,22 +188,22 @@
                             Vivarium.">vous</term> ces livres d’introduction à la place d’un maître <lb/> avec l’aide du Seigneur,
                         <lb/> pour que grâce à eux, comme je le crois, <lb/> l’ensemble des Écritures saintes <lb/> et un précis
                         abrégé des lettres profanes, <lb/> vous soient rendus accessibles par le don du Seigneur…<lb/>
-                    </p>
+                   </p>
                 </div>
             </div>
             <div type="commentaire" n="paleographie">
                 <head>Commentaire paléographique</head>
-                <div n="1">
+                <div>
                     <head>Aspect général et lettres particulières</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="98/fax.jpg"/>
-                        </p>
-                        <p> Dans ce manuscrit copié dans le sud de l’Italie, l’écriture présente un aspect essentiellement
+                       </p>
+                        <p>Dans ce manuscrit copié dans le sud de l’Italie, l’écriture présente un aspect essentiellement
                             apparenté à celui d’une minuscule caroline soignée (technique et forme de la plupart des lettres),
                             mais certaines particularités sont déjà propres à l’écriture bénéventine qui commence à se constituer
-                            à la même époque. </p>
-                        <p> Les traits bénéventins les plus caractéristiques, issus en partie de la tradition cursive
+                            à la même époque.</p>
+                        <p>Les traits bénéventins les plus caractéristiques, issus en partie de la tradition cursive
                             tardo-antique, sont les suivants : <list type="simple">
                                 <item> aspect général : corps des lettres plutôt bas et large, mais la brisure des courbes, trait
                                     de style caractéristique, est encore à peine esquissée par endroits. </item>
@@ -231,56 +227,56 @@
                                     ligne (également connu dans des minuscules carolines septentrionales), et <hi rend="bold"
                                         >ros</hi> avec <hi rend="bold">o</hi> bouclé. </item>
                             </list>
-                        </p>
-                        <p> Accessoirement : <list type="simple">
+                       </p>
+                        <p>Accessoirement : <list type="simple">
                                 <item>
                                     <hi rend="bold">s</hi> long posé sur la ligne, différent par là de <hi rend="bold">f</hi>
                                     descendant, comme dans beaucoup de minuscules carolines ; </item>
                                 <item>
                                     <hi rend="bold">f</hi> de type insulaire dans la rubrique de la première ligne. </item>
                             </list>
-                        </p>
-                        <p> La deuxième ligne est écrite en lettres onciales, dans les formes calligraphiques typiques de son
+                       </p>
+                        <p>La deuxième ligne est écrite en lettres onciales, dans les formes calligraphiques typiques de son
                             évolution tardive, ici rendues avec légèreté et élégance : angle d’écriture proche de l’horizontale,
                                 <hi rend="bold">L</hi> développé en hauteur, <hi rend="bold">M</hi> en deux arcs parfaitement
-                            symétriques. </p>
+                            symétriques.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Abréviations</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="98/fax.jpg"/>
-                        </p>
-                        <p> Le système abréviatif est employé avec une modération presque antique : le <hi rend="bold">p</hi>
-                            barré pour <hi rend="bold">p(er)</hi>, les contractions des <hi rend="italic">nomina sacra</hi> et les
+                       </p>
+                        <p>Le système abréviatif est employé avec une modération presque antique : le <hi rend="bold">p</hi>
+                            barré pour <hi rend="bold">p(er)</hi>, les contractions des <hi rend="i">nomina sacra</hi> et les
                             terminaisons -<hi rend="bold">b(us)</hi> et -<hi rend="bold">q(ue)</hi> sont employés en toute
                             position, mais les tildes pour nasale finale et de rares autres abréviations par suspension sont
-                            réservés aux fins de ligne, comme moyens de gérer la justification à droite. </p>
+                            réservés aux fins de ligne, comme moyens de gérer la justification à droite.</p>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Structuration</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="98/fax.jpg"/>
-                        </p>
-                        <p> Les mots sont le plus souvent bien séparés, sauf les agglutinations habituelles de prépositions et
+                       </p>
+                        <p>Les mots sont le plus souvent bien séparés, sauf les agglutinations habituelles de prépositions et
                             conjonctions monosyllabes, et quelques cas particuliers : soudure des deux parties d’une forme
                             verbale, <hi rend="bold">nisus sum</hi> ; coupure de <hi rend="bold">crederet</hi> pour ne pas trop
-                            approcher de l’initiale. </p>
-                        <p> La coupure syllabique en fin de ligne est correcte, quoique encore sans trait d’union (c’est la règle
-                            avant le XII<hi rend="italic">e</hi> siècle). </p>
-                        <p> La ponctuation est assurée par un système à trois niveaux : <list type="simple">
-                                <item> le point (<hi rend="italic">punctus</hi>) signale les propositions simples (<hi
-                                        rend="italic">commata</hi>) ; </item>
-                                <item> un point-virgule renversé marque les propositions plus longues (<hi rend="italic"
+                            approcher de l’initiale.</p>
+                        <p>La coupure syllabique en fin de ligne est correcte, quoique encore sans trait d’union (c’est la règle
+                            avant le XII<hi rend="i">e</hi> siècle).</p>
+                        <p>La ponctuation est assurée par un système à trois niveaux : <list type="simple">
+                                <item> le point (<hi rend="i">punctus</hi>) signale les propositions simples (<hi
+                                        rend="i">commata</hi>) ; </item>
+                                <item> un point-virgule renversé marque les propositions plus longues (<hi rend="i"
                                     >cola</hi>) ; </item>
                                 <item> un signe vaguement semblable à la note tironienne (<hi rend="bold">7</hi>) sépare les
                                     périodes complètes. </item>
                             </list>
-                        </p>
-                        <p> Ce feuillet de dimensions moyennes (260 x 170 mm) contient la première page du manuscrit, dont elle
+                       </p>
+                        <p>Ce feuillet de dimensions moyennes (260 x 170 mm) contient la première page du manuscrit, dont elle
                             résume les caractères formels et porte les traces historiques. Une réglure à la pointe sèche délimite
                             l’espace d’écriture (210 x 130 mm, non sans débordement). Le titre est rubriqué, et le début du texte
                             est mis en valeur de deux manières : <list type="simple">
@@ -288,25 +284,25 @@
                                     rouge ; </item>
                                 <item> première ligne du texte en lettres onciales sur un bandeau vert. </item>
                             </list>
-                        </p>
-                        <p> Le manuscrit présente trois marques visibles de son histoire : <list type="simple">
+                       </p>
+                        <p>Le manuscrit présente trois marques visibles de son histoire : <list type="simple">
                                 <item>trace d’incendie dans le coin supérieur droit ; </item>
                                 <item>mutilation dans la marge supérieure, sans doute pour supprimer un ex-libris ; </item>
                                 <item> restauration dans le coin inférieur, couvrant des trous dans le parchemin avec un bout de
                                     papier blanc. </item>
                             </list>
-                        </p>
+                       </p>
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique</head>
-                <div n="1">
-                    <head>Le VI<hi rend="exposant">e</hi> siècle en Italie</head>
-                    <div type="contenu_commentaire">
-                        <p> L’Italie du VI<hi rend="exposant">e</hi> siècle connaît d’importants troubles liés à une situation
-                            politique complexe. Sous la direction de <term rend="bold" xml:id="a-note-1" n="1"
-                            >Théodoric</term><!-- <note n="1">Roi des Ostrogoths (474-526), Théodoric fonde en Italie un royaume
+                <div>
+                    <head>Le VI<hi rend="sup">e</hi> siècle en Italie</head>
+                    <div>
+                        <p>L’Italie du VI<hi rend="sup">e</hi> siècle connaît d’importants troubles liés à une situation
+                            politique complexe. Sous la direction de <term rend="bold" xml:id="a-note-1"
+                            >Théodoric</term><!-- <note>Roi des Ostrogoths (474-526), Théodoric fonde en Italie un royaume
                             autonome et se veut                              l’héritier de l’empire d’Occident. Après des débuts
                             brillants marqués par une collaboration                              entre Goths et Romains, son règne
                             est marqué par une politique de persécution du catholicisme                              et l’échec de
@@ -315,20 +311,20 @@
                             brillants marqués par une collaboration                              entre Goths et Romains, son règne
                             est marqué par une politique de persécution du catholicisme                              et l’échec de
                             la fusion entre les deux élites. ">Théodoric</term>-->,
-                            les <term rend="bold" xml:id="a-note-2" n="2"
-                            >Ostrogoths</term><!-- <note n="2" place="foot">Goths orientaux soumis par les Huns,
+                            les <term rend="bold" xml:id="a-note-2"
+                            >Ostrogoths</term><!-- <note place="foot">Goths orientaux soumis par les Huns,
                             ils sont intégrés à l’Empire à la mort d’Attila en 453.                                  D’abord
                             établis en Pannonie (auj. Hongrie), ils attaquent Constantinople en 487 et sont alors
                             détournés par l’empereur d’Orient Zénon vers l’Italie.</note>--><!-- <term n="Goths orientaux soumis par les Huns,
                             ils sont intégrés à l’Empire à la mort d’Attila en 453.                                  D’abord
                             établis en Pannonie (auj. Hongrie), ils attaquent Constantinople en 487 et sont alors
                             détournés par l’empereur d’Orient Zénon vers l’Italie.">Ostrogoths</term>-->
-                            font la conquête de l’Italie à la fin du V<hi rend="italic">e</hi> siècle et établissent un royaume
+                            font la conquête de l’Italie à la fin du V<hi rend="i">e</hi> siècle et établissent un royaume
                             d’abord fondé sur la collaboration entre la population romaine et les Goths. Cependant, l’arianisme
                             des nouveaux arrivants ainsi que les divisions politiques au sein de la famille royale fragilisent le
-                            pouvoir des Goths. La reconquête (535-555), décidée par l’empereur d’Orient <term rend="bold" n="3"
+                            pouvoir des Goths. La reconquête (535-555), décidée par l’empereur d’Orient <term rend="bold"
                                 xml:id="a-note-3"
-                            >Justinien</term><!-- <note n="3" place="foot">Empereur d’Orient (527-565), il mène une politique
+                            >Justinien</term><!-- <note place="foot">Empereur d’Orient (527-565), il mène une politique
                             ambitieuse visant à reconstituer l’unité                              de l’empire romain. Ses
                             campagnes occidentales lui permettent de reprendre l’Afrique du Nord                              aux
                             Vandales (533), l’Italie aux Ostrogoths (535-555) et l’Andalousie aux Wisigoths (550-554).
@@ -339,8 +335,8 @@
                             Son action multiforme s’étend aussi bien au droit, à la vie culturelle et aux affaires religieuses. ">
                             Justinien</term>-->,
                             porte le coup de grâce au royaume ostrogoth et plonge l’Italie dans une série de guerres dont le
-                            royaume sort ruiné. </p>
-                        <p> L’œuvre abondante de Cassiodore est très représentative de cette époque de transition. Elle puise son
+                            royaume sort ruiné.</p>
+                        <p>L’œuvre abondante de Cassiodore est très représentative de cette époque de transition. Elle puise son
                             inspiration aux grands modèles antiques, tout en prenant acte du déclin de la culture classique dont
                             Cassiodore est un des derniers représentants. Fils d’une riche famille d’Italie du Sud, Cassiodore est
                             né vers 485 et reçoit, notamment à Rome, une éducation dans la tradition romaine. Grâce à ses
@@ -350,59 +346,59 @@
                             l’héritier de l’empire d’Occident. Après des débuts brillants marqués par une collaboration
                             entre Goths et Romains, son règne est marqué par une politique de persécution du catholicisme
                             et l’échec de la fusion entre les deux élites. ">Théodoric</term>-->Théodoric
-                            à <term rend="bold" n="4" xml:id="a-note-4"
+                            à <term rend="bold" xml:id="a-note-4"
                             >Vitigès</term><!-- <term n="roi des Ostrogoths
                             (536-540), il défend son royaume contre la reconquête byzantine. Vaincu,
                             il est mené captif à Constantinople et finit ses jours en Asie. ">Vitigès</term>-->
-                            : consul ordinaire en 514, Cassiodore est, en 523, <term rend="bold" n="5" xml:id="a-note-5">maître
+                            : consul ordinaire en 514, Cassiodore est, en 523, <term rend="bold" xml:id="a-note-5">maître
                                 des
                             offices</term>,<!-- <term n="chef des bureaux, il contrôle toute la haute administration
                             impériale ainsi que l’administration                              provinciale. ">maître des
                             offices</term>-->
-                            puis <term rend="bold" n="6" xml:id="a-note-6">préfet du
+                            puis <term rend="bold" xml:id="a-note-6">préfet du
                             prétoire</term><!-- <term n="dans l’Antiquité tardive, haut fonctionnaire civil, situé juste
                             au-dessous de l’empereur. ">préfet du prétoire</term>-->
                             en 533. À la fin de son mandat, il s’éloigne du pouvoir pour approfondir la vie chrétienne. Il
                             commence alors une vie nouvelle de converti, marquée notamment par la fondation vers 555 du monastère
                             de Vivarium sur ses terres de Calabre. Il y finit ses jours en 580, après avoir passé les trente
-                            dernières années de sa vie à écrire pour les moines de Vivarium une œuvre savante considérable. </p>
+                            dernières années de sa vie à écrire pour les moines de Vivarium une œuvre savante considérable.</p>
                         <p rend="notes">
-                            <note target="#a-note-1" type="footnote" n="1">Roi des Ostrogoths (474-526), Théodoric fonde en Italie
+                            <note target="#a-note-1" type="footnote">Roi des Ostrogoths (474-526), Théodoric fonde en Italie
                                 un royaume autonome et se veut l’héritier de l’empire d’Occident. Après des débuts brillants
                                 marqués par une collaboration entre Goths et Romains, son règne est marqué par une politique de
                                 persécution du catholicisme et l’échec de la fusion entre les deux élites.</note>
-                            <note target="#a-note-2" type="footnote" n="2">Goths orientaux soumis par les Huns, ils sont intégrés
+                            <note target="#a-note-2" type="footnote">Goths orientaux soumis par les Huns, ils sont intégrés
                                 à l’Empire à la mort d’Attila en 453. D’abord établis en Pannonie (auj. Hongrie), ils attaquent
                                 Constantinople en 487 et sont alors détournés par l’empereur d’Orient Zénon vers l’Italie.</note>
-                            <note target="#a-note-3" type="footnote" n="3">Empereur d’Orient (527-565), il mène une politique
+                            <note target="#a-note-3" type="footnote">Empereur d’Orient (527-565), il mène une politique
                                 ambitieuse visant à reconstituer l’unité de l’empire romain. Ses campagnes occidentales lui
                                 permettent de reprendre l’Afrique du Nord aux Vandales (533), l’Italie aux Ostrogoths (535-555) et
                                 l’Andalousie aux Wisigoths (550-554). Son action multiforme s’étend aussi bien au droit, à la vie
                                 culturelle et aux affaires religieuses.</note>
-                            <note target="#a-note-4" type="footnote" n="4">Roi des Ostrogoths (536-540), il défend son royaume
+                            <note target="#a-note-4" type="footnote">Roi des Ostrogoths (536-540), il défend son royaume
                                 contre la reconquête byzantine. Vaincu, il est mené captif à Constantinople et finit ses jours en
                                 Asie.</note>
-                            <note target="#a-note-5" type="footnote" n="5">Chef des bureaux, il contrôle toute la haute
+                            <note target="#a-note-5" type="footnote">Chef des bureaux, il contrôle toute la haute
                                 administration impériale ainsi que l’administration provinciale.</note>
-                            <note target="#a-note-6" type="footnote" n="6">Dans l’Antiquité tardive, haut fonctionnaire civil,
+                            <note target="#a-note-6" type="footnote">Dans l’Antiquité tardive, haut fonctionnaire civil,
                                 situé juste au-dessous de l’empereur.</note>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="2">
-                    <head>Les <hi rend="italic">Institutions</hi> de Cassiodore</head>
-                    <div type="contenu_commentaire">
-                        <p> Délaissant les <term rend="bold" n="1" xml:id="a-note-7">œuvres historiques et rhétoriques</term>
+                <div>
+                    <head>Les <hi rend="i">Institutions</hi> de Cassiodore</head>
+                    <div>
+                        <p>Délaissant les <term rend="bold" xml:id="a-note-7">œuvres historiques et rhétoriques</term>
                             <!-- <term n="l’Historia Gothorum, uniquement connue à travers le résumé qu’en a donné Jordanès
                             ; les                              Variae, recueil des lettres officielles rédigées par Cassiodore
                             durant ses différentes fonctions."> œuvres historiques et rhétoriques</term>-->
-                            qui ont jalonné son <hi rend="italic">cursus honorum</hi>, Cassiodore consacre ses années de
-                            vieillesse à des travaux pédagogiques et exégétiques dont les <hi rend="italic">Institutions</hi> sont
+                            qui ont jalonné son <hi rend="i">cursus honorum</hi>, Cassiodore consacre ses années de
+                            vieillesse à des travaux pédagogiques et exégétiques dont les <hi rend="i">Institutions</hi> sont
                             le témoin le plus connu et le plus important. Rédigées probablement entre 551 et 562, les <hi
-                                rend="italic">Institutions</hi> constituent un guide de lectures pour les moines de Vivarium.
+                                rend="i">Institutions</hi> constituent un guide de lectures pour les moines de Vivarium.
                             L’ouvrage s’articule en deux parties. La première est une introduction méthodologique et
                             bibliographique aux études bibliques, tandis que la seconde est un traité élémentaire consacré aux
-                            études profanes réparties selon le système des <term rend="bold" n="2" xml:id="a-note-8">sept arts
+                            études profanes réparties selon le système des <term rend="bold" xml:id="a-note-8">sept arts
                                 libéraux</term><!-- <term n="les
                             sept disciplines qui seront à la base de l’éducation médiévale : arts du trivium (grammaire,
                             rhétorique et dialectique) et arts du quadrivium (mathématique, arithmétique, astronomie et musique)."
@@ -410,42 +406,42 @@
                             L’importance de l’œuvre tient au devoir qui est fait aux moines aussi bien de copier les livres que
                             d’en étudier le contenu. Cependant, l’influence de la première partie, plus originale, fut très faible
                             au Moyen Âge. Elle a rapidement été éclipsée par le deuxième livre qui devient un manuel scolaire à
-                            l’époque carolingienne. </p>
+                            l’époque carolingienne.</p>
                         <p rend="notes">
-                            <note target="#a-note-7" type="footnote" n="1">L’<hi rend="italic">Historia Gothorum</hi>, uniquement
-                                connue à travers le résumé qu’en a donné Jordanès ; les <hi rend="italic">Variae</hi>, recueil des
+                            <note target="#a-note-7" type="footnote">L’<hi rend="i">Historia Gothorum</hi>, uniquement
+                                connue à travers le résumé qu’en a donné Jordanès ; les <hi rend="i">Variae</hi>, recueil des
                                 lettres officielles rédigées par Cassiodore durant ses différentes fonctions.</note>
-                            <note target="#a-note-8" type="footnote" n="2">Les sept disciplines qui seront à la base de
-                                l’éducation médiévale : arts du <hi rend="italic">trivium</hi> (grammaire, rhétorique et
-                                dialectique) et arts du <hi rend="italic">quadrivium</hi> (mathématique, arithmétique, astronomie
+                            <note target="#a-note-8" type="footnote">Les sept disciplines qui seront à la base de
+                                l’éducation médiévale : arts du <hi rend="i">trivium</hi> (grammaire, rhétorique et
+                                dialectique) et arts du <hi rend="i">quadrivium</hi> (mathématique, arithmétique, astronomie
                                 et musique).</note>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="3">
-                    <head>La préface des <hi rend="italic">Institutions</hi></head>
-                    <div type="contenu_commentaire">
-                        <p> Dans la préface adressée aux moines de Vivarium, Cassiodore rappelle, en un style orné, les
+                <div>
+                    <head>La préface des <hi rend="i">Institutions</hi></head>
+                    <div>
+                        <p>Dans la préface adressée aux moines de Vivarium, Cassiodore rappelle, en un style orné, les
                             circonstances historiques de la composition de son ouvrage. Devant le faible intérêt pour la culture
-                            sacrée, Cassiodore a le projet en 535, avec le pape <term rend="bold" n="1" xml:id="a-note-9"
+                            sacrée, Cassiodore a le projet en 535, avec le pape <term rend="bold" xml:id="a-note-9"
                                 >Agapet</term><!-- <term n="pape de 535-536, il est mort à Constantinople, alors qu’il
                             tentait d’empêcher la conquête de                              l’Italie par l’empereur Justinien."
                             >Agapet</term>-->,
                             d’attirer dans les écoles chrétiennes de Rome des maîtres bien rémunérés. Toutefois, les guerres
                             qu’entraîne la reconquête byzantine mettent un terme au projet. Cassiodore en reprend alors le dessein
-                            pour Vivarium : comme il le dit en termes imagés dans la préface, les <hi rend="italic"
-                                >Institutions</hi> doivent tenir lieu aux moines de maître (<hi rend="italic">ad vicem
+                            pour Vivarium : comme il le dit en termes imagés dans la préface, les <hi rend="i"
+                                >Institutions</hi> doivent tenir lieu aux moines de maître (<hi rend="i">ad vicem
                                 magistri</hi>). La préface trace le programme d’une
-                            culture monastique qui met les savoirs profanes au service de l’étude biblique. </p>
+                            culture monastique qui met les savoirs profanes au service de l’étude biblique.</p>
                         <p rend="notes">
-                            <note target="#a-note-9" type="footnote" n="1">Pape de 535-536, il est mort à Constantinople, alors
+                            <note target="#a-note-9" type="footnote">Pape de 535-536, il est mort à Constantinople, alors
                                 qu’il tentait d’empêcher la conquête de l’Italie par l’empereur Justinien.</note>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Pour approfondir</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <listBibl>
                             <bibl>
                                 <author>CAPPUYNS (M.)</author>, « Cassiodore », dans <title>Dictionnaire d’histoire et de

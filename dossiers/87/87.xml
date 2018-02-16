@@ -15,7 +15,7 @@
             <publicationStmt>
                 <idno type="numero">87</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2007-10">octobre 2007</date>
+                <date when="2007-10">octobre 2007</date>
             </publicationStmt>
             <sourceDesc>
                 <p>Fac-sim. ENC : NF 286 (héliogravure).</p>
@@ -39,70 +39,65 @@
                 </div>
                 <div>
                     <p>
-                        <seg rend="28,51,554,56,554,152,25,146" n="poly">Johannes, Dei gr<expan>ati</expan>a rex Angl<expan>ie</expan>,
-                                d<expan>omi</expan>n<expan>u</expan>s Hyb<expan>er</expan>nie,</seg>
-                        <seg rend="559,60,1070,77,1069,172,747,159,558,149" n="poly">dux Norm<expan>annie</expan>, Aquit<expan>annie</expan>
-                            <expan>et</expan> com<expan>es</expan> Andeg<expan>avie</expan>, archiep<expan>iscop</expan>is,</seg>
+                        <seg rend="28,51,554,56,554,152,25,146" n="poly">Johannes, Dei gr<ex>ati</ex>a rex Angl<ex>ie</ex>,
+                                d<ex>omi</ex>n<ex>u</ex>s Hyb<ex>er</ex>nie,</seg>
+                        <seg rend="559,60,1070,77,1069,172,747,159,558,149" n="poly">dux Norm<ex>annie</ex>, Aquit<ex>annie</ex> <ex>et</ex> com<ex>es</ex> Andeg<ex>avie</ex>, archiep<ex>iscop</ex>is,</seg>
                         <lb/>
-                        <seg rend="25,152,489,159,489,209,329,209,42,205,41,152,41,153" n="poly">ep<expan>iscop</expan>is,
-                                abb<expan>at</expan>ib<expan>us</expan>, comit<expan>ibus</expan>, baron<expan>ibus</expan>,
-                                justic<expan>iiis</expan>, vicecom<expan>itibus</expan></seg>
-                        <seg rend="493,160,1080,171,1079,227,492,210" n="poly"><expan> et</expan> om<expan>n</expan>ib<expan>us</expan>
-                            ballivis <expan>et</expan> fidelib<expan>us</expan> suis Norm<expan>anie</expan>, <expan>et</expan>
-                            nomi<expan>n</expan>atim majori,</seg>
+                        <seg rend="25,152,489,159,489,209,329,209,42,205,41,152,41,153" n="poly">ep<ex>iscop</ex>is,
+                                abb<ex>at</ex>ib<ex>us</ex>, comit<ex>ibus</ex>, baron<ex>ibus</ex>,
+                                justic<ex>iiis</ex>, vicecom<ex>itibus</ex></seg>
+                        <seg rend="493,160,1080,171,1079,227,492,210" n="poly"><ex> et</ex> om<ex>n</ex>ib<ex>us</ex>
+                            ballivis <ex>et</ex> fidelib<ex>us</ex> suis Norm<ex>anie</ex>, <ex>et</ex>
+                            nomi<ex>n</ex>atim majori,</seg>
                         <lb/>
-                        <seg rend="36,214,555,221,552,273,42,266,44,213" n="poly">vic<expan>ecomiti</expan>
-                            <expan>et</expan> om<expan>n</expan>ib<expan>us</expan> ballivis suis Rothomag<expan>ensibus</expan>,
-                                sal<expan>u</expan>t<expan>em</expan>.</seg>
-                        <seg rend="560,222,1098,230,1097,285,557,271" n="poly">Sciatis nos concessisse <expan>et</expan> hac presenti carta
-                                nost<expan>r</expan>a confirmasse</seg>
+                        <seg rend="36,214,555,221,552,273,42,266,44,213" n="poly">vic<ex>ecomiti</ex> <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis suis Rothomag<ex>ensibus</ex>,
+                                sal<ex>u</ex>t<ex>em</ex>.</seg>
+                        <seg rend="560,222,1098,230,1097,285,557,271" n="poly">Sciatis nos concessisse <ex>et</ex> hac presenti carta
+                                nost<ex>r</ex>a confirmasse</seg>
                         <lb/>
-                        <seg rend="34,276,535,290,536,338,37,321" n="poly">Bonis ho<expan>min</expan>ib<expan>us</expan> Grandi Montis
-                                fundacione<expan>m</expan> domus</seg>
-                        <seg rend="542,280,1098,297,1100,358,540,334" n="poly">q<expan>u</expan>am pat<expan>er</expan>
-                            nost<expan>er</expan> H<expan>enricus</expan> bone memorie in d<expan>omi</expan>nico suo juxta Rhoto-</seg>
+                        <seg rend="34,276,535,290,536,338,37,321" n="poly">Bonis ho<ex>min</ex>ib<ex>us</ex> Grandi Montis
+                                fundacione<ex>m</ex> domus</seg>
+                        <seg rend="542,280,1098,297,1100,358,540,334" n="poly">q<ex>u</ex>am pat<ex>er</ex>
+                            nost<ex>er</ex> H<ex>enricus</ex> bone memorie in d<ex>omi</ex>nico suo juxta Rhoto-</seg>
                         <lb/>
-                        <seg rend="33,329,738,349,734,405,41,381" n="poly">-mag<expan>um</expan> fecit, <expan>et</expan>
-                            donatione<expan>m</expan> q<expan>u</expan>am idem p<expan>ate</expan>r nost<expan>er</expan> eis fecit ad
+                        <seg rend="33,329,738,349,734,405,41,381" n="poly">-mag<ex>um</ex> fecit, <ex>et</ex>
+                            donatione<ex>m</ex> q<ex>u</ex>am idem p<ex>ate</ex>r nost<ex>er</ex> eis fecit ad
                             victualia sua,</seg>
-                        <seg rend="742,350,741,404,1099,421,1091,365" n="poly">scil<expan>i</expan>c<expan>et</expan> ducentas
-                            lib<expan>r</expan>as andeg<expan>avensium</expan> reci-</seg>
+                        <seg rend="742,350,741,404,1099,421,1091,365" n="poly">scil<ex>i</ex>c<ex>et</ex> ducentas
+                            lib<ex>r</ex>as andeg<ex>avensium</ex> reci-</seg>
                         <lb/>
-                        <seg rend="40,389,538,402,537,455,35,449" n="poly">-piendas annuati<expan>m</expan> de vicecomitatu
-                                Rothomagen<expan>si</expan>,</seg>
-                        <seg rend="544,404,1098,426,1094,478,543,454" n="poly">videlicet cent<expan>um</expan> libras ad Pascha et
-                                cent<expan>um</expan> ad fest<expan>um</expan> S<expan>an</expan>c<expan>t</expan>i</seg>
+                        <seg rend="40,389,538,402,537,455,35,449" n="poly">-piendas annuati<ex>m</ex> de vicecomitatu
+                                Rothomagen<ex>si</ex>,</seg>
+                        <seg rend="544,404,1098,426,1094,478,543,454" n="poly">videlicet cent<ex>um</ex> libras ad Pascha et
+                                cent<ex>um</ex> ad fest<ex>um</ex> S<ex>an</ex>c<ex>t</ex>i</seg>
                         <lb/>
-                        <seg rend="46,451,523,462,522,511,38,497" n="poly">Michael<expan>is</expan>. Quare volum<expan>us</expan>
-                            <expan>et</expan> firmit<expan>er</expan> precipim<expan>us</expan></seg>
-                        <seg rend="527,463,1086,483,1084,529,527,510" n="poly">quod ip<expan>s</expan>i eas h<expan>abe</expan>ant in
-                                lib<expan>er</expan>am <expan>et</expan> p<expan>er</expan>petuam elemosina<expan>m</expan>
-                            <expan>et</expan> singul<expan>is</expan></seg>
+                        <seg rend="46,451,523,462,522,511,38,497" n="poly">Michael<ex>is</ex>. Quare volum<ex>us</ex> <ex>et</ex> firmit<ex>er</ex> precipim<ex>us</ex></seg>
+                        <seg rend="527,463,1086,483,1084,529,527,510" n="poly">quod ip<ex>s</ex>i eas h<ex>abe</ex>ant in
+                                lib<ex>er</ex>am <ex>et</ex> p<ex>er</ex>petuam elemosina<ex>m</ex> <ex>et</ex> singul<ex>is</ex></seg>
                         <lb/>
-                        <seg rend="34,507,660,521,657,565,34,553" n="poly">annis ad pred<expan>i</expan>c<expan>t</expan>os
-                                t<expan>er</expan>mi<expan>n</expan>os eas in pred<expan>i</expan>c<expan>t</expan>o vicecomitatu recipiant,</seg>
-                        <seg rend="666,522,1098,540,1095,585,664,563" n="poly">sicut in carta d<expan>omi</expan>ni H<expan>enrici</expan>
-                                p<expan>at</expan>ris n<expan>ost</expan>ri <expan>con</expan>tinet<expan>ur</expan>.</seg>
+                        <seg rend="34,507,660,521,657,565,34,553" n="poly">annis ad pred<ex>i</ex>c<ex>t</ex>os
+                                t<ex>er</ex>mi<ex>n</ex>os eas in pred<ex>i</ex>c<ex>t</ex>o vicecomitatu recipiant,</seg>
+                        <seg rend="666,522,1098,540,1095,585,664,563" n="poly">sicut in carta d<ex>omi</ex>ni H<ex>enrici</ex>
+                                p<ex>at</ex>ris n<ex>ost</ex>ri <ex>con</ex>tinet<ex>ur</ex>.</seg>
                         <lb/>
-                        <seg rend="37,557,440,566,443,617,37,609" n="poly">Hiis test<expan>ibus</expan> R<expan>ogerio</expan>
-                                ep<expan>iscop</expan>o S<expan>an</expan>c<expan>t</expan>i Andree,</seg>
-                        <seg rend="445,565,1094,580,1097,636,448,617" n="poly">Will<expan>elm</expan>o Lunge Espee com<expan>ite</expan>
-                            Saresb’, Will<expan>elm</expan>o com<expan>ite</expan> Arundell’, Hug<expan>one</expan></seg>
+                        <seg rend="37,557,440,566,443,617,37,609" n="poly">Hiis test<ex>ibus</ex> R<ex>ogerio</ex>
+                                ep<ex>iscop</ex>o S<ex>an</ex>c<ex>t</ex>i Andree,</seg>
+                        <seg rend="445,565,1094,580,1097,636,448,617" n="poly">Will<ex>elm</ex>o Lunge Espee com<ex>ite</ex>
+                            Saresb’, Will<ex>elm</ex>o com<ex>ite</ex> Arundell’, Hug<ex>one</ex></seg>
                         <lb/>
-                        <seg rend="39,617,493,628,490,678,41,667" n="poly">de Gornaco, Rog<expan>erio</expan> constab<expan>u</expan>lario
+                        <seg rend="39,617,493,628,490,678,41,667" n="poly">de Gornaco, Rog<ex>erio</ex> constab<ex>u</ex>lario
                             Cest’,</seg>
-                        <seg rend="499,626,1083,644,1088,699,500,676" n="poly">Will<expan>elm</expan>o de Cantilupo, Petro de Stok’.
-                                Dat<expan>um</expan> p<expan>er</expan> man<expan>us</expan></seg>
+                        <seg rend="499,626,1083,644,1088,699,500,676" n="poly">Will<ex>elm</ex>o de Cantilupo, Petro de Stok’.
+                                Dat<ex>um</ex> p<ex>er</ex> man<ex>us</ex></seg>
                         <lb/>
-                        <seg rend="37,676,568,680,569,739,35,730" n="poly">Symon<expan>is</expan> archid<expan>iaconi</expan>
-                                Wellen<expan>sis</expan>
-                            <expan>et</expan> Joh<expan>ann</expan>is de Gra[…],</seg>
-                        <seg rend="577,682,1081,705,1075,751,577,738" n="poly">apud Chynon<expan>em</expan>, XXVI die septembris, anno</seg>
+                        <seg rend="37,676,568,680,569,739,35,730" n="poly">Symon<ex>is</ex> archid<ex>iaconi</ex>
+                                Wellen<ex>sis</ex> <ex>et</ex> Joh<ex>ann</ex>is de Gra[…],</seg>
+                        <seg rend="577,682,1081,705,1075,751,577,738" n="poly">apud Chynon<ex>em</ex>, XXVI die septembris, anno</seg>
                         <lb/>
                         <!-- <seg rend="52,741,1079,759,1079,801,54,791">regni nostri primo.</seg> -->
                         <seg rend="48,739,46,784,874,805,875,797,1069,802,1071,752,449,735" n="poly">regni nostri primo.</seg>
                         <lb/>
-                    </p>
+                   </p>
                 </div>
             </div>
             <div type="transcription">
@@ -153,7 +148,7 @@
                             de règne part du couronnement de Jean, le 27 mai 1199. Elle ne figure au bas des actes royaux anglais que depuis
                             le                              règne de son frère et prédécesseur Richard (sans doute à l’imitation des lettres
                             pontificales),  et sert aussi à                              ordonner les différentes séries de registres qui
-                            commencent alors à se multiplier.">primo</term>. </p>
+                            commencent alors à se multiplier.">primo</term>.</p>
                 </div>
                 <div type="traduction">
                     <p>
@@ -200,7 +195,7 @@
                             1199. Elle ne figure au bas des actes                              royaux anglais que depuis le règne de son
                             frère et prédécesseur Richard (sans doute à l’imitation des lettres                              pontificales),
                             et sert aussi à ordonner les différentes séries de registres qui commencent alors à se
-                            multiplier.">première <lb/>année</term> de notre règne. </p>
+                            multiplier.">première <lb/>année</term> de notre règne.</p>
                 </div>
                 <div type="regeste">
                     <head>1199, 26 septembre. – Chinon.</head>
@@ -212,48 +207,48 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="87/faxexterne.jpg"/>
-                        </p>
-                        <p> Les interlignes sont réguliers et larges. L’espace pourtant est mesuré, et les marges, quasi inexistantes,
-                            laissent un règne sans partage à l’écriture. </p>
-                        <p> Celle-ci, soignée et typée, est composée de lettres au corps petit et méticuleusement tracé, et de longues
+                       </p>
+                        <p>Les interlignes sont réguliers et larges. L’espace pourtant est mesuré, et les marges, quasi inexistantes,
+                            laissent un règne sans partage à l’écriture.</p>
+                        <p>Celle-ci, soignée et typée, est composée de lettres au corps petit et méticuleusement tracé, et de longues
                             hampes, conférant au tout une allure élégante et une grande lisibilité. Les majuscules à redoublement sont
                             typiques de l’écriture curiale anglaise. Certains tildes, en forme de 8 ouverts par le bas, les traits obliques
-                            plongeants et recourbés en fin de <hi rend="italic">n</hi> et de <hi rend="italic">m</hi>, les <hi rend="italic"
-                                >a</hi> suscrits, les 9 tironiens (abréviations <hi rend="italic">–us</hi>), le haut des <hi rend="italic"
-                            >s</hi>, les <hi rend="italic">R</hi> majuscules (<hi rend="italic">Rex</hi>, à la première ligne, et les
-                            témoins <hi rend="italic">R</hi>. et <hi rend="italic">Rogerius</hi> aux lignes 9-10) intègrent tous, de façon
-                            variée, des ornements graphiques qui proclament le caractère travaillé du produit graphique. </p>
-                        <p> L’écriture n’en est pas moins extrêmement abrégée, surtout quand les mots sont connus et attendus.
+                            plongeants et recourbés en fin de <hi rend="i">n</hi> et de <hi rend="i">m</hi>, les <hi rend="i"
+                                >a</hi> suscrits, les 9 tironiens (abréviations <hi rend="i">–us</hi>), le haut des <hi rend="i"
+                            >s</hi>, les <hi rend="i">R</hi> majuscules (<hi rend="i">Rex</hi>, à la première ligne, et les
+                            témoins <hi rend="i">R</hi>. et <hi rend="i">Rogerius</hi> aux lignes 9-10) intègrent tous, de façon
+                            variée, des ornements graphiques qui proclament le caractère travaillé du produit graphique.</p>
+                        <p>L’écriture n’en est pas moins extrêmement abrégée, surtout quand les mots sont connus et attendus.
                             Caractéristique des actes anglo-normands en général, la sévérité des abréviations sur les noms de personnes est
-                            tout particulièrement notable (cf. <hi rend="italic">H</hi>. pour <hi rend="italic">Henricus</hi> à la ligne 8,
-                            le <hi rend="italic">R</hi>. du premier témoin à la ligne 9). </p>
-                        <p> Le tout, en bref, suggère un mélange de majesté et de pragmatisme. </p>
+                            tout particulièrement notable (cf. <hi rend="i">H</hi>. pour <hi rend="i">Henricus</hi> à la ligne 8,
+                            le <hi rend="i">R</hi>. du premier témoin à la ligne 9).</p>
+                        <p>Le tout, en bref, suggère un mélange de majesté et de pragmatisme.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
-                        <p> Le roi Jean n’est couronné que depuis quelques mois lorsqu’ils délivre, sans doute à la demande des intéressés,
+                    <div>
+                        <p>Le roi Jean n’est couronné que depuis quelques mois lorsqu’ils délivre, sans doute à la demande des intéressés,
                             cette confirmation d’une fondation peut-être récente, apparemment encore fragile. La fondation de la maison du
                             Parc de Rouen est bien inscrite dans la politique religieuse du roi Henri II, qui a protégé la maison-mère
                             limousine ; elle est parallèle et peut-être rivale de la politique des rois de France, qui autour des années
                             1160 ont multiplié les fondations grandmontaines dans des parcs et des bois royaux (à Vincennes, en forêt
                             d’Orléans, près de Dourdan). La charte de dotation délivrée par Henri II est mentionnée à la fin du texte, mais
                             celle qui nous est conservée présente des bizarreries qui éveillent le soupçon de falsification (éd.
-                            Delisle-Berger, t. II, n<hi rend="exposant">°</hi> 727). </p>
-                        <p> Il n’en va pas de même de celle-ci, qui répond parfaitement aux standards de la production de chancellerie, dans
+                            Delisle-Berger, t. II, n° 727).</p>
+                        <p>Il n’en va pas de même de celle-ci, qui répond parfaitement aux standards de la production de chancellerie, dans
                             ses traditions comme dans les innovations apportées dans les années ou mois qui précèdent. Très normalement,
                             elle s’auto-désigne comme « charte » dès le dispositif (ligne 3), soit la catégorie la plus élevée, à valeur
                             perpétuelle et solennelle des actes royaux (même si elle n'est pas ici scellée sur lacs de soie mais plus
-                            modestement sur une double queue de parchemin, dont on voit encore la fente dans le repli). </p>
-                        <p> Accessoirement, on notera combien les listes de témoins, qui demeurent détaillées et effectives au bas des
+                            modestement sur une double queue de parchemin, dont on voit encore la fente dans le repli).</p>
+                        <p>Accessoirement, on notera combien les listes de témoins, qui demeurent détaillées et effectives au bas des
                             chartes royales anglaises, continuent à nourrir l’étude de l’entourage rapproché du souverain, alors que le
-                            diplôme capétien a depuis longtemps opté pour les souscriptions factices des seuls grands officiers. </p>
+                            diplôme capétien a depuis longtemps opté pour les souscriptions factices des seuls grands officiers.</p>
                     </div>
                 </div>
             </div>

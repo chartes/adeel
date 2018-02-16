@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">L’<hi rend="italic">Abbreviatio</hi> de Jean de Mailly</title>
+                <title type="main">L’<hi rend="i">Abbreviatio</hi> de Jean de Mailly</title>
                 <title type="sub">Prêcher au Moyen Âge : exemple d’un légendier ou recueil de
                     <!-- "vies" et 
                     "de" sont attachés dans le fichiers Word. Je les sépare.  -->vies
@@ -18,7 +18,7 @@
             <publicationStmt>
                 <idno type="numero">103</idno>
                 <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-02">février 2008</date>
+                <date when="2008-02">février 2008</date>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -43,223 +43,218 @@
                     <seg
                         rend="65,0,66,22,85,17,88,19,96,18,105,19,115,26,125,21,145,21,149,32,229,37,232,26,246,26,252,31,275,31,274,1,65,1"
                         n="poly">Incipit vita et passio sanctorum </seg>
-                    <seg rend="278,1,611,1,611,39,395,39,385,30,279,30" n="poly">q<expan>u</expan>i
-                            <expan>con</expan>tinent<expan>ur</expan> in kalendario.</seg>
+                    <seg rend="278,1,611,1,611,39,395,39,385,30,279,30" n="poly">q<ex>u</ex>i <ex>con</ex>tinent<ex>ur</ex> in kalendario.</seg>
                     <seg
                         rend="151,139,147,146,136,147,121,142,108,147,93,149,79,148,58,142,35,126,29,114,25,94,28,70,45,47,62,30,80,22,93,21,103,23,110,26,113,30,123,30,132,23,139,23,142,30,142,39,172,39,232,40,234,32,239,28,246,30,252,34,324,33,324,71,169,70,165,76,161,77,141,74,123,72,123,129,129,136,136,140,146,134"
                         n="poly">Cum plurimi sacerdotes</seg>
                     <seg
                         rend="327,33,337,32,380,34,395,44,612,44,615,34,621,32,673,33,671,77,630,78,623,85,615,76,427,73,417,78,408,71,396,73,385,80,382,72,330,70"
-                        n="poly">sanctor<expan>um</expan> passiones in vitas non
-                        h<expan>abe</expan>nt</seg>
+                        n="poly">sanctor<ex>um</ex> passiones in vitas non
+                        h<ex>abe</ex>nt</seg>
                     <seg
                         rend="125,77,164,81,173,73,376,75,383,85,403,73,419,81,427,75,512,77,510,107,379,105,370,113,366,110,362,108,163,106,152,110,148,104,125,104"
-                        n="poly">et ex officio suo eas scire <expan>et</expan>
-                        p<expan>re</expan>dicare debeant</seg>
+                        n="poly">et ex officio suo eas scire <ex>et</ex>
+                        p<ex>re</ex>dicare debeant</seg>
                     <seg
                         rend="516,77,613,79,624,90,631,81,654,80,652,112,634,119,630,112,560,111,549,115,542,109,515,107"
                         n="poly">ad excitandam</seg>
                     <seg
                         rend="126,107,144,106,152,115,164,108,278,109,278,135,204,136,191,138,187,133,134,132,128,132,125,129"
-                        n="poly">devot<expan>i</expan>o<expan>n</expan>em in
-                            s<expan>an</expan>c<expan>t</expan>os,</seg>
+                        n="poly">devot<ex>i</ex>o<ex>n</ex>em in
+                            s<ex>an</ex>c<ex>t</ex>os,</seg>
                     <seg
                         rend="281,110,360,111,372,117,382,107,536,111,549,120,563,114,627,114,633,123,656,113,674,114,674,144,479,137,468,143,464,136,393,136,378,144,378,136,319,136,311,140,307,141,306,136,280,134"
-                        n="poly">maxime eor<expan>um</expan> vitas q<expan>u</expan>i in kalendariis
-                            annota<expan>n</expan>-</seg>
+                        n="poly">maxime eor<ex>um</ex> vitas q<ex>u</ex>i in kalendariis
+                            annota<ex>n</ex>-</seg>
                     <seg
                         rend="71,150,72,166,112,161,197,163,206,174,219,165,264,164,267,170,275,169,282,165,526,169,532,142,483,140,467,145,461,139,396,139,375,149,374,139,323,139,308,144,302,139,209,139,188,141,184,136,154,135,154,143,147,150,135,150,121,145,109,151,96,152,71,149"
-                        n="poly">–tur, succinte p<expan>er</expan>stringem<expan>us</expan> ut et
+                        n="poly">–tur, succinte p<ex>er</ex>stringem<ex>us</ex> ut et
                         libelli brevitas</seg>
                     <seg rend="534,141,673,147,671,172,616,173,530,167" n="poly">fastidium non</seg>
                     <seg
                         rend="73,170,118,163,194,166,206,178,221,167,260,167,267,176,283,167,529,172,587,174,585,197,522,195,511,202,478,197,439,201,409,195,377,201,333,193,277,202,251,193,213,199,191,192,167,199,137,190,88,194,75,197"
-                        n="poly">gen<expan>er</expan>et et parochiales
-                            p<expan>res</expan>b<expan>ite</expan>ros libror<expan>um</expan> inopia
-                            no<expan>n</expan> excuset.</seg>
+                        n="poly">gen<ex>er</ex>et et parochiales
+                            p<ex>res</ex>b<ex>ite</ex>ros libror<ex>um</ex> inopia
+                            no<ex>n</ex> excuset.</seg>
                     <seg rend="590,174,668,175,668,201,589,197" n="poly">Si quis</seg>
                     <seg
                         rend="75,199,96,195,138,193,170,202,191,194,214,202,249,195,277,205,335,195,379,204,410,197,445,204,458,201,458,228,224,224,165,225,74,219"
-                        n="poly">aut<expan>em</expan> vitam sui patroni non inveniat,</seg>
+                        n="poly">aut<ex>em</ex> vitam sui patroni non inveniat,</seg>
                     <seg rend="463,202,479,199,513,205,526,197,603,200,676,204,673,234,462,229"
                         n="poly">non ei grave sit, si eam</seg>
                     <seg rend="73,225,282,227,390,229,391,254,355,258,184,255,73,248" n="poly">alibi
-                        totam q<expan>ue</expan>rat. Sic incipit.</seg>
+                        totam q<ex>ue</ex>rat. Sic incipit.</seg>
                     <seg
                         rend="67,400,53,414,43,410,40,401,47,394,59,376,49,338,37,313,53,266,50,260,31,261,16,257,16,243,67,245,73,252,233,259,444,261,444,286,251,283,244,289,236,281,222,283,217,286,213,286,210,280,154,281,148,287,142,281,95,281,86,287,83,281,69,280"
-                        n="poly">Joh<expan>ann</expan>es Baptista
-                        q<expan>ua</expan>n<expan>do</expan> predicabat in deserto</seg>
-                    <seg rend="447,261,683,262,682,288,448,287" n="poly"><expan>et</expan>
+                        n="poly">Joh<ex>ann</ex>es Baptista
+                        q<ex>ua</ex>n<ex>do</ex> predicabat in deserto</seg>
+                    <seg rend="447,261,683,262,682,288,448,287" n="poly"><ex>et</ex>
                         baptizabat in Jordane</seg>
                     <seg
                         rend="72,284,79,284,85,291,96,284,138,283,148,292,155,285,207,283,214,292,225,285,232,285,243,293,251,286,331,287,331,312,144,311,132,315,125,312,72,310"
                         n="poly">illos qui ad se veniebant,</seg>
                     <seg
                         rend="335,288,677,291,677,317,609,316,601,320,599,317,561,318,547,326,545,316,504,318,493,321,491,316,351,316,337,327"
-                        n="poly">h<expan>ab</expan>ebat duos discip<expan>u</expan>los
-                            q<expan>u</expan>or<expan>um</expan> un<expan>u</expan>s vocaba-</seg>
+                        n="poly">h<ex>ab</ex>ebat duos discip<ex>u</ex>los
+                            q<ex>u</ex>or<ex>um</ex> un<ex>u</ex>s vocaba-</seg>
                     <seg rend="73,314,121,315,133,321,143,314,192,314,192,340,72,339" n="poly">–tur
                         Andreas.</seg>
                     <seg
                         rend="196,314,331,314,336,332,351,319,487,319,491,324,505,321,542,318,545,329,561,320,596,319,600,323,609,319,681,319,680,343,665,352,663,346,585,344,577,347,573,344,470,344,342,344,196,342"
-                        n="poly">Q<expan>ua</expan>n<expan>do</expan> aut<expan>em</expan>
-                            D<expan>omi</expan>n<expan>u</expan>s deambulabat circa Jordanem in
-                            crastin<expan>um</expan></seg>
+                        n="poly">Q<ex>ua</ex>n<ex>do</ex> aut<ex>em</ex>
+                            D<ex>omi</ex>n<ex>u</ex>s deambulabat circa Jordanem in
+                            crastin<ex>um</ex></seg>
                     <seg
                         rend="71,342,125,342,340,347,479,346,478,374,311,374,229,367,191,374,169,371,116,370,109,374,72,371"
-                        n="poly">q<expan>u</expan>o Joh<expan>ann</expan>es baptizavit eum exclamvit
+                        n="poly">q<ex>u</ex>o Joh<ex>ann</ex>es baptizavit eum exclamvit
                         dicens :</seg>
                     <seg
                         rend="481,346,568,346,576,351,586,347,659,349,663,357,679,346,681,346,681,374,655,376,620,372,573,371,562,374,557,374,535,369,505,369,500,373,481,370"
-                        n="poly">ecce agnus Dei <expan>et</expan> c<expan>etera</expan>.</seg>
+                        n="poly">ecce agnus Dei <ex>et</ex> c<ex>etera</ex>.</seg>
                     <seg
                         rend="69,378,80,374,111,378,116,373,171,375,192,378,231,370,318,377,480,376,503,375,508,372,536,373,559,378,578,374,577,402,560,408,555,401,512,403,449,400,443,403,350,400,329,414,327,398,291,400,112,396,71,406"
-                        n="poly">Quod audiens s<expan>an</expan>c<expan>tu</expan>s Andreas
-                            <expan>cum</expan> socio suo secuti s<expan>un</expan>t eum.</seg>
+                        n="poly">Quod audiens s<ex>an</ex>c<ex>tu</ex>s Andreas <ex>cum</ex> socio suo secuti s<ex>un</ex>t eum.</seg>
                     <seg rend="582,373,628,376,657,380,683,377,682,402,582,405" n="poly">Et videns</seg>
                     <seg
                         rend="68,410,115,398,323,401,327,419,351,403,431,405,432,430,387,430,380,438,374,431,306,432,229,429,223,433,222,427,146,425,132,431,68,424"
-                        n="poly">eos sequentes dixit eis : quid q<expan>ue</expan>ritis ?</seg>
+                        n="poly">eos sequentes dixit eis : quid q<ex>ue</ex>ritis ?</seg>
                     <seg
                         rend="434,404,447,405,449,402,510,405,553,404,559,411,675,404,675,433,578,434,559,442,547,434,524,431,495,433,487,439,478,432,435,432"
-                        n="poly">Q<expan>u</expan>i dixer<expan>un</expan>t : magister ubi</seg>
+                        n="poly">Q<ex>u</ex>i dixer<ex>un</ex>t : magister ubi</seg>
                     <seg
                         rend="68,428,135,435,149,428,220,430,220,437,232,431,371,433,382,442,389,433,426,433,427,461,82,459,69,467"
                         n="poly">habitas ? Qui ait : venite et videte.</seg>
                     <seg
                         rend="430,433,477,435,490,443,498,435,522,433,547,437,558,446,577,438,665,436,666,461,541,463,456,459,450,471,442,474,438,473,432,461"
-                        n="poly">Veneru<expan>n</expan>t <expan>et</expan> viderunt</seg>
+                        n="poly">Veneru<ex>n</ex>t <ex>et</ex> viderunt</seg>
                     <seg
                         rend="68,471,82,462,427,464,437,480,457,470,457,464,506,464,504,494,439,493,426,502,420,494,360,493,352,497,343,490,68,489"
-                        n="poly">ubi man<expan>er</expan>et et manserunt apud illum die illo.</seg>
+                        n="poly">ubi man<ex>er</ex>et et manserunt apud illum die illo.</seg>
                     <seg
                         rend="512,465,674,465,674,496,587,495,576,504,574,495,529,496,522,502,505,500"
-                        n="poly">Post h<expan>ec</expan> invenit</seg>
+                        n="poly">Post h<ex>ec</ex> invenit</seg>
                     <seg
                         rend="68,492,339,493,352,501,362,496,417,497,426,506,441,496,501,498,503,505,509,505,509,525,451,528,423,524,398,527,322,524,224,525,68,519"
-                        n="poly">s<expan>an</expan>c<expan>tu</expan>s Andreas
-                        fr<expan>atr</expan>em suum Symonem <expan>et</expan> dixit ei :</seg>
+                        n="poly">s<ex>an</ex>c<ex>tu</ex>s Andreas
+                        fr<ex>atr</ex>em suum Symonem <ex>et</ex> dixit ei :</seg>
                     <seg
                         rend="512,503,522,504,533,498,540,498,570,499,577,510,588,498,677,500,678,523,542,526,535,533,527,529,512,524"
                         n="poly">frater inveni-</seg>
                     <seg
                         rend="68,522,230,529,411,529,411,557,383,565,377,560,364,562,361,555,273,560,265,565,261,557,141,560,136,553,68,554"
-                        n="poly">–mus Messyam q<expan>uo</expan>d int<expan>er</expan>pretatur
-                            <expan>Christus</expan>.</seg>
+                        n="poly">–mus Messyam q<ex>uo</ex>d int<ex>er</ex>pretatur <ex>Christus</ex>.</seg>
                     <seg
                         rend="414,528,520,530,535,537,542,529,673,529,673,559,502,562,428,562,414,556"
-                        n="poly">Et adduxit eum ad J<expan>esu</expan>m.</seg>
+                        n="poly">Et adduxit eum ad J<ex>esu</ex>m.</seg>
                     <seg
                         rend="68,555,133,555,138,563,257,560,262,567,269,566,274,562,343,560,342,586,304,589,270,586,263,591,260,586,231,587,82,582,71,600,64,593"
-                        n="poly">Intuens aut<expan>em</expan> eum J<expan>esu</expan>s dixit :</seg>
+                        n="poly">Intuens aut<ex>em</ex> eum J<ex>esu</ex>s dixit :</seg>
                     <seg
                         rend="346,558,359,558,363,566,377,561,384,568,405,561,422,561,429,565,661,562,662,590,575,588,564,597,561,594,559,588,441,588,435,594,432,592,431,587,345,587"
-                        n="poly">tu es Symon fili<expan>us</expan> Johanna, tu</seg>
+                        n="poly">tu es Symon fili<ex>us</ex> Johanna, tu</seg>
                     <seg
                         rend="68,606,81,586,255,588,260,594,269,589,426,589,432,598,442,590,486,591,486,616,430,616,424,620,416,617,323,615,314,621,310,615,265,614,253,624,252,615,215,614,204,621,193,616,191,614,67,613"
-                        n="poly">vocaberis cephas q<expan>uo</expan>d int<expan>er</expan>pretatur
+                        n="poly">vocaberis cephas q<ex>uo</ex>d int<ex>er</ex>pretatur
                         Petrus.</seg>
                     <seg
                         rend="492,591,554,590,563,602,577,590,681,592,679,621,640,624,633,619,521,616,513,626,503,624,491,616"
-                        n="poly">H<expan>oc</expan> nomem inposu-</seg>
+                        n="poly">H<ex>oc</ex> nomem inposu-</seg>
                     <seg
                         rend="68,616,190,617,204,625,216,618,250,617,251,628,268,618,308,618,313,626,311,643,279,642,274,650,269,651,268,640,242,642,232,650,228,643,66,644"
-                        n="poly">–it D<expan>omi</expan>n<expan>u</expan>s Pet<expan>r</expan>o non
-                            q<expan>ua</expan>n<expan>do</expan> dixit :</seg>
+                        n="poly">–it D<ex>omi</ex>n<ex>u</ex>s Pet<ex>r</ex>o non
+                            q<ex>ua</ex>n<ex>do</ex> dixit :</seg>
                     <seg
                         rend="316,626,325,619,416,620,424,626,432,619,489,618,498,624,515,628,523,618,631,622,639,627,678,624,678,645,620,646,606,654,602,645,567,649,563,651,557,646,380,649,314,642"
-                        n="poly">tu es Petrus, ubi doc<expan>et</expan> Aug<expan>ustinus</expan> De
-                            <expan>con</expan>cordia</seg>
+                        n="poly">tu es Petrus, ubi doc<ex>et</ex> Aug<ex>ustinus</ex> De <ex>con</ex>cordia</seg>
                     <seg rend="66,648,224,645,231,658,230,678,203,683,136,683,66,676" n="poly"
-                            >evvangelistar<expan>um</expan>.</seg>
+                            >evvangelistar<ex>um</ex>.</seg>
                     <seg
                         rend="234,655,247,644,258,642,264,643,267,656,277,652,282,645,328,646,373,652,552,648,561,654,599,649,606,659,621,649,675,649,674,678,297,679,289,684,283,678,253,682,247,680,234,671"
-                        n="poly">Com vidissent u<expan>b</expan>i maneret alt<expan>er</expan>o die
-                            redier<expan>un</expan>t</seg>
+                        n="poly">Com vidissent u<ex>b</ex>i maneret alt<ex>er</ex>o die
+                            redier<ex>un</ex>t</seg>
                     <seg
                         rend="64,684,395,687,395,713,203,713,193,718,192,711,123,711,113,717,109,710,63,710"
-                        n="poly">ad opus suum q<expan>uia</expan> piscatores erant.</seg>
+                        n="poly">ad opus suum q<ex>uia</ex> piscatores erant.</seg>
                     <seg rend="400,681,671,683,671,715,555,718,468,713,448,719,410,715,400,710"
-                        n="poly">Et <expan>cum</expan> q<expan>u</expan>adam die piscarentur</seg>
+                        n="poly">Et <ex>cum</ex> q<ex>u</ex>adam die piscarentur</seg>
                     <seg
                         rend="63,713,103,712,112,723,125,714,187,714,191,722,203,715,397,716,444,721,444,740,395,742,384,745,379,742,166,746,160,739,62,740"
-                        n="poly">in stanno G<expan>e</expan>n<expan>e</expan>sareth
-                        q<expan>uo</expan>d d<expan>icitu</expan>r Mare Galiee,</seg>
+                        n="poly">in stanno G<ex>e</ex>n<ex>e</ex>sareth
+                        q<ex>uo</ex>d d<ex>icitu</ex>r Mare Galiee,</seg>
                     <seg rend="448,723,470,716,559,721,655,718,655,746,610,749,448,738" n="poly"
-                            >ven<expan>i</expan>t ad eos D<expan>omi</expan>n<expan>u</expan>s juxta</seg>
+                            >ven<ex>i</ex>t ad eos D<ex>omi</ex>n<ex>u</ex>s juxta</seg>
                     <seg
                         rend="63,742,156,742,166,749,375,746,388,749,398,745,406,745,406,774,388,782,349,775,63,772"
-                        n="poly">litt<expan>us</expan> et intrav<expan>i</expan>t in naviculam
-                            eor<expan>um</expan>.</seg>
+                        n="poly">litt<ex>us</ex> et intrav<ex>i</ex>t in naviculam
+                            eor<ex>um</ex>.</seg>
                     <seg
                         rend="413,743,470,743,526,746,610,752,679,750,678,778,520,774,505,780,502,778,501,773,441,777,432,785,415,778,413,767"
-                        n="poly">Posq<expan>u</expan>am <expan>sic</expan> p<expan>re</expan>dicavit
+                        n="poly">Posq<ex>u</ex>am <ex>sic</ex> p<ex>re</ex>dicavit
                         eis de na-</seg>
                     <seg
                         rend="63,776,311,778,310,809,262,807,257,815,250,813,250,806,198,806,190,811,181,807,178,804,102,805,63,801"
-                        n="poly">–vi fec<expan>i</expan>t eos cap<expan>er</expan>e tot pisces</seg>
+                        n="poly">–vi fec<ex>i</ex>t eos cap<ex>er</ex>e tot pisces</seg>
                     <seg
                         rend="315,778,351,778,392,786,403,777,416,781,433,789,444,779,497,776,503,783,521,776,670,781,670,810,507,809,498,817,496,808,332,809,324,810,313,803"
-                        n="poly">quod sursum trah<expan>er</expan>e non valebant.</seg>
+                        n="poly">quod sursum trah<ex>er</ex>e non valebant.</seg>
                     <seg
                         rend="63,805,106,810,175,807,191,816,200,809,246,809,248,817,259,819,264,810,317,812,329,815,334,812,492,811,495,821,509,812,601,813,600,842,384,840,378,844,375,839,270,839,262,842,257,837,58,842"
-                        n="poly"><expan>Et</expan> vocaver<expan>un</expan>t alios piscatores
-                            q<expan>u</expan>i erant in alia navi,</seg>
+                        n="poly"><ex>Et</ex> vocaver<ex>un</ex>t alios piscatores
+                            q<ex>u</ex>i erant in alia navi,</seg>
                     <seg rend="604,813,670,813,669,842,604,841" n="poly">in qua</seg>
                     <seg
                         rend="66,846,254,840,260,848,271,842,371,842,382,850,380,867,365,877,362,869,222,872,171,874,165,868,65,865"
-                        n="poly">erat Jacob<expan>us</expan>
-                        <expan>et</expan> Joh<expan>ann</expan>es et m<expan>u</expan>lti alii.</seg>
+                        n="poly">erat Jacob<ex>us</ex> <ex>et</ex> Joh<ex>ann</ex>es et m<ex>u</ex>lti alii.</seg>
                     <seg
                         rend="388,848,396,841,410,843,667,845,667,874,467,873,457,879,454,878,453,871,387,871"
                         n="poly">Et inpleverunt anbas na-</seg>
                     <seg rend="68,868,162,871,171,878,356,872,351,899,292,902,216,903,68,896"
-                        n="poly">–vic<expan>u</expan>las, ita ut pene
-                            m<expan>er</expan>g<expan>er</expan>ent<expan>ur</expan>.</seg>
+                        n="poly">–vic<ex>u</ex>las, ita ut pene
+                            m<ex>er</ex>g<ex>er</ex>ent<ex>ur</ex>.</seg>
                     <seg
                         rend="361,884,378,872,451,874,452,882,461,881,467,875,672,877,672,906,659,907,548,906,535,911,532,903,369,905,361,902"
-                        n="poly">Et cu<expan>m</expan> vidissent h<expan>oc</expan> miraculum</seg>
+                        n="poly">Et cu<ex>m</ex> vidissent h<ex>oc</ex> miraculum</seg>
                     <seg rend="70,899,267,907,267,932,171,933,69,927" n="poly">valde stupuerunt.</seg>
                     <seg
                         rend="274,905,297,904,357,903,371,909,527,906,533,917,549,909,671,910,671,942,504,935,490,952,485,947,485,935,409,937,381,938,371,945,367,934,351,934,339,941,338,934,288,936,274,932"
-                        n="poly">Et dix<expan>i</expan>t J<expan>esu</expan>s Petro : noli timere
-                            q<expan>uia</expan> a m<expan>od</expan>o</seg>
+                        n="poly">Et dix<ex>i</ex>t J<ex>esu</ex>s Petro : noli timere
+                            q<ex>uia</ex> a m<ex>od</ex>o</seg>
                     <seg
                         rend="70,934,273,935,289,940,332,938,337,944,356,937,362,937,370,948,382,942,467,938,466,964,416,966,405,971,398,964,331,965,318,971,312,961,189,961,178,967,176,960,82,961,75,965,69,950"
-                        n="poly">piscaberis ho<expan>min</expan>es sic<expan>u</expan>t solet
+                        n="poly">piscaberis ho<ex>min</ex>es sic<ex>u</ex>t solet
                         piscari pisces.</seg>
                     <seg rend="485,953,485,966,671,969,670,944,512,939,508,936,500,944,492,953"
                         n="poly">Et statim reduc-</seg>
                     <seg
                         rend="70,975,82,964,172,963,174,971,191,964,308,962,316,976,332,968,395,966,404,977,415,969,432,969,432,994,272,989,260,999,259,992,128,990,69,988"
-                        n="poly">–tis ad t<expan>er</expan>ram navib<expan>us</expan>, secuti
-                            s<expan>un</expan>t eum.</seg>
+                        n="poly">–tis ad t<ex>er</ex>ram navib<ex>us</ex>, secuti
+                            s<ex>un</ex>t eum.</seg>
                     <seg
                         rend="441,968,545,969,667,972,668,997,662,999,623,1000,535,998,527,1005,524,997,459,999,441,993"
-                        n="poly">Q<expan>u</expan>i tu<expan>m</expan> postea ad pisca-</seg>
+                        n="poly">Q<ex>u</ex>i tu<ex>m</ex> postea ad pisca-</seg>
                     <seg rend="69,991,242,994,240,1021,125,1015,110,1020,68,1014" n="poly"
-                            >–t<expan>i</expan>o<expan>n</expan>em redierunt.</seg>
+                            >–t<ex>i</ex>o<ex>n</ex>em redierunt.</seg>
                     <seg
                         rend="259,1005,271,992,441,998,463,1003,521,1000,525,1008,535,1001,663,1003,674,997,674,1026,547,1026,539,1030,536,1025,497,1024,491,1029,489,1024,307,1020,294,1028,294,1018,265,1020,260,1016"
-                        n="poly">Et <expan>cum</expan> it<expan>eru</expan>m anbularet
-                        J<expan>esu</expan>s juxta illud litt<expan>us</expan></seg>
+                        n="poly">Et <ex>cum</ex> it<ex>eru</ex>m anbularet
+                        J<ex>esu</ex>s juxta illud litt<ex>us</ex></seg>
                     <seg
                         rend="69,1017,115,1023,130,1018,262,1025,262,1045,140,1042,129,1046,124,1040,68,1040"
                         n="poly">sicut prius fecerat,</seg>
                     <seg
                         rend="266,1023,290,1021,291,1032,308,1023,384,1023,486,1027,491,1034,498,1027,533,1027,538,1034,547,1028,664,1029,663,1052,556,1049,546,1052,543,1049,452,1048,402,1050,390,1045,266,1045"
-                        n="poly">tunc vocav<expan>i</expan>t Pet<expan>ru</expan>m <expan>et</expan>
-                            Andrea<expan>m</expan> piscantes <expan>et</expan></seg>
+                        n="poly">tunc vocav<ex>i</ex>t Pet<ex>ru</ex>m <ex>et</ex>
+                            Andrea<ex>m</ex> piscantes <ex>et</ex></seg>
                     <seg rend="69,1044,120,1043,130,1052,141,1046,163,1044,162,1070,68,1067"
                         n="poly">dixit eis :</seg>
                     <seg
                         rend="173,1045,389,1048,405,1053,541,1051,548,1057,556,1051,670,1054,668,1079,595,1080,586,1084,582,1080,491,1077,481,1084,475,1077,281,1073,270,1079,264,1073,169,1070"
-                        n="poly">venite post me, faciam vos piscatores hominu<expan>m</expan>.</seg>
-                </p>
+                        n="poly">venite post me, faciam vos piscatores hominu<ex>m</ex>.</seg>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <p> Incipit vita et passio sanctorum <lb/> qui continentur in kalendario.<lb/>
+                    <p>Incipit vita et passio sanctorum <lb/> qui continentur in kalendario.<lb/>
                         Cum plurimi sacerdotes <lb/> sanctorum passiones in vitas non habent <lb/>
                         et ex officio suo eas scire et predicare debeant<lb/> ad excitandam
                         devotionem in sanctos, <lb/> maxime eorum vitas qui in kalendariis
@@ -281,12 +276,12 @@
                         autem eum Jesus dixit : <lb/> tu es Symon filius Johanna, <lb/> tu vocaberis
                         cephas quod interpretatur Petrus.<lb/> Hoc nomem inposuit Dominus Petro
                         <lb/> non quando dixit : tu es Petrus, <lb/> ubi docet <term
-                            n="De consensu evangelistarum, 2, 17, 34.">Augustinus <hi rend="italic"
+                            n="De consensu evangelistarum, 2, 17, 34.">Augustinus <hi rend="i"
                                 >De concordia evvangelistarum</hi></term>. <lb/> Com vidissent ubi
                         maneret, <lb/> altero die redierunt ad opus suum,<lb/> quia piscatores
                         erant. <lb/> Et cum quadam die piscarentur in stanno Genesareth <lb/> quod
                         dicitur Mare Galiee, <lb/> venit ad eos Dominus juxta littus <lb/> et
-                        intravit in naviculam eorum. <lb/> Posquam (<hi rend="italic">sic</hi>)
+                        intravit in naviculam eorum. <lb/> Posquam (<hi rend="i">sic</hi>)
                         predicavit eis de navi, <lb/> fecit eos capere tot pisces <lb/> quod sursum
                         trahere non valebant.<lb/> Et vocaverunt alios piscatores<lb/> qui erant in
                         alia navi,<lb/> in qua erat Jacobus et Johannes et multi alii. <lb/> Et
@@ -298,10 +293,10 @@
                         Jesus juxta illud littus<lb/> sicut prius fecerat,<lb/> tunc vocavit Petrum
                         et Andream piscantes<lb/> et dixit eis : venite post me, <lb/> faciam vos
                         piscatores hominum.<lb/>
-                    </p>
+                   </p>
                 </div>
                 <div type="traduction">
-                    <p> Début de la vie et de la passion des saints<lb/> qui sont contenus dans le
+                    <p>Début de la vie et de la passion des saints<lb/> qui sont contenus dans le
                         calendrier.<lb/> Comme beaucoup de prêtres<lb/> ne possèdent pas les
                         passions des saints sous forme de vies<lb/> et qu’ils devraient, en raison
                         de leur charge, les connaître et les prêcher<lb/> pour exciter la dévotion
@@ -327,7 +322,7 @@
                         Pierre.<lb/> Le Seigneur donna alors ce nom à Pierre,<lb/> et non lorsqu’il
                         lui dit : tu es Pierre, <lb/> comme l’enseigne <term
                             n="De consensu evangelistarum, 2, 17, 34.">Augustin dans <hi
-                                rend="italic">La concorde des évangélistes</hi></term>. <lb/> Ayant
+                                rend="i">La concorde des évangélistes</hi></term>. <lb/> Ayant
                         vu où il demeurait, <lb/> ils retournèrent le lendemain à leur travail,
                         <lb/> car ils étaient pêcheurs.<lb/> Un jour, alors qu’ils pêchaient sur
                         l’étang de Génésareth, <lb/> qu’on appelle la mer de Galilée, <lb/> le Seigneur
@@ -345,27 +340,27 @@
                         marchait le long du rivage, <lb/> comme il avait fait auparavant, <lb/> il
                         appela alors Pierre et André qui pêchaient<lb/> et il leur dit : venez avec
                         moi, <lb/> je vous ferai pêcheurs d’hommes. <lb/>
-                    </p>
+                   </p>
                 </div>
             </div>
             <div type="commentaire" n="paleographie">
                 <head>Commentaire paléographique</head>
-                <div n="1">
+                <div>
                     <head>Aspect général</head>
-                    <div type="contenu_commentaire">
-                        <p> L’écriture est une gothique évoluée caractérisée par des traits appuyés
+                    <div>
+                        <p>L’écriture est une gothique évoluée caractérisée par des traits appuyés
                             et une certaine cursivité. Sont particulièrement notables les jambabes
                             des <hi rend="strong">m</hi> dont le dernier plonge en position
                             finale, ainsi que la fusion entre <hi rend="strong">d</hi> et la
                             voyelle <hi rend="strong">e</hi>. On peut également noter la manière
                             dont le tracé des hastes est exagéré pour les lettres de la deuxième
                             ligne. Les hampes des <hi rend="strong">p</hi> sont prolongées à la
-                            dernière ligne de la page. </p>
+                            dernière ligne de la page.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Formes individuelles à remarquer</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <list type="simple">
 			  <item>
 			    <label>
@@ -397,86 +392,86 @@
                         </list>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Abréviations</head>
-                    <div type="contenu_commentaire">
-                        <p> Le système abréviatif, peu développé, présente les formes usuelles :
+                    <div>
+                        <p>Le système abréviatif, peu développé, présente les formes usuelles :
                             tildes pour les nasales et -<hi rend="bold">re</hi> ; les abréviations
                             sur –<hi rend="bold">p</hi> ; lettres suscrites ; terminaisons en –<hi
                                 rend="bold">or(um)</hi>, signes conventionnels pour -<hi rend="bold"
                                 >ur</hi>, -<hi rend="bold">us</hi>, -<hi rend="bold">con/com</hi>.
                             La conjonction <hi rend="bold">et</hi> est régulièrement remplacée par
-                            le note tironienne. Les <hi rend="italic">nomina sacra</hi> et autres
+                            le note tironienne. Les <hi rend="i">nomina sacra</hi> et autres
                             mots du registre religieux, bien représentés, sont abrégés de manière
-                            habituelle. </p>
+                            habituelle.</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Structuration</head>
-                    <div type="contenu_commentaire">
-                        <p> Les mots sont rigoureusement séparés, y compris les prépositions et
+                    <div>
+                        <p>Les mots sont rigoureusement séparés, y compris les prépositions et
                             conjonctions. Une correction est indiquée par ajout d’un mot dans
                             l’interligne (l. 7). Le point sert à séparer les groupes de mots. Suivi
                             d’une lettre rubriquée, il indique aussi une ponctuation forte et permet
                             de distinguer entre elles les propositions. Il est concurrencé dans cet
                             emploi par le point et virgule. Le point d’interrogation est également
-                            employé. </p>
-                        <p> Le manuscrit est un exemple typique d’ouvrage de consultation et de
+                            employé.</p>
+                        <p>Le manuscrit est un exemple typique d’ouvrage de consultation et de
                             lecture privée. De petites dimensions (190 x 130 mm), la page, réglée à
                             la mine de plomb, est structurée par un registre décoratif simple qui
                             utilise les titres rubriqués, les initiales rubriquées filigranées à
                             l’encre (<hi rend="bold">C</hi> et <hi rend="bold">J</hi>) et les
-                            initiales rehaussées à l’encre rouge. </p>
+                            initiales rehaussées à l’encre rouge.</p>
                     </div>
                 </div>
             </div>
-            <div type="commentaire" n="histoire">
+            <div type="history">
                 <head>Commentaire historique</head>
-                <div n="1">
-                    <head>Les <hi rend="italic">Abbreviationes</hi></head>
-                    <div type="contenu_commentaire">
-                        <p> L’<hi rend="italic">Abbreviatio</hi> de Jean de Mailly († <hi rend="italic">ante</hi> 1260) se
+                <div>
+                    <head>Les <hi rend="i">Abbreviationes</hi></head>
+                    <div>
+                        <p>L’<hi rend="i">Abbreviatio</hi> de Jean de Mailly († <hi rend="i">ante</hi> 1260) se
                             rattache au genre littéraire des légendiers. Le légendier est un
-                            manuscrit contenant les vies des saints (<hi rend="italic"
+                            manuscrit contenant les vies des saints (<hi rend="i"
                             >legendae</hi>). Ce genre hagiographique connaît une inflexion
-                            importante au milieu du XIII<hi rend="exposant">e</hi> siècle lorsque
-                            les anciens légendiers sont abandonnés au profit des <hi rend="italic"
+                            importante au milieu du XIII<hi rend="sup">e</hi> siècle lorsque
+                            les anciens légendiers sont abandonnés au profit des <hi rend="i"
                                 >Abbreviationes</hi>. Il s’agit de légendiers qui n’ont pas été
                             composés par compilation, mais qui possèdent un auteur et forment une
                             œuvre homogène précédée d’une préface. L’émergence de ce genre nouveau
                             est liée à l’apparition des ordres mendiants dans la première moitié du
-                                XIII<hi rend="exposant">e</hi> siècle. Les dominicains et les
+                                XIII<hi rend="sup">e</hi> siècle. Les dominicains et les
                             franciscains cherchent alors à promouvoir une prédication plus
-                            accessible aux simples clercs et aux laïcs. </p>
-                        <p> La préface de l’<hi rend="italic">Abbreviatio</hi> est typique des
+                            accessible aux simples clercs et aux laïcs.</p>
+                        <p>La préface de l’<hi rend="i">Abbreviatio</hi> est typique des
                             nouveaux légendiers. Elle est due à Jean de Mailly, profès du couvent
                             dominicain de Metz vers 1220. Le texte liminaire est écrit par un
                             professionnel de la prédication qui entend aider les prêtres de paroisse
                             dans leur charge pastorale. En effet, faute de temps et de moyens, les
                             prêtres manquent de livres pour prêcher sur les saints qui sont célébrés
                             au cours du cycle liturgique. Jean de Mailly leur offre donc un abrégé
-                            qui contient les données essentielles sur les saints du calendrier. </p>
-                        <p> À un moindre titre que la <hi rend="italic">Légende dorée</hi> de
-                            Jacques de Voragine qu’elle a influencée, l’<hi rend="italic"
+                            qui contient les données essentielles sur les saints du calendrier.</p>
+                        <p>À un moindre titre que la <hi rend="i">Légende dorée</hi> de
+                            Jacques de Voragine qu’elle a influencée, l’<hi rend="i"
                                 >Abbreviatio</hi> a connu un important succès. Elle a été diffusée
                             dans de nombreuses aires géographiques, de l’Angleterre à l’Italie,
                             selon un phénomène d’adaptation aux calendriers locaux. L’exemplaire de
                             la Bibliothèque Mazarine appartient à l’aire de diffusion champenoise et
-                            a été copié pour la cathédrale Saint-Étienne de Châlons. </p>
-                        <p> Le succès de l’œuvre s’explique notamment par la simplicité de son latin
+                            a été copié pour la cathédrale Saint-Étienne de Châlons.</p>
+                        <p>Le succès de l’œuvre s’explique notamment par la simplicité de son latin
                             : la narration de la vie de saint André procède par courte phrases
                             coordonnées qui contrastent avec les périodes savamment construites de
                             la préface. À partir de la trame biblique, Jean de Mailly accorde une
                             place importante au dialogue, aux détails concrets et au merveilleux.
                             Tous ces éléments confèrent au récit une vivacité dont le prêtre doit
                             s’inspirer pour sa prédication. Répertoire d’histoires édifiantes, l’<hi
-                                rend="italic">Abbreviatio</hi> est un manuel typique de la parole
-                            nouvelle des prédicateurs mendiants. </p>
+                                rend="i">Abbreviatio</hi> est un manuel typique de la parole
+                            nouvelle des prédicateurs mendiants.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Pour approfondir</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <listBibl>
                             <bibl>
                                 <author>Dondaine (A.)</author>, « Le dominicain français Jean de
@@ -493,7 +488,7 @@
                                 ecclésiastiques</title>, <biblScope type="vol">t. 27</biblScope>,
                                 1998-2000, col. 247-248. </bibl>
                             <bibl>
-                                <author>Philippart (G.)</author>, <hi rend="italic">Les légendiers latins et autres
+                                <author>Philippart (G.)</author>, <hi rend="i">Les légendiers latins et autres
                                 manuscrits hagiographiques</hi>, Turnhout, 1977 (<title>Typologie des
                                     sources du Moyen Âge occidental</title>, <biblScope type="vol"
                                     >24-25</biblScope>). </bibl>

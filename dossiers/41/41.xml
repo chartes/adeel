@@ -23,12 +23,12 @@
                 <p>
                     <seg n="poly"
                         rend="67,1,25,17,9,55,26,87,66,101,107,85,639,85,640,63,123,54,105,16"
-                        >Clemens ep<expan>iscopu</expan>s servus servor<expan>um</expan> Dei,
+                        >Clemens ep<ex>iscopu</ex>s servus servor<ex>um</ex> Dei,
                         venerabili fratri . . </seg>
-                    <seg rend="688,55,1137,85">ep<expan>iscop</expan>o Parisien<expan>si</expan>,
-                            sal<expan>u</expan>t<expan>em</expan> et ap<expan>osto</expan>licam
-                            ben<expan>edictionem</expan>. Sup-</seg>
-                    <seg rend="22,110,548,139">-plicationi qua dilecti filii mag<expan>ist</expan>ri
+                    <seg rend="688,55,1137,85">ep<ex>iscop</ex>o Parisien<ex>si</ex>,
+                            sal<ex>u</ex>t<ex>em</ex> et ap<ex>osto</ex>licam
+                            ben<ex>edictionem</ex>. Sup-</seg>
+                    <seg rend="22,110,548,139">-plicationi qua dilecti filii mag<ex>ist</ex>ri
                         pauperes qui, </seg>
                     <seg rend="553,106,1133,140">in artibus adepti magisterii dignitatem, in
                         theologica fa-</seg>
@@ -38,55 +38,53 @@
                     <seg rend="19,204,575,232">-tenta instantia nos pulsarunt, benignum accomodantes
                         auditum, </seg>
                     <seg rend="600,196,1138,228">fraternitatem tuam rogamus, et hortamur</seg>
-                    <seg rend="16,248,686,279">attente, quatinus mag<expan>ist</expan>ris
-                        ip<expan>s</expan>is habendi oratorium in domo ip<expan>s</expan>a, </seg>
-                    <seg rend="690,243,1147,280">in quo illi ex ip<expan>s</expan>is qui fuerint in
+                    <seg rend="16,248,686,279">attente, quatinus mag<ex>ist</ex>ris
+                        ip<ex>s</ex>is habendi oratorium in domo ip<ex>s</ex>a, </seg>
+                    <seg rend="690,243,1147,280">in quo illi ex ip<ex>s</ex>is qui fuerint in
                         sacerdotio con-</seg>
-                    <seg rend="12,293,578,330">-stituti, aliis predictis mag<expan>ist</expan>ris
+                    <seg rend="12,293,578,330">-stituti, aliis predictis mag<ex>ist</ex>ris
                         presentibus et audientibus, </seg>
                     <seg rend="580,293,1140,325">ac alii etiam ydonei capellani, quos ab
-                        ip<expan>s</expan>is magi-</seg>
+                        ip<ex>s</ex>is magi-</seg>
                     <seg rend="11,344,556,372">-stris ad hoc requiri contigerit specialiter et
                         vocari, </seg>
-                    <seg rend="559,342,1132,370">cum opus fuerit, mag<expan>ist</expan>ris eisdem
+                    <seg rend="559,342,1132,370">cum opus fuerit, mag<ex>ist</ex>ris eisdem
                         divina officia celebrare</seg>
-                    <seg rend="14,394,389,421">possint, absq<expan>ue</expan> juris prejudicio
+                    <seg rend="14,394,389,421">possint, absq<ex>ue</ex> juris prejudicio
                         alieni, </seg>
-                    <seg rend="394,388,1127,415">ob n<expan>ost</expan>ram et
-                        ap<expan>osto</expan>lice Sedis reverentiam, licentiam quam habere postulant</seg>
+                    <seg rend="394,388,1127,415">ob n<ex>ost</ex>ram et
+                        ap<ex>osto</ex>lice Sedis reverentiam, licentiam quam habere postulant</seg>
                     <seg rend="19,442,545,469">et affectant, si expedire videris, liberaliter
                         largiaris, </seg>
-                    <seg rend="555,436,1108,462">ut ex n<expan>ost</expan>ra intercessione, quam
+                    <seg rend="555,436,1108,462">ut ex n<ex>ost</ex>ra intercessione, quam
                         sibi efficaciter sperant</seg>
                     <seg rend="14,492,712,516">prodesse, salubre suum in hoc propositum fuisse
                         gaudeant adimpletum, </seg>
                     <seg rend="717,480,1132,509">et nos devotionem tuam dignis proinde</seg>
                     <seg rend="19,538,348,563">laudibus prosequi debeamus. </seg>
-                    <seg rend="355,537,409,562">Dat<expan>um</expan>
-                    </seg>
+                    <seg rend="355,537,409,562">Dat<ex>um</ex></seg>
                     <seg rend="503,531,611,565">Viterbii, </seg>
                     <seg rend="704,536,746,566">III° </seg>
-                    <seg rend="836,521,948,558">kal<expan>endas</expan>
-                    </seg>
+                    <seg rend="836,521,948,558">kal<ex>endas</ex></seg>
                     <seg rend="1023,520,1132,567">aprilis,</seg>
                     <seg rend="15,583,134,609">pontificatus </seg>
-                    <seg rend="349,583,399,614">n<expan>ost</expan>ri </seg>
+                    <seg rend="349,583,399,614">n<ex>ost</ex>ri </seg>
                     <seg rend="712,579,775,608">anno </seg>
                     <seg rend="1028,570,1115,597">quarto.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <l>Clemens ep<expan>iscopu</expan>s servus servor<expan>um</expan> Dei, </l>
+                    <l>Clemens ep<ex>iscopu</ex>s servus servor<ex>um</ex> Dei, </l>
                     <l><term
                             n="Le qualificatif de  vénérables frères  est réservé par le pape, évêque de Rome, aux autres évêques ; toutes les autres personnes citées sont des  fils  (mais, attention, la formule stéréotypée  de consilio fratrum nostrorum  peut accompagner la mention d&#x2019;une décision prise en consistoire et donc désigner les cardinaux)."
-                            >venerabili fratri</term> . . ep<expan>iscop</expan>o
-                        Parisien<expan>si</expan>, </l>
-                    <l>sal<expan>u</expan>t<expan>em</expan> et ap<expan>osto</expan>licam
-                            ben<expan>edictionem</expan>. </l>
+                            >venerabili fratri</term> . . ep<ex>iscop</ex>o
+                        Parisien<ex>si</ex>, </l>
+                    <l>sal<ex>u</ex>t<ex>em</ex> et ap<ex>osto</ex>licam
+                            ben<ex>edictionem</ex>. </l>
                     <l>Supplicationi qua dilecti filii <term
                             n="La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257."
-                                >mag<expan>ist</expan>ri</term>
+                                >mag<ex>ist</ex>ri</term>
                     </l>
                     <l><term
                             n="La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257."
@@ -99,26 +97,26 @@
                     <l>attenta instantia nos pulsarunt, benignum </l>
                     <l>accomodantes auditum, fraternitatem tuam </l>
                     <l>rogamus, et hortamur attente, quatinus </l>
-                    <l>mag<expan>ist</expan>ris ip<expan>s</expan>is habendi oratorium in domo </l>
-                    <l>ip<expan>s</expan>a, in quo illi ex ip<expan>s</expan>is qui fuerint in </l>
+                    <l>mag<ex>ist</ex>ris ip<ex>s</ex>is habendi oratorium in domo </l>
+                    <l>ip<ex>s</ex>a, in quo illi ex ip<ex>s</ex>is qui fuerint in </l>
                     <l>sacerdotio constituti, aliis predictis </l>
-                    <l>mag<expan>ist</expan>ris presentibus et audientibus, ac alii </l>
-                    <l>etiam ydonei capellani, quos ab ip<expan>s</expan>is </l>
+                    <l>mag<ex>ist</ex>ris presentibus et audientibus, ac alii </l>
+                    <l>etiam ydonei capellani, quos ab ip<ex>s</ex>is </l>
                     <l>magistris ad hoc requiri contigerit </l>
                     <l>specialiter et vocari, cum opus fuerit, </l>
-                    <l>mag<expan>ist</expan>ris eisdem divina officia celebrare</l>
-                    <l>possint, absq<expan>ue</expan> juris prejudicio alieni, ob </l>
-                    <l>n<expan>ost</expan>ram et ap<expan>osto</expan>lice Sedis reverentiam, </l>
+                    <l>mag<ex>ist</ex>ris eisdem divina officia celebrare</l>
+                    <l>possint, absq<ex>ue</ex> juris prejudicio alieni, ob </l>
+                    <l>n<ex>ost</ex>ram et ap<ex>osto</ex>lice Sedis reverentiam, </l>
                     <l>licentiam quam habere postulant et </l>
                     <l>affectant, si expedire videris, liberaliter </l>
-                    <l>largiaris, ut ex n<expan>ost</expan>ra intercessione, quam </l>
+                    <l>largiaris, ut ex n<ex>ost</ex>ra intercessione, quam </l>
                     <l>sibi efficaciter sperant prodesse, salubre </l>
                     <l>suum in hoc propositum fuisse gaudeant </l>
                     <l>adimpletum, et nos devotionem tuam </l>
                     <l>dignis proinde laudibus prosequi </l>
-                    <l>debeamus. Dat<expan>um</expan> Viterbii, III° kal<expan>endas</expan>
+                    <l>debeamus. Dat<ex>um</ex> Viterbii, III° kal<ex>endas</ex>
                     </l>
-                    <l>aprilis, pontificatus n<expan>ost</expan>ri anno quarto.</l>
+                    <l>aprilis, pontificatus n<ex>ost</ex>ri anno quarto.</l>
                 </div>
                 <div type="traduction">
                     <l>Clément évêque, serviteur des serviteurs de Dieu, à </l>
@@ -158,7 +156,7 @@
                 <div type="commentaires">
                     <div>
                         <head> Conversion de la date </head>
-                        <p> La suscription pontificale ne contient jamais d&#x2019;ordinal, et
+                        <p>La suscription pontificale ne contient jamais d&#x2019;ordinal, et
                             la bulle de plomb, qui l&#x2019;indique, a ici disparu. Il faut donc
                             procéder par recoupement pour identifier ce pape Clément. Des
                             indications d&#x2019;ordre paléographique et historique fournissent
@@ -167,7 +165,7 @@
                             autant que la titulature primitive du collège de Sorbonne. Ne reste plus
                             que Clément IV. Il est couronné le 15 février 1265 ; la quatrième année
                             de son pontificat (interrompue par son décès) commence le 15 février
-                            1268 : la lettre est donc du 30 mars 1268. </p>
+                            1268 : la lettre est donc du 30 mars 1268.</p>
                     </div>
                 </div>
                 <div type="regeste">
@@ -188,9 +186,9 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <div class="recommandation">
                             <p>Passer la souris sur les cercles rouges pour des commentaires de
                                 détail</p>
@@ -213,7 +211,7 @@
                                     <seg type="circle" rend="428,452,23">Attache de la bulle</seg>
                                 </figDesc>
                             </figure>
-                        </p>
+                       </p>
                         <p>Les abréviations sont peu nombreuses, limitées à quelques désinences et à
                             un petit nombre de mots (hors protocole : <em>magister, ipse, noster,
                                 apostolicus</em>). Noter au passage la forme canonique de
@@ -224,9 +222,9 @@
                             ligne sans avoir beaucoup de choix possibles pour les couper.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Construction et traduction</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Tout le texte au sens diplomatique (hors protocole initial et final)
                             tient dans une seule phrase, de 139 mots, à la construction
                             sophistiquée. On propose donc de suivre pas à pas les étapes de la
@@ -328,27 +326,27 @@
                         </ul>
                     </div>
                 </div>
-                <div n="3">
+                <div>
                     <head>Parties du discours</head>
                     <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de
+                        <p>Passer la souris sur le texte pour obtenir des commentaires de
                         détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
-                            <seg corresp="suscription" rend="color:#0099CC">Clemens episcopus servus
-                                servorum Dei,<note id="suscription" type="bulle">Suscription.</note></seg>
-                            <seg corresp="adresse" rend="color:#000099">venerabili fratri . .
-                                episcopo Parisiensi,<note id="adresse" type="bulle">Adresse.</note></seg>
-                            <seg corresp="salut" rend="color:#FF0000">salutem et apostolicam
-                                    benedictionem.<note id="salut" type="bulle">Salut.</note></seg>
-                            <seg corresp="expose" rend="color:#009966">Supplicationi qua dilecti
+                            <seg corresp="suscription">Clemens episcopus servus
+                                servorum Dei,<note id="suscription">Suscription.</note></seg>
+                            <seg corresp="adresse">venerabili fratri . .
+                                episcopo Parisiensi,<note id="adresse">Adresse.</note></seg>
+                            <seg corresp="salut">salutem et apostolicam
+                                    benedictionem.<note id="salut">Salut.</note></seg>
+                            <seg corresp="expose">Supplicationi qua dilecti
                                 filii magistri pauperes qui, in artibus adepti magisterii
                                 dignitatem, in theologica facultate student et in vico ad Portas
                                 ante palatium de Termis Parisius sub communi vita degunt, attenta
                                 instantia nos pulsarunt, benignum accomodantes auditum,<note
-                                    id="expose" type="bulle">Exposé.</note></seg>
-                            <seg corresp="dispositif" rend="color:#FF00FF">fraternitatem tuam
+                                    id="expose">Exposé.</note></seg>
+                            <seg corresp="dispositif">fraternitatem tuam
                                 rogamus, et hortamur attente, quatinus magistris ipsis habendi
                                 oratorium in domo ipsa, in quo illi ex ipsis qui fuerint in
                                 sacerdotio constituti, aliis predictis magistris presentibus et
@@ -360,20 +358,20 @@
                                 liberaliter largiaris, ut ex nostra intercessione, quam sibi
                                 efficaciter sperant prodesse, salubre suum in hoc propositum fuisse
                                 gaudeant adimpletum, et nos devotionem tuam dignis proinde laudibus
-                                prosequi debeamus.<note id="dispositif" type="bulle"
+                                prosequi debeamus.<note id="dispositif"
                                 >Dispositif.</note></seg>
-                            <seg corresp="date" rend="color:#006600">Datum Viterbii, III° kalendas
+                            <seg corresp="date">Datum Viterbii, III° kalendas
                                 aprilis, pontificatus nostri anno quarto.<note id="date"
-                                    type="bulle">Date de lieu et de temps.</note></seg>
-                        </p>
+                                   >Date de lieu et de temps.</note></seg>
+                       </p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Conclusion de l'examen</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Certaines particularités graphiques (discrétion des initiales grossies,
                             tildes plats, absence d’étirement de la ligature ct/st) et l’absence de
-                                <hi rend="italic">sanctio</hi> concordent pour dénoncer un bullement
+                                <hi rend="i">sanctio</hi> concordent pour dénoncer un bullement
                             sur fil de chanvre et non sur lacs de soie : il s’agit d’une lettre
                             ponctuelle d’intervention, d’injonction, d’« intercession » (noter le
                             terme, assez flatteur pour le destinataire) auprès de l’ordinaire du
@@ -384,16 +382,16 @@
                             de circonstances spéciales.</p>
                         <p>Le contexte explique mieux le mélange d’insistance au fond et de prudence
                             dans la forme. Les premiers temps de l’histoire et du chartrier du
-                            collège de Sorbon sont bien connus (Palémon Glorieux, <hi rend="italic"
-                                >Aux origines de la Sorbonne</hi>, t. I, <hi rend="italic">Robert de
-                                Sorbon</hi>, t. II, <hi rend="italic">Le cartulaire</hi>, Paris,
+                            collège de Sorbon sont bien connus (Palémon Glorieux, <hi rend="i"
+                                >Aux origines de la Sorbonne</hi>, t. I, <hi rend="i">Robert de
+                                Sorbon</hi>, t. II, <hi rend="i">Le cartulaire</hi>, Paris,
                             1965-1966) ; les étapes de sa fondation, son implantation topographique,
                             l’appui souvent sollicité du Saint-Siège sont ainsi placés sous une vive
                             lumière ; plus ponctuellement, on apprend que la demande de pouvoir
                             disposer d’un oratoire privé avait déjà été soutenue, auprès de l’évêque
                             de Paris, par le pape Urbain IV (4 mai 1263). Le présent document n’est
                             donc qu’une réitération, adressée cinq ans plus tard par un autre pape à
-                            un prélat à l’évidence réticent. </p>
+                            un prélat à l’évidence réticent.</p>
                     </div>
                 </div>
             </div>

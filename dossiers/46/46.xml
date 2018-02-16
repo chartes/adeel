@@ -7,7 +7,6 @@
          </titleStmt>
          <publicationStmt>
             <idno type="numero">46</idno>
-
             <publisher>Ecole nationale des chartes</publisher>
          </publicationStmt>
          <sourceDesc>
@@ -22,181 +21,173 @@
       <body>
          <div type="facsimile" rend="fax.jpg">
             <p>
-               <seg rend="33,5,4,27,58,76,453,73,454,52,64,47" n="poly">Univ<expan>er</expan>sis
-                  presentes litt<expan>er</expan>as inspecturis, </seg>
-               <seg rend="463,49,868,69">Richardus dict<expan>us</expan> Mouche,
-                     sal<expan>u</expan>t<expan>em</expan> in Domino.</seg>
-               <seg rend="30,82,381,104">Ad noticiam sing<expan>u</expan>lor<expan>um</expan> volo
-                     p<expan>er</expan>venire </seg>
-               <seg rend="390,82,878,97">quod ego vendidi <expan>et</expan> concessi et
-                  om<expan>n</expan>ino d<expan>er</expan>eliqui</seg>
-               <seg rend="35,110,515,130">Radulpho d<expan>i</expan>c<expan>t</expan>o Avice et
-                     Rob<expan>er</expan>to d<expan>i</expan>c<expan>t</expan>o Avice,
-                     fratrib<expan>us</expan>, </seg>
-               <seg rend="525,109,881,128">om<expan>n</expan>e illud q<expan>uod</expan> habebam in
+               <seg rend="33,5,4,27,58,76,453,73,454,52,64,47" n="poly">Univ<ex>er</ex>sis
+                  presentes litt<ex>er</ex>as inspecturis, </seg>
+               <seg rend="463,49,868,69">Richardus dict<ex>us</ex> Mouche,
+                     sal<ex>u</ex>t<ex>em</ex> in Domino.</seg>
+               <seg rend="30,82,381,104">Ad noticiam sing<ex>u</ex>lor<ex>um</ex> volo
+                     p<ex>er</ex>venire </seg>
+               <seg rend="390,82,878,97">quod ego vendidi <ex>et</ex> concessi et
+                  om<ex>n</ex>ino d<ex>er</ex>eliqui</seg>
+               <seg rend="35,110,515,130">Radulpho d<ex>i</ex>c<ex>t</ex>o Avice et
+                     Rob<ex>er</ex>to d<ex>i</ex>c<ex>t</ex>o Avice,
+                     fratrib<ex>us</ex>, </seg>
+               <seg rend="525,109,881,128">om<ex>n</ex>e illud q<ex>uod</ex> habebam in
                   Ranevilla,</seg>
-               <seg rend="30,141,428,159">videl<expan>icet</expan>
-                  q<expan>u</expan>a<expan>m</expan>dam masura<expan>m</expan> co<expan>m</expan>
-                  toto h<expan>er</expan>b<expan>er</expan>game<expan>n</expan>to, </seg>
-               <seg rend="439,142,884,159">sita<expan>m</expan> apud Gaunel int<expan>er</expan>
-                  terram Rad<expan>ulphi</expan> d<expan>i</expan>c<expan>t</expan>i Florie</seg>
-               <seg rend="30,172,430,192">ex una p<expan>ar</expan>te et viam d<expan>omi</expan>ni
-                  regis ex alt<expan>er</expan>a, </seg>
-               <seg rend="442,173,875,195">vendidi etiam cortillagiu<expan>m</expan>
-                  meu<expan>m</expan> p<expan>re</expan>fatis
-                  f<expan>rat</expan>rib<expan>us</expan>,</seg>
-               <seg rend="32,204,551,227">situ<expan>m</expan> int<expan>er</expan>
-                  terra<expan>m</expan> Vi<expan>n</expan>centii de
-                  C<expan>om</expan>bu<expan>m</expan> et t<expan>erram</expan>
-                  Guill<expan>elm</expan>i d<expan>i</expan>c<expan>t</expan>i Sage, </seg>
-               <seg rend="568,208,864,231">pro XXXta lib<expan>ris</expan>
-                  tur<expan>onensium</expan>, de quib<expan>us</expan></seg>
-               <seg rend="33,239,610,262">me teneo pro pagato, habend<expan>um</expan>,
-                     tenend<expan>um</expan>
-                  <expan>et</expan> jure h<expan>er</expan>editario </seg>
-               <seg rend="618,238,869,260">jamd<expan>i</expan>c<expan>t</expan>is
-                     f<expan>rat</expan>rib<expan>us</expan> scil<expan>icet</expan>
-                  Rad<expan>ulpho</expan></seg>
-               <seg rend="29,270,410,292"><expan>et</expan> Rob<expan>er</expan>t<expan>o</expan> in
-                     perpetuu<expan>m</expan> decet<expan>er</expan>o possidend<expan>um</expan>
-               </seg>
-               <seg rend="422,272,876,294">lib<expan>er</expan>e, quiete et absolute et
-                     absq<expan>ue</expan> ulla</seg>
-               <seg rend="28,305,449,324">reclamat<expan>i</expan>o<expan>n</expan>e mei
-                  am<expan>od</expan>o vel h<expan>er</expan>edum meor<expan>um</expan>, </seg>
-               <seg rend="459,306,869,327">salvo t<expan>ame</expan>n jure <expan>et</expan> redditu
+               <seg rend="30,141,428,159">videl<ex>icet</ex>
+                  q<ex>u</ex>a<ex>m</ex>dam masura<ex>m</ex> co<ex>m</ex>
+                  toto h<ex>er</ex>b<ex>er</ex>game<ex>n</ex>to, </seg>
+               <seg rend="439,142,884,159">sita<ex>m</ex> apud Gaunel int<ex>er</ex>
+                  terram Rad<ex>ulphi</ex> d<ex>i</ex>c<ex>t</ex>i Florie</seg>
+               <seg rend="30,172,430,192">ex una p<ex>ar</ex>te et viam d<ex>omi</ex>ni
+                  regis ex alt<ex>er</ex>a, </seg>
+               <seg rend="442,173,875,195">vendidi etiam cortillagiu<ex>m</ex>
+                  meu<ex>m</ex> p<ex>re</ex>fatis
+                  f<ex>rat</ex>rib<ex>us</ex>,</seg>
+               <seg rend="32,204,551,227">situ<ex>m</ex> int<ex>er</ex>
+                  terra<ex>m</ex> Vi<ex>n</ex>centii de
+                  C<ex>om</ex>bu<ex>m</ex> et t<ex>erram</ex>
+                  Guill<ex>elm</ex>i d<ex>i</ex>c<ex>t</ex>i Sage, </seg>
+               <seg rend="568,208,864,231">pro XXXta lib<ex>ris</ex>
+                  tur<ex>onensium</ex>, de quib<ex>us</ex></seg>
+               <seg rend="33,239,610,262">me teneo pro pagato, habend<ex>um</ex>,
+                     tenend<ex>um</ex> <ex>et</ex> jure h<ex>er</ex>editario </seg>
+               <seg rend="618,238,869,260">jamd<ex>i</ex>c<ex>t</ex>is
+                     f<ex>rat</ex>rib<ex>us</ex> scil<ex>icet</ex>
+                  Rad<ex>ulpho</ex></seg>
+               <seg rend="29,270,410,292"><ex>et</ex> Rob<ex>er</ex>t<ex>o</ex> in
+                     perpetuu<ex>m</ex> decet<ex>er</ex>o possidend<ex>um</ex></seg>
+               <seg rend="422,272,876,294">lib<ex>er</ex>e, quiete et absolute et
+                     absq<ex>ue</ex> ulla</seg>
+               <seg rend="28,305,449,324">reclamat<ex>i</ex>o<ex>n</ex>e mei
+                  am<ex>od</ex>o vel h<ex>er</ex>edum meor<ex>um</ex>, </seg>
+               <seg rend="459,306,869,327">salvo t<ex>ame</ex>n jure <ex>et</ex> redditu
                   capitalium</seg>
-               <seg rend="29,336,495,358">d<expan>omi</expan>no<expan>rum</expan>. Hanc
-                  aut<expan>em</expan> vendit<expan>i</expan>o<expan>n</expan>em <expan>et</expan>
-                     co<expan>n</expan>cessione<expan>m</expan>
-               </seg>
-               <seg rend="506,335,879,361">ego prenotat<expan>us</expan> Ric<expan>hardus</expan>
-                  <expan>et</expan> h<expan>er</expan>edes mei</seg>
-               <seg rend="28,368,473,391">seped<expan>i</expan>c<expan>t</expan>is
-                     f<expan>rat</expan>rib<expan>us</expan> et
-                  h<expan>er</expan>edib<expan>us</expan> suis cont<expan>r</expan>a
-                  om<expan>n</expan>es </seg>
-               <seg rend="482,370,873,397">et in o<expan>mn</expan>ib<expan>us</expan> curiis ad
-                  usus Norm<expan>annie</expan> te-</seg>
-               <seg rend="33,392,359,422">-nem<expan>ur</expan> deffend<expan>er</expan>e et
+               <seg rend="29,336,495,358">d<ex>omi</ex>no<ex>rum</ex>. Hanc
+                  aut<ex>em</ex> vendit<ex>i</ex>o<ex>n</ex>em <ex>et</ex>
+                     co<ex>n</ex>cessione<ex>m</ex></seg>
+               <seg rend="506,335,879,361">ego prenotat<ex>us</ex> Ric<ex>hardus</ex> <ex>et</ex> h<ex>er</ex>edes mei</seg>
+               <seg rend="28,368,473,391">seped<ex>i</ex>c<ex>t</ex>is
+                     f<ex>rat</ex>rib<ex>us</ex> et
+                  h<ex>er</ex>edib<ex>us</ex> suis cont<ex>r</ex>a
+                  om<ex>n</ex>es </seg>
+               <seg rend="482,370,873,397">et in o<ex>mn</ex>ib<ex>us</ex> curiis ad
+                  usus Norm<ex>annie</ex> te-</seg>
+               <seg rend="33,392,359,422">-nem<ex>ur</ex> deffend<ex>er</ex>e et
                   garantizare, </seg>
-               <seg rend="370,397,880,428">vel <expan>etiam</expan>, si necc<expan>ess</expan>e
-                     fu<expan>er</expan>it, valore ad valore<expan>m</expan> in alia</seg>
-               <seg rend="27,430,498,452">p<expan>ro</expan>p<expan>r</expan>ia
-                  h<expan>er</expan>editate n<expan>ost</expan>ra
-                  ubicu<expan>m</expan>q<expan>ue</expan> fu<expan>er</expan>it excambiare </seg>
-               <seg rend="507,436,872,461"><expan>et</expan> etiam indempgnes in
-                  o<expan>mn</expan>ibus obs<expan>er</expan>-</seg>
-               <seg rend="29,460,461,483">-vare. Ut h<expan>ec</expan> aut<expan>em</expan>
-                     vendit<expan>i</expan>o et concessio </seg>
-               <seg rend="478,471,882,495">p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>is
-                     f<expan>rat</expan>rib<expan>us</expan> et suis
-                  h<expan>er</expan>edib<expan>us</expan> firmitate<expan>m</expan></seg>
-               <seg rend="28,491,253,511">obtineat in post<expan>er</expan>um, </seg>
-               <seg rend="274,498,864,527">p<expan>re</expan>sentib<expan>us</expan>
-                  litt<expan>er</expan>is impressione<expan>m</expan> sigilli mei
-                  appon<expan>er</expan>e dignu<expan>m</expan></seg>
-               <seg rend="28,520,28,537,281,546,457,550,456,533" n="poly">duxi. Act<expan>um</expan>
-                     an<expan>n</expan>o gr<expan>ati</expan>e M° CC° L° III°, </seg>
-               <seg rend="477,533,477,553,866,566,868,547" n="poly">me<expan>n</expan>se
-                     decembr<expan>is</expan>, cora<expan>m</expan> parrochia
-                     S<expan>an</expan>c<expan>t</expan>e</seg>
+               <seg rend="370,397,880,428">vel <ex>etiam</ex>, si necc<ex>ess</ex>e
+                     fu<ex>er</ex>it, valore ad valore<ex>m</ex> in alia</seg>
+               <seg rend="27,430,498,452">p<ex>ro</ex>p<ex>r</ex>ia
+                  h<ex>er</ex>editate n<ex>ost</ex>ra
+                  ubicu<ex>m</ex>q<ex>ue</ex> fu<ex>er</ex>it excambiare </seg>
+               <seg rend="507,436,872,461"><ex>et</ex> etiam indempgnes in
+                  o<ex>mn</ex>ibus obs<ex>er</ex>-</seg>
+               <seg rend="29,460,461,483">-vare. Ut h<ex>ec</ex> aut<ex>em</ex>
+                     vendit<ex>i</ex>o et concessio </seg>
+               <seg rend="478,471,882,495">p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is
+                     f<ex>rat</ex>rib<ex>us</ex> et suis
+                  h<ex>er</ex>edib<ex>us</ex> firmitate<ex>m</ex></seg>
+               <seg rend="28,491,253,511">obtineat in post<ex>er</ex>um, </seg>
+               <seg rend="274,498,864,527">p<ex>re</ex>sentib<ex>us</ex>
+                  litt<ex>er</ex>is impressione<ex>m</ex> sigilli mei
+                  appon<ex>er</ex>e dignu<ex>m</ex></seg>
+               <seg rend="28,520,28,537,281,546,457,550,456,533" n="poly">duxi. Act<ex>um</ex>
+                     an<ex>n</ex>o gr<ex>ati</ex>e M° CC° L° III°, </seg>
+               <seg rend="477,533,477,553,866,566,868,547" n="poly">me<ex>n</ex>se
+                     decembr<ex>is</ex>, cora<ex>m</ex> parrochia
+                     S<ex>an</ex>c<ex>t</ex>e</seg>
                <seg rend="27,547,126,570">Columbe.</seg>
-            </p>
+           </p>
          </div>
          <div type="transcription">
             <div type="texte">
-               <l>Univ<expan>er</expan>sis presentes litt<expan>er</expan>as inspecturis, </l>
-               <l>Richardus dict<expan>us</expan> Mouche, sal<expan>u</expan>t<expan>em</expan> in </l>
-               <l>Domino. Ad noticiam sing<expan>u</expan>lor<expan>um</expan> volo </l>
-               <l>p<expan>er</expan>venire quod ego vendidi <expan>et</expan> concessi et </l>
-               <l>om<expan>n</expan>ino d<expan>er</expan>eliqui Radulpho
-                  d<expan>i</expan>c<expan>t</expan>o Avice et </l>
-               <l>Rob<expan>er</expan>to d<expan>i</expan>c<expan>t</expan>o Avice,
-                  fratrib<expan>us</expan>, om<expan>n</expan>e illud </l>
-               <l>q<expan>uod</expan> habebam in <term
+               <l>Univ<ex>er</ex>sis presentes litt<ex>er</ex>as inspecturis, </l>
+               <l>Richardus dict<ex>us</ex> Mouche, sal<ex>u</ex>t<ex>em</ex> in </l>
+               <l>Domino. Ad noticiam sing<ex>u</ex>lor<ex>um</ex> volo </l>
+               <l>p<ex>er</ex>venire quod ego vendidi <ex>et</ex> concessi et </l>
+               <l>om<ex>n</ex>ino d<ex>er</ex>eliqui Radulpho
+                  d<ex>i</ex>c<ex>t</ex>o Avice et </l>
+               <l>Rob<ex>er</ex>to d<ex>i</ex>c<ex>t</ex>o Avice,
+                  fratrib<ex>us</ex>, om<ex>n</ex>e illud </l>
+               <l>q<ex>uod</ex> habebam in <term
                      n="Renneville, siège de la commanderie de Saint-Étienne de Renneville (auj. Ferme de la Commanderie), sur la commune de Sainte-Colombe-la-Campagne, renommée en 1969 Sainte-Colombe-la-Commanderie (Eure, cant. Évreux-nord)."
-                     >Ranevilla</term>, videl<expan>icet</expan>
+                     >Ranevilla</term>, videl<ex>icet</ex>
                </l>
-               <l>q<expan>u</expan>a<expan>m</expan>dam <term
+               <l>q<ex>u</ex>a<ex>m</ex>dam <term
                      n="La masura est une tenure ; noter qu&#x2019;ici sa localisation laisse supposer qu&#x2019;elle forme un ensemble compact."
-                        >masura<expan>m</expan></term>
+                        >masura<ex>m</ex></term>
                   <term n="com est une forme de cum fréquente dans les textes normands."
-                     >co<expan>m</expan></term> toto </l>
-               <l>h<expan>er</expan>b<expan>er</expan>game<expan>n</expan>to, sita<expan>m</expan>
+                     >co<ex>m</ex></term> toto </l>
+               <l>h<ex>er</ex>b<ex>er</ex>game<ex>n</ex>to, sita<ex>m</ex>
                   apud <term
                      n="Gaunel : nom d&#x2019;un quartier du finage qui n&#x2019;a pu être retrouvé sur la carte I.G.N. au 1:50000."
-                     >Gaunel</term> int<expan>er</expan>
+                     >Gaunel</term> int<ex>er</ex>
                </l>
-               <l>terram Rad<expan>ulphi</expan> d<expan>i</expan>c<expan>t</expan>i Florie ex una
-                     p<expan>ar</expan>te et </l>
+               <l>terram Rad<ex>ulphi</ex> d<ex>i</ex>c<ex>t</ex>i Florie ex una
+                     p<ex>ar</ex>te et </l>
                <l><term
                      n="La via domini regis (appellation spécifique d&#x2019;une route publique) désigne ici la grande voie qui menait de Caen à Paris (et plus localement de Lisieux à Évreux) et dont l&#x2019;actuelle N. 13 a grossièrement repris le tracé au XVIIIe siècle."
-                     >viam d<expan>omi</expan>ni regis</term> ex alt<expan>er</expan>a, vendidi
+                     >viam d<ex>omi</ex>ni regis</term> ex alt<ex>er</ex>a, vendidi
                   etiam </l>
                <l><term
                      n="Le cortillagium est un petit courtil, une petite pièce de terre, généralement en jardin."
-                        >cortillagiu<expan>m</expan></term> meu<expan>m</expan>
-                  p<expan>re</expan>fatis f<expan>rat</expan>rib<expan>us</expan>,</l>
-               <l>situ<expan>m</expan> int<expan>er</expan> terra<expan>m</expan>
-                  Vi<expan>n</expan>centii de <term
+                        >cortillagiu<ex>m</ex></term> meu<ex>m</ex>
+                  p<ex>re</ex>fatis f<ex>rat</ex>rib<ex>us</ex>,</l>
+               <l>situ<ex>m</ex> int<ex>er</ex> terra<ex>m</ex>
+                  Vi<ex>n</ex>centii de <term
                      n="Combon (Eure, cant. Beaumont-le-Roger), 4 km à l&#x2019;ouest de Sainte-Colombe-la-Commanderie."
-                        >C<expan>om</expan>bu<expan>m</expan></term> et </l>
-               <l>t<expan>erram</expan> Guill<expan>elm</expan>i d<expan>i</expan>c<expan>t</expan>i
-                  Sage, pro XXX<hi rend="exposant">ta</hi>
+                        >C<ex>om</ex>bu<ex>m</ex></term> et </l>
+               <l>t<ex>erram</ex> Guill<ex>elm</ex>i d<ex>i</ex>c<ex>t</ex>i
+                  Sage, pro XXX<hi rend="sup">ta</hi>
                </l>
-               <l>lib<expan>ris</expan>
+               <l>lib<ex>ris</ex>
                   <term
                      n="Les tournois, à l&#x2019;origine deniers de Tours, sont devenus, aux côtés des parisis, l&#x2019;un des grands monnayages capétien depuis la conquête des dominations plantagenet par Philippe Auguste. Comme seuls les denier sont frappés, on parle, au moins en latin, de &#34; livres de [deniers] tournois &#34;."
-                        >tur<expan>onensium</expan></term>, de quib<expan>us</expan> me teneo pro </l>
-               <l>pagato, habend<expan>um</expan>, tenend<expan>um</expan>
-                  <expan>et</expan> jure </l>
-               <l>h<expan>er</expan>editario jamd<expan>i</expan>c<expan>t</expan>is
-                     f<expan>rat</expan>rib<expan>us</expan> scil<expan>icet</expan>
+                        >tur<ex>onensium</ex></term>, de quib<ex>us</ex> me teneo pro </l>
+               <l>pagato, habend<ex>um</ex>, tenend<ex>um</ex> <ex>et</ex> jure </l>
+               <l>h<ex>er</ex>editario jamd<ex>i</ex>c<ex>t</ex>is
+                     f<ex>rat</ex>rib<ex>us</ex> scil<ex>icet</ex>
                </l>
-               <l>Rad<expan>ulpho</expan>
-                  <expan>et</expan> Rob<expan>er</expan>t<expan>o</expan> in
-                  perpetuu<expan>m</expan>
+               <l>Rad<ex>ulpho</ex> <ex>et</ex> Rob<ex>er</ex>t<ex>o</ex> in
+                  perpetuu<ex>m</ex>
                </l>
-               <l>decet<expan>er</expan>o possidend<expan>um</expan> lib<expan>er</expan>e, quiete
+               <l>decet<ex>er</ex>o possidend<ex>um</ex> lib<ex>er</ex>e, quiete
                   et </l>
-               <l>absolute et absq<expan>ue</expan> ulla reclamat<expan>i</expan>o<expan>n</expan>e
+               <l>absolute et absq<ex>ue</ex> ulla reclamat<ex>i</ex>o<ex>n</ex>e
                   mei </l>
-               <l>am<expan>od</expan>o vel h<expan>er</expan>edum meor<expan>um</expan>, salvo
-                     t<expan>ame</expan>n </l>
-               <l>jure <expan>et</expan> redditu capitalium d<expan>omi</expan>no<expan>rum</expan>. </l>
-               <l>Hanc aut<expan>em</expan> vendit<expan>i</expan>o<expan>n</expan>em
-                  <expan>et</expan> co<expan>n</expan>cessione<expan>m</expan>
+               <l>am<ex>od</ex>o vel h<ex>er</ex>edum meor<ex>um</ex>, salvo
+                     t<ex>ame</ex>n </l>
+               <l>jure <ex>et</ex> redditu capitalium d<ex>omi</ex>no<ex>rum</ex>. </l>
+               <l>Hanc aut<ex>em</ex> vendit<ex>i</ex>o<ex>n</ex>em <ex>et</ex> co<ex>n</ex>cessione<ex>m</ex>
                </l>
-               <l>ego prenotat<expan>us</expan> Ric<expan>hardus</expan>
-                  <expan>et</expan> h<expan>er</expan>edes mei</l>
-               <l>seped<expan>i</expan>c<expan>t</expan>is f<expan>rat</expan>rib<expan>us</expan>
-                  et h<expan>er</expan>edib<expan>us</expan> suis cont<expan>r</expan>a </l>
-               <l>om<expan>n</expan>es et in o<expan>mn</expan>ib<expan>us</expan> curiis ad usus </l>
-               <l>Norm<expan>annie</expan> tenem<expan>ur</expan> deffend<expan>er</expan>e et </l>
-               <l>garantizare, vel <expan>etiam</expan>, si necc<expan>ess</expan>e
-                  fu<expan>er</expan>it, valore ad </l>
-               <l>valore<expan>m</expan> in alia p<expan>ro</expan>p<expan>r</expan>ia
-                  h<expan>er</expan>editate </l>
-               <l>n<expan>ost</expan>ra ubicu<expan>m</expan>q<expan>ue</expan>
-                  fu<expan>er</expan>it excambiare </l>
-               <l><expan>et</expan> etiam <term
+               <l>ego prenotat<ex>us</ex> Ric<ex>hardus</ex> <ex>et</ex> h<ex>er</ex>edes mei</l>
+               <l>seped<ex>i</ex>c<ex>t</ex>is f<ex>rat</ex>rib<ex>us</ex>
+                  et h<ex>er</ex>edib<ex>us</ex> suis cont<ex>r</ex>a </l>
+               <l>om<ex>n</ex>es et in o<ex>mn</ex>ib<ex>us</ex> curiis ad usus </l>
+               <l>Norm<ex>annie</ex> tenem<ex>ur</ex> deffend<ex>er</ex>e et </l>
+               <l>garantizare, vel <ex>etiam</ex>, si necc<ex>ess</ex>e
+                  fu<ex>er</ex>it, valore ad </l>
+               <l>valore<ex>m</ex> in alia p<ex>ro</ex>p<ex>r</ex>ia
+                  h<ex>er</ex>editate </l>
+               <l>n<ex>ost</ex>ra ubicu<ex>m</ex>q<ex>ue</ex>
+                  fu<ex>er</ex>it excambiare </l>
+               <l><ex>et</ex> etiam <term
                      n="indemnis renvoie à l&#x2019;idée de dommage (damnum), dont on est exempt (&#34; indemne &#34;) ou non responsable. Ici appliqué à la personne du vendeur et de ses héritiers, il peut être mis en rapport avec les formules d&#x2019;autres actes, qui insistent plus clairement sur le fait qu&#x2019;avoir transféré la concession, en dédommagement, sur un nouveau bien ne supprime en rien les obligations d&#x2019;abord faites sur le bien d&#x2019;origine."
-                     >indempgnes</term> in o<expan>mn</expan>ibus obs<expan>er</expan>vare.</l>
-               <l>Ut h<expan>ec</expan> aut<expan>em</expan> vendit<expan>i</expan>o et concessio </l>
-               <l>p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>is
-                     f<expan>rat</expan>rib<expan>us</expan> et suis
-                  h<expan>er</expan>edib<expan>us</expan>
+                     >indempgnes</term> in o<ex>mn</ex>ibus obs<ex>er</ex>vare.</l>
+               <l>Ut h<ex>ec</ex> aut<ex>em</ex> vendit<ex>i</ex>o et concessio </l>
+               <l>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is
+                     f<ex>rat</ex>rib<ex>us</ex> et suis
+                  h<ex>er</ex>edib<ex>us</ex>
                </l>
-               <l>firmitate<expan>m</expan> obtineat in post<expan>er</expan>um, </l>
-               <l>p<expan>re</expan>sentib<expan>us</expan> litt<expan>er</expan>is
-                     impressione<expan>m</expan> sigilli mei </l>
-               <l>appon<expan>er</expan>e dignu<expan>m</expan> duxi. Act<expan>um</expan>
-                     an<expan>n</expan>o gr<expan>ati</expan>e </l>
-               <l>M° CC° L° III°, me<expan>n</expan>se decembr<expan>is</expan>,
-                  cora<expan>m</expan>
+               <l>firmitate<ex>m</ex> obtineat in post<ex>er</ex>um, </l>
+               <l>p<ex>re</ex>sentib<ex>us</ex> litt<ex>er</ex>is
+                     impressione<ex>m</ex> sigilli mei </l>
+               <l>appon<ex>er</ex>e dignu<ex>m</ex> duxi. Act<ex>um</ex>
+                     an<ex>n</ex>o gr<ex>ati</ex>e </l>
+               <l>M° CC° L° III°, me<ex>n</ex>se decembr<ex>is</ex>,
+                  cora<ex>m</ex>
                </l>
-               <l>parrochia S<expan>an</expan>c<expan>t</expan>e Columbe.</l>
+               <l>parrochia S<ex>an</ex>c<ex>t</ex>e Columbe.</l>
             </div>
             <div type="traduction">
                <l>À tous ceux qui verront les présentes </l>
@@ -271,12 +262,12 @@
          </div>
          <div type="commentaire" n="diplomatique">
             <head>Commentaire diplomatique</head>
-            <div n="1">
+            <div>
                <head>Caractères externes</head>
                <div type="recommandation">
                   <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
                </div>
-               <div type="contenu_commentaire">
+               <div>
                   <p>
                      <figure rend="46/faxexternes.jpg">
                         <figDesc>
@@ -301,7 +292,7 @@
                               parchemin) passant deux fois dans le repli.</seg>
                         </figDesc>
                      </figure>
-                  </p>
+                 </p>
                   <p>L’acte est écrit sur un support de petite taille (17 x 14 cm). L’importance de
                      la marge supérieure, la régularité de la justification, la hauteur relative du
                      repli signent la volonté de délivrer un titre qui, pour être courant si ce
@@ -330,22 +321,22 @@
                      encadrer certains termes abrégés.</p>
                </div>
             </div>
-            <div n="3">
+            <div>
                <head>Parties du discours</head>
                <div type="recommandation">
                   <p>Passer la souris sur le texte pour des commentaires de détail</p>
                </div>
-               <div type="contenu_commentaire">
+               <div>
                   <p>
-                     <seg corresp="adresse" rend="color:#FF0000">Universis presentes litteras
-                           inspecturis,<note id="adresse" type="bulle">Adresse universelle</note></seg>
-                     <seg corresp="suscription" rend="color:#0099CC">Richardus dictus Mouche, <note
-                           id="suscription" type="bulle">Suscription</note></seg>
-                     <seg corresp="salut" rend="color:#993399">salutem in Domino.<note id="salut"
-                           type="bulle">Salut.</note></seg>
-                     <seg corresp="notif" rend="color:#000099">Ad noticiam singulorum volo pervenire
-                           quod<note id="notif" type="bulle">Notification.</note></seg>
-                     <seg corresp="dispo" rend="color:#FF00FF">ego vendidi et concessi et omnino
+                     <seg corresp="adresse">Universis presentes litteras
+                           inspecturis,<note id="adresse">Adresse universelle</note></seg>
+                     <seg corresp="suscription">Richardus dictus Mouche, <note
+                           id="suscription">Suscription</note></seg>
+                     <seg corresp="salut">salutem in Domino.<note id="salut"
+                          >Salut.</note></seg>
+                     <seg corresp="notif">Ad noticiam singulorum volo pervenire
+                           quod<note id="notif">Notification.</note></seg>
+                     <seg corresp="dispo">ego vendidi et concessi et omnino
                         dereliqui Radulpho dicto Avice et Roberto dicto Avice, fratribus, omne illud
                         quod habebam in Ranevilla, videlicet quamdam masuram com toto herbergamento,
                         sitam apud Gauvel inter terram Radulphi dicti Florie ex una parte et viam
@@ -354,29 +345,29 @@
                         XXXta libris turonensium, de quibus me teneo pro pagato, habendum, tenendum
                         et jure hereditario jam dictis fratribus scilicet Radulpho et Roberto in
                         perpetuum decetero possidendum libere, quiete et absolute et absque ulla
-                        reclamatione mei amodo vel heredum meorum,<note id="dispo" type="bulle"
+                        reclamatione mei amodo vel heredum meorum,<note id="dispo"
                            >Dispositif.</note></seg>
-                     <seg corresp="clause" rend="color:#CC9966">salvo tamen jure et redditu
-                        capitalium dominorum.<note id="clause" type="bulle">Clause de
+                     <seg corresp="clause">salvo tamen jure et redditu
+                        capitalium dominorum.<note id="clause">Clause de
                         réserve.</note></seg>
-                     <seg corresp="obligation" rend="color:#CC0000">Hanc autem venditionem et
+                     <seg corresp="obligation">Hanc autem venditionem et
                         concessionem ego prenotatus Richardus et heredes mei sepedictis fratribus et
                         heredibus suis contra omnes et in omnibus curiis ad usus Normanie tenemur
                         deffendere et garantizare, vel etiam, si neccesse fuerit, valore ad valorem
                         in alia propria hereditate nostra ubicumque fuerit excambiare et etiam
-                        indempgnes in omnibus observare.<note id="obligation" type="bulle">Clause
+                        indempgnes in omnibus observare.<note id="obligation">Clause
                            d&#x2019;obligation.</note></seg>
-                     <seg corresp="corroboration" rend="color:#9999FF">Ut hec autem venditio et concessio predictis fratribus et suis heredibus firmitatem obtineat in posterum, presentibus litteris impressionem sigilli mei apponere dignum duxi.<note id="corroboration"
-                        type="bulle">Corroboration.</note></seg>
-                     <seg corresp="date" rend="color:#006600">Actum anno gratie M° CC° L° III°,
+                     <seg corresp="corroboration">Ut hec autem venditio et concessio predictis fratribus et suis heredibus firmitatem obtineat in posterum, presentibus litteris impressionem sigilli mei apponere dignum duxi.<note id="corroboration"
+                       >Corroboration.</note></seg>
+                     <seg corresp="date">Actum anno gratie M° CC° L° III°,
                         mense decembris, coram parrochia Sancte Columbe.<note id="date"
-                           type="bulle">Date de temps et de lieu</note></seg>
-                  </p>
+                          >Date de temps et de lieu</note></seg>
+                 </p>
                </div>
             </div>
-            <div n="4">
+            <div>
                <head>Interprétation</head>
-               <div type="contenu_commentaire">
+               <div>
                   <p>Contrairement aux caractères externes, il y a peu de remarques à faire sur la
                      langue utilisée par l’acte, un latin correct qui, comme le terme de « lettres »
                      employé pour désigner l’acte, traduit à la fois une solide formation scolaire
@@ -398,13 +389,13 @@
                      régionales. An plan juridique, l’allusion faite aux « usages de Normandie »
                      trouve son répondant dans une sigillographie qui accorde un rôle de premier
                      plan aux sceaux d’auteurs de moyenne envergure sociale encore qu’aisés (et
-                     appelés bien à tort « sceaux de paysans » au XIX<hi rend="exposant">e</hi>
+                     appelés bien à tort « sceaux de paysans » au XIX<hi rend="sup">e</hi>
                      siècle), et dans un trait diplomatique qui va dépérir quelques décennies plus
                      tard sous la pression des juridictions gracieuses royales, la passation du
                      contrat au vu et au su de la communauté paroissiale, témoin collectif garant de
                      sa bonne exécution (voir Mathieu Arnoux, « Essor et déclin d’un type
                      diplomatique : les actes passés <foreign>coram parrochia</foreign> en
-                     Normandie, XII<hi rend="exposant">e</hi>-XIII<hi rend="exposant">e</hi> siècles
+                     Normandie, XII<hi rend="sup">e</hi>-XIII<hi rend="sup">e</hi> siècles
                      », dans <title>Bibliothèque de l’École des chartes</title>, t. 154, 1996, p.
                      323-357).</p>
                </div>

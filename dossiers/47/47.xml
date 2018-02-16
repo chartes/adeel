@@ -22,207 +22,191 @@
             <div type="facsimile" rend="fax.jpg">
                 <p>
                     <seg rend="25,12,29,90,380,85,380,62,76,67,57,9" n="poly">Robertus, Dei
-                            gr<expan>aci</expan>a rex Jer<expan>usa</expan>l<expan>e</expan>m
-                            <expan>et</expan> Sicilie, </seg>
-                    <seg rend="396,58,736,75">ducatus Apulie <expan>et</expan> principatus Capue, </seg>
-                    <seg rend="748,56,1132,75">Provi<expan>n</expan>cie <expan>et</expan>
-                            Forcalqu<expan>er</expan>ii ac Pedimo<expan>n</expan>tis comes, </seg>
-                    <seg rend="1139,63,1593,90">. . vicario, judici <expan>et</expan> clavario
-                        Tarasconis, fidelib<expan>us</expan></seg>
-                    <seg rend="45,106,366,119">suis, gracia<expan>m</expan> sua<expan>m</expan>
-                        <expan>et</expan> bonam voluntatem. </seg>
-                    <seg rend="377,98,1214,117">Concessimus pridie de sp<expan>eci</expan>ali
-                            gr<expan>aci</expan>a hominib<expan>us</expan>
-                            d<expan>i</expan>c<expan>t</expan>i castri Tarasconis p<expan>er</expan>
-                        alias n<expan>ost</expan>ras patentes l<expan>itte</expan>ras </seg>
-                    <seg rend="1222,102,1598,129">q<expan>uo</expan>d ip<expan>s</expan>i ac
-                        successores eo<expan>rum</expan> blada seu legu-</seg>
-                    <seg rend="49,140,349,160">-mina quocu<expan>m</expan>q<expan>ue</expan>
-                        vocabulo censerent<expan>ur</expan>
-                    </seg>
-                    <seg rend="359,132,822,152">p<expan>ro</expan>veniencia ex territoriis
-                            d<expan>i</expan>c<expan>t</expan>i castri extrahere possint </seg>
-                    <seg rend="828,131,826,148,1069,153,1609,169,1612,152,1075,136" n="poly">libere
-                            <expan>et</expan> ubicu<expan>m</expan>q<expan>ue</expan> exceptis
-                            inimicor<expan>um</expan> terris ea deferre p<expan>ro</expan>
-                            eor<expan>um</expan> libito voluntat<expan>is</expan>
-                        p<expan>ro</expan>ut hec <expan>et</expan></seg>
-                    <seg rend="46,184,46,205,416,187,416,171" n="poly">alia in ip<expan>s</expan>is
-                            n<expan>ost</expan>ris l<expan>itte</expan>ris clarius
-                            distingunt<expan>ur</expan>, </seg>
+                            gr<ex>aci</ex>a rex Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Sicilie, </seg>
+                    <seg rend="396,58,736,75">ducatus Apulie <ex>et</ex> principatus Capue, </seg>
+                    <seg rend="748,56,1132,75">Provi<ex>n</ex>cie <ex>et</ex>
+                            Forcalqu<ex>er</ex>ii ac Pedimo<ex>n</ex>tis comes, </seg>
+                    <seg rend="1139,63,1593,90">. . vicario, judici <ex>et</ex> clavario
+                        Tarasconis, fidelib<ex>us</ex></seg>
+                    <seg rend="45,106,366,119">suis, gracia<ex>m</ex> sua<ex>m</ex> <ex>et</ex> bonam voluntatem. </seg>
+                    <seg rend="377,98,1214,117">Concessimus pridie de sp<ex>eci</ex>ali
+                            gr<ex>aci</ex>a hominib<ex>us</ex>
+                            d<ex>i</ex>c<ex>t</ex>i castri Tarasconis p<ex>er</ex>
+                        alias n<ex>ost</ex>ras patentes l<ex>itte</ex>ras </seg>
+                    <seg rend="1222,102,1598,129">q<ex>uo</ex>d ip<ex>s</ex>i ac
+                        successores eo<ex>rum</ex> blada seu legu-</seg>
+                    <seg rend="49,140,349,160">-mina quocu<ex>m</ex>q<ex>ue</ex>
+                        vocabulo censerent<ex>ur</ex></seg>
+                    <seg rend="359,132,822,152">p<ex>ro</ex>veniencia ex territoriis
+                            d<ex>i</ex>c<ex>t</ex>i castri extrahere possint </seg>
+                    <seg rend="828,131,826,148,1069,153,1609,169,1612,152,1075,136" n="poly">libere <ex>et</ex> ubicu<ex>m</ex>q<ex>ue</ex> exceptis
+                            inimicor<ex>um</ex> terris ea deferre p<ex>ro</ex>
+                            eor<ex>um</ex> libito voluntat<ex>is</ex>
+                        p<ex>ro</ex>ut hec <ex>et</ex></seg>
+                    <seg rend="46,184,46,205,416,187,416,171" n="poly">alia in ip<ex>s</ex>is
+                            n<ex>ost</ex>ris l<ex>itte</ex>ris clarius
+                            distingunt<ex>ur</ex>, </seg>
                     <seg rend="425,171,427,193,557,184,1018,189,1022,173,560,166" n="poly"
-                            >p<expan>ro</expan>pt<expan>er</expan> quod
-                        ho<expan>m</expan>i<expan>n</expan>es ip<expan>s</expan>i
-                        certu<expan>m</expan> pecuniale subsidiu<expan>m</expan>
-                        n<expan>ost</expan>re curie p<expan>ro</expan>mis<expan>er</expan>unt. </seg>
+                            >p<ex>ro</ex>pt<ex>er</ex> quod
+                        ho<ex>m</ex>i<ex>n</ex>es ip<ex>s</ex>i
+                        certu<ex>m</ex> pecuniale subsidiu<ex>m</ex>
+                        n<ex>ost</ex>re curie p<ex>ro</ex>mis<ex>er</ex>unt. </seg>
                     <seg rend="1038,167,1037,188,1604,201,1609,182" n="poly">Et quia, sicut
-                        audivimus, no<expan>n</expan>nulli d<expan>e</expan>
-                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>o castro in
-                            p<expan>re</expan>fato pe-</seg>
+                        audivimus, no<ex>n</ex>nulli d<ex>e</ex>
+                            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>o castro in
+                            p<ex>re</ex>fato pe-</seg>
                     <seg rend="47,220,48,239,384,231,384,213" n="poly">-cuniali subsidio contribuere
-                            renuu<expan>n</expan>t, </seg>
+                            renuu<ex>n</ex>t, </seg>
                     <seg rend="395,211,396,233,779,219,1389,234,1391,212,778,200" n="poly"
-                            >presenciu<expan>m</expan> tenore decernimus om<expan>n</expan>es
-                            <expan>et</expan> singulos renitentes hujusmodi <expan>et</expan>
-                        successores eor<expan>um</expan> om<expan>n</expan>ino privari, </seg>
-                    <seg rend="1402,217,1400,238,1599,241,1600,224" n="poly">quos <expan>et</expan>
+                            >presenciu<ex>m</ex> tenore decernimus om<ex>n</ex>es <ex>et</ex> singulos renitentes hujusmodi <ex>et</ex>
+                        successores eor<ex>um</ex> om<ex>n</ex>ino privari, </seg>
+                    <seg rend="1402,217,1400,238,1599,241,1600,224" n="poly">quos <ex>et</ex>
                         nos exnunc</seg>
                     <seg rend="51,257,51,278,449,266,448,247" n="poly">simili modo
-                            p<expan>r</expan>ivam<expan>us</expan>, ip<expan>s</expan>ius
-                            gr<expan>aci</expan>e n<expan>ost</expan>re fructu. </seg>
+                            p<ex>r</ex>ivam<ex>us</ex>, ip<ex>s</ex>ius
+                            gr<ex>aci</ex>e n<ex>ost</ex>re fructu. </seg>
                     <seg rend="466,242,473,265,894,262,1093,272,1296,268,1296,250,1095,252,894,243"
                         n="poly">Volumus igitur et de certa scientia nostra presencium tenore
                         mandamus quatinus vos, officiales predicti, </seg>
-                    <seg rend="1311,253,1610,272">officior<expan>um</expan>
-                            ves<expan>t</expan>ror<expan>um</expan> temporibus</seg>
+                    <seg rend="1311,253,1610,272">officior<ex>um</ex>
+                            ves<ex>t</ex>ror<ex>um</ex> temporibus</seg>
                     <seg rend="50,298,49,315,362,302,361,284" n="poly">renitentes eosdem
-                            ip<expan>s</expan>or<expan>um</expan>q<expan>ue</expan> posteros </seg>
+                            ip<ex>s</ex>or<ex>um</ex>q<ex>ue</ex> posteros </seg>
                     <seg rend="376,282,375,302,1177,308,1179,288" n="poly">uti prefata
-                        n<expan>ost</expan>ra gr<expan>aci</expan>a nullatenus
-                        p<expan>er</expan>mittatis <expan>con</expan>tra
-                            huj<expan>us</expan>mo<expan>d</expan>i decreti n<expan>ost</expan>ri
-                            mente<expan>m</expan>
-                        <expan>et</expan> serie<expan>m</expan>
-                    </seg>
-                    <seg rend="1181,291,1608,312">et p<expan>re</expan>sentis n<expan>ost</expan>re
-                        pagine jussione<expan>m</expan>. Dat<expan>um</expan> Avi-</seg>
+                        n<ex>ost</ex>ra gr<ex>aci</ex>a nullatenus
+                        p<ex>er</ex>mittatis <ex>con</ex>tra
+                            huj<ex>us</ex>mo<ex>d</ex>i decreti n<ex>ost</ex>ri
+                            mente<ex>m</ex> <ex>et</ex> serie<ex>m</ex></seg>
+                    <seg rend="1181,291,1608,312">et p<ex>re</ex>sentis n<ex>ost</ex>re
+                        pagine jussione<ex>m</ex>. Dat<ex>um</ex> Avi-</seg>
                     <seg rend="565,319,564,341,412,330,175,349,53,348,51,331,186,334,415,316"
-                        n="poly">-nion<expan>e</expan> p<expan>er</expan> magistrum
-                        Matheu<expan>m</expan> Filmarinum de Neapoli, </seg>
+                        n="poly">-nion<ex>e</ex> p<ex>er</ex> magistrum
+                        Matheu<ex>m</ex> Filmarinum de Neapoli, </seg>
                     <seg rend="566,316,567,335,787,340,991,340,1188,349,1188,333,946,322,787,326"
-                        n="poly">utri<expan>us</expan>q<expan>ue</expan> juris
-                            p<expan>ro</expan>fessore<expan>m</expan>, locum tenente<expan>m</expan>
+                        n="poly">utri<ex>us</ex>q<ex>ue</ex> juris
+                            p<ex>ro</ex>fessore<ex>m</ex>, locum tenente<ex>m</ex>
                         <term
                             n="Le protonotaire, depuis l&#x2019;époque des rois normands, était au sens strict le premier des notaires (le terme et l&#x2019;institution sont d&#x2019;empreinte byzantine) ; sous l&#x2019;autorité du chancelier, il avait la haute main sur la rédaction et l&#x2019;établissement des actes."
-                            >prothonotarii</term> regni Sicil<expan>ie</expan>, </seg>
-                    <seg rend="1203,333,1601,352">dil<expan>e</expan>ctum
-                        consiliariu<expan>m</expan>, familiare<expan>m</expan>
-                        <expan>et</expan> fidelem</seg>
+                            >prothonotarii</term> regni Sicil<ex>ie</ex>, </seg>
+                    <seg rend="1203,333,1601,352">dil<ex>e</ex>ctum
+                        consiliariu<ex>m</ex>, familiare<ex>m</ex> <ex>et</ex> fidelem</seg>
                     <seg rend="54,370,56,388,242,380,444,373,528,374,528,358,323,360" n="poly"
-                            >n<expan>ost</expan>r<expan>u</expan>m, anno Domini M° CCCXX°, die
+                            >n<ex>ost</ex>r<ex>u</ex>m, anno Domini M° CCCXX°, die
                         XXIIII° augusti, </seg>
                     <seg rend="539,360,539,376,624,378,806,379,805,364" n="poly">IIIe <term
                             n="L&#x2019;indiction indique le rang d&#x2019;une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l&#x2019;indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées."
-                                >ind<expan>ictionis</expan></term>, regnor<expan>um</expan>
-                            nostror<expan>um</expan> a<expan>n</expan>no XII°.</seg>
-                </p>
+                                >ind<ex>ictionis</ex></term>, regnor<ex>um</ex>
+                            nostror<ex>um</ex> a<ex>n</ex>no XII°.</seg>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
                     <l><term
                             n="Robert II dit le Sage, petit-fils de Charles Ier d&#x2019;Anjou (+ 1285), roi de 1309 à 1343."
-                            >Robertus</term>, Dei gr<expan>aci</expan>a rex <term
+                            >Robertus</term>, Dei gr<ex>aci</ex>a rex <term
                             n="Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d&#x2019;Antioche en 1277. Depuis la chute d&#x2019;Acre en 1291, le royaume n&#x2019;avait plus de base territoriale."
-                                >Jer<expan>usa</expan>l<expan>e</expan>m</term>
-                        <expan>et</expan>
+                                >Jer<ex>usa</ex>l<ex>e</ex>m</term> <ex>et</ex>
                     </l>
                     <l><term
                             n="Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l&#x2019;Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l&#x2019;invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l&#x2019;habitude de les appeler « rois de Naples »."
                             >Sicilie</term>, ducatus <term
                             n="Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale."
-                            >Apulie</term>
-                        <expan>et</expan> principatus </l>
+                            >Apulie</term> <ex>et</ex> principatus </l>
                     <l><term
                             n="La principauté de Capoue avait été unie au royaume de Sicile en 1156 ; même remarque que pour la Pouille."
                             >Capue</term>, </l>
                     <l><term
                             n="Charles Ier était devenu comte de Provence du chef de son épouse Béatrice, héritière du comté, en 1245/1246."
-                                >Provi<expan>n</expan>cie</term>
-                        <expan>et</expan> Forcalqu<expan>er</expan>ii ac </l>
+                                >Provi<ex>n</ex>cie</term> <ex>et</ex> Forcalqu<ex>er</ex>ii ac </l>
                     <l><term
                             n="La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s&#x2019;il était loin de contrôler toute la région."
-                                >Pedimo<expan>n</expan>tis</term> comes, . . <term
+                                >Pedimo<ex>n</ex>tis</term> comes, . . <term
                             n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l&#x2019;administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s&#x2019;occupait des affaires financières et percevait les droits comtaux."
-                            >vicario, judici <expan>et</expan></term>
+                            >vicario, judici <ex>et</ex></term>
                     </l>
                     <l><term
                             n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l&#x2019;administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s&#x2019;occupait des affaires financières et percevait les droits comtaux."
                             >clavario</term>
                         <term n="Tarascon, Bouches-du-Rhône, ch.-l. cant.">Tarasconis</term>,
-                            fidelib<expan>us</expan></l>
-                    <l>suis, gracia<expan>m</expan>
+                            fidelib<ex>us</ex></l>
+                    <l>suis, gracia<ex>m</ex>
                     </l>
-                    <l>sua<expan>m</expan>
-                        <expan>et</expan> bonam voluntatem. Concessimus </l>
+                    <l>sua<ex>m</ex> <ex>et</ex> bonam voluntatem. Concessimus </l>
                     <l><term
                             n="L&#x2019;adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d&#x2019;un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous."
-                            >pridie</term> de sp<expan>eci</expan>ali gr<expan>aci</expan>a
-                            hominib<expan>us</expan> d<expan>i</expan>c<expan>t</expan>i </l>
+                            >pridie</term> de sp<ex>eci</ex>ali gr<ex>aci</ex>a
+                            hominib<ex>us</ex> d<ex>i</ex>c<ex>t</ex>i </l>
                     <l><term
                             n="L&#x2019;acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n&#x2019;ayant pas le statut de civitas épiscopale."
-                            >castri</term> Tarasconis p<expan>er</expan> alias
-                        n<expan>ost</expan>ras patentes </l>
-                    <l>l<expan>itte</expan>ras q<expan>uo</expan>d ip<expan>s</expan>i ac
-                        successores eo<expan>rum</expan>
+                            >castri</term> Tarasconis p<ex>er</ex> alias
+                        n<ex>ost</ex>ras patentes </l>
+                    <l>l<ex>itte</ex>ras q<ex>uo</ex>d ip<ex>s</ex>i ac
+                        successores eo<ex>rum</ex>
                     </l>
-                    <l>blada seu legumina quocu<expan>m</expan>q<expan>ue</expan> vocabulo </l>
-                    <l>censerent<expan>ur</expan> p<expan>ro</expan>veniencia ex territoriis
-                            d<expan>i</expan>c<expan>t</expan>i </l>
-                    <l>castri extrahere possint libere <expan>et</expan>
-                            ubicu<expan>m</expan>q<expan>ue</expan>
+                    <l>blada seu legumina quocu<ex>m</ex>q<ex>ue</ex> vocabulo </l>
+                    <l>censerent<ex>ur</ex> p<ex>ro</ex>veniencia ex territoriis
+                            d<ex>i</ex>c<ex>t</ex>i </l>
+                    <l>castri extrahere possint libere <ex>et</ex>
+                            ubicu<ex>m</ex>q<ex>ue</ex>
                     </l>
-                    <l>exceptis inimicor<expan>um</expan> terris ea deferre p<expan>ro</expan>
+                    <l>exceptis inimicor<ex>um</ex> terris ea deferre p<ex>ro</ex>
                     </l>
-                    <l>eor<expan>um</expan> libito voluntat<expan>is</expan> p<expan>ro</expan>ut
-                        hec <expan>et</expan> alia in </l>
-                    <l>ip<expan>s</expan>is n<expan>ost</expan>ris l<expan>itte</expan>ris clarius
-                            distingunt<expan>ur</expan>, </l>
-                    <l>p<expan>ro</expan>pt<expan>er</expan> quod
-                        ho<expan>m</expan>i<expan>n</expan>es ip<expan>s</expan>i
-                        certu<expan>m</expan>
+                    <l>eor<ex>um</ex> libito voluntat<ex>is</ex> p<ex>ro</ex>ut
+                        hec <ex>et</ex> alia in </l>
+                    <l>ip<ex>s</ex>is n<ex>ost</ex>ris l<ex>itte</ex>ris clarius
+                            distingunt<ex>ur</ex>, </l>
+                    <l>p<ex>ro</ex>pt<ex>er</ex> quod
+                        ho<ex>m</ex>i<ex>n</ex>es ip<ex>s</ex>i
+                        certu<ex>m</ex>
                     </l>
-                    <l>pecuniale subsidiu<expan>m</expan> n<expan>ost</expan>re curie </l>
-                    <l>p<expan>ro</expan>mis<expan>er</expan>unt. Et quia, sicut audivimus, </l>
-                    <l>no<expan>n</expan>nulli d<expan>e</expan>
-                            p<expan>re</expan>d<expan>i</expan>c<expan>t</expan>o castro in
-                            p<expan>re</expan>fato </l>
-                    <l>pecuniali subsidio contribuere renuu<expan>n</expan>t, </l>
-                    <l>presenciu<expan>m</expan> tenore decernimus om<expan>n</expan>es
-                        <expan>et</expan>
+                    <l>pecuniale subsidiu<ex>m</ex> n<ex>ost</ex>re curie </l>
+                    <l>p<ex>ro</ex>mis<ex>er</ex>unt. Et quia, sicut audivimus, </l>
+                    <l>no<ex>n</ex>nulli d<ex>e</ex>
+                            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>o castro in
+                            p<ex>re</ex>fato </l>
+                    <l>pecuniali subsidio contribuere renuu<ex>n</ex>t, </l>
+                    <l>presenciu<ex>m</ex> tenore decernimus om<ex>n</ex>es <ex>et</ex>
                     </l>
-                    <l>singulos renitentes hujusmodi <expan>et</expan>
+                    <l>singulos renitentes hujusmodi <ex>et</ex>
                     </l>
-                    <l>successores eor<expan>um</expan> om<expan>n</expan>ino privari, quos
-                            <expan>et</expan>
+                    <l>successores eor<ex>um</ex> om<ex>n</ex>ino privari, quos <ex>et</ex>
                     </l>
-                    <l>nos exnunc simili modo p<expan>r</expan>ivam<expan>us</expan>,
-                        ip<expan>s</expan>ius </l>
-                    <l>gr<expan>aci</expan>e n<expan>ost</expan>re fructu. Volumus igitur et de </l>
+                    <l>nos exnunc simili modo p<ex>r</ex>ivam<ex>us</ex>,
+                        ip<ex>s</ex>ius </l>
+                    <l>gr<ex>aci</ex>e n<ex>ost</ex>re fructu. Volumus igitur et de </l>
                     <l>certa scientia nostra presencium tenore </l>
                     <l>mandamus quatinus vos, officiales predicti, </l>
-                    <l>officior<expan>um</expan> ves<expan>t</expan>ror<expan>um</expan> temporibus</l>
-                    <l>renitentes eosdem ip<expan>s</expan>or<expan>um</expan>q<expan>ue</expan>
+                    <l>officior<ex>um</ex> ves<ex>t</ex>ror<ex>um</ex> temporibus</l>
+                    <l>renitentes eosdem ip<ex>s</ex>or<ex>um</ex>q<ex>ue</ex>
                         posteros uti </l>
-                    <l>prefata n<expan>ost</expan>ra gr<expan>aci</expan>a nullatenus </l>
-                    <l>p<expan>er</expan>mittatis <expan>con</expan>tra
-                            huj<expan>us</expan>mo<expan>d</expan>i decreti n<expan>ost</expan>ri </l>
-                    <l>mente<expan>m</expan>
-                        <expan>et</expan> serie<expan>m</expan>
+                    <l>prefata n<ex>ost</ex>ra gr<ex>aci</ex>a nullatenus </l>
+                    <l>p<ex>er</ex>mittatis <ex>con</ex>tra
+                            huj<ex>us</ex>mo<ex>d</ex>i decreti n<ex>ost</ex>ri </l>
+                    <l>mente<ex>m</ex> <ex>et</ex> serie<ex>m</ex>
                     </l>
-                    <l>et p<expan>re</expan>sentis n<expan>ost</expan>re </l>
-                    <l>pagine jussione<expan>m</expan>. Dat<expan>um</expan> Avinion<expan>e</expan>
-                            p<expan>er</expan>
+                    <l>et p<ex>re</ex>sentis n<ex>ost</ex>re </l>
+                    <l>pagine jussione<ex>m</ex>. Dat<ex>um</ex> Avinion<ex>e</ex>
+                            p<ex>er</ex>
                     </l>
-                    <l>magistrum Matheu<expan>m</expan> Filmarinum de </l>
+                    <l>magistrum Matheu<ex>m</ex> Filmarinum de </l>
                     <l>Neapoli, <term
                             n="Les deux droits sont le droit civil (ou « romain ») et le droit canon."
-                                >utri<expan>us</expan>q<expan>ue</expan> juris</term>
-                            p<expan>ro</expan>fessore<expan>m</expan>, </l>
-                    <l>locum tenente<expan>m</expan>
+                                >utri<ex>us</ex>q<ex>ue</ex> juris</term>
+                            p<ex>ro</ex>fessore<ex>m</ex>, </l>
+                    <l>locum tenente<ex>m</ex>
                         <term
                             n="Le protonotaire, depuis l&#x2019;époque des rois normands, était au sens strict le premier des notaires (le terme et l&#x2019;institution sont d&#x2019;empreinte byzantine) ; sous l&#x2019;autorité du chancelier, il avait la haute main sur la rédaction et l&#x2019;établissement des actes."
-                            >prothonotarii</term> regni Sicil<expan>ie</expan>, </l>
-                    <l>dil<expan>e</expan>ctum consiliariu<expan>m</expan>, familiare<expan>m</expan>
-                        <expan>et</expan>
+                            >prothonotarii</term> regni Sicil<ex>ie</ex>, </l>
+                    <l>dil<ex>e</ex>ctum consiliariu<ex>m</ex>, familiare<ex>m</ex> <ex>et</ex>
                     </l>
-                    <l>fidelem n<expan>ost</expan>r<expan>u</expan>m, anno Domini </l>
+                    <l>fidelem n<ex>ost</ex>r<ex>u</ex>m, anno Domini </l>
                     <l>M° CCCXX°, die XXIIII° augusti, IIIe </l>
                     <l><term
                             n="L&#x2019;indiction indique le rang d&#x2019;une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l&#x2019;indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées."
-                                >ind<expan>ictionis</expan></term>, regnor<expan>um</expan>
-                            nostror<expan>um</expan>
+                                >ind<ex>ictionis</ex></term>, regnor<ex>um</ex>
+                            nostror<ex>um</ex>
                     </l>
-                    <l>a<expan>n</expan>no XII°. </l>
+                    <l>a<ex>n</ex>no XII°. </l>
                     <l>[ Au verso de la queue : ] <term
                             n="Portée au verso de la queue, le mot semble avoir été écrit avant scellement, comme une sorte de visa : « [Le] sceau [peut être apposé] »."
                             >Signum</term>.</l>
@@ -298,7 +282,7 @@
                     </l>
                     <l>jour d&#x2019;août, <term
                             n="L&#x2019;indiction indique le rang d&#x2019;une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l&#x2019;indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées."
-                            >indiction</term> 3<hi rend="exposant">e</hi>, l&#x2019;an 12<hi
+                            >indiction</term> 3<hi rend="sup">e</hi>, l&#x2019;an 12<hi
                             rend="exposant">e</hi> de nos </l>
                     <l>règnes.</l>
                     <l>[ Au verso de la queue : ] <term
@@ -317,9 +301,9 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>                  
-                    <div type="contenu_commentaire">
+                    <div>
                         <div class="recommandation">
                             <p>Passer la souris sur les cercles rouges pour des commentaires de
                                 détail</p>
@@ -358,12 +342,12 @@
                                         disparition du sceau.</seg>
                                 </figDesc>
                             </figure>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Langue et discours</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Le latin correct, parfois fleuri, est l’un des nombreux atours de
                             l’expression d’une majesté royale omniprésente :</p>
                         <p>Robertus, Dei gracia rex Jerusalem et Sicilie, ducatus Apulie et
@@ -388,14 +372,14 @@
                             per magistrum Matheum Filmarinum de Neapoli, utriusque juris
                             professorem, locum tenentem prothonotarii regni Sicilie, dilectum
                             consiliarium, familiarem et fidelem nostrum, anno Domini M° CCCXX°, die
-                            XXIIII° augusti, IIIa indictione, regnorum nostrorum anno XII°. </p>
+                            XXIIII° augusti, IIIa indictione, regnorum nostrorum anno XII°.</p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Commentaire</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>L’acte subit une tension entre sa nature de mandement, complétant
-                            l’application de dispositions générales (<hi rend="italic"
+                            l’application de dispositions générales (<hi rend="i"
                             >decretum</hi>), et la volonté de poser son auteur en majesté.</p>
                         <p>L’organisation générale des formules, l’adresse, le verbe même du
                             dispositif, le format allongé, la précision portée dans un second temps
@@ -418,7 +402,7 @@
                             qu’il est parfois impossible, sur la seule base de cet acte, de trancher
                             nettement en faveur d’une origine ou d’une autre : la « grâce spéciale »
                             et la « certaine science » sonnent royales pour un lecteur français,
-                            mais elles sont inventions pontificales ; le « <hi rend="italic">decreti
+                            mais elles sont inventions pontificales ; le « <hi rend="i">decreti
                                 mentem et seriem</hi> » a lui aussi une saveur pontificale, mais il
                             ne déparerait pas un édit impérial. L’écriture et le système abréviatif
                             trahissent du reste ici l’intervention d’un scripteur français, éloigné

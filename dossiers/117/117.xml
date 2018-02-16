@@ -1,173 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1698, mai. Acte royal (Paris) 1698, mai (Paris) Édit royal <hi rend="italic" >(Paris)</hi>. <hi rend="italic">Un office à éclipse. Édit portant nouvelle création d’un office de conseiller au Parlement supprimé par rattachement au domaine.</hi>
-                </title>
-                <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
-                <author/>
-                <respStmt>
-                    <resp>document encodé par</resp>
-                    <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">117</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when-iso="2008-03/2008-04">mars-avril 2008</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Archives nationales, K 2397, dossier 1, pièce, n<hi rend="exposant">°</hi> 23.</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="fr"/>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <front/>
-        <body>
-            <div type="facsimile" rend="fax.jpg">
-                <p>
-                    <seg rend="14,11,1346,120">Louis par la grace de Dieu roi de France et de Navarre, à tous p<expan>rése</expan>n<expan>t</expan>s </seg>
-                    <seg rend="16,125,712,152">et à venir, salut. Par notre edit du mois de janvier M VI<hi rend="exposant">c</hi> quatre-vingt-huit, </seg>
-                    <seg rend="718,126,1347,156">nous avons pour les causes et motifx y contenus supprimé l’office </seg>
-                    <seg rend="16,160,699,185">de con<expan>seill</expan>er lay en notre cour de parlement dont estoit pourveu le s<expan>ieur</expan> Muisson </seg>
-                    <seg rend="707,161,1346,187">et estimant necessaire de rétablir led. office afin que celuy qui en </seg>
-                    <seg rend="12,190,953,219">sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service. </seg>
-                    <seg rend="960,194,1347,221">À ces causes et autres à ce </seg>
-                    <seg rend="12,225,903,252">nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces p<expan>rese</expan>ntes signées de n<expan>ot</expan>re main </seg>
-                    <seg rend="907,225,1347,255">un office de con<expan>seill</expan>er lay en notred. cour de parlement </seg>
-                    <seg rend="9,257,445,283">pour, par celuy qui en sera bien et deuement pourveu, </seg>
-                    <seg rend="450,259,1349,285">en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, </seg>
-                    <seg rend="11,286,546,315">immunitez, et autres avantages dont jouissent nos autres con<expan>seill</expan>ers en notred. cour. </seg>
-                    <seg rend="551,291,1348,317">Voulons à cette fin que le fonds desd. gages soit fait dans nos </seg>
-                    <seg rend="16,320,319,343">estats en la maniere acoutumée. </seg>
-                    <seg rend="325,320,1349,346">Si donnons en mandement à nos amez et feaux con<expan>seill</expan>ers les gens tenant nos cour de parlement et </seg>
-                    <seg rend="13,350,1157,378"> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur. </seg>
-                    <seg rend="1164,353,1347,382">Car tel est n<expan>ot</expan>re</seg>
-                    <seg rend="13,383,946,411">plaisir. Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre n<expan>ot</expan>re seel à cesd. p<expan>rese</expan>ntes. </seg>
-                    <seg rend="955,387,1347,418">Donné à Versailles au mois de may </seg>
-                    <seg rend="16,415,750,450">l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinq<expan>uièm</expan>e. </seg> 
-                    <seg rend="546,456,772,529">L<hi rend="small caps">OUIS</hi></seg>
-                    <!-- un élément <add> par ligne ou pour toutes les lignes d'un paragraphe ? -->
-                    <seg rend="443,608,705,794">par le roy P<hi rend="small caps">HELYPEAUX</hi>.</seg>
-                    <seg rend="1140,657,1276,713">visa B<hi rend="small caps">OUCHERAT</hi>
-                    </seg>
-                    <seg rend="51,596,440,630">Registrées en la Chambre des comptes </seg>
-                    <seg rend="57,634,436,653">ouy et ce requerant le procureur general du roy </seg>
-                    <seg rend="56,656,429,672">pour estre executtées selon leur forme et teneur, </seg>
-                    <seg rend="39,675,424,691">les bureaux assemblez le vingt-sixième may <hi rend="small caps">M VI<hi rend="exposant">c</hi></hi>
-                    </seg>
-                    <!-- les deux précédentes lignes sont séparées sur l'image, pas sur le fichier Word, j'ai "corrigé" -->
-                    <seg rend="49,695,331,714">quatre-vingt-dix-huit. </seg>
-                    <seg rend="68,718,351,785">G<hi rend="small caps">AMART</hi>, nihil.</seg>
-                    <seg rend="823,618,1186,653">Registré ouy et ce requerant le procureur </seg>
-                    <seg rend="824,658,1133,675">general du roy pour estre executé selon sa </seg>
-                    <seg rend="818,678,1138,696">forme et teneur suivant l’arrest de ce jour. </seg>
-                    <seg rend="830,701,1138,720">À Paris en sa cour le le quatorze may </seg>
-                    <seg rend="830,725,1040,748"><hi rend="small caps">M VI<hi rend="exposant" >c</hi></hi> quatre-vingt-dix-huit. </seg>
-                    <seg rend="971,753,1172,856">D<hi rend="small caps">ONGOIS</hi>.</seg>
-                </p>
-            </div>
-            <div type="transcription">
-                <div type="texte">
-                    <p>
-                        <term n="Louis XIV (1638-1715), roi de France (1643-1715).">Louis</term> par la grace de Dieu roi de France et de Navarre, à tous présents et à venir, salut. Par notre edit <lb/> du mois de janvier <hi rend="small caps">M VI<hi rend="exposant">c</hi></hi> quatre-vingt-huit, nous avons pour les causes et motifx y contenus <lb/> supprimé l’office de conseiller lay en notre cour de parlement dont estoit pourveu <term n="Jacques Muisson, issu d’une famille de négociants calvinistes, a été reçu le 19 juin 1671 à la  cinquième chambre des Enquêtes et a épousé en 1672 Anne de Rambouillet. Son office est supprimé  le 28 mars 1688 alors qu’il est déjà parti en exil en Hollande où il décède en 1697." >le sieur Muisson </term> et <lb/> estimant necessaire de rétablir led. office afin que celuy qui en sera par nous pourveu puisse vaquer <lb/> aux fonctions d’iceluy pour le bien de la justice et de notre service. À ces causes et autres à ce nous <lb/> mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre <lb/> main un office de <term n="Le parlement comprend deux sortes de conseillers, les clercs et les laïcs (ou lais). Autrefois effective,  la distinction est alors essentiellement formelle et n’a pas forcément de rapport avec la qualité du titulaire  de l’office. " >conseiller lay</term> en notred. cour de parlement pour, par celuy qui en sera bien et <lb/> deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, <lb/> gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. <lb/> cour. Voulons à cette fin que <term n="Le fond, c'est-à-dire la valeur de l’office fixée de manière officielle depuis 1665 par la monarchie  (90 000 livres pour un office de conseiller au Parlement), apparaît comme une dette que celle-ci  contracte auprès d’un particulier et qui justifie les gages, qui constituent ainsi les intérêts de la somme. " >le fonds</term>
-                        <term n="Les gages sont la rémunération de l’office créé par la monarchie. Ils ne correspondent qu’à une  fraction des revenus de l’office de justice qui comprend aussi des droits casuels perçus sur les parties  (épices) et en fonction du travail effectué." >desd. gages</term> soit fait dans nos estats en la maniere acoutumée. Si <lb/> donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et <lb/> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et <term n="Elle doit donc être inscrite dans les documents comptables et les états des versements effectués par  le Trésor royal. " >registrer</term> et icelles <lb/> executer selon leur forme et teneur. Car tel est notre plaisir. Et afin que ce soit chose ferme et stable à <lb/> toujours, nous avons fait mettre notre seel à cesd. presentes. Donné à Versailles au mois de may l’an <lb/> de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième. </p>
-                    <p> L<hi rend="small caps">OUIS</hi>
-                        <lb/>
-                        <add place="mixed" ><!-- j'ai choisi cette valeur pour indiquer le fait que ces inscription se trouvent sous le repli --> par le roy <term n="Louis Phélypeaux, comte de Pontchartrain (1643-1727), contrôleur général desfinances (1689), secrétaire  d’Etat à la marine (1690-1699) et à la Maison du roi (1690-1699)." >P<hi rend="small caps">HELYPEAUX</hi>
-                            </term>. visa <term n="Louis Boucherat (1616-1699) est chancelier de France du 1er novembre 1685 au 2 septembre 1699." > B<hi rend="small caps">OUCHERAT</hi></term>
-                        </add>
-                    </p>
-                    <p>
-                        <add place="mixed"> Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre <lb/> executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may <hi rend="small caps">M VI<hi rend="exposant">c</hi></hi> quatre-vingt-dix-huit. <lb/> G<hi rend="small caps">AMART</hi>, <term n="Nihil pour « nihil obstat », formule qui constate l’absence d’empêchement à l’enregistrement de l’édit." > nihil</term>. </add>
-                    </p>
-                    <p>
-                        <add place="mixed"> Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur <lb/> suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may <hi rend="small caps">M VI<hi rend="exposant">c</hi></hi> quatre-vingt-dix-huit.<lb/>
-                            <term n="Nicolas Dongois (1634-1717) est premier et principal commis du greffe civil du Parlement depuis 1674,  futur greffier en chef civil en 1704." >D<hi rend="small caps">ONGOIS</hi></term>. </add>
-                    </p>
-                </div>
-                <div type="regeste">
-                    <head>1698, mai — Versailles</head>
-                    <p> Le roi crée de nouveau l’office de conseiller lai au parlement de Paris que détenait Jacques Muisson, éteint auparavant par confiscation au profit de la Couronne en janvier 1688. </p>
-                </div>
-            </div>
-            <div type="commentaire" n="diplomatique">
-                <head>Commentaire diplomatique</head>
-                <div n="1">
-                    <head>Parties du discours</head>
-                    <div type="recommandation">
-                        <p> Passer la souris sur le texte pour obtenir des commentaires de détail</p>
-                    </div>
-                    <div type="contenu_commentaire">
-                        <p>
-                            <seg corresp="suscription" rend="color:#0099CC">Louis par la grâce de Dieu roi de France et de Navarre,<note xml:id="suscription" type="bulle">Suscription</note></seg>
-                            <seg corresp="adresse" rend="color:#f90808">à tous présents et à venir<note xml:id="adresse" type="bulle">Adresse universelle</note></seg>
-                            <seg corresp="salut" rend="color:#f808c8">salut.<note xml:id="salut" type="bulle">Salut</note></seg>
-                            <seg corresp="exposé" rend="color:#01def8">Par notre edit du mois de janvier M VIc quatre-vingt-huit, nous avons pour les causes et motifx y contenus supprimé l’office de conseiller lay en notre cour de parlement dont estoit pourveu le sieur Muisson et estimant necessaire de rétablir led. office afin que celuy qui en sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service.<note xml:id="exposé" type="bulle" >Exposé</note></seg>
-                            <seg corresp="dispositif" rend="color:#0099CC"> >À ces causes et autres à ce nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre main un office de conseiller lay en notred. cour de parlement pour, par celuy qui en sera bien et deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. cour. Voulons à cette fin que le fonds desd. gages soit fait dans nos estats en la maniere acoutumée.<note xml:id="dispositif" type="bulle">Dispositif</note></seg>
-                            <seg corresp="injonctive" rend="color:#24b37f">Si donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.<note xml:id="injonctive" type="bulle">Clause injonctive</note></seg>
-                            <seg corresp="intentionnelle" rend="color:#9999FF">Car tel est notre plaisir.<note xml:id="intentionnelle" type="bulle">Clause intentionnelle</note></seg>
-                            <seg corresp="corroboration" rend="color:#0099CC"> Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre notre seel à cesd. presentes.<note xml:id="corroboration" type="bulle">Clause de corroboration</note></seg>
-                            <seg corresp="date" rend="color:#f90808">Donné à Versailles au mois de may l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.<note xml:id="date" type="bulle" >Date</note></seg>
-                            <seg corresp="signature" rend="color:#0099CC">L<hi rend="small caps" >OUIS</hi>
-                                <note xml:id="signature" type="bulle">Signature du roi</note></seg>
-                            <seg corresp="jussio" rend="color:#0099CC">par le roy<lb/><note xml:id="jussio" type="bulle">Mention de jussio
-                                    <!-- pas indiqué en gras comme les autres parties du discours.  -->
-                                </note></seg>
-                            <!-- pas indiqué en gras comme les autres parties du discours.  -->
-                            <seg corresp="contreseing" rend="color:#0099CC">P<hi rend="small caps" >HELYPEAUX</hi> (paraphe)<note xml:id="contreseing" type="bulle" >Contreseing du secrétaire d’État</note></seg>
-                            <seg corresp="visa" rend="color:#9999FF">visa B<hi rend="small caps" >OUCHERAT</hi><note xml:id="visa" type="bulle">Visa et signature du chancelier</note></seg>
-                            <seg corresp="mention_enregistrement_1" rend="color:#24b37f">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note xml:id="mention_enregistrement_1" type="bulle">Mention d’enregistrement</note></seg>
-                            <seg corresp="signature_greffier" rend="color:#01def8">G<hi rend="small caps">AMART</hi>, nihil (paraphe)<note xml:id="signature_greffier" type="bulle">Signature du greffier de la Chambre des comptes</note></seg>
-                            <seg corresp="mention_enregistrement_2" rend="color:#0099CC">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note xml:id="mention_enregistrement_2" type="bulle">Mention d’enregistrement</note></seg>
-                            <seg corresp="signature_parlement" rend="color:#f90808">D<hi rend="small caps">ONGOIS</hi> (paraphe)<note xml:id="signature_parlement" type="bulle">Signature du greffier du Parlement</note></seg>
-                        </p>
-                    </div>
-                </div>
-                <div n="2">
-                    <head>Interprétation</head>
-                    <div type="contenu_commentaire">
-                        <p> L’édit appartient à la catégorie des grandes lettres patentes, dites aussi chartes. Signé du roi, il porte sous le repli le contreseing d’un secrétaire d’État et le visa du chancelier de France, apposé au moment du scellement. L’acte est daté par l’année et le mois, sans quantième. Le sceau de cire verte, symbole de perpétuité, a disparu mais il reste une partie des lacs de soie rouge et verte qui servaient le soutenir. Il s’agit ici de l’exemplaire original sur lequel a été porté la mention de l’enregistrement par le parlement de Paris, directement concerné, le 14 mai 1698, et par la Chambre des comptes le 26 mai 1698, car l’office de conseiller au Parlement est mouvant du domaine royal et ses gages sont donc payés sur les revenus de la monarchie. Le document porte au revers une mention d’archivage qui indique une provenance probable du fonds du Parlement («may 1698, création d’un con<hi rend="exposant">er</hi> lay au parlement de paris, r. 15 n<hi rend="exposant">°</hi>7, Parlement, chambre des Comptes»). </p>
-                    </div>
-                </div>
-                <div n="3">
-                    <head>Bibliographie</head>
-                    <div type="contenu_commentaire">
-                        <listBibl>
-                            <bibl>
-                                <author>DESCIMON (Robert)</author>, <!-- cf. ci-après : trois guillemets ; j'en supprime une -->
-                                <title level="a">La vénalité des offices comme dette publique sous l'Ancien Régime français. Le bien commun au pays des intérêts privés</title>, <title level="m">La dette publique dans l'histoire</title>, <pubPlace>Paris</pubPlace>,
-                                    <publisher>Comité pour l'hist. économique et financière de la France</publisher>, <date when-iso="2006">2006</date>,
-                                    <biblScope type="pp">p. 177-242</biblScope>. </bibl>
-                            <bibl>
-                                <author>HURT (John J.)</author>, <title xml:lang="en" level="m" >Louis XIV and the <foreign xml:lang="fr">Parlements</foreign>. The Assertion of Royal Authority</title>, <publisher>Manchester UP</publisher>, <pubPlace>Manchester-New York</pubPlace>, <date when-iso="2002">2002</date>. </bibl>
-                            <bibl>
-                                <author>POPOFF (Michel)</author>, <title level="m">Prospographie des gens du parlement de Paris</title>, <pubPlace>Paris</pubPlace>,
-                                    <publisher>Références</publisher>, <date when-iso="1996" >1996</date>, <biblScope type="pp">p. 746</biblScope>
-                                <biblScope type="part">notice n<hi rend="exposant" >°</hi>1832</biblScope>. </bibl>
-                            <bibl>
-                                <author>SCHAPIRA (Nicolas)</author>, <title level="m">Un professionnel des lettres au XVII<hi rend="exposant">e</hi> siècle. Valentin Conrart : une histoire sociale</title>,
-                                    <pubPlace>Seyssel</pubPlace>, <publisher>Champ Vallon</publisher>, <date when-iso="2003">2003</date>, <biblScope type="pp">p. 392</biblScope>. </bibl>
-                        </listBibl>
-                    </div>
-                </div>
-            </div>
-
-            <div type="commentaire" n="histoire">
-                <head>Commentaire historique</head>
-                <div n="1">
-                    <div type="contenu_commentaire">
-                        <p> Après la révocation de l’édit de Nantes en octobre 1685, un édit de janvier 1688 prescrit la réunion au domaine de la couronne des biens des consistoires, des ministres et des religionnaires sortis du royaume. Cette incorporation est considérée, pour les offices, comme une suppression pure et simple. Le conseiller Jacques Muisson, parti avant cette date, vient de décéder en Hollande en 1697 et la monarchie semble bien avoir attendu son décès pour recréer l’office. L’office ainsi recréé doit ensuite être mis ensuite en vente par les Parties casuelles.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1698, mai. Acte royal (Paris) 1698, mai (Paris) Édit royal <hi rend="i">(Paris)</hi>. <hi rend="i">Un office à éclipse. Édit portant nouvelle création d’un office de conseiller au Parlement supprimé par rattachement au domaine.</hi>
+        </title>
+        <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
+        <author/>
+        <respStmt>
+          <resp>document encodé par</resp>
+          <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l'École nationale des Chartes)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">117</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2008-03/2008-04">mars-avril 2008</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Archives nationales, K 2397, dossier 1, pièce, n° 23.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front/>
+    <body>
+      <div type="facsimile" rend="fax.jpg">
+        <p>
+          <seg rend="14,11,1346,120">Louis par la grace de Dieu roi de France et de Navarre, à tous p<ex>rése</ex>n<ex>t</ex>s </seg>
+          <seg rend="16,125,712,152">et à venir, salut. Par notre edit du mois de janvier M VI<hi rend="sup">c</hi> quatre-vingt-huit, </seg>
+          <seg rend="718,126,1347,156">nous avons pour les causes et motifx y contenus supprimé l’office </seg>
+          <seg rend="16,160,699,185">de con<ex>seill</ex>er lay en notre cour de parlement dont estoit pourveu le s<ex>ieur</ex> Muisson </seg>
+          <seg rend="707,161,1346,187">et estimant necessaire de rétablir led. office afin que celuy qui en </seg>
+          <seg rend="12,190,953,219">sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service. </seg>
+          <seg rend="960,194,1347,221">À ces causes et autres à ce </seg>
+          <seg rend="12,225,903,252">nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces p<ex>rese</ex>ntes signées de n<ex>ot</ex>re main </seg>
+          <seg rend="907,225,1347,255">un office de con<ex>seill</ex>er lay en notred. cour de parlement </seg>
+          <seg rend="9,257,445,283">pour, par celuy qui en sera bien et deuement pourveu, </seg>
+          <seg rend="450,259,1349,285">en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, </seg>
+          <seg rend="11,286,546,315">immunitez, et autres avantages dont jouissent nos autres con<ex>seill</ex>ers en notred. cour. </seg>
+          <seg rend="551,291,1348,317">Voulons à cette fin que le fonds desd. gages soit fait dans nos </seg>
+          <seg rend="16,320,319,343">estats en la maniere acoutumée. </seg>
+          <seg rend="325,320,1349,346">Si donnons en mandement à nos amez et feaux con<ex>seill</ex>ers les gens tenant nos cour de parlement et </seg>
+          <seg rend="13,350,1157,378"> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur. </seg>
+          <seg rend="1164,353,1347,382">Car tel est n<ex>ot</ex>re</seg>
+          <seg rend="13,383,946,411">plaisir. Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre n<ex>ot</ex>re seel à cesd. p<ex>rese</ex>ntes. </seg>
+          <seg rend="955,387,1347,418">Donné à Versailles au mois de may </seg>
+          <seg rend="16,415,750,450">l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinq<ex>uièm</ex>e. </seg> 
+          <seg rend="546,456,772,529">L<hi rend="sc">OUIS</hi></seg>
+          <seg rend="443,608,705,794">par le roy P<hi rend="sc">HELYPEAUX</hi>.</seg>
+          <seg rend="1140,657,1276,713">visa B<hi rend="sc">OUCHERAT</hi></seg>
+          <seg rend="51,596,440,630">Registrées en la Chambre des comptes </seg>
+          <seg rend="57,634,436,653">ouy et ce requerant le procureur general du roy </seg>
+          <seg rend="56,656,429,672">pour estre executtées selon leur forme et teneur, </seg>
+          <seg rend="39,675,424,691">les bureaux assemblez le vingt-sixième may <hi rend="sc">M VI<hi rend="sup">c</hi></hi></seg>
+          <seg rend="49,695,331,714">quatre-vingt-dix-huit. </seg>
+          <seg rend="68,718,351,785">G<hi rend="sc">AMART</hi>, nihil.</seg>
+          <seg rend="823,618,1186,653">Registré ouy et ce requerant le procureur </seg>
+          <seg rend="824,658,1133,675">general du roy pour estre executé selon sa </seg>
+          <seg rend="818,678,1138,696">forme et teneur suivant l’arrest de ce jour. </seg>
+          <seg rend="830,701,1138,720">À Paris en sa cour le le quatorze may </seg>
+          <seg rend="830,725,1040,748"><hi rend="sc">M VI<hi rend="sup">c</hi></hi> quatre-vingt-dix-huit. </seg>
+          <seg rend="971,753,1172,856">D<hi rend="sc">ONGOIS</hi>.</seg>
+       </p>
+      </div>
+      <div type="texte">
+        <div type="transcription">
+          <p><term n="Louis XIV (1638-1715), roi de France (1643-1715).">Louis</term> par la grace de Dieu roi de France et de Navarre, à tous présents et à venir, salut. Par notre edit <lb/> du mois de janvier <hi rend="sc">M VI<hi rend="sup">c</hi></hi> quatre-vingt-huit, nous avons pour les causes et motifx y contenus <lb/> supprimé l’office de conseiller lay en notre cour de parlement dont estoit pourveu <term n="Jacques Muisson, issu d’une famille de négociants calvinistes, a été reçu le 19 juin 1671 à la  cinquième chambre des Enquêtes et a épousé en 1672 Anne de Rambouillet. Son office est supprimé  le 28 mars 1688 alors qu’il est déjà parti en exil en Hollande où il décède en 1697.">le sieur Muisson </term> et <lb/> estimant necessaire de rétablir led. office afin que celuy qui en sera par nous pourveu puisse vaquer <lb/> aux fonctions d’iceluy pour le bien de la justice et de notre service. À ces causes et autres à ce nous <lb/> mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre <lb/> main un office de <term n="Le parlement comprend deux sortes de conseillers, les clercs et les laïcs (ou lais). Autrefois effective,  la distinction est alors essentiellement formelle et n’a pas forcément de rapport avec la qualité du titulaire  de l’office. ">conseiller lay</term> en notred. cour de parlement pour, par celuy qui en sera bien et <lb/> deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, <lb/> gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. <lb/> cour. Voulons à cette fin que <term n="Le fond, c'est-à-dire la valeur de l’office fixée de manière officielle depuis 1665 par la monarchie  (90 000 livres pour un office de conseiller au Parlement), apparaît comme une dette que celle-ci  contracte auprès d’un particulier et qui justifie les gages, qui constituent ainsi les intérêts de la somme. ">le fonds</term> <term n="Les gages sont la rémunération de l’office créé par la monarchie. Ils ne correspondent qu’à une  fraction des revenus de l’office de justice qui comprend aussi des droits casuels perçus sur les parties  (épices) et en fonction du travail effectué.">desd. gages</term> soit fait dans nos estats en la maniere acoutumée. Si <lb/> donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et <lb/> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et <term n="Elle doit donc être inscrite dans les documents comptables et les états des versements effectués par  le Trésor royal. ">registrer</term> et icelles <lb/> executer selon leur forme et teneur. Car tel est notre plaisir. Et afin que ce soit chose ferme et stable à <lb/> toujours, nous avons fait mettre notre seel à cesd. presentes. Donné à Versailles au mois de may l’an <lb/> de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.</p>
+          <p>L<hi rend="sc">OUIS</hi> <lb/><add place="mixed">par le roy <term n="Louis Phélypeaux, comte de Pontchartrain (1643-1727), contrôleur général desfinances (1689), secrétaire  d’Etat à la marine (1690-1699) et à la Maison du roi (1690-1699).">P<hi rend="sc">HELYPEAUX</hi></term>. visa <term n="Louis Boucherat (1616-1699) est chancelier de France du 1er novembre 1685 au 2 septembre 1699."> B<hi rend="sc">OUCHERAT</hi></term></add></p>
+          <p><add place="mixed"> Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre <lb/> executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may <hi rend="sc">M VI<hi rend="sup">c</hi></hi> quatre-vingt-dix-huit. <lb/> G<hi rend="sc">AMART</hi>, <term n="Nihil pour « nihil obstat », formule qui constate l’absence d’empêchement à l’enregistrement de l’édit."> nihil</term>.</add></p>
+          <p><add place="mixed"> Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur <lb/> suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may <hi rend="sc">M VI<hi rend="sup">c</hi></hi> quatre-vingt-dix-huit.<lb/><term n="Nicolas Dongois (1634-1717) est premier et principal commis du greffe civil du Parlement depuis 1674,  futur greffier en chef civil en 1704.">D<hi rend="sc">ONGOIS</hi></term>. </add></p>
+        </div>
+        <div type="regeste">
+          <head>1698, mai — Versailles</head>
+          <p>Le roi crée de nouveau l’office de conseiller lai au parlement de Paris que détenait Jacques Muisson, éteint auparavant par confiscation au profit de la Couronne en janvier 1688.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div type="diplomatic" subtype="speech-part">
+          <head>Parties du discours</head>
+          <div>
+            <p>
+              <seg corresp="suscription">Louis par la grâce de Dieu roi de France et de Navarre,<note xml:id="suscription">Suscription</note></seg>
+              <seg corresp="adresse">à tous présents et à venir<note xml:id="adresse">Adresse universelle</note></seg>
+              <seg corresp="salut">salut.<note xml:id="salut">Salut</note></seg>
+              <seg corresp="exposé">Par notre edit du mois de janvier M VIc quatre-vingt-huit, nous avons pour les causes et motifx y contenus supprimé l’office de conseiller lay en notre cour de parlement dont estoit pourveu le sieur Muisson et estimant necessaire de rétablir led. office afin que celuy qui en sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service.<note xml:id="exposé">Exposé</note></seg>
+              <seg corresp="dispositif"> >À ces causes et autres à ce nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre main un office de conseiller lay en notred. cour de parlement pour, par celuy qui en sera bien et deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. cour. Voulons à cette fin que le fonds desd. gages soit fait dans nos estats en la maniere acoutumée.<note xml:id="dispositif">Dispositif</note></seg>
+              <seg corresp="injonctive">Si donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.<note xml:id="injonctive">Clause injonctive</note></seg>
+              <seg corresp="intentionnelle">Car tel est notre plaisir.<note xml:id="intentionnelle">Clause intentionnelle</note></seg>
+              <seg corresp="corroboration"> Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre notre seel à cesd. presentes.<note xml:id="corroboration">Clause de corroboration</note></seg>
+              <seg corresp="date">Donné à Versailles au mois de may l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.<note xml:id="date">Date</note></seg>
+              <seg corresp="signature">L<hi rend="sc">OUIS</hi><note xml:id="signature">Signature du roi</note></seg>
+              <seg corresp="jussio">par le roy<lb/><note xml:id="jussio">Mention de jussio</note></seg>
+              <seg corresp="contreseing">P<hi rend="sc">HELYPEAUX</hi> (paraphe)<note xml:id="contreseing">Contreseing du secrétaire d’État</note></seg>
+              <seg corresp="visa">visa B<hi rend="sc">OUCHERAT</hi><note xml:id="visa">Visa et signature du chancelier</note></seg>
+              <seg corresp="mention_enregistrement_1">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note xml:id="mention_enregistrement_1">Mention d’enregistrement</note></seg>
+              <seg corresp="signature_greffier">G<hi rend="sc">AMART</hi>, nihil (paraphe)<note xml:id="signature_greffier">Signature du greffier de la Chambre des comptes</note></seg>
+              <seg corresp="mention_enregistrement_2">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note xml:id="mention_enregistrement_2">Mention d’enregistrement</note></seg>
+              <seg corresp="signature_parlement">D<hi rend="sc">ONGOIS</hi> (paraphe)<note xml:id="signature_parlement">Signature du greffier du Parlement</note></seg>
+           </p>
+          </div>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <p>L’édit appartient à la catégorie des grandes lettres patentes, dites aussi chartes. Signé du roi, il porte sous le repli le contreseing d’un secrétaire d’État et le visa du chancelier de France, apposé au moment du scellement. L’acte est daté par l’année et le mois, sans quantième. Le sceau de cire verte, symbole de perpétuité, a disparu mais il reste une partie des lacs de soie rouge et verte qui servaient le soutenir. Il s’agit ici de l’exemplaire original sur lequel a été porté la mention de l’enregistrement par le parlement de Paris, directement concerné, le 14 mai 1698, et par la Chambre des comptes le 26 mai 1698, car l’office de conseiller au Parlement est mouvant du domaine royal et ses gages sont donc payés sur les revenus de la monarchie. Le document porte au revers une mention d’archivage qui indique une provenance probable du fonds du Parlement («may 1698, création d’un con<hi rend="sup">er</hi> lay au parlement de paris, r. 15 n°7, Parlement, chambre des Comptes»).</p>
+        </div>
+        <div>
+          <head>Bibliographie</head>
+          <listBibl>
+            <bibl><author>DESCIMON (Robert)</author>, <title>La vénalité des offices comme dette publique sous l'Ancien Régime français. Le bien commun au pays des intérêts privés</title>, <title>La dette publique dans l'histoire</title>, <pubPlace>Paris</pubPlace>, <publisher>Comité pour l'hist. économique et financière de la France</publisher>, <date when="2006">2006</date>, <biblScope type="pp">p. 177-242</biblScope>.</bibl>
+            <bibl><author>HURT (John J.)</author>, <title xml:lang="en">Louis XIV and the <foreign xml:lang="fr">Parlements</foreign>. The Assertion of Royal Authority</title>, <publisher>Manchester UP</publisher>, <pubPlace>Manchester-New York</pubPlace>, <date when="2002">2002</date>. </bibl>
+            <bibl><author>POPOFF (Michel)</author>, <title>Prospographie des gens du parlement de Paris</title>, <pubPlace>Paris</pubPlace>, <publisher>Références</publisher>, <date when="1996">1996</date>, <biblScope type="pp">p. 746</biblScope> <biblScope type="part">notice n°1832</biblScope>. </bibl>
+            <bibl><author>SCHAPIRA (Nicolas)</author>, <title>Un professionnel des lettres au XVII<hi rend="sup">e</hi> siècle. Valentin Conrart : une histoire sociale</title>, <pubPlace>Seyssel</pubPlace>, <publisher>Champ Vallon</publisher>, <date when="2003">2003</date>, <biblScope type="pp">p. 392</biblScope>. </bibl>
+          </listBibl>
+        </div>
+      </div>
+      <div type="history">
+        <head>Commentaire historique</head>
+        <p>Après la révocation de l’édit de Nantes en octobre 1685, un édit de janvier 1688 prescrit la réunion au domaine de la couronne des biens des consistoires, des ministres et des religionnaires sortis du royaume. Cette incorporation est considérée, pour les offices, comme une suppression pure et simple. Le conseiller Jacques Muisson, parti avant cette date, vient de décéder en Hollande en 1697 et la monarchie semble bien avoir attendu son décès pour recréer l’office. L’office ainsi recréé doit ensuite être mis ensuite en vente par les Parties casuelles.</p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -21,18 +21,18 @@
         <body>
             <div type="facsimile" rend="fax.jpg">
                 <p>
-                    <seg rend="152,26,261,57">De p<expan>ar</expan> le roy.</seg>
-                    <seg rend="21,79,777,93">Charles, com<expan>m</expan>e pieça vous eussions fait
-                        dire de p<expan>ar</expan> nous par Jehan de Dainville, </seg>
-                    <seg rend="786,78,1109,91">n<expan>ost</expan>re escuier, que
+                    <seg rend="152,26,261,57">De p<ex>ar</ex> le roy.</seg>
+                    <seg rend="21,79,777,93">Charles, com<ex>m</ex>e pieça vous eussions fait
+                        dire de p<ex>ar</ex> nous par Jehan de Dainville, </seg>
+                    <seg rend="786,78,1109,91">n<ex>ost</ex>re escuier, que
                         l&#x2019;office de la chastelle-</seg>
                     <seg rend="31,101,809,113">-nie de Lonchamp en la forest de Lions nous avions
                         octroiee a Guerriot Haubergon, </seg>
-                    <seg rend="818,97,1102,113">n<expan>ost</expan>re vallet trenchant, vacant
-                            p<expan>ar</expan></seg>
+                    <seg rend="818,97,1102,113">n<ex>ost</ex>re vallet trenchant, vacant
+                            p<ex>ar</ex></seg>
                     <seg rend="32,120,393,133">la mort de Jehan Boudart qui le tenoit, </seg>
                     <seg rend="410,114,1113,134">et avant ce que vous sceussiez
-                        n<expan>ost</expan>re volenté eussiez ledit office donné a Jehan</seg>
+                        n<ex>ost</ex>re volenté eussiez ledit office donné a Jehan</seg>
                     <seg rend="36,138,748,153">de Montigny, mais non obstant ce feistes response
                         audit Jehan de Dainville que, </seg>
                     <seg rend="754,136,1113,153">se il nous plaisoit que ledit Guerriot</seg>
@@ -41,36 +41,34 @@
                     <seg rend="734,157,1110,174">si savons bien que ledit Guerriot n&#x2019;en</seg>
                     <seg rend="43,180,38,195,512,186,767,186,770,175" n="poly">fist onques puis
                         nulle poursuitte, combien que il ait plus cher ledit office </seg>
-                    <seg rend="784,179,1109,200">que nul autre p<expan>ro</expan>fit ailleurs
-                            <expan>et</expan> pour</seg>
+                    <seg rend="784,179,1109,200">que nul autre p<ex>ro</ex>fit ailleurs <ex>et</ex> pour</seg>
                     <seg rend="41,198,703,217">cause, si nous plairoit bien que il l&#x2019;eust
                         et vous saurions bon gré </seg>
                     <seg rend="712,199,1103,220">de le li mettre au delivre, pour ce que nous</seg>
-                    <seg rend="41,220,454,238">le li donames et que a lui s<expan>er</expan>oit bien
+                    <seg rend="41,220,454,238">le li donames et que a lui s<ex>er</ex>oit bien
                         seant, </seg>
-                    <seg rend="462,221,1116,234">et aussi que de li et de son s<expan>er</expan>vice
-                        nous no<expan>us</expan> tenons a bien content. Et audit</seg>
-                    <seg rend="39,243,743,258">Jeha<expan>n</expan>nin de Montigny faictes
-                        <expan>et</expan> pourveez d&#x2019;aucun autre proffit ailleurs. </seg>
+                    <seg rend="462,221,1116,234">et aussi que de li et de son s<ex>er</ex>vice
+                        nous no<ex>us</ex> tenons a bien content. Et audit</seg>
+                    <seg rend="39,243,743,258">Jeha<ex>n</ex>nin de Montigny faictes <ex>et</ex> pourveez d&#x2019;aucun autre proffit ailleurs. </seg>
                     <seg rend="759,235,1106,259">Donné a Londres, le XIXe jour de juillet.</seg>
                     <seg rend="54,289,200,357">Jehan.</seg>
-                </p>
+               </p>
             </div>
             <div type="transcription">
                 <div type="texte">
-                    <l>De p<expan>ar</expan> le roy.</l>
+                    <l>De p<ex>ar</ex> le roy.</l>
                     <l/>
-                    <l>Charles, com<expan>m</expan>e pieça vous eussions fait dire de
-                        p<expan>ar</expan> nous par <term
+                    <l>Charles, com<ex>m</ex>e pieça vous eussions fait dire de
+                        p<ex>ar</ex> nous par <term
                             n="Jean de Dainville sera sous le règne de Charles V un conseiller influent, maître d&#x2019;hôtel du roi. Il appartient à un lignage chevaleresque picard bien représenté dans l&#x2019;Université et au Parlement."
                             >Jehan de Dainville</term>, </l>
-                    <l>n<expan>ost</expan>re escuier, que l&#x2019;office de la chastelle-</l>
+                    <l>n<ex>ost</ex>re escuier, que l&#x2019;office de la chastelle-</l>
                     <l>-nie de <term n="Longchamps (Eure, cant. Étrépagny).">Lonchamp</term> en la
                         forest de <term n="Lyons-la-Forêt (Eure, ch.-l. cant.).">Lions</term> nous
                         avions octroiee a Guerriot Haubergon, </l>
-                    <l>n<expan>ost</expan>re vallet trenchant, vacant p<expan>ar</expan></l>
+                    <l>n<ex>ost</ex>re vallet trenchant, vacant p<ex>ar</ex></l>
                     <l>la mort de Jehan Boudart qui le tenoit, </l>
-                    <l>et avant ce que vous sceussiez n<expan>ost</expan>re volenté eussiez ledit
+                    <l>et avant ce que vous sceussiez n<ex>ost</ex>re volenté eussiez ledit
                         office donné a Jehan</l>
                     <l>de Montigny, mais non obstant ce feistes response audit Jehan de Dainville
                         que, </l>
@@ -81,18 +79,18 @@
                             >mettre au delivre</term>, </l>
                     <l>si savons bien que ledit Guerriot n&#x2019;en</l>
                     <l>fist onques puis nulle poursuitte, combien que il ait plus cher ledit office </l>
-                    <l>que nul autre p<expan>ro</expan>fit ailleurs <expan>et</expan> pour</l>
+                    <l>que nul autre p<ex>ro</ex>fit ailleurs <ex>et</ex> pour</l>
                     <l>cause, si nous plairoit bien que il l&#x2019;eust et vous saurions bon
                         gré </l>
                     <l>de le li mettre au delivre, pour ce que nous</l>
-                    <l>le li donames et que a lui s<expan>er</expan>oit bien seant, </l>
-                    <l>et aussi que de li et de son s<expan>er</expan>vice nous no<expan>us</expan>
+                    <l>le li donames et que a lui s<ex>er</ex>oit bien seant, </l>
+                    <l>et aussi que de li et de son s<ex>er</ex>vice nous no<ex>us</ex>
                         tenons a bien content. Et audit</l>
-                    <l>Jeha<expan>n</expan>nin de Montigny faictes <expan>et</expan> pourveez
+                    <l>Jeha<ex>n</ex>nin de Montigny faictes <ex>et</ex> pourveez
                         d&#x2019;aucun autre proffit ailleurs. </l>
                     <l>Donné a <term
                             n="Cette lettre ne peut avoir été écrite par Jean II le Bon que durant sa  première captivité à Londres (mai 1357-juin 1360), à la suite de la défaite de l&#x2019;armée française à Poitiers en 1356, puisque son second séjour à Londres n&#x2019;a duré que du 3 janvier au 8 avril 1364, date de sa mort. On peut donc proposer la date du 19 juillet 1357, 1358 ou 1359."
-                            >Londres</term>, le XIX<hi rend="exposant">e</hi> jour de juillet.</l>
+                            >Londres</term>, le XIX<hi rend="sup">e</hi> jour de juillet.</l>
                     <l>Jehan. </l>
                 </div>
                 <div type="regeste">
@@ -107,16 +105,16 @@
             </div>
             <div type="commentaire" n="diplomatique">
                 <head>Commentaire diplomatique</head>
-                <div n="1">
+                <div>
                     <head>Caractères externes</head>
                     <div type="recommandation">
                         <p>Passer la souris sur les cercles rouges pour des commentaires de
                         détail</p>
                     </div>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>
                             <figure rend="50/faxexternes.jpg"/>
-                        </p>
+                       </p>
                         <p>Format allongé, mise en page sobre, absence de justification à droite,
                             lignes régulières mais tassées, écriture rapide : l’absence de solennité
                             est évidente. On doit pourtant méditer l’inscription du texte entre les
@@ -133,9 +131,9 @@
                             d’authentification.</p>
                     </div>
                 </div>
-                <div n="2">
+                <div>
                     <head>Langue et style</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Le document se présente comme une lettre au sens strict. Son destinataire
                             est apostrophé (l’« adresse » plus complète figure au verso : elle est
                             apposée quand la lettre est repliée et cachetée). On distingue les
@@ -145,16 +143,16 @@
                             Donné… ») ; entre les deux, un texte où l’on distingue à peine la
                             séparation entre un exposé, à l’incipit usuel (« Comme… »), et ce qui
                             est moins dispositif que cœur du message (« si nous plairoit… et vous
-                            saurions bon gré… »). </p>
+                            saurions bon gré… »).</p>
                         <p>Renforcée à nos yeux par les circonstances toutes spéciales de sa
                             rédaction (le roi de France captif à Londres, son fils gérant le
                             royaume), la capacité de séduction du texte tient aussi à la rhétorique
                             de la lettre, qui cherche à rendre présentes et audibles les paroles de
                             l’absent ; le rythme haletant de la construction n’est pas pour peu dans
-                            cette animation du discours, au demeurant des plus habiles. </p>
+                            cette animation du discours, au demeurant des plus habiles.</p>
                         <p>L’« exposé » est bâti sur un rythme ternaire, recoupé par une incessante
                             mise en contraste de « nous » et de « vous » ; son point d’orgue annonce
-                            déjà le dénouement attendu, comme s’il était inéluctable : </p>
+                            déjà le dénouement attendu, comme s’il était inéluctable :</p>
                         <ul class="retraits">
                             <li>Comme pieça <span style="text-decoration:underline">vous</span>
                                 eussions fait dire... que l’office… <span
@@ -200,12 +198,12 @@
                         </ul>
                         <p id="suite">
                             <a href="diplomatique50-4.php">Suite et fin : Interprétation.</a>
-                        </p>
+                       </p>
                     </div>
                 </div>
-                <div n="4">
+                <div>
                     <head>Interprétation</head>
-                    <div type="contenu_commentaire">
+                    <div>
                         <p>Il est assez naturel de trouver, aux côtés des actes produits en chancellerie 
                             selon une norme pesante et avec de multiples médiations, des lettres où 
                             le souverain s’exprime plus immédiatement, pour faire circuler des nouvelles, 
@@ -222,7 +220,7 @@
                             « De par le roi », qui finit par qualifier le type 
                             documentaire au détriment d’autres appellations comme « lettres 
                             closes ». Évolution contemporaine et symétrique à la chancellerie 
-                            royale anglaise (lettres « <hi rend="italic">By the king</hi> »), 
+                            royale anglaise (lettres « <hi rend="i">By the king</hi> »), 
                             décalée à la chancellerie pontificale (« brefs » avec 
                             le nom et l’ordinal du pape en exergue) ; mais particularité française : 
                             si ces lettres échappent totalement au circuit de la rédaction et du scellement 
@@ -242,7 +240,7 @@
                             et l’année non mentionnée, on conçoit à quel point ces lettres peuvent être 
                             difficiles à dater : quand le destinataire n’a pas apposé une date 
                             précise de réception avant archivage, il ne reste qu’à recouper les éléments 
-                            historiques cités et l’itinéraire du roi. </p>
+                            historiques cités et l’itinéraire du roi.</p>
                     </div>
                     </div>               
             </div>
