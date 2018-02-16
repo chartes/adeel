@@ -1,169 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!-- <TEI xmlns="http://www.tei-c.org/ns/1.0"> -->
-<!-- <?xml-stylesheet type="text/xsl" href="../transcription.xsl"?> -->
-
-<?xml-stylesheet type="text/xsl" href="../vue.xsl"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1177. Acte seigneurial </title>
-                <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
-                <author>Barbiche, Jean-Marie (élève à l'École nationale des Chartes)</author>
-                <respStmt>
-                    <resp>document encodé par</resp>
-                    <name>Clavaud, Florence (directrice des nouvelles technologies et de l'informatique)</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">80</idno>
-                <publisher>École nationale des Chartes</publisher>
-                <date when="2007-09">septembre 2007</date>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Fac-sim. ENC : AF 173 (lithographie d'après un dessin exécuté pour l'érudit Peigné Delacourt en 1850).</p>
-                <p>Original conservé aux Archives départementales de l'Oise.</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="lat"/>
-                <language ident="frm"/>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-
-        <body>
-            <div type="facsimile">
-                <div type="remarque">
-                    <p>NB : certaines erreurs manifestes du graveur (surtout par omission de signes abréviatifs) sont ici directement corrigées ; les mots concernés sont précédés d’un astérisque *</p>
-                </div>
-                <div>
-                    <p>
-                        <seg rend="58,14,53,62,548,74,543,21,541,30,59,13"><ex>Croix</ex> In nomi<ex>n</ex>e s<ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue Trinitatis, amen.</seg>
-                        <seg rend="551,73,612,73,682,79,680,31,585,24,551,23">Ego Odo, d<ex>omi</ex>n<ex>u</ex>s</seg>
-                        <seg rend="52,89,397,108,395,70,275,71,196,66,55,64">castri Hamensis, notum fieri volo p<ex>re</ex>sentib<ex>us</ex>
- <ex>et</ex> futuris</seg>
-                        <seg rend="402,77,405,109,682,119,676,120,676,86,586,80,523,78,443,73,403,75">q<ex>uo</ex>d eccl<ex>esi</ex>a *P<ex>re</ex>monst<ex>r</ex>atensis quanda<ex>m</ex> silvam habe-</seg>
-                        <seg rend="48,100,50,133,122,140,393,138,393,113,305,108,128,98,48,99,48,97,50,99">-bat, que vulgo Concis vocat<ex>ur</ex>, in *t<ex>er</ex>ritorio de Gollencurt,</seg>
-                        <seg rend="397,141,679,154,679,152,678,124,613,123,529,119,451,117,397,115">in qua s<ex>ib</ex>i d<ex>omi</ex>n<ex>u</ex>m Lancelinu<ex>m</ex> patre<ex>m</ex> meu<ex>m</ex> assotiavit</seg>
-                        <seg rend="294,171,432,173,428,144,37,143,38,169,223,173">ad quartu<ex>m</ex> denariu<ex>m</ex> si eam aliq<ex>u</ex>ando vend<ex>er</ex>e vellet p<ex>re</ex>fata eccl<ex>esi</ex>a.</seg>
-                        <seg rend="435,148,438,174,679,184,677,158,548,150">Post morte<ex>m</ex> v<ex>er</ex>o ejusde<ex>m</ex> Lancelini, ego Odo,</seg>
-                        <seg rend="38,179,38,203,338,205,342,176">fili<ex>us</ex> ej<ex>us</ex>, illum q<ex>u</ex>artum denariu<ex>m</ex> indulsi p<ex>re</ex>fate eccl<ex>esi</ex>e</seg>
-                        <seg rend="344,178,344,206,683,222,684,187,683,187,684,191"><ex>et</ex> ipsam t<ex>er</ex>ram ad extirpandu<ex>m</ex>
- <ex>et</ex> excolendu<ex>m</ex> in p<ex>er</ex>petuum</seg>
-                        <seg rend="35,214,35,242,328,245,327,216,35,212">ad nonam garbam, salva decima
- <ex>et</ex> secatione,</seg>
-                        <seg rend="331,216,332,249,591,255,687,261,684,229,473,219,473,218,473,217,473,219">eidem eccl<ex>esi</ex>e reddidi, assensu uxoris mee Elisabeth <ex>et</ex> f<ex>rat</ex>rum</seg>
-                        <seg rend="37,250,38,275,231,279,314,280,314,253,175,250">meor<ex>um</ex> Gerardi, Symonis, Lancelini clerici,</seg>
-                        <seg rend="318,258,318,283,671,289,670,260,320,255"><ex>et</ex> liberor<ex>um</ex> meor<ex>um</ex> Odonis, Gaufridi, ita q<ex>uo</ex>d eadem eccl<ex>esi</ex>a</seg>
-                        <seg rend="32,284,33,312,190,318,384,322,389,287,213,282,32,281,32,280,32,279">assotiavit me <ex>et</ex> heredes meos similit<ex>er</ex> ad nonam garbam</seg>
-                        <seg rend="395,290,394,289,389,320,615,330,674,325,675,301,571,292,394,289,394,288,394,286">in t<ex>er</ex>ra Lamb<ex>er</ex>ti, in q<ex>u</ex>a pri<ex>us</ex> nichil habuera<ex>m</ex> nec</seg>
-                        <seg rend="31,327,31,355,217,351,391,358,393,325,29,326,29,325,29,324">p<ex>re</ex>decessores mei. Statutu<ex>m</ex> e<ex>st</ex> etia<ex>m</ex> q<ex>uo</ex>d, si deinceps eade<ex>m</ex> eccl<ex>esi</ex>a</seg>
-                        <seg rend="399,330,395,357,580,363,678,365,676,335,514,332">aliq<ex>u</ex>a<ex>m</ex> silva<ex>m</ex> in t<ex>er</ex>ritorio de Gollencurt adq<ex>u</ex>isie-</seg>
-                        <seg rend="29,365,28,391,125,396,350,394,351,365,228,358,174,357,29,364">-rit <ex>et</ex> extirpav<ex>er</ex>it, ibide<ex>m</ex> simili m<ex>od</ex>o nona<ex>m</ex> garba<ex>m</ex> habebo ;</seg>
-                        <seg rend="353,370,353,390,353,397,491,399,684,401,682,370,519,366">s<ex>ed</ex> in t<ex>er</ex>ra ab antiq<ex>u</ex>o exculta, si eade<ex>m</ex> eccl<ex>esi</ex>a eam adq<ex>u</ex>isierit,</seg>
-                        <seg rend="28,401,28,424,163,430,434,434,436,405,286,400,28,398">nullu<ex>m</ex> m<ex>ih</ex>i jus vendicare pot<ex>er</ex>o. Cum aute<ex>m</ex> secatio<ex>n</ex>is temp<ex>us</ex> adven<ex>er</ex>it,</seg>
-                        <seg rend="438,409,437,430,674,435,675,408,437,404,437,402">una die an<ex>te</ex>q<ex>u</ex>a<ex>m</ex> secet nuntiabit<ex>ur</ex> m<ex>ih</ex>i, ut</seg>
-                        <seg rend="23,438,23,462,201,465,378,470,381,440,22,433,22,432,21,432">p<ex>ro</ex> parte mea mitta<ex>m</ex> serviente<ex>m</ex> meu<ex>m</ex> ; que<ex>m</ex> si mitt<ex>er</ex>e noluero,</seg>
-                        <seg rend="384,444,383,466,513,472,676,473,679,442,484,436,384,440">v<ex>er</ex>itati f<ex>rat</ex>ris q<ex>u</ex>i messores custodierit v<ex>e</ex>l fam<ex>u</ex>lo ej<ex>us</ex>de<ex>m</ex></seg>
-                        <seg rend="20,473,19,501,184,499,378,507,378,474,109,469,19,472">f<ex>rat</ex>ris, si frat<ex>er</ex> defu<ex>er</ex>it, debebo cred<ex>er</ex>e de partis mee q<ex>u</ex>antitate ;</seg>
-                        <seg rend="381,476,383,476,384,508,506,512,676,513,674,480,537,476,383,476">quod si ip<ex>su</ex>m famulu<ex>m</ex> de infidelitate suspectu<ex>m</ex> ha-</seg>
-                        <seg rend="19,507,19,531,165,539,283,541,343,545,341,510,156,507,18,507">-bu<ex>er</ex>o, eu<ex>m</ex> ad *juram<ex>en</ex>tu<ex>m</ex> sup<ex>er</ex> s<ex>an</ex>c<ex>t</ex>a pot<ex>er</ex>o co<ex>m</ex>pellere, <ex>et</ex> ab ipso</seg>
-                        <seg rend="346,517,346,542,550,546,678,555,676,521,542,517,346,512">v<ex>e</ex>l a f<ex>rat</ex>rib<ex>us</ex> exinde nichil ampli<ex>us</ex> exig<ex>er</ex>e. *F<ex>rat</ex>res etia<ex>m</ex> p<ex>re</ex>fate</seg>
-                        <seg rend="18,543,18,570,18,543,18,574,148,580,333,584,335,552">eccl<ex>esi</ex>e garbam mea<ex>m</ex> ducent ad Gollencurt si voluero</seg>
-                        <seg rend="341,554,340,551,336,585,439,588,585,592,678,595,675,555,429,553,429,552">v<ex>e</ex>l, si m<ex>ih</ex>i magis placu<ex>er</ex>it, in grangia sua Bonolii sub cer-</seg>
-                        <seg rend="14,587,14,619,131,621,302,624,407,626,408,591,262,588">-to testimonio <ex>et</ex> certa co<ex>m</ex>putatione collocabunt, <ex>et</ex> usq<ex>ue</ex> ad festu<ex>m</ex></seg>
-                        <seg rend="413,598,413,621,412,592,412,627,521,628,676,633,675,598,412,596">omniu<ex>m</ex> s<ex>an</ex>c<ex>t</ex>or<ex>um</ex> facient triturari, <ex>et</ex> granu<ex>m</ex></seg>
-                        <seg rend="14,625,14,655,195,657,372,664,371,633">ducent Hamu<ex>m</ex>, forragium s<ex>ib</ex>i retinentes. Huic concessioni</seg>
-                        <seg rend="377,637,377,667,523,664,673,671,667,638,377,630,377,629"><ex>et</ex> donationi int<ex>er</ex>fuerunt testes : Guillelm<ex>us</ex> de Vi-</seg>
-                        <seg rend="13,664,14,692,168,694,414,702,416,671,278,666,14,662,14,661">-lete, Rainer<ex>us</ex> de Mateni, Symon Rattus, Petrus del Pleissei.</seg>
-                        <seg rend="421,674,420,701,505,705,611,707,678,711,677,679,537,669,537,668">Ut <ex>i</ex>gi<ex>tur</ex> hec concessio <ex>et</ex> donatio rata p<ex>er</ex>ma-</seg>
-                        <seg rend="8,699,8,723,117,735,284,739,542,748,542,713,211,705">-neat
- <ex>et</ex> inconvulsa, p<ex>re</ex>sentem pagina<ex>m</ex> sigilli n<ex>ost</ex>ri impressione commu<ex>ni</ex>re curavi.</seg>
-                        <seg rend="8,733,6,771,150,776,347,778,563,783,563,754">Actum anno incarnati Verbi M° C° LXXVII°.</seg>
-                        <seg n="circle" rend="252,896,105">[<hi rend="i">Légende du sceau :</hi>] Sigill<ex>um</ex> domini Odonis de Ham.</seg>
-                   </p>
-                </div>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <p>
- <ex>
- <hi rend="i">Croix</hi>
-                        </ex> In nomine sancte et individue Trinitatis, amen. Ego Odo, dominus castri <lb/><term n="Ham (Somme, ch.-l. cant.).">Hamensis</term>, notum fieri volo presentibus et futuris quod ecclesia <term n="Prémontré, abbaye et chef d’ordre, chanoines réguliers, ancien diocèse de Laon (Aisne, cant. Anizy-le-Château). Le terme ecclesia, selon le contexte, peut désigner aussi bien l’église que la congrégation (cette dernière progressivement appelée ordo)." >Premonstratensis</term>
-                        <lb/>quandam silvam habebat, que vulgo <foreign xml:lang="frm" >Concis</foreign> vocatur, in territorio de <term xml:lang="frm" n="Golancourt (Oise, cant. Guiscard), 4 km S de Ham, dans une pointe septentrionale du département de l’Oise, ce qui explique la dévolution de l’acte après la nationalisation et le démembrement du chartrier de Prémontré." >Gollencurt</term>, in <lb/>qua sibi dominum Lancelinum patrem meum assotiavit ad quartum denarium si <lb/>eam aliquando vendere vellet prefata ecclesia. Post mortem vero ejusdem Lancelini, <lb/>ego Odo, filius ejus, illum quartum denarium indulsi prefate ecclesie et ipsam terram <lb/>ad extirpandum et excolendum in perpetuum ad nonam garbam, salva decima et
-                        <lb/>secatione, eidem ecclesie reddidi, assensu uxoris mee Elisabeth et fratrum meorum <lb/>Gerardi, Symonis, Lancelini clerici, et liberorum meorum Odonis, Gaufridi, ita quod <lb/>eadem ecclesia assotiavit me et heredes meos similiter ad nonam garbam in terra <lb/>Lamberti, in qua prius nichil habueram nec predecessores mei. Statutum est etiam <lb/>quod, si deinceps eadem ecclesia aliquam silvam in territorio de <foreign xml:lang="frm" >Gollencurt</foreign>
-                        <lb/>adquisierit et extirpaverit, ibidem simili modo nonam garbam habebo ; sed in terra <lb/>ab antiquo exculta, si eadem ecclesia eam adquisierit, nullum mihi jus vendicare <lb/>potero. Cum autem secationis tempus advenerit, una die antequam secet nuntiabitur <lb/>mihi, ut pro parte mea mittam servientem meum ; quem si mittere noluero, veritati <lb/>fratris qui messores custodierit vel famulo ejusdem fratris, si frater defuerit, debebo
-                        <lb/>credere de partis mee quantitate ; quod si ipsum famulum de infidelitate suspectum <lb/>habuero, eum ad juramentum super sancta potero compellere, et ab ipso vel a <lb/>fratribus exinde nichil amplius exigere. Fratres etiam prefate ecclesie garbam meam <lb/>ducent ad <foreign xml:lang="frm">Gollencurt</foreign> si voluero vel, si mihi magis placuerit, in grangia sua <term n="Bonneuil, auj. ferme (Somme, cant. Ham, comm. Hesmery-Hallon), 5 km SSW de Ham. Prémontré y disposait d’un centre d’exploitation (dit en général « court » dans les sources prémontrées et plus rarement, comme ici, « grange », à la mode cistercienne), déjà citée dans une confirmation pontificale de 1138." >Bonolii</term>
-                        <lb/>sub certo testimonio et certa computatione collocabunt, et usque ad festum omnium <lb/>sanctorum facient triturari, et granum ducent Hamum, forragium sibi retinentes. <lb/>Huic concessioni et donationi interfuerunt testes : Guillelmus de <term xml:lang="frm" n="Villette (Somme, cant. Ham, comm. Muille-Villette), 4 km SSW de Ham." >Vilete</term>, Rainerus de <lb/><term xml:lang="frm" n="Matigny (Somme, cant. Ham), 8 km NW de Ham.">Mateni</term>, Symon Rattus, Petrus <term xml:lang="frm" n="Le Plessis-Patte-d’Oie (Oise, cant. Guiscard), 7 km S de Ham.">del Pleissei</term>. Ut igitur hec concessio et donatio rata <lb/>permaneat et inconvulsa, presentem paginam sigilli nostri impressione communire
-                        <lb/>curavi. Actum anno incarnati Verbi M° C° LXXVII°. <lb/>[<hi rend="i">Légende du sceau :</hi>] Sigillum domini Odonis de
-                            <foreign xml:lang="frm">Ham</foreign>.</p>
-                </div>
-                <div type="translation">
-                    <p>(<hi rend="i">Croix</hi>) Au nom de la sainte et indivise Trinité, amen. Moi Eudes, seigneur du <lb/>château de <term n="Ham (Somme, ch.-l. cant.).">Ham</term>, je veux que soit connu des hommes présents et à venir que l’église <lb/>de <term n="Prémontré, abbaye et chef d’ordre, chanoines réguliers, ancien diocèse de Laon (Aisne, cant. Anizy-le-Château). Le terme ecclesia, selon le contexte, peut désigner aussi bien l’église que la congrégation (cette dernière progressivement appelée ordo)." >Prémontré</term> avait un bois, dit en vulgaire “Concis”, au finage de
-                            <term n="Golancourt (Oise, cant. Guiscard), 4 km S de Ham, dans une pointe septentrionale du département de l’Oise, ce qui explique la dévolution de l’acte après la nationalisation et le démembrement du chartrier de Prémontré." >Golancourt</term>, dans <lb/>lequel la susdite église s’était associée mon père, le seigneur Lancelin, au quart <lb/>denier si elle voulait le vendre. Après la mort dudit Lancelin, moi Eudes, son fils, j’ai
-                        <lb/>abandonné ce quart denier à la susdite église, et j’ai rendu cette terre à ladite église, <lb/>pour qu’elle soit défrichée et mise en culture, à la neuvième gerbe, sauf la dîme et la <lb/>fauche, avec l’accord de mon épouse Elisabeth, de mes frères Gérard, Simon, <lb/>Lancelin clerc, et de mes enfants Eudes et Geoffroy, en sorte que ladite église m’a
-                        <lb/>semblablement associé, moi et mes héritiers, à la neuvième gerbe dans la terre de <lb/>Lambert, dans laquelle auparavant ni moi ni mes prédécesseurs n’avions rien eu. Il a <lb/>aussi été décidé que, si dorénavant ladite église venait à acquérir et défricher quelque <lb/>autre bois au finage de Golancourt, j’y aurai semblablement la neuvième gerbe ; mais <lb/>dans la terre anciennement mise en culture que ladite église viendrait à acquérir, je <lb/>ne pourrai réclamer aucun droit. Quand viendra le temps de la fauche, on me <lb/>préviendra un jour avant de faucher, pour que j’y envoie pour me représenter mon <lb/>serviteur ; si je ne veux pas l’envoyer, je devrai alors croire, sur la quantité de ma <lb/>part, la parole véridique du frère qui surveillera les moissonneurs, ou encore le
-                        <lb/>serviteur de ce frère ; et si je soupçonne de mauvaise foi ce serviteur, je pourrai le <lb/>contraindre à un serment sur les saints, sans rien pouvoir demander de plus à lui ni <lb/>aux frères. Les frères de la susdite église conduiront ma [part de] gerbes à Golancourt <lb/>si je le veux ou, si je le préfère, ils la déposeront, sous sûr témoignage et après
-                        <lb/>décompte précis, à leur grange de <term n="Bonneuil, auj. ferme (Somme, cant. Ham, comm. Hesmery-Hallon), 5 km SSW de Ham. Prémontré y disposait d’un centre d’exploitation (dit en général « court » dans les sources prémontrées et plus rarement, comme ici, « grange », à la mode cistercienne), déjà citée dans une confirmation pontificale de 1138." >Bonneuil</term>, où ils la feront battre jusqu’à la <lb/>Toussaint, avant d’apporter le grain à Ham, gardant pour eux le fourrage. À cette
-                        <lb/>concession et donation furent présents comme témoins : Guillaume de
-                            <term n="Villette (Somme, cant. Ham, comm. Muille-Villette), 4 km SSW de Ham." >Villette</term>, <lb/>Renier de <term n="Matigny (Somme, cant. Ham), 8 km NW de Ham.">Matigny</term>, Simon le Rat, Pierre du <term n="Le Plessis-Patte-d’Oie (Oise, cant. Guiscard), 7 km S de Ham." >Plessis</term>. Pour que cette concession et <lb/>donation demeure ferme et respectée, j’ai pris soin de munir le présent acte de notre
-                        <lb/>sceau. Fait en l’an du Verbe incarné 1177. <lb/>[<hi rend="i" >Légende du sceau :</hi>] Sceau du seigneur Eudes de Ham.</p>
-                </div>
-                <div type="comprendre">
-                    <head>Comprendre le document</head>
-                    <p>Tout semble a priori transparent. L’acte est bien daté, le texte est prodigue en noms, et les protagonistes sont bien connus : la riche et active abbaye de Prémontré, qui poursuit depuis quelques décennies sa dynamique politique de mise en valeur de la terre ; le seigneur de Ham, un puissant seigneur châtelain du sud de la Picardie (anc. diocèse de Noyon), contrôlant un carrefour de routes (Nesle, Saint-Quentin, Noyon) et ici saisi, comme dans nombre de chartes du XII<hi rend="sup">e</hi> siècle, grâce au double apport de la <hi rend="i">laudatio parentum</hi> et des listes de témoins, dans un instantané de sa famille (épouse, trois frères, deux fils) et d’un groupe de voisins qui ont toutes les chances d’être aussi des vassaux.</p>
-                    <p>En écho aux caractères externes, soignés, la rédaction est solennelle, mais le texte offre un mélange de détail et d’ellipse, de termes généraux et de mots techniques, qui en rendent le message parfois équivoque ou imprécis à nos yeux : la charte n’est bien sûr là que pour préciser ou ajuster une situation bien connue des contemporains, et que nous devons plutôt deviner, et parfois sans succès. Elle est là aussi, bien au-delà de ce que nous prenons pour son objet propre (créer un nouveau rapport de droit), pour sanctionner et consolider ou redresser des statuts : on pourra à cet égard relever le luxe de détails qui entourent la question de la crédibilité (<hi rend="i">veritas</hi>) du frère préposé à la moisson ou de son serviteur, qui, à la différence du religieux, pourra être contraint à prêter serment « sur les saints » (c’est-à-dire sur tout objet sacré). Point nodal de la théologie et de la justice du temps, la foi et le serment sont représentés ici par une riche palette sémantique : <hi rend="i" >veritas, infidelitas, juramentum</hi>.</p>
-                    <p>Le vocabulaire et sa traduction posent plus d’un problème : faut-il et en quoi opposer le <hi rend="i">serviens</hi> du seigneur et le <hi rend="i">famulus</hi> de l’abbaye ? Le premier donnera « sergent » dans l’administration royale et princière, mais ce terme semble encore un peu trop précis pour l’époque. Le second fait-il écho à la grande famille que religieux et convers sont censés formés ? Notre traduction se résout à gommer l’écart, qui pourrait ne procéder que d’une recherche de variété, car dans les deux cas on désigne des subalternes affectés à la gestion.</p>
-                    <p>Pour parler plus directement, la traduction amène aussi à glisser vers l’anachronisme : on parle de fauche au moment de la moisson, alors que, comme dans l’Antiquité classique, il s’agit de <hi rend="i">secare</hi> les épis, de les « scier », surtout à la faucille, et haut sur la tige. L’opération est traduite par <hi rend="i">secare/secatio</hi>, alors que ses agents sont qualifiés, plus génériquement, de <hi rend="i" >messores</hi>. Le vocabulaire technique est encore représenté par <hi rend="i">triturari, forragium</hi>. L’on ne peut donc dire que le rédacteur soit éloigné de la vie des champs.</p>
-                    <p>Son expression n’en pose pas moins, au détour, de graves problèmes de compréhension, que nous avons voulu laisser subsister à l’état brut dans la traduction. Le plus épineux réside (l. 7) dans le premier emploi du mot <hi rend="i">secatio</hi>, plus loin employé pour la moisson. L’association du seigneur Eudes dans le bois de <hi rend="i" >Concis</hi> (l’appellation est-elle à rapprocher du latin <hi rend="i" >concisum</hi>, mis en coupe ?) est en effet présentée <hi rend="i" >salva decima et secatione</hi>. Comme elle porte précisément, on l’explique en détail plus loin, sur le revenu de la récolte en grains, on ne voit pas pourquoi la moisson serait ici exceptée. Il faut donc supposer que, avec la dîme, qu’elle empoche, l’abbaye de Prémontré entend excepter du partage un droit précis, ne portant pas sur la récolte : ou la coupe des chaumes laissés en terre au moment de la moisson, ou (sens parfois attesté de <hi rend="i">secatio</hi>) la fauche de prés.</p>
-                    <p>Sur le fond, la charte devrait être remise en série pour voir comment elle intervient à un moment précis de la négociation, intense en ces décennies, par laquelle l’entrepreneur ecclésiastique associe (le terme est là, <hi rend="i">assotiavit</hi>, l. 3) et intéresse à ses entreprises de défrichement et de mise en culture (les termes aussi sont là, <hi rend="i">extirpare, excolere</hi>, l. 5) le seigneur du lieu (qui n’est pas forcément moins dynamique, mais dont les entreprises restent dans l’ombre documentaire et dont la patrimoine et la trésorerie ont moins de surface). Le nouveau contrat est clair : Eudes consent de nouvelles modalités aux interventions de l’abbaye sur un bois. Il était d’abord question d’une première convention avec son père, peu claire parce que le statut primitif du bois nous est inconnu (sans doute appartenait-il au seigneur, puisque son fils le « rend ») ; toujours est-il, seul trait mentionné, que le seigneur devait empocher le quart du prix d’une éventuelle vente. Le nouveau seigneur résilie la convention, parce que l’abbaye entend passer à une phase active de défrichement. Elle obtient le feu vert en abandonnant au seigneur le neuvième de la récolte de grains, que celui-ci peut se faire livrer sur place (où il doit avoir une grange), ou faire traiter par les frères dans leur propre grange de Bonneuil (il se fait alors livrer les grains à Ham mais leur abandonne le fourrage). Pour emporter la négociation, les frères intéressent semblablement le seigneur dans le revenu d’une terre qui leur appartenait en propre. Comme ces versements peuvent créer précédent, on précise que la convention s’appliquera dans les mêmes termes à de nouveaux défrichements, mais pas aux terres anciennement cultivées.</p>
-                    <p>Par-delà le flou de certaines prescriptions, la charte constitue un document précieux sur les opérations de défrichement, plus encore sur la gestion agraire et sur ses horizons comptables affermis (<hi rend="i">quartum denarium, nonam garbem, certa computatione</hi>).</p>
-                </div>
-                <div type="regeste-proposition">
-                    <head>1177.</head>
-                    <p>Eudes, seigneur de Ham, concède à l’abbaye de Prémontré le bois dit <hi rend="i">Concis</hi> au finage de Golancourt, en abandonnant le droit qu’y avait son père Lancelin de percevoir le quart du prix d’une éventuelle vente. L’abbaye défrichera le bois et reversera au seigneur le neuvième de la récolte, excepté la dîme et le droit de fauche (<hi rend="i">secatio</hi>). Le même avantage est accordé au seigneur sur la terre de Lambert et sur les futurs essarts du finage, mais pas sur les terres anciennement cultivées. Prévenu un jour avant de la moisson, le seigneur pourra dépêcher sur place un serviteur, faute de quoi il devra s’en tenir à la parole du frère surveillant les moissonneurs ou au serment du serviteur de celui-ci. Sa part lui sera remise à Golancourt, ou battue par les frères, jusqu’à la Toussaint, dans leur grange de Bonneuil et livrée en grains à Ham, le fourrage leur restant.</p>
-                </div>
-            </div>
-            <div type="diplomatic">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Caractères externes</head>
-                    <div>
-                        <p>
-                            <figure rend="80/faxexterne.jpg"/>
-                       </p>
-                        <p>Cet acte mis au nom du seigneur de Ham revêt une forme presque majestueuse : la feuille de parchemin est grande, plus haute que large, et l’écriture, au début surtout, est aérée : elle se resserre vers le milieu du texte, mais ce léger changement n’altère en rien ni sa régularité, ni l’homogénéité du document. À droite et à gauche se trouvent des marges généreuses qui confirment l’impression générale : cet acte, malgré sa portée apparemment limitée — mais il engage l’avenir et prévoit des extensions —, se veut imposant et solennel. Par ailleurs, la régularité de l’écriture, ainsi que la qualité de la justification et la présentation générale harmonieuse, trahissent la main d’un scribe expérimenté : il emploie régulièrement des majuscules un peu ornées, et son système d’abréviations est, à de rares exceptions près, assez homogène. Il use de points pour clairement séparer les noms de chaque personne (l. 6-7). Les tildes en forme de huit ouvert, les treillis des hastes des “s” et des “f” attestent un réel souci ornemental. La croix initiale cantonnée de quatre points, et surtout l’invocation initiale, par la taille de ses caractères (allongés en hauteur mais très serrés et tassés en largeur), comme son libellé, dans des formes d’ailleurs usuelles dans le Bassin parisien, évoquent à nouveau ostensiblement la forme des diplômes royaux, de même peut-être que la disposition à part et allongée de la ligne finale de date.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Parties du discours</head> 
-                    <div>
-                        <p>
-                            <seg corresp="invocation_figurée"> (<hi rend="i">Croix</hi>) <note xml:id="invocation_figurée">Invocation figurée</note>
-</seg>
-                            <seg corresp="invocation_verbale"> In nomine sancte et individue Trinitatis, amen. <note xml:id="invocation_verbale">Invocation verbale</note>
-</seg>
-                            <seg corresp="suscription">Ego Odo, dominus castri Hamensis,<note xml:id="suscription">Suscription</note></seg>
-                            <seg corresp="notification_universelle">notum fieri volo presentibus et futuris quod<note xml:id="notification_universelle">Notification universelle</note></seg>
-                            <seg corresp="dispositif">ecclesia Premonstratensis quandam silvam habebat, que vulgo <hi rend="i">Concis</hi> vocatur, in territorio de <hi rend="i">Gollencurt</hi>, in qua sibi dominum Lancelinum patrem meum assotiavit ad quartum denarium si eam aliquando vendere vellet prefata ecclesia. Post mortem vero ejusdem Lancelini, ego Odo, filius ejus, illum quartum denarium indulsi prefate ecclesie et ipsam terram ad extirpandum et excolendum in perpetuum ad nonam garbam, salva decima et secatione, eidem ecclesie reddidi, assensu uxoris mee Elisabeth et fratrum meorum Gerardi, Symonis, Lancelini clerici, et liberorum meorum Odonis, Gaufridi, ita quod eadem ecclesia assotiavit me et heredes meos similiter ad nonam garbam in terra Lamberti, in qua prius nichil habueram nec predecessores mei. Statutum est etiam quod, si deinceps eadem ecclesia aliquam silvam in territorio de <hi rend="i">Gollencurt</hi> adquisierit et extirpaverit, ibidem simili modo nonam garbam habebo ; sed in terra ab antiquo exculta, si eadem ecclesia eam adquisierit, nullum mihi jus vendicare potero. Cum autem secationis tempus advenerit, una die antequam secet nuntiabitur mihi, ut pro parte mea mittam servientem meum ; quem si mittere noluero, veritati fratris qui messores custodierit vel famulo ejusdem fratris, si frater defuerit, debebo credere de partis mee quantitate ; quod si ipsum famulum de infidelitate suspectum habuero, eum ad juramentum super sancta potero compellere, et ab ipso vel a fratribus exinde nichil amplius exigere. Fratres etiam prefate ecclesie garbam meam ducent ad <hi rend="i">Gollencurt</hi> si voluero vel, si mihi magis placuerit, in grangia sua Bonolii sub certo testimonio et certa computatione collocabunt, et usque ad festum omnium sanctorum facient triturari, et granum ducent Hamum, forragium sibi retinentes.<note xml:id="dispositif">Dispositif</note></seg>
-                            <seg corresp="liste_de_témoins">Huic concessioni et donationi interfuerunt testes Guillelmus de <hi rend="i">Vilete</hi>, Rainerus de <hi rend="i">Mateni</hi>, Symon Rattus, Petrus <hi rend="i">del Pleissei</hi>.<note xml:id="liste_de_témoins">Liste de témoins</note></seg>
-                            <seg corresp="corroboration">Ut igitur hec concessio et donatio rata permaneat et inconvulsa, presentem paginam sigilli nostri impressione communire curavi.<note xml:id="corroboration">Corroboration</note></seg>
-                            <seg corresp="date">Actum anno incarnati Verbi M° C° LXXVII°.<note xml:id="date">Date de temps</note></seg>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Synthèse</head>
-                    <div>
-                        <p>Les différentes étapes de l’analyse convergent. L’acte est solennel et orné, impose l’impression de la puissance du seigneur et de la fermeté de son engagement. Il peut être obscur pour nous par ses sous-entendus, mais il est précis, exprimé dans un latin parfait qui s’accommode juste, souci supplémentaire de précision, de nombreuses formes vernaculaires pour les toponymes et microtoponymes, dont la floraison dénonce la domestication de l’espace.</p>
-                        <p>La suscription et le scellement — d’un type digne des grands barons — valent à cet acte l’appellation d’acte seigneurial. Elle ne doit pas prêter à confusion. Une comparaison avec d’autres pièces du fonds de Prémontré, émanées d’autres auteurs, serait indispensable pour vérifier l’hypothèse la plus immédiate : l’acte serait, au regard de sa genèse, un pur produit du scriptorium de l’abbaye.</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1177. Acte seigneurial </title>
+        <author>Guyotjeannin, Olivier (professeur à l'École nationale des Chartes)</author>
+        <author>Barbiche, Jean-Marie (élève à l'École nationale des Chartes)</author>
+        <respStmt>
+          <resp>document encodé par</resp>
+          <name>Clavaud, Florence (directrice des nouvelles technologies et de l'informatique)</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">80</idno>
+        <publisher>École nationale des Chartes</publisher>
+        <date when="2007-09">septembre 2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Fac-sim. ENC : AF 173 (lithographie d'après un dessin exécuté pour l'érudit Peigné Delacourt en 1850).</p>
+        <p>Original conservé aux Archives départementales de l'Oise.</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="lat"/>
+        <language ident="frm"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text> 
+    <body>
+      <div type="facsimile"> 
+        <p>
+          <seg rend="58,14,53,62,548,74,543,21,541,30,59,13"><ex>Croix</ex> In nomi<ex>n</ex>e s<ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue Trinitatis, amen.</seg>
+          <seg rend="551,73,612,73,682,79,680,31,585,24,551,23">Ego Odo, d<ex>omi</ex>n<ex>u</ex>s</seg>
+          <seg rend="52,89,397,108,395,70,275,71,196,66,55,64">castri Hamensis, notum fieri volo p<ex>re</ex>sentib<ex>us</ex> <ex>et</ex> futuris</seg>
+          <seg rend="402,77,405,109,682,119,676,120,676,86,586,80,523,78,443,73,403,75">q<ex>uo</ex>d eccl<ex>esi</ex>a *P<ex>re</ex>monst<ex>r</ex>atensis quanda<ex>m</ex> silvam habe-</seg>
+          <seg rend="48,100,50,133,122,140,393,138,393,113,305,108,128,98,48,99,48,97,50,99">-bat, que vulgo Concis vocat<ex>ur</ex>, in *t<ex>er</ex>ritorio de Gollencurt,</seg>
+          <seg rend="397,141,679,154,679,152,678,124,613,123,529,119,451,117,397,115">in qua s<ex>ib</ex>i d<ex>omi</ex>n<ex>u</ex>m Lancelinu<ex>m</ex> patre<ex>m</ex> meu<ex>m</ex> assotiavit</seg>
+          <seg rend="294,171,432,173,428,144,37,143,38,169,223,173">ad quartu<ex>m</ex> denariu<ex>m</ex> si eam aliq<ex>u</ex>ando vend<ex>er</ex>e vellet p<ex>re</ex>fata eccl<ex>esi</ex>a.</seg>
+          <seg rend="435,148,438,174,679,184,677,158,548,150">Post morte<ex>m</ex> v<ex>er</ex>o ejusde<ex>m</ex> Lancelini, ego Odo,</seg>
+          <seg rend="38,179,38,203,338,205,342,176">fili<ex>us</ex> ej<ex>us</ex>, illum q<ex>u</ex>artum denariu<ex>m</ex> indulsi p<ex>re</ex>fate eccl<ex>esi</ex>e</seg>
+          <seg rend="344,178,344,206,683,222,684,187,683,187,684,191"><ex>et</ex> ipsam t<ex>er</ex>ram ad extirpandu<ex>m</ex> <ex>et</ex> excolendu<ex>m</ex> in p<ex>er</ex>petuum</seg>
+          <seg rend="35,214,35,242,328,245,327,216,35,212">ad nonam garbam, salva decima <ex>et</ex> secatione,</seg>
+          <seg rend="331,216,332,249,591,255,687,261,684,229,473,219,473,218,473,217,473,219">eidem eccl<ex>esi</ex>e reddidi, assensu uxoris mee Elisabeth <ex>et</ex> f<ex>rat</ex>rum</seg>
+          <seg rend="37,250,38,275,231,279,314,280,314,253,175,250">meor<ex>um</ex> Gerardi, Symonis, Lancelini clerici,</seg>
+          <seg rend="318,258,318,283,671,289,670,260,320,255"><ex>et</ex> liberor<ex>um</ex> meor<ex>um</ex> Odonis, Gaufridi, ita q<ex>uo</ex>d eadem eccl<ex>esi</ex>a</seg>
+          <seg rend="32,284,33,312,190,318,384,322,389,287,213,282,32,281,32,280,32,279">assotiavit me <ex>et</ex> heredes meos similit<ex>er</ex> ad nonam garbam</seg>
+          <seg rend="395,290,394,289,389,320,615,330,674,325,675,301,571,292,394,289,394,288,394,286">in t<ex>er</ex>ra Lamb<ex>er</ex>ti, in q<ex>u</ex>a pri<ex>us</ex> nichil habuera<ex>m</ex> nec</seg>
+          <seg rend="31,327,31,355,217,351,391,358,393,325,29,326,29,325,29,324">p<ex>re</ex>decessores mei. Statutu<ex>m</ex> e<ex>st</ex> etia<ex>m</ex> q<ex>uo</ex>d, si deinceps eade<ex>m</ex> eccl<ex>esi</ex>a</seg>
+          <seg rend="399,330,395,357,580,363,678,365,676,335,514,332">aliq<ex>u</ex>a<ex>m</ex> silva<ex>m</ex> in t<ex>er</ex>ritorio de Gollencurt adq<ex>u</ex>isie-</seg>
+          <seg rend="29,365,28,391,125,396,350,394,351,365,228,358,174,357,29,364">-rit <ex>et</ex> extirpav<ex>er</ex>it, ibide<ex>m</ex> simili m<ex>od</ex>o nona<ex>m</ex> garba<ex>m</ex> habebo ;</seg>
+          <seg rend="353,370,353,390,353,397,491,399,684,401,682,370,519,366">s<ex>ed</ex> in t<ex>er</ex>ra ab antiq<ex>u</ex>o exculta, si eade<ex>m</ex> eccl<ex>esi</ex>a eam adq<ex>u</ex>isierit,</seg>
+          <seg rend="28,401,28,424,163,430,434,434,436,405,286,400,28,398">nullu<ex>m</ex> m<ex>ih</ex>i jus vendicare pot<ex>er</ex>o. Cum aute<ex>m</ex> secatio<ex>n</ex>is temp<ex>us</ex> adven<ex>er</ex>it,</seg>
+          <seg rend="438,409,437,430,674,435,675,408,437,404,437,402">una die an<ex>te</ex>q<ex>u</ex>a<ex>m</ex> secet nuntiabit<ex>ur</ex> m<ex>ih</ex>i, ut</seg>
+          <seg rend="23,438,23,462,201,465,378,470,381,440,22,433,22,432,21,432">p<ex>ro</ex> parte mea mitta<ex>m</ex> serviente<ex>m</ex> meu<ex>m</ex> ; que<ex>m</ex> si mitt<ex>er</ex>e noluero,</seg>
+          <seg rend="384,444,383,466,513,472,676,473,679,442,484,436,384,440">v<ex>er</ex>itati f<ex>rat</ex>ris q<ex>u</ex>i messores custodierit v<ex>e</ex>l fam<ex>u</ex>lo ej<ex>us</ex>de<ex>m</ex></seg>
+          <seg rend="20,473,19,501,184,499,378,507,378,474,109,469,19,472">f<ex>rat</ex>ris, si frat<ex>er</ex> defu<ex>er</ex>it, debebo cred<ex>er</ex>e de partis mee q<ex>u</ex>antitate ;</seg>
+          <seg rend="381,476,383,476,384,508,506,512,676,513,674,480,537,476,383,476">quod si ip<ex>su</ex>m famulu<ex>m</ex> de infidelitate suspectu<ex>m</ex> ha-</seg>
+          <seg rend="19,507,19,531,165,539,283,541,343,545,341,510,156,507,18,507">-bu<ex>er</ex>o, eu<ex>m</ex> ad *juram<ex>en</ex>tu<ex>m</ex> sup<ex>er</ex> s<ex>an</ex>c<ex>t</ex>a pot<ex>er</ex>o co<ex>m</ex>pellere, <ex>et</ex> ab ipso</seg>
+          <seg rend="346,517,346,542,550,546,678,555,676,521,542,517,346,512">v<ex>e</ex>l a f<ex>rat</ex>rib<ex>us</ex> exinde nichil ampli<ex>us</ex> exig<ex>er</ex>e. *F<ex>rat</ex>res etia<ex>m</ex> p<ex>re</ex>fate</seg>
+          <seg rend="18,543,18,570,18,543,18,574,148,580,333,584,335,552">eccl<ex>esi</ex>e garbam mea<ex>m</ex> ducent ad Gollencurt si voluero</seg>
+          <seg rend="341,554,340,551,336,585,439,588,585,592,678,595,675,555,429,553,429,552">v<ex>e</ex>l, si m<ex>ih</ex>i magis placu<ex>er</ex>it, in grangia sua Bonolii sub cer-</seg>
+          <seg rend="14,587,14,619,131,621,302,624,407,626,408,591,262,588">-to testimonio <ex>et</ex> certa co<ex>m</ex>putatione collocabunt, <ex>et</ex> usq<ex>ue</ex> ad festu<ex>m</ex></seg>
+          <seg rend="413,598,413,621,412,592,412,627,521,628,676,633,675,598,412,596">omniu<ex>m</ex> s<ex>an</ex>c<ex>t</ex>or<ex>um</ex> facient triturari, <ex>et</ex> granu<ex>m</ex></seg>
+          <seg rend="14,625,14,655,195,657,372,664,371,633">ducent Hamu<ex>m</ex>, forragium s<ex>ib</ex>i retinentes. Huic concessioni</seg>
+          <seg rend="377,637,377,667,523,664,673,671,667,638,377,630,377,629"><ex>et</ex> donationi int<ex>er</ex>fuerunt testes : Guillelm<ex>us</ex> de Vi-</seg>
+          <seg rend="13,664,14,692,168,694,414,702,416,671,278,666,14,662,14,661">-lete, Rainer<ex>us</ex> de Mateni, Symon Rattus, Petrus del Pleissei.</seg>
+          <seg rend="421,674,420,701,505,705,611,707,678,711,677,679,537,669,537,668">Ut <ex>i</ex>gi<ex>tur</ex> hec concessio <ex>et</ex> donatio rata p<ex>er</ex>ma-</seg>
+          <seg rend="8,699,8,723,117,735,284,739,542,748,542,713,211,705">-neat <ex>et</ex> inconvulsa, p<ex>re</ex>sentem pagina<ex>m</ex> sigilli n<ex>ost</ex>ri impressione commu<ex>ni</ex>re curavi.</seg>
+          <seg rend="8,733,6,771,150,776,347,778,563,783,563,754">Actum anno incarnati Verbi M° C° LXXVII°.</seg>
+          <seg n="circle" rend="252,896,105">[<hi rend="i">Légende du sceau :</hi>] Sigill<ex>um</ex> domini Odonis de Ham.</seg>
+        </p> 
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <p><ex><hi rend="i">Croix</hi></ex> In nomine sancte et individue Trinitatis, amen. Ego Odo, dominus castri <lb/><term n="Ham (Somme, ch.-l. cant.).">Hamensis</term>, notum fieri volo presentibus et futuris quod ecclesia <term n="Prémontré, abbaye et chef d’ordre, chanoines réguliers, ancien diocèse de Laon (Aisne, cant. Anizy-le-Château). Le terme ecclesia, selon le contexte, peut désigner aussi bien l’église que la congrégation (cette dernière progressivement appelée ordo)." >Premonstratensis</term>
+            <lb/>quandam silvam habebat, que vulgo <foreign xml:lang="frm" >Concis</foreign> vocatur, in territorio de <term xml:lang="frm" n="Golancourt (Oise, cant. Guiscard), 4 km S de Ham, dans une pointe septentrionale du département de l’Oise, ce qui explique la dévolution de l’acte après la nationalisation et le démembrement du chartrier de Prémontré." >Gollencurt</term>, in <lb/>qua sibi dominum Lancelinum patrem meum assotiavit ad quartum denarium si <lb/>eam aliquando vendere vellet prefata ecclesia. Post mortem vero ejusdem Lancelini, <lb/>ego Odo, filius ejus, illum quartum denarium indulsi prefate ecclesie et ipsam terram <lb/>ad extirpandum et excolendum in perpetuum ad nonam garbam, salva decima et
+            <lb/>secatione, eidem ecclesie reddidi, assensu uxoris mee Elisabeth et fratrum meorum <lb/>Gerardi, Symonis, Lancelini clerici, et liberorum meorum Odonis, Gaufridi, ita quod <lb/>eadem ecclesia assotiavit me et heredes meos similiter ad nonam garbam in terra <lb/>Lamberti, in qua prius nichil habueram nec predecessores mei. Statutum est etiam <lb/>quod, si deinceps eadem ecclesia aliquam silvam in territorio de <foreign xml:lang="frm" >Gollencurt</foreign>
+            <lb/>adquisierit et extirpaverit, ibidem simili modo nonam garbam habebo ; sed in terra <lb/>ab antiquo exculta, si eadem ecclesia eam adquisierit, nullum mihi jus vendicare <lb/>potero. Cum autem secationis tempus advenerit, una die antequam secet nuntiabitur <lb/>mihi, ut pro parte mea mittam servientem meum ; quem si mittere noluero, veritati <lb/>fratris qui messores custodierit vel famulo ejusdem fratris, si frater defuerit, debebo
+            <lb/>credere de partis mee quantitate ; quod si ipsum famulum de infidelitate suspectum <lb/>habuero, eum ad juramentum super sancta potero compellere, et ab ipso vel a <lb/>fratribus exinde nichil amplius exigere. Fratres etiam prefate ecclesie garbam meam <lb/>ducent ad <foreign xml:lang="frm">Gollencurt</foreign> si voluero vel, si mihi magis placuerit, in grangia sua <term n="Bonneuil, auj. ferme (Somme, cant. Ham, comm. Hesmery-Hallon), 5 km SSW de Ham. Prémontré y disposait d’un centre d’exploitation (dit en général « court » dans les sources prémontrées et plus rarement, comme ici, « grange », à la mode cistercienne), déjà citée dans une confirmation pontificale de 1138." >Bonolii</term>
+            <lb/>sub certo testimonio et certa computatione collocabunt, et usque ad festum omnium <lb/>sanctorum facient triturari, et granum ducent Hamum, forragium sibi retinentes. <lb/>Huic concessioni et donationi interfuerunt testes : Guillelmus de <term xml:lang="frm" n="Villette (Somme, cant. Ham, comm. Muille-Villette), 4 km SSW de Ham." >Vilete</term>, Rainerus de <lb/><term xml:lang="frm" n="Matigny (Somme, cant. Ham), 8 km NW de Ham.">Mateni</term>, Symon Rattus, Petrus <term xml:lang="frm" n="Le Plessis-Patte-d’Oie (Oise, cant. Guiscard), 7 km S de Ham.">del Pleissei</term>. Ut igitur hec concessio et donatio rata <lb/>permaneat et inconvulsa, presentem paginam sigilli nostri impressione communire
+            <lb/>curavi. Actum anno incarnati Verbi M° C° LXXVII°. <lb/>[<hi rend="i">Légende du sceau :</hi>] Sigillum domini Odonis de
+            <foreign xml:lang="frm">Ham</foreign>.</p>
+        </div>
+        <div type="translation">
+          <p>(<hi rend="i">Croix</hi>) Au nom de la sainte et indivise Trinité, amen. Moi Eudes, seigneur du <lb/>château de <term n="Ham (Somme, ch.-l. cant.).">Ham</term>, je veux que soit connu des hommes présents et à venir que l’église <lb/>de <term n="Prémontré, abbaye et chef d’ordre, chanoines réguliers, ancien diocèse de Laon (Aisne, cant. Anizy-le-Château). Le terme ecclesia, selon le contexte, peut désigner aussi bien l’église que la congrégation (cette dernière progressivement appelée ordo)." >Prémontré</term> avait un bois, dit en vulgaire “Concis”, au finage de
+            <term n="Golancourt (Oise, cant. Guiscard), 4 km S de Ham, dans une pointe septentrionale du département de l’Oise, ce qui explique la dévolution de l’acte après la nationalisation et le démembrement du chartrier de Prémontré." >Golancourt</term>, dans <lb/>lequel la susdite église s’était associée mon père, le seigneur Lancelin, au quart <lb/>denier si elle voulait le vendre. Après la mort dudit Lancelin, moi Eudes, son fils, j’ai
+            <lb/>abandonné ce quart denier à la susdite église, et j’ai rendu cette terre à ladite église, <lb/>pour qu’elle soit défrichée et mise en culture, à la neuvième gerbe, sauf la dîme et la <lb/>fauche, avec l’accord de mon épouse Elisabeth, de mes frères Gérard, Simon, <lb/>Lancelin clerc, et de mes enfants Eudes et Geoffroy, en sorte que ladite église m’a
+            <lb/>semblablement associé, moi et mes héritiers, à la neuvième gerbe dans la terre de <lb/>Lambert, dans laquelle auparavant ni moi ni mes prédécesseurs n’avions rien eu. Il a <lb/>aussi été décidé que, si dorénavant ladite église venait à acquérir et défricher quelque <lb/>autre bois au finage de Golancourt, j’y aurai semblablement la neuvième gerbe ; mais <lb/>dans la terre anciennement mise en culture que ladite église viendrait à acquérir, je <lb/>ne pourrai réclamer aucun droit. Quand viendra le temps de la fauche, on me <lb/>préviendra un jour avant de faucher, pour que j’y envoie pour me représenter mon <lb/>serviteur ; si je ne veux pas l’envoyer, je devrai alors croire, sur la quantité de ma <lb/>part, la parole véridique du frère qui surveillera les moissonneurs, ou encore le
+            <lb/>serviteur de ce frère ; et si je soupçonne de mauvaise foi ce serviteur, je pourrai le <lb/>contraindre à un serment sur les saints, sans rien pouvoir demander de plus à lui ni <lb/>aux frères. Les frères de la susdite église conduiront ma [part de] gerbes à Golancourt <lb/>si je le veux ou, si je le préfère, ils la déposeront, sous sûr témoignage et après
+            <lb/>décompte précis, à leur grange de <term n="Bonneuil, auj. ferme (Somme, cant. Ham, comm. Hesmery-Hallon), 5 km SSW de Ham. Prémontré y disposait d’un centre d’exploitation (dit en général « court » dans les sources prémontrées et plus rarement, comme ici, « grange », à la mode cistercienne), déjà citée dans une confirmation pontificale de 1138." >Bonneuil</term>, où ils la feront battre jusqu’à la <lb/>Toussaint, avant d’apporter le grain à Ham, gardant pour eux le fourrage. À cette
+            <lb/>concession et donation furent présents comme témoins : Guillaume de
+            <term n="Villette (Somme, cant. Ham, comm. Muille-Villette), 4 km SSW de Ham." >Villette</term>, <lb/>Renier de <term n="Matigny (Somme, cant. Ham), 8 km NW de Ham.">Matigny</term>, Simon le Rat, Pierre du <term n="Le Plessis-Patte-d’Oie (Oise, cant. Guiscard), 7 km S de Ham." >Plessis</term>. Pour que cette concession et <lb/>donation demeure ferme et respectée, j’ai pris soin de munir le présent acte de notre
+            <lb/>sceau. Fait en l’an du Verbe incarné 1177. <lb/>[<hi rend="i" >Légende du sceau :</hi>] Sceau du seigneur Eudes de Ham.</p>
+        </div>
+        <div type="comprendre">
+          <head>Comprendre le document</head>
+          <p>Tout semble a priori transparent. L’acte est bien daté, le texte est prodigue en noms, et les protagonistes sont bien connus : la riche et active abbaye de Prémontré, qui poursuit depuis quelques décennies sa dynamique politique de mise en valeur de la terre ; le seigneur de Ham, un puissant seigneur châtelain du sud de la Picardie (anc. diocèse de Noyon), contrôlant un carrefour de routes (Nesle, Saint-Quentin, Noyon) et ici saisi, comme dans nombre de chartes du XII<hi rend="sup">e</hi> siècle, grâce au double apport de la <hi rend="i">laudatio parentum</hi> et des listes de témoins, dans un instantané de sa famille (épouse, trois frères, deux fils) et d’un groupe de voisins qui ont toutes les chances d’être aussi des vassaux.</p>
+          <p>En écho aux caractères externes, soignés, la rédaction est solennelle, mais le texte offre un mélange de détail et d’ellipse, de termes généraux et de mots techniques, qui en rendent le message parfois équivoque ou imprécis à nos yeux : la charte n’est bien sûr là que pour préciser ou ajuster une situation bien connue des contemporains, et que nous devons plutôt deviner, et parfois sans succès. Elle est là aussi, bien au-delà de ce que nous prenons pour son objet propre (créer un nouveau rapport de droit), pour sanctionner et consolider ou redresser des statuts : on pourra à cet égard relever le luxe de détails qui entourent la question de la crédibilité (<hi rend="i">veritas</hi>) du frère préposé à la moisson ou de son serviteur, qui, à la différence du religieux, pourra être contraint à prêter serment « sur les saints » (c’est-à-dire sur tout objet sacré). Point nodal de la théologie et de la justice du temps, la foi et le serment sont représentés ici par une riche palette sémantique : <hi rend="i" >veritas, infidelitas, juramentum</hi>.</p>
+          <p>Le vocabulaire et sa traduction posent plus d’un problème : faut-il et en quoi opposer le <hi rend="i">serviens</hi> du seigneur et le <hi rend="i">famulus</hi> de l’abbaye ? Le premier donnera « sergent » dans l’administration royale et princière, mais ce terme semble encore un peu trop précis pour l’époque. Le second fait-il écho à la grande famille que religieux et convers sont censés formés ? Notre traduction se résout à gommer l’écart, qui pourrait ne procéder que d’une recherche de variété, car dans les deux cas on désigne des subalternes affectés à la gestion.</p>
+          <p>Pour parler plus directement, la traduction amène aussi à glisser vers l’anachronisme : on parle de fauche au moment de la moisson, alors que, comme dans l’Antiquité classique, il s’agit de <hi rend="i">secare</hi> les épis, de les « scier », surtout à la faucille, et haut sur la tige. L’opération est traduite par <hi rend="i">secare/secatio</hi>, alors que ses agents sont qualifiés, plus génériquement, de <hi rend="i" >messores</hi>. Le vocabulaire technique est encore représenté par <hi rend="i">triturari, forragium</hi>. L’on ne peut donc dire que le rédacteur soit éloigné de la vie des champs.</p>
+          <p>Son expression n’en pose pas moins, au détour, de graves problèmes de compréhension, que nous avons voulu laisser subsister à l’état brut dans la traduction. Le plus épineux réside (l. 7) dans le premier emploi du mot <hi rend="i">secatio</hi>, plus loin employé pour la moisson. L’association du seigneur Eudes dans le bois de <hi rend="i" >Concis</hi> (l’appellation est-elle à rapprocher du latin <hi rend="i" >concisum</hi>, mis en coupe ?) est en effet présentée <hi rend="i" >salva decima et secatione</hi>. Comme elle porte précisément, on l’explique en détail plus loin, sur le revenu de la récolte en grains, on ne voit pas pourquoi la moisson serait ici exceptée. Il faut donc supposer que, avec la dîme, qu’elle empoche, l’abbaye de Prémontré entend excepter du partage un droit précis, ne portant pas sur la récolte : ou la coupe des chaumes laissés en terre au moment de la moisson, ou (sens parfois attesté de <hi rend="i">secatio</hi>) la fauche de prés.</p>
+          <p>Sur le fond, la charte devrait être remise en série pour voir comment elle intervient à un moment précis de la négociation, intense en ces décennies, par laquelle l’entrepreneur ecclésiastique associe (le terme est là, <hi rend="i">assotiavit</hi>, l. 3) et intéresse à ses entreprises de défrichement et de mise en culture (les termes aussi sont là, <hi rend="i">extirpare, excolere</hi>, l. 5) le seigneur du lieu (qui n’est pas forcément moins dynamique, mais dont les entreprises restent dans l’ombre documentaire et dont la patrimoine et la trésorerie ont moins de surface). Le nouveau contrat est clair : Eudes consent de nouvelles modalités aux interventions de l’abbaye sur un bois. Il était d’abord question d’une première convention avec son père, peu claire parce que le statut primitif du bois nous est inconnu (sans doute appartenait-il au seigneur, puisque son fils le « rend ») ; toujours est-il, seul trait mentionné, que le seigneur devait empocher le quart du prix d’une éventuelle vente. Le nouveau seigneur résilie la convention, parce que l’abbaye entend passer à une phase active de défrichement. Elle obtient le feu vert en abandonnant au seigneur le neuvième de la récolte de grains, que celui-ci peut se faire livrer sur place (où il doit avoir une grange), ou faire traiter par les frères dans leur propre grange de Bonneuil (il se fait alors livrer les grains à Ham mais leur abandonne le fourrage). Pour emporter la négociation, les frères intéressent semblablement le seigneur dans le revenu d’une terre qui leur appartenait en propre. Comme ces versements peuvent créer précédent, on précise que la convention s’appliquera dans les mêmes termes à de nouveaux défrichements, mais pas aux terres anciennement cultivées.</p>
+          <p>Par-delà le flou de certaines prescriptions, la charte constitue un document précieux sur les opérations de défrichement, plus encore sur la gestion agraire et sur ses horizons comptables affermis (<hi rend="i">quartum denarium, nonam garbem, certa computatione</hi>).</p>
+        </div>
+        <div type="regeste">
+          <head>1177.</head>
+          <p>Eudes, seigneur de Ham, concède à l’abbaye de Prémontré le bois dit <hi rend="i">Concis</hi> au finage de Golancourt, en abandonnant le droit qu’y avait son père Lancelin de percevoir le quart du prix d’une éventuelle vente. L’abbaye défrichera le bois et reversera au seigneur le neuvième de la récolte, excepté la dîme et le droit de fauche (<hi rend="i">secatio</hi>). Le même avantage est accordé au seigneur sur la terre de Lambert et sur les futurs essarts du finage, mais pas sur les terres anciennement cultivées. Prévenu un jour avant de la moisson, le seigneur pourra dépêcher sur place un serviteur, faute de quoi il devra s’en tenir à la parole du frère surveillant les moissonneurs ou au serment du serviteur de celui-ci. Sa part lui sera remise à Golancourt, ou battue par les frères, jusqu’à la Toussaint, dans leur grange de Bonneuil et livrée en grains à Ham, le fourrage leur restant.</p>
+        </div>
+      </div>
+      <div type="speech">
+        <head>Parties du discours</head>  
+        <p>
+          <seg corresp="invocation_figurée"> (<hi rend="i">Croix</hi>) <note xml:id="invocation_figurée">Invocation figurée</note>
+          </seg>
+          <seg corresp="invocation_verbale"> In nomine sancte et individue Trinitatis, amen. <note xml:id="invocation_verbale">Invocation verbale</note>
+          </seg>
+          <seg corresp="suscription">Ego Odo, dominus castri Hamensis,<note xml:id="suscription">Suscription</note></seg>
+          <seg corresp="notification_universelle">notum fieri volo presentibus et futuris quod<note xml:id="notification_universelle">Notification universelle</note></seg>
+          <seg corresp="dispositif">ecclesia Premonstratensis quandam silvam habebat, que vulgo <hi rend="i">Concis</hi> vocatur, in territorio de <hi rend="i">Gollencurt</hi>, in qua sibi dominum Lancelinum patrem meum assotiavit ad quartum denarium si eam aliquando vendere vellet prefata ecclesia. Post mortem vero ejusdem Lancelini, ego Odo, filius ejus, illum quartum denarium indulsi prefate ecclesie et ipsam terram ad extirpandum et excolendum in perpetuum ad nonam garbam, salva decima et secatione, eidem ecclesie reddidi, assensu uxoris mee Elisabeth et fratrum meorum Gerardi, Symonis, Lancelini clerici, et liberorum meorum Odonis, Gaufridi, ita quod eadem ecclesia assotiavit me et heredes meos similiter ad nonam garbam in terra Lamberti, in qua prius nichil habueram nec predecessores mei. Statutum est etiam quod, si deinceps eadem ecclesia aliquam silvam in territorio de <hi rend="i">Gollencurt</hi> adquisierit et extirpaverit, ibidem simili modo nonam garbam habebo ; sed in terra ab antiquo exculta, si eadem ecclesia eam adquisierit, nullum mihi jus vendicare potero. Cum autem secationis tempus advenerit, una die antequam secet nuntiabitur mihi, ut pro parte mea mittam servientem meum ; quem si mittere noluero, veritati fratris qui messores custodierit vel famulo ejusdem fratris, si frater defuerit, debebo credere de partis mee quantitate ; quod si ipsum famulum de infidelitate suspectum habuero, eum ad juramentum super sancta potero compellere, et ab ipso vel a fratribus exinde nichil amplius exigere. Fratres etiam prefate ecclesie garbam meam ducent ad <hi rend="i">Gollencurt</hi> si voluero vel, si mihi magis placuerit, in grangia sua Bonolii sub certo testimonio et certa computatione collocabunt, et usque ad festum omnium sanctorum facient triturari, et granum ducent Hamum, forragium sibi retinentes.<note xml:id="dispositif">Dispositif</note></seg>
+          <seg corresp="liste_de_témoins">Huic concessioni et donationi interfuerunt testes Guillelmus de <hi rend="i">Vilete</hi>, Rainerus de <hi rend="i">Mateni</hi>, Symon Rattus, Petrus <hi rend="i">del Pleissei</hi>.<note xml:id="liste_de_témoins">Liste de témoins</note></seg>
+          <seg corresp="corroboration">Ut igitur hec concessio et donatio rata permaneat et inconvulsa, presentem paginam sigilli nostri impressione communire curavi.<note xml:id="corroboration">Corroboration</note></seg>
+          <seg corresp="date">Actum anno incarnati Verbi M° C° LXXVII°.<note xml:id="date">Date de temps</note></seg>
+        </p> 
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head> 
+          <figure rend="80/faxexterne.jpg"/> 
+          <p>Cet acte mis au nom du seigneur de Ham revêt une forme presque majestueuse : la feuille de parchemin est grande, plus haute que large, et l’écriture, au début surtout, est aérée : elle se resserre vers le milieu du texte, mais ce léger changement n’altère en rien ni sa régularité, ni l’homogénéité du document. À droite et à gauche se trouvent des marges généreuses qui confirment l’impression générale : cet acte, malgré sa portée apparemment limitée — mais il engage l’avenir et prévoit des extensions —, se veut imposant et solennel. Par ailleurs, la régularité de l’écriture, ainsi que la qualité de la justification et la présentation générale harmonieuse, trahissent la main d’un scribe expérimenté : il emploie régulièrement des majuscules un peu ornées, et son système d’abréviations est, à de rares exceptions près, assez homogène. Il use de points pour clairement séparer les noms de chaque personne (l. 6-7). Les tildes en forme de huit ouvert, les treillis des hastes des “s” et des “f” attestent un réel souci ornemental. La croix initiale cantonnée de quatre points, et surtout l’invocation initiale, par la taille de ses caractères (allongés en hauteur mais très serrés et tassés en largeur), comme son libellé, dans des formes d’ailleurs usuelles dans le Bassin parisien, évoquent à nouveau ostensiblement la forme des diplômes royaux, de même peut-être que la disposition à part et allongée de la ligne finale de date.</p> 
+        </div> 
+        <div>
+          <head>Synthèse</head> 
+          <p>Les différentes étapes de l’analyse convergent. L’acte est solennel et orné, impose l’impression de la puissance du seigneur et de la fermeté de son engagement. Il peut être obscur pour nous par ses sous-entendus, mais il est précis, exprimé dans un latin parfait qui s’accommode juste, souci supplémentaire de précision, de nombreuses formes vernaculaires pour les toponymes et microtoponymes, dont la floraison dénonce la domestication de l’espace.</p>
+          <p>La suscription et le scellement — d’un type digne des grands barons — valent à cet acte l’appellation d’acte seigneurial. Elle ne doit pas prêter à confusion. Une comparaison avec d’autres pièces du fonds de Prémontré, émanées d’autres auteurs, serait indispensable pour vérifier l’hypothèse la plus immédiate : l’acte serait, au regard de sa genèse, un pur produit du scriptorium de l’abbaye.</p> 
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

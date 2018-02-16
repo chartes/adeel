@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
-<TEI.2 n="79">
+<TEI n="79">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,7 +15,7 @@
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <text> 
+  <text> 
     <body>
       <div type="facsimile">
         <p>
@@ -87,73 +86,46 @@
           <p>Le chevalier Olivier Avenel s’engage, pour lui et ses héritiers, à acquitter au couvent [des Blanches] de Mortain la rente annuelle de 4 £ 5 s. tournois qu’il lui a aumônée à la Saint-Michel et assignée sur son moulin de Chalandrey, assignation qu’il pourra modifier dans le délai d’un an ; en cas de défaut de paiement, le couvent pourra saisir le grand fer et le petit fer du moulin. — Acte passé sous le sceau du bailliage du Cotentin et co-scellé par Olivier Avenel.</p>
         </div>
       </div>
+      <div type="speech">
+        <head>Parties du discours</head> 
+        <div>
+          <p>
+            <seg corresp="adresse_universelle"> A toz ceus qui ces presentes leitres verront et orrunt,<note id="adresse_universelle">Adresse universelle</note></seg>
+            <seg corresp="suscription"> le ballif de <hi rend="gras">Cotentin</hi>,<note id="suscription">Suscription</note></seg>
+            <seg corresp="salut"> salu.<note id="salut">Salut</note></seg>
+            <seg corresp="notification"> Sachez que,<note id="notification">Notification</note></seg>
+            <seg corresp="dispositif"> par devant nos establi, mon seignor Oliveir Avenel, chevalier, requenut que il est tenu a rendre a fin et a torjors au prior et au covent des nonains de Mortaing quatre livres et cinc souz de torneis de rente annel chescun an des ore en avant, a la feste saint Michel en setembre, que ledit chevalier lor a donné et aumorné en prope aumorne, por le salu de s’arme, a aver et a porseer ladite rente audit prior et au covent deudit chevalier ou de ses heirs, c’est a savoier sus son molin de Chalandreu, en tele meneyre que, se ledit chevalier poet trover ou il lor peust eschangier ladite rente dedenz un an en autre leu convenable ou il peusent fere lor justisse por ladite rente, il le porreit fere sanz contredit de iceus religios.<note id="dispositif">Pas de dispositif à proprement parler : l’acte est là pour notifier, en forme de procès-verbal </note></seg>
+            <seg corresp="clause_obligation"> Et se ledit Oliver ou ses heirs defalloient de paer ladite rente au terme devant nomé, ledit prior et le convent ou lor <hi rend="gras">quemandement</hi> portant ces leitres porraint prendre le grant <hi rend="gras">fer</hi> et le petit deudit molin, sanz contredit de icelui Oliver ne de ses heirs, juques a tant que eus fussent paez de lor rente.<note id="clause_obligation">Clause d’obligation</note></seg>
+            <seg corresp="clause_garantie"> Et sunt tenuz ledit Oliver et ses heirs defendre et garantir ladite rente audit prior et au convent contre toz, et a eschanger en lor prope heritage, se mestier en estet.<note id="clause_garantie">Clauses de garantie</note></seg>
+            <seg corresp="corroboration"> En tesmoing de laquele chose nous avon seelés ces presentes leitres deu seel de la ballie de Cotentin, oveuques le seel audit Oliver,<note id="corroboration">Corroboration</note></seg>
+            <seg corresp="clause_reserve"><hi rend="gras">sauf le droit</hi> nostre seignor le roi et autrui.<note id="clause_reserve">Clause de réserve</note></seg>
+            <seg corresp="date"> Ce fu fait en l’an de grace mil dous cenz seissante et quinze, eu jor de mardi aprés la mé <hi rend="gras">caresme</hi>.<note id="date">Date de temps</note></seg>
+          </p>
+        </div>
+      </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Caractères externes</head> 
-          <div>
-            <p>
-              <figure rend="79/faxexterne.jpg">
-                <figDesc>
-                  <seg rend="50,73,51,56,57,51,66,51,71,55,78,63,79,74,76,83,73,92,63,97,58,97,50,91,50,76,51,69">Majuscule à trait redoublé</seg>
-                  <seg rend="41,138,41,129,48,122,55,122,62,124,67,126,70,130,69,138,65,141,65,146,61,148,53,149,46,149,42,142,41,136">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
-                  <seg rend="142,146,153,151,156,162,150,173,146,173,139,173,133,172,127,167,127,160,128,151,137,144">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
-                  <seg rend="296,174,297,162,297,154,306,151,313,148,320,150,320,158,322,160,325,169,324,177,318,184,317,187,310,188,300,188,295,174">Quelques “i” pointés</seg>
-                  <seg rend="437,564,518,563,557,568,592,575,600,581,607,589,604,599,578,609,540,616,521,616,456,618,389,611,356,598,350,586,362,578,396,570,436,565,473,562">Allongement de trait en fin de dernière ligne : marque la clôture de l’acte</seg>
-                </figDesc>
-              </figure>
-            </p>
-            <p>L’acte est à première vue assez sobre, sans être négligé. Son aspect visuel est assez tassé : l’écriture est serrée et les interlignes sont relativement étroits, comme si l’on n’avait pas voulu gaspiller trop de parchemin. Néanmoins la présentation reste soignée, ne serait-ce que dans sa mise en page : le texte entre dans une justification parfaitement régulière, obtenue par la justification à gauche et, en bas, par la suite, d’ailleurs courante à l’époque, des traits qui achèvent la dernière ligne. La justification à droite se fait plutôt par allongement des lettres finales que par leur tassement (sauf pour “tenuz”, l.14) ou que par coupure des mots (seul “mo-lin” est coupé, l. 7-8), ce qui facilite la lecture.</p>
-            <p>Même si elle est de petit module et largement dénuée d’ornements, l’écriture est très lisible : il n’y a aucune confusion entre les lettres, les mots sont bien séparés, même si certaines liaisons d’articles ou prépositions ne nous sont plus familières (“lebaillis” l. 1, “desnonains” l. 3, etc.). Trait assez commun dans les actes en vernaculaire, les abréviations sont très peu nombreuses. Certains “i” sont pointés, notamment quand il y a un risque de confusion avec des jambages ou dans les noms propres. Enfin on trouve quelques majuscules, sur des mots importants tel le montant de la rente (“Quatre livres et Cinc sous” l. 4) ou, surtout, pour découper des segments sémantiques et souligner le début de nouvelles propositions.</p>
-            <p>En bref, on a recherché une écriture sobre et rapide, mais claire, qui facilite la lecture et évite les confusions. On observe même certains ornements, discrets mais donnant un peu plus de solennité à l’acte : ainsi des pleins et déliés rythment la calligraphie, certains traits des majuscules sont redoublés et une majuscule de taille plus importante est réservée à la première lettre du texte.</p>
-          </div>
-        </div>
-        <div>
-          <head>Parties du discours</head> 
-          <div>
-            <p>
-              <seg corresp="adresse_universelle"> A toz ceus qui ces presentes leitres verront et orrunt,
-                <note id="adresse_universelle">Adresse universelle</note>
-              </seg>
-              <seg corresp="suscription"> le ballif de <hi rend="gras">Cotentin</hi>,
-                <note id="suscription">Suscription</note>
-              </seg>
-              <seg corresp="salut"> salu.
-                <note id="salut">Salut</note>
-              </seg>
-              <seg corresp="notification"> Sachez que,
-                <note id="notification">Notification</note>
-              </seg>
-              <seg corresp="dispositif"> par devant nos establi, mon seignor Oliveir Avenel, chevalier, requenut que il est tenu a rendre a fin et a torjors au prior et au covent des nonains de Mortaing quatre livres et cinc souz de torneis de rente annel chescun an des ore en avant, a la feste saint Michel en setembre, que ledit chevalier lor a donné et aumorné en prope aumorne, por le salu de s’arme, a aver et a porseer ladite rente audit prior et au covent deudit chevalier ou de ses heirs, c’est a savoier sus son molin de Chalandreu, en tele meneyre que, se ledit chevalier poet trover ou il lor peust eschangier ladite rente dedenz un an en autre leu convenable ou il peusent fere lor justisse por ladite rente, il le porreit fere sanz contredit de iceus religios.
-                <note id="dispositif">Pas de dispositif à proprement parler : l’acte est là pour notifier, en forme de procès-verbal </note>
-              </seg>
-              <seg corresp="clause_obligation"> Et se ledit Oliver ou ses heirs defalloient de paer ladite rente au terme devant nomé, ledit prior et le convent ou lor <hi rend="gras">quemandement</hi> portant ces leitres porraint prendre le grant <hi rend="gras">fer</hi> et le petit deudit molin, sanz contredit de icelui Oliver ne de ses heirs, juques a tant que eus fussent paez de lor rente.
-                <note id="clause_obligation">Clause d’obligation</note>
-              </seg>
-              <seg corresp="clause_garantie"> Et sunt tenuz ledit Oliver et ses heirs defendre et garantir ladite rente audit prior et au convent contre toz, et a eschanger en lor prope heritage, se mestier en estet.
-                <note id="clause_garantie">Clauses de garantie</note>
-              </seg>
-              <seg corresp="corroboration"> En tesmoing de laquele chose nous avon seelés ces presentes leitres deu seel de la ballie de Cotentin, oveuques le seel audit Oliver,
-                <note id="corroboration">Corroboration</note>
-              </seg>
-              <seg corresp="clause_reserve">
-                <hi rend="gras">sauf le droit</hi> nostre seignor le roi et autrui.
-                <note id="clause_reserve">Clause de réserve</note>
-              </seg>
-              <seg corresp="date"> Ce fu fait en l’an de grace mil dous cenz seissante et quinze, eu jor de mardi aprés la mé <hi rend="gras">caresme</hi>.
-                <note id="date">Date de temps</note>
-              </seg>
-            </p>
-          </div>
+          <head>Caractères externes</head> 
+          <figure rend="79/faxexterne.jpg">
+            <figDesc>
+              <seg rend="50,73,51,56,57,51,66,51,71,55,78,63,79,74,76,83,73,92,63,97,58,97,50,91,50,76,51,69">Majuscule à trait redoublé</seg>
+              <seg rend="41,138,41,129,48,122,55,122,62,124,67,126,70,130,69,138,65,141,65,146,61,148,53,149,46,149,42,142,41,136">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
+              <seg rend="142,146,153,151,156,162,150,173,146,173,139,173,133,172,127,167,127,160,128,151,137,144">Quelques majuscules attirent l’attention sur des coupures du discours ou sur les sommes</seg>
+              <seg rend="296,174,297,162,297,154,306,151,313,148,320,150,320,158,322,160,325,169,324,177,318,184,317,187,310,188,300,188,295,174">Quelques “i” pointés</seg>
+              <seg rend="437,564,518,563,557,568,592,575,600,581,607,589,604,599,578,609,540,616,521,616,456,618,389,611,356,598,350,586,362,578,396,570,436,565,473,562">Allongement de trait en fin de dernière ligne : marque la clôture de l’acte</seg>
+            </figDesc>
+          </figure>
+          <p>L’acte est à première vue assez sobre, sans être négligé. Son aspect visuel est assez tassé : l’écriture est serrée et les interlignes sont relativement étroits, comme si l’on n’avait pas voulu gaspiller trop de parchemin. Néanmoins la présentation reste soignée, ne serait-ce que dans sa mise en page : le texte entre dans une justification parfaitement régulière, obtenue par la justification à gauche et, en bas, par la suite, d’ailleurs courante à l’époque, des traits qui achèvent la dernière ligne. La justification à droite se fait plutôt par allongement des lettres finales que par leur tassement (sauf pour “tenuz”, l.14) ou que par coupure des mots (seul “mo-lin” est coupé, l. 7-8), ce qui facilite la lecture.</p>
+          <p>Même si elle est de petit module et largement dénuée d’ornements, l’écriture est très lisible : il n’y a aucune confusion entre les lettres, les mots sont bien séparés, même si certaines liaisons d’articles ou prépositions ne nous sont plus familières (“lebaillis” l. 1, “desnonains” l. 3, etc.). Trait assez commun dans les actes en vernaculaire, les abréviations sont très peu nombreuses. Certains “i” sont pointés, notamment quand il y a un risque de confusion avec des jambages ou dans les noms propres. Enfin on trouve quelques majuscules, sur des mots importants tel le montant de la rente (“Quatre livres et Cinc sous” l. 4) ou, surtout, pour découper des segments sémantiques et souligner le début de nouvelles propositions.</p>
+          <p>En bref, on a recherché une écriture sobre et rapide, mais claire, qui facilite la lecture et évite les confusions. On observe même certains ornements, discrets mais donnant un peu plus de solennité à l’acte : ainsi des pleins et déliés rythment la calligraphie, certains traits des majuscules sont redoublés et une majuscule de taille plus importante est réservée à la première lettre du texte.</p>
         </div>
         <div>
           <head>Synthèse</head>
-          <div>
-            <p>On est ici aux années-clefs de l’essor des juridictions gracieuses laïques (royales et princières), qui mènent sur leur propre terrain une rude concurrence aux officialités épiscopales. Elles ont importé toutes leurs inventions : la notification par un suscripteur dépersonnalisé (“le ballif”), le scellement par un sceau d’institution (“seel de la ballie”), ici renforcé par le sceau de l’auteur de l’action juridique, la <hi rend="i">recognitio in jure</hi> (“par devant nos establi”), la précision des clauses — ici des clauses d’obligation et de garantie (pas de renonciation, sans doute parce que l’on est dans un second temps de l’action : le temps de la donation est déjà passé, peut-être a-t-elle fait l’objet d’un premier acte, ici précisé et complété).</p>
-            <p>Le latin, le vocabulaire et les clauses savantes sont démarqués, comme les tics stylistiques (binômes synonymiques comme “a fin et a torjors”, “a aver et a porseer”, “a donné et aumosné”, etc.), mais aussi appropriés, dans une langue ferme et déjà bien rodée, soucieuse aussi de clarté, largement standardisée et peu perméable aux traits régionaux : l’institution est déjà mûre.</p>
-          </div>
+          <p>On est ici aux années-clefs de l’essor des juridictions gracieuses laïques (royales et princières), qui mènent sur leur propre terrain une rude concurrence aux officialités épiscopales. Elles ont importé toutes leurs inventions : la notification par un suscripteur dépersonnalisé (“le ballif”), le scellement par un sceau d’institution (“seel de la ballie”), ici renforcé par le sceau de l’auteur de l’action juridique, la <hi rend="i">recognitio in jure</hi> (“par devant nos establi”), la précision des clauses — ici des clauses d’obligation et de garantie (pas de renonciation, sans doute parce que l’on est dans un second temps de l’action : le temps de la donation est déjà passé, peut-être a-t-elle fait l’objet d’un premier acte, ici précisé et complété).</p>
+          <p>Le latin, le vocabulaire et les clauses savantes sont démarqués, comme les tics stylistiques (binômes synonymiques comme “a fin et a torjors”, “a aver et a porseer”, “a donné et aumosné”, etc.), mais aussi appropriés, dans une langue ferme et déjà bien rodée, soucieuse aussi de clarté, largement standardisée et peu perméable aux traits régionaux : l’institution est déjà mûre.</p>
         </div>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
-<TEI.2 n="71">
+<TEI n="71">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +16,7 @@
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <text> 
+  <text> 
     <body>
       <div type="facsimile">
         <p>
@@ -98,35 +97,29 @@
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Caractères externes</head> 
-          <div>
-            <p>
-              <figure rend="71/faxexterne.jpg">
-                <figDesc>
-                  <seg rend="97,112,101,107,110,105,115,106,118,109,119,117,119,125,113,125,104,127,96,123,95,115,99,112,99,109">Majuscule à redoublement</seg>
-                  <seg rend="249,108,248,98,251,92,254,93,258,90,263,90,265,92,267,100,269,108,269,115,266,122,259,125,252,124,246,119,246,108,246,100">Majuscule à redoublement</seg>
-                  <seg rend="391,103,391,92,394,88,397,87,404,89,406,94,410,101,407,109,407,122,402,123,394,121,390,116,389,106,390,96">“a” à crosse allongée</seg>
-                  <seg rend="657,193,657,183,663,178,670,177,675,181,678,189,679,196,679,205,674,218,664,213,658,209,655,200,657,193">“i” pointés dans certains cas de lecture ambiguë ou quand ils sont redoublés</seg>
-                  <seg rend="397,327,397,318,399,309,406,305,412,305,413,316,414,325,415,329,415,339,413,347,411,358,406,356,399,351,399,341,399,331,396,325">“s” final plongeant</seg>
-                  <seg rend="353,435,368,426,373,422,383,422,393,422,397,423,400,423,406,424,410,432,413,449,416,453,409,456,399,466,381,467,359,463,356,457,350,452,350,442">fente ménagée pour la double queue de parchemin aujourd’hui disparue</seg>
-                  <seg rend="690,109,692,91,696,84,697,72,701,65,708,54,713,58,719,68,725,84,725,107,732,115,732,139,735,154,735,178,738,206,738,217,738,241,738,259,737,287,737,301,736,320,733,332,730,362,723,378,717,391,713,396,706,396,697,381,694,359,689,343,689,312,685,298,684,281,684,267,684,251,684,228,683,203,682,187,684,156,687,124,690,103">devise, par le milieu de laquelle passe la découpe des deux exemplaires du chirographe (un pour chaqua partie)</seg>
-                </figDesc>
-              </figure>
-            </p>
-            <p>Dénuée d’affectation, l’écriture échappe encore à toute sorte de cursivité. Son caractère diplomatique s’affirme dans quelques ornements, quelques discrets redoublements de majuscules (“T” en l. 1, “E” en l. 1 et 2, “G” en l. 2…), l’étirement parfois maladroit du jambage plongeant des “m” et “s” finaux, l’étirement en hauteur du “a” initial (deux exemples l. 2), qui n’est pas sans suggérer une possible influence des actes anglo-normands, que l’on pourrait aussi subodorer dans l’abréviation initiale du nom de l’auteur (“Th.”). Quelques ligatures (“fl” de “flay”, l. 2) ou amorces de ligature (“ct” de “fructibus”, l. 5) sont aussi à noter. Le pointage sert à distinguer deux i qui se suivent. La ponctuation est discrète mais pertinente. La volonté de clarté est donc évidente.</p>
-          </div>
+          <head>Caractères externes</head> 
+          <figure rend="71/faxexterne.jpg">
+            <figDesc>
+              <seg rend="97,112,101,107,110,105,115,106,118,109,119,117,119,125,113,125,104,127,96,123,95,115,99,112,99,109">Majuscule à redoublement</seg>
+              <seg rend="249,108,248,98,251,92,254,93,258,90,263,90,265,92,267,100,269,108,269,115,266,122,259,125,252,124,246,119,246,108,246,100">Majuscule à redoublement</seg>
+              <seg rend="391,103,391,92,394,88,397,87,404,89,406,94,410,101,407,109,407,122,402,123,394,121,390,116,389,106,390,96">“a” à crosse allongée</seg>
+              <seg rend="657,193,657,183,663,178,670,177,675,181,678,189,679,196,679,205,674,218,664,213,658,209,655,200,657,193">“i” pointés dans certains cas de lecture ambiguë ou quand ils sont redoublés</seg>
+              <seg rend="397,327,397,318,399,309,406,305,412,305,413,316,414,325,415,329,415,339,413,347,411,358,406,356,399,351,399,341,399,331,396,325">“s” final plongeant</seg>
+              <seg rend="353,435,368,426,373,422,383,422,393,422,397,423,400,423,406,424,410,432,413,449,416,453,409,456,399,466,381,467,359,463,356,457,350,452,350,442">fente ménagée pour la double queue de parchemin aujourd’hui disparue</seg>
+              <seg rend="690,109,692,91,696,84,697,72,701,65,708,54,713,58,719,68,725,84,725,107,732,115,732,139,735,154,735,178,738,206,738,217,738,241,738,259,737,287,737,301,736,320,733,332,730,362,723,378,717,391,713,396,706,396,697,381,694,359,689,343,689,312,685,298,684,281,684,267,684,251,684,228,683,203,682,187,684,156,687,124,690,103">devise, par le milieu de laquelle passe la découpe des deux exemplaires du chirographe (un pour chaqua partie)</seg>
+            </figDesc>
+          </figure>
+          <p>Dénuée d’affectation, l’écriture échappe encore à toute sorte de cursivité. Son caractère diplomatique s’affirme dans quelques ornements, quelques discrets redoublements de majuscules (“T” en l. 1, “E” en l. 1 et 2, “G” en l. 2…), l’étirement parfois maladroit du jambage plongeant des “m” et “s” finaux, l’étirement en hauteur du “a” initial (deux exemples l. 2), qui n’est pas sans suggérer une possible influence des actes anglo-normands, que l’on pourrait aussi subodorer dans l’abréviation initiale du nom de l’auteur (“Th.”). Quelques ligatures (“fl” de “flay”, l. 2) ou amorces de ligature (“ct” de “fructibus”, l. 5) sont aussi à noter. Le pointage sert à distinguer deux i qui se suivent. La ponctuation est discrète mais pertinente. La volonté de clarté est donc évidente.</p>
         </div>
         <div>
           <head>Interprétation</head>
-          <div>
-            <p>L’acte est typique d’une époque de croisière dans l’évolution de l’acte épiscopal, dont la formidable croissance au long du XII<hi rend="sup">e</hi> siècle a largement reposé sur des interventions de ce type, où l’évêque est garant d’accords, de conventions passées entre laïques ou clercs de son diocèse (ce qui vaut ici pour le curé de Gamaches). En ce sens, ce genre d’acte prépare l’essor de la juridiction gracieuse du XIII<hi rend="sup">e</hi> siècle, où l’évêque aura délégué son rôle à son official. Cela dit, il s’agit ici d’un peu plus que de juridiction gracieuse : d’abord parce que la convention, passée pour régler un litige impliquant l’économie paroissiale, touche au plus près le pouvoir régulateur et hiérarchique de l’évêque (qui notifie de façon explicite, et ratifie de façon implicite) ; ensuite parce que l’acte émane directement de la personne de l’évêque — ce que marquent son nom au début, son sceau au bas, sans omettre le petit groupe de témoins qui animent de façon plus ou moins suivie son entourage.</p>
-            <p>On peut donc analyser l’acte en le comparant point à point aux actes d’officialité ultérieurs (voir par exemple <hi rend="gras">un acte de 1248=<xref to="http://theleme.enc.sorbonne.fr/dossiers/notice20.php">dossier n° 20</xref></hi>).</p>
-            <p>La solution de fond de l’acte d’officialité est déjà là : sans dispositif à proprement parler (car l’évêque ne confirme pas explicitement la convention), l’acte expose, en forme de procès-verbal, la reconnaissance orale passée par les parties devant l’évêque ; le très classique <hi rend="i">constitutis coram nobis… recognitum fuit ab ipsis</hi>, juste un peu lourd face à la formule qui devait s’imposer (<hi rend="i">constituti coram nobis… recognoverunt</hi>), n’a donc pas été imaginé par les officialités !</p>
-            <p>De l’acte d’officialité on retrouve aussitôt l’expertise linguistique, l’effort de clarté qui amène à décrire en termes techniques, juridiques, précis, le négoce, sans fioriture : si l’on veut rendre compte du détail, le « regeste » revient presque à une traduction. Manque par contre encore le lourd apparat de clauses savantes.</p>
-            <p>Si l’acte donc tient au passé, c’est surtout par la forme qu’il prend d’un chirographe, solution un peu rustique mais très efficace pour annoncer d’entrée que l’autre partie a aussi reçu son exemplaire, et parer de façon souple à d’éventuelles contestations : au siècle suivant, on imaginerait plutôt un retour devant l’official.</p>
-          </div>
+          <p>L’acte est typique d’une époque de croisière dans l’évolution de l’acte épiscopal, dont la formidable croissance au long du XII<hi rend="sup">e</hi> siècle a largement reposé sur des interventions de ce type, où l’évêque est garant d’accords, de conventions passées entre laïques ou clercs de son diocèse (ce qui vaut ici pour le curé de Gamaches). En ce sens, ce genre d’acte prépare l’essor de la juridiction gracieuse du XIII<hi rend="sup">e</hi> siècle, où l’évêque aura délégué son rôle à son official. Cela dit, il s’agit ici d’un peu plus que de juridiction gracieuse : d’abord parce que la convention, passée pour régler un litige impliquant l’économie paroissiale, touche au plus près le pouvoir régulateur et hiérarchique de l’évêque (qui notifie de façon explicite, et ratifie de façon implicite) ; ensuite parce que l’acte émane directement de la personne de l’évêque — ce que marquent son nom au début, son sceau au bas, sans omettre le petit groupe de témoins qui animent de façon plus ou moins suivie son entourage.</p>
+          <p>On peut donc analyser l’acte en le comparant point à point aux actes d’officialité ultérieurs (voir par exemple <hi rend="gras">un acte de 1248=<xref to="http://theleme.enc.sorbonne.fr/dossiers/notice20.php">dossier n° 20</xref></hi>).</p>
+          <p>La solution de fond de l’acte d’officialité est déjà là : sans dispositif à proprement parler (car l’évêque ne confirme pas explicitement la convention), l’acte expose, en forme de procès-verbal, la reconnaissance orale passée par les parties devant l’évêque ; le très classique <hi rend="i">constitutis coram nobis… recognitum fuit ab ipsis</hi>, juste un peu lourd face à la formule qui devait s’imposer (<hi rend="i">constituti coram nobis… recognoverunt</hi>), n’a donc pas été imaginé par les officialités !</p>
+          <p>De l’acte d’officialité on retrouve aussitôt l’expertise linguistique, l’effort de clarté qui amène à décrire en termes techniques, juridiques, précis, le négoce, sans fioriture : si l’on veut rendre compte du détail, le « regeste » revient presque à une traduction. Manque par contre encore le lourd apparat de clauses savantes.</p>
+          <p>Si l’acte donc tient au passé, c’est surtout par la forme qu’il prend d’un chirographe, solution un peu rustique mais très efficace pour annoncer d’entrée que l’autre partie a aussi reçu son exemplaire, et parer de façon souple à d’éventuelles contestations : au siècle suivant, on imaginerait plutôt un retour devant l’official.</p>
         </div>
       </div>
     </body>
   </text>
-</TEI.2>
+</TEI>
