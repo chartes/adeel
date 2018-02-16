@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI>
   <teiHeader>
     <fileDesc>
@@ -28,7 +27,6 @@
     </profileDesc>
   </teiHeader>
   <text>
-    
     <body>
       <div type="facsimile">
         <p>
@@ -51,7 +49,7 @@
           <seg rend="661,273,860,384">TAFFIN</seg>
         </p>
       </div>
-      <div type="texte">
+      <div type="text">
         <div type="transcription">
           <p>L’an mil cinq cens quarante-six, le vingt-deuxième jour de septembre, devant les <term n="Les tabellions sont, à la fin du Moyen Âge en Normandie, l’équivalent des notaires ; ils présentent  la particularité de conserver en commun leurs minutes sans les transmettre à leur successeur direct."> tabellions</term>
             <lb/> d’Orbec fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle <lb/> confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine <lb/> de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient <lb/> esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part, promectant <lb/> led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que <lb/> aultres, sur l’obligation de biens et heritaiges, etc... Presents Thomas Feret et Françoys Ourtheys <lb/> tesmoins.</p>
@@ -65,27 +63,21 @@
           </p>
         </div>
       </div>
-      
+      <div type="speech">
+        <head>Parties du discours</head>
+        <p>
+          <seg corresp="date">L’an mil cinq cens quarante-six le vingt-deuxième jour de septembre,<note xml:id="date">Date</note></seg>
+          <seg corresp="suscription">devant les tabellions d’Orbec<note xml:id="suscription">Suscription</note></seg>
+          <seg corresp="expose_dispositif">fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part<note xml:id="expose_dispositif">Exposé et dispositif</note></seg>
+          <seg corresp="clause_finale">promectant led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que aultres, sur l’obligation de biens et heritaiges, etc... <note xml:id="clause_finale">Clause finale</note></seg>
+          <seg corresp="clause_corroboration">Presents Thomas Feret et Françoys Ourtheys tesmoins<note xml:id="clause_corroboration">Clause de corroboration</note></seg>
+        </p>
+      </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Parties du discours</head>
-          
-          <div>
-            <p>
-              <seg corresp="date">L’an mil cinq cens quarante-six le vingt-deuxième jour de septembre,<note xml:id="date">Date</note></seg>
-              <seg corresp="suscription">devant les tabellions d’Orbec<note xml:id="suscription">Suscription</note></seg>
-              <seg corresp="expose_dispositif">fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part<note xml:id="expose_dispositif">Exposé et dispositif</note></seg>
-              <seg corresp="clause_finale">promectant led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que aultres, sur l’obligation de biens et heritaiges, etc... <note xml:id="clause_finale">Clause finale</note></seg>
-              <seg corresp="clause_corroboration">Presents Thomas Feret et Françoys Ourtheys tesmoins<note xml:id="clause_corroboration">Clause de corroboration</note></seg>
-            </p>
-          </div>
-        </div>
-        <div>
           <head>Interprétation</head>
-          <div>
-            <p>Il s’agit de l’extrait authentique d’une quittance de paiement portée sur l’ordonnance même de paiement, la minute devant probablement être signée des témoins et des parties. Cette dernière n’est toutefois pas obligatoire avant l’ordonnance de Fontainebleau de mars 1554.</p>
-          </div>
+          <p>Il s’agit de l’extrait authentique d’une quittance de paiement portée sur l’ordonnance même de paiement, la minute devant probablement être signée des témoins et des parties. Cette dernière n’est toutefois pas obligatoire avant l’ordonnance de Fontainebleau de mars 1554.</p>
         </div>
       </div>
     </body>

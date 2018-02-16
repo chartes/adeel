@@ -49,7 +49,7 @@
                     <seg rend="136,586,481,602">s&#x2019;estendia li sieua caritatz als paures e</seg>
                </p>
             </div>
-            <div type="texte">
+            <div type="text">
                 <div type="transcription">
                     <l>La caritat fervent que <term n="Le texte offre des formes d&#x2019;article féminin &#34;li&#34; qui alternent avec des formes &#34;la&#34;." >li</term> ve-</l>
                     <l>raia amiga de Dieu ma don-</l>
@@ -112,18 +112,18 @@
                 <head>Commentaire linguistique</head>
                 <div>
                     <div>
-                        <p>Le manuscrit fr. 13503 est un manuscrit de petit format (167 x 120 mm) : il a été exécuté dans les premières années du XIV<hi rend="exposant" >e</hi> siècle pour les religieuses (peut-être pour une des religieuses) du couvent des béguines de Marseille. Le copiste s&#x2019;est nommé dans une prière au f. 102 : « Obsecro vos qui hoc legeritis ut Jacobi peccatoris in orationibus vestris memineritis. Amen. »</p>
+                        <p>Le manuscrit fr. 13503 est un manuscrit de petit format (167 x 120 mm) : il a été exécuté dans les premières années du XIV<hi rend="sup" >e</hi> siècle pour les religieuses (peut-être pour une des religieuses) du couvent des béguines de Marseille. Le copiste s&#x2019;est nommé dans une prière au f. 102 : « Obsecro vos qui hoc legeritis ut Jacobi peccatoris in orationibus vestris memineritis. Amen. »</p>
                         <p>Sur Douceline de Digne, née à Digne en 1214 et morte à Marseille en 1274, qui fonda vers 1240 une communauté de béguines à l&#x2019;extérieur de la ville d&#x2019;Hyères, voir : <listBibl>
                                 <bibl><author>Carla <hi rend="sc">CAROZZI</hi></author>,
                                         <title> Une béguine joachinite. Douceline, s&#x2019;ur d&#x2019;Hugues de Digne</title>, dans <hi rend="i" >Cahiers de Fanjeaux</hi>, <date>1975</date>, <biblScop type="vol">t. 10, </biblScop>, <hi rend="i" >Franciscains d&#x2019;oc. Les Spirituels ca. 1280-1324</hi>, <biblScop type="pp">p. 169-20</biblScop>1.
                                         <title> Douceline et les autres </title>, dans <hi rend="i">Cahiers de Fanjeaux</hi>, <biblScop type="vol" >t. 11, 1976</biblScop>, <hi rend="i">La religion populaire en Languedoc du XIII<hi rend="sup">e</hi> siècle à la moitié du XIV<hi rend="sup">e</hi> siècle</hi>, <biblScop type="p">p. 251-267</biblScop>. </bibl>
                             </listBibl></p>
                         <p>La vie a été rédigée directement en occitan par l&#x2019;une des plus anciennes compagnes de la sainte, Philippine de Porcelet, à la fin du XIII<hi rend="sup">e</hi> siècle. Sur la famille Porcelet, voir : <listBibl>
-                                <bibl><author>Martin <hi rend="small caps" >AURELL</hi></author>,<title>Une famille de la noblesse provençale au Moyen âge : les Porcelet</title>, <pubPlace>Avignon</pubPlace>,
+                                <bibl><author>Martin <hi rend="sc" >AURELL</hi></author>,<title>Une famille de la noblesse provençale au Moyen âge : les Porcelet</title>, <pubPlace>Avignon</pubPlace>,
                                     <date>1986</date>. </bibl>
                             </listBibl></p>
-                        <p>La <hi rend="i">Vida de la benaurada sancta Doucelina</hi> qui n&#x2019;est connue que par ce manuscrit a été publiée à deux reprises : <hi rend="i">La vie de sainte Douceline, fondatrice des béguines de Marseille, composée au treizième siècle en langue provençale, publiée pour la première fois, avec la traduction en français et une introduction critique et historique</hi>, par l&#x2019;abbé J.-H. Albanès, Marseille, 1879. <hi rend="i">La vie de sainte Douceline. Texte provençal du XII<hi rend="exposant" >e</hi> siècle</hi>, traduction et notes par R. Grout, Paris, 1927 (<hi rend="i">Ars et Fides</hi>, 8). Voir éventuellement une traduction en anglais de la traduction française qui accompagne l&#x2019;édition Albanès pour laquelle les auteurs n&#x2019;ont pas eu recours au texte médiéval : <hi rend="i">The life of Saint Douceline, a Beguine of Provence translated by Kathleen Garay and Madeleine Jeay</hi>, Woodbridge, 2001.</p>
-                        <p>On peut lire une étude d&#x2019;ensemble sur l&#x2019;oeuvre sous la plume d&#x2019;<author>Ernest <hi rend="small caps" >RENAN</hi></author> dans : <listBibl>
+                        <p>La <hi rend="i">Vida de la benaurada sancta Doucelina</hi> qui n&#x2019;est connue que par ce manuscrit a été publiée à deux reprises : <hi rend="i">La vie de sainte Douceline, fondatrice des béguines de Marseille, composée au treizième siècle en langue provençale, publiée pour la première fois, avec la traduction en français et une introduction critique et historique</hi>, par l&#x2019;abbé J.-H. Albanès, Marseille, 1879. <hi rend="i">La vie de sainte Douceline. Texte provençal du XII<hi rend="sup" >e</hi> siècle</hi>, traduction et notes par R. Grout, Paris, 1927 (<hi rend="i">Ars et Fides</hi>, 8). Voir éventuellement une traduction en anglais de la traduction française qui accompagne l&#x2019;édition Albanès pour laquelle les auteurs n&#x2019;ont pas eu recours au texte médiéval : <hi rend="i">The life of Saint Douceline, a Beguine of Provence translated by Kathleen Garay and Madeleine Jeay</hi>, Woodbridge, 2001.</p>
+                        <p>On peut lire une étude d&#x2019;ensemble sur l&#x2019;oeuvre sous la plume d&#x2019;<author>Ernest <hi rend="sc" >RENAN</hi></author> dans : <listBibl>
                                 <bibl><title>Histoire littéraire de la France</title>,
                                         <date when="1885">1885</date>, <biblScope type="vol" >t.29</biblScope>, <biblScope type="pp">p. 526-546</biblScope> : « La vie de sainte Douceline est un des ouvrages d&#x2019;édification les mieux composés et les mieux écrits du Moyen âge, une des fleurs de cette littérature franciscaine qui se développe surtout en Italie, et que distingue un grand charmes de piété tendre et enfantine. » (p. 545)</bibl>
                             </listBibl></p>

@@ -104,7 +104,7 @@
                     <seg rend="414,865,613,864,612,899,412,903" n="poly"><ex>con</ex>tine<ex>n</ex>tes passione<ex>m</ex> D<ex>omi</ex>ni…</seg>
                </p>
             </div>
-            <div type="texte">
+            <div type="text">
                 <div type="transcription">
                     <!-- la valeur de l'attribut "n" de l'élément "term" n'admet pas de balise, bien sûr,  ce qui explique que les titres d'ouvrages, les italiques, etc. ne soient pas encodés.  -->
                     <p>Istum libellum e mira devocione et spirituali exercitacione<lb/> et orationibus devotissimis et contemplacionibus sanctorum et doctorum<lb/> et quampluribus horis canonicis <lb/> ad laudem et gloriam individue Trinitatis,<lb/> Patris et Filii et Spiritus Sancti, salvatoris nostri Jesu Christi, <lb/> beatissimeque semper virginis Marie matris Dei<lb/> et omnium sanctorum et sanctarum, <lb/> pro sua consolacione <term n="ordre érémitique fondé en 1251 par Pietro del Morrone, pape de 1294 à 1296 sous                              le nom de Célestin V. " >fratrumque celestinorum</term>, <lb/> colligendo pie composuit Philippus de Maseriis<lb/>

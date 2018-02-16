@@ -145,7 +145,7 @@
  indictione predictis.</seg>
                </p>
             </div>
-            <div type="texte">
+            <div type="text">
                 <div type="transcription"> In no<ex>m</ex>i<ex>n</ex>e
  s<ex>an</ex>c<ex>t</ex>e <ex>et</ex> individue
  T<ex>r</ex>initatis. <term
@@ -366,7 +366,7 @@
                             <label>Année d'empire 20<hi rend="sup">e</hi></label>
                             <item>Frédéric II est couronné empereur le 22 novembre 1220 ;
  l'indication est donc correcte.</item>
-                            <label>Année de règne comme roi de Jérusalem 15<hi rend="exposant"
+                            <label>Année de règne comme roi de Jérusalem 15<hi rend="sup"
  >e</hi></label>
                             <item>La chancellerie décompte ces années du jour du mariage avec
  Yolande de Brienne, fille de Jean de Brienne, roi de Jérusalem, que
@@ -569,9 +569,9 @@
  reproduit certains des signes graphiques de l'original. On notera au
  passage que le monogramme de Frédéric II ne peut être exactement
  développé. Sa forme est normalement complexe car depuis la fin du X<hi
- rend="exposant">e</hi> siècle, le monogramme impérial inclut, à côté
+ rend="sup">e</hi> siècle, le monogramme impérial inclut, à côté
  du nom, le titre impérial (ou royal). Celui de Frédéric I<hi
- rend="exposant">er</hi> se développe ainsi "FRIDERICUS DEI GRATIA
+ rend="sup">er</hi> se développe ainsi "FRIDERICUS DEI GRATIA
  ROMANORUM IMPERATOR". Mais celui de Frédéric II reproduit exactement
  celui de Henri VI, au point d'en conserver le H initial (en bas à
  gauche) ! Signe que le monogramme a achevé de devenir un pur signe

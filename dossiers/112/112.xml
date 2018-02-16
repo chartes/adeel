@@ -43,9 +43,9 @@
           <seg rend="80,238,550,282">Tesmoing mon seing manuel, cy mis à leur req<ex>ues</ex>te,</seg>
           <seg rend="553,233,1162,283">le IIII<hi rend="sup">e</hi> jour de mars, l’an mil cinq cens trente-neuf.</seg>
           <seg rend="404,347,771,504">B<hi rend="sc">ONACORSY</hi>.</seg>
-       </p>
+        </p>
       </div>
-      <div type="texte">
+      <div type="text">
         <div type="transcription">
           <p>En la presence de moy <space quantity="40" unit="mm"/>, notaire et secretaire du roy nostre s<ex>ir</ex>e Jheronyme Paule et <lb/> Jehan Marie de Pintour, de Venise, gentilzhommmes <term n="Le terme de plaisant signifie « qui font rire ».">plaisans</term>, ont confessé avoir receu comptant <lb/> de m<hi rend="sup">e</hi>
             <term n="Jean II Duval, commis puis trésorier de l’Épargne est pourvu par résignation de son beau-père Guillaume  Preudhomme le 11 juillet 1539 et reste en charge jusqu’au 22 avril 1547.">Jehan Duval</term> conseiller dudict seigneur et trésorier de son <term n="Le trésor de l’Épargne créé en 1523 a vocation à centraliser l’ensemble des recettes de la monarchie et  reçoit de l’argent provenant aussi bien des finances ordinaires (domaine) par l’intermédiaire des trésoriers  de France que des finances extraordinaires (tailles) par le biais des généraux des finances.">Espargne</term> la somme de deux cens <lb/> vingt-cinq livres tournois en <hi rend="sc">C</hi> escus d’or soleil a <hi rend="sc">XLV</hi> s. t. piece, qui est à chacun d’eulx <hi rend="sc">L</hi> escus <lb/> soleil dont le roy nostred. seigneur leur a faict don en faveur du <term n="Le passe-temps et récréation : le montant des libéralités royales, objet de vives polémiques à l’époque,  croît avec les dépenses de cour, qui représentent environ 21 millions de livres en 1540.">passe-temps et recreation</term> qu’ilz luy <lb/> ont nagueres donné en plusieurs mynes qu’ilz ont faictes et propos facetieux par eulx tenuz devant
@@ -53,76 +53,64 @@
             <lb/> Jehan Marie se sont respectivement tenuz contens et bien payez et en ont quicté et quictent ledit m<hi rend="sup">e</hi>
             <lb/> Jehan Duval, tresorier susdict, et touz autres. Tesmoing mon seing manuel, cy mis à leur requeste, <lb/> le <hi rend="sc">IIII</hi><hi rend="sup">e</hi> jour de mars, l’an mil cinq cens trente-neuf.<lb/>
             <term n="Antoine Buonaccorsi fut trésorier de Provence et pourvu d’un office de secrétaire du roi le 7 janvier  1538.">B<hi rend="sc">ONACORSY</hi></term> <ex>paraphe</ex>
-         </p>
+          </p>
         </div>
         <div type="regeste">
           <head>1540, 4 mars (n. st.) — Paris</head>
           <p>Girolamo Paolo et Giovanni Maria de Pintour de Venise, «gentilzhommes plaisans », donnent quittance à Jean Duval, trésorier de l’Épargne, de la somme de 225 livres tournois, soit 50 écus d’or soleil chacun, que le roi leur a donné en récompense de leurs «mines et propos facetieux ».</p>
         </div>
       </div>
+      <div type="speech">
+        <head>Parties du discours</head>
+        <p>
+          <seg corresp="suscription">En la presence de moy <space quantity="40" unit="mm"/>, notaire et secretaire du roy nostre sire Jheronyme Paule et Jehan Marie de Pintour, de Venise, gentilzhommmes plaisans,<note xml:id="suscription">Suscription</note></seg>
+          <seg corresp="Exposé">ont confessé avoir receu comptant de m<hi rend="sup">e</hi> Jehan Duval conseiller dudict seigneur et trésorier de son Espargne la somme de deux cens vingt-cinq livres tournois en <hi rend="sc">C</hi> escus d’or soleil a <hi rend="sc">XLV</hi> s. t. piece, qui est à chacun d’eulx <hi rend="sc">L</hi> escus soleil dont le roy nostred. seigneur leur a faict don en faveur du passe-temps et recreation qu’ilz luy ont nagueres donné en plusieurs mynes qu’ilz ont faictes et propos facetieux par eulx tenuz devant luy ou il a prins plaisir,<note xml:id="Exposé">Exposé</note></seg>
+          <seg corresp="Dispositif">de laquelle somme de <hi rend="sc">II<hi rend="sup">c</hi></hi> <hi rend="sc">XXV</hi> l. tournois lesdictz Jheronyme Paule et Jehan Marie se sont respectivement tenuz contens et bien payez et en ont quicté et quictent ledit m<hi rend="sup">e</hi> Jehan Duval, tresorier susdict, et touz autres.<note xml:id="Dispositif">Dispositif</note></seg>
+          <seg corresp="clause_corroboration">Tesmoing mon seing manuel, cy mis à leur requeste,<note xml:id="clause_corroboration">Clause de corroboration</note></seg>
+          <seg corresp="Date">le <hi rend="sc">IIII</hi><hi rend="sup">e</hi> jour de mars, l’an mil cinq cens trente-neuf.<note xml:id="Date">Date</note></seg> 
+          <seg corresp="signature">B<hi rend="sc">ONACORSY</hi><note xml:id="signature">Signature et seing manuel</note></seg>
+        </p> 
+      </div>
       <div type="diplomatic">
-        <head>Commentaire diplomatique</head> 
-        <div type="speech-part">
-          <head>Parties du discours</head>
-          <div>
-            <p>
-              <seg corresp="suscription">En la presence de moy <space quantity="40" unit="mm"/>, notaire et secretaire du roy nostre sire Jheronyme Paule et Jehan Marie de Pintour, de Venise, gentilzhommmes plaisans,<note xml:id="suscription">Suscription</note></seg>
-              <seg corresp="Exposé">ont confessé avoir receu comptant de m<hi rend="sup">e</hi> Jehan Duval conseiller dudict seigneur et trésorier de son Espargne la somme de deux cens vingt-cinq livres tournois en <hi rend="sc">C</hi> escus d’or soleil a <hi rend="sc">XLV</hi> s. t. piece, qui est à chacun d’eulx <hi rend="sc">L</hi> escus soleil dont le roy nostred. seigneur leur a faict don en faveur du passe-temps et recreation qu’ilz luy ont nagueres donné en plusieurs mynes qu’ilz ont faictes et propos facetieux par eulx tenuz devant luy ou il a prins plaisir,<note xml:id="Exposé">Exposé</note></seg>
-              <seg corresp="Dispositif">de laquelle somme de <hi rend="sc">II<hi rend="sup">c</hi></hi>
- <hi rend="sc">XXV</hi> l. tournois lesdictz Jheronyme Paule et Jehan Marie se sont respectivement tenuz contens et bien payez et en ont quicté et quictent ledit m<hi rend="sup">e</hi> Jehan Duval, tresorier susdict, et touz autres.<note xml:id="Dispositif">Dispositif</note></seg>
-              <seg corresp="clause_corroboration">Tesmoing mon seing manuel, cy mis à leur requeste,<note xml:id="clause_corroboration">Clause de corroboration</note></seg>
-              <seg corresp="Date">le <hi rend="sc">IIII</hi><hi rend="sup">e</hi> jour de mars, l’an mil cinq cens trente-neuf.<note xml:id="Date">Date</note></seg> 
-              <seg corresp="signature">B<hi rend="sc">ONACORSY</hi><note xml:id="signature">Signature et seing manuel</note></seg>
-
-           </p> 
-          </div>
-        </div> 
+        <head>Commentaire diplomatique</head>
         <div>
           <head>Interprétation</head>
-          <div>
-            <p>L’acte est la quittance originale remise par les bénéficiaires d’un don du roi au trésorier de l’Épargne, Jean Duval.</p>
-            <p>Le recours aux secrétaires du roi de la grande chancellerie, chargés normalement de la rédaction des actes royaux, est fréquent au sein des hôtels royaux (celui du roi, de la reine, du dauphin) pour dresser des quittances en forme de procès-verbal. Leur entremise est sollicitée concurremment à la rédaction de quittances par le bénéficiaire lui-même à la première personne (sous la forme « je soussigné [...] confesse avoir reçu ») ou par des notaires pour lui. Ces deux dernières modalités sont les seules utilisées par exemple pour les quittances délivrées au receveur de la ville de Paris (Arch. nat., H<hi rend="sup">2</hi> 2066<hi rend="sup">2</hi>, quittance au receveur de la ville Philippe Macé des quartiers de la rente assise sur fermes du bétail à pied fourché pendant l’année 1529).</p>
-            <p>Les caractères diplomatiques de ces quittances, tels qu’ils apparaissent en particulier dans un corpus de quelques centaines d’actes, sont constants (Arch. nat., K 1721 à K 1723). L’acte est rédigé sur parchemin. Le nom du secrétaire rédacteur de l’acte n’est pas mentionné dans le corps du texte : un blanc de quelques centimètres est ménagé à sa place entre « moi» et la titulature « notaire et secrétaire... ». La date de lieu n’est pas précisée. Le secrétaire est le seul à signer l’acte et fait figurer en outre son seing manuel développé. Il travaille ici comme un notaire, à ceci près qu’il n’a besoin ni d’un confrère comme les notaires au Châtelet de Paris, ni de témoins comme la plupart des autres notaires.</p>
-            <p>Ce système se maintient jusqu’au début du XVII<hi rend="sup">e</hi> siècle. Dans les années 1620, le bénéficiaire du paiement signe de plus en plus systématiquement lui-même la quittance. Ce mouvement pourrait traduire un déclin de la familiarité des secrétaires du roi avec les hôtels royaux, ou une moins grande confiance mise dans leur signature. Après 1640, le corpus ne contient plus aucun acte rédigé par un secrétaire du roi, mais seulement ceux établis par des notaires parisiens ou provinciaux ou des particuliers. Les souvenirs du gentilhomme de la chambre Marie Dubois le confirme. En 1663, pour percevoir ses gages il affirme : « Je fus faire ma quitance chez le notaire qui les y faisoit à l’Espargne.»</p>
-          </div>
+          <p>L’acte est la quittance originale remise par les bénéficiaires d’un don du roi au trésorier de l’Épargne, Jean Duval.</p>
+          <p>Le recours aux secrétaires du roi de la grande chancellerie, chargés normalement de la rédaction des actes royaux, est fréquent au sein des hôtels royaux (celui du roi, de la reine, du dauphin) pour dresser des quittances en forme de procès-verbal. Leur entremise est sollicitée concurremment à la rédaction de quittances par le bénéficiaire lui-même à la première personne (sous la forme « je soussigné [...] confesse avoir reçu ») ou par des notaires pour lui. Ces deux dernières modalités sont les seules utilisées par exemple pour les quittances délivrées au receveur de la ville de Paris (Arch. nat., H<hi rend="sup">2</hi> 2066<hi rend="sup">2</hi>, quittance au receveur de la ville Philippe Macé des quartiers de la rente assise sur fermes du bétail à pied fourché pendant l’année 1529).</p>
+          <p>Les caractères diplomatiques de ces quittances, tels qu’ils apparaissent en particulier dans un corpus de quelques centaines d’actes, sont constants (Arch. nat., K 1721 à K 1723). L’acte est rédigé sur parchemin. Le nom du secrétaire rédacteur de l’acte n’est pas mentionné dans le corps du texte : un blanc de quelques centimètres est ménagé à sa place entre « moi» et la titulature « notaire et secrétaire... ». La date de lieu n’est pas précisée. Le secrétaire est le seul à signer l’acte et fait figurer en outre son seing manuel développé. Il travaille ici comme un notaire, à ceci près qu’il n’a besoin ni d’un confrère comme les notaires au Châtelet de Paris, ni de témoins comme la plupart des autres notaires.</p>
+          <p>Ce système se maintient jusqu’au début du XVII<hi rend="sup">e</hi> siècle. Dans les années 1620, le bénéficiaire du paiement signe de plus en plus systématiquement lui-même la quittance. Ce mouvement pourrait traduire un déclin de la familiarité des secrétaires du roi avec les hôtels royaux, ou une moins grande confiance mise dans leur signature. Après 1640, le corpus ne contient plus aucun acte rédigé par un secrétaire du roi, mais seulement ceux établis par des notaires parisiens ou provinciaux ou des particuliers. Les souvenirs du gentilhomme de la chambre Marie Dubois le confirme. En 1663, pour percevoir ses gages il affirme : « Je fus faire ma quitance chez le notaire qui les y faisoit à l’Espargne.»</p>
         </div>
         <div>
           <head>Bibliographie complémentaire</head>
-          <div>
-            <listBibl>
-              <bibl>
-                <title>Mémoires de Marie Dubois, sieur de Lestourmière et du Poirier, gentilhomme servant du roi, valet de chambre de Louis XIII et de Louis XIV (1647-1676)</title>, <!-- "(1647-1676)" ne sont pas  en italique mais semblent faire partie du titre -->
-                <editor>Louis de G<hi rend="sc">RANDMAISON</hi></editor>,
-                <pubPlace>Vendôme</pubPlace>, <publisher>Société archéologique, scientifique et littéraire du Vendômois</publisher>, <date when="1936">1936</date>, <biblScope type="pp">547 p</biblScope>. </bibl>
-              <bibl>
-                <author>B<hi rend="sc">AUTIER</hi> (Robert-Henri)</author>
-                <title>Les notaires et secrétaires du roi des origines au milieu du XVI<hi rend="sup">e</hi> siècle</title>, dans <editor>L<hi rend="sc">APEYRE</hi> (André) et S<hi rend="sc">CHEURER</hi> (Remy)
-                </editor>, <title>Les Notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>,
-                <pubPlace>Paris</pubPlace>, <biblScope>p. IX-XLIV</biblScope>. </bibl>
-              <bibl>
-                <author>D<hi rend="sc">UBOST</hi> (Jean-François)</author>, <title>La France italienne, XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> siècle</title>, <pubPlace>Paris</pubPlace>,
-                <publisher>Aubier, Histoires</publisher>, <date when="1997">1997</date>, <biblScope>524 p</biblScope>. </bibl>
-              <bibl>
-                <author>D<hi rend="sc">URRANDE</hi> (Marguerite)</author>, <title>Aspects du clientélisme monarchique sous François I<hi rend="sup">er</hi> (1515-1547)</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses des élèves de l’École nationale des Chartes</title>, <date when="2006">2006</date>. </bibl>
-              <bibl><author>H<hi rend="sc">AMON</hi> (Philippe)</author>, <title>« Messieurs des finances ». Les grands officiers de finance dans la France de la Renaissance</title>, <pubPlace>Paris</pubPlace>, <publisher>Comité pour l’histoire économique et financière de la France</publisher>, <date when="1999">1999</date>, <biblScope type="pp">506 p</biblScope>. </bibl>
-              <bibl><author>H<hi rend="sc">AMON</hi> (Philippe)</author>, <title>L’argent du roi. Les finances sous François I<hi rend="sup">er</hi></title>, <pubPlace>Paris</pubPlace>,
-                <publisher>Comité pour l’histoire économique et financière de la France</publisher>, <date when="1994">1994</date>, <biblScope type="pp">609 p</biblScope>. </bibl>
-              <bibl><author>L<hi rend="sc">E</hi> C<hi rend="sc">LECH</hi>- C<hi rend="sc">HARTON</hi> (Sylvie)</author>, <title>Les notaires et secrétaires du roi et la commande artistique officielle : service du roi, des grands et de la ville</title>, <title>Bibliothèque de l’École des Chartes</title>, <date when="1988">1988</date>, <biblScope type="vol">t. 146</biblScope>,
-                <biblScope type="pp">p. 307-335</biblScope>. </bibl>
-              <bibl><author>M<hi rend="sc">ICHAUD</hi> (Hélène)</author>, <title>La grande Chancellerie et les écritures royales au XVI<hi rend="sup">e</hi> siècle </title>, <pubPlace>Paris</pubPlace>,
-                <publisher>PUF</publisher>, <date when="1967">1967</date>, (<title>Mémoires et documents publiés par la Société de l’École des Chartes</title>, <biblScope type="vol">17</biblScope>), <biblScope type="pp">420 p</biblScope>. </bibl>
-              <bibl><author>P<hi rend="sc">ICOT</hi> (Émile)</author>, <title>Les Italiens en France au XVI<hi rend="sup">e</hi> siècle</title>, <pubPlace>Bordeaux</pubPlace>, <date when="1918">1918</date>. </bibl>
-            </listBibl> 
-          </div>
+          <listBibl>
+            <bibl>
+              <title>Mémoires de Marie Dubois, sieur de Lestourmière et du Poirier, gentilhomme servant du roi, valet de chambre de Louis XIII et de Louis XIV (1647-1676)</title>, <!-- "(1647-1676)" ne sont pas  en italique mais semblent faire partie du titre -->
+              <editor>Louis de G<hi rend="sc">RANDMAISON</hi></editor>,
+              <pubPlace>Vendôme</pubPlace>, <publisher>Société archéologique, scientifique et littéraire du Vendômois</publisher>, <date when="1936">1936</date>, <biblScope type="pp">547 p</biblScope>. </bibl>
+            <bibl>
+              <author>B<hi rend="sc">AUTIER</hi> (Robert-Henri)</author>
+              <title>Les notaires et secrétaires du roi des origines au milieu du XVI<hi rend="sup">e</hi> siècle</title>, dans <editor>L<hi rend="sc">APEYRE</hi> (André) et S<hi rend="sc">CHEURER</hi> (Remy)
+              </editor>, <title>Les Notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>,
+              <pubPlace>Paris</pubPlace>, <biblScope>p. IX-XLIV</biblScope>. </bibl>
+            <bibl>
+              <author>D<hi rend="sc">UBOST</hi> (Jean-François)</author>, <title>La France italienne, XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> siècle</title>, <pubPlace>Paris</pubPlace>,
+              <publisher>Aubier, Histoires</publisher>, <date when="1997">1997</date>, <biblScope>524 p</biblScope>. </bibl>
+            <bibl>
+              <author>D<hi rend="sc">URRANDE</hi> (Marguerite)</author>, <title>Aspects du clientélisme monarchique sous François I<hi rend="sup">er</hi> (1515-1547)</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses des élèves de l’École nationale des Chartes</title>, <date when="2006">2006</date>. </bibl>
+            <bibl><author>H<hi rend="sc">AMON</hi> (Philippe)</author>, <title>« Messieurs des finances ». Les grands officiers de finance dans la France de la Renaissance</title>, <pubPlace>Paris</pubPlace>, <publisher>Comité pour l’histoire économique et financière de la France</publisher>, <date when="1999">1999</date>, <biblScope type="pp">506 p</biblScope>. </bibl>
+            <bibl><author>H<hi rend="sc">AMON</hi> (Philippe)</author>, <title>L’argent du roi. Les finances sous François I<hi rend="sup">er</hi></title>, <pubPlace>Paris</pubPlace>,
+              <publisher>Comité pour l’histoire économique et financière de la France</publisher>, <date when="1994">1994</date>, <biblScope type="pp">609 p</biblScope>. </bibl>
+            <bibl><author>L<hi rend="sc">E</hi> C<hi rend="sc">LECH</hi>- C<hi rend="sc">HARTON</hi> (Sylvie)</author>, <title>Les notaires et secrétaires du roi et la commande artistique officielle : service du roi, des grands et de la ville</title>, <title>Bibliothèque de l’École des Chartes</title>, <date when="1988">1988</date>, <biblScope type="vol">t. 146</biblScope>,
+              <biblScope type="pp">p. 307-335</biblScope>. </bibl>
+            <bibl><author>M<hi rend="sc">ICHAUD</hi> (Hélène)</author>, <title>La grande Chancellerie et les écritures royales au XVI<hi rend="sup">e</hi> siècle </title>, <pubPlace>Paris</pubPlace>,
+              <publisher>PUF</publisher>, <date when="1967">1967</date>, (<title>Mémoires et documents publiés par la Société de l’École des Chartes</title>, <biblScope type="vol">17</biblScope>), <biblScope type="pp">420 p</biblScope>. </bibl>
+            <bibl><author>P<hi rend="sc">ICOT</hi> (Émile)</author>, <title>Les Italiens en France au XVI<hi rend="sup">e</hi> siècle</title>, <pubPlace>Bordeaux</pubPlace>, <date when="1918">1918</date>. </bibl>
+          </listBibl> 
         </div>
       </div> 
       <div type="history">
         <head>Commentaire historique.</head>
-        <div>
-          <div>
-            <p>L’acte reflète l’influence prise par les Italiens à la cour de François I<hi rend="sup">er</hi>, encore accentuée par une immigration italienne abondante, plus spécifiquement venue de Florence. Les Buonaccorsi sont précisément des Florentins installés à Lyon depuis au moins le début du XVI<hi rend="sup">e</hi> siècle comme marchands et banquiers. Ils sont entrés au service du roi par l’intermédiaire des finances, et s’intègrent rapidement à la cour. Julien Bonacorsi, père d’Antoine, est trésorier de Provence, proche de Semblançay. Il est également le mentor de l’orfèvre italien Benvenuto Cellini à la cour de France en 1537 et l’exécuteur testamentaire du Rosso, un des peintres de Fontainebleau, en 1541. Les Buonaccorsi constituent ainsi un de nombreux intermédiaires entre le roi et la culture italienne, Antoine étant par ailleurs placé dans une position charnière : ancien financier, il est pourvu d’un office de secrétaire du roi le 7 janvier 1538. Aussi les artistes, récompensés ici pour leurs jeux d’acteur et leurs mots d’esprit en italien, se voient-ils décernés volontiers le titre de gentilshommes, dont rien n’indique qu’il soit socialement fondé.</p>
-          </div>
-        </div>
+        <p>L’acte reflète l’influence prise par les Italiens à la cour de François I<hi rend="sup">er</hi>, encore accentuée par une immigration italienne abondante, plus spécifiquement venue de Florence. Les Buonaccorsi sont précisément des Florentins installés à Lyon depuis au moins le début du XVI<hi rend="sup">e</hi> siècle comme marchands et banquiers. Ils sont entrés au service du roi par l’intermédiaire des finances, et s’intègrent rapidement à la cour. Julien Bonacorsi, père d’Antoine, est trésorier de Provence, proche de Semblançay. Il est également le mentor de l’orfèvre italien Benvenuto Cellini à la cour de France en 1537 et l’exécuteur testamentaire du Rosso, un des peintres de Fontainebleau, en 1541. Les Buonaccorsi constituent ainsi un de nombreux intermédiaires entre le roi et la culture italienne, Antoine étant par ailleurs placé dans une position charnière : ancien financier, il est pourvu d’un office de secrétaire du roi le 7 janvier 1538. Aussi les artistes, récompensés ici pour leurs jeux d’acteur et leurs mots d’esprit en italien, se voient-ils décernés volontiers le titre de gentilshommes, dont rien n’indique qu’il soit socialement fondé.</p>        
       </div> 
     </body>
   </text>

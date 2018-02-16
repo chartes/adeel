@@ -98,7 +98,7 @@
           <seg rend="342,907,450,904,456,912,469,905,491,909,574,905,573,935,546,941,416,941,342,935,343,935" n="poly">multa gl(ori)ose facturos.</seg>
         </p>
       </div>
-      <div type="texte">
+      <div type="text">
         <div type="transcription">
           <p>Sermones Godefridi canonici Sancti Victoris Parisiensis <lb/> in majoribus sollempnitatibus per anni circulum. <lb/> Sermo primus in prima dominica
             <term n="période liturgique de quatre semaines qui précède la fête de Noël. " >adventus</term> Domini. <lb/>
@@ -157,7 +157,7 @@
               <list type="simple">
                 <item> la multiplicité d’abréviations de la ligne 13 ; </item>
                 <item>
-                  <hi rend="bold">civitatem</hi> rendu par <hi rend="bold">ci<hi rend="exposant">tem</hi></hi>, contraction avec terminaison suscrite, système qui sera toujours plus développé dans l’usage scolastique ; </item>
+                  <hi rend="bold">civitatem</hi> rendu par <hi rend="bold">ci<hi rend="sup">tem</hi></hi>, contraction avec terminaison suscrite, système qui sera toujours plus développé dans l’usage scolastique ; </item>
                 <item> une abréviation irrégulière, <hi rend="bold" >provide(r)at</hi>, avec tilde pour un <hi rend="bold">r</hi> seul ; c’est une correction, apparemment d’une autre main (le copiste ayant écrit par solécisme <hi rend="bold" >provideat</hi>). </item>
               </list>
             </p>
@@ -175,7 +175,7 @@
             <p>La ponctuation, simple, utilise le point (<hi rend="i" >punctus</hi>) seul pour séparer les propositions, et associé à une majuscule pour le début d’une nouvelle phrase.</p>
             <p><!-- A la différence des autres paragraphes de ce div, celui-ci s'accompagne d'un saut de  ligne : faut-il l'encoder d'une manière particulière ?  --> L’économie originelle de la page a été modifiée par la suite : <lb/>
               <list type="simple">
-                <item> l’ex-libris au bas et la cote (?) <hi rend="bold">A</hi> sont probablement de la première moitié du XV<hi rend="exposant" >e</hi> siècle ; </item>
+                <item> l’ex-libris au bas et la cote (?) <hi rend="bold">A</hi> sont probablement de la première moitié du XV<hi rend="sup" >e</hi> siècle ; </item>
                 <item> l’époque moderne et contemporaine a encore ajouté plusieurs cotes, des essais de plume et le cachet de la bibliothèque Mazarine. </item>
               </list>
             </p>
