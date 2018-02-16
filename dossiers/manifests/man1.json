@@ -1,0 +1,82 @@
+{
+	"@id": "http://193.48.42.68/loris/adele/dossiers/1/manifest.json",
+	"@type": "sc:Manifest",
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"label": "Dossier documentaire 1",
+	"thumbnail": {
+		"@id": "http://193.48.42.68/loris/adele/dossiers/1.jpg/full/180,/0/default.jpg"
+	},
+	"attribution": "École nationale des chartes",
+	"license": "http://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+	"logo": "http://193.48.42.68/loris/logos/logo-enc.png/full/full/0/default.png",
+	"related": "http://gallica.bnf.fr/ark:/12148/btv1b6000305s",
+	"description": "Saint Jérôme, Chronicon",
+	"metadata": [
+		{
+			"label": "Provider",
+			"value": "École nationale des chartes"
+		}
+	],
+	"sequences": [
+		{
+			"@context": "http://iiif.io/api/presentation/2/context.json",
+			"@id": "http://193.48.42.68/loris/adele/dossiers/1/sequence/normal",
+			"@type": "sc:Sequence",
+			"canvases": [
+				{
+					"@id": "http://193.48.42.68/loris/adele/dossiers/1/canvas/f1",
+					"@type": "sc:Canvas",
+					"label": "Fac-similé ENC : NF 360 A (héliogravure)",
+					"height": 1184,
+					"width": 900,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a6763f18-48fd-42ff-be77-3dd11d726308",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://193.48.42.68/loris/adele/dossiers/1.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"height": 1184,
+								"width": 900,
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://193.48.42.68/loris/adele/dossiers/1.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"supports": [
+												"canonicalLinkHeader",
+												"profileLinkHeader",
+												"mirroring",
+												"rotationArbitrary",
+												"regionSquare",
+												"sizeAboveFull"
+											],
+											"qualities": [
+												"default",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"formats": [
+												"jpg",
+												"png",
+												"gif",
+												"webp"
+											]
+										}
+									]
+								}
+								
+							},
+							"on": "http://193.48.42.68/loris/adele/dossiers/1/canvas/f1"
+						}
+					]
+				}
+			]
+		}
+	]
+}
