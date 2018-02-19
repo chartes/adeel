@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 SYSTEM "../tei.dtd">
-<TEI.2 n="68">
+<TEI n="68">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>1116. Acte privé méridional</title>
       </titleStmt>
       <publicationStmt>
-        <idno type="numero">68</idno>
-        
+        <idno type="numero">68</idno> 
         <publisher>École nationale des chartes</publisher>
       </publicationStmt>
       <sourceDesc>
@@ -17,10 +15,8 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc></profileDesc>
-  </teiHeader>
-  
+  </teiHeader> 
   <text>
-    <front></front>
     <body>
       <div type="facsimile">
         <p>
@@ -53,8 +49,7 @@
           <seg rend="24,354,376,340,380,363,23,371">Sig+nu<ex>m</ex> Guill<ex>el</ex>mi Boni filii. Sig+nu<ex>m</ex> Jocb<ex>er</ex>ti.</seg>
           <seg rend="22,374,182,399">St<ex>e</ex>ph<ex>anu</ex>s p<ex>res</ex>b<ex>ite</ex>r sc[ri]psit.</seg>
         </p>
-      </div>
-      
+      </div> 
       <div type="text">
         <div type="transcription">
           <l>In Dei nomin[e. Eg]o Arnaldus Pontii et uxor mea Saura et infantes nostri donatores</l>
@@ -96,57 +91,32 @@
         </div>
         <div type="regeste">
           <head>1116, 1<hi rend="sup">er</hi> octobre.</head>
-          <p>Arnaud [fils] de Pons, sa femme Saure et leurs enfants donnent à Pierre [fils] de Gelmire, à sa femme Adalède et à leur descendance deux parcelles de vigne, à tenir au quart des                         fruits, dans le comté de Roussillon, diocèse d’Elne, finage de Maillolles. Pierre verse un droit d’entrée (<hi rend="i">laudamentum carte</hi>) de cinq sous, monnaie roussillonnaise.
-          </p>
+          <p>Arnaud [fils] de Pons, sa femme Saure et leurs enfants donnent à Pierre [fils] de Gelmire, à sa femme Adalède et à leur descendance deux parcelles de vigne, à tenir au quart des                         fruits, dans le comté de Roussillon, diocèse d’Elne, finage de Maillolles. Pierre verse un droit d’entrée (<hi rend="i">laudamentum carte</hi>) de cinq sous, monnaie roussillonnaise.</p>
         </div>
-      </div>
-      
+      </div> 
       <div type="diplomatic">
         <div>
           <head>Caractères externes</head>
-          <div>
-            <p> L’acte est établi sur un morceau de parchemin assez grossièrement apprêté et dont on pressent  l’épaisseur et la rigidité. Le bord droit est sinueux, car le morceau a sans doute été taillé en fin de peau.  L’espacement entre les lignes est irrégulier, et les lignes elles-mêmes ne sont pas bien droites :  il ne semble pas y avoir eu de tracé préparatoire. Il n’y a pas de tentative de justification en fin de ligne,  et tout l’espace est occupé. Tout en bref tend à montrer une économie de matériau, pour un acte courant,  peu prestigieux.
-            </p>
-            <p> L’écriture est livresque, sans caractère diplomatique affirmé, ce qui n’est pas surprenant pour un acte  du début du XII<hi rend="sup">e</hi> siècle écrit par « le prêtre Étienne », manifestement un clerc auquel  on fait plus ou moins occasionnellement appel pour ses compétences de lettré.
-            </p>
-            <p> On peut tout d’abord remarquer l’influence de la caroline, dans la différence bien marquée entre les « m »,  « in » et « ui » (l. 4),  dont les jambages sont ligaturés clairement, ce qui reflète des habitudes d’écriture livresque  et rend la lecture plus aisée. Autre usage livresque, l’utilisation d’un « e » cédillé pour exprimer la diphtongue « æ »,  avec, phénomène tout aussi courant, des hypercorrections comme « æpiscopio » pour « episcopio » (l. 3). L’insertion  d’abréviations usuelles à l’intérieur des mots mérite aussi d’être soulignée, en particulier le signe « &amp; » dans « P(et)rus ».
-            </p>
-            <p> Dans les souscriptions finales des auteurs et des témoins, les croix et les quatre points qui les cantonnent,  très normalement enchâssés dans le mot <foreign>Signum</foreign>, selon une disposition courante dans  toutes les terres méridionales, ne présentent aucune trace particulière d’autographie, ce qui est assez courant à  cette époque : le rédacteur-scripteur a dû se charger de tout le travail. Preuve flagrante que ces <foreign>signa</foreign>  sont ressentis comme très abstraits, déconnectés de l’autographie : un seul <foreign>signum</foreign> suffit pour l’auteur,  son épouse et même leurs enfants, pas plus précisément nommés ni même décomptés. On est ici à la fin  d’une évolution qui annonce la simple liste de témoins de l’acte notarié classique.
-            </p>
-            <p> L’acte porte un seing manuel formé de trois cercles concentriques barrés d’une croix pour les deux  cercles internes, ornés de quatre points à chaque canton dans le cercle central et de quatre séries de quatre  traits dans le cercle externe. Il s’agit sans conteste de la marque du rédacteur de l’acte, un ancêtre du seing  manuel des notaires, qui commence à se complexifier, mais qui est tracé hors de toute légende explicative,  de toute formule de récognition.
-            </p>
-          </div>
-          
+          <p>L’acte est établi sur un morceau de parchemin assez grossièrement apprêté et dont on pressent  l’épaisseur et la rigidité. Le bord droit est sinueux, car le morceau a sans doute été taillé en fin de peau.  L’espacement entre les lignes est irrégulier, et les lignes elles-mêmes ne sont pas bien droites :  il ne semble pas y avoir eu de tracé préparatoire. Il n’y a pas de tentative de justification en fin de ligne,  et tout l’espace est occupé. Tout en bref tend à montrer une économie de matériau, pour un acte courant,  peu prestigieux.</p>
+          <p>L’écriture est livresque, sans caractère diplomatique affirmé, ce qui n’est pas surprenant pour un acte  du début du XII<hi rend="sup">e</hi> siècle écrit par « le prêtre Étienne », manifestement un clerc auquel  on fait plus ou moins occasionnellement appel pour ses compétences de lettré.</p>
+          <p>On peut tout d’abord remarquer l’influence de la caroline, dans la différence bien marquée entre les « m »,  « in » et « ui » (l. 4),  dont les jambages sont ligaturés clairement, ce qui reflète des habitudes d’écriture livresque  et rend la lecture plus aisée. Autre usage livresque, l’utilisation d’un « e » cédillé pour exprimer la diphtongue « æ »,  avec, phénomène tout aussi courant, des hypercorrections comme « æpiscopio » pour « episcopio » (l. 3). L’insertion  d’abréviations usuelles à l’intérieur des mots mérite aussi d’être soulignée, en particulier le signe « &amp; » dans « P(et)rus ».</p>
+          <p>Dans les souscriptions finales des auteurs et des témoins, les croix et les quatre points qui les cantonnent,  très normalement enchâssés dans le mot <foreign>Signum</foreign>, selon une disposition courante dans  toutes les terres méridionales, ne présentent aucune trace particulière d’autographie, ce qui est assez courant à  cette époque : le rédacteur-scripteur a dû se charger de tout le travail. Preuve flagrante que ces <foreign>signa</foreign>  sont ressentis comme très abstraits, déconnectés de l’autographie : un seul <foreign>signum</foreign> suffit pour l’auteur,  son épouse et même leurs enfants, pas plus précisément nommés ni même décomptés. On est ici à la fin  d’une évolution qui annonce la simple liste de témoins de l’acte notarié classique.</p>
+          <p>L’acte porte un seing manuel formé de trois cercles concentriques barrés d’une croix pour les deux  cercles internes, ornés de quatre points à chaque canton dans le cercle central et de quatre séries de quatre  traits dans le cercle externe. Il s’agit sans conteste de la marque du rédacteur de l’acte, un ancêtre du seing  manuel des notaires, qui commence à se complexifier, mais qui est tracé hors de toute légende explicative,  de toute formule de récognition.</p>
         </div>
         <div>
           <head>Langue et styles</head>
-          <div>
-            <p> Tenu en laisse par un formulaire très strict, le latin est très correct syntaxiquement, même si l’on peut relever  quelques fantaisies graphiques comme le « h » initial de <foreign>hordo</foreign> (l. 9) et la réduction phonétique de 
-              <foreign>Ludovico</foreign> à <foreign>Loudigo</foreign>. L’application mise à bien distinguer le génitif des patronymes  (<foreign>Arnaldus Pontii</foreign>) est peut-être l’explication de la très peu classique formule <foreign>vinea de Guilelmo Ambrosii</foreign>,  à moins que l’on n’y voie l’évolution de la langue et la force parallèle de l’expression vernaculaire  (« de » possessif inconnu du latin classique) ; mais elle est incontestable dans la correction de <foreign>Numundo</foreign> en <foreign>Numundi</foreign> (l. 5), et dans la notation sans flexion, sous des formes vernaculaires, de deux  sobriquets, <foreign>Trebug</foreign>et <foreign>Ostem</foreign>. Autre trait d’évolution de la langue,  dans l’expression <foreign>donamus… ad quartum</foreign>.
-            </p>
-            <p> L’onomastique, caractéristique de l’époque, est déjà évoluée : le nom personnel est la plupart  du temps (pour l’auteur de l’action, les confrontants et les témoins) enrichi d’un second élement,  au génitif : il indique à l’origine la filiation (il faut sous-entendre <foreign>filius</foreign>, comme nous l’avons fait dans  la traduction, mais l’évolution vers l’hérédité du patronyme brouille le jeu, et « Arnaud fils de Pons »  va devenir « Arnaud Pons »). Un confrontant est désigné par un matronyme (<foreign>Garigæ</foreign>) et deux autres  le sont par des sobriquets. Le système n’est pas encore figé, et demeure très fonctionnel : ce « surnom »  est absent dès que la désignation de la personne est assez claire pour éviter une confusion : Saura femme  de l’auteur, Étienne prêtre, ou encore le témoin Jocbert qui porte un nom plus rare.
-            </p>
-            <p> La précision visée par le rédacteur, la correction syntaxique globale, s’accompagnent même  d’une pointe de recherche stylistique (mais est-elle le fait du rédacteur ou de la formule qu’il a peut-être  sous les yeux ?), avec l’expression variée des listes de confronts : une simple énumération coordonnée par  des <foreign>et</foreign> pour la première vigne, une liste scandée par la numérotation des côtés (<foreign>de prima parte… de alia…  de tertia… de quarta…</foreign>) pour la seconde.
-            </p>
-          </div>               
+          <p>Tenu en laisse par un formulaire très strict, le latin est très correct syntaxiquement, même si l’on peut relever  quelques fantaisies graphiques comme le « h » initial de <foreign>hordo</foreign> (l. 9) et la réduction phonétique de <foreign>Ludovico</foreign> à <foreign>Loudigo</foreign>. L’application mise à bien distinguer le génitif des patronymes  (<foreign>Arnaldus Pontii</foreign>) est peut-être l’explication de la très peu classique formule <foreign>vinea de Guilelmo Ambrosii</foreign>,  à moins que l’on n’y voie l’évolution de la langue et la force parallèle de l’expression vernaculaire  (« de » possessif inconnu du latin classique) ; mais elle est incontestable dans la correction de <foreign>Numundo</foreign> en <foreign>Numundi</foreign> (l. 5), et dans la notation sans flexion, sous des formes vernaculaires, de deux  sobriquets, <foreign>Trebug</foreign>et <foreign>Ostem</foreign>. Autre trait d’évolution de la langue,  dans l’expression <foreign>donamus… ad quartum</foreign>.</p>
+          <p>L’onomastique, caractéristique de l’époque, est déjà évoluée : le nom personnel est la plupart  du temps (pour l’auteur de l’action, les confrontants et les témoins) enrichi d’un second élement,  au génitif : il indique à l’origine la filiation (il faut sous-entendre <foreign>filius</foreign>, comme nous l’avons fait dans  la traduction, mais l’évolution vers l’hérédité du patronyme brouille le jeu, et « Arnaud fils de Pons »  va devenir « Arnaud Pons »). Un confrontant est désigné par un matronyme (<foreign>Garigæ</foreign>) et deux autres  le sont par des sobriquets. Le système n’est pas encore figé, et demeure très fonctionnel : ce « surnom »  est absent dès que la désignation de la personne est assez claire pour éviter une confusion : Saura femme  de l’auteur, Étienne prêtre, ou encore le témoin Jocbert qui porte un nom plus rare.</p>
+          <p>La précision visée par le rédacteur, la correction syntaxique globale, s’accompagnent même  d’une pointe de recherche stylistique (mais est-elle le fait du rédacteur ou de la formule qu’il a peut-être  sous les yeux ?), avec l’expression variée des listes de confronts : une simple énumération coordonnée par  des <foreign>et</foreign> pour la première vigne, une liste scandée par la numérotation des côtés (<foreign>de prima parte… de alia…  de tertia… de quarta…</foreign>) pour la seconde.</p>
         </div>
         <div>
           <head>Interprétation</head>
-          <div>
-            <p> Les protagonistes ont fait appel à un prêtre lettré, un type de figure très fréquent, avec de simples  diacres, parmi les rédacteurs d’actes privés du sud-ouest de la France jusqu’au seuil du XIII<hi rend="sup">e</hi>  siècle. On ignore ses fonctions (il n’est pas forcément curé), mais il semble habitué à la production d’actes  courants. Il maîtrise un formulaire routinier et efficace. Ce formulaire est largement dégagé des scories  linguistiques des siècles passés, où se lisait plus immédiatement le vigoureux aller-retour entre latin  et vernaculaire. Il tire fondamentalement sa force du stéréotype, adapté vaille que vaille à l’intensification  des transactions. Il permet de faire du neuf sous couleur de l’ancien.
-            </p>
-            <p> Car si une approche purement formelle reconnaît ici un produit dérivé, mais très direct, des actes du  haut Moyen Âge, eux-mêmes tirés de l’Antiquité, le fond a évolué : la <foreign>carta donationis</foreign> sert ici à formuler  un accensement désormais perpétuel, assorti d’un droit d’entrée élevé ; les usages anthroponymiques  et chronologiques sont modernes ; le système de localisation des biens cherche à mieux coller aux  circonscriptions contemporaines, sans encore se soucier de microtoponymes.
-            </p>
-            <p> La formulation même du « discours » diplomatique renforce le sentiment : le contraste est net entre la rigide  charpente du formulaire (fondée sur un séculaire <foreign>Donatores sumus vobis…</foreign>) et la possibilité  d’ajouter une clause complémentaire après la date. Or cette addition (<foreign>Et dedit Petrus…</foreign>) introduit  une discordance, car elle est très significativement rédigée de façon objective par le prêtre (le <foreign>eis</foreign> y  correspond au <foreign>nos</foreign> du début de l’acte), qui a effectivement repris la parole au moment  de clore l’acte (date, souscriptions). Le vernis antique de l’acte subjectif, qui faisait dialoguer les parties, commence  à craquer, et le notaire (comme l’autorité notificatrice et scellante au nord) à émettre le discours.
-            </p>
-            <p> Mi-rustiques et mi-savants, mi-traditionnels et mi-novateurs, ces petits actes demeurent au plus près de la  vie économique et sociale de tous les jours, qu’ils confortent d’un fin réseau d’écrits entre simples particuliers,  promis à des destructions massives. Celui-ci, conservé dans le fonds de la Procuration royale de Majorque, a  dû apparemment son salut au passage des vignes, à une date inconnue, dans le domaine comtal de Roussillon.
-            </p>
-          </div>
+          <p>Les protagonistes ont fait appel à un prêtre lettré, un type de figure très fréquent, avec de simples  diacres, parmi les rédacteurs d’actes privés du sud-ouest de la France jusqu’au seuil du XIII<hi rend="sup">e</hi>  siècle. On ignore ses fonctions (il n’est pas forcément curé), mais il semble habitué à la production d’actes  courants. Il maîtrise un formulaire routinier et efficace. Ce formulaire est largement dégagé des scories  linguistiques des siècles passés, où se lisait plus immédiatement le vigoureux aller-retour entre latin  et vernaculaire. Il tire fondamentalement sa force du stéréotype, adapté vaille que vaille à l’intensification  des transactions. Il permet de faire du neuf sous couleur de l’ancien.</p>
+          <p>Car si une approche purement formelle reconnaît ici un produit dérivé, mais très direct, des actes du  haut Moyen Âge, eux-mêmes tirés de l’Antiquité, le fond a évolué : la <foreign>carta donationis</foreign> sert ici à formuler  un accensement désormais perpétuel, assorti d’un droit d’entrée élevé ; les usages anthroponymiques  et chronologiques sont modernes ; le système de localisation des biens cherche à mieux coller aux  circonscriptions contemporaines, sans encore se soucier de microtoponymes.</p>
+          <p>La formulation même du « discours » diplomatique renforce le sentiment : le contraste est net entre la rigide  charpente du formulaire (fondée sur un séculaire <foreign>Donatores sumus vobis…</foreign>) et la possibilité  d’ajouter une clause complémentaire après la date. Or cette addition (<foreign>Et dedit Petrus…</foreign>) introduit  une discordance, car elle est très significativement rédigée de façon objective par le prêtre (le <foreign>eis</foreign> y  correspond au <foreign>nos</foreign> du début de l’acte), qui a effectivement repris la parole au moment  de clore l’acte (date, souscriptions). Le vernis antique de l’acte subjectif, qui faisait dialoguer les parties, commence  à craquer, et le notaire (comme l’autorité notificatrice et scellante au nord) à émettre le discours.</p>
+          <p>Mi-rustiques et mi-savants, mi-traditionnels et mi-novateurs, ces petits actes demeurent au plus près de la  vie économique et sociale de tous les jours, qu’ils confortent d’un fin réseau d’écrits entre simples particuliers,  promis à des destructions massives. Celui-ci, conservé dans le fonds de la Procuration royale de Majorque, a  dû apparemment son salut au passage des vignes, à une date inconnue, dans le domaine comtal de Roussillon.</p>
         </div>
-      </div>
-      
-    </body>
-    
-    
+      </div> 
+    </body>     
   </text>
-</TEI.2>
+</TEI>
