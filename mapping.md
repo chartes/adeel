@@ -1,12 +1,71 @@
-# div
+# TODO (in `body`)
+* 5070 l
+* 4848 seg
+* 2058 hi
+* 1662 lb
+* 1626 term
+* 15743 ex
+* 1353 p
+*  975 div
+*  525 head
+*  504 note
+*  186 item
+*  162 add
+*  114 title
+*   95 biblScope
+*   89 bibl
+*   80 author
+*   78 figure
+*   69 foreign
+*   53 date
+*   51 list
+*   42 pubPlace
+*   39 em
+*   36 publisher
+*   34 figDesc
+*   26 strong
+*   24 listBibl
+*   21 sup
+*   17 label
+*    9 xref
+*    8 span
+*    7 lg
+*    7 i
+*    7 editor
+*    6 li
+*    5 cb
+*    4 biblScop
+*    3 space
+*    3 series
+*    3 q
+*    2 del
+*    2 br
+*    1 u
+*    1 quote
+*    1 graphic
+*    1 edition
+*    1 blockquote
+*    1 a
+
+
+# structure `body`
+
+```txt
+div[@type="facsimile"]
+[@type="text"]
+  [@type="transcription"]
+  [@type="translation"]
+  [@type="regeste"]
+  ?
+[@type="speech"]
+[@type="diplomatic"]
+[@type="history"]
+[@type="paleography"]
+```
+
 
 ## Commentaires
 
-**3 types à conserver**
-* commentaire diplomatique : `@n="diplomatique"` devient `@type="diplomatic"` (NB: à articuler avec les parties du discours)
-  * parties du discouts :
-* commentaire historique : `@n="histoire|historique"` devient `@type="history"`
-* commentaire paléographique = `@n="paleographie"` devient `@type="paleography"`
 
 **enrichissement typographique**
 * `hi[@rend="i|sc|sup"]`
