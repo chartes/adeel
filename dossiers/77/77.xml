@@ -11,56 +11,55 @@
         <publisher>École nationale des chartes</publisher>
       </publicationStmt>
       <sourceDesc>
-        <p>Orig.&#160;: Bibl. nat. de Fr.</p>
-        <p>Fac-sim. ENC&#160;: AF 287 (lithographie)</p>
+        <p>Orig. : Bibl. nat. de Fr.</p>
+        <p>Fac-sim. ENC : AF 287 (lithographie)</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
   </teiHeader>
-  <text>
-    
+  <text> 
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="3,34,14,3,37,20,36,65,165,46,299,36,298,58,596,75,597,94,404,88,217,88,95,90,4,87" n="poly">Loys, par la grace de Dieu roy de France, a tous ceulx qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront, salut.</seg>
-          <seg rend="601,60,1034,76,1031,105,880,99,723,96,606,93" n="poly">Comme a la journee et assemblee nagaires tenue en la ville de</seg>
-          <seg rend="9,90,142,93,257,93,376,92,472,94,602,99,600,114,400,107,212,105,95,105,18,104" n="poly">Hem en Vermendois, et depuis en la ville de Peronne, entre noz gens <ex>et</ex> ambasseurs</seg>
-          <seg rend="607,97,805,103,983,108,1049,109,1049,121,863,123,708,117,610,116" n="poly">et ceulx de n<ex>ost</ex>re tres chier <ex>et</ex> tres amé frere <ex>et</ex> cousin le duc de Bourgoigne,</seg>
-          <seg rend="16,109,101,109,224,108,370,110,499,114,626,120,674,122,671,137,444,127,295,124,151,125,16,124" n="poly">plusieurs doleances, requestes et remonstrances aient esté faictes de la part de n<ex>ost</ex>redit frere <ex>et</ex> cousin,</seg>
-          <seg rend="678,120,985,127,1045,128,1044,141,915,143,762,138,679,135" n="poly">et entre autres choses ait esté remonstré que, selon le droit</seg>
-          <seg rend="14,129,148,129,306,129,411,129,554,135,607,140,607,154,405,143,228,143,87,144,18,146" n="poly">du païs de Flandres, n<ex>ost</ex>re court de parlement ne doit recevoir aucunes appellations des loix</seg>
-          <seg rend="613,139,743,141,851,145,936,148,1028,147,1020,160,920,163,803,158,725,156,642,153,610,153" n="poly">et juges dudit païs de Flandres autres que les loix des quatre</seg>
-          <seg rend="19,151,139,149,241,148,368,147,367,164,190,163,93,164,20,164" n="poly">principaulx membres d’icellui pays obmisso medio,</seg>
-          <seg rend="373,149,480,151,611,157,748,161,886,165,1000,166,1016,165,1037,166,1033,182,867,180,700,173,596,168,481,168,447,168,394,163,373,163" n="poly">car le ressort doit premier appartenir a n<ex>ost</ex>redit frere <ex>et</ex> cousin et ne doit point estre travaillié de</seg>
-          <seg rend="17,170,133,168,265,167,445,172,551,173,656,178,654,193,367,186,161,183,63,182,16,185" n="poly">requerir le renvoy en n<ex>ost</ex>redicte court co<ex>m</ex>me l’on fait pour les ressors des autres païs du royaume,</seg>
-          <seg rend="662,176,808,181,973,185,1042,186,1037,202,863,199,729,197,663,191" n="poly">et ne doit l’on bailler aux subgetz de Flandres relievem<ex>en</ex>t</seg>
-          <seg rend="19,190,92,187,245,190,364,191,507,194,506,208,362,208,213,205,98,201,17,205" n="poly">en cas d’appel, se l’appellacion ne procede inmediate du jugement du conte</seg>
-          <seg rend="512,193,674,199,769,201,852,203,988,205,1026,206,1025,220,903,217,771,217,683,212,610,210,509,209" n="poly">ou de sa chambre de conseil en Flandres, en nous requerant vouloir sur ce</seg>
-          <seg rend="21,208,157,208,330,211,507,213,622,216,780,222,779,236,583,230,391,227,303,227,221,226,105,221,59,222,19,224" n="poly">pourveoir a n<ex>ost</ex>redit frere <ex>et</ex> cousin, savoir faisons que nous, voulans en ce complaire a icellui n<ex>ost</ex>re frere <ex>et</ex> cousin,</seg>
-          <seg rend="785,222,889,221,1023,225,1015,237,893,235,835,235,788,237" n="poly">avons octroyé, consenti <ex>et</ex> accordé,</seg>
-          <seg rend="19,229,88,227,208,230,338,231,469,235,523,237,520,248,401,251,279,248,138,245,58,241,18,244" n="poly">octroyons, consentons <ex>et</ex> accordons par ces p<ex>rese</ex>ntes a n<ex>ost</ex>redit frere <ex>et</ex> cousin que,</seg>
-          <seg rend="529,234,683,238,814,242,895,240,1013,240,1022,241,1024,254,930,254,807,254,663,253,563,250,524,248" n="poly">touchant les dessusd<ex>ictes</ex> appellacions, soit fait doresennavant selon les droiz,</seg>
-          <seg rend="19,250,79,246,164,249,287,252,423,254,536,254,537,271,387,265,202,265,101,263,17,263" n="poly">coustumes dud<ex>it</ex> païs de Flandres et ainsi qu’il a esté de long temps observé,</seg>
-          <seg rend="539,255,692,259,858,257,1015,259,1009,269,902,272,769,276,635,276,543,270" n="poly">et que tous troubles et empeschemens faiz au contraire soient ostez et</seg>
-          <seg rend="16,267,153,268,303,269,453,273,452,286,237,285,78,283,21,283" n="poly">levez, et lesquelz par ces p<ex>rese</ex>ntes nous mesmes ostons <ex>et</ex> levons.</seg>
-          <seg rend="460,271,560,276,661,279,822,281,947,274,1033,276,1033,291,958,292,833,295,700,295,569,292,460,288" n="poly">Si donnons en mandement a noz amez et feaulx conseilliers les gens de n<ex>ost</ex>re p<ex>ar</ex>lement,</seg>
-          <seg rend="14,288,118,288,235,290,388,291,476,295,475,309,259,304,127,302,13,306" n="poly">aux bailliz de Vermendoiz, d’Amyens, de Tournay et de Tournesiz</seg>
-          <seg rend="481,293,629,299,744,300,861,300,951,299,1044,298,1040,314,942,313,823,314,700,316,600,313,483,308" n="poly">et a tous noz autres justiciers <ex>et</ex> officiers ou a leurs lieuxtenans et a ch<ex>asc</ex>un d’eulx, si co<ex>m</ex>me</seg>
-          <seg rend="15,311,149,307,381,311,591,315,620,321,616,333,468,329,309,328,165,325,97,325,42,323,17,322" n="poly">a lui appartiendra, que n<ex>ost</ex>re p<ex>rese</ex>nte declaracion <ex>et</ex> ordonnance ilz gardent et facent garder</seg>
-          <seg rend="624,320,751,319,886,317,1013,319,1035,320,1036,334,938,334,824,333,692,335,624,333" n="poly">et entretenir selon sa fourme <ex>et</ex> teneur, sans faire ne souffrir</seg>
-          <seg rend="19,329,131,329,285,331,430,333,536,336,533,350,300,345,164,343,98,343,17,343" n="poly">estre f<ex>aic</ex>te aucune chose au contraire ; ainçois, se f<ex>aic</ex>te estoit en aucune maniere,</seg>
-          <seg rend="538,336,646,338,792,338,929,338,1014,338,1013,352,815,353,687,354,600,349,539,350" n="poly">si l’ostent ou facent oster <ex>et</ex> mettre sans delay au premier estat <ex>et</ex> deu.</seg>
-          <seg rend="17,347,127,347,265,349,331,351,329,362,184,359,96,361,21,361" n="poly">Car ainsi nous plaist il <ex>et</ex> voulons estre fait.</seg>
-          <seg rend="337,349,508,354,663,356,804,363,878,359,958,358,1014,358,1012,376,724,374,538,370,460,370,397,367,335,364" n="poly">En tesmoing de ce, nous avons fait mettre n<ex>ost</ex>re seel a cesd<ex>ictes</ex> p<ex>rese</ex>ntes. Donné aud<ex>it</ex> lieu de Peronne, le</seg>
-          <seg rend="18,367,95,365,235,364,400,370,481,375,475,393,189,383,25,380" n="poly">quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante <ex>et</ex> huit,</seg>
-          <seg rend="485,373,583,374,685,376,683,392,542,393,487,389" n="poly">et de n<ex>ost</ex>re regne le huitiesme.</seg>
-          <seg rend="29,508,28,481,139,477,168,467,221,469,216,489,307,500,311,523,206,523,195,555,181,559,177,542,179,526,132,525,123,608,96,621,62,628,44,614,49,577,75,567,111,563,112,524,73,520,38,519" n="poly">Par le roy en son conseil.</seg>
-          <seg rend="242,567,293,546,326,546,353,524,381,516,397,538,403,630,356,652,346,698,306,698,319,656,325,640,292,639,281,629,299,619,290,606,236,605" n="poly">J. De La Loere.</seg>
-          <seg rend="971,435,1084,434,1081,450,1030,454,1018,466,975,468" n="poly">App<ex>ellaci</ex>ons de Flandre obbmisso medio.</seg>
-          <seg rend="687,519,698,503,714,518,714,547,1052,544,1052,563,871,563,750,563,676,563" n="poly">Lecta, publicata <ex>et</ex> registrata, p<ex>rese</ex>nte et consentiente</seg>
-          <seg rend="685,570,745,567,861,567,987,569,1059,569,1058,585,855,585,685,581" n="poly">procuratore generali regis, Parisius, in parlame<ex>n</ex>to,</seg>
-          <seg rend="686,586,791,587,872,590,996,591,973,609,750,603,689,602" n="poly">secunda die marcii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>.</seg>
-          <seg rend="983,609,1025,592,1083,590,1086,701,1053,711,977,710,1011,680,950,665,984,630" n="poly">G. Brunat.</seg>
+          <seg rend="3,34,14,3,37,20,36,65,165,46,299,36,298,58,596,75,597,94,404,88,217,88,95,90,4,87">Loys, par la grace de Dieu roy de France, a tous ceulx qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront, salut.</seg>
+          <seg rend="601,60,1034,76,1031,105,880,99,723,96,606,93">Comme a la journee et assemblee nagaires tenue en la ville de</seg>
+          <seg rend="9,90,142,93,257,93,376,92,472,94,602,99,600,114,400,107,212,105,95,105,18,104">Hem en Vermendois, et depuis en la ville de Peronne, entre noz gens <ex>et</ex> ambasseurs</seg>
+          <seg rend="607,97,805,103,983,108,1049,109,1049,121,863,123,708,117,610,116">et ceulx de n<ex>ost</ex>re tres chier <ex>et</ex> tres amé frere <ex>et</ex> cousin le duc de Bourgoigne,</seg>
+          <seg rend="16,109,101,109,224,108,370,110,499,114,626,120,674,122,671,137,444,127,295,124,151,125,16,124">plusieurs doleances, requestes et remonstrances aient esté faictes de la part de n<ex>ost</ex>redit frere <ex>et</ex> cousin,</seg>
+          <seg rend="678,120,985,127,1045,128,1044,141,915,143,762,138,679,135">et entre autres choses ait esté remonstré que, selon le droit</seg>
+          <seg rend="14,129,148,129,306,129,411,129,554,135,607,140,607,154,405,143,228,143,87,144,18,146">du païs de Flandres, n<ex>ost</ex>re court de parlement ne doit recevoir aucunes appellations des loix</seg>
+          <seg rend="613,139,743,141,851,145,936,148,1028,147,1020,160,920,163,803,158,725,156,642,153,610,153">et juges dudit païs de Flandres autres que les loix des quatre</seg>
+          <seg rend="19,151,139,149,241,148,368,147,367,164,190,163,93,164,20,164">principaulx membres d’icellui pays obmisso medio,</seg>
+          <seg rend="373,149,480,151,611,157,748,161,886,165,1000,166,1016,165,1037,166,1033,182,867,180,700,173,596,168,481,168,447,168,394,163,373,163">car le ressort doit premier appartenir a n<ex>ost</ex>redit frere <ex>et</ex> cousin et ne doit point estre travaillié de</seg>
+          <seg rend="17,170,133,168,265,167,445,172,551,173,656,178,654,193,367,186,161,183,63,182,16,185">requerir le renvoy en n<ex>ost</ex>redicte court co<ex>m</ex>me l’on fait pour les ressors des autres païs du royaume,</seg>
+          <seg rend="662,176,808,181,973,185,1042,186,1037,202,863,199,729,197,663,191">et ne doit l’on bailler aux subgetz de Flandres relievem<ex>en</ex>t</seg>
+          <seg rend="19,190,92,187,245,190,364,191,507,194,506,208,362,208,213,205,98,201,17,205">en cas d’appel, se l’appellacion ne procede inmediate du jugement du conte</seg>
+          <seg rend="512,193,674,199,769,201,852,203,988,205,1026,206,1025,220,903,217,771,217,683,212,610,210,509,209">ou de sa chambre de conseil en Flandres, en nous requerant vouloir sur ce</seg>
+          <seg rend="21,208,157,208,330,211,507,213,622,216,780,222,779,236,583,230,391,227,303,227,221,226,105,221,59,222,19,224">pourveoir a n<ex>ost</ex>redit frere <ex>et</ex> cousin, savoir faisons que nous, voulans en ce complaire a icellui n<ex>ost</ex>re frere <ex>et</ex> cousin,</seg>
+          <seg rend="785,222,889,221,1023,225,1015,237,893,235,835,235,788,237">avons octroyé, consenti <ex>et</ex> accordé,</seg>
+          <seg rend="19,229,88,227,208,230,338,231,469,235,523,237,520,248,401,251,279,248,138,245,58,241,18,244">octroyons, consentons <ex>et</ex> accordons par ces p<ex>rese</ex>ntes a n<ex>ost</ex>redit frere <ex>et</ex> cousin que,</seg>
+          <seg rend="529,234,683,238,814,242,895,240,1013,240,1022,241,1024,254,930,254,807,254,663,253,563,250,524,248">touchant les dessusd<ex>ictes</ex> appellacions, soit fait doresennavant selon les droiz,</seg>
+          <seg rend="19,250,79,246,164,249,287,252,423,254,536,254,537,271,387,265,202,265,101,263,17,263">coustumes dud<ex>it</ex> païs de Flandres et ainsi qu’il a esté de long temps observé,</seg>
+          <seg rend="539,255,692,259,858,257,1015,259,1009,269,902,272,769,276,635,276,543,270">et que tous troubles et empeschemens faiz au contraire soient ostez et</seg>
+          <seg rend="16,267,153,268,303,269,453,273,452,286,237,285,78,283,21,283">levez, et lesquelz par ces p<ex>rese</ex>ntes nous mesmes ostons <ex>et</ex> levons.</seg>
+          <seg rend="460,271,560,276,661,279,822,281,947,274,1033,276,1033,291,958,292,833,295,700,295,569,292,460,288">Si donnons en mandement a noz amez et feaulx conseilliers les gens de n<ex>ost</ex>re p<ex>ar</ex>lement,</seg>
+          <seg rend="14,288,118,288,235,290,388,291,476,295,475,309,259,304,127,302,13,306">aux bailliz de Vermendoiz, d’Amyens, de Tournay et de Tournesiz</seg>
+          <seg rend="481,293,629,299,744,300,861,300,951,299,1044,298,1040,314,942,313,823,314,700,316,600,313,483,308">et a tous noz autres justiciers <ex>et</ex> officiers ou a leurs lieuxtenans et a ch<ex>asc</ex>un d’eulx, si co<ex>m</ex>me</seg>
+          <seg rend="15,311,149,307,381,311,591,315,620,321,616,333,468,329,309,328,165,325,97,325,42,323,17,322">a lui appartiendra, que n<ex>ost</ex>re p<ex>rese</ex>nte declaracion <ex>et</ex> ordonnance ilz gardent et facent garder</seg>
+          <seg rend="624,320,751,319,886,317,1013,319,1035,320,1036,334,938,334,824,333,692,335,624,333">et entretenir selon sa fourme <ex>et</ex> teneur, sans faire ne souffrir</seg>
+          <seg rend="19,329,131,329,285,331,430,333,536,336,533,350,300,345,164,343,98,343,17,343">estre f<ex>aic</ex>te aucune chose au contraire ; ainçois, se f<ex>aic</ex>te estoit en aucune maniere,</seg>
+          <seg rend="538,336,646,338,792,338,929,338,1014,338,1013,352,815,353,687,354,600,349,539,350">si l’ostent ou facent oster <ex>et</ex> mettre sans delay au premier estat <ex>et</ex> deu.</seg>
+          <seg rend="17,347,127,347,265,349,331,351,329,362,184,359,96,361,21,361">Car ainsi nous plaist il <ex>et</ex> voulons estre fait.</seg>
+          <seg rend="337,349,508,354,663,356,804,363,878,359,958,358,1014,358,1012,376,724,374,538,370,460,370,397,367,335,364">En tesmoing de ce, nous avons fait mettre n<ex>ost</ex>re seel a cesd<ex>ictes</ex> p<ex>rese</ex>ntes. Donné aud<ex>it</ex> lieu de Peronne, le</seg>
+          <seg rend="18,367,95,365,235,364,400,370,481,375,475,393,189,383,25,380">quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante <ex>et</ex> huit,</seg>
+          <seg rend="485,373,583,374,685,376,683,392,542,393,487,389">et de n<ex>ost</ex>re regne le huitiesme.</seg>
+          <seg rend="29,508,28,481,139,477,168,467,221,469,216,489,307,500,311,523,206,523,195,555,181,559,177,542,179,526,132,525,123,608,96,621,62,628,44,614,49,577,75,567,111,563,112,524,73,520,38,519">Par le roy en son conseil.</seg>
+          <seg rend="242,567,293,546,326,546,353,524,381,516,397,538,403,630,356,652,346,698,306,698,319,656,325,640,292,639,281,629,299,619,290,606,236,605">J. De La Loere.</seg>
+          <seg rend="971,435,1084,434,1081,450,1030,454,1018,466,975,468">App<ex>ellaci</ex>ons de Flandre obbmisso medio.</seg>
+          <seg rend="687,519,698,503,714,518,714,547,1052,544,1052,563,871,563,750,563,676,563">Lecta, publicata <ex>et</ex> registrata, p<ex>rese</ex>nte et consentiente</seg>
+          <seg rend="685,570,745,567,861,567,987,569,1059,569,1058,585,855,585,685,581">procuratore generali regis, Parisius, in parlame<ex>n</ex>to,</seg>
+          <seg rend="686,586,791,587,872,590,996,591,973,609,750,603,689,602">secunda die marcii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>.</seg>
+          <seg rend="983,609,1025,592,1083,590,1086,701,1053,711,977,710,1011,680,950,665,984,630">G. Brunat.</seg>
         </p>
       </div>
       <div type="text">
@@ -89,116 +88,93 @@
           <l>d’Amyens, de Tournay et de Tournesiz et a tous noz autres justiciers et officiers ou a</l>
           <l>leurs lieuxtenans et a chascun d’eulx, si comme a lui appartiendra, que nostre</l>
           <l>presente declaracion et ordonnance ilz gardent et facent garder et entretenir selon sa</l>
-          <l>fourme et teneur, sans faire ne souffrir estre faicte aucune chose au contraire&#160;;</l>
+          <l>fourme et teneur, sans faire ne souffrir estre faicte aucune chose au contraire ;</l>
           <l>ainçois, se faicte estoit en aucune maniere, si l’ostent ou facent oster et mettre sans</l>
           <l>delay au premier estat et deu. Car ainsi nous plaist il et voulons estre fait. En</l>
           <l>tesmoing de ce, nous avons fait mettre nostre seel a cesdictes presentes. Donné audit</l>
           <l>lieu de Peronne, le quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante et</l>
           <l>huit, et de nostre regne le huitiesme.</l>
-          <l>[<hi rend="i">Sur le repli, à gauche&#160;:</hi>] Par le roy en son conseil. — <term n="Jean de La Loère, important secrétaire des rois Charles VII et Louis XI, encore attesté le 19 août 1478. Il avait accompagné le roi à Péronne, et c’est lui qui y établit l’acte dit «&#160;traité de Péronne&#160;» et ses lettres d’exécution.">J. De La Loere</term>.</l>
-          <l>[<hi rend="i">Sur le repli, à droite&#160;:</hi>] <hi rend="i">Lecta, publicata et registrata, presente et consentiente procuratore</hi></l>
+          <l>[<hi rend="i">Sur le repli, à gauche :</hi>] Par le roy en son conseil. — <term n="Jean de La Loère, important secrétaire des rois Charles VII et Louis XI, encore attesté le 19 août 1478. Il avait accompagné le roi à Péronne, et c’est lui qui y établit l’acte dit « traité de Péronne » et ses lettres d’exécution.">J. De La Loere</term>.</l>
+          <l>[<hi rend="i">Sur le repli, à droite :</hi>] <hi rend="i">Lecta, publicata et registrata, presente et consentiente procuratore</hi></l>
           <l><hi rend="i">generali regis, Parisius, in parlame(n)to, secunda die marcii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>. —</hi></l>
           <l><term n="Gilbert Brunat était lui aussi notaire et secrétaire du roi, mais attaché au greffe du Parlement de Paris. Il résigna sa charge en faveur de son fils en 1478.">G. Brunat</term>.</l>
-          <l>[<hi rend="i">Au-dessus&#160;:</hi>] Appellacions de Flandre obbmisso medio.</l>
+          <l>[<hi rend="i">Au-dessus :</hi>] Appellacions de Flandre obbmisso medio.</l>
         </div>
         <div type="commentaire">
           <head>Datation</head>
-          <p>Les années de règne sont décomptées depuis le jour de la mort du prédécesseur (22 juillet 1461 pour Charles VII)&#160;: la huitième année de règne de Louis XI va du 22 juillet 1468 au 21 juillet 1469. Les indications de l’acte (14 octobre 1468) concordent donc. La mention ultérieure d’enregistrement au Parlement de Paris est du 2 mars 1469 (n.st.).</p>
+          <p>Les années de règne sont décomptées depuis le jour de la mort du prédécesseur (22 juillet 1461 pour Charles VII) : la huitième année de règne de Louis XI va du 22 juillet 1468 au 21 juillet 1469. Les indications de l’acte (14 octobre 1468) concordent donc. La mention ultérieure d’enregistrement au Parlement de Paris est du 2 mars 1469 (n.st.).</p>
         </div>
         <div type="regeste">
           <head>1468, 14 octobre. — Péronne.</head>
           <p>Louis [XI], roi de France, accorde au duc de Bourgogne [Charles le Téméraire], qui l’en a prié lors des pourparlers menés à Ham puis Péronne, que le Parlement de Paris ne recevra plus directement les appels du pays de Flandre, et que ceux-ci seront désormais faits selon les lois et traditions de Flandre, c’est-à-dire vers le comte ou sa chambre du Conseil. — Mention d’enregistrement au Parlement de Paris le 2 mars 1469 (n.st.).</p>
         </div>
       </div>
+      <div part="speech">
+        <head>Parties du discours</head> 
+        <p>
+          <seg corresp="suscription"> Loys, par la grace de Dieu roy de France
+            <note id="suscription">Suscription</note>
+          </seg>
+          <seg corresp="adresse_universelle"> a tous ceulx qui ces presentes lettres verront,
+            <note id="adresse_universelle">Adresse universelle</note>
+          </seg>
+          <seg corresp="salut"> salut.
+            <note id="salut">Salut</note>
+          </seg>
+          <seg corresp="exposé"> Comme a la journee et assemblee nagaires tenue en la ville de Hem en Vermendois, et depuis en la ville de Peronne, entre noz gens et ambasseurs et ceulx de nostre tres chier et tres amé frere et cousin le duc de Bourgoigne, plusieurs doleances, requestes et remonstrances aient esté faictes de la part de nostredit frere et cousin, et entre autres choses ait esté remonstré que, selon le droit du païs de Flandres, nostre court de parlement ne doit recevoir aucunes appellations des loix et juges dudit païs de Flandres autres que les loix des quatre principaulx membres d’icellui pays <hi rend="i">obmisso medio</hi>, car le ressort doit premier appartenir a nostredit frere et cousin et ne doit point estre travaillié de requerir le renvoy en nostredicte court comme l’on fait pour les ressors des autres païs du royaume, et ne doit l’on bailler aux subgetz de Flandres relievement en cas d’appel, se l’appellation ne procede <hi rend="i">inmediate</hi> du jugement du conte ou de sa chambre de conseil en Flandres, en nous requerant vouloir sur ce pourveoir a nostredit frere et cousin,
+            <note id="exposé">Exposé</note>
+          </seg>
+          <seg corresp="notification"> savoir faisons que
+            <note id="notification">Notification</note>
+          </seg>
+          <seg corresp="dispositif"> nous, voulans en ce complaire a icellui nostre frere et cousin, avons octroyé, consenti et accordé, octroyons, consentons et accordons par ces presentes a nostredit frere et cousin que, touchant les dessusdictes appellacions, soit fait doresennavant selon les droiz, coustumes dud. païs de Flandres et ainsi qu’il a esté de long temps observé, et que tous troubles et empeschemens faiz au contraire soient ostez et levez, et lesquels par ces presentes nous mesmes otons et levons.
+            <note id="dispositif">Dispositif</note>
+          </seg>
+          <seg corresp="clause_injonctive"> Si donnons en mandement a noz amez et feaulx conseilliers les gens de nostre parlement, aux bailliz de Vermendoiz, d’Amyens, de Tournay et de Tournesis et a tous noz autres justiciers et officiers ou a leurs lieuxtenans et a chascun d’eulx, si comme a lui appartiendra, que nostre presente declaracion et ordonnance ilz gardent et facent garder et entretenir selon sa fourme et teneur, sans faire ne souffrir estre faicte aucune chose au contraire ; ainçois, se faicte estoit en aucune maniere, si l’ostent ou facent oster et mettre sans delay au premier estat et deu.
+            <note id="clause_injonctive">Clause injonctive (désigne les institutions et officiers royaux concernés au premier chef)</note>
+          </seg>
+          <seg corresp="clause_intentionnelle"> Car ainsi nous plaist il et voulons estre fait.
+            <note id="clause_intentionnelle">Clause intentionnelle</note>
+          </seg>
+          <seg corresp="corroboration_probatoire"> En tesmoing de ce, nous avons fait mettre nostre seel a cesdictes presentes.
+            <note id="corroboration_probatoire">Corroboration probatoire</note>
+          </seg>
+          <seg corresp="date"> Donné audit lieu de Peronne, le quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante et huit, et de nostre regne le huitiesme.
+            <note id="date">Date de lieu et de temps</note>
+          </seg>
+          <seg corresp="mention_commandement"> Par le roy en son conseil.
+            <note id="mention_commandement">Mention de commandement</note>
+          </seg>
+          <seg corresp="signature"> De La Loere.
+            <note id="signature">Signature (avec paraphe) du notaire et secrétaire responsable de l’expédition
+            </note>
+          </seg>
+          <seg corresp="mention_enregistrement">
+            <hi rend="i">Lecta, publicata et registrata, presente et consentiente procuratore generali regis, Parisius, in parlame(n)to, secunda die martii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>.</hi> — Brunat.
+            <note id="mention_enregistrement">Mention d’enregistrement au parlement de Paris, et signature d’un greffier du parlement</note>
+          </seg>
+          <seg corresp="mention_adventice"> Appellacions de Flandre <hi rend="i">obbmisso medio</hi>.
+            <note id="mention_adventice">Mention adventice postérieure, sans valeur juridique, sans doute d’archivage</note>
+          </seg>
+        </p>
+      </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <div>
-            <p>Préparé par un notaire et secrétaire du roi de grande envergure pour solenniser une décision importante, le document est dans la stricte norme de la production, très standardisée, de la chancellerie. L’écriture («&#160;mixte&#160;») est elle-même si normalisée qu’elle est souvent interchangeable d’un notaire à l’autre. Elle obéit à des contraintes strictes&#160;: abréviations canoniques (et relativement peu nombreuses), interdiction de couper un mot en fin de ligne (ce qui amène, pour ménager à droite un semblant de justification, à étirer ou à tasser les derniers mots selon les besoins), présence de quelques majuscules pour animer la première ligne et pour signaler au fil du texte quelques articulations importantes du discours.</p>
-            <p>La mise en page n’est pas moins stricte, elle participe de l’authentification de l’ensemble&#160;: très rigide, en particulier, à gauche du repli, l’étagement de la mention de commandement («&#160;Par le roy…&#160;») et de la signature du notaire et secrétaire responsable de l’établissement de l’acte. La hauteur du repli marque l’importance de la mesure.</p>
-            <p>En même temps que quelques marqueurs traditionnels, diverses caractéristiques formelles dispensent une information indubitable sur la nature diplomatique et la valeur juridique du document&#160;: l’absence de justification précise à droite, le format (allongé mais sans excès), la nature surtout de l’attache du sceau (une double queue de parchemin) manifestent que l’acte n’est ni une charte ni un mandement, mais une lettre patente scellée sur double queue.</p>
-          </div>
-        </div>
-        <div>
-          <head>Parties du discours</head>
-          
-          <div>
-            <p>
-              <seg corresp="suscription">
-                Loys, par la grace de Dieu roy de France
-                <note id="suscription">Suscription</note>
-              </seg>
-              <seg corresp="adresse_universelle">
-                a tous ceulx qui ces presentes lettres verront,
-                <note id="adresse_universelle">Adresse universelle</note>
-              </seg>
-              <seg corresp="salut">
-                salut.
-                <note id="salut">Salut</note>
-              </seg>
-              <seg corresp="exposé">
-                Comme a la journee et assemblee nagaires tenue en la ville de Hem en Vermendois, et depuis en la ville de Peronne, entre noz gens et ambasseurs et ceulx de nostre tres chier et tres amé frere et cousin le duc de Bourgoigne, plusieurs doleances, requestes et remonstrances aient esté faictes de la part de nostredit frere et cousin, et entre autres choses ait esté remonstré que, selon le droit du païs de Flandres, nostre court de parlement ne doit recevoir aucunes appellations des loix et juges dudit païs de Flandres autres que les loix des quatre principaulx membres d’icellui pays <hi rend="i">obmisso medio</hi>, car le ressort doit premier appartenir a nostredit frere et cousin et ne doit point estre travaillié de requerir le renvoy en nostredicte court comme l’on fait pour les ressors des autres païs du royaume, et ne doit l’on bailler aux subgetz de Flandres relievement en cas d’appel, se l’appellation ne procede <hi rend="i">inmediate</hi> du jugement du conte ou de sa chambre de conseil en Flandres, en nous requerant vouloir sur ce pourveoir a nostredit frere et cousin,
-                <note id="exposé">Exposé</note>
-              </seg>
-              <seg corresp="notification">
-                savoir faisons que
-                <note id="notification">Notification</note>
-              </seg>
-              <seg corresp="dispositif">
-                nous, voulans en ce complaire a icellui nostre frere et cousin, avons octroyé, consenti et accordé, octroyons, consentons et accordons par ces presentes a nostredit frere et cousin que, touchant les dessusdictes appellacions, soit fait doresennavant selon les droiz, coustumes dud. païs de Flandres et ainsi qu’il a esté de long temps observé, et que tous troubles et empeschemens faiz au contraire soient ostez et levez, et lesquels par ces presentes nous mesmes otons et levons.
-                <note id="dispositif">Dispositif</note>
-              </seg>
-              <seg corresp="clause_injonctive">
-                Si donnons en mandement a noz amez et feaulx conseilliers les gens de nostre parlement, aux bailliz de Vermendoiz, d’Amyens, de Tournay et de Tournesis et a tous noz autres justiciers et officiers ou a leurs lieuxtenans et a chascun d’eulx, si comme a lui appartiendra, que nostre presente declaracion et ordonnance ilz gardent et facent garder et entretenir selon sa fourme et teneur, sans faire ne souffrir estre faicte aucune chose au contraire&#160;; ainçois, se faicte estoit en aucune maniere, si l’ostent ou facent oster et mettre sans delay au premier estat et deu.
-                <note id="clause_injonctive">Clause injonctive (désigne les institutions et officiers royaux concernés au premier chef)</note>
-              </seg>
-              <seg corresp="clause_intentionnelle">
-                Car ainsi nous plaist il et voulons estre fait.
-                <note id="clause_intentionnelle">Clause intentionnelle</note>
-              </seg>
-              <seg corresp="corroboration_probatoire">
-                En tesmoing de ce, nous avons fait mettre nostre seel a cesdictes presentes.
-                <note id="corroboration_probatoire">Corroboration probatoire</note>
-              </seg>
-              <seg corresp="date">
-                Donné audit lieu de Peronne, le quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante et huit, et de nostre regne le huitiesme.
-                <note id="date">Date de lieu et de temps</note>
-              </seg>
-              <seg corresp="mention_commandement">
-                Par le roy en son conseil.
-                <note id="mention_commandement">Mention de commandement</note>
-              </seg>
-              <seg corresp="signature">
-                De La Loere.
-                <note id="signature">Signature (avec paraphe) du notaire et secrétaire
-                  responsable de l’expédition
-                </note>
-              </seg>
-              <seg corresp="mention_enregistrement">
-                <hi rend="i">Lecta, publicata et registrata, presente et consentiente procuratore generali regis, Parisius, in parlame(n)to, secunda die martii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>.</hi> — Brunat.
-                <note id="mention_enregistrement">Mention d&#x2019;enregistrement au parlement de Paris, et signature d&#x2019;un greffier du parlement</note>
-              </seg>
-              <seg corresp="mention_adventice">
-                Appellacions de Flandre <hi rend="i">obbmisso medio</hi>.
-                <note id="mention_adventice">Mention adventice postérieure, sans valeur juridique, sans doute d&#x2019;archivage</note>
-              </seg>
-            </p>
-          </div>
+          <p>Préparé par un notaire et secrétaire du roi de grande envergure pour solenniser une décision importante, le document est dans la stricte norme de la production, très standardisée, de la chancellerie. L’écriture (« mixte ») est elle-même si normalisée qu’elle est souvent interchangeable d’un notaire à l’autre. Elle obéit à des contraintes strictes : abréviations canoniques (et relativement peu nombreuses), interdiction de couper un mot en fin de ligne (ce qui amène, pour ménager à droite un semblant de justification, à étirer ou à tasser les derniers mots selon les besoins), présence de quelques majuscules pour animer la première ligne et pour signaler au fil du texte quelques articulations importantes du discours.</p>
+          <p>La mise en page n’est pas moins stricte, elle participe de l’authentification de l’ensemble : très rigide, en particulier, à gauche du repli, l’étagement de la mention de commandement (« Par le roy… ») et de la signature du notaire et secrétaire responsable de l’établissement de l’acte. La hauteur du repli marque l’importance de la mesure.</p>
+          <p>En même temps que quelques marqueurs traditionnels, diverses caractéristiques formelles dispensent une information indubitable sur la nature diplomatique et la valeur juridique du document : l’absence de justification précise à droite, le format (allongé mais sans excès), la nature surtout de l’attache du sceau (une double queue de parchemin) manifestent que l’acte n’est ni une charte ni un mandement, mais une lettre patente scellée sur double queue.</p>
         </div>
         <div>
           <head>Caractères internes</head>
-          <div>
-            <p>Le français utilisé n’est pas moins standardisé que l’écriture. Les emplois ponctuels du latin font contraste, et tout y dénote l’intrusion du judiciaire dans la pratique usuelle de la chancellerie&#160;: insertions d’expressions prises au jargon judiciaire (l’ablatif absolu «&#160;obmisso medio&#160;», [“en sautant le tribunal intermédiaire”], ou l’adverbe «&#160;immediate&#160;»), mention postérieure d’enregistrement au Parlement, dont les sentences sont toujours rendues en latin.</p>
-            <p>Comme la présentation formelle, quelques traits de rédaction permettent de situer précisément la nature de l’acte&#160;: la présence d’une adresse et d’un salut exclut la charte, cependant que la présence d’une corroboration exclut le mandement. Cette corroboration, dite «&#160;probatoire&#160;» (elle annonce la volonté de prouver, de faire foi, par l’incipit «&#160;En tesmoing de ce&#160;»), est du reste caractéristique du genre auquel appartient l’acte, celui des lettres patentes scellées sur double queue, tout comme, très logiquement, l’absence de référence à la perpétuelle valeur de l’acte, typique de la corroboration des chartes.</p>
-          </div>
+          <p>Le français utilisé n’est pas moins standardisé que l’écriture. Les emplois ponctuels du latin font contraste, et tout y dénote l’intrusion du judiciaire dans la pratique usuelle de la chancellerie : insertions d’expressions prises au jargon judiciaire (l’ablatif absolu « obmisso medio », [“en sautant le tribunal intermédiaire”], ou l’adverbe « immediate »), mention postérieure d’enregistrement au Parlement, dont les sentences sont toujours rendues en latin.</p>
+          <p>Comme la présentation formelle, quelques traits de rédaction permettent de situer précisément la nature de l’acte : la présence d’une adresse et d’un salut exclut la charte, cependant que la présence d’une corroboration exclut le mandement. Cette corroboration, dite « probatoire » (elle annonce la volonté de prouver, de faire foi, par l’incipit « En tesmoing de ce »), est du reste caractéristique du genre auquel appartient l’acte, celui des lettres patentes scellées sur double queue, tout comme, très logiquement, l’absence de référence à la perpétuelle valeur de l’acte, typique de la corroboration des chartes.</p>
         </div>
         <div>
           <head>Interprétation</head>
-          <div>
-            <p>Comme il l’indique lui-même, l’acte notifie l’une des mesures d’application accompagnant, le même jour, le traité de Péronne, traité «&#160;de paix&#160;» arraché par le duc de Bourgogne à son royal cousin. On connaît pas moins d’une vingtaine de ces actes dérivés, octroyant divers avantages en matière domaniale, féodale, fiscale et surtout judiciaire. Celui-ci est l’un des plus importants et des plus graves, puisque l’on y voit clairement apparaître l’effort d’ériger les États du duc, la Flandre en l’occurrence, en terres souveraines. L’affirmation pourtant n’est pas aussi claire, ce que ne saurait tolérer le roi (de même qu’il sauve la face en invoquant un simple retour à la coutume, gauchie par des abus)&#160;: l’acte assure plutôt au duc (en tant que comte de Flandre) et à son Conseil (organe judiciaire suprême du comté) le droit de juger en appel de toutes les causes flamandes, avant que le Parlement royal vienne court-circuiter sa justice. Mais il est bien reconnu en théorie que du duc et du Conseil appel pourra être fait au Parlement en dernier ressort, personne n’étant dupe&#160;: tout dépendra de l’application sur place. Celle-ci fut intransigeante&#160;: entre 1472 et 1482, le Parlement ne jugea  pas une seule cause flamande.</p>
-            <p>Le type choisi pour l’acte ne l’est évidemment pas au hasard. Scellé du grand sceau royal (qui a donc été déplacé à l’occasion de ces importants pourparlers), mais de cire blanche, d’une dignité inférieure, c’est un acte d’exécution, et surtout un acte qui n’est pas marqué au coin de la perpétuité qui s’attache à la cire verte&#160;: la mesure pourra être reportée à tout instant.</p>
-          </div>
+          <p>Comme il l’indique lui-même, l’acte notifie l’une des mesures d’application accompagnant, le même jour, le traité de Péronne, traité « de paix » arraché par le duc de Bourgogne à son royal cousin. On connaît pas moins d’une vingtaine de ces actes dérivés, octroyant divers avantages en matière domaniale, féodale, fiscale et surtout judiciaire. Celui-ci est l’un des plus importants et des plus graves, puisque l’on y voit clairement apparaître l’effort d’ériger les États du duc, la Flandre en l’occurrence, en terres souveraines. L’affirmation pourtant n’est pas aussi claire, ce que ne saurait tolérer le roi (de même qu’il sauve la face en invoquant un simple retour à la coutume, gauchie par des abus) : l’acte assure plutôt au duc (en tant que comte de Flandre) et à son Conseil (organe judiciaire suprême du comté) le droit de juger en appel de toutes les causes flamandes, avant que le Parlement royal vienne court-circuiter sa justice. Mais il est bien reconnu en théorie que du duc et du Conseil appel pourra être fait au Parlement en dernier ressort, personne n’étant dupe : tout dépendra de l’application sur place. Celle-ci fut intransigeante : entre 1472 et 1482, le Parlement ne jugea  pas une seule cause flamande.</p>
+          <p>Le type choisi pour l’acte ne l’est évidemment pas au hasard. Scellé du grand sceau royal (qui a donc été déplacé à l’occasion de ces importants pourparlers), mais de cire blanche, d’une dignité inférieure, c’est un acte d’exécution, et surtout un acte qui n’est pas marqué au coin de la perpétuité qui s’attache à la cire verte : la mesure pourra être reportée à tout instant.</p>
         </div>
       </div>
     </body>

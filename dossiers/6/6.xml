@@ -1,151 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>1289. Prudence, Psychomachie</title>
-			</titleStmt>
-			<publicationStmt>
-				<idno type="numero">6</idno>
-				<publisher>Ecole nationale des chartes</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Orig. : Bibl. nat. Fr., ms. lat. 15158, fol. 63v.</p>
-				<p>Fac-sim. ENC : NF 164 (héliogravure).</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-		</profileDesc>
+	<teiHeader> 	<fileDesc> 	<titleStmt> 	<title>1289. Prudence, Psychomachie</title> 	</titleStmt> 	<publicationStmt> 	<idno type="numero">6</idno> 	<publisher>Ecole nationale des chartes</publisher> 	</publicationStmt> 	<sourceDesc> 	<p>Orig. : Bibl. nat. Fr., ms. lat. 15158, fol. 63v.</p> 	<p>Fac-sim. ENC : NF 164 (héliogravure).</p> 	</sourceDesc> 	</fileDesc> 	<profileDesc> 	</profileDesc>
 	</teiHeader>
-	<text>
-		<front>
-		</front>
-		<body>
-			<div type="facsimile">
-			<p>
-			  <seg rend="74,381,240,390">Discordia occulte vuln<ex>er</ex>at</seg>
-			  <seg rend="81,395,244,404"><ex>Con</ex>cordiam. Tullius IIII° Tuscula<ex>no</ex>r<ex>um</ex> :</seg>
-			  <seg rend="77,413,258,423">Opinatio e<ex>st</ex> inbecilla assentio.</seg>
-			  <seg rend="73,432,251,442">Id<ex>em</ex> T. : Invidencia <ex>est</ex> egritudo</seg>
-			  <seg rend="77,452,250,462">suscepta p<ex>ro</ex>pter alt<ex>er</ex>i<ex>us</ex> res s<ex>e</ex>c<ex>un</ex>das</seg>
-			  <seg rend="78,470,221,482">q<ex>ue</ex> nocea<ex>n</ex>t invidenti.</seg>
-			  <seg rend="75,496,251,509">Seneca i<ex>n</ex> Moralibus : Pacem</seg>
-			  <seg rend="74,514,254,524">h<ex>ab</ex>eto cu<ex>m</ex> hominib<ex>us</ex>, cu<ex>m</ex> viciis</seg>
-			  <seg rend="73,530,132,545">bellum</seg>
-			  <seg rend="285,383,318,395">orit<ex>ur</ex></seg>
-			  <seg rend="333,384,373,395">in h<ex>oc</ex> loco</seg>
-			  <seg rend="388,382,426,395">subita</seg>
-			  <seg rend="583,384,683,397">i<ex>n</ex>vidia, malicia</seg>
-			  <seg rend="288,402,617,414">[N]ascitur hic inopina mali lacrimabilis astu</seg>
-			  <seg rend="293,418,505,429">sedicio de virtutib<ex>us</ex> <ex>contr</ex>a vicia orit<ex>ur</ex></seg>
-			  <seg rend="260,507,582,517">Int<ex>er</ex> conf<ex>er</ex>tos cuneos <ex>Con</ex>cordia forte,</seg>
-			  <seg rend="255,435,604,447">tempestas, placide turbatrix invida Pacis</seg>
-			  <seg rend="325,453,383,462">repe<ex>n</ex>tina</seg>
-			  <seg rend="469,451,500,462">cede</seg>
-			  <seg rend="620,426,740,441">placide i<ex>des</ex>t tranquille [ms. transquille]</seg>
-			  <seg rend="602,495,766,526">[Main du XVIe siècle :]Discordiae et Concordiae pugna</seg>
-			  <seg rend="400,489,442,501">globos</seg>
-			  <seg rend="262,471,596,484">Q<ex>ue</ex> t<ex>antu</ex>m s<ex>u</ex>bita vexaret clade triu<ex>m</ex>phum.</seg>
-			  <seg rend="258,541,606,554">Du<ex>m</ex> stipata pede<ex>m</ex> ja<ex>m</ex> tutis menib<ex>us</ex> infert,</seg>
-			  <seg rend="258,576,608,588">Excipit occultu<ex>m</ex> vicii latitantis ab ictu</seg>
-			  <seg rend="258,612,600,624">Muc<ex>r</ex>onem levo i<ex>n</ex> lat<ex>er</ex>e. Scalentia q<ex>u</ex>anvis</seg>
-			  <seg rend="252,647,596,660">Texta cathenato f<ex>er</ex>ro subtegmi<ex>n</ex>e corp<ex>us</ex></seg>
-			  <seg rend="257,683,608,695">Ambire<ex>n</ex>t, sutis <ex>et</ex> acumen vuln<ex>er</ex>is hamis</seg>
-			  <seg rend="302,520,374,534">ci<ex>r</ex>cu<ex>m</ex> se ip<ex>s</ex>am</seg>
-			  <seg rend="484,522,539,536">defensis</seg>
-			  <seg rend="556,523,609,535">i<ex>m</ex>mittit</seg>
-			  <seg rend="414,562,470,570">discordie</seg>
-			  <seg rend="564,559,642,570">a p<ex>er</ex>cussione</seg>
-			  <seg rend="347,592,385,605">sinist<ex>r</ex>o</seg>
-			  <seg rend="461,591,547,605">fugentia asp<ex>er</ex>a</seg>
-			  <seg rend="350,667,390,677">ligatis</seg>
-			  <seg rend="275,666,336,678">ci<ex>rcum</ex>darent</seg>
-			  <seg rend="435,666,469,677">gladii</seg>
-			  <seg rend="495,664,530,678">i<ex>dest</ex> f<ex>er</ex>ri</seg>
-			  <seg rend="566,663,595,676">ci<ex>r</ex>cul<ex>is</ex></seg>
-			  <seg rend="373,701,411,712">duris</seg>
-			  <seg rend="500,700,574,713">firmissima</seg>			   
-			  <seg rend="290,737,332,749">i<ex>m</ex>missu<ex>m</ex></seg>
-			  <seg rend="341,768,469,780">lancea<ex>m</ex>, f<ex>er</ex>ru<ex>m</ex> de Calibe</seg>
-			  <seg rend="496,767,547,778">t<ex>r</ex>ansire</seg>
-			  <seg rend="270,806,350,820"><ex>con</ex>ju<ex>n</ex>ct<ex>ur</ex>a n<ex>u</ex>lla</seg>
-			  <seg rend="405,801,431,814">u<ex>b</ex>i</seg>
-			  <seg rend="575,812,620,823">ornate</seg>
-			  <seg rend="273,846,330,855">textura</seg>
-			  <seg rend="475,842,495,854">u<ex>b</ex>i</seg>
-			  <seg rend="511,843,551,854"><ex>con</ex>ju<ex>n</ex>git</seg>
-			  <seg rend="589,845,620,857">fines</seg>
-			  <seg rend="261,714,612,729">Respuerent, rigidis nec fila tenacia nodis</seg>
-			  <seg rend="267,752,610,765">Impactu<ex>m</ex> sin<ex>er</ex>ent penet<ex>ra</ex>re i<ex>n</ex> viscera telu<ex>m</ex>,</seg>
-			  <seg rend="257,790,605,803">Rara t<ex>am</ex>en chalibe<ex>m</ex> tenui t<ex>r</ex>ansmitt<ex>er</ex>e pu<ex>n</ex>cto</seg>
-			  <seg rend="259,823,600,839"><ex>Com</ex>missura dedit, q<ex>u</ex>a sese extrema polite</seg>
-			  <seg rend="254,862,606,876">Scama ligat tunice sin<ex>us</ex> et s<ex>ib</ex>i <ex>con</ex>s<ex>er</ex>it horas.</seg>
-			 </p>
-			</div>
-			<div type="text">
-				<div type="transcription">
-					<l>[N]ascitur hic inopina mali lacrimabilis astu</l>
-					<l>tempestas, placide turbatrix invida Pacis,</l>
-					<l>Q<ex>ue</ex> t<ex>antu</ex>m s<ex>u</ex>bita vexaret clade triu<ex>m</ex>phum.</l>
-					<l>Int<ex>er</ex> conf<ex>er</ex>tos cuneos <ex>Con</ex>cordia forte,</l>
-					<l>Du<ex>m</ex> stipata pede<ex>m</ex> ja<ex>m</ex> tutis menib<ex>us</ex> infert,</l>
-					<l>Excipit occultu<ex>m</ex> vicii latitantis ab ictu</l>
-					<l>Muc<ex>r</ex>onem levo i<ex>n</ex> lat<ex>er</ex>e. Scalentia q<ex>u</ex>anvis</l>
-					<l>Texta cathenato f<ex>er</ex>ro subtegmi<ex>n</ex>e corp<ex>us</ex></l>
-					<l>Ambire<ex>n</ex>t, sutis <ex>et</ex> acumen vuln<ex>er</ex>is hamis</l>
-					<l>Respuerent, rigidis nec fila tenacia nodis</l>
-					<l>Impactu<ex>m</ex> sin<ex>er</ex>ent penet<ex>ra</ex>re i<ex>n</ex> viscera telu<ex>m</ex>,</l>
-					<l>Rara t<ex>am</ex>en chalibe<ex>m</ex> tenui t<ex>r</ex>ansmitt<ex>er</ex>e pu<ex>n</ex>cto</l>
-					<l><ex>Com</ex>missura dedit, q<ex>u</ex>a sese extrema polite</l>
-					<l>Scama ligat tunice sin<ex>us</ex> et s<ex>ib</ex>i <ex>con</ex>s<ex>er</ex>it horas.</l>
-					<l></l>
-					<l></l>
-					<l></l>
-					<l></l>
-					<l>[Glose marginale]</l>
-					<l></l>
-					<l>Discordia occulte vuln<ex>er</ex>at</l>
-					<l><ex>Con</ex>cordiam. Tullius IIII° Tuscula<ex>no</ex>r<ex>um</ex> :</l>
-					<l>Opinatio e<ex>st</ex> inbecilla assentio.</l>
-					<l>Id<ex>em</ex> T. : Invidencia <ex>est</ex> egritudo</l>
-					<l>suscepta p<ex>ro</ex>pter alt<ex>er</ex>i<ex>us</ex> res s<ex>e</ex>c<ex>un</ex>das</l>
-					<l>q<ex>ue</ex> nocea<ex>n</ex>t invidenti.</l>
-					<l>Seneca i<ex>n</ex> Moralibus : Pacem</l>
-					<l>h<ex>ab</ex>eto cu<ex>m</ex> hominib<ex>us</ex>, cu<ex>m</ex> viciis</l>
-				</div>
-				<div type="traduction">
-					<l>C&apos;est alors que la ruse d&apos;un vice détestable provoque une</l>
-					<l>soudaine alerte, attaque haineuse contre la Paix sereine,</l>
-					<l>propre à assombrir par un malheur subit un si beau triomphe.</l>
-					<l>Au moment où la Concorde, au milieu des bataillons serrés,</l>
-					<l>pénétrait avec son escorte dans l&apos;enceinte protectrice,</l>
-					<l>elle reçut, lancé subrepticement par un vice à l&apos;affût,</l>
-					<l>un dard dans le flanc gauche. Bien que le tissu écailleux</l>
-					<l>de l&apos;armure entourât le corps de sa trame de fer continue,</l>
-					<l>que l&apos;assemblage de ses chaînons repoussât la pointe meurtrière</l>
-					<l>et que l&apos;entrelacs serré de ses fils robustes</l>
-					<l>ne permît pas au coup de l&apos;arme de pénétrer dans la chair,</l>
-					<l>mais l&apos;acier put passer par un léger interstice, à cause du défaut</l>
-					<l>d&apos;un joint, à l&apos;endroit où s&apos;attachent la cuirasse polie et la dernière</l>
-					<l>maille, et où les bords de l&apos;armure se joignent à son corps.</l>
-					<l></l>
-					<l>[D&apos;après la trad. de M. Lavarenne, Paris, 1948</l>
-					<l>(Coll. des universités de France)].</l>
-					<l></l>
-					<l>[Glose marginale]</l>
-					<l></l>
-					<l>La Discorde blesse subrepticement</l>
-					<l>la Concorde. Cicéron, Tusculanes, IV :</l>
-					<l>&lt;« Opinatio est inbecilla assentio ».</l>
-					<l>Le même Cic. : « L&apos;envie est une aigreur</l>
-					<l>conçue à cause de la prospérité dont un autre</l>
-					<l>jouit au détriment de l&apos;envieux. »</l>
-					<l>Sénèque, Moralia : « Soyez en paix</l>
-					<l>avec les hommes, en guerre contre les vices. »</l>
-				</div>
-			</div>
-		</body>
-		<back>
-		</back>
+	<text> 	<front> 	</front> 	<body> 	<div type="facsimile"> 	<p> 	  <seg rend="74,381,240,390">Discordia occulte vuln<ex>er</ex>at</seg> 	  <seg rend="81,395,244,404"><ex>Con</ex>cordiam. Tullius IIII° Tuscula<ex>no</ex>r<ex>um</ex> :</seg> 	  <seg rend="77,413,258,423">Opinatio e<ex>st</ex> inbecilla assentio.</seg> 	  <seg rend="73,432,251,442">Id<ex>em</ex> T. : Invidencia <ex>est</ex> egritudo</seg> 	  <seg rend="77,452,250,462">suscepta p<ex>ro</ex>pter alt<ex>er</ex>i<ex>us</ex> res s<ex>e</ex>c<ex>un</ex>das</seg> 	  <seg rend="78,470,221,482">q<ex>ue</ex> nocea<ex>n</ex>t invidenti.</seg> 	  <seg rend="75,496,251,509">Seneca i<ex>n</ex> Moralibus : Pacem</seg> 	  <seg rend="74,514,254,524">h<ex>ab</ex>eto cu<ex>m</ex> hominib<ex>us</ex>, cu<ex>m</ex> viciis</seg> 	  <seg rend="73,530,132,545">bellum</seg> 	  <seg rend="285,383,318,395">orit<ex>ur</ex></seg> 	  <seg rend="333,384,373,395">in h<ex>oc</ex> loco</seg> 	  <seg rend="388,382,426,395">subita</seg> 	  <seg rend="583,384,683,397">i<ex>n</ex>vidia, malicia</seg> 	  <seg rend="288,402,617,414">[N]ascitur hic inopina mali lacrimabilis astu</seg> 	  <seg rend="293,418,505,429">sedicio de virtutib<ex>us</ex> <ex>contr</ex>a vicia orit<ex>ur</ex></seg> 	  <seg rend="260,507,582,517">Int<ex>er</ex> conf<ex>er</ex>tos cuneos <ex>Con</ex>cordia forte,</seg> 	  <seg rend="255,435,604,447">tempestas, placide turbatrix invida Pacis</seg> 	  <seg rend="325,453,383,462">repe<ex>n</ex>tina</seg> 	  <seg rend="469,451,500,462">cede</seg> 	  <seg rend="620,426,740,441">placide i<ex>des</ex>t tranquille [ms. transquille]</seg> 	  <seg rend="602,495,766,526">[Main du XVIe siècle :]Discordiae et Concordiae pugna</seg> 	  <seg rend="400,489,442,501">globos</seg> 	  <seg rend="262,471,596,484">Q<ex>ue</ex> t<ex>antu</ex>m s<ex>u</ex>bita vexaret clade triu<ex>m</ex>phum.</seg> 	  <seg rend="258,541,606,554">Du<ex>m</ex> stipata pede<ex>m</ex> ja<ex>m</ex> tutis menib<ex>us</ex> infert,</seg> 	  <seg rend="258,576,608,588">Excipit occultu<ex>m</ex> vicii latitantis ab ictu</seg> 	  <seg rend="258,612,600,624">Muc<ex>r</ex>onem levo i<ex>n</ex> lat<ex>er</ex>e. Scalentia q<ex>u</ex>anvis</seg> 	  <seg rend="252,647,596,660">Texta cathenato f<ex>er</ex>ro subtegmi<ex>n</ex>e corp<ex>us</ex></seg> 	  <seg rend="257,683,608,695">Ambire<ex>n</ex>t, sutis <ex>et</ex> acumen vuln<ex>er</ex>is hamis</seg> 	  <seg rend="302,520,374,534">ci<ex>r</ex>cu<ex>m</ex> se ip<ex>s</ex>am</seg> 	  <seg rend="484,522,539,536">defensis</seg> 	  <seg rend="556,523,609,535">i<ex>m</ex>mittit</seg> 	  <seg rend="414,562,470,570">discordie</seg> 	  <seg rend="564,559,642,570">a p<ex>er</ex>cussione</seg> 	  <seg rend="347,592,385,605">sinist<ex>r</ex>o</seg> 	  <seg rend="461,591,547,605">fugentia asp<ex>er</ex>a</seg> 	  <seg rend="350,667,390,677">ligatis</seg> 	  <seg rend="275,666,336,678">ci<ex>rcum</ex>darent</seg> 	  <seg rend="435,666,469,677">gladii</seg> 	  <seg rend="495,664,530,678">i<ex>dest</ex> f<ex>er</ex>ri</seg> 	  <seg rend="566,663,595,676">ci<ex>r</ex>cul<ex>is</ex></seg> 	  <seg rend="373,701,411,712">duris</seg> 	  <seg rend="500,700,574,713">firmissima</seg>			    	  <seg rend="290,737,332,749">i<ex>m</ex>missu<ex>m</ex></seg> 	  <seg rend="341,768,469,780">lancea<ex>m</ex>, f<ex>er</ex>ru<ex>m</ex> de Calibe</seg> 	  <seg rend="496,767,547,778">t<ex>r</ex>ansire</seg> 	  <seg rend="270,806,350,820"><ex>con</ex>ju<ex>n</ex>ct<ex>ur</ex>a n<ex>u</ex>lla</seg> 	  <seg rend="405,801,431,814">u<ex>b</ex>i</seg> 	  <seg rend="575,812,620,823">ornate</seg> 	  <seg rend="273,846,330,855">textura</seg> 	  <seg rend="475,842,495,854">u<ex>b</ex>i</seg> 	  <seg rend="511,843,551,854"><ex>con</ex>ju<ex>n</ex>git</seg> 	  <seg rend="589,845,620,857">fines</seg> 	  <seg rend="261,714,612,729">Respuerent, rigidis nec fila tenacia nodis</seg> 	  <seg rend="267,752,610,765">Impactu<ex>m</ex> sin<ex>er</ex>ent penet<ex>ra</ex>re i<ex>n</ex> viscera telu<ex>m</ex>,</seg> 	  <seg rend="257,790,605,803">Rara t<ex>am</ex>en chalibe<ex>m</ex> tenui t<ex>r</ex>ansmitt<ex>er</ex>e pu<ex>n</ex>cto</seg> 	  <seg rend="259,823,600,839"><ex>Com</ex>missura dedit, q<ex>u</ex>a sese extrema polite</seg> 	  <seg rend="254,862,606,876">Scama ligat tunice sin<ex>us</ex> et s<ex>ib</ex>i <ex>con</ex>s<ex>er</ex>it horas.</seg> 	 </p> 	</div> 	<div type="text"> 	<div type="transcription"> 	<l>[N]ascitur hic inopina mali lacrimabilis astu</l> 	<l>tempestas, placide turbatrix invida Pacis,</l> 	<l>Q<ex>ue</ex> t<ex>antu</ex>m s<ex>u</ex>bita vexaret clade triu<ex>m</ex>phum.</l> 	<l>Int<ex>er</ex> conf<ex>er</ex>tos cuneos <ex>Con</ex>cordia forte,</l> 	<l>Du<ex>m</ex> stipata pede<ex>m</ex> ja<ex>m</ex> tutis menib<ex>us</ex> infert,</l> 	<l>Excipit occultu<ex>m</ex> vicii latitantis ab ictu</l> 	<l>Muc<ex>r</ex>onem levo i<ex>n</ex> lat<ex>er</ex>e. Scalentia q<ex>u</ex>anvis</l> 	<l>Texta cathenato f<ex>er</ex>ro subtegmi<ex>n</ex>e corp<ex>us</ex></l> 	<l>Ambire<ex>n</ex>t, sutis <ex>et</ex> acumen vuln<ex>er</ex>is hamis</l> 	<l>Respuerent, rigidis nec fila tenacia nodis</l> 	<l>Impactu<ex>m</ex> sin<ex>er</ex>ent penet<ex>ra</ex>re i<ex>n</ex> viscera telu<ex>m</ex>,</l> 	<l>Rara t<ex>am</ex>en chalibe<ex>m</ex> tenui t<ex>r</ex>ansmitt<ex>er</ex>e pu<ex>n</ex>cto</l> 	<l><ex>Com</ex>missura dedit, q<ex>u</ex>a sese extrema polite</l> 	<l>Scama ligat tunice sin<ex>us</ex> et s<ex>ib</ex>i <ex>con</ex>s<ex>er</ex>it horas.</l> 	<l></l> 	<l></l> 	<l></l> 	<l></l> 	<l>[Glose marginale]</l> 	<l></l> 	<l>Discordia occulte vuln<ex>er</ex>at</l> 	<l><ex>Con</ex>cordiam. Tullius IIII° Tuscula<ex>no</ex>r<ex>um</ex> :</l> 	<l>Opinatio e<ex>st</ex> inbecilla assentio.</l> 	<l>Id<ex>em</ex> T. : Invidencia <ex>est</ex> egritudo</l> 	<l>suscepta p<ex>ro</ex>pter alt<ex>er</ex>i<ex>us</ex> res s<ex>e</ex>c<ex>un</ex>das</l> 	<l>q<ex>ue</ex> nocea<ex>n</ex>t invidenti.</l> 	<l>Seneca i<ex>n</ex> Moralibus : Pacem</l> 	<l>h<ex>ab</ex>eto cu<ex>m</ex> hominib<ex>us</ex>, cu<ex>m</ex> viciis</l> 	</div> 	<div type="translation"> 	<l>C&apos;est alors que la ruse d&apos;un vice détestable provoque une</l> 	<l>soudaine alerte, attaque haineuse contre la Paix sereine,</l> 	<l>propre à assombrir par un malheur subit un si beau triomphe.</l> 	<l>Au moment où la Concorde, au milieu des bataillons serrés,</l> 	<l>pénétrait avec son escorte dans l&apos;enceinte protectrice,</l> 	<l>elle reçut, lancé subrepticement par un vice à l&apos;affût,</l> 	<l>un dard dans le flanc gauche. Bien que le tissu écailleux</l> 	<l>de l&apos;armure entourât le corps de sa trame de fer continue,</l> 	<l>que l&apos;assemblage de ses chaînons repoussât la pointe meurtrière</l> 	<l>et que l&apos;entrelacs serré de ses fils robustes</l> 	<l>ne permît pas au coup de l&apos;arme de pénétrer dans la chair,</l> 	<l>mais l&apos;acier put passer par un léger interstice, à cause du défaut</l> 	<l>d&apos;un joint, à l&apos;endroit où s&apos;attachent la cuirasse polie et la dernière</l> 	<l>maille, et où les bords de l&apos;armure se joignent à son corps.</l> 	<l></l> 	<l>[D&apos;après la trad. de M. Lavarenne, Paris, 1948</l> 	<l>(Coll. des universités de France)].</l> 	<l></l> 	<l>[Glose marginale]</l> 	<l></l> 	<l>La Discorde blesse subrepticement</l> 	<l>la Concorde. Cicéron, Tusculanes, IV :</l> 	<l>&lt;« Opinatio est inbecilla assentio ».</l> 	<l>Le même Cic. : « L&apos;envie est une aigreur</l> 	<l>conçue à cause de la prospérité dont un autre</l> 	<l>jouit au détriment de l&apos;envieux. »</l> 	<l>Sénèque, Moralia : « Soyez en paix</l> 	<l>avec les hommes, en guerre contre les vices. »</l> 	</div> 	</div> 	</body> 	<back> 	</back>
 	</text>
 </TEI>

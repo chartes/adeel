@@ -21,236 +21,125 @@
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="17,10,534,32">Ego Clarembald<ex>us</ex> miles,
-            d<ex>omi</ex>n<ex>u</ex>s Vendolii, notum facio omnibus tam
-            p<ex>re</ex>sentibus</seg>
-          <seg rend="539,15,1159,35">q<ex>u</ex>am fut<ex>ur</ex>is
-            q<ex>uo</ex>d ego decem <ex>et</ex> septem libratas
-            <ex>et</ex> dimidiam t<ex>er</ex>re annuas
-            parisien<ex>sis</ex> monete, sitas</seg>
-          <seg rend="12,44,558,58">apud Pouilliacum <ex>et</ex> in territorio de
-            Pouilliaco in caponibus et terris arabilib<ex>us</ex>,</seg>
-          <seg rend="561,40,1150,57">q<ex>u</ex>as redemi a Bartholomeo Cato,
-            burgen<ex>si</ex> Peronen<ex>si</ex>, q<ex>u</ex>as
-            ip<ex>s</ex>e Bartholome<ex>us</ex>
-            acq<ex>u</ex>isiverat de</seg>
+          <seg rend="17,10,534,32">Ego Clarembald<ex>us</ex> miles, d<ex>omi</ex>n<ex>u</ex>s Vendolii, notum facio omnibus tam p<ex>re</ex>sentibus</seg>
+          <seg rend="539,15,1159,35">q<ex>u</ex>am fut<ex>ur</ex>is q<ex>uo</ex>d ego decem <ex>et</ex> septem libratas
+            <ex>et</ex> dimidiam t<ex>er</ex>re annuas parisien<ex>sis</ex> monete, sitas</seg>
+          <seg rend="12,44,558,58">apud Pouilliacum <ex>et</ex> in territorio de Pouilliaco in caponibus et terris arabilib<ex>us</ex>,</seg>
+          <seg rend="561,40,1150,57">q<ex>u</ex>as redemi a Bartholomeo Cato, burgen<ex>si</ex> Peronen<ex>si</ex>, q<ex>u</ex>as ip<ex>s</ex>e Bartholome<ex>us</ex> acq<ex>u</ex>isiverat de</seg>
           <seg rend="9,71,325,91">me <ex>et</ex> fratre meo Guidone, tradidi
             <ex>et</ex> concessi</seg>
-          <seg rend="328,68,1155,87">eidem Guidoni fratri meo in partem terre pro
-            reconpensatione excantie ipsum Guidonem ex parte patris et matris ejus
-            contin-</seg>
-          <seg rend="5,102,734,119">-gentis ; <ex>et</ex> Guido
-            d<ex>i</ex>c<ex>t</ex>as decem <ex>et</ex> septem
-            libratas <ex>et</ex> dimidiam t<ex>er</ex>re <ex>et</ex>
-            ejus h<ex>er</ex>edes tenebunt de me</seg>
-          <seg rend="737,96,1154,121"><ex>et</ex> de meis
-            h<ex>er</ex>edib<ex>us</ex> cum illo feodo
-            q<ex>uo</ex>d idem Guido alibi de me</seg>
-          <seg rend="13,135,611,153">tenet ad unum feodum conjunctum <ex>et</ex>
-            unitum <ex>et</ex> ad unu<ex>m</ex> solum homagium,</seg>
-          <seg rend="619,131,1169,152">unum inde s<ex>er</ex>vicium reddituri
-            p<ex>ro</ex>ut p<ex>r</ex>imum feodum m<ex>ih</ex>i
-            debet, <ex>et</ex> ego teneor</seg>
-          <seg rend="17,162,629,180">eidem Guidoni <ex>et</ex> ejus
-            h<ex>er</ex>edibus garandire de me <ex>et</ex> meis
-            h<ex>er</ex>edib<ex>us</ex> totum ill<ex>u</ex>d
-            feodum</seg>
-          <seg rend="638,159,1169,179"><ex>et</ex> adv<ex>er</ex>sus omnes
-            homines q<ex>u</ex>i ad jus venire volu<ex>er</ex>int
+          <seg rend="328,68,1155,87">eidem Guidoni fratri meo in partem terre pro reconpensatione excantie ipsum Guidonem ex parte patris et matris ejus contin-</seg>
+          <seg rend="5,102,734,119">-gentis ; <ex>et</ex> Guido d<ex>i</ex>c<ex>t</ex>as decem <ex>et</ex> septem libratas <ex>et</ex> dimidiam t<ex>er</ex>re <ex>et</ex> ejus h<ex>er</ex>edes tenebunt de me</seg>
+          <seg rend="737,96,1154,121"><ex>et</ex> de meis h<ex>er</ex>edib<ex>us</ex> cum illo feodo q<ex>uo</ex>d idem Guido alibi de me</seg>
+          <seg rend="13,135,611,153">tenet ad unum feodum conjunctum <ex>et</ex> unitum <ex>et</ex> ad unu<ex>m</ex> solum homagium,</seg>
+          <seg rend="619,131,1169,152">unum inde s<ex>er</ex>vicium reddituri p<ex>ro</ex>ut p<ex>r</ex>imum feodum m<ex>ih</ex>i debet, <ex>et</ex> ego teneor</seg>
+          <seg rend="17,162,629,180">eidem Guidoni <ex>et</ex> ejus h<ex>er</ex>edibus garandire de me <ex>et</ex> meis h<ex>er</ex>edib<ex>us</ex> totum ill<ex>u</ex>d feodum</seg>
+          <seg rend="638,159,1169,179"><ex>et</ex> adv<ex>er</ex>sus omnes homines q<ex>u</ex>i ad jus venire volu<ex>er</ex>int
             <ex>et</ex> ad legem tanq<ex>u</ex>am</seg>
           <seg rend="12,190,484,209">d<ex>omi</ex>n<ex>us</ex> ad usus
-            <ex>et</ex> consuetudines patrie in q<ex>u</ex>a feodum hoc
-            est situm,</seg>
-          <seg rend="492,188,1157,205">salva tamen michi vel meis h<ex>er</ex>edibus
-            legitima excantia si even<ex>er</ex>it de feodo
-            sup<ex>r</ex>adicto.</seg>
+            <ex>et</ex> consuetudines patrie in q<ex>u</ex>a feodum hoc est situm,</seg>
+          <seg rend="492,188,1157,205">salva tamen michi vel meis h<ex>er</ex>edibus legitima excantia si even<ex>er</ex>it de feodo sup<ex>r</ex>adicto.</seg>
           <seg rend="14,218,615,237">Ut autem h<ex>ec</ex> omnia facta
             <ex>et</ex> ordinata p<ex>er</ex> meu<ex>m</ex> assensum
             <ex>et</ex> p<ex>er</ex> meam voluntatem</seg>
-          <seg rend="617,216,1161,235">coram meis hominib<ex>us</ex>,
-            parib<ex>us</ex> ip<ex>s</ex>ius Guidonis, ad hoc evocatis,
-            firmitatem</seg>
-          <seg rend="16,247,643,270">optineant p<ex>er</ex>petuam,
-            p<ex>re</ex>sentem paginam inde factam sigilli mei munimine confirmavi</seg>
-          <seg rend="648,244,1165,266"><ex>et</ex> tradidi p<ex>re</ex>dicto
-            Guidoni frat<ex>r</ex>i meo. Actum anno D<ex>omi</ex>ni
-            milles<ex>imo</ex> ducen-</seg>
-          <seg rend="13,273,322,301">-tes<ex>imo</ex> t<ex>r</ex>icesimo
-            t<ex>er</ex>cio, mense septembr<ex>is</ex>.</seg>
+          <seg rend="617,216,1161,235">coram meis hominib<ex>us</ex>, parib<ex>us</ex> ip<ex>s</ex>ius Guidonis, ad hoc evocatis, firmitatem</seg>
+          <seg rend="16,247,643,270">optineant p<ex>er</ex>petuam, p<ex>re</ex>sentem paginam inde factam sigilli mei munimine confirmavi</seg>
+          <seg rend="648,244,1165,266"><ex>et</ex> tradidi p<ex>re</ex>dicto Guidoni frat<ex>r</ex>i meo. Actum anno D<ex>omi</ex>ni milles<ex>imo</ex> ducen-</seg>
+          <seg rend="13,273,322,301">-tes<ex>imo</ex> t<ex>r</ex>icesimo t<ex>er</ex>cio, mense septembr<ex>is</ex>.</seg>
         </p>
       </div>
       <div type="text">
         <div type="transcription">
           <l>Ego Clarembald<ex>us</ex> miles, d<ex>omi</ex>n<ex>u</ex>s
-            <term n="Vendeuil, Aisne, cant. Moÿ-de-l&#x2019;Aisne."
-              >Vendolii</term>, notum facio </l>
-          <l>omnibus tam p<ex>re</ex>sentibus q<ex>u</ex>am
-            fut<ex>ur</ex>is q<ex>uo</ex>d ego decem </l>
-          <l><ex>et</ex> septem <term
-            n="La &#34; livrée &#34; (librata) est un mode d&#x2019;évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d&#x2019;une livre, qu&#x2019;elle consiste effectivement en terre, ou que l&#x2019;on prévoie (plus ou moins activement) d&#x2019;asseoir à terme le revenu sur la possession d&#x2019;une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées &#34; à parisis &#34;, &#34; attournois &#34; etc."
-            >libratas</term>
-            <ex>et</ex> dimidiam t<ex>er</ex>re annuas
-            parisien<ex>sis</ex>
+            <term n="Vendeuil, Aisne, cant. Moÿ-de-l’Aisne." >Vendolii</term>, notum facio </l>
+          <l>omnibus tam p<ex>re</ex>sentibus q<ex>u</ex>am fut<ex>ur</ex>is q<ex>uo</ex>d ego decem </l>
+          <l><ex>et</ex> septem <term n="La &#34; livrée &#34; (librata) est un mode d’évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d’une livre, qu’elle consiste effectivement en terre, ou que l’on prévoie (plus ou moins activement) d’asseoir à terme le revenu sur la possession d’une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées &#34; à parisis &#34;, &#34; attournois &#34; etc." >libratas</term>
+            <ex>et</ex> dimidiam t<ex>er</ex>re annuas parisien<ex>sis</ex>
           </l>
-          <l>monete, sitas apud <term n="Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre."
-            >Pouilliacum</term>
+          <l>monete, sitas apud <term n="Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre." >Pouilliacum</term>
             <ex>et</ex> in territorio de </l>
-          <l>Pouilliaco in caponibus et terris arabilib<ex>us</ex>,
-            q<ex>u</ex>as redemi a </l>
+          <l>Pouilliaco in caponibus et terris arabilib<ex>us</ex>, q<ex>u</ex>as redemi a </l>
           <l>Bartholomeo Cato, burgen<ex>si</ex>
-            <term n="Péronne, Somme, ch.-l. arr.">Peronen<ex>si</ex></term>,
-            q<ex>u</ex>as ip<ex>s</ex>e </l>
+            <term n="Péronne, Somme, ch.-l. arr.">Peronen<ex>si</ex></term>, q<ex>u</ex>as ip<ex>s</ex>e </l>
           <l>Bartholome<ex>us</ex> acq<ex>u</ex>isiverat de me
             <ex>et</ex> fratre meo Guidone, </l>
-          <l>tradidi <ex>et</ex> concessi eidem Guidoni fratri meo <term
-            n="L&#x2019;expression pars terre désigne spécifiquement l&#x2019;héritage, la part d&#x2019;héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. &#34; pars &#34;)."
-            >in partem</term>
+          <l>tradidi <ex>et</ex> concessi eidem Guidoni fratri meo <term n="L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. &#34; pars &#34;)." >in partem</term>
           </l>
-          <l><term
-            n="L&#x2019;expression pars terre désigne spécifiquement l&#x2019;héritage, la part d&#x2019;héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. &#34; pars &#34;)."
-            >terre</term> pro reconpensatione <term
-              n="excantia est l&#x2019;une de formes du substantif tiré de excadere, &#34; échoir &#34; (Du Cange, s.v. &#34; excancia &#34;). Le dictionnaire de Niermeyer (s.v. &#34; excaduta &#34;) montre bien que cette &#34; échoite &#34; peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la &#34; part de succession échéant à un autre que l&#x2019;héritier direct &#34;, puis le &#34; retour de fief au seigneur par défaut de succession ou confiscation &#34;."
-              >excantie</term> ipsum Guidonem ex </l>
-          <l>parte patris et matris ejus contingentis ; <ex>et</ex> Guido
-            d<ex>i</ex>c<ex>t</ex>as </l>
-          <l>decem <ex>et</ex> septem libratas <ex>et</ex> dimidiam
-            t<ex>er</ex>re <ex>et</ex> ejus </l>
-          <l>h<ex>er</ex>edes tenebunt de me <ex>et</ex> de meis
-            h<ex>er</ex>edib<ex>us</ex> cum illo </l>
+          <l><term n="L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. &#34; pars &#34;)." >terre</term> pro reconpensatione <term n="excantia est l’une de formes du substantif tiré de excadere, &#34; échoir &#34; (Du Cange, s.v. &#34; excancia &#34;). Le dictionnaire de Niermeyer (s.v. &#34; excaduta &#34;) montre bien que cette &#34; échoite &#34; peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la &#34; part de succession échéant à un autre que l’héritier direct &#34;, puis le &#34; retour de fief au seigneur par défaut de succession ou confiscation &#34;." >excantie</term> ipsum Guidonem ex </l>
+          <l>parte patris et matris ejus contingentis ; <ex>et</ex> Guido d<ex>i</ex>c<ex>t</ex>as </l>
+          <l>decem <ex>et</ex> septem libratas <ex>et</ex> dimidiam t<ex>er</ex>re <ex>et</ex> ejus </l>
+          <l>h<ex>er</ex>edes tenebunt de me <ex>et</ex> de meis h<ex>er</ex>edib<ex>us</ex> cum illo </l>
           <l>feodo q<ex>uo</ex>d idem Guido alibi de me tenet ad unum </l>
-          <l>feodum conjunctum <ex>et</ex> unitum <ex>et</ex> ad
-            unu<ex>m</ex> solum </l>
-          <l>homagium, unum inde s<ex>er</ex>vicium reddituri p<ex>ro</ex>ut
-            p<ex>r</ex>imum </l>
+          <l>feodum conjunctum <ex>et</ex> unitum <ex>et</ex> ad unu<ex>m</ex> solum </l>
+          <l>homagium, unum inde s<ex>er</ex>vicium reddituri p<ex>ro</ex>ut p<ex>r</ex>imum </l>
           <l>feodum m<ex>ih</ex>i debet, <ex>et</ex> ego teneor eidem Guidoni
             <ex>et</ex> ejus </l>
-          <l>h<ex>er</ex>edibus garandire de me <ex>et</ex> meis
-            h<ex>er</ex>edib<ex>us</ex> totum ill<ex>u</ex>d </l>
-          <l>feodum <ex>et</ex> adv<ex>er</ex>sus omnes homines
-            q<ex>u</ex>i <term
-              n="jus peut renvoyer à la justice (cf. &#34; ester en droit &#34;), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus)."
-              >ad jus venire </term></l>
-          <l><term
-            n="jus peut renvoyer à la justice (cf. &#34; ester en droit &#34;), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus)."
-            >volu<ex>er</ex>int <ex>et</ex> ad legem</term>
-            tanq<ex>u</ex>am d<ex>omi</ex>n<ex>us</ex> ad usus
+          <l>h<ex>er</ex>edibus garandire de me <ex>et</ex> meis h<ex>er</ex>edib<ex>us</ex> totum ill<ex>u</ex>d </l>
+          <l>feodum <ex>et</ex> adv<ex>er</ex>sus omnes homines q<ex>u</ex>i <term n="jus peut renvoyer à la justice (cf. &#34; ester en droit &#34;), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus)." >ad jus venire </term></l>
+          <l><term n="jus peut renvoyer à la justice (cf. &#34; ester en droit &#34;), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus)." >volu<ex>er</ex>int <ex>et</ex> ad legem</term> tanq<ex>u</ex>am d<ex>omi</ex>n<ex>us</ex> ad usus
             <ex>et</ex>
           </l>
           <l>consuetudines patrie in q<ex>u</ex>a feodum hoc est situm, salva </l>
           <l>tamen michi vel meis h<ex>er</ex>edibus legitima excantia si </l>
-          <l>even<ex>er</ex>it de feodo sup<ex>r</ex>adicto. Ut autem
-            h<ex>ec</ex> omnia facta </l>
+          <l>even<ex>er</ex>it de feodo sup<ex>r</ex>adicto. Ut autem h<ex>ec</ex> omnia facta </l>
           <l><ex>et</ex> ordinata p<ex>er</ex> meu<ex>m</ex> assensum
             <ex>et</ex> p<ex>er</ex> meam voluntatem</l>
-          <l>coram meis hominib<ex>us</ex>, parib<ex>us</ex>
-            ip<ex>s</ex>ius Guidonis, ad hoc </l>
-          <l>evocatis, firmitatem optineant p<ex>er</ex>petuam,
-            p<ex>re</ex>sentem </l>
+          <l>coram meis hominib<ex>us</ex>, parib<ex>us</ex> ip<ex>s</ex>ius Guidonis, ad hoc </l>
+          <l>evocatis, firmitatem optineant p<ex>er</ex>petuam, p<ex>re</ex>sentem </l>
           <l>paginam inde factam sigilli mei munimine confirmavi <ex>et</ex>
           </l>
-          <l>tradidi p<ex>re</ex>dicto Guidoni frat<ex>r</ex>i meo. Actum anno
-            D<ex>omi</ex>ni </l>
-          <l>milles<ex>imo</ex> ducentes<ex>imo</ex> t<ex>r</ex>icesimo
-            t<ex>er</ex>cio, mense </l>
+          <l>tradidi p<ex>re</ex>dicto Guidoni frat<ex>r</ex>i meo. Actum anno D<ex>omi</ex>ni </l>
+          <l>milles<ex>imo</ex> ducentes<ex>imo</ex> t<ex>r</ex>icesimo t<ex>er</ex>cio, mense </l>
           <l>septembr<ex>is</ex>.</l>
         </div>
-        <div type="traduction">
-          <l>Clarembaud, chevalier, seigneur de <term
-            n="Vendeuil, Aisne, cant. Moÿ-de-l&#x2019;Aisne.">Vendeuil</term>,
-            je </l>
-          <l>fais savoir à tous, tant présents que futurs, que j&#x2019;ai remis </l>
-          <l>et concédé à mon frère Guy dix-sept <term
-            n="La &#34; livrée &#34; (librata) est un mode d&#x2019;évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d&#x2019;une livre, qu&#x2019;elle consiste effectivement en terre, ou que l&#x2019;on prévoie (plus ou moins activement) d&#x2019;asseoir à terme le revenu sur la possession d&#x2019;une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées &#34; à parisis &#34;, &#34; attournois &#34; etc."
-            >livrées</term> et demie </l>
+        <div type="translation">
+          <l>Clarembaud, chevalier, seigneur de <term n="Vendeuil, Aisne, cant. Moÿ-de-l’Aisne.">Vendeuil</term>, je </l>
+          <l>fais savoir à tous, tant présents que futurs, que j’ai remis </l>
+          <l>et concédé à mon frère Guy dix-sept <term n="La &#34; livrée &#34; (librata) est un mode d’évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d’une livre, qu’elle consiste effectivement en terre, ou que l’on prévoie (plus ou moins activement) d’asseoir à terme le revenu sur la possession d’une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées &#34; à parisis &#34;, &#34; attournois &#34; etc." >livrées</term> et demie </l>
           <l>annuelles de terre, monnaie parisis, sises à Pouilly et au </l>
-          <l>finage de <term n="Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre."
-            >Pouilly</term>, [consistant en redevances] en chapons </l>
-          <l>et en terres arables, que j&#x2019;ai rachetées de Barthélemy le </l>
-          <l>Chat, bourgeois de <term n="Péronne, Somme, ch.-l. arr.">Péronne</term>, que
-            le même Barthélemy </l>
+          <l>finage de <term n="Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre." >Pouilly</term>, [consistant en redevances] en chapons </l>
+          <l>et en terres arables, que j’ai rachetées de Barthélemy le </l>
+          <l>Chat, bourgeois de <term n="Péronne, Somme, ch.-l. arr.">Péronne</term>, que le même Barthélemy </l>
           <l>avait acquises de moi et de mondit frère Guy, [cette </l>
-          <l>remise faite] <term
-            n="L&#x2019;expression pars terre désigne spécifiquement l&#x2019;héritage, la part d&#x2019;héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. &#34; pars &#34;)."
-            >à titre d&#x2019;héritage</term> en compensation de </l>
-          <l>l&#x2019;<term
-            n="excantia est l&#x2019;une de formes du substantif tiré de excadere, &#34; échoir &#34; (Du Cange, s.v. &#34; excancia &#34;). Le dictionnaire de Niermeyer (s.v. &#34; excaduta &#34;) montre bien que cette &#34; échoite &#34; peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la &#34; part de succession échéant à un autre que l&#x2019;héritier direct &#34;, puis le &#34; retour de fief au seigneur par défaut de succession ou confiscation &#34;."
-            >échoite</term> qui revenait audit Guy de la succession de ses </l>
+          <l>remise faite] <term n="L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. &#34; pars &#34;)." >à titre d’héritage</term> en compensation de </l>
+          <l>l’<term n="excantia est l’une de formes du substantif tiré de excadere, &#34; échoir &#34; (Du Cange, s.v. &#34; excancia &#34;). Le dictionnaire de Niermeyer (s.v. &#34; excaduta &#34;) montre bien que cette &#34; échoite &#34; peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la &#34; part de succession échéant à un autre que l’héritier direct &#34;, puis le &#34; retour de fief au seigneur par défaut de succession ou confiscation &#34;." >échoite</term> qui revenait audit Guy de la succession de ses </l>
           <l>père et mère ; et Guy et ses héritiers tiendront lesdites </l>
           <l>dix-sept livrées et demie de terre de moi et de mes </l>
           <l>héritiers avec le fief que ledit Guy tient ailleurs de moi, </l>
           <l>[le tout] en un seul fief conjoint et uni, et à un seul </l>
-          <l>hommage, pour m&#x2019;en rendre le seul et même service que </l>
+          <l>hommage, pour m’en rendre le seul et même service que </l>
           <l>me doit le fief primitif, et moi je suis tenu à donner audit </l>
           <l>Guy et à ses héritiers pour moi et mes héritiers garantie </l>
           <l>de tout ce fief ainsi que contre tous hommes qui </l>
-          <l><term
-            n="jus peut renvoyer à la justice (cf. &#34; ester en droit &#34;), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus)."
-            >voudraient venir à droit et loi</term>, comme un seigneur </l>
+          <l><term n="jus peut renvoyer à la justice (cf. &#34; ester en droit &#34;), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus)." >voudraient venir à droit et loi</term>, comme un seigneur </l>
           <l>[doit le garantir] aux us et coutumes du pays où le fief est </l>
           <l>situé, sauf toutefois pour moi et mes héritiers mon droit </l>
-          <l>d&#x2019;échoite si le cas survient au fief susdit. Pour que tout </l>
+          <l>d’échoite si le cas survient au fief susdit. Pour que tout </l>
           <l>cela, fait et arrangé par mon accord et volonté en </l>
           <l>présence de mes hommes, pairs dudit Guy, convoqués </l>
-          <l>pour ce, obtienne force perpétuelle, j&#x2019;ai confirmé de la </l>
-          <l>protection de mon sceau l&#x2019;acte qui en a été fait et
-            l&#x2019;ai </l>
-          <l>remis à mon susdit frère Guy. Fait en l&#x2019;an du Seigneur </l>
+          <l>pour ce, obtienne force perpétuelle, j’ai confirmé de la </l>
+          <l>protection de mon sceau l’acte qui en a été fait et l’ai </l>
+          <l>remis à mon susdit frère Guy. Fait en l’an du Seigneur </l>
           <l>mille deux cent trente-trois, au mois de septembre.</l>
         </div>
         <div type="regeste">
           <head>1233, septembre.</head>
-          <p>Clarembaud, chevalier, seigneur de Vendeuil, donne à son frère Guy dix-sept
-            livrées et demie, monnaie parisis, à Pouilly et dans son finage, consistant
-            en [redevances en] chapons et en terres arables. Rachetées de Barthélemy le
-            Chat (Catus), bourgeois de Péronne, elles sont intégrées au fief que Guy
-            tient déjà de son frère, sans nouvel hommage ni augmentation de service.</p>
+          <p>Clarembaud, chevalier, seigneur de Vendeuil, donne à son frère Guy dix-sept livrées et demie, monnaie parisis, à Pouilly et dans son finage, consistant en [redevances en] chapons et en terres arables. Rachetées de Barthélemy le Chat (Catus), bourgeois de Péronne, elles sont intégrées au fief que Guy tient déjà de son frère, sans nouvel hommage ni augmentation de service.</p>
         </div>
       </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
-          <head>Parties du discours</head>
-          
+          <head>Parties du discours</head> 
           <div>
             <p>
-              <seg corresp="suscription"> Ego Clarembaldus miles,
-                dominus Vendolii, <note id="suscription"
-                  >Suscription</note></seg>
-              <seg corresp="notification">notum facio omnibus tam
-                presentibus quam futuris quod<note id="notification"
-                  >Notification universelle</note></seg>
-              <seg corresp="dispositif">ego decem et septem
-                libratas et dimidiam terre annuas parisiensis monete, sitas apud
-                Pouilliacum et in territorio de Pouilliaco in caponibus et terris
-                arabilibus, quas redemi a Bartholomeo Cato, burgensi Peronensi, quas
-                ipse Bartholomeus acquisiverat de me et fratre meo Guidone, tradidi
-                et concessi eidem Guidoni fratri meo in partem terre pro
-                reconpensatione excantie ipsum Guidonem ex parte patris et matris
-                ejus contingentis ; et Guido dictas decem et septem libratas et
-                dimidiam terre et ejus heredes tenebunt de me et de meis heredibus
-                cum illo feodo quod idem Guido alibi de me tenet ad unum feodum
-                conjunctum et unitum et ad unum solum homagium, unum inde servicium
-                reddituri prout primum feodum mihi debet,<note id="dispositif"
-                  >Dispositif</note></seg>
-              <seg corresp="clause_obligation"> et ego teneor
-                eidem Guidoni et ejus heredibus garandire de me et meis heredibus
-                totum illud feodum et adversus omnes homines qui ad jus venire
-                voluerint et ad legem tanquam dominus ad usus et consuetudines
-                patrie in qua feodum hoc est situm, <note id="clause_obligation"
-                  >Clause d&#x2019;obligation</note></seg>
-              <seg corresp="clause_reserve">salva tamen michi vel
-                meis heredibus legitima excantia si evenerit de feodo
-                supradicto.<note id="clause_reserve">Clause de
-                  réserve</note></seg>
-              <seg corresp="corroboration"> Ut autem hec omnia
-                facta et ordinata per meum assensum et per meam voluntatem coram
-                meis hominibus, paribus ipsius Guidonis, ad hoc evocatis, firmitatem
-                optineant perpetuam, presentem paginam inde factam sigilli mei
-                munimine confirmavi et tradidi predicto Guidoni fratri meo.<note
-                  id="corroboration">Corroboration</note></seg>
-              <seg corresp="date"> Actum anno Domini millesimo
-                ducentesimo tricesimo tercio, mense septembris.<note id="date"
-                  >Date de lieu et de temps.</note></seg>
+              <seg corresp="suscription"> Ego Clarembaldus miles, dominus Vendolii, <note id="suscription" >Suscription</note></seg>
+              <seg corresp="notification">notum facio omnibus tam presentibus quam futuris quod<note id="notification" >Notification universelle</note></seg>
+              <seg corresp="dispositif">ego decem et septem libratas et dimidiam terre annuas parisiensis monete, sitas apud Pouilliacum et in territorio de Pouilliaco in caponibus et terris arabilibus, quas redemi a Bartholomeo Cato, burgensi Peronensi, quas ipse Bartholomeus acquisiverat de me et fratre meo Guidone, tradidi et concessi eidem Guidoni fratri meo in partem terre pro reconpensatione excantie ipsum Guidonem ex parte patris et matris ejus contingentis ; et Guido dictas decem et septem libratas et dimidiam terre et ejus heredes tenebunt de me et de meis heredibus cum illo feodo quod idem Guido alibi de me tenet ad unum feodum conjunctum et unitum et ad unum solum homagium, unum inde servicium reddituri prout primum feodum mihi debet,<note id="dispositif" >Dispositif</note></seg>
+              <seg corresp="clause_obligation"> et ego teneor eidem Guidoni et ejus heredibus garandire de me et meis heredibus totum illud feodum et adversus omnes homines qui ad jus venire voluerint et ad legem tanquam dominus ad usus et consuetudines patrie in qua feodum hoc est situm, <note id="clause_obligation" >Clause d’obligation</note></seg>
+              <seg corresp="clause_reserve">salva tamen michi vel meis heredibus legitima excantia si evenerit de feodo supradicto.<note id="clause_reserve">Clause de réserve</note></seg>
+              <seg corresp="corroboration"> Ut autem hec omnia facta et ordinata per meum assensum et per meam voluntatem coram meis hominibus, paribus ipsius Guidonis, ad hoc evocatis, firmitatem optineant perpetuam, presentem paginam inde factam sigilli mei munimine confirmavi et tradidi predicto Guidoni fratri meo.<note id="corroboration">Corroboration</note></seg>
+              <seg corresp="date"> Actum anno Domini millesimo ducentesimo tricesimo tercio, mense septembris.<note id="date" >Date de lieu et de temps.</note></seg>
             </p>
           </div>
         </div>
@@ -258,61 +147,28 @@
           <head>Caractères externes et commentaire</head>
           <div>
             <div class="recommandation">
-              <p>Passer la souris sur les cercles rouges pour des commentaires de
-                détail</p>
+              <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
             </div>
             <p>
               <figure rend="37/faxexternes.jpg">
                 <figDesc>
-                  <seg type="poly" rend="35,15,18,28,36,27,49,13,41,2,12,1"
-                    >Initiale grossie.</seg>
-                  <seg type="circle" rend="297,15,7">Capitales à traits redoublés.</seg>
-                  <seg type="circle" rend="507,32,10">Capitales à traits
-                    redoublés.</seg>
-                  <seg type="circle" rend="800,196,12">Capitales à traits
-                    redoublés.</seg>
-                  <seg type="circle" rend="711,12,10">Différentes formes de tilde.</seg>
-                  <seg type="circle" rend="631,53,8">Différentes formes de tilde.</seg>
-                  <seg type="circle" rend="126,77,11">Différentes formes de tilde.</seg>
-                  <seg type="circle" rend="490,194,8">Différentes formes de
-                    ponctuation forte.</seg>
-                  <seg type="circle" rend="690,34,8">Différentes formes de
-                    ponctuation forte.</seg>
-                  <seg type="poly"
-                    rend="212,221,226,209,255,204,284,210,296,222,280,236,253,236,228,234"
-                    >Ligne de fin de texte.</seg>
+                  <seg rend="35,15,18,28,36,27,49,13,41,2,12,1" >Initiale grossie.</seg>
+                  <seg rend="297,15,7">Capitales à traits redoublés.</seg>
+                  <seg rend="507,32,10">Capitales à traits redoublés.</seg>
+                  <seg rend="800,196,12">Capitales à traits redoublés.</seg>
+                  <seg rend="711,12,10">Différentes formes de tilde.</seg>
+                  <seg rend="631,53,8">Différentes formes de tilde.</seg>
+                  <seg rend="126,77,11">Différentes formes de tilde.</seg>
+                  <seg rend="490,194,8">Différentes formes de ponctuation forte.</seg>
+                  <seg rend="690,34,8">Différentes formes de ponctuation forte.</seg>
+                  <seg rend="212,221,226,209,255,204,284,210,296,222,280,236,253,236,228,234" >Ligne de fin de texte.</seg>
                 </figDesc>
               </figure>
             </p>
-            <p>L'acte se signale par une écriture aussi claire que son formulaire est
-              pertinent. Son souci de précision n'exclut pas un certaine recherche
-              ornementale : justification du texte, initiale majuscule noircie à
-              laquelle répondent les enjolivements du trait final, dédoublement des
-              traits de plusieurs capitales, opposition entre plusieurs formes de
-              tilde (plats, en flamme, en huit ouvert par le bas).</p>
-            <p>La langue est claire et correcte, ne s'encombrant d'aucun ornement. La
-              technicité se retrouve aussi bien dans le vocabulaire relatif aux biens
-              (<hi rend="i">librate, terra arabilis, redemi,
-                acquisiverat</hi>) et aux successions (<hi rend="i">pars terre,
-                  excantia</hi>) que dans les expressions du droit féodal (<hi
-                    rend="i">ad unum feodum conjunctum, ad unum homagium,
-                    servitium</hi>, <hi rend="i">excantia, paribus</hi>…), de la
-              procédure et du droit (<hi rend="i">ad jus venire et ad legem</hi>,
-              <hi rend="i">usus et consuetudines</hi>), ou encore de l'acte
-              privé de veine savante (<hi rend="i">garandire</hi>). Tout en bref
-              dénote l'intervention d'un rédacteur spécialisé, caché derrière l'auteur
-              de l'acte et son sceau.</p>
-            <p>L'acte offre comme un condensé de multiples aspects de l'économie
-              seigneuriale : redevances et terres (accensées ou en faire-valoir
-              direct, impossible de trancher), engagement de biens à un bourgeois
-              suivi d'une récupération, laborieux réglement de la succession entre
-              frères, extension des usages du fief comme outil de régulation des
-              rapports entre aîné et cadet. On notera la précision explicite de la
-              remise de l'acte au bénéficiaire, d'autant plus forte de sens qu'elle
-              est enchâssée dans la corroboration. Elle confirme que l'acte écrit a eu
-              pour partenaires exclusifs des laïques : une situation qui commence à
-              mieux se révéler à l'époque, mais encore assez rarement au niveau
-              inférieur de l'aristocratie.</p>
+            <p>L'acte se signale par une écriture aussi claire que son formulaire est pertinent. Son souci de précision n'exclut pas un certaine recherche ornementale : justification du texte, initiale majuscule noircie à laquelle répondent les enjolivements du trait final, dédoublement des traits de plusieurs capitales, opposition entre plusieurs formes de tilde (plats, en flamme, en huit ouvert par le bas).</p>
+            <p>La langue est claire et correcte, ne s'encombrant d'aucun ornement. La technicité se retrouve aussi bien dans le vocabulaire relatif aux biens (<hi rend="i">librate, terra arabilis, redemi, acquisiverat</hi>) et aux successions (<hi rend="i">pars terre, excantia</hi>) que dans les expressions du droit féodal (<hi rend="i">ad unum feodum conjunctum, ad unum homagium, servitium</hi>, <hi rend="i">excantia, paribus</hi>…), de la procédure et du droit (<hi rend="i">ad jus venire et ad legem</hi>,
+              <hi rend="i">usus et consuetudines</hi>), ou encore de l'acte privé de veine savante (<hi rend="i">garandire</hi>). Tout en bref dénote l'intervention d'un rédacteur spécialisé, caché derrière l'auteur de l'acte et son sceau.</p>
+            <p>L'acte offre comme un condensé de multiples aspects de l'économie seigneuriale : redevances et terres (accensées ou en faire-valoir direct, impossible de trancher), engagement de biens à un bourgeois suivi d'une récupération, laborieux réglement de la succession entre frères, extension des usages du fief comme outil de régulation des rapports entre aîné et cadet. On notera la précision explicite de la remise de l'acte au bénéficiaire, d'autant plus forte de sens qu'elle est enchâssée dans la corroboration. Elle confirme que l'acte écrit a eu pour partenaires exclusifs des laïques : une situation qui commence à mieux se révéler à l'époque, mais encore assez rarement au niveau inférieur de l'aristocratie.</p>
           </div>
         </div>
       </div>

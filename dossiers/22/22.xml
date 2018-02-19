@@ -89,7 +89,7 @@
                <l>apponendum. Dat<ex>um</ex> anno D<ex>omi</ex>ni </l>
                <l>M° CC° L° p<ex>r</ex>imo, mense novembr<ex>is</ex>.</l>
             </div>
-            <div type="traduction">
+            <div type="translation">
                <l>A tous ceux qui verront les présentes lettres, </l>
                <l>. . l'official de la cour de <term n="Meaux, Seine-et-Marne, ch.-l. arr." >Meaux</term>, salut dans le Seigneur.</l>
                <l/>
@@ -142,12 +142,12 @@
                   <p>
                      <figure rend="22/faxexternes.jpg">
                         <figDesc>
-                           <seg type="poly" rend="234,42,250,41,270,42,288,42,303,44,315,48,316,55,296,58,288,59,278,60,264,61,252,61,236,58,225,56,210,52,212,44" >S&#201;v&#201;rit&#201; relative des abr&#201;viations.</seg>
-                           <seg type="poly" rend="577,83,583,77,590,76,597,83,592,92,584,92,579,88" >Absence de marquage des coupures de mots en fin de ligne.</seg>
-                           <seg type="poly" rend="262,101,274,100,283,101,288,106,291,110,283,114,279,115,272,117,264,115,258,113,255,109" >i point&#201; par un trait oblique appuy&#201;.</seg>
-                           <seg type="poly" rend="140,227,152,224,168,221,186,223,196,229,195,234,185,238,169,241,157,241,145,239,141,233" >Cursivit&#201; du trac&#201; des lettres.</seg>
-                           <seg type="poly" rend="499,308,520,308,536,309,558,314,571,320,560,327,543,331,527,332,513,335,494,331,477,331,465,327,455,324,455,316,468,312,480,311" >Traits interdisant un ajout.</seg>
-                           <seg type="poly" rend="294,346,315,352,324,365,328,381,324,391,318,400,308,405,288,407,274,401,268,389,264,371,271,359,280,350" >Double queue de parchemin.</seg>
+                           <seg rend="234,42,250,41,270,42,288,42,303,44,315,48,316,55,296,58,288,59,278,60,264,61,252,61,236,58,225,56,210,52,212,44" >S&#201;v&#201;rit&#201; relative des abr&#201;viations.</seg>
+                           <seg rend="577,83,583,77,590,76,597,83,592,92,584,92,579,88" >Absence de marquage des coupures de mots en fin de ligne.</seg>
+                           <seg rend="262,101,274,100,283,101,288,106,291,110,283,114,279,115,272,117,264,115,258,113,255,109" >i point&#201; par un trait oblique appuy&#201;.</seg>
+                           <seg rend="140,227,152,224,168,221,186,223,196,229,195,234,185,238,169,241,157,241,145,239,141,233" >Cursivit&#201; du trac&#201; des lettres.</seg>
+                           <seg rend="499,308,520,308,536,309,558,314,571,320,560,327,543,331,527,332,513,335,494,331,477,331,465,327,455,324,455,316,468,312,480,311" >Traits interdisant un ajout.</seg>
+                           <seg rend="294,346,315,352,324,365,328,381,324,391,318,400,308,405,288,407,274,401,268,389,264,371,271,359,280,350" >Double queue de parchemin.</seg>
                         </figDesc>
                      </figure>
                  </p>
@@ -202,7 +202,7 @@
                   <p>
                      <seg corresp="adresse">Omnibus presentes litteras inspecturis,<note id="adresse">Adresse universelle</note></seg>
                      <seg corresp="notif">Notum facimus quod <note id="notif" >Notification.</note></seg>
-                     <seg corresp="corps">coram nobis constituta domicella Margareta de Essartis, relicta defuncti Galteri Ruffi de Essartis, recognovit se vendidisse et imperpetuum quitasse viris religiosis abbati et conventui de Caroliloco et imperpetuum quitasse duo arpenta terre et dimidium arabilis, sita in territorio de Marchemoreto, contigua terre predictorum abbatis et conventus, pro quindecim libris turonensium, de quibus tenuit se coram nobis pro pagata in pecunia numerata ; <note id="corps">Corps de l&#x2019;acte, con&#199;u comme un proc&#232;s-verbal,<lb/>enregistrant un aveu (recognovit) ; ce n&#x2019;est pas un dispositif au sens strict.</note></seg>
+                     <seg corresp="corps">coram nobis constituta domicella Margareta de Essartis, relicta defuncti Galteri Ruffi de Essartis, recognovit se vendidisse et imperpetuum quitasse viris religiosis abbati et conventui de Caroliloco et imperpetuum quitasse duo arpenta terre et dimidium arabilis, sita in territorio de Marchemoreto, contigua terre predictorum abbatis et conventus, pro quindecim libris turonensium, de quibus tenuit se coram nobis pro pagata in pecunia numerata ; <note id="corps">Corps de l’acte, con&#199;u comme un proc&#232;s-verbal,<lb/>enregistrant un aveu (recognovit) ; ce n’est pas un dispositif au sens strict.</note></seg>
                      <seg corresp="renonciation">renoncians quantum ad hoc excepcioni non numerate sibi pecunie, non tradite, non solute ; <note id="renonciation">Clause de renonciation.</note></seg>
                      <seg corresp="promesse">promittens, fide data in manu nostra, se istam vendicionem firmiter imperpetuum servaturam et non contraventuram racione hereditatis, dotalicii sive dotis seu quaconque alia racione ; <note id="promesse">Clause de promesse.</note></seg>
                      <seg corresp="garantie">immo dictis emtoribus erga omnes rectam garandiam portabit erga omnes imperpetuum. <note id="garantie" >Clause de garantie.</note></seg>

@@ -26,8 +26,8 @@
       <div type="facsimile">
         <p>
           <seg rend="39,33,192,62">De s<ex>an</ex>c<ex>t</ex>o Cornelio</seg>
-          <seg rend="32,86,301,103">et &#x2019;a<ex>n</ex>u<ex>m</ex>&#x2019; q<ex>uod</ex> e<ex>st</ex> sursu<ex>m</ex> ; v<ex>e</ex>l</seg>
-          <seg rend="31,107,300,126">d<ex>icitur</ex> a &#x2019;cipro&#x2019; q<ex>uod</ex> d<ex>icitur</ex> mesticia v<ex>el</ex> h<ex>er</ex>editas : ip<ex>s</ex>e en<ex>im</ex> h<ex>ab</ex>uit</seg>
+          <seg rend="32,86,301,103">et ’a<ex>n</ex>u<ex>m</ex>’ q<ex>uod</ex> e<ex>st</ex> sursu<ex>m</ex> ; v<ex>e</ex>l</seg>
+          <seg rend="31,107,300,126">d<ex>icitur</ex> a ’cipro’ q<ex>uod</ex> d<ex>icitur</ex> mesticia v<ex>el</ex> h<ex>er</ex>editas : ip<ex>s</ex>e en<ex>im</ex> h<ex>ab</ex>uit</seg>
           <seg rend="30,132,304,148">s<ex>upe</ex>rna<ex>m</ex> mixt<ex>ur</ex>am gr<ex>aci</ex>e <ex>et</ex> vi<ex>r</ex>tutu<ex>m</ex>, mesti-</seg>
           <seg rend="29,156,303,173">-cia<ex>m</ex> p<ex>e</ex>cc<ex>at</ex>or<ex>um</ex>, h<ex>er</ex>editate[m] celestiu<ex>m</ex> gaudior<ex>um</ex>. </seg>
           <seg rend="64,179,302,194">De Sancto Cornelio</seg>
@@ -65,7 +65,7 @@
           <seg rend="512,35,614,61">[Foliotation :] CCLVIII</seg>
           <seg rend="335,88,594,100">occ<ex>u</ex>los texit, et s<ex>i</ex>c corona<ex>m</ex> suscep<ex>i</ex>t, ci<ex>r</ex>ca</seg>
           <seg rend="334,108,597,125">a<ex>n</ex>nu<ex>m</ex> Do<ex>min</ex>i CCLVI. D<ex>e</ex> s<ex>an</ex>c<ex>t</ex>a Eufe<ex>m</ex>ia.</seg>
-          <seg rend="383,131,606,150">Eufe<ex>m</ex>ia ab &#x2019;hu&#x2019;, q<ex>uod</ex> e<ex>st</ex> bonu<ex>m</ex>, <ex>et</ex> &#x2019;femina&#x2019;,</seg>
+          <seg rend="383,131,606,150">Eufe<ex>m</ex>ia ab ’hu’, q<ex>uod</ex> e<ex>st</ex> bonu<ex>m</ex>, <ex>et</ex> ’femina’,</seg>
           <seg rend="371,157,596,170">quasi bona fe<ex>m</ex>i<ex>n</ex>a, i<ex>dest</ex> util<ex>is</ex>, honesta et</seg>
           <seg rend="340,180,607,194">d<ex>e</ex>l<ex>e</ex>ctabil<ex>is</ex>, q<ex>uia</ex> h<ex>oc</ex> triplici m<ex>od</ex>o d<ex>icitu</ex>r bonu<ex>m</ex>. Fu<ex>i</ex>t</seg>
           <seg rend="339,205,596,217"><ex>e</ex>ni<ex>m</ex> util<ex>is</ex> aliis p<ex>er</ex> <ex>con</ex>v<ex>er</ex>sat<ex>i</ex>one<ex>m</ex>, hones-</seg>
@@ -180,7 +180,7 @@
           <l>-a p<ex>er</ex>ve<ex>n</ex>ire ?" Cui judex : "Putabam</l>
           <l>te ad me<ex>n</ex>te<ex>m</ex> te redisse et gaude-[bam..."].</l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l/>
           <l>[PREMIÈRE COLONNE]</l>
           <l>[...] et ‘anum’, qui signifie en haut ; ou bien de ‘cipro’ qui</l>

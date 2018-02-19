@@ -25,215 +25,109 @@
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="14,16,785,37">Om<ex>n</ex>ib<ex>us</ex>
-            p<ex>re</ex>sentes litt<ex>er</ex>as insp<ex>e</ex>cturis,
-            . . offic<ex>ialis</ex> Belvacen<ex>sis</ex>,
-            sal<ex>u</ex>t<ex>em</ex> in
-            D<ex>om</ex>in<ex>o</ex>. Nov<ex>er</ex>int
-            univ<ex>er</ex>si q<ex>uo</ex>d</seg>
-          <seg rend="13,46,779,64">i<ex>n</ex> n<ex>ost</ex>ra constituti
-            p<ex>re</ex>sentia Ricardus d<ex>i</ex>c<ex>t</ex>us
-            de Gres de S<ex>an</ex>c<ex>t</ex>o Felice <ex>et</ex> Aya
-            ejus uxor <ex>et</ex> Eufe-</seg>
-          <seg rend="8,74,800,92">-mia eor<ex>um</ex> filia
-            recognov<ex>er</ex>unt se imp<ex>er</ex>petuum vendidisse
-            p<ex>ro</ex> co<ex>m</ex>muni eor<ex>um</ex> utilitate
-            ac neces-</seg>
-          <seg rend="10,102,805,117">-sitate abbati <ex>et</ex> conventui
-            S<ex>an</ex>c<ex>t</ex>i G<ex>er</ex>emari
-            Flaviacen<ex>sis</ex> q<ex>u</ex>amdam peciam
-            t<ex>er</ex>re s<ex>em</ex>entis q<ex>u</ex>am</seg>
-          <seg rend="7,128,791,145">h<ex>ab</ex>ebant ex caduco Asceline de Amuchi,
-            matertere dicti Ricardi, circiter sex minas continen-</seg>
-          <seg rend="14,157,793,176">-tem, sitam ante mesum de Amuchi,
-            d<ex>i</ex>c<ex>t</ex>or<ex>um</ex> abbatis et
+          <seg rend="14,16,785,37">Om<ex>n</ex>ib<ex>us</ex> p<ex>re</ex>sentes litt<ex>er</ex>as insp<ex>e</ex>cturis, . . offic<ex>ialis</ex> Belvacen<ex>sis</ex>, sal<ex>u</ex>t<ex>em</ex> in D<ex>om</ex>in<ex>o</ex>. Nov<ex>er</ex>int univ<ex>er</ex>si q<ex>uo</ex>d</seg>
+          <seg rend="13,46,779,64">i<ex>n</ex> n<ex>ost</ex>ra constituti p<ex>re</ex>sentia Ricardus d<ex>i</ex>c<ex>t</ex>us de Gres de S<ex>an</ex>c<ex>t</ex>o Felice <ex>et</ex> Aya ejus uxor <ex>et</ex> Eufe-</seg>
+          <seg rend="8,74,800,92">-mia eor<ex>um</ex> filia recognov<ex>er</ex>unt se imp<ex>er</ex>petuum vendidisse p<ex>ro</ex> co<ex>m</ex>muni eor<ex>um</ex> utilitate ac neces-</seg>
+          <seg rend="10,102,805,117">-sitate abbati <ex>et</ex> conventui S<ex>an</ex>c<ex>t</ex>i G<ex>er</ex>emari Flaviacen<ex>sis</ex> q<ex>u</ex>amdam peciam t<ex>er</ex>re s<ex>em</ex>entis q<ex>u</ex>am</seg>
+          <seg rend="7,128,791,145">h<ex>ab</ex>ebant ex caduco Asceline de Amuchi, matertere dicti Ricardi, circiter sex minas continen-</seg>
+          <seg rend="14,157,793,176">-tem, sitam ante mesum de Amuchi, d<ex>i</ex>c<ex>t</ex>or<ex>um</ex> abbatis et
             <ex>con</ex>ventus, q<ex>u</ex>am ab eisdem abbate <ex>et</ex>
             <ex>con</ex>-</seg>
-          <seg rend="12,183,796,196">-ventu tenebant ad campipartem, pro centum et decem
-            solidis parisiensium sibi a dictis abbate et <ex>con</ex>-</seg>
-          <seg rend="14,210,791,228">-ventu plene <ex>et</ex> integ<ex>r</ex>e
-            p<ex>er</ex>solutis, ut ip<ex>s</ex>i Ricardus, Aya ejus
-            uxor <ex>et</ex> Eufemia eor<ex>um</ex> filia</seg>
-          <seg rend="12,233,784,256">coram nob<ex>is</ex>
-            recognov<ex>er</ex>unt ; fidem coram nob<ex>is</ex>
-            p<ex>re</ex>stantes corporalem
-            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i Ricardus,</seg>
-          <seg rend="11,261,792,285">Aya ejus uxor <ex>et</ex> Eufemia
-            eor<ex>um</ex> filia, no<ex>n</ex> vi nec metu ad hoc inducte
-            s<ex>ed</ex> mera <ex>et</ex> spon-</seg>
-          <seg rend="9,291,790,313">-tanea voluntate sua, ut asserebant,
-            q<ex>uo</ex>d ip<ex>s</ex>i decet<ex>er</ex>o
-            r<ex>ati</ex>one
-            cuj<ex>us</ex>cu<ex>m</ex>q<ex>ue</ex> juris,
+          <seg rend="12,183,796,196">-ventu tenebant ad campipartem, pro centum et decem solidis parisiensium sibi a dictis abbate et <ex>con</ex>-</seg>
+          <seg rend="14,210,791,228">-ventu plene <ex>et</ex> integ<ex>r</ex>e p<ex>er</ex>solutis, ut ip<ex>s</ex>i Ricardus, Aya ejus uxor <ex>et</ex> Eufemia eor<ex>um</ex> filia</seg>
+          <seg rend="12,233,784,256">coram nob<ex>is</ex> recognov<ex>er</ex>unt ; fidem coram nob<ex>is</ex> p<ex>re</ex>stantes corporalem p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i Ricardus,</seg>
+          <seg rend="11,261,792,285">Aya ejus uxor <ex>et</ex> Eufemia eor<ex>um</ex> filia, no<ex>n</ex> vi nec metu ad hoc inducte s<ex>ed</ex> mera <ex>et</ex> spon-</seg>
+          <seg rend="9,291,790,313">-tanea voluntate sua, ut asserebant, q<ex>uo</ex>d ip<ex>s</ex>i decet<ex>er</ex>o r<ex>ati</ex>one cuj<ex>us</ex>cu<ex>m</ex>q<ex>ue</ex> juris,
             <ex>et</ex> maxime d<ex>i</ex>c<ex>t</ex>a Aya</seg>
-          <seg rend="8,324,790,342">r<ex>ati</ex>one dotis, in t<ex>er</ex>ra
-            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vendita
-            p<ex>er</ex> se v<ex>e</ex>l p<ex>er</ex> alium nichil
-            reclamab<ex>un</ex>t v<ex>e</ex>l facient (reclama-</seg>
-          <seg rend="5,348,785,371">-bunt vel facie<ex>n</ex>t) reclamari, sed
-            sup<ex>er</ex> eadem t<ex>er</ex>ra vendita
-            d<ex>i</ex>c<ex>t</ex>is abbati <ex>et</ex> conventui
+          <seg rend="8,324,790,342">r<ex>ati</ex>one dotis, in t<ex>er</ex>ra p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vendita p<ex>er</ex> se v<ex>e</ex>l p<ex>er</ex> alium nichil reclamab<ex>un</ex>t v<ex>e</ex>l facient (reclama-</seg>
+          <seg rend="5,348,785,371">-bunt vel facie<ex>n</ex>t) reclamari, sed sup<ex>er</ex> eadem t<ex>er</ex>ra vendita d<ex>i</ex>c<ex>t</ex>is abbati <ex>et</ex> conventui
             <ex>con</ex>tra</seg>
-          <seg rend="10,379,776,400">om<ex>ne</ex>s legitimam portabunt garandiam ;
-            renuntiantes in hoc f<ex>a</ex>c<ex>t</ex>o, fide data,
-            excepc<ex>i</ex>o<ex>n</ex>i</seg>
+          <seg rend="10,379,776,400">om<ex>ne</ex>s legitimam portabunt garandiam ; renuntiantes in hoc f<ex>a</ex>c<ex>t</ex>o, fide data, excepc<ex>i</ex>o<ex>n</ex>i</seg>
           <seg rend="9,404,786,431">no<ex>n</ex> num<ex>er</ex>ate
-            <ex>et</ex> no<ex>n</ex> recepte pecunie <ex>et</ex>
-            om<ex>n</ex>ib<ex>us</ex> aliis
-            excepc<ex>i</ex>o<ex>n</ex>ib<ex>us</ex>
+            <ex>et</ex> no<ex>n</ex> recepte pecunie <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> aliis excepc<ex>i</ex>o<ex>n</ex>ib<ex>us</ex>
             <ex>et</ex> juris auxilio tam cano<ex>n</ex>i-</seg>
-          <seg rend="6,435,789,455">-ci quam civilis q<ex>uo</ex>d
-            s<ex>ib</ex>i cont<ex>r</ex>a p<ex>re</ex>sens
-            instrum<ex>en</ex>tum posset p<ex>ro</ex>desse
+          <seg rend="6,435,789,455">-ci quam civilis q<ex>uo</ex>d s<ex>ib</ex>i cont<ex>r</ex>a p<ex>re</ex>sens instrum<ex>en</ex>tum posset p<ex>ro</ex>desse
             <ex>et</ex> d<ex>i</ex>c<ex>t</ex>is abbati
             <ex>et</ex> conventui pro-</seg>
-          <seg rend="6,460,788,488">-desse. In cuj<ex>us</ex> rei
-            testimo<ex>n</ex>ium, p<ex>re</ex>sentes litt<ex>er</ex>as
-            sigillo curie Belvacen<ex>sis</ex> fecim<ex>us</ex>
+          <seg rend="6,460,788,488">-desse. In cuj<ex>us</ex> rei testimo<ex>n</ex>ium, p<ex>re</ex>sentes litt<ex>er</ex>as sigillo curie Belvacen<ex>sis</ex> fecim<ex>us</ex>
             <ex>com</ex>muniri. Act<ex>um</ex></seg>
-          <seg rend="3,495,486,513">anno D<ex>omi</ex>ni M° CC° XL° octavo, die lune
-            post Jubilat<ex>e</ex>.</seg>
+          <seg rend="3,495,486,513">anno D<ex>omi</ex>ni M° CC° XL° octavo, die lune post Jubilat<ex>e</ex>.</seg>
         </p>
       </div>
       <div type="text">
         <div type="transcription">
-          <l>Om<ex>n</ex>ib<ex>us</ex> p<ex>re</ex>sentes
-            litt<ex>er</ex>as insp<ex>e</ex>cturis, </l>
-          <l>. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque."
-            >offic<ex>ialis</ex></term> Belvacen<ex>sis</ex>,
-            sal<ex>u</ex>t<ex>em</ex> in
-            D<ex>om</ex>in<ex>o</ex>.</l>
+          <l>Om<ex>n</ex>ib<ex>us</ex> p<ex>re</ex>sentes litt<ex>er</ex>as insp<ex>e</ex>cturis, </l>
+          <l>. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque." >offic<ex>ialis</ex></term> Belvacen<ex>sis</ex>, sal<ex>u</ex>t<ex>em</ex> in D<ex>om</ex>in<ex>o</ex>.</l>
           <l/>
-          <l>Nov<ex>er</ex>int univ<ex>er</ex>si q<ex>uo</ex>d
-            i<ex>n</ex> n<ex>ost</ex>ra constituti p<ex>re</ex>sentia </l>
-          <l>Ricardus d<ex>i</ex>c<ex>t</ex>us de <term
-            n="Oise, cant. Grandvilliers.">Gres</term> de <term
-              n="Oise, cant. Mouy.">S<ex>an</ex>c<ex>t</ex>o Felice</term>
+          <l>Nov<ex>er</ex>int univ<ex>er</ex>si q<ex>uo</ex>d i<ex>n</ex> n<ex>ost</ex>ra constituti p<ex>re</ex>sentia </l>
+          <l>Ricardus d<ex>i</ex>c<ex>t</ex>us de <term n="Oise, cant. Grandvilliers.">Gres</term> de <term n="Oise, cant. Mouy.">S<ex>an</ex>c<ex>t</ex>o Felice</term>
             <ex>et</ex> Aya ejus uxor </l>
-          <l><ex>et</ex> Eufemia eor<ex>um</ex> filia
-            recognov<ex>er</ex>unt se imp<ex>er</ex>petuum </l>
-          <l>vendidisse p<ex>ro</ex> co<ex>m</ex>muni eor<ex>um</ex>
-            utilitate ac necessitate </l>
-          <l>abbati <ex>et</ex> conventui <term
-            n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer)."
-            >S<ex>an</ex>c<ex>t</ex>i G<ex>er</ex>emari
-            Flaviacen<ex>sis</ex></term>
+          <l><ex>et</ex> Eufemia eor<ex>um</ex> filia recognov<ex>er</ex>unt se imp<ex>er</ex>petuum </l>
+          <l>vendidisse p<ex>ro</ex> co<ex>m</ex>muni eor<ex>um</ex> utilitate ac necessitate </l>
+          <l>abbati <ex>et</ex> conventui <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer)." >S<ex>an</ex>c<ex>t</ex>i G<ex>er</ex>emari Flaviacen<ex>sis</ex></term>
           </l>
-          <l>q<ex>u</ex>amdam peciam t<ex>er</ex>re s<ex>em</ex>entis
-            q<ex>u</ex>am h<ex>ab</ex>ebant ex </l>
-          <l>caduco Asceline de <term
-            n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons)."
-            >Amuchi</term>, <term
-              n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium)."
-              >matertere</term> dicti Ricardi, </l>
-          <l>circiter sex <term
-            n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence)."
-            >minas</term> continentem, sitam ante <term
-              n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres."
-              >mesum</term>
+          <l>q<ex>u</ex>amdam peciam t<ex>er</ex>re s<ex>em</ex>entis q<ex>u</ex>am h<ex>ab</ex>ebant ex </l>
+          <l>caduco Asceline de <term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons)." >Amuchi</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium)." >matertere</term> dicti Ricardi, </l>
+          <l>circiter sex <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence)." >minas</term> continentem, sitam ante <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres." >mesum</term>
           </l>
           <l>de Amuchi, d<ex>i</ex>c<ex>t</ex>or<ex>um</ex> abbatis et
             <ex>con</ex>ventus, q<ex>u</ex>am ab </l>
           <l>eisdem abbate <ex>et</ex>
-            <ex>con</ex>ventu tenebant ad <term
-              n="Mode de tenure de la terre à part de fruits.">campipartem</term>, </l>
+            <ex>con</ex>ventu tenebant ad <term n="Mode de tenure de la terre à part de fruits.">campipartem</term>, </l>
           <l/>
-          <l>pro centum et decem <term
-            n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin)."
-            >solidis parisiensium</term> sibi a dictis </l>
-          <l>abbate et <ex>con</ex>ventu plene <ex>et</ex>
-            integ<ex>r</ex>e p<ex>er</ex>solutis, ut ip<ex>s</ex>i </l>
-          <l>Ricardus, Aya ejus uxor <ex>et</ex> Eufemia eor<ex>um</ex> filia
-            coram </l>
-          <l>nob<ex>is</ex> recognov<ex>er</ex>unt ; fidem coram
-            nob<ex>is</ex> p<ex>re</ex>stantes </l>
-          <l><term
-            n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)"
-            >corporalem</term> p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i
-            Ricardus, Aya ejus uxor <ex>et</ex>
+          <l>pro centum et decem <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin)." >solidis parisiensium</term> sibi a dictis </l>
+          <l>abbate et <ex>con</ex>ventu plene <ex>et</ex> integ<ex>r</ex>e p<ex>er</ex>solutis, ut ip<ex>s</ex>i </l>
+          <l>Ricardus, Aya ejus uxor <ex>et</ex> Eufemia eor<ex>um</ex> filia coram </l>
+          <l>nob<ex>is</ex> recognov<ex>er</ex>unt ; fidem coram nob<ex>is</ex> p<ex>re</ex>stantes </l>
+          <l><term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)" >corporalem</term> p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>i Ricardus, Aya ejus uxor <ex>et</ex>
           </l>
-          <l>Eufemia eor<ex>um</ex> filia, no<ex>n</ex> vi nec metu ad hoc
-            inducte </l>
-          <l>s<ex>ed</ex> mera <ex>et</ex> spontanea voluntate sua, ut
-            asserebant, </l>
-          <l>q<ex>uo</ex>d ip<ex>s</ex>i decet<ex>er</ex>o
-            r<ex>ati</ex>one
-            cuj<ex>us</ex>cu<ex>m</ex>q<ex>ue</ex> juris,
+          <l>Eufemia eor<ex>um</ex> filia, no<ex>n</ex> vi nec metu ad hoc inducte </l>
+          <l>s<ex>ed</ex> mera <ex>et</ex> spontanea voluntate sua, ut asserebant, </l>
+          <l>q<ex>uo</ex>d ip<ex>s</ex>i decet<ex>er</ex>o r<ex>ati</ex>one cuj<ex>us</ex>cu<ex>m</ex>q<ex>ue</ex> juris,
             <ex>et</ex>
           </l>
-          <l>maxime d<ex>i</ex>c<ex>t</ex>a Aya r<ex>ati</ex>one dotis,
-            in t<ex>er</ex>ra
-            p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vendita </l>
-          <l>p<ex>er</ex> se v<ex>e</ex>l p<ex>er</ex> alium nichil
-            reclamab<ex>un</ex>t v<ex>e</ex>l facient </l>
+          <l>maxime d<ex>i</ex>c<ex>t</ex>a Aya r<ex>ati</ex>one dotis, in t<ex>er</ex>ra p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vendita </l>
+          <l>p<ex>er</ex> se v<ex>e</ex>l p<ex>er</ex> alium nichil reclamab<ex>un</ex>t v<ex>e</ex>l facient </l>
           <l>reclamari, </l>
           <l/>
-          <l>sed sup<ex>er</ex> eadem t<ex>er</ex>ra vendita
-            d<ex>i</ex>c<ex>t</ex>is abbati <ex>et</ex> conventui </l>
+          <l>sed sup<ex>er</ex> eadem t<ex>er</ex>ra vendita d<ex>i</ex>c<ex>t</ex>is abbati <ex>et</ex> conventui </l>
           <l><ex>con</ex>tra om<ex>ne</ex>s legitimam portabunt garandiam ; </l>
           <l/>
-          <l>renuntiantes in hoc f<ex>a</ex>c<ex>t</ex>o, fide data,
-            excepc<ex>i</ex>o<ex>n</ex>i no<ex>n</ex>
+          <l>renuntiantes in hoc f<ex>a</ex>c<ex>t</ex>o, fide data, excepc<ex>i</ex>o<ex>n</ex>i no<ex>n</ex>
           </l>
           <l>num<ex>er</ex>ate <ex>et</ex> no<ex>n</ex> recepte pecunie
             <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> aliis </l>
           <l>excepc<ex>i</ex>o<ex>n</ex>ib<ex>us</ex>
             <ex>et</ex> juris auxilio tam cano<ex>n</ex>ici quam civilis </l>
-          <l>q<ex>uo</ex>d s<ex>ib</ex>i cont<ex>r</ex>a
-            p<ex>re</ex>sens instrum<ex>en</ex>tum posset
-            p<ex>ro</ex>desse </l>
+          <l>q<ex>uo</ex>d s<ex>ib</ex>i cont<ex>r</ex>a p<ex>re</ex>sens instrum<ex>en</ex>tum posset p<ex>ro</ex>desse </l>
           <l><ex>et</ex> d<ex>i</ex>c<ex>t</ex>is abbati
             <ex>et</ex> conventui prodesse*. </l>
           <l/>
-          <l>In cuj<ex>us</ex> rei testimo<ex>n</ex>ium,
-            p<ex>re</ex>sentes litt<ex>er</ex>as sigillo </l>
+          <l>In cuj<ex>us</ex> rei testimo<ex>n</ex>ium, p<ex>re</ex>sentes litt<ex>er</ex>as sigillo </l>
           <l>curie Belvacen<ex>sis</ex> fecim<ex>us</ex>
             <ex>com</ex>muniri. Act<ex>um</ex> anno </l>
-          <l>D<ex>omi</ex>ni <term
-            n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style."
-            >M° CC° XL°</term> octavo, die <term
-              n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style."
-              >1248</term>, le <term
-                n="&#171;Jubilate&#187; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248."
-                >lune post Jubilat<ex>e</ex></term>. </l>
+          <l>D<ex>omi</ex>ni <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style." >M° CC° XL°</term> octavo, die <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style." >1248</term>, le <term n="&#171;Jubilate&#187; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248." >lune post Jubilat<ex>e</ex></term>. </l>
         </div>
-        <div type="traduction">
+        <div type="translation">
           <l>A tous ceux qui verront les présentes lettres,</l>
-          <l>. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque."
-            >l'official</term> de Beauvais, salut dans le Seigneur.</l>
+          <l>. . <term n="Juge en matière contentieuse et gracieuse, délégué de l’évêque." >l'official</term> de Beauvais, salut dans le Seigneur.</l>
           <l/>
           <l>Sachent tous que constitués en notre présence</l>
-          <l>Richard dit de <term n="Oise, cant. Grandvilliers.">Grez</term>, de <term
-            n="Oise, cant. Mouy.">Saint-Félix</term>, Aye son épouse</l>
+          <l>Richard dit de <term n="Oise, cant. Grandvilliers.">Grez</term>, de <term n="Oise, cant. Mouy.">Saint-Félix</term>, Aye son épouse</l>
           <l>et Euphémie leur fille ont reconnu qu'ils ont vendu à</l>
           <l>perpétuité pour leur commune utilité et leur commun</l>
-          <l>besoin à l'abbé et au convent de <term
-            n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer)."
-            >Saint-Germer de Fly</term></l>
+          <l>besoin à l'abbé et au convent de <term n="Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer)." >Saint-Germer de Fly</term></l>
           <l>une pièce de terre arable qu'ils avaient de l'héritage</l>
-          <l>d'Asceline d'<term
-            n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons)."
-            >Amuchy</term>, <term
-              n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium)."
-              >tante maternelle</term> dudit</l>
-          <l>Richard, d'environ six <term
-            n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence)."
-            >éminées</term>, sise devant le <term
-              n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres."
-              >metz</term></l>
+          <l>d'Asceline d'<term n="Ancien habitat sur la commune de Senantes (Oise, cant. Songeons)." >Amuchy</term>, <term n="Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium)." >tante maternelle</term> dudit</l>
+          <l>Richard, d'environ six <term n="L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence)." >éminées</term>, sise devant le <term n="L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres." >metz</term></l>
           <l>d'Amuchy qui appartient auxdits abbé et convent, et </l>
-          <l>qu'ils tenaient à <term n="Mode de tenure de la terre à part de fruits."
-            >champart</term> des mêmes abbé et convent,</l>
+          <l>qu'ils tenaient à <term n="Mode de tenure de la terre à part de fruits." >champart</term> des mêmes abbé et convent,</l>
           <l/>
-          <l>pour cent dix <term
-            n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin)."
-            >sous de parisis</term> à eux par lesdits abbé</l>
+          <l>pour cent dix <term n="Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc &#171;de [deniers] parisis&#187; (au génitif en latin)." >sous de parisis</term> à eux par lesdits abbé</l>
           <l>et convent pleinement et entièrement versés, ainsi</l>
           <l>que lesdits Richard, Aye son épouse et Euphémie leur</l>
           <l>fille ont devant nous reconnu; prêtant devant nous foi</l>
-          <l><term
-            n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)"
-            >corporelle</term> les susdits Richard, Aye son épouse et</l>
+          <l><term n="La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)" >corporelle</term> les susdits Richard, Aye son épouse et</l>
           <l>Euphémie leur fille, non poussées à cela par force ou</l>
           <l>crainte mais de leur pure et spontanée volonté, à ce</l>
           <l>qu'elles disaient, qu'à l'avenir à raison de quelque droit</l>
@@ -252,11 +146,7 @@
           <l/>
           <l>En témoignage de quoi, nous avons fait munir les</l>
           <l>présentes lettres du sceau de la cour de Beauvais. Fait</l>
-          <l>l'an du Seigneur <term
-            n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style."
-            >1248</term>, le <term
-              n="&quot;Jubilate&quot; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248."
-              >lundi après Jubilate</term>.</l>
+          <l>l'an du Seigneur <term n="Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style." >1248</term>, le <term n="&quot;Jubilate&quot; est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248." >lundi après Jubilate</term>.</l>
         </div>
       </div>
       <div type="diplomatic">
@@ -265,357 +155,83 @@
           <head>Caractères externes</head>
           <div>
             <div class="recommandation">
-              <p>Passer la souris sur les cercles rouges pour des commentaires de
-                détail</p>
+              <p>Passer la souris sur les cercles rouges pour des commentaires de détail</p>
             </div>
             <p>
               <figure rend="20/faxexternes.jpg">
                 <figDesc>
-                  <seg type="circle" rend="29,39,13">Initiale majuscule.</seg>
-                  <seg type="poly"
-                    rend="229,36,239,32,244,34,249,36,251,40,250,43,248,47,242,50,234,50,231,44,230,41,233,34"
-                    >Deux points juxtaposés.</seg>
-                  <seg type="circle" rend="579,59,15">Tiret en fin de ligne,
-                    signalant une coupure de mot.</seg>
-                  
-                  <seg type="circle" rend="410,117,8">Mots exponctués.</seg>
-                  <seg type="circle" rend="342,95,11">i pointé par un trait
-                    oblique appuyé.</seg>
-                  <seg type="circle" rend="392,558,40">Initiale majuscule.</seg>
-                  <seg type="poly"
-                    rend="68,99,72,88,80,84,86,91,89,99,90,104,83,108,81,106,81,120,74,117"
-                    >Initiale majuscule.</seg>
-                  <seg type="poly"
-                    rend="15,280,20,276,32,271,46,271,60,271,76,272,92,270,106,270,120,273,129,277,133,285,121,289,126,287,116,292,123,289,111,296,95,299,72,299,47,297,26,293,16,288"
-                    >Mots exponctués.</seg>
-                  <seg type="poly"
-                    rend="770,501,785,504,792,523,789,555,782,566,776,574,770,580,760,586"
-                    >Ponctuation assez sobre.</seg>
-                  
-                  <seg type="poly"
-                    rend="447,23,451,26,456,29,459,34,458,41,458,46,455,50,451,54,442,54,438,47,436,41,437,33,442,28,445,23"
-                    >Initiale grossie.</seg>
-                  <seg type="poly"
-                    rend="546,181,550,180,555,178,562,178,565,177,570,177,578,179,583,181,585,186,585,189,583,193,581,195,578,197,574,198,567,199,562,198,555,199,549,198,547,195,543,191,542,186"
-                    >s final étiré.</seg>
-                  <seg type="poly"
-                    rend="529,245,537,241,542,240,547,240,553,239,558,239,561,238,566,240,569,242,576,244,580,245,581,251,577,256,576,260,571,261,558,262,546,262,538,257,533,260,530,255"
-                    >Mots exponctués.</seg>
-                  <seg type="poly"
-                    rend="408,360,416,359,420,359,428,357,438,356,449,355,458,355,467,353,479,353,488,355,495,353,504,354,511,355,519,356,527,356,536,356,539,356,546,356,551,358,556,357,560,359,567,360,572,359,578,362,583,362,588,366,592,367,596,369,597,374,593,375,588,378,581,379,572,382,564,382,554,384,543,384,537,386,528,387,520,387,513,387,508,387,498,387,484,387,478,387,467,387,461,387,451,387,443,387,435,387,420,381,426,385,412,383,408,382,401,382,393,379,388,372,383,370,389,364,397,360"
-                    >Traits allongés en fin de dernière ligne.</seg>
-                  <seg type="circle" rend="303,426,30">Double queue de
-                    parchemin.</seg>
+                  <seg rend="29,39,13">Initiale majuscule.</seg>
+                  <seg rend="229,36,239,32,244,34,249,36,251,40,250,43,248,47,242,50,234,50,231,44,230,41,233,34" >Deux points juxtaposés.</seg>
+                  <seg rend="579,59,15">Tiret en fin de ligne, signalant une coupure de mot.</seg> 
+                  <seg rend="410,117,8">Mots exponctués.</seg>
+                  <seg rend="342,95,11">i pointé par un trait oblique appuyé.</seg>
+                  <seg rend="392,558,40">Initiale majuscule.</seg>
+                  <seg rend="68,99,72,88,80,84,86,91,89,99,90,104,83,108,81,106,81,120,74,117" >Initiale majuscule.</seg>
+                  <seg rend="15,280,20,276,32,271,46,271,60,271,76,272,92,270,106,270,120,273,129,277,133,285,121,289,126,287,116,292,123,289,111,296,95,299,72,299,47,297,26,293,16,288" >Mots exponctués.</seg>
+                  <seg rend="770,501,785,504,792,523,789,555,782,566,776,574,770,580,760,586" >Ponctuation assez sobre.</seg> 
+                  <seg rend="447,23,451,26,456,29,459,34,458,41,458,46,455,50,451,54,442,54,438,47,436,41,437,33,442,28,445,23" >Initiale grossie.</seg>
+                  <seg rend="546,181,550,180,555,178,562,178,565,177,570,177,578,179,583,181,585,186,585,189,583,193,581,195,578,197,574,198,567,199,562,198,555,199,549,198,547,195,543,191,542,186" >s final étiré.</seg>
+                  <seg rend="529,245,537,241,542,240,547,240,553,239,558,239,561,238,566,240,569,242,576,244,580,245,581,251,577,256,576,260,571,261,558,262,546,262,538,257,533,260,530,255" >Mots exponctués.</seg>
+                  <seg rend="408,360,416,359,420,359,428,357,438,356,449,355,458,355,467,353,479,353,488,355,495,353,504,354,511,355,519,356,527,356,536,356,539,356,546,356,551,358,556,357,560,359,567,360,572,359,578,362,583,362,588,366,592,367,596,369,597,374,593,375,588,378,581,379,572,382,564,382,554,384,543,384,537,386,528,387,520,387,513,387,508,387,498,387,484,387,478,387,467,387,461,387,451,387,443,387,435,387,420,381,426,385,412,383,408,382,401,382,393,379,388,372,383,370,389,364,397,360" >Traits allongés en fin de dernière ligne.</seg>
+                  <seg rend="303,426,30">Double queue de parchemin.</seg>
                 </figDesc>
               </figure>
             </p>
-            <p>L'acte est écrit sur un support de dimensions modestes (18 x 13 cm) ;
-              l'écriture n'est pas spécialement tassée, mais la marge gauche est
-              réduite, et les marges droite et inférieure inexistantes. Ce principe
-              général d'économie se retrouve dans la modestie du repli ; il n'est pas
-              forcément dû au fait que le scribe n'a plus guère de parchemin à sa
-              disposition : il a très bien pu écrire l'acte sur un support plus long,
-              destiné à plusieurs actes, ensuite découpé aux dimensions voulues.</p>
-            <p>L'espace est donc utilisé au maximum. Des mots sont coupés à huit fins de
-              ligne sur dix-sept, et la coupure est indiquée, comme aujourd'hui par un
-              trait d'union, avant d'éviter toute contestation d'interprétation.
-              Ailleurs une lettre finale est étirée et suivie d'un point (ligne 9), la
-              fin de la dernière ligne est occupée par traits étirés : souci
-              d'empêcher une interpolation, souci esthétique aussi pour donner l'image
-              d'un rectangle entièrement empli par l'écriture.</p>
-            <p>L'économie est aussi sobriété d'ornementation. Il n'y a pas grande
-              conclusion à tirer de l'absence de signe figuré initial, dont l'usage a
-              décliné au siècle précédent ; mais on note que l'écriture ne présente
-              que trois initiales de mots tant soit peu grandies (leurs traits
-              dédoublés ou grossis) : au début du texte, aux initiales du mot "
-              Noverint " et du titre " Abbati ".</p>
-            <p>Mais l'écriture se caractérise aussi par une volonté de clarté, par
-              l'usage du pointage des "i" et d'une scansion du texte par une
-              ponctuation à deux éléments — traits qui sont alors devenus assez
-              communs, mais sont ici assez appuyés, encore que jamais systématiques.
-              On dénombre 49 "i" pointés contre 67 non pointés (dont un bon nombre
-              surmontés d'un tilde qui empêche le pointage). Le pointage est très
-              largement utilisé pour parer à d'éventuelles ambiguïtés de lecture,
-              essentiellement quand le "i" est accompagné d'autres jambages (ainsi
-              pour "Flaviacen." mais pas pour "Geremari"). Ce principe est moins
-              appliqué dans les parties les parties les plus formulaires (pas de
-              pointage à "in" ni à "noverint" en ligne 1), et surappliqué pour des
-              noms propres ou termes juridiques (à commencer par "iuris"). La
-              ponctuation mélange points et traits obliques. Elle découpe, sans
-              rigidité et sans exclusive, des unités de sens plus que des unités
-              grammaticales.</p>
-            <p>On retrouve les mêmes traits dans l'usage des deux points juxtaposés,
-              marque très forte, devant le titre de l'auteur de l'acte, de la
-              dépersonnalisation de son intervention ; le signe figure aussi (ligne 4)
-              devant le mot "conventui".</p>
-            <p>Ces traits graphiques montrent un acte visant à concilier fonctionnalité
-              et clarté. Un autre trait confirme l'absence de solennité. Trois mots,
-              répétés par erreur, sont, à la relecture, exponctués ; le scribe indique
-              ainsi qu'il ne faut pas en tenir compte. Une telle intervention traduit
-              à la fois la hâte relative avec laquelle l'acte a été couché par écrit ;
-              le soin avec lequel il a été relu ; une absence de solennité qui fait
-              accepter l'émission d'un acte ainsi corrigé : la chancellerie royale
-              l'aurait refait, un notaire public aurait signalé l'intervention dans la
-              formule de validation finale.</p>
-            
+            <p>L'acte est écrit sur un support de dimensions modestes (18 x 13 cm) ; l'écriture n'est pas spécialement tassée, mais la marge gauche est réduite, et les marges droite et inférieure inexistantes. Ce principe général d'économie se retrouve dans la modestie du repli ; il n'est pas forcément dû au fait que le scribe n'a plus guère de parchemin à sa disposition : il a très bien pu écrire l'acte sur un support plus long, destiné à plusieurs actes, ensuite découpé aux dimensions voulues.</p>
+            <p>L'espace est donc utilisé au maximum. Des mots sont coupés à huit fins de ligne sur dix-sept, et la coupure est indiquée, comme aujourd'hui par un trait d'union, avant d'éviter toute contestation d'interprétation. Ailleurs une lettre finale est étirée et suivie d'un point (ligne 9), la fin de la dernière ligne est occupée par traits étirés : souci d'empêcher une interpolation, souci esthétique aussi pour donner l'image d'un rectangle entièrement empli par l'écriture.</p>
+            <p>L'économie est aussi sobriété d'ornementation. Il n'y a pas grande conclusion à tirer de l'absence de signe figuré initial, dont l'usage a décliné au siècle précédent ; mais on note que l'écriture ne présente que trois initiales de mots tant soit peu grandies (leurs traits dédoublés ou grossis) : au début du texte, aux initiales du mot " Noverint " et du titre " Abbati ".</p>
+            <p>Mais l'écriture se caractérise aussi par une volonté de clarté, par l'usage du pointage des "i" et d'une scansion du texte par une ponctuation à deux éléments — traits qui sont alors devenus assez communs, mais sont ici assez appuyés, encore que jamais systématiques. On dénombre 49 "i" pointés contre 67 non pointés (dont un bon nombre surmontés d'un tilde qui empêche le pointage). Le pointage est très largement utilisé pour parer à d'éventuelles ambiguïtés de lecture, essentiellement quand le "i" est accompagné d'autres jambages (ainsi pour "Flaviacen." mais pas pour "Geremari"). Ce principe est moins appliqué dans les parties les parties les plus formulaires (pas de pointage à "in" ni à "noverint" en ligne 1), et surappliqué pour des noms propres ou termes juridiques (à commencer par "iuris"). La ponctuation mélange points et traits obliques. Elle découpe, sans rigidité et sans exclusive, des unités de sens plus que des unités grammaticales.</p>
+            <p>On retrouve les mêmes traits dans l'usage des deux points juxtaposés, marque très forte, devant le titre de l'auteur de l'acte, de la dépersonnalisation de son intervention ; le signe figure aussi (ligne 4) devant le mot "conventui".</p>
+            <p>Ces traits graphiques montrent un acte visant à concilier fonctionnalité et clarté. Un autre trait confirme l'absence de solennité. Trois mots, répétés par erreur, sont, à la relecture, exponctués ; le scribe indique ainsi qu'il ne faut pas en tenir compte. Une telle intervention traduit à la fois la hâte relative avec laquelle l'acte a été couché par écrit ; le soin avec lequel il a été relu ; une absence de solennité qui fait accepter l'émission d'un acte ainsi corrigé : la chancellerie royale l'aurait refait, un notaire public aurait signalé l'intervention dans la formule de validation finale.</p> 
           </div>
         </div>
         <div>
           <head>Langue, mots, style</head>
           <div>
-            <p><seg>Omnibus presentes litteras inspecturis</seg>, .
-              . <seg>officialis</seg> Belvacensis, salutem in
-              Domino. <seg>Noverint universi</seg> quod in nostra
-              <seg>constituti</seg> presentia Ricardus dictus
-              de <i>Gres </i>de Sancto Felice et Aya ejus uxor et Eufemia eorum filia
-              <seg>recognoverunt</seg> se imperpetuum
-              vendidisse pro communi eorum <seg>utilitate ac
-                necessitate</seg> abbati et conventui Sancti Geremari Flaviacensis
-              quamdam peciam terre sementis quam habebant ex <seg
-                > caduco</seg>Asceline de <i>Amuchi</i>, <seg
-                  >matertere</seg> dicti Ricardi, circiter sex minas continentem,
-              sitam ante mesum de <i>Amuchi</i> dictorum abbatis et conventus, quam ab
-              eisdem abbate et conventu <seg>tenebant ad
-                campipartem</seg>, pro centum et decem solidis parisiensium sibi a
-              dictis abbate et conventu plene et integre persolutis, ut ipsi Ricardus,
-              Aya ejus uxor et Eufemia eorum filia coram nobis <seg
-                rend="color:#FF0000">recognoverunt</seg> ; fidem coram nobis
-              prestantes <seg>corporalem</seg> predicti Ricardus,
-              Aya ejus uxor et Eufemia eorum filia, non <seg> vi
-                nec metu</seg> ad hoc inducte sed <seg>mera et
-                  spontanea</seg> voluntate sua, ut asserebant, quod ipsi decetero
-              ratione cujuscumque <seg>juris</seg>, et maxime
-              dicta Aya ratione <seg>dotis</seg>, in terra
-              predicta vendita per se vel per alium nichil <seg
-                >reclamabunt</seg> vel facient reclamari, sed super eadem terra
-              vendita dictis abbati et conventui contra omnes <seg
-                rend="color:#FF0000">legitimam</seg>portabunt <seg
-                  rend="color:#FF0000">garandiam</seg>; <seg
-                    >renuntiantes</seg>in hoc facto, fide data, <seg
-                      rend="color:#FF0000">excepcioni</seg>non numerate et non recepte
-              pecunie et omnibus aliis excepcionibus et <seg
-                >juris auxilio</seg> tam canonici quam civilis quod sibi contra
-              presens <seg>instrumentum</seg> posset prodesse et
-              dictis abbati et conventui <seg>
+            <p><seg>Omnibus presentes litteras inspecturis</seg>, . . <seg>officialis</seg> Belvacensis, salutem in Domino. <seg>Noverint universi</seg> quod in nostra
+              <seg>constituti</seg> presentia Ricardus dictus de <i>Gres </i>de Sancto Felice et Aya ejus uxor et Eufemia eorum filia
+              <seg>recognoverunt</seg> se imperpetuum vendidisse pro communi eorum <seg>utilitate ac necessitate</seg> abbati et conventui Sancti Geremari Flaviacensis quamdam peciam terre sementis quam habebant ex <seg > caduco</seg>Asceline de <i>Amuchi</i>, <seg >matertere</seg> dicti Ricardi, circiter sex minas continentem, sitam ante mesum de <i>Amuchi</i> dictorum abbatis et conventus, quam ab eisdem abbate et conventu <seg>tenebant ad campipartem</seg>, pro centum et decem solidis parisiensium sibi a dictis abbate et conventu plene et integre persolutis, ut ipsi Ricardus, Aya ejus uxor et Eufemia eorum filia coram nobis <seg rend="color:#FF0000">recognoverunt</seg> ; fidem coram nobis prestantes <seg>corporalem</seg> predicti Ricardus, Aya ejus uxor et Eufemia eorum filia, non <seg> vi nec metu</seg> ad hoc inducte sed <seg>mera et spontanea</seg> voluntate sua, ut asserebant, quod ipsi decetero ratione cujuscumque <seg>juris</seg>, et maxime dicta Aya ratione <seg>dotis</seg>, in terra predicta vendita per se vel per alium nichil <seg >reclamabunt</seg> vel facient reclamari, sed super eadem terra vendita dictis abbati et conventui contra omnes <seg rend="color:#FF0000">legitimam</seg>portabunt <seg rend="color:#FF0000">garandiam</seg>; <seg >renuntiantes</seg>in hoc facto, fide data, <seg rend="color:#FF0000">excepcioni</seg>non numerate et non recepte pecunie et omnibus aliis excepcionibus et <seg >juris auxilio</seg> tam canonici quam civilis quod sibi contra presens <seg>instrumentum</seg> posset prodesse et dictis abbati et conventui <seg>
                 <seg>prodesse</seg>
-              </seg> [<i>sic</i>]. <seg>In cujus rei
-                testimonium</seg>, presentes<seg>
-                  litteras</seg>sigillo curie Belvacensis <seg
-                    >fecimuscommuniri</seg>. Actum anno Domini M° CC° XL° octavo, die
-              lune post Jubilate.</p>
+              </seg> [<i>sic</i>]. <seg>In cujus rei testimonium</seg>, presentes<seg> litteras</seg>sigillo curie Belvacensis <seg >fecimuscommuniri</seg>. Actum anno Domini M° CC° XL° octavo, die lune post Jubilate.</p>
             <head>Commentaire</head>
-            <p>A l'image de la présentation formelle de l'acte, la rédaction de l'acte
-              est fonctionnelle. Le latin, parfaitement correct, ne s'encombre d'aucun
-              ornement littéraire. Il se laisse traduire de façon fluide, avec un
-              ordre des mots souvent identique (p. ex. "tenebant ad campipartem" =
-              "ils tenaient à champart"). Par une erreur d'optique, nous avons
-              tendance à penser que le rédacteur traduit mentalement du "français" en
-              latin de cuisine... N'est-ce pas plutôt ce latin technique qui est à la
-              source du "français" évolué ?</p>
-            <p>Noter des <seg>mots et formules diplomatiques
-              standardisés</seg>à l'extrême qui contribuent à rendre ces actes
-              presque interchangeables. Le texte regorge aussi d'<seg
-                rend="color:#FF0000">expressions techniques</seg>, précises,
-              chargées de décrire avec pertinence les réalités familiales, les
-              relations et situations de droit, la terre et son statut...</p>
-            <p>C'est sans doute à un même souci de clarté que l'on peut rapporter la
-              formule onomastique "Ricardus dictus de Gres de Sancto Felice". On peut
-              l'interpréter de deux façons au moins : "de Grez" serait une sorte de
-              surnom familial héréditaire, ou au contraire un sobriquet très personnel
-              ; "de Sancto Felice" a par contre toutes les chances d'indiquer le lieu
-              ordinaire de résidence. Quoi qu'il en soit, la formule indique un souci
-              de coller au réel que l'on retrouve aussi dans les précisions en matière
-              de toponymie ("mesum de Amuchi dictorum abbatis et conventus"), et que
-              partagent, plus au sud, les notaires publics.</p>
-            
-            <p>Il ressort donc essentiellement de cet examen le professionnalisme du
-              rédacteur. Mais, toujours comme pour les caractères externes, celui-ci
-              n'exclut pas hâte ou distraction. Goûter ainsi cette <seg
-                rend="color:#CC0099">bourde</seg>(dans le domaine des copies, elle
-              serait qualifiée de "persévération" : un lapsus fait répéter, à la place
-              d'un mot, un autre qui a déjà été rencontré). Non relevée, elle fait
-              dire à une clause juridique l'inverse de ce qu'elle devrait...</p>						
+            <p>A l'image de la présentation formelle de l'acte, la rédaction de l'acte est fonctionnelle. Le latin, parfaitement correct, ne s'encombre d'aucun ornement littéraire. Il se laisse traduire de façon fluide, avec un ordre des mots souvent identique (p. ex. "tenebant ad campipartem" = "ils tenaient à champart"). Par une erreur d'optique, nous avons tendance à penser que le rédacteur traduit mentalement du "français" en latin de cuisine... N'est-ce pas plutôt ce latin technique qui est à la source du "français" évolué ?</p>
+            <p>Noter des <seg>mots et formules diplomatiques standardisés</seg>à l'extrême qui contribuent à rendre ces actes presque interchangeables. Le texte regorge aussi d'<seg rend="color:#FF0000">expressions techniques</seg>, précises, chargées de décrire avec pertinence les réalités familiales, les relations et situations de droit, la terre et son statut...</p>
+            <p>C'est sans doute à un même souci de clarté que l'on peut rapporter la formule onomastique "Ricardus dictus de Gres de Sancto Felice". On peut l'interpréter de deux façons au moins : "de Grez" serait une sorte de surnom familial héréditaire, ou au contraire un sobriquet très personnel ; "de Sancto Felice" a par contre toutes les chances d'indiquer le lieu ordinaire de résidence. Quoi qu'il en soit, la formule indique un souci de coller au réel que l'on retrouve aussi dans les précisions en matière de toponymie ("mesum de Amuchi dictorum abbatis et conventus"), et que partagent, plus au sud, les notaires publics.</p> 
+            <p>Il ressort donc essentiellement de cet examen le professionnalisme du rédacteur. Mais, toujours comme pour les caractères externes, celui-ci n'exclut pas hâte ou distraction. Goûter ainsi cette <seg rend="color:#CC0099">bourde</seg>(dans le domaine des copies, elle serait qualifiée de "persévération" : un lapsus fait répéter, à la place d'un mot, un autre qui a déjà été rencontré). Non relevée, elle fait dire à une clause juridique l'inverse de ce qu'elle devrait...</p>						
           </div>
         </div>
         <div>
           <head>Parties du discours</head>
           <div>
             <p>
-              <seg corresp="adresse_universelle">Omnibus
-                presentes litteras inspecturis<note id="adresse_universelle"
-                  type="bulle">Adresse universelle</note></seg>
-              <seg corresp="suscription">officialis
-                Belvacensis<note id="suscription">Suscription.
-                  Noter une expression très dépersonnalisée, et la position de la
-                  suscription après l&#x2019;adresse (par déférence)</note></seg>
-              <seg corresp="salut">salutem in Domino.<note
-                id="salut">Salut. Le couple adresse+salut dénote
-                une rédaction coulée dans un moule épistolaire</note></seg>
-              <seg corresp="notification_universelle">Noverint
-                universi quod<note id="notification_universelle"
-                  >Notification universelle</note></seg>
-              <seg corresp="corps">in nostra constituti presentia
-                Ricardus dictus de <i>Gres</i> de Sancto Felice et Aya ejus uxor et
-                Eufemia eorum filia recognoverunt se imperpetuum vendidisse pro
-                communi eorum utilitate ac necessitate abbati et conventui Sancti
-                Geremari Flaviacensis quamdam peciam terre sementis quam habebant ex
-                caduco Asceline de <i>Amuchi</i>, matertere dicti Ricardi, circiter
-                sex minas continentem, sitam ante mesum de <i>Amuchi</i> dictorum
-                abbatis et conventus, quam ab eisdem abbate et conventu tenebant ad
-                campipartem, pro centum et decem solidis parisiensium sibi a dictis
-                abbate et conventu plene et integre persolutis, ut ipsi Ricardus,
-                Aya ejus uxor et Eufemia eorum filia coram nobis recognoverunt
-                ;<note id="corps">Corps de l&#x2019;acte. La
-                  distinction entre exposé et dispositif disparaît presque ici :
-                  l&#x2019;official dresse un procès-verbal, qui consigne la
-                  reconnaissance faite devant lui d&#x2019;une vente</note></seg>
-              <seg corresp="clause">fidem coram nobis prestantes
-                corporalem predicti Ricardus, Aya ejus uxor et Eufemia eorum filia,
-                non vi nec metu ad hoc inducte sed mera et spontanea voluntate sua,
-                ut asserebant, quod ipsi decetero ratione cujuscumque juris, et
-                maxime dicta Aya ratione dotis, in terra redicta vendita per se vel
-                per alium nichil reclamabunt vel facient reclamari,<note id="clause"
-                  type="bulle">Clause de promesse</note></seg>
-              <seg corresp="clause_garantie">sed super eadem
-                terra vendita dictis abbati et conventui contra omnes legitimam
-                portabunt garandiam ;<note id="clause_garantie">Clause
-                  de garantie</note></seg>
-              <seg corresp="clause_renonciation">renuntiantes in
-                hoc facto, fide data, excepcioni non numerate et non recepte pecunie
-                et omnibus aliis excepcionibus et juris auxilio tam canonici quam
-                civilis quod sibi contra presens instrumentum posset prodesse et
-                dictis abbati et conventui prodesse [sic]<note
-                  id="clause_ renonciation">Clause de
-                  renonciation</note></seg>
-              <seg corresp="corroboration">In cujus rei
-                testimonium, presentes litteras sigillo curie Belvacensis fecimus
-                communiri.<note id="corroboration">Corroboration
-                  probatoire avec annonce du sceau</note></seg>
-              <seg corresp="date_temps">Actum anno Domini M° CC°
-                XL° octavo, die lune post Jubilate.<note id="date_temps"
-                  type="bulle">Date de temps.</note></seg>
+              <seg corresp="adresse_universelle">Omnibus presentes litteras inspecturis<note id="adresse_universelle" type="bulle">Adresse universelle</note></seg>
+              <seg corresp="suscription">officialis Belvacensis<note id="suscription">Suscription. Noter une expression très dépersonnalisée, et la position de la suscription après l’adresse (par déférence)</note></seg>
+              <seg corresp="salut">salutem in Domino.<note id="salut">Salut. Le couple adresse+salut dénote une rédaction coulée dans un moule épistolaire</note></seg>
+              <seg corresp="notification_universelle">Noverint universi quod<note id="notification_universelle" >Notification universelle</note></seg>
+              <seg corresp="corps">in nostra constituti presentia Ricardus dictus de <i>Gres</i> de Sancto Felice et Aya ejus uxor et Eufemia eorum filia recognoverunt se imperpetuum vendidisse pro communi eorum utilitate ac necessitate abbati et conventui Sancti Geremari Flaviacensis quamdam peciam terre sementis quam habebant ex caduco Asceline de <i>Amuchi</i>, matertere dicti Ricardi, circiter sex minas continentem, sitam ante mesum de <i>Amuchi</i> dictorum abbatis et conventus, quam ab eisdem abbate et conventu tenebant ad campipartem, pro centum et decem solidis parisiensium sibi a dictis abbate et conventu plene et integre persolutis, ut ipsi Ricardus, Aya ejus uxor et Eufemia eorum filia coram nobis recognoverunt ;<note id="corps">Corps de l’acte. La distinction entre exposé et dispositif disparaît presque ici : l’official dresse un procès-verbal, qui consigne la reconnaissance faite devant lui d’une vente</note></seg>
+              <seg corresp="clause">fidem coram nobis prestantes corporalem predicti Ricardus, Aya ejus uxor et Eufemia eorum filia, non vi nec metu ad hoc inducte sed mera et spontanea voluntate sua, ut asserebant, quod ipsi decetero ratione cujuscumque juris, et maxime dicta Aya ratione dotis, in terra redicta vendita per se vel per alium nichil reclamabunt vel facient reclamari,<note id="clause" type="bulle">Clause de promesse</note></seg>
+              <seg corresp="clause_garantie">sed super eadem terra vendita dictis abbati et conventui contra omnes legitimam portabunt garandiam ;<note id="clause_garantie">Clause de garantie</note></seg>
+              <seg corresp="clause_renonciation">renuntiantes in hoc facto, fide data, excepcioni non numerate et non recepte pecunie et omnibus aliis excepcionibus et juris auxilio tam canonici quam civilis quod sibi contra presens instrumentum posset prodesse et dictis abbati et conventui prodesse [sic]<note id="clause_ renonciation">Clause de renonciation</note></seg>
+              <seg corresp="corroboration">In cujus rei testimonium, presentes litteras sigillo curie Belvacensis fecimus communiri.<note id="corroboration">Corroboration probatoire avec annonce du sceau</note></seg>
+              <seg corresp="date_temps">Actum anno Domini M° CC° XL° octavo, die lune post Jubilate.<note id="date_temps" type="bulle">Date de temps.</note></seg>
             </p>
           </div>
         </div>
         <div>
           <head>Interprétation</head>
           <div>
-            <p>L'analyse diplomatique qui vient d'être menée permet de comprendre 
-              l'articulation du discours, les recettes utilisées, mais aussi de 
-              mieux percevoir le partage des interventions entre : 
-              
-              un auteur de l'acte écrit, l'official, qui 
-              ne fait que notifier et authentifier (suscription et sceau doivent se 
-              correspondre), puisqu'il n'y ajoute pas "confirmation" ; 
-              sollicité pour son "autorité" pour délivrer 
-              un acte, cet auteur est aussi dépersonnalisé que le "sceau 
-              de la cour [d'officialité]" qu'il utilise ; cas extrême 
-              ici, on ne mentionne aucun délégué, aucun scripteur, 
-              en bref aucun responsable de la mise par écrit : cet acte 
-              est caractéristique du genre diplomatique le plus abstrait qu'ait 
-              imaginé le Moyen Âge ; fondé sur les trouvailles 
-              du droit canon (en particulier sur le concept de l'office), il est à 
-              la base de la diplomatique administrative contemporaine... ; 
-              un auteur de l'action juridique (ici une vente, un 
-              peu particulière puisqu'elle porte sur une terre déjà 
-              grevée d'une redevance au bénéfice du futur acquéreur), 
-              Richard et sa famille ; 
-              un bénéficiaire (qui conserve l'acte 
-              dans son chartrier), l'abbaye ; l'auteur de l'acte lui applique les 
-              mêmes principes qu'à lui-même : dépersonnalisation 
-              (le nom personnel de l'abbé n'est pas davantage cité), principes 
-              de droit canon (le convent doit donner son accord à la gestion 
-              de l'abbé) : cette force juridique est aussi, comparativement 
-              aux actes des siècles passés, une faiblesse en matière 
-              de prosopographie, mais il est vrai que les sources sont maintenant démultipliées. 
-              
-              
-              Deux plans très différents se conjoignent donc : au plan 
-              de la diplomatique, un acte d'officialité (l'une des multiples solutions 
-              imaginées pour donner authenticité aux actes "privés", 
-              aux contrats entre particuliers) ; pour le droit et l'histoire économique 
-              et sociale, la vente d'une terre tenue à champart.</p> 
-            <p>Le regeste de l'acte, ne retenant que les données factuelles, peut 
-              donc faire tomber les clauses, voire mettre en valeur la vente en signalant 
-              à la suite l'intervention de l'official. Ainsi :</p>
+            <p>L'analyse diplomatique qui vient d'être menée permet de comprendre  l'articulation du discours, les recettes utilisées, mais aussi de  mieux percevoir le partage des interventions entre :   un auteur de l'acte écrit, l'official, qui  ne fait que notifier et authentifier (suscription et sceau doivent se  correspondre), puisqu'il n'y ajoute pas "confirmation" ;  sollicité pour son "autorité" pour délivrer  un acte, cet auteur est aussi dépersonnalisé que le "sceau  de la cour [d'officialité]" qu'il utilise ; cas extrême  ici, on ne mentionne aucun délégué, aucun scripteur,  en bref aucun responsable de la mise par écrit : cet acte  est caractéristique du genre diplomatique le plus abstrait qu'ait  imaginé le Moyen Âge ; fondé sur les trouvailles  du droit canon (en particulier sur le concept de l'office), il est à  la base de la diplomatique administrative contemporaine... ;  un auteur de l'action juridique (ici une vente, un  peu particulière puisqu'elle porte sur une terre déjà  grevée d'une redevance au bénéfice du futur acquéreur),  Richard et sa famille ;  un bénéficiaire (qui conserve l'acte  dans son chartrier), l'abbaye ; l'auteur de l'acte lui applique les  mêmes principes qu'à lui-même : dépersonnalisation  (le nom personnel de l'abbé n'est pas davantage cité), principes  de droit canon (le convent doit donner son accord à la gestion  de l'abbé) : cette force juridique est aussi, comparativement  aux actes des siècles passés, une faiblesse en matière  de prosopographie, mais il est vrai que les sources sont maintenant démultipliées.    Deux plans très différents se conjoignent donc : au plan  de la diplomatique, un acte d'officialité (l'une des multiples solutions  imaginées pour donner authenticité aux actes "privés",  aux contrats entre particuliers) ; pour le droit et l'histoire économique  et sociale, la vente d'une terre tenue à champart.</p> 
+            <p>Le regeste de l'acte, ne retenant que les données factuelles, peut  donc faire tomber les clauses, voire mettre en valeur la vente en signalant  à la suite l'intervention de l'official. Ainsi :</p>
             <hi rend="i">1248, 11 mai.</hi>
-            <hi rend="i">L'official de Beauvais fait savoir que Richard de Grez, de 
-              Saint-Félix, a vendu à l'abbaye Saint-Germer-de-Fly une terre 
-              arable sise au metz de l'abbaye à Amuchy, qui lui venait de l'héritage 
-              de sa tante Asceline d'Amuchy et qu'il tenait à champart de l'abbaye, 
-              avec le consentement de son épouse Aya et de sa fille Euphémie, 
-              pour le prix de 110 sous parisis.</hi>
-            
+            <hi rend="i">L'official de Beauvais fait savoir que Richard de Grez, de  Saint-Félix, a vendu à l'abbaye Saint-Germer-de-Fly une terre  arable sise au metz de l'abbaye à Amuchy, qui lui venait de l'héritage  de sa tante Asceline d'Amuchy et qu'il tenait à champart de l'abbaye,  avec le consentement de son épouse Aya et de sa fille Euphémie,  pour le prix de 110 sous parisis.</hi> 
             <p>ou :</p>
-            <hi rend="i">Vente par Richard de Grez, de Saint-Félix, à 
-              l'abbaye Saint-Germer-de-Fly d'une terre arable sise au metz de l'abbaye 
-              à Amuchy, qui lui venait de l'héritage de sa tante Asceline 
-              d'Amuchy et qu'il tenait à champart de l'abbaye, avec le consentement 
-              de son épouse Aya et de sa fille Euphémie, pour le prix de 
-              110 sous parisis. Acte passé sous le sceau de l'officialité 
-              de Beauvais.</hi> 
-            <p>Le type d'écriture, les dimensions réduites, le peu de soin 
-              apporté à la présentation sont caractéristiques 
-              de ce type d'actes et communs à toutes les officialités, qui 
-              ont été un grand laboratoire d'innovations graphiques et de 
-              diffusion du droit savant appliqué : cette production est le 
-              fait d'un personnel de juristes et d'administrateurs, de formation commune, 
-              et qui suivent, pour la procédure et pour la rédaction des 
-              actes, des formulaires largement diffusés.</p>
-            <p>La notification, universelle, introduit de plain-pied, sans fioritures, 
-              dans la description précise de l'acte juridique notifié. Il 
-              faut être attentif aux mots clefs :<hi rend="i"> in nostra constituti 
-                presentia... recognoverunt</hi> (l. 2-3). C'est cette <hi rend="i">recognitio 
-                  in jure</hi> (la reconnaissance orale devant cour de justice d'un acte ou 
-              d'un fait juridique) qui donne à l'acte écrit toute sa valeur : 
-              la notification vaut sentence, le vendeur est par avance condamné 
-              à abandonner le bien. La formule renvoie directement au droit romain 
-              redécouvert : <hi rend="i">confessas in jure pro judicatis haberi placet</hi> 
-              (Code Justinien, 7, 59, 1 ; cf. aussi Digeste 42, 2, 1). La description 
-              proprement dite de l'action juridique n'occupe que cinq lignes et demie 
-              (l. 2-7), elle est faite avec sobriété et précision.</p>
-            
-            <p>Dans toute la suite de l'acte, jusqu'à la corroboration (l. 7-17), 
-              le droit savant reprend le dessus, avec une longue suite de clauses, destinées 
-              à prouver que l'acte est inattaquable : l'argent de la vente 
-              a bien été versé ; les vendeurs se sont engagés 
-              par serment (l. 9-10 : contester l'acte reviendrait donc à 
-              un parjure, que l'acheteur pourrait faire poursuivre devant un tribunal 
-              ecclésiastique) ; ils ont agi de leur plein gré (l. 10-11) ; 
-              ils s'engagent à ne pas "réclamer" contre l'acte : 
-              l'épouse du vendeur en particulier ne pourra attaquer l'acte en prétendant 
-              qu'une part de sa dot ait été ainsi aliénée 
-              (l. 11-13) ; ils promettent de garantir l'acte contre d'éventuels 
-              ayants droit qui contesteraient la vente (l. 13-14) ; ils renoncent 
-              par serment à exciper ultérieurement d'éventuelles 
-              "exceptions" : "pécune non nombrée" 
-              (l. 14-15), exceptions de toute nature (l. 15), "aide de 
-              droit canonique et civil" (l. 15-17). Toutes ces formules, appelées 
-              à enfler encore, n'ont plus guère d'intérêt que 
-              pour l'historien du droit, qui, en les mettant en série, suit leur 
-              diffusion.</p>
-            <p>L'acte se clôt par une courte corroboration probatoire, ici aussi 
-              très courante, avec annonce du sceau de la cour d'officialité 
-              (l. 17) et la date, d'année et de jour, exprimé par référence 
-              au calendrier liturgique, qui l'emporte très largement dans les actes 
-              du XIII<hi rend="sup">e</hi> siècle (l. 18-19).</p>
-            <p>Maîtrise du formulaire, longueur des clauses (la partie directement 
-              utile pour l'historien, date à part, occupe à peine le tiers 
-              du document) sont les deux caractéristiques principales du texte, 
-              qui trouvent leur source commune dans la formation juridique du rédacteur. 
-              Le fond des solutions mises en œuvre est le même que pour les 
-              notaires publics ; la principale différence tient à la 
-              validation par le sceau. Cette synthèse (parfaitement efficace) de 
-              la renaissance juridique et des pratiques septentrionales est symbolisée 
-              par la juxtaposition de deux termes pour désigner l'acte : le 
-              très technique <hi rend="i">instrumentum</hi> (terme typique aussi de l'acte 
-              notarié, (l. 16) et le très traditionnel <hi rend="i">litterae</hi> 
-              (l. 17).</p>						
-            <p>Noter toutefois la tension double qui traverse ce type de production : 							
-              volonté de clarté graphique, mais hâte qui peut 
-              tendre vers la cursivité, les bévues ; 
-              identique souci de clarté linguistique, mais risque d'obscurité 
-              de clauses et de formules de plus en plus savantes. 
+            <hi rend="i">Vente par Richard de Grez, de Saint-Félix, à  l'abbaye Saint-Germer-de-Fly d'une terre arable sise au metz de l'abbaye  à Amuchy, qui lui venait de l'héritage de sa tante Asceline  d'Amuchy et qu'il tenait à champart de l'abbaye, avec le consentement  de son épouse Aya et de sa fille Euphémie, pour le prix de  110 sous parisis. Acte passé sous le sceau de l'officialité  de Beauvais.</hi> 
+            <p>Le type d'écriture, les dimensions réduites, le peu de soin  apporté à la présentation sont caractéristiques  de ce type d'actes et communs à toutes les officialités, qui  ont été un grand laboratoire d'innovations graphiques et de  diffusion du droit savant appliqué : cette production est le  fait d'un personnel de juristes et d'administrateurs, de formation commune,  et qui suivent, pour la procédure et pour la rédaction des  actes, des formulaires largement diffusés.</p>
+            <p>La notification, universelle, introduit de plain-pied, sans fioritures,  dans la description précise de l'acte juridique notifié. Il  faut être attentif aux mots clefs :<hi rend="i"> in nostra constituti  presentia... recognoverunt</hi> (l. 2-3). C'est cette <hi rend="i">recognitio  in jure</hi> (la reconnaissance orale devant cour de justice d'un acte ou  d'un fait juridique) qui donne à l'acte écrit toute sa valeur :  la notification vaut sentence, le vendeur est par avance condamné  à abandonner le bien. La formule renvoie directement au droit romain  redécouvert : <hi rend="i">confessas in jure pro judicatis haberi placet</hi>  (Code Justinien, 7, 59, 1 ; cf. aussi Digeste 42, 2, 1). La description  proprement dite de l'action juridique n'occupe que cinq lignes et demie  (l. 2-7), elle est faite avec sobriété et précision.</p> 
+            <p>Dans toute la suite de l'acte, jusqu'à la corroboration (l. 7-17),  le droit savant reprend le dessus, avec une longue suite de clauses, destinées  à prouver que l'acte est inattaquable : l'argent de la vente  a bien été versé ; les vendeurs se sont engagés  par serment (l. 9-10 : contester l'acte reviendrait donc à  un parjure, que l'acheteur pourrait faire poursuivre devant un tribunal  ecclésiastique) ; ils ont agi de leur plein gré (l. 10-11) ;  ils s'engagent à ne pas "réclamer" contre l'acte :  l'épouse du vendeur en particulier ne pourra attaquer l'acte en prétendant  qu'une part de sa dot ait été ainsi aliénée  (l. 11-13) ; ils promettent de garantir l'acte contre d'éventuels  ayants droit qui contesteraient la vente (l. 13-14) ; ils renoncent  par serment à exciper ultérieurement d'éventuelles  "exceptions" : "pécune non nombrée"  (l. 14-15), exceptions de toute nature (l. 15), "aide de  droit canonique et civil" (l. 15-17). Toutes ces formules, appelées  à enfler encore, n'ont plus guère d'intérêt que  pour l'historien du droit, qui, en les mettant en série, suit leur  diffusion.</p>
+            <p>L'acte se clôt par une courte corroboration probatoire, ici aussi  très courante, avec annonce du sceau de la cour d'officialité  (l. 17) et la date, d'année et de jour, exprimé par référence  au calendrier liturgique, qui l'emporte très largement dans les actes  du XIII<hi rend="sup">e</hi> siècle (l. 18-19).</p>
+            <p>Maîtrise du formulaire, longueur des clauses (la partie directement  utile pour l'historien, date à part, occupe à peine le tiers  du document) sont les deux caractéristiques principales du texte,  qui trouvent leur source commune dans la formation juridique du rédacteur.  Le fond des solutions mises en œuvre est le même que pour les  notaires publics ; la principale différence tient à la  validation par le sceau. Cette synthèse (parfaitement efficace) de  la renaissance juridique et des pratiques septentrionales est symbolisée  par la juxtaposition de deux termes pour désigner l'acte : le  très technique <hi rend="i">instrumentum</hi> (terme typique aussi de l'acte  notarié, (l. 16) et le très traditionnel <hi rend="i">litterae</hi>  (l. 17).</p>						
+            <p>Noter toutefois la tension double qui traverse ce type de production : 							 volonté de clarté graphique, mais hâte qui peut  tendre vers la cursivité, les bévues ;  identique souci de clarté linguistique, mais risque d'obscurité  de clauses et de formules de plus en plus savantes. 
             </p>						
           </div>
         </div>				

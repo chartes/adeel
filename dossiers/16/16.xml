@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Lettre de Philippon de Bonnay. [1417], 20 juin.</title>
-			</titleStmt>
-			<publicationStmt>
-				<idno type="numero">16</idno>
-				<publisher>École nationale des chartes</publisher>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Orig. : Arch. mun. Lyon.</p>
-				<p>Fac-sim. ENC : NF 138 (héliogravure).</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language id="frm">Ancien français</language>
-				<language id="fre">Français</language>
-			</langUsage>
-		</profileDesc>
+	<teiHeader> 	<fileDesc> 	<titleStmt> 	<title>Lettre de Philippon de Bonnay. [1417], 20 juin.</title> 	</titleStmt> 	<publicationStmt> 	<idno type="numero">16</idno> 	<publisher>École nationale des chartes</publisher> 	</publicationStmt> 	<sourceDesc> 	<p>Orig. : Arch. mun. Lyon.</p> 	<p>Fac-sim. ENC : NF 138 (héliogravure).</p> 	</sourceDesc> 	</fileDesc> 	<profileDesc> 	<langUsage> 	<language id="frm">Ancien français</language> 	<language id="fre">Français</language> 	</langUsage> 	</profileDesc>
 	</teiHeader>
-	<text>
-		<body>
-			<div type="facsimile">
-			    <p>
+	<text> 	<body> 	<div type="facsimile"> 	    <p>
                                                     <seg rend="11,53,190,71">Treschi<ex>er</ex>s frerez</seg>
                                                     <seg rend="180,20,323,38"><ex>et</ex> gr<ex>an</ex>s amis.</seg>
                                                     <seg rend="206,62,651,77">Je me re<ex>com</ex>mens a vo<ex>us</ex> par m<ex>ou</ex>t de foys.</seg>
@@ -53,7 +31,7 @@
                                                     <seg rend="9,266,400,280">syen, je vuilh <ex>com</ex>me vo<ex>us</ex> vodréz.</seg>
                                                     <seg rend="424,277,839,292">Quar vo<ex>us</ex> savéz q<ex>ue</ex> ung estreng<ex>ier</ex></seg>
                                                     <seg rend="852,283,1080,303">vo<ex>us</ex> ne le soffreryéz</seg>
-                                                    <seg rend="14,297,590,318">point, et aussit je n&#x2019;en sauroye point trov<ex>er</ex>,</seg>
+                                                    <seg rend="14,297,590,318">point, et aussit je n’en sauroye point trov<ex>er</ex>,</seg>
                                                     <seg rend="600,310,1084,329">se vo<ex>us</ex> mesmez ne le trovéz [quar]</seg>
                                                     <seg rend="26,327,341,343">et des vost<ex>re</ex>s gens mesmez,</seg>
                                                     <seg rend="368,333,733,351">quar vo<ex>us</ex> savéz se covoytise</seg>
@@ -85,11 +63,8 @@
                                                     <seg rend="306,574,769,594">N<ex>ost</ex>ressegneur vo<ex>us</ex> doint bonne vye et lo<ex>n</ex>gue.</seg>
                                                     <seg rend="787,589,1059,608">Esc<ex>r</ex>ipt a S<ex>aint</ex> Saforin</seg>
                                                     <seg rend="16,600,380,614">le Chastel, le XXe jour de jui[n]g.</seg>
-                                                    <seg rend="622,635,1086,672">[Signé :] Philippon de Bo<ex>n</ex>nay, balhif de Mascon, senechal de Lyon.</seg>
-			   </p>
-                                              </div>
-			    <div type="text">
-			        <div type="transcription">
+                                                    <seg rend="622,635,1086,672">[Signé :] Philippon de Bo<ex>n</ex>nay, balhif de Mascon, senechal de Lyon.</seg> 	   </p>
+                                              </div> 	    <div type="text"> 	        <div type="transcription">
                                                         <l>Treschi<ex>er</ex>s frerez <ex>et</ex> gr<ex>an</ex>s amis. Je me re<ex>com</ex>mens a vo<ex>us</ex> </l>
                                                         <l>par m<ex>ou</ex>t* de foys.  [* Cf. mout en toutes lettres à l'avant-dernière ligne.]</l>
                                                         <l>Vo<ex>us</ex> m’esc<ex>ri</ex>svéz q<ex>ue</ex> Endré Chevryer</l>
@@ -133,10 +108,7 @@
                                                         <l>le Chastel, le XXe jour de jui[n]g.</l>
                                                         <l>[Signé :] </l>
                                                         <l>Philippon de Bo<ex>n</ex>nay, balhif de Mascon, senechal </l>
-                                                        <l>de Lyon. </l>
-			        </div>
-			        <div type="traduction">
-			            <l>Très chers frères et grands amis, je me recommande à</l>
+                                                        <l>de Lyon. </l> 	        </div> 	        <div type="translation"> 	            <l>Très chers frères et grands amis, je me recommande à</l>
                                                         <l>vous mille fois. Vous m’écrivez qu’André Chevrier,</l>
                                                         <l>mon lieutenant de capitaine, a démissionné.</l>
                                                         <l>Il n’a pas fait son devoir en ne me l’ayant</l>
@@ -176,9 +148,6 @@
                                                         <l/>
                                                         <l>[Signé :]</l>
                                                         <l>PHILIPPON DE BONNAY, bailli de Mâcon, sénéchal</l>
-                                                        <l>de Lyon.</l>
-			        </div>
-			    </div>
-		</body>
+                                                        <l>de Lyon.</l> 	        </div> 	    </div> 	</body>
 	</text>
 </TEI>

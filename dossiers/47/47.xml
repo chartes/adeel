@@ -21,7 +21,7 @@
         <body>
             <div type="facsimile">
                 <p>
-                    <seg rend="25,12,29,90,380,85,380,62,76,67,57,9" n="poly">Robertus, Dei gr<ex>aci</ex>a rex Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Sicilie,</seg>
+                    <seg rend="25,12,29,90,380,85,380,62,76,67,57,9">Robertus, Dei gr<ex>aci</ex>a rex Jer<ex>usa</ex>l<ex>e</ex>m <ex>et</ex> Sicilie,</seg>
                     <seg rend="396,58,736,75">ducatus Apulie <ex>et</ex> principatus Capue,</seg>
                     <seg rend="748,56,1132,75">Provi<ex>n</ex>cie <ex>et</ex> Forcalqu<ex>er</ex>ii ac Pedimo<ex>n</ex>tis comes,</seg>
                     <seg rend="1139,63,1593,90">. . vicario, judici <ex>et</ex> clavario Tarasconis, fidelib<ex>us</ex></seg>
@@ -30,43 +30,43 @@
                     <seg rend="1222,102,1598,129">q<ex>uo</ex>d ip<ex>s</ex>i ac successores eo<ex>rum</ex> blada seu legu-</seg>
                     <seg rend="49,140,349,160">-mina quocu<ex>m</ex>q<ex>ue</ex> vocabulo censerent<ex>ur</ex></seg>
                     <seg rend="359,132,822,152">p<ex>ro</ex>veniencia ex territoriis d<ex>i</ex>c<ex>t</ex>i castri extrahere possint</seg>
-                    <seg rend="828,131,826,148,1069,153,1609,169,1612,152,1075,136" n="poly">libere <ex>et</ex> ubicu<ex>m</ex>q<ex>ue</ex> exceptis inimicor<ex>um</ex> terris ea deferre p<ex>ro</ex> eor<ex>um</ex> libito voluntat<ex>is</ex> p<ex>ro</ex>ut hec <ex>et</ex></seg>
-                    <seg rend="46,184,46,205,416,187,416,171" n="poly">alia in ip<ex>s</ex>is n<ex>ost</ex>ris l<ex>itte</ex>ris clarius distingunt<ex>ur</ex>,</seg>
-                    <seg rend="425,171,427,193,557,184,1018,189,1022,173,560,166" n="poly" >p<ex>ro</ex>pt<ex>er</ex> quod ho<ex>m</ex>i<ex>n</ex>es ip<ex>s</ex>i certu<ex>m</ex> pecuniale subsidiu<ex>m</ex> n<ex>ost</ex>re curie p<ex>ro</ex>mis<ex>er</ex>unt.</seg>
-                    <seg rend="1038,167,1037,188,1604,201,1609,182" n="poly">Et quia, sicut audivimus, no<ex>n</ex>nulli d<ex>e</ex> p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>o castro in p<ex>re</ex>fato pe-</seg>
-                    <seg rend="47,220,48,239,384,231,384,213" n="poly">-cuniali subsidio contribuere renuu<ex>n</ex>t,</seg>
-                    <seg rend="395,211,396,233,779,219,1389,234,1391,212,778,200" n="poly" >presenciu<ex>m</ex> tenore decernimus om<ex>n</ex>es <ex>et</ex> singulos renitentes hujusmodi <ex>et</ex> successores eor<ex>um</ex> om<ex>n</ex>ino privari,</seg>
-                    <seg rend="1402,217,1400,238,1599,241,1600,224" n="poly">quos <ex>et</ex> nos exnunc</seg>
-                    <seg rend="51,257,51,278,449,266,448,247" n="poly">simili modo p<ex>r</ex>ivam<ex>us</ex>, ip<ex>s</ex>ius gr<ex>aci</ex>e n<ex>ost</ex>re fructu.</seg>
-                    <seg rend="466,242,473,265,894,262,1093,272,1296,268,1296,250,1095,252,894,243" n="poly">Volumus igitur et de certa scientia nostra presencium tenore mandamus quatinus vos, officiales predicti,</seg>
+                    <seg rend="828,131,826,148,1069,153,1609,169,1612,152,1075,136">libere <ex>et</ex> ubicu<ex>m</ex>q<ex>ue</ex> exceptis inimicor<ex>um</ex> terris ea deferre p<ex>ro</ex> eor<ex>um</ex> libito voluntat<ex>is</ex> p<ex>ro</ex>ut hec <ex>et</ex></seg>
+                    <seg rend="46,184,46,205,416,187,416,171">alia in ip<ex>s</ex>is n<ex>ost</ex>ris l<ex>itte</ex>ris clarius distingunt<ex>ur</ex>,</seg>
+                    <seg rend="425,171,427,193,557,184,1018,189,1022,173,560,166" >p<ex>ro</ex>pt<ex>er</ex> quod ho<ex>m</ex>i<ex>n</ex>es ip<ex>s</ex>i certu<ex>m</ex> pecuniale subsidiu<ex>m</ex> n<ex>ost</ex>re curie p<ex>ro</ex>mis<ex>er</ex>unt.</seg>
+                    <seg rend="1038,167,1037,188,1604,201,1609,182">Et quia, sicut audivimus, no<ex>n</ex>nulli d<ex>e</ex> p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>o castro in p<ex>re</ex>fato pe-</seg>
+                    <seg rend="47,220,48,239,384,231,384,213">-cuniali subsidio contribuere renuu<ex>n</ex>t,</seg>
+                    <seg rend="395,211,396,233,779,219,1389,234,1391,212,778,200" >presenciu<ex>m</ex> tenore decernimus om<ex>n</ex>es <ex>et</ex> singulos renitentes hujusmodi <ex>et</ex> successores eor<ex>um</ex> om<ex>n</ex>ino privari,</seg>
+                    <seg rend="1402,217,1400,238,1599,241,1600,224">quos <ex>et</ex> nos exnunc</seg>
+                    <seg rend="51,257,51,278,449,266,448,247">simili modo p<ex>r</ex>ivam<ex>us</ex>, ip<ex>s</ex>ius gr<ex>aci</ex>e n<ex>ost</ex>re fructu.</seg>
+                    <seg rend="466,242,473,265,894,262,1093,272,1296,268,1296,250,1095,252,894,243">Volumus igitur et de certa scientia nostra presencium tenore mandamus quatinus vos, officiales predicti,</seg>
                     <seg rend="1311,253,1610,272">officior<ex>um</ex> ves<ex>t</ex>ror<ex>um</ex> temporibus</seg>
-                    <seg rend="50,298,49,315,362,302,361,284" n="poly">renitentes eosdem ip<ex>s</ex>or<ex>um</ex>q<ex>ue</ex> posteros</seg>
-                    <seg rend="376,282,375,302,1177,308,1179,288" n="poly">uti prefata n<ex>ost</ex>ra gr<ex>aci</ex>a nullatenus p<ex>er</ex>mittatis <ex>con</ex>tra huj<ex>us</ex>mo<ex>d</ex>i decreti n<ex>ost</ex>ri mente<ex>m</ex> <ex>et</ex> serie<ex>m</ex></seg>
+                    <seg rend="50,298,49,315,362,302,361,284">renitentes eosdem ip<ex>s</ex>or<ex>um</ex>q<ex>ue</ex> posteros</seg>
+                    <seg rend="376,282,375,302,1177,308,1179,288">uti prefata n<ex>ost</ex>ra gr<ex>aci</ex>a nullatenus p<ex>er</ex>mittatis <ex>con</ex>tra huj<ex>us</ex>mo<ex>d</ex>i decreti n<ex>ost</ex>ri mente<ex>m</ex> <ex>et</ex> serie<ex>m</ex></seg>
                     <seg rend="1181,291,1608,312">et p<ex>re</ex>sentis n<ex>ost</ex>re pagine jussione<ex>m</ex>. Dat<ex>um</ex> Avi-</seg>
-                    <seg rend="565,319,564,341,412,330,175,349,53,348,51,331,186,334,415,316" n="poly">-nion<ex>e</ex> p<ex>er</ex> magistrum Matheu<ex>m</ex> Filmarinum de Neapoli,</seg>
-                    <seg rend="566,316,567,335,787,340,991,340,1188,349,1188,333,946,322,787,326" n="poly">utri<ex>us</ex>q<ex>ue</ex> juris p<ex>ro</ex>fessore<ex>m</ex>, locum tenente<ex>m</ex>
-                        <term n="Le protonotaire, depuis l&#x2019;époque des rois normands, était au sens strict le premier des notaires (le terme et l&#x2019;institution sont d&#x2019;empreinte byzantine) ; sous l&#x2019;autorité du chancelier, il avait la haute main sur la rédaction et l&#x2019;établissement des actes." >prothonotarii</term> regni Sicil<ex>ie</ex>,</seg>
+                    <seg rend="565,319,564,341,412,330,175,349,53,348,51,331,186,334,415,316">-nion<ex>e</ex> p<ex>er</ex> magistrum Matheu<ex>m</ex> Filmarinum de Neapoli,</seg>
+                    <seg rend="566,316,567,335,787,340,991,340,1188,349,1188,333,946,322,787,326">utri<ex>us</ex>q<ex>ue</ex> juris p<ex>ro</ex>fessore<ex>m</ex>, locum tenente<ex>m</ex>
+                        <term n="Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes." >prothonotarii</term> regni Sicil<ex>ie</ex>,</seg>
                     <seg rend="1203,333,1601,352">dil<ex>e</ex>ctum consiliariu<ex>m</ex>, familiare<ex>m</ex> <ex>et</ex> fidelem</seg>
-                    <seg rend="54,370,56,388,242,380,444,373,528,374,528,358,323,360" n="poly" >n<ex>ost</ex>r<ex>u</ex>m, anno Domini M° CCCXX°, die XXIIII° augusti,</seg>
-                    <seg rend="539,360,539,376,624,378,806,379,805,364" n="poly">IIIe <term n="L&#x2019;indiction indique le rang d&#x2019;une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l&#x2019;indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées." >ind<ex>ictionis</ex></term>, regnor<ex>um</ex> nostror<ex>um</ex> a<ex>n</ex>no XII°.</seg>
+                    <seg rend="54,370,56,388,242,380,444,373,528,374,528,358,323,360" >n<ex>ost</ex>r<ex>u</ex>m, anno Domini M° CCCXX°, die XXIIII° augusti,</seg>
+                    <seg rend="539,360,539,376,624,378,806,379,805,364">IIIe <term n="L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées." >ind<ex>ictionis</ex></term>, regnor<ex>um</ex> nostror<ex>um</ex> a<ex>n</ex>no XII°.</seg>
                </p>
             </div>
             <div type="text">
                 <div type="transcription">
-                    <l><term n="Robert II dit le Sage, petit-fils de Charles Ier d&#x2019;Anjou (+ 1285), roi de 1309 à 1343." >Robertus</term>, Dei gr<ex>aci</ex>a rex <term n="Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d&#x2019;Antioche en 1277. Depuis la chute d&#x2019;Acre en 1291, le royaume n&#x2019;avait plus de base territoriale." >Jer<ex>usa</ex>l<ex>e</ex>m</term> <ex>et</ex>
+                    <l><term n="Robert II dit le Sage, petit-fils de Charles Ier d’Anjou (+ 1285), roi de 1309 à 1343." >Robertus</term>, Dei gr<ex>aci</ex>a rex <term n="Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d’Antioche en 1277. Depuis la chute d’Acre en 1291, le royaume n’avait plus de base territoriale." >Jer<ex>usa</ex>l<ex>e</ex>m</term> <ex>et</ex>
                     </l>
-                    <l><term n="Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l&#x2019;Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l&#x2019;invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l&#x2019;habitude de les appeler « rois de Naples »." >Sicilie</term>, ducatus <term n="Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale." >Apulie</term> <ex>et</ex> principatus </l>
+                    <l><term n="Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l’Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l’invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l’habitude de les appeler « rois de Naples »." >Sicilie</term>, ducatus <term n="Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale." >Apulie</term> <ex>et</ex> principatus </l>
                     <l><term n="La principauté de Capoue avait été unie au royaume de Sicile en 1156 ; même remarque que pour la Pouille." >Capue</term>, </l>
                     <l><term n="Charles Ier était devenu comte de Provence du chef de son épouse Béatrice, héritière du comté, en 1245/1246." >Provi<ex>n</ex>cie</term> <ex>et</ex> Forcalqu<ex>er</ex>ii ac </l>
-                    <l><term n="La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s&#x2019;il était loin de contrôler toute la région." >Pedimo<ex>n</ex>tis</term> comes, . . <term n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l&#x2019;administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s&#x2019;occupait des affaires financières et percevait les droits comtaux." >vicario, judici <ex>et</ex></term>
+                    <l><term n="La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s’il était loin de contrôler toute la région." >Pedimo<ex>n</ex>tis</term> comes, . . <term n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l’administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s’occupait des affaires financières et percevait les droits comtaux." >vicario, judici <ex>et</ex></term>
                     </l>
-                    <l><term n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l&#x2019;administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s&#x2019;occupait des affaires financières et percevait les droits comtaux." >clavario</term>
+                    <l><term n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l’administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s’occupait des affaires financières et percevait les droits comtaux." >clavario</term>
                         <term n="Tarascon, Bouches-du-Rhône, ch.-l. cant.">Tarasconis</term>, fidelib<ex>us</ex></l>
                     <l>suis, gracia<ex>m</ex>
                     </l>
                     <l>sua<ex>m</ex> <ex>et</ex> bonam voluntatem. Concessimus </l>
-                    <l><term n="L&#x2019;adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d&#x2019;un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous." >pridie</term> de sp<ex>eci</ex>ali gr<ex>aci</ex>a hominib<ex>us</ex> d<ex>i</ex>c<ex>t</ex>i </l>
-                    <l><term n="L&#x2019;acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n&#x2019;ayant pas le statut de civitas épiscopale." >castri</term> Tarasconis p<ex>er</ex> alias n<ex>ost</ex>ras patentes </l>
+                    <l><term n="L’adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d’un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous." >pridie</term> de sp<ex>eci</ex>ali gr<ex>aci</ex>a hominib<ex>us</ex> d<ex>i</ex>c<ex>t</ex>i </l>
+                    <l><term n="L’acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n’ayant pas le statut de civitas épiscopale." >castri</term> Tarasconis p<ex>er</ex> alias n<ex>ost</ex>ras patentes </l>
                     <l>l<ex>itte</ex>ras q<ex>uo</ex>d ip<ex>s</ex>i ac successores eo<ex>rum</ex>
                     </l>
                     <l>blada seu legumina quocu<ex>m</ex>q<ex>ue</ex> vocabulo </l>
@@ -105,40 +105,40 @@
                     <l>magistrum Matheu<ex>m</ex> Filmarinum de </l>
                     <l>Neapoli, <term n="Les deux droits sont le droit civil (ou « romain ») et le droit canon." >utri<ex>us</ex>q<ex>ue</ex> juris</term> p<ex>ro</ex>fessore<ex>m</ex>, </l>
                     <l>locum tenente<ex>m</ex>
-                        <term n="Le protonotaire, depuis l&#x2019;époque des rois normands, était au sens strict le premier des notaires (le terme et l&#x2019;institution sont d&#x2019;empreinte byzantine) ; sous l&#x2019;autorité du chancelier, il avait la haute main sur la rédaction et l&#x2019;établissement des actes." >prothonotarii</term> regni Sicil<ex>ie</ex>, </l>
+                        <term n="Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes." >prothonotarii</term> regni Sicil<ex>ie</ex>, </l>
                     <l>dil<ex>e</ex>ctum consiliariu<ex>m</ex>, familiare<ex>m</ex> <ex>et</ex>
                     </l>
                     <l>fidelem n<ex>ost</ex>r<ex>u</ex>m, anno Domini </l>
                     <l>M° CCCXX°, die XXIIII° augusti, IIIe </l>
-                    <l><term n="L&#x2019;indiction indique le rang d&#x2019;une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l&#x2019;indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées." >ind<ex>ictionis</ex></term>, regnor<ex>um</ex> nostror<ex>um</ex>
+                    <l><term n="L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées." >ind<ex>ictionis</ex></term>, regnor<ex>um</ex> nostror<ex>um</ex>
                     </l>
                     <l>a<ex>n</ex>no XII°. </l>
                     <l>[ Au verso de la queue : ] <term n="Portée au verso de la queue, le mot semble avoir été écrit avant scellement, comme une sorte de visa : « [Le] sceau [peut être apposé] »." >Signum</term>.</l>
                 </div>
-                <div type="traduction">
-                    <l><term n="Robert II dit le Sage, petit-fils de Charles Ier d&#x2019;Anjou (+ 1285), roi de 1309 à 1343." >Robert</term>, par la grâce de Dieu roi de </l>
-                    <l><term n="Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d&#x2019;Antioche en 1277. Depuis la chute d&#x2019;Acre en 1291, le royaume n&#x2019;avait plus de base territoriale." >Jérusalem</term> et de <term n="Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l&#x2019;Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l&#x2019;invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l&#x2019;habitude de les appeler « rois de Naples »." >Sicile</term>, du duché de <term n="Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale." >Pouille</term></l>
+                <div type="translation">
+                    <l><term n="Robert II dit le Sage, petit-fils de Charles Ier d’Anjou (+ 1285), roi de 1309 à 1343." >Robert</term>, par la grâce de Dieu roi de </l>
+                    <l><term n="Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d’Antioche en 1277. Depuis la chute d’Acre en 1291, le royaume n’avait plus de base territoriale." >Jérusalem</term> et de <term n="Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l’Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l’invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l’habitude de les appeler « rois de Naples »." >Sicile</term>, du duché de <term n="Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale." >Pouille</term></l>
                     <l>et du principat de <term n="La principauté de Capoue avait été unie au royaume de Sicile en 1156 ; même remarque que pour la Pouille." >Capoue</term>, comte de </l>
-                    <l><term n="Charles Ier était devenu comte de Provence du chef de son épouse Béatrice, héritière du comté, en 1245/1246." >Provence</term> et <term n="Le comte de Provence Raimond-Bérenger V (1217-1245) avait hérité de sa mère le comté de Forcalquier ; le souvenir de cette union demeura ensuite dans la titulature comtale." >Forcalquier</term> et de <term n="La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s&#x2019;il était loin de contrôler toute la région." >Piémont</term>, aux </l>
-                    <l><term n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l&#x2019;administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s&#x2019;occupait des affaires financières et percevait les droits comtaux." >viguier, juge et clavaire</term> de <term n="Tarascon, Bouches-du-Rhône, ch.-l. cant.">Tarascon</term>, ses </l>
+                    <l><term n="Charles Ier était devenu comte de Provence du chef de son épouse Béatrice, héritière du comté, en 1245/1246." >Provence</term> et <term n="Le comte de Provence Raimond-Bérenger V (1217-1245) avait hérité de sa mère le comté de Forcalquier ; le souvenir de cette union demeura ensuite dans la titulature comtale." >Forcalquier</term> et de <term n="La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s’il était loin de contrôler toute la région." >Piémont</term>, aux </l>
+                    <l><term n="Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l’administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s’occupait des affaires financières et percevait les droits comtaux." >viguier, juge et clavaire</term> de <term n="Tarascon, Bouches-du-Rhône, ch.-l. cant.">Tarascon</term>, ses </l>
                     <l>fidèles, grâce et bienveillance. Nous avons </l>
-                    <l><term n="L&#x2019;adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d&#x2019;un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous." >hier</term> concédé, de notre grâce spéciale, aux </l>
-                    <l>hommes du <term n="L&#x2019;acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n&#x2019;ayant pas le statut de civitas épiscopale." >château</term> de Tarascon par </l>
-                    <l>d&#x2019;autres lettres patentes la liberté pour eux </l>
+                    <l><term n="L’adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d’un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous." >hier</term> concédé, de notre grâce spéciale, aux </l>
+                    <l>hommes du <term n="L’acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n’ayant pas le statut de civitas épiscopale." >château</term> de Tarascon par </l>
+                    <l>d’autres lettres patentes la liberté pour eux </l>
                     <l>et leurs successeurs de faire sortir leurs </l>
-                    <l>grains et légumes, de quelque nom qu&#x2019;ils </l>
+                    <l>grains et légumes, de quelque nom qu’ils </l>
                     <l>soient désignés, du finage dudit château et </l>
                     <l>de les porter partout où ils voudront, sauf </l>
                     <l>dans les terres de nos ennemis, comme cela </l>
-                    <l>et d&#x2019;autres choses encore sont plus </l>
+                    <l>et d’autres choses encore sont plus </l>
                     <l>clairement exposées en nos autres lettres, </l>
                     <l>en échange de quoi lesdits hommes ont </l>
                     <l>promis à notre cour certain subside </l>
-                    <l>d&#x2019;argent. Et comme, ainsi que nous l&#x2019;avons </l>
+                    <l>d’argent. Et comme, ainsi que nous l’avons </l>
                     <l>entendu, certains dudit château refusent de </l>
                     <l>contribuer audit subside, par la teneur des </l>
                     <l>présentes nous décidons que tous ces </l>
-                    <l>récalcitrants, chacun d&#x2019;eux et leurs </l>
+                    <l>récalcitrants, chacun d’eux et leurs </l>
                     <l>successeurs seront du tout privés &#168; et </l>
                     <l>désormais semblablement les privons &#168; du </l>
                     <l>bénéfice de notredite grâce. Nous voulons </l>
@@ -147,22 +147,22 @@
                     <l>nos susdits officiers, durant le temps de vos </l>
                     <l>offices, ne laissiez nullement lesdits </l>
                     <l>récalcitrants et leurs descendants jouir de </l>
-                    <l>notre susdite grâce, ce qui irait à l&#x2019;encontre </l>
-                    <l>de l&#x2019;esprit et de la lettre de notre décret et </l>
+                    <l>notre susdite grâce, ce qui irait à l’encontre </l>
+                    <l>de l’esprit et de la lettre de notre décret et </l>
                     <l>des injonctions de ce présent acte. Donné à </l>
                     <l>Avignon par notre cher conseiller, familier </l>
                     <l>et fidèle, maître Matteo Filmarino de </l>
                     <l>Naples, professeur des <term n="Les deux droits sont le droit civil (ou « romain ») et le droit canon." >deux droits</term>, </l>
-                    <l>lieutenant du <term n="Le protonotaire, depuis l&#x2019;époque des rois normands, était au sens strict le premier des notaires (le terme et l&#x2019;institution sont d&#x2019;empreinte byzantine) ; sous l&#x2019;autorité du chancelier, il avait la haute main sur la rédaction et l&#x2019;établissement des actes." >protonotaire</term> du royaume de </l>
-                    <l>Sicile, l&#x2019;an du Seigneur 1000 et 320, le 24<hi rend="sup" >e</hi>
+                    <l>lieutenant du <term n="Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes." >protonotaire</term> du royaume de </l>
+                    <l>Sicile, l’an du Seigneur 1000 et 320, le 24<hi rend="sup" >e</hi>
                     </l>
-                    <l>jour d&#x2019;août, <term n="L&#x2019;indiction indique le rang d&#x2019;une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l&#x2019;indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées." >indiction</term> 3<hi rend="sup">e</hi>, l&#x2019;an 12<hi rend="sup">e</hi> de nos </l>
+                    <l>jour d’août, <term n="L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées." >indiction</term> 3<hi rend="sup">e</hi>, l’an 12<hi rend="sup">e</hi> de nos </l>
                     <l>règnes.</l>
                     <l>[ Au verso de la queue : ] <term n="Portée au verso de la queue, le mot semble avoir été écrit avant scellement, comme une sorte de visa : « [Le] sceau [peut être apposé] »." >Sceau</term>. </l>
                 </div>
                 <div type="regeste">
                     <head>1320, 24 août. - Avignon.</head>
-                    <p>Robert [II] roi de Sicile mande à ses viguier, juge et clavaire de Tarascon de ne pas admettre au bénéfice de la grâce qu&#x2019;il vient d&#x2019;accorder aux habitants de la ville de pouvoir exporter librement, sauf en terre ennemie, grains et légumes produits sur leur territoire, ceux qui, parmi eux, refusent de contribuer au subside versé au roi en échange de cette franchise.</p>
+                    <p>Robert [II] roi de Sicile mande à ses viguier, juge et clavaire de Tarascon de ne pas admettre au bénéfice de la grâce qu’il vient d’accorder aux habitants de la ville de pouvoir exporter librement, sauf en terre ennemie, grains et légumes produits sur leur territoire, ceux qui, parmi eux, refusent de contribuer au subside versé au roi en échange de cette franchise.</p>
                 </div>
             </div>
             <div type="diplomatic">
@@ -176,12 +176,12 @@
                                                <p>
                             <figure rend="47/faxexternes.jpg">
                                 <figDesc>
-                                    <seg type="circle" rend="24,33,23">Initiale agrandie et noircie.</seg>
-                                    <seg type="circle" rend="184,42,8">Initiale à trait redoublé (utilisée pour plusieurs noms de terres, titres, noms d&#x2019;officiers et ouvertures de parties du discours).</seg>
-                                    <seg type="circle" rend="513,35,15">Initiale élevée.</seg>
-                                    <seg type="poly" rend="122,158,153,145,241,146,271,158,244,171,145,170" >L&#x2019;écriture ne suit qu&#x2019;imparfaitement l&#x2019;alignement et, d&#x2019;abord trop lâche, se tasse brusquement : il est évident que le nom a été ajouté en chancellerie dans un second temps, sur un espace laissé blanc. L’examen des formes permet d&#x2019;y discerner l&#x2019;intervention d&#x2019;une autre main, plus archaïque, ne pratiquant pas l&#x2019;écriture mixte.</seg>
-                                    <seg type="poly" rend="684,182,694,170,726,169,736,184,725,199,685,196">Le dernier mot de la date et par là même de l&#x2019;acte, suivi d&#x2019;un signe de ponctuation marquant la clôture du texte, est inscrit en fin de ligne, après un long espace blanc.</seg>
-                                    <seg type="poly" rend="30,271,47,313,185,355,344,355,439,333,495,284,469,245,397,216,281,202,148,211,66,239" >Simple queue de parchemin. On distingue la trace laissée par le grand sceau rond du roi et l&#x2019;épaisseur d&#x2019;une pliure double, contractée après la disparition du sceau.</seg>
+                                    <seg rend="24,33,23">Initiale agrandie et noircie.</seg>
+                                    <seg rend="184,42,8">Initiale à trait redoublé (utilisée pour plusieurs noms de terres, titres, noms d’officiers et ouvertures de parties du discours).</seg>
+                                    <seg rend="513,35,15">Initiale élevée.</seg>
+                                    <seg rend="122,158,153,145,241,146,271,158,244,171,145,170" >L’écriture ne suit qu’imparfaitement l’alignement et, d’abord trop lâche, se tasse brusquement : il est évident que le nom a été ajouté en chancellerie dans un second temps, sur un espace laissé blanc. L’examen des formes permet d’y discerner l’intervention d’une autre main, plus archaïque, ne pratiquant pas l’écriture mixte.</seg>
+                                    <seg rend="684,182,694,170,726,169,736,184,725,199,685,196">Le dernier mot de la date et par là même de l’acte, suivi d’un signe de ponctuation marquant la clôture du texte, est inscrit en fin de ligne, après un long espace blanc.</seg>
+                                    <seg rend="30,271,47,313,185,355,344,355,439,333,495,284,469,245,397,216,281,202,148,211,66,239" >Simple queue de parchemin. On distingue la trace laissée par le grand sceau rond du roi et l’épaisseur d’une pliure double, contractée après la disparition du sceau.</seg>
                                 </figDesc>
                             </figure>
                        </p>

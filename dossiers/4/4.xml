@@ -27,9 +27,9 @@
             <div type="facsimile">
                 <p>
                     <seg rend="61,8,260,21">Si fieri posset : s<ex>cilicet</ex> sine v<ex>est</ex>ro dispendio.</seg>
-                    <seg rend="262,9,1194,23">&#x2019;Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; : i<ex>dest</ex> si fieri posset ut ego oculis corporeis possem majora de D<ex>e</ex>o cognoscere et archana mysterioru<ex>m</ex> lumine corporis amplius penetrare. - &#x2019;Oculos...</seg>
-                    <seg rend="63,25,726,38">(&#x2019;Oculos) v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; : i<ex>dest</ex> tanta caritate erga me ferventes eratis et tantu<ex>m</ex> desiderabatis audire verbum D<ex>e</ex>i p<ex>er</ex> me.</seg>
-                    <seg rend="747,38,1226,58">&#x2019;Filioli mei, quos iteru<ex>m</ex> parturio donec formet<ex>ur</ex> <ex>Christu</ex>s in vob<ex>is</ex>.&#x2019; Parturire <ex>est</ex> parere velle...</seg>
+                    <seg rend="262,9,1194,23">’Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ : i<ex>dest</ex> si fieri posset ut ego oculis corporeis possem majora de D<ex>e</ex>o cognoscere et archana mysterioru<ex>m</ex> lumine corporis amplius penetrare. - ’Oculos...</seg>
+                    <seg rend="63,25,726,38">(’Oculos) v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ : i<ex>dest</ex> tanta caritate erga me ferventes eratis et tantu<ex>m</ex> desiderabatis audire verbum D<ex>e</ex>i p<ex>er</ex> me.</seg>
+                    <seg rend="747,38,1226,58">’Filioli mei, quos iteru<ex>m</ex> parturio donec formet<ex>ur</ex> <ex>Christu</ex>s in vob<ex>is</ex>.’ Parturire <ex>est</ex> parere velle...</seg>
                     <seg rend="112,262,356,276">Q<ex>ua</ex>re dic<ex>it </ex>‘quib<ex>us</ex> denuo servire vultis’ ? Nu<ex>m</ex>quid</seg>
                     <seg rend="122,278,386,293">Galatæ legi <ex>ve</ex>l circu<ex>m</ex>cisioni antea servierant ?</seg>
                     <seg rend="120,296,377,311">N<ex>on</ex> utique s<ex>ed</ex> ita <ex>est</ex> intelligendum : O Galatæ,</seg>
@@ -121,12 +121,12 @@
                             <p>s<ex>cilicet</ex> q<ex>u</ex>a vos beatos e<ex>ss</ex>e diceba<ex>m</ex>.</p>
                         </add> ? Testimonium</l>
                     <l>enim perhibeo vobis quia, si fieri posset<add place="left">
-                            <p>&#x2019;Si fieri posset&#x2019; : s<ex>cilicet</ex> sine v<ex>est</ex>ro dispendio.</p>
-                            <p>- &#x2019;Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; :</p>
+                            <p>’Si fieri posset’ : s<ex>cilicet</ex> sine v<ex>est</ex>ro dispendio.</p>
+                            <p>- ’Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ :</p>
                             <p>i<ex>dest</ex> si fieri posset ut ego oculis corporeis</p>
                             <p>possem majora de D<ex>e</ex>o cognoscere et archana</p>
                             <p>mysterioru<ex>m</ex> lumine corporis amplius penetrare.</p>
-                            <p>- &#x2019;<ex>Oculos</ex> v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i&#x2019; :</p>
+                            <p>- ’<ex>Oculos</ex> v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ :</p>
                             <p>i<ex>dest</ex> tanta caritate erga me ferventes eratis</p>
                             <p>et tantu<ex>m</ex> desiderabatis audire verbum Dei per me.</p>
                         </add>, <ex>oculos</ex> v<ex>est</ex>ros</l>
@@ -161,7 +161,7 @@
                     <l>Dicite mihi, qui sub lege vultis esse, legem non</l>
                     <l>legistis <add place="infralinear" n="q">
                             <p>scilicet ut spiritaliter intellexissetis.</p>
-                        </add>  &#x2019; Scriptum est enim quoniam Abraham</l>
+                        </add>  ’ Scriptum est enim quoniam Abraham</l>
                     <l>duos filios habuit, unum de ancilla et unum</l>
                     <l>de libera. Sed qui de ancilla, secundum car-</l>
                     <l>nem natus est ; qui autem de libera, per repro-</l>
@@ -175,14 +175,14 @@
                     </l>
                     <l>et servit cum filiis ejus. Illa autem quae sursum est [...]</l>
                 </div>
-                <div type="traduction">
+                <div type="translation">
                     <l>[...] comment retournez-vous à ces pauvres et faibles</l>
                     <l>rudiments, auxquels vous voulez de nouveau vous soumettre <add place="left">
-                            <p>Pourquoi dit-il : &#x2019;auxquels vous voulez…&#x2019; &#x2019; Est-ce que les</p>
+                            <p>Pourquoi dit-il : ’auxquels vous voulez…’ ’ Est-ce que les</p>
                             <p>Galates avaient été soumis auparavant à la loi ou à la circoncision ?</p>
                             <p>Il faut le comprendre non dans l’absolu mais ainsi : Galates,</p>
                             <p>si vous observez les jours et les années à la manière des Juifs,</p>
-                            <p>vous n&#x2019;êtes en rien différents des gentils incroyants</p>
+                            <p>vous n’êtes en rien différents des gentils incroyants</p>
                             <p>qui observent les jours, les années et les temps.</p>
                         </add>  ? </l>
                     <l>Vous observez les jours <add n="a" place="infralinear">
@@ -195,56 +195,56 @@
                             <p>i.e. la septième ou la cinquantième.</p>
                         </add>  !</l>
                     <l>Vous me faites craindre <add n="e" place="infralinear">
-                            <p>i.e. j&#x2019;ai peur pour vous.</p>
-                        </add> d&#x2019;avoir travaillé en vain <add n="f" place="infralinear">
+                            <p>i.e. j’ai peur pour vous.</p>
+                        </add> d’avoir travaillé en vain <add n="f" place="infralinear">
                             <p>il travaille en vain pour des disciples qui, alors</p>
-                            <p>qu&#x2019;il les exhorte à s&#x2019;élever, s&#x2019;arrêtent à des minuties.</p>
+                            <p>qu’il les exhorte à s’élever, s’arrêtent à des minuties.</p>
                         </add>
                     </l>
                     <l>parmi vous. Soyez comme moi <add n="g" place="infralinear">
-                            <p>i.e. laissez là l&#x2019;observance de la loi pour vous</p>
-                            <p>convertir à la grâce de l’Évangile comme je l&#x2019;ai fait.</p>
+                            <p>i.e. laissez là l’observance de la loi pour vous</p>
+                            <p>convertir à la grâce de l’Évangile comme je l’ai fait.</p>
                         </add>, puisque moi je suis comme vous.</l>
-                    <l>Frères, je vous supplie <add n="h" place="infralinear">i.e. de m&#x2019;écouter avec patience.</add>. Vous ne m&#x2019;avez blessé en rien <add n="i" place="infralinear">
-                            <p>i.e. de m&#x2019;écouter avec patience.</p>
+                    <l>Frères, je vous supplie <add n="h" place="infralinear">i.e. de m’écouter avec patience.</add>. Vous ne m’avez blessé en rien <add n="i" place="infralinear">
+                            <p>i.e. de m’écouter avec patience.</p>
                         </add>. Vous savez</l>
-                    <l>que j&#x2019;étais malade dans ma chair quand je vous ai évangélisés</l>
-                    <l>d&#x2019;abord, et l&#x2019;épreuve qu&#x2019;détait pour vous </l>
-                    <l>ma chair, vous ne l&#x2019;avez ni méprisée ni repoussée,</l>
-                    <l>mais vous m&#x2019;avez reçu comme un ange de Dieu, comme le Christ Jésus.</l>
+                    <l>que j’étais malade dans ma chair quand je vous ai évangélisés</l>
+                    <l>d’abord, et l’épreuve qu’détait pour vous </l>
+                    <l>ma chair, vous ne l’avez ni méprisée ni repoussée,</l>
+                    <l>mais vous m’avez reçu comme un ange de Dieu, comme le Christ Jésus.</l>
                     <l>Où est votre bonheur <add n="j" place="infralinear">
                             <p>i.e. celui dont je vous disais que vous jouissiez.</p>
                         </add>  ? Je vous rends ce témoignage</l>
-                    <l>que, s&#x2019;il eût été possible, vous vous seriez arraché les yeux <add place="left">
-                            <p>&#x2019;S’il eût été possible&#x2019; : i.e. sans perte pour vous.</p>
-                            <p>- &#x2019;Vous vous seriez arraché les yeux pour me les donner&#x2019; :</p>
-                            <p>i.e. si j&#x2019;avais pu connaître de Dieu des vérités plus élevées</p>
+                    <l>que, s’il eût été possible, vous vous seriez arraché les yeux <add place="left">
+                            <p>’S’il eût été possible’ : i.e. sans perte pour vous.</p>
+                            <p>- ’Vous vous seriez arraché les yeux pour me les donner’ :</p>
+                            <p>i.e. si j’avais pu connaître de Dieu des vérités plus élevées</p>
                             <p>avec des yeux physiques, et pénétrer plus profondément</p>
                             <p>par la vue physique les secrets des mystères.</p>
-                            <p>- &#x2019;Vous vous seriez arraché les yeux pour me les donner :</p>
+                            <p>- ’Vous vous seriez arraché les yeux pour me les donner :</p>
                             <p>i.e. vous éprouviez une telle affection pour moi et vous</p>
                             <p>désiriez tellement entendre de moi la parole de Dieu.</p>
                         </add>
                     </l>
                     <l>pour me les donner. Suis-je donc devenu votre ennemi,</l>
-                    <l>en vous disant la vérité ? L&#x2019;attachement <add n="k" place="infralinear">
+                    <l>en vous disant la vérité ? L’attachement <add n="k" place="infralinear">
                             <p>ils vous envient ou vous jalousent.</p>
                         </add> de ces gens pour vous</l>
-                    <l>n&#x2019;est pas bon, ils veulent vous détacher <add n="l" place="infralinear">
+                    <l>n’est pas bon, ils veulent vous détacher <add n="l" place="infralinear">
                             <p>i.e. ils veulent vous détacher de la grâce de</p>
-                            <p>l&#x2019;Évangile pour vous soumettre au joug de la loi.</p>
+                            <p>l’Évangile pour vous soumettre au joug de la loi.</p>
                         </add> afin que ce soit à eux</l>
                     <l>que vous vous attachiez <add n="m" place="infralinear">
                             <p>que vous les imitiez.</p>
                         </add>. Il est bon que vous vous attachiez dans</l>
                     <l>le bien, toujours, et non seulement quand je suis présent</l>
                     <l>parmi vous. Mes petits enfants <add place="left">
-                            <p>&#x2019;Mes petits enfants, que j’enfante de nouveau jusqu&#x2019;à ce que le</p>
-                            <p>Christ soit formé en vous&#x2019; : enfanter, c&#x2019;est vouloir qu’ils obéissent...</p>
-                        </add>, que j&#x2019;enfante <add n="n" place="infralinear">
+                            <p>’Mes petits enfants, que j’enfante de nouveau jusqu’à ce que le</p>
+                            <p>Christ soit formé en vous’ : enfanter, c’est vouloir qu’ils obéissent...</p>
+                        </add>, que j’enfante <add n="n" place="infralinear">
                             <p>i.e. je souffre.</p>
                         </add> de nouveau</l>
-                    <l>jusqu&#x2019;à ce que le Christ soit formé en vous, je voudrais</l>
+                    <l>jusqu’à ce que le Christ soit formé en vous, je voudrais</l>
                     <l>être auprès de vous à cette heure et changer de langage <add n="o" place="infralinear">
                             <p>i.e. ne pas dire que vous êtes mes enfants.</p>
                         </add>,</l>
@@ -252,119 +252,34 @@
                             <p>je rougis.</p>
                         </add> à votre sujet.</l>
                     <l>Dites-moi, vous qui voulez être sous la loi : la loi, ne</l>
-                    <l>l&#x2019;avez-vous pas lue <add n="q" place="infralinear">
-                            <p>i.e. de manière à l&#x2019;avoir comprise spirituellement.</p>
-                        </add>  ? Car il est écrit qu&#x2019;Abraham</l>
-                    <l>eut deux fils, l&#x2019;un de la servante, l&#x2019;autre</l>
+                    <l>l’avez-vous pas lue <add n="q" place="infralinear">
+                            <p>i.e. de manière à l’avoir comprise spirituellement.</p>
+                        </add>  ? Car il est écrit qu’Abraham</l>
+                    <l>eut deux fils, l’un de la servante, l’autre</l>
                     <l>de la femme libre. Mais le fils de la servante naquit selon</l>
                     <l>la chair ; et celui de la femme libre, en vertu de</l>
-                    <l>la promesse. Ces choses sont dites par manière d&#x2019;allégorie.</l>
-                    <l>Elles représentent les deux testaments. L&#x2019;un [l&#x2019;Ancien], </l>
+                    <l>la promesse. Ces choses sont dites par manière d’allégorie.</l>
+                    <l>Elles représentent les deux testaments. L’un [l’Ancien], </l>
                     <l>enfantant au mont Sinaï pour la servitude,</l>
-                    <l>c&#x2019;est Agar (le Sinaï est en effet en Arabie),</l>
+                    <l>c’est Agar (le Sinaï est en effet en Arabie),</l>
                     <l>et il correspond à la Jérusalem actuelle <add n="r" place="infralinear">
                             <p>i.e. terrestre.</p>
                         </add>,</l>
-                    <l>qui est esclave avec ses enfants. Mais celle d&#x2019;en haut [...]</l>
+                    <l>qui est esclave avec ses enfants. Mais celle d’en haut [...]</l>
                 </div>
             </div>
-	    <div type="commentaire" n="paleographie">
-	      <div>
-		<head>Morphologie</head>
-		<div>
-		  <p>
-		  <figure rend="4/faxexterne.jpg">
-		  </figure>
-		 </p>
-		<p>
-		  Cette page très abondamment glosée est écrite dans une 
-		  <hi rend="strong">minuscule caroline</hi> classique de qualité moyenne, où 
-		se détache quelques <hi rend="strong">traits archaïques</hi>.</p>
-		<p>D'abord l'alternance indifférente de deux formes équivalentes 
-		(allographes) de la <hi rend="strong">lettre 'a'</hi> :</p>
-		<hi rend="i">a</hi> rond en trois traits (2 courbes parallèles et un trait
-		pour fermer la partie supérieure) ;
-		<hi rend="i">a</hi> à crosse, qui s'est généralisé à 
-		partir du IX<hi rend="sup">e</hi> siècle, ici avec une panse relativement 
-		étirée en pointue.
-		
-		<p>Ces deux formes s'opposent à l'ancien <hi rend="i">a</hi> ouvert en haut, qui 
-		a été supplanté comme susceptible d'être confondu 
-		avec <hi rend="i">u</hi> : c'est l'un des aspects de l'effort méthodique 
-		de clarification et de distinction des formes qui a fait de la minuscule caroline 
-		le modèle idéal auquel notre écriture est toujours revenue. 
-		</p>
-		<p>S'y ajoutent des <hi rend="strong">ligatures</hi>, habituelles comme le couple 
-		<hi rend="strong">e-t (&amp;)</hi>, mais aussi plus inattendues dans la minuscule 
-		caroline, comme le couple <hi rend="strong">r-t</hi> avec <hi rend="i">r</hi> prolongé 
-		en pointe vers le haut (18), forme qui survit plus abondamment et plus lontemps 
-		dans l'écriture des documents que dans celle des livres.</p>
-		<p>L'écriture des gloses se distingue par quelques traits propres, l'allongement 
-		(irrégulier et modéré) de <hi rend="i">s</hi> et <hi rend="i">r</hi> sous 
-		la ligne, <hi rend="i">e</hi> avec très longue cédille pour la diphtongue 
-		<hi rend="i">ae</hi>.</p>
+	    <div type="paleography">
+	      <div> 	<head>Morphologie</head> 	<div> 	  <p> 	  <figure rend="4/faxexterne.jpg"> 	  </figure> 	 </p> 	<p> Cette page très abondamment glosée est écrite dans une  	  <hi rend="strong">minuscule caroline</hi> classique de qualité moyenne, où  se détache quelques <hi rend="strong">traits archaïques</hi>.</p> 	<p>D'abord l'alternance indifférente de deux formes équivalentes  (allographes) de la <hi rend="strong">lettre 'a'</hi> :</p> 	<hi rend="i">a</hi> rond en trois traits (2 courbes parallèles et un trait pour fermer la partie supérieure) ; 	<hi rend="i">a</hi> à crosse, qui s'est généralisé à  partir du IX<hi rend="sup">e</hi> siècle, ici avec une panse relativement  étirée en pointue.  	<p>Ces deux formes s'opposent à l'ancien <hi rend="i">a</hi> ouvert en haut, qui  a été supplanté comme susceptible d'être confondu  avec <hi rend="i">u</hi> : c'est l'un des aspects de l'effort méthodique  de clarification et de distinction des formes qui a fait de la minuscule caroline  le modèle idéal auquel notre écriture est toujours revenue.  	</p> 	<p>S'y ajoutent des <hi rend="strong">ligatures</hi>, habituelles comme le couple  	<hi rend="strong">e-t (&amp;)</hi>, mais aussi plus inattendues dans la minuscule  caroline, comme le couple <hi rend="strong">r-t</hi> avec <hi rend="i">r</hi> prolongé  en pointe vers le haut (18), forme qui survit plus abondamment et plus lontemps  dans l'écriture des documents que dans celle des livres.</p> 	<p>L'écriture des gloses se distingue par quelques traits propres, l'allongement  (irrégulier et modéré) de <hi rend="i">s</hi> et <hi rend="i">r</hi> sous  la ligne, <hi rend="i">e</hi> avec très longue cédille pour la diphtongue  	<hi rend="i">ae</hi>.</p>
 	      </div>
 	    </div>
 	    <div>
 	      <head>Abréviations</head>
-	      <div>
-		<p>    
-		  Le système abréviatif recourt à des formes banales : 
-		  abréviations génériques de nasales, abréviations 
-		sur <hi rend="i">p</hi>, <hi rend="i">nomina sacra</hi>, etc.</p>
-		<p>Comme souvent, il est plus développé dans la glose, où 
-		figurent en particulier abondamment l'abréviation tironienne pour <hi rend="i">est</hi> 
-		(÷) et les formes en une lettre de <hi rend="i">idest</hi> (.<hi rend="i">i</hi>.), <hi rend="i">scilicet</hi> 
-		(.<hi rend="i">s</hi>.), <hi rend="i">vel</hi> (<hi rend="i">l</hi> barré).</p>
+	      <div> 	<p>     Le système abréviatif recourt à des formes banales :  abréviations génériques de nasales, abréviations  sur <hi rend="i">p</hi>, <hi rend="i">nomina sacra</hi>, etc.</p> 	<p>Comme souvent, il est plus développé dans la glose, où  figurent en particulier abondamment l'abréviation tironienne pour <hi rend="i">est</hi>  (÷) et les formes en une lettre de <hi rend="i">idest</hi> (.<hi rend="i">i</hi>.), <hi rend="i">scilicet</hi>  (.<hi rend="i">s</hi>.), <hi rend="i">vel</hi> (<hi rend="i">l</hi> barré).</p>
 	      </div>
 	    </div>
 	    <div>
 	      <head>Structuraction</head>
-	      <div>
-		<p>
-		  
-		 <hi rend="strong">La séparation des mots</hi> est à peu près 
-		  régulière. Cependant les monosyllabes, prépositions et 
-		  conjonctions, comme c'est très souvent le cas, s'agglutinent au mot 
-		  voisin, et les adjectifs peuvent de même se souder au substantif auquel 
-		  ils se rapportent. Ces groupements constituent des unités surtout pour 
-		  la prononciation (avec un accent tonique unique ou principal), et accessoirement 
-		pour le sens.</p>
-		<p><hi rend="strong">La ponctuation</hi> utilise avec régularité les 
-		trois signes habituels :</p>
-		
-		<hi rend="i">comma</hi>, un point légèrement élevé 
-		= pause courte (cf. notre virgule) ;
-		<hi rend="i">colon</hi>, un point-virgule renversé = pause moyenne (cf. notre 
-		point-virgule) ;
-		<hi rend="i">periodus</hi>, ici un point-virgule simple = pause forte (cf. notre 
-		point).
-		
-		<p>Le <hi rend="i">periodus</hi> est systématiquement suivi d'une initiale agrandie, 
-		dont la morphologie est essentiellement empruntée à l'onciale, 
-		et dont la dimension variable introduit une hiérarchie supplémentaire 
-		dans le découpage du texte.</p>
-		<p><hi rend="strong">La disposition de la glose</hi> par rapport au texte n'est pas 
-		planifiée à l'avance, bien que tous deux soient de la même 
-		main. La glose n'est même pas rédigée dans l'ordre du 
-		texte, ce qui interdit toute mise en page logique. Elle est placée 
-		d'abord au plus près du passage commenté, soit dans l'interligne, 
-		soit, si elle est plus longue, dans la marge voisine, et introduite par <hi rend="i">idest</hi> 
-		ou <hi rend="i">scilicet</hi>. Au fur et à mesure du remplissage de la marge, 
-		il devient nécessaire de recourir à des signes de renvoi et 
-		de placer les gloses en fonction de l'espace nécessaire pour chacune, 
-		jusque dans les marges supérieure et inférieure. Les <hi rend="strong">signes 
-		de renvoi</hi> sont des dessins arbitraires, qui ne peuvent constituer 
-		une série logique (comme nos notes appelées par des numéros 
-		ou des lettres), et dont les formes peuvent éventuellement prêter 
-		à confusion ; aussi les mots à commenter sont-ils repris 
-		par précaution au début de la glose. Le repérage est 
-		au total bien incommode, et exige de donner aux signes de renvoi une assez 
-		grande dimension pour qu'ils soient bien visibles. L'aspect de la page n'en 
-		est que plus touffu.</p>
-		
-		  </div>
-		</div>
+	      <div> 	<p>  	 <hi rend="strong">La séparation des mots</hi> est à peu près  régulière. Cependant les monosyllabes, prépositions et  conjonctions, comme c'est très souvent le cas, s'agglutinent au mot  voisin, et les adjectifs peuvent de même se souder au substantif auquel  ils se rapportent. Ces groupements constituent des unités surtout pour  la prononciation (avec un accent tonique unique ou principal), et accessoirement  pour le sens.</p> 	<p><hi rend="strong">La ponctuation</hi> utilise avec régularité les  trois signes habituels :</p>  	<hi rend="i">comma</hi>, un point légèrement élevé  = pause courte (cf. notre virgule) ; 	<hi rend="i">colon</hi>, un point-virgule renversé = pause moyenne (cf. notre  point-virgule) ; 	<hi rend="i">periodus</hi>, ici un point-virgule simple = pause forte (cf. notre  point).  	<p>Le <hi rend="i">periodus</hi> est systématiquement suivi d'une initiale agrandie,  dont la morphologie est essentiellement empruntée à l'onciale,  et dont la dimension variable introduit une hiérarchie supplémentaire  dans le découpage du texte.</p> 	<p><hi rend="strong">La disposition de la glose</hi> par rapport au texte n'est pas  planifiée à l'avance, bien que tous deux soient de la même  main. La glose n'est même pas rédigée dans l'ordre du  texte, ce qui interdit toute mise en page logique. Elle est placée  d'abord au plus près du passage commenté, soit dans l'interligne,  soit, si elle est plus longue, dans la marge voisine, et introduite par <hi rend="i">idest</hi>  ou <hi rend="i">scilicet</hi>. Au fur et à mesure du remplissage de la marge,  il devient nécessaire de recourir à des signes de renvoi et  de placer les gloses en fonction de l'espace nécessaire pour chacune,  jusque dans les marges supérieure et inférieure. Les <hi rend="strong">signes  de renvoi</hi> sont des dessins arbitraires, qui ne peuvent constituer  une série logique (comme nos notes appelées par des numéros  ou des lettres), et dont les formes peuvent éventuellement prêter  à confusion ; aussi les mots à commenter sont-ils repris  par précaution au début de la glose. Le repérage est  au total bien incommode, et exige de donner aux signes de renvoi une assez  grande dimension pour qu'ils soient bien visibles. L'aspect de la page n'en  est que plus touffu.</p>  	  </div> 	</div>
 	    </div>
         </body>
     </text>
