@@ -43,7 +43,7 @@
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://193.48.42.68/loris/adele/dossiers/1.jpg",
+                                    "@id": "http://193.48.42.68/loris/adele/dossiers/23.jpg",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
