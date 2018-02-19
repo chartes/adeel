@@ -1,146 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1322, 24 mars. Acte sous sceau personnel (Tarbes)</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">48</idno>
-                <publisher>Ecole nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig. : Bibl. nat. Fr.</p>
-                <p>Fac-sim. : ENC Ancien fonds 595 (lithographie).</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc> </profileDesc>
-    </teiHeader>
-    <text>
-        <front> </front>
-        <body>
-            <div type="facsimile">
-                <p>
-                    <seg rend="14,25,564,48">Noverint universi q<ex>uod</ex> ego, D<ex>omi</ex>nicus de Stella, not<ex>arius</ex>,</seg>
-                    <seg rend="573,29,1077,56">gratis <ex>et</ex> spontanea voluntate do et <ex>con</ex>cedo mag<ex>ist</ex>ro</seg>
-                    <seg rend="28,65,673,83">D<ex>omi</ex>nico de Ponteaco, not<ex>ario</ex>, <ex>et</ex> in eum penit<ex>us</ex> tranfero totu<ex>m</ex> jus <ex>et</ex> actionem</seg>
-                    <seg rend="682,70,1062,87">q<ex>u</ex>am ego h<ex>ab</ex>eo v<ex>e</ex>l h<ex>ab</ex>ere possum <ex>et</ex> debeo in</seg>
-                    <seg rend="36,102,549,123">decem libris tur<ex>onensium</ex> in q<ex>u</ex>ib<ex>us</ex> discretus vir d<ex>omi</ex>nus thes<ex>aurarius</ex> Bigorre</seg>
-                    <seg rend="560,103,1072,124">d<ex>omi</ex>ni n<ex>ost</ex>ri regis Franc’ <ex>et</ex> Navarre michi tenet<ex>ur</ex> p<ex>ro</ex> enche-</seg>
-                    <seg rend="38,143,753,166">-riis oblat<ex>i</ex>o<ex>n</ex>is p<ex>er</ex> me f<ex>a</ex>c<ex>t</ex>e in arrendame<ex>n</ex>to emolum<ex>en</ex>tor<ex>um</ex> notarie ordinarie cur<ex>ie </ex></seg>
-                    <seg rend="763,145,1056,168">d<ex>omi</ex>ni sen<ex>escalli</ex> Bigorre anni p<ex>re</ex>sentis,</seg>
-                    <seg rend="41,183,530,207">et ip<ex>su</ex>m ad petendu<ex>m</ex>, levandu<ex>m</ex> <ex>et</ex> exhigendu<ex>m</ex> easdem</seg>
-                    <seg rend="541,176,1069,206"><ex>et</ex> ad q<ex>u</ex>itat<ex>i</ex>one<ex>m</ex> <ex>et</ex> refutat<ex>i</ex>one<ex>m</ex> <ex>con</ex>cedendu<ex>m</ex> tanq<ex>u</ex>am in rem sua<ex>m</ex></seg>
-                    <seg rend="37,234,555,255">p<ex>ro</ex>priam p<ex>ro</ex>curatore<ex>m</ex> <ex>con</ex>stituo, sp<ex>ec</ex>iale<ex>m</ex> pactu<ex>m</ex> sibi faciens</seg>
-                    <seg rend="565,220,1073,248">de ult<ex>er</ex>i<ex>us</ex> no<ex>n</ex> petendo, ratu<ex>m</ex> <ex>et</ex> firmu<ex>m</ex> p<ex>er</ex>petuo h<ex>ab</ex>itur<ex>us</ex></seg>
-                    <seg rend="42,290,42,308,759,286,762,269,349,275" >q<ex>u</ex>icq<ex>u</ex>id de p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is p<ex>er</ex> ip<ex>su</ex>m receptu<ex>m</ex>, levatu<ex>m</ex>, q<ex>u</ex>itatu<ex>m</ex> fu<ex>er</ex>it v<ex>e</ex>l q<ex>u</ex>omodo<ex>libet</ex> ordinatu<ex>m</ex>.</seg>
-                    <seg rend="783,265,778,287,1091,298,1091,280">Datu<ex>m</ex> Tarvie in p<ex>re</ex>missor<ex>um</ex> testi-</seg>
-                    <seg rend="37,332,38,355,642,329,642,310">-mo<ex>n</ex>ium sub meo sigillo, in vigilia Annu<ex>n</ex>ciat<ex>i</ex>o<ex>n</ex>is b<ex>eat</ex>e Marie,</seg>
-                    <seg rend="653,312,653,331,1064,335,1065,322">anno D<ex>omi</ex>ni M° CCC° XXI°. Et ego, D<ex>omi</ex>nic<ex>us</ex></seg>
-                    <seg rend="38,373,39,395,105,392,248,404,596,374,665,373,674,357,572,353,258,386,132,375">p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>s, sigillu<ex>m</ex> meu<ex>m</ex> apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut sup<ex>r</ex>a.</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <l>Noverint universi q<ex>uod</ex> ego, D<ex>omi</ex>nicus de </l>
-                    <l><term n="L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour." >Stella</term>, not<ex>arius</ex>, </l>
-                    <l>gratis <ex>et</ex> spontanea </l>
-                    <l>voluntate do et <ex>con</ex>cedo <term n="Le titre de &#34; maître &#34; renvoie sans doute ici à la détention d’un grade universitaire." >mag<ex>ist</ex>ro</term></l>
-                    <l>D<ex>omi</ex>nico de <term n="Pontiacq, Pyrénées-Atlantiques, cant. Montaner.">Ponteaco</term>, not<ex>ario</ex>, <ex>et</ex> in eum </l>
-                    <l>penit<ex>us</ex> tranfero totu<ex>m</ex> jus <ex>et</ex> actionem </l>
-                    <l>q<ex>u</ex>am ego h<ex>ab</ex>eo v<ex>e</ex>l h<ex>ab</ex>ere possum <ex>et</ex>
-                    </l>
-                    <l>debeo in decem libris <term n="Comme les autres monnayages, le tournois n’est d’abord frappé que sous la forme de denier ; unités de mesure, les livres et les sous sont donc &#34; de deniers tournois &#34;, d’où l’emploi du génitif." >tur<ex>onensium</ex></term> in </l>
-                    <l>q<ex>u</ex>ib<ex>us</ex>
-                        <term n="Le titre de &#34; discrète personne &#34; (= qui a du discernement) était de courtoisie ; par défaut il désignait une personne qui n’était ni noble ni graduée d’université." >discretus vir</term> d<ex>omi</ex>nus thes<ex>aurarius</ex>
-                    </l>
-                    <l><term n="La Bigorre (pays de Tarbes) fut saisie par le roi de France en 1292 au titre de la succession de la comtesse Pétronille, morte en 1251 et auteur de testaments  contradictoires. Réunie au domaine royal en 1322, la Bigorre dépendait auparavant du roi de Navarre." >Bigorre</term> d<ex>omi</ex>ni n<ex>ost</ex>ri regis <term n="En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de &#34; roi de Navarre &#34; (1314-1328)." >Franc’ <ex>et</ex></term>
-                    </l>
-                    <l><term n="En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de &#34; roi de Navarre &#34; (1314-1328)." >Navarre</term> michi tenet<ex>ur</ex> p<ex>ro</ex>
-                        <term n="Les &#34; enchères &#34; (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des &#34; fermes &#34;) était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale)." >encheriis</term>
-                    </l>
-                    <l>oblat<ex>i</ex>o<ex>n</ex>is p<ex>er</ex> me f<ex>a</ex>c<ex>t</ex>e in arrendame<ex>n</ex>to </l>
-                    <l>emolum<ex>en</ex>tor<ex>um</ex> notarie ordinarie cur<ex>ie
-                        </ex></l>
-                    <l>d<ex>omi</ex>ni sen<ex>escalli</ex> Bigorre anni p<ex>re</ex>sentis,</l>
-                    <l/>
-                    <l>et ip<ex>su</ex>m ad petendu<ex>m</ex>, levandu<ex>m</ex> <ex>et</ex>
-                    </l>
-                    <l>exhigendu<ex>m</ex> easdem <ex>et</ex> ad q<ex>u</ex>itat<ex>i</ex>one<ex>m</ex> <ex>et</ex>
-                    </l>
-                    <l>refutat<ex>i</ex>one<ex>m</ex> <ex>con</ex>cedendu<ex>m</ex> tanq<ex>u</ex>am in </l>
-                    <l>rem sua<ex>m</ex> p<ex>ro</ex>priam p<ex>ro</ex>curatore<ex>m</ex>
-                    </l>
-                    <l><ex>con</ex>stituo, sp<ex>ec</ex>iale<ex>m</ex> pactu<ex>m</ex> sibi faciens de </l>
-                    <l>ult<ex>er</ex>i<ex>us</ex> no<ex>n</ex> petendo, ratu<ex>m</ex> <ex>et</ex> firmu<ex>m</ex>
-                    </l>
-                    <l>p<ex>er</ex>petuo h<ex>ab</ex>itur<ex>us</ex> q<ex>u</ex>icq<ex>u</ex>id de p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is </l>
-                    <l>p<ex>er</ex> ip<ex>su</ex>m receptu<ex>m</ex>, levatu<ex>m</ex>, q<ex>u</ex>itatu<ex>m</ex>
-                    </l>
-                    <l>fu<ex>er</ex>it v<ex>e</ex>l q<ex>u</ex>omodo<ex>libet</ex> ordinatu<ex>m</ex>. Datu<ex>m</ex>
-                    </l>
-                    <l>Tarvie in p<ex>re</ex>missor<ex>um</ex> testimo<ex>n</ex>ium sub </l>
-                    <l>meo sigillo, in vigilia <term n="Annonciation : 25 mars." >Annu<ex>n</ex>ciat<ex>i</ex>o<ex>n</ex>is</term> b<ex>eat</ex>e </l>
-                    <l>Marie, anno D<ex>omi</ex>ni <term n="Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine." >M° CCC° XXI°</term>. Et ego, </l>
-                    <l>D<ex>omi</ex>nic<ex>us</ex> p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>s, sigillu<ex>m</ex> meu<ex>m</ex>
-                    </l>
-                    <l>apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut </l>
-                    <l>sup<ex>r</ex>a.</l>
-                </div>
-                <div type="translation">
-                    <l>Sachent tous que moi, Dominique de </l>
-                    <l><term n="L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour." >L’Estellou</term>, notaire, de plein gré et volonté </l>
-                    <l>spontanée donne et concède à <term n="Le titre de &#34; maître &#34; renvoie sans doute ici à la détention d’un grade universitaire." >maître</term>
-                    </l>
-                    <l>Dominique de <term n="Pontiacq, Pyrénées-Atlantiques, cant. Montaner." >Pontiacq</term>, notaire, et </l>
-                    <l>transfère entièrement en sa personne tout </l>
-                    <l>le droit et toute l’action que j’ai et peux et </l>
-                    <l>dois avoir sur dix livres <term n="Comme les autres monnayages, le tournois n’est d’abord frappé que sous la forme de denier ; unités de mesure, les livres et les sous sont donc &#34; de deniers tournois &#34;, d’où l’emploi du génitif." >tournois</term> que me </l>
-                    <l>doit <term n="Le titre de &#34; discrète personne &#34; (= qui a du discernement) était de courtoisie ; par défaut il désignait une personne qui n’était ni noble ni graduée d’université." >discrète personne</term> monseigneur le </l>
-                    <l>trésorier de <term n="La Bigorre (pays de Tarbes) fut saisie par le roi de France en 1292 au titre de la succession de la comtesse Pétronille, morte en 1251 et auteur de testaments  contradictoires. Réunie au domaine royal en 1322, la Bigorre dépendait auparavant du roi de Navarre." >Bigorre</term> pour notre seigneur le </l>
-                    <l>roi de <term n="En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de &#34; roi de Navarre &#34; (1314-1328)." >France et de Navarre</term> pour les </l>
-                    <l><term n="Les &#34; enchères &#34; (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des &#34; fermes &#34;) était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale)." >enchères</term> de l’offre que j’avais faite dans </l>
-                    <l>l’affermage des émoluments de la charge </l>
-                    <l>de notaire de la cour ordinaire de </l>
-                    <l>monseigneur le sénéchal de Bigorre en cette </l>
-                    <l>présente année, </l>
-                    <l/>
-                    <l>et je le constitue procureur pour les </l>
-                    <l>demander, percevoir et exiger et en donner </l>
-                    <l>quittance et acquit [une fois payées] comme </l>
-                    <l>sur son bien propre, lui faisant spéciale </l>
-                    <l>convention de ne plus les demander par la </l>
-                    <l>suite, regardant à toujours comme agréable </l>
-                    <l>et ferme tout ce qui par lui des susdites [dix </l>
-                    <l>livres] aura été reçu, perçu et reconnu </l>
-                    <l>[comme payé] ou en quelque sorte que ce </l>
-                    <l>soit arrangé. Donné à Tarbes sous mon </l>
-                    <l>sceau en témoignage de ce qui précède, la </l>
-                    <l>veille de l’<term n="Annonciation : 25 mars.">Annonciation</term> de sainte Marie, </l>
-                    <l>l’an du Seigneur <term n="Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine." >1321</term>. Et moi, Dominique </l>
-                    <l>susdit, ai apposé mon sceau et écrit de ma </l>
-                    <l>propre main ; donné comme dessus. </l>
-                </div>
-                <div type="regeste">
-                    <head>1322 (n.st.), 24 mars. - Tarbes.</head>
-                    <p>Dominique de L’Estellou, notaire, constitue procureur maître Dominique de Pontiacq, notaire, pour percevoir du trésorier de Bigorre les 10 £ t. qui lui étaient dues [en compensation] des enchères [dont il a été débouté] pour l’affermage d’un an [des revenus] de la charge de notaire de la cour ordinaire du sénéchal de Bigorre.</p>
-                </div>
-            </div>
-            <div type="diplomatic">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Caractères externes</head>
-                    <div>
-                        <p>
-                            <figure rend="48/faxmoyen.jpg"/>
-                       </p>
-                        <p>Les neuf lignes de cet acte se déploient en largeur, sur une bande de parchemin large et courte. On a voulu économiser la place, ne laissant qu’une petite marge à gauche et des marges très réduites en haut (le "n" majuscule de "Noverint" en est légèrement aplati), en bas et à droite. La marque d’ouverture du discours et la décoration du N initial sont les seules concessions à l’ornementation, selon une tendance très nette en ces décennies. Pour le reste, la cursivité gagne : à plusieurs reprises, la plume n’est pas levée entre la dernière lettre d’un mot et le tilde qui la surmonte.</p>
-                        <p>La dernière phrase a été tracée avec moins de soin que les précédentes ; les lettres y sont un peu plus écartées et, dans la dernière ligne, ne suivent pas la réglure. La place de la phrase dans le discours (après la « date »), sa formulation (qui répète le « <hi rend="i">datum</hi> », "délivré") confirment qu’elle a été apposée dans un second temps. Pourtant, l’analyse graphique prouve à l’évidence que c’est la même main qui a écrit tout l’acte ; comme cette dernière phrase comporte une déclaration d’autographie, on en déduit que l’acte entier est de la main de son auteur, ce qui n’a rien d’étonnant pour un notaire.</p>
-                        <p>L’administration royale remboursait ses dettes comme elle le pouvait, non seulement parce qu’elle était souvent à court de moyens, mais encore parce qu’elle devait attendre des rentrées pour disposer de liquidités permettant de solder les créances ; de fait, les mandats de paiement qui établissaient l’avoir du créancier auprès d’un comptable royal ne précisaient jamais de terme de paiement. Au créancier il revenait donc de guetter le moment favorable pour se présenter. Il pouvait aussi déléguer ce soin à un représentant, un « procureur ». La rétribution de celui-ci pouvait se faire directement ou dans le cadre d’un échange de bons procédés, mais toujours hors acte : ce dernier attestait seulement la qualité du procureur. La procuration implique ici des notaires. Rien d’étonnant à y trouver la présence insistante des tics de l’écriture notariale : binômes et trinômes synonymiques à foison, descriptions précises entrelardées de formulations juridiques techniques, mais toujours avec pertinence : l’objet de l’acte, son motif, ses conséquences sont détaillées dans toutes leurs possibles implications.</p>
-                        <p>Le plus étonnant vient donc du mode de validation : pourquoi le notaire ne fait-il pas usage de la validation notariale par excellence, le seing manuel qui authentifie ses actes ? S’il utilise son sceau personnel (invisible, car le bas de l’acte a été découpé), c’est précisément parce qu’il n’œuvre pas pour un client, mais à titre privé, sans doute aussi sous la pression de l’administration royale. Mais un homme du Nord se serait contenté de la première partie de l’acte et de l’annonce du sceau ; le notaire méridional a jugé bon d’y ajouter une mention complémentaire, constatant l’apposition du sceau et l’autographie : il faudrait une enquête régionale pour confirmer que l’on tient là un indice de la faible et tardive diffusion du sceau.</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1322, 24 mars. Acte sous sceau personnel (Tarbes)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">48</idno>
+        <publisher>Ecole nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Bibl. nat. Fr.</p>
+        <p>Fac-sim. : ENC Ancien fonds 595 (lithographie).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc> </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="14,25,564,48">Noverint universi q<ex>uod</ex> ego, D<ex>omi</ex>nicus de Stella, not<ex>arius</ex>,</seg>
+          <seg rend="573,29,1077,56">gratis <ex>et</ex> spontanea voluntate do et <ex>con</ex>cedo mag<ex>ist</ex>ro</seg>
+          <seg rend="28,65,673,83">D<ex>omi</ex>nico de Ponteaco, not<ex>ario</ex>, <ex>et</ex> in eum penit<ex>us</ex> tranfero totu<ex>m</ex> jus <ex>et</ex> actionem</seg>
+          <seg rend="682,70,1062,87">q<ex>u</ex>am ego h<ex>ab</ex>eo v<ex>e</ex>l h<ex>ab</ex>ere possum <ex>et</ex> debeo in</seg>
+          <seg rend="36,102,549,123">decem libris tur<ex>onensium</ex> in q<ex>u</ex>ib<ex>us</ex> discretus vir d<ex>omi</ex>nus thes<ex>aurarius</ex> Bigorre</seg>
+          <seg rend="560,103,1072,124">d<ex>omi</ex>ni n<ex>ost</ex>ri regis Franc’ <ex>et</ex> Navarre michi tenet<ex>ur</ex> p<ex>ro</ex> enche-</seg>
+          <seg rend="38,143,753,166">-riis oblat<ex>i</ex>o<ex>n</ex>is p<ex>er</ex> me f<ex>a</ex>c<ex>t</ex>e in arrendame<ex>n</ex>to emolum<ex>en</ex>tor<ex>um</ex> notarie ordinarie cur<ex>ie </ex></seg>
+          <seg rend="763,145,1056,168">d<ex>omi</ex>ni sen<ex>escalli</ex> Bigorre anni p<ex>re</ex>sentis,</seg>
+          <seg rend="41,183,530,207">et ip<ex>su</ex>m ad petendu<ex>m</ex>, levandu<ex>m</ex> <ex>et</ex> exhigendu<ex>m</ex> easdem</seg>
+          <seg rend="541,176,1069,206"><ex>et</ex> ad q<ex>u</ex>itat<ex>i</ex>one<ex>m</ex> <ex>et</ex> refutat<ex>i</ex>one<ex>m</ex> <ex>con</ex>cedendu<ex>m</ex> tanq<ex>u</ex>am in rem sua<ex>m</ex></seg>
+          <seg rend="37,234,555,255">p<ex>ro</ex>priam p<ex>ro</ex>curatore<ex>m</ex> <ex>con</ex>stituo, sp<ex>ec</ex>iale<ex>m</ex> pactu<ex>m</ex> sibi faciens</seg>
+          <seg rend="565,220,1073,248">de ult<ex>er</ex>i<ex>us</ex> no<ex>n</ex> petendo, ratu<ex>m</ex> <ex>et</ex> firmu<ex>m</ex> p<ex>er</ex>petuo h<ex>ab</ex>itur<ex>us</ex></seg>
+          <seg rend="42,290,42,308,759,286,762,269,349,275" >q<ex>u</ex>icq<ex>u</ex>id de p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is p<ex>er</ex> ip<ex>su</ex>m receptu<ex>m</ex>, levatu<ex>m</ex>, q<ex>u</ex>itatu<ex>m</ex> fu<ex>er</ex>it v<ex>e</ex>l q<ex>u</ex>omodo<ex>libet</ex> ordinatu<ex>m</ex>.</seg>
+          <seg rend="783,265,778,287,1091,298,1091,280">Datu<ex>m</ex> Tarvie in p<ex>re</ex>missor<ex>um</ex> testi-</seg>
+          <seg rend="37,332,38,355,642,329,642,310">-mo<ex>n</ex>ium sub meo sigillo, in vigilia Annu<ex>n</ex>ciat<ex>i</ex>o<ex>n</ex>is b<ex>eat</ex>e Marie,</seg>
+          <seg rend="653,312,653,331,1064,335,1065,322">anno D<ex>omi</ex>ni M° CCC° XXI°. Et ego, D<ex>omi</ex>nic<ex>us</ex></seg>
+          <seg rend="38,373,39,395,105,392,248,404,596,374,665,373,674,357,572,353,258,386,132,375">p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>s, sigillu<ex>m</ex> meu<ex>m</ex> apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut sup<ex>r</ex>a.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l>Noverint universi q<ex>uod</ex> ego, D<ex>omi</ex>nicus de</l>
+          <l><term n="L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour." >Stella</term>, not<ex>arius</ex>,</l>
+          <l>gratis <ex>et</ex> spontanea</l>
+          <l>voluntate do et <ex>con</ex>cedo <term n="Le titre de &#34; maître &#34; renvoie sans doute ici à la détention d’un grade universitaire." >mag<ex>ist</ex>ro</term></l>
+          <l>D<ex>omi</ex>nico de <term n="Pontiacq, Pyrénées-Atlantiques, cant. Montaner.">Ponteaco</term>, not<ex>ario</ex>, <ex>et</ex> in eum</l>
+          <l>penit<ex>us</ex> tranfero totu<ex>m</ex> jus <ex>et</ex> actionem</l>
+          <l>q<ex>u</ex>am ego h<ex>ab</ex>eo v<ex>e</ex>l h<ex>ab</ex>ere possum <ex>et</ex></l>
+          <l>debeo in decem libris <term n="Comme les autres monnayages, le tournois n’est d’abord frappé que sous la forme de denier ; unités de mesure, les livres et les sous sont donc &#34; de deniers tournois &#34;, d’où l’emploi du génitif." >tur<ex>onensium</ex></term> in</l>
+          <l>q<ex>u</ex>ib<ex>us</ex> <term n="Le titre de &#34; discrète personne &#34; (= qui a du discernement) était de courtoisie ; par défaut il désignait une personne qui n’était ni noble ni graduée d’université." >discretus vir</term> d<ex>omi</ex>nus thes<ex>aurarius</ex></l>
+          <l><term n="La Bigorre (pays de Tarbes) fut saisie par le roi de France en 1292 au titre de la succession de la comtesse Pétronille, morte en 1251 et auteur de testaments  contradictoires. Réunie au domaine royal en 1322, la Bigorre dépendait auparavant du roi de Navarre." >Bigorre</term> d<ex>omi</ex>ni n<ex>ost</ex>ri regis <term n="En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de &#34; roi de Navarre &#34; (1314-1328)." >Franc’ <ex>et</ex></term></l>
+          <l><term n="En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de &#34; roi de Navarre &#34; (1314-1328)." >Navarre</term> michi tenet<ex>ur</ex> p<ex>ro</ex> <term n="Les &#34; enchères &#34; (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des &#34; fermes &#34;) était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale)." >encheriis</term></l>
+          <l>oblat<ex>i</ex>o<ex>n</ex>is p<ex>er</ex> me f<ex>a</ex>c<ex>t</ex>e in arrendame<ex>n</ex>to</l>
+          <l>emolum<ex>en</ex>tor<ex>um</ex> notarie ordinarie cur<ex>ie</ex></l>
+          <l>d<ex>omi</ex>ni sen<ex>escalli</ex> Bigorre anni p<ex>re</ex>sentis,</l>
+          <l/>
+          <l>et ip<ex>su</ex>m ad petendu<ex>m</ex>, levandu<ex>m</ex> <ex>et</ex></l>
+          <l>exhigendu<ex>m</ex> easdem <ex>et</ex> ad q<ex>u</ex>itat<ex>i</ex>one<ex>m</ex> <ex>et</ex></l>
+          <l>refutat<ex>i</ex>one<ex>m</ex> <ex>con</ex>cedendu<ex>m</ex> tanq<ex>u</ex>am in</l>
+          <l>rem sua<ex>m</ex> p<ex>ro</ex>priam p<ex>ro</ex>curatore<ex>m</ex></l>
+          <l><ex>con</ex>stituo, sp<ex>ec</ex>iale<ex>m</ex> pactu<ex>m</ex> sibi faciens de</l>
+          <l>ult<ex>er</ex>i<ex>us</ex> no<ex>n</ex> petendo, ratu<ex>m</ex> <ex>et</ex> firmu<ex>m</ex></l>
+          <l>p<ex>er</ex>petuo h<ex>ab</ex>itur<ex>us</ex> q<ex>u</ex>icq<ex>u</ex>id de p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>is</l>
+          <l>p<ex>er</ex> ip<ex>su</ex>m receptu<ex>m</ex>, levatu<ex>m</ex>, q<ex>u</ex>itatu<ex>m</ex></l>
+          <l>fu<ex>er</ex>it v<ex>e</ex>l q<ex>u</ex>omodo<ex>libet</ex> ordinatu<ex>m</ex>. Datu<ex>m</ex></l>
+          <l>Tarvie in p<ex>re</ex>missor<ex>um</ex> testimo<ex>n</ex>ium sub</l>
+          <l>meo sigillo, in vigilia <term n="Annonciation : 25 mars." >Annu<ex>n</ex>ciat<ex>i</ex>o<ex>n</ex>is</term> b<ex>eat</ex>e</l>
+          <l>Marie, anno D<ex>omi</ex>ni <term n="Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine." >M° CCC° XXI°</term>. Et ego,</l>
+          <l>D<ex>omi</ex>nic<ex>us</ex> p<ex>re</ex>d<ex>i</ex>c<ex>tu</ex>s, sigillu<ex>m</ex> meu<ex>m</ex></l>
+          <l>apposui <ex>et</ex> manu p<ex>ro</ex>pria sc<ex>r</ex>ipsi. Dat<ex>um</ex> ut</l>
+          <l>sup<ex>r</ex>a.</l>
+        </div>
+        <div type="translation">
+          <l>Sachent tous que moi, Dominique de</l>
+          <l><term n="L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour." >L’Estellou</term>, notaire, de plein gré et volonté</l>
+          <l>spontanée donne et concède à <term n="Le titre de &#34; maître &#34; renvoie sans doute ici à la détention d’un grade universitaire." >maître</term></l>
+          <l>Dominique de <term n="Pontiacq, Pyrénées-Atlantiques, cant. Montaner." >Pontiacq</term>, notaire, et</l>
+          <l>transfère entièrement en sa personne tout</l>
+          <l>le droit et toute l’action que j’ai et peux et</l>
+          <l>dois avoir sur dix livres <term n="Comme les autres monnayages, le tournois n’est d’abord frappé que sous la forme de denier ; unités de mesure, les livres et les sous sont donc &#34; de deniers tournois &#34;, d’où l’emploi du génitif." >tournois</term> que me</l>
+          <l>doit <term n="Le titre de &#34; discrète personne &#34; (= qui a du discernement) était de courtoisie ; par défaut il désignait une personne qui n’était ni noble ni graduée d’université." >discrète personne</term> monseigneur le</l>
+          <l>trésorier de <term n="La Bigorre (pays de Tarbes) fut saisie par le roi de France en 1292 au titre de la succession de la comtesse Pétronille, morte en 1251 et auteur de testaments  contradictoires. Réunie au domaine royal en 1322, la Bigorre dépendait auparavant du roi de Navarre." >Bigorre</term> pour notre seigneur le</l>
+          <l>roi de <term n="En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de &#34; roi de Navarre &#34; (1314-1328)." >France et de Navarre</term> pour les</l>
+          <l><term n="Les &#34; enchères &#34; (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des &#34; fermes &#34;) était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale)." >enchères</term> de l’offre que j’avais faite dans</l>
+          <l>l’affermage des émoluments de la charge</l>
+          <l>de notaire de la cour ordinaire de</l>
+          <l>monseigneur le sénéchal de Bigorre en cette</l>
+          <l>présente année,</l>
+          <l/>
+          <l>et je le constitue procureur pour les</l>
+          <l>demander, percevoir et exiger et en donner</l>
+          <l>quittance et acquit [une fois payées] comme</l>
+          <l>sur son bien propre, lui faisant spéciale</l>
+          <l>convention de ne plus les demander par la</l>
+          <l>suite, regardant à toujours comme agréable</l>
+          <l>et ferme tout ce qui par lui des susdites [dix</l>
+          <l>livres] aura été reçu, perçu et reconnu</l>
+          <l>[comme payé] ou en quelque sorte que ce</l>
+          <l>soit arrangé. Donné à Tarbes sous mon</l>
+          <l>sceau en témoignage de ce qui précède, la</l>
+          <l>veille de l’<term n="Annonciation : 25 mars.">Annonciation</term> de sainte Marie,</l>
+          <l>l’an du Seigneur <term n="Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine." >1321</term>. Et moi, Dominique</l>
+          <l>susdit, ai apposé mon sceau et écrit de ma</l>
+          <l>propre main ; donné comme dessus.</l>
+        </div>
+        <div type="regeste">
+          <head>1322 (n.st.), 24 mars. - Tarbes.</head>
+          <p>Dominique de L’Estellou, notaire, constitue procureur maître Dominique de Pontiacq, notaire, pour percevoir du trésorier de Bigorre les 10 £ t. qui lui étaient dues [en compensation] des enchères [dont il a été débouté] pour l’affermage d’un an [des revenus] de la charge de notaire de la cour ordinaire du sénéchal de Bigorre.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          <figure rend="48/faxmoyen.jpg"/>
+          <p>Les neuf lignes de cet acte se déploient en largeur, sur une bande de parchemin large et courte. On a voulu économiser la place, ne laissant qu’une petite marge à gauche et des marges très réduites en haut (le "n" majuscule de "Noverint" en est légèrement aplati), en bas et à droite. La marque d’ouverture du discours et la décoration du N initial sont les seules concessions à l’ornementation, selon une tendance très nette en ces décennies. Pour le reste, la cursivité gagne : à plusieurs reprises, la plume n’est pas levée entre la dernière lettre d’un mot et le tilde qui la surmonte.</p>
+          <p>La dernière phrase a été tracée avec moins de soin que les précédentes ; les lettres y sont un peu plus écartées et, dans la dernière ligne, ne suivent pas la réglure. La place de la phrase dans le discours (après la « date »), sa formulation (qui répète le « <hi rend="i">datum</hi> », "délivré") confirment qu’elle a été apposée dans un second temps. Pourtant, l’analyse graphique prouve à l’évidence que c’est la même main qui a écrit tout l’acte ; comme cette dernière phrase comporte une déclaration d’autographie, on en déduit que l’acte entier est de la main de son auteur, ce qui n’a rien d’étonnant pour un notaire.</p>
+          <p>L’administration royale remboursait ses dettes comme elle le pouvait, non seulement parce qu’elle était souvent à court de moyens, mais encore parce qu’elle devait attendre des rentrées pour disposer de liquidités permettant de solder les créances ; de fait, les mandats de paiement qui établissaient l’avoir du créancier auprès d’un comptable royal ne précisaient jamais de terme de paiement. Au créancier il revenait donc de guetter le moment favorable pour se présenter. Il pouvait aussi déléguer ce soin à un représentant, un « procureur ». La rétribution de celui-ci pouvait se faire directement ou dans le cadre d’un échange de bons procédés, mais toujours hors acte : ce dernier attestait seulement la qualité du procureur. La procuration implique ici des notaires. Rien d’étonnant à y trouver la présence insistante des tics de l’écriture notariale : binômes et trinômes synonymiques à foison, descriptions précises entrelardées de formulations juridiques techniques, mais toujours avec pertinence : l’objet de l’acte, son motif, ses conséquences sont détaillées dans toutes leurs possibles implications.</p>
+          <p>Le plus étonnant vient donc du mode de validation : pourquoi le notaire ne fait-il pas usage de la validation notariale par excellence, le seing manuel qui authentifie ses actes ? S’il utilise son sceau personnel (invisible, car le bas de l’acte a été découpé), c’est précisément parce qu’il n’œuvre pas pour un client, mais à titre privé, sans doute aussi sous la pression de l’administration royale. Mais un homme du Nord se serait contenté de la première partie de l’acte et de l’annonce du sceau ; le notaire méridional a jugé bon d’y ajouter une mention complémentaire, constatant l’apposition du sceau et l’autographie : il faudrait une enquête régionale pour confirmer que l’on tient là un indice de la faible et tardive diffusion du sceau.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
