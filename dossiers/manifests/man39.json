@@ -50,34 +50,6 @@
                             "on": "http://193.48.42.68/loris/adele/dossiers/39/canvas/f1"
                         }
                     ]
-                },
-                {
-                    "@id": "http://193.48.42.68/loris/adele/dossiers/39/canvas/f2",
-                    "@type": "sc:Canvas",
-                    "label": "Volume de 178 fol.",
-                    "height": 1184,
-                    "width": 900,
-                    "images": [
-                        {
-                            "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://193.48.42.68/loris/adele/dossiers/39/annotation/a1",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "http://193.48.42.68/loris/adele/dossiers/39.jpg/full/full/0/default.jpg",
-                                "@type": "dctypes:Image",
-                                "height": 1184,
-                                "width": 900,
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://193.48.42.68/loris/adele/dossiers/39.jpg",
-                                    "profile": "http://iiif.io/api/image/2/level2.json"
-                                }
-                            },
-                            "on": "http://193.48.42.68/loris/adele/dossiers/39/canvas/f2"
-                        }
-                    ]
                 }
             ]
         }
