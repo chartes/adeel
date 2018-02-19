@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Début du IXe siècle. Sacramentaire de Hildoard, évêque de Cambrai.</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">2</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Bibl. mun. Cambrai, ms. 159.</p>
+        <p>Fac-sim. ENC : NF 309 (héliographie).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="frm">Ancien français</language>
+        <language id="fre">Français</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="10,12,213,32">-dulitatis suae meritis</seg>
+          <seg rend="13,40,215,60">augeatur. PER D<ex>OMI</ex>N<ex>U</ex>M...</seg>
+          <seg rend="61,70,223,90">OREMUS. Et pro</seg>
+          <seg rend="52,100,225,118">omnibus ep<ex>isco</ex>pis, pres-</seg>
+          <seg rend="10,130,214,151">-byteris, diaconibus,</seg>
+          <seg rend="15,158,261,176">subdiaconibus, acolothis,</seg>
+          <seg rend="18,188,234,204">exorcistis, lectoribus</seg>
+          <seg rend="17,217,252,233">ostiariis, confessoribus,</seg>
+          <seg rend="18,239,252,260">virginibus, viduis et</seg>
+          <seg rend="14,273,249,291">pro omni populo s<ex>an</ex>c<ex>t</ex>o Dei.</seg>
+          <seg rend="54,300,200,319">OREMUS.</seg>
+          <seg rend="59,325,254,353">OMN<ex>I</ex>P<ex>OTEN</ex>S semp<ex>i</ex>t<ex>er</ex>n<ex>e</ex> D<ex>eu</ex>s,</seg>
+          <seg rend="76,361,232,380">cujus sp<ex>iri</ex>tu totum</seg>
+          <seg rend="15,388,243,410">corpus ecclesiae s<ex>an</ex>c<ex>t</ex>ifica-</seg>
+          <seg rend="12,422,250,439">-tur et regitur, exaudi</seg>
+          <seg rend="13,447,245,470">nos pro universis ordini-</seg>
+          <seg rend="14,473,257,498">-bus supplicantes ut gratiae</seg>
+          <seg rend="9,509,264,528">tuae munere ab omnibus</seg>
+          <seg rend="9,535,219,556">tibi gradibus fideliter</seg>
+          <seg rend="14,565,250,584">serviatur. PER D<ex>OMINUM</ex> N<ex>OST</ex>R<ex>U</ex>M…</seg>
+          <seg rend="55,594,253,615">OREMUS. Et pro <ex>Christ</ex>i-</seg>
+          <seg rend="46,624,248,643">-anissimo imperatore</seg>
+          <seg rend="11,654,258,672">nostro ut D<ex>eu</ex>s et D<ex>o</ex>m<ex>inu</ex>s noster</seg>
+          <seg rend="16,680,250,706">subditas illi faciat omnes</seg>
+          <seg rend="13,712,235,738">barbaras nationes ad</seg>
+          <seg rend="349,6,584,26">elegisti. Hanc q<ex>uaesumu</ex>s D<ex>omi</ex>ne gra-</seg>
+          <seg rend="346,43,578,57">-tiam largiaris, tribuas ei</seg>
+          <seg rend="348,70,575,86">cathedram pontificalem</seg>
+          <seg rend="347,102,577,119">ad regendam Ecclesiam</seg>
+          <seg rend="349,133,582,150">tuam et plebem univer-</seg>
+          <seg rend="350,159,547,181">-sam. PER D<ex>OMI</ex>N<ex>U</ex>M…</seg>
+          <seg rend="346,319,547,357">HILDOARDUS</seg>
+          <seg rend="355,385,565,418">PRAESUL ANNO</seg>
+          <seg rend="349,446,566,470">XXII SUI ONUS</seg>
+          <seg rend="350,507,576,533">EPISCOPATUM</seg>
+          <seg rend="349,559,575,594">HUNC LIBELLUM</seg>
+          <seg rend="355,627,579,648">SACRAMENTORUM</seg>
+          <seg rend="349,681,575,708">FIERI PROMUL-</seg>
+          <seg rend="409,714,509,735">-GAVIT.</seg>
+       </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l>[...] -dulitatis suae meritis augeatur. PER D<ex>OMI</ex>N<ex>U</ex>M...</l>
+          <l/>
+          <l>OREMUS. Et pro omnibus ep<ex>isco</ex>pis, pres-</l>
+          <l>byteris, diaconibus, subdiaconibus, acolothis,</l>
+          <l>exorcistis, lectoribus ostiariis, confessoribus,</l>
+          <l>virginibus, viduis et pro omni populo s<ex>an</ex>c<ex>t</ex>o Dei.</l>
+          <l/>
+          <l>OREMUS. OMN<ex>I</ex>P<ex>OTEN</ex>S semp<ex>i</ex>t<ex>er</ex>n<ex>e</ex> D<ex>eu</ex>s,</l>
+          <l>cujus sp<ex>iri</ex>tu totum corpus ecclesiae s<ex>an</ex>c<ex>t</ex>ifica-</l>
+          <l>tur et regitur, exaudi nos pro universis ordini-</l>
+          <l>bus supplicantes ut gratiae tuae munere ab omnibus</l>
+          <l>tibi gradibus fideliter serviatur. </l>
+          <l>PER D<ex>OMINUM</ex> N<ex>OST</ex>R<ex>U</ex>M…</l>
+          <l/>
+          <l>OREMUS. Et pro <ex>Christ</ex>ianissimo imperatore</l>
+          <l>nostro ut D<ex>eu</ex>s et D<ex>o</ex>m<ex>inu</ex>s noster subditas illi faciat omnes</l>
+          <l>barbaras nationes ad [...]</l>
+          <l/>
+          <l>[...]</l>
+          <l/>
+          <l>[...] elegisti. Hanc q<ex>uaesumu</ex>s D<ex>omi</ex>ne gra- </l>
+          <l>tiam largiaris, tribuas ei cathedram pontificalem</l>
+          <l>ad regendam Ecclesiam tuam et plebem univer-</l>
+          <l>sam. PER D<ex>OMI</ex>N<ex>U</ex>M…</l>
+          <l/>
+          <l>HILDOARDUS PRAESUL ANNO XXII SUI ONUS</l>
+          <l>EPISCOPATUM HUNC LIBELLUM</l>
+          <l>SACRAMENTORUM FIERI PROMULGAVIT.</l>
+        </div>
+        <div type="translation">
+          <l>[...] soit augmenté grâce à son zèle. Par notre Seigneur...</l>
+          <l/>
+          <l>Prions. Et pour tous les évêques, les</l>
+          <l>prêtres, les diacres, les sous-diacres, les acolytes,</l>
+          <l>les exorcistes, les lecteurs, les portiers, les confesseurs,</l>
+          <l>les vierges, les veuves, et pour tout le saint peuple de Dieu.</l>
+          <l/>
+          <l>Prions. Dieu tout-puissant et éternel,</l>
+          <l>par l’esprit de qui tout le corps de l’Église est sanctifié</l>
+          <l>et conduit, exauce nos supplications pour tous les ordres</l>
+          <l>afin que, par le don de ta grâce, tous les degrés</l>
+          <l>te rendent un fidèle service.</l>
+          <l>Par notre Seigneur...</l>
+          <l/>
+          <l>Prions. Et pour notre empereur très-chrétien,</l>
+          <l>afin que notre Dieu et Seigneur lui soumette toutes</l>
+          <l>les nations barbares [...]</l>
+          <l/>
+          <l>[...]</l>
+          <l/>
+          <l>[...] tu as choisi. Seigneur, nous te prions, accorde-nous</l>
+          <l>cette grâce, concède-lui la chaire pontificale</l>
+          <l>pour conduire ton Église et le peuple tout</l>
+          <l>entier. Par notre Seigneur...</l>
+          <l/>
+          <l>HILDOARD, ÉVÊQUE, LA DOUZIÈME ANNÉE</l>
+          <l>DE SA CHARGE ÉPISCOPALE, A ORDONNÉ</l>
+          <l>DE FAIRE CE SACRAMENTAIRE.</l>
+        </div>
+      </div>
+      <div type="paleography">
+        <p>Ces deux pages du sacramentaire de Hildoard présentent une <hi rend="b">minuscule caroline</hi> achevée, légèrement inclinée à droite, d’un module assez grand destiné à faciliter la lecture liturgique mais non parfaitement homogène, ce qui donne aux lignes un aspect un peu irrégulier (d'autant plus qu'elle tendent à monter en dépit de la présence d'une réglure).</p>
+        <p>Parmi les formes particulières, on note <hi rend="i">a</hi> à panse triangulaire et <hi rend="i">e</hi> cédillé pour <hi rend="i">ae</hi> (17 gauche, <hi rend="i">gratiae</hi>). Le texte est structuré par des <hi rend="b">initiales</hi> sobrement ornées à l’encre et par la mise en relief, dans chaque prière, des mots initiaux (surtout <hi rend="i">oremus</hi>) et finaux (<hi rend="i">per Dominum nostrum</hi>...), écrits en lettres <hi rend="b">onciales</hi>.</p>
+        <p>C’est ici le type le plus tardif de l’onciale, une écriture calligraphique, artificielle, tracée en donnant à la plume un angle d’écriture variable : les plus fortes graisses sont tantôt obliques tantôt verticales, et les extrémités des traits sont ornées d’empattements filiformes, verticaux ou horizontaux. Quelques formes typiques : L fortement développé en hauteur et en largeur, M en trois traits formant deux courbes symétriques, T de forme capitale (avec jambage rectiligne patté). Les passages en lettres onciales sont contaminés ici et là par l’intrusion de lettres soit minuscules (20 gauche, <hi rend="i">per Dominum <hi rend="u">nostrum</hi></hi>, faute de place) soit véritablement capitales (dans le colophon, <hi rend="i">Hildoar<hi rend="u">d</hi>us</hi>).</p>
+        <p>La distinction employée ici entre deux écritures se trouve fréquemment dans des pages plus complexes, développée en une hiérarchie à trois ou quatre niveaux : capitale, onciale, semi-onciale, minuscule.</p>
+        <div>
+          <head>Abréviations</head>
+          <p>Toutes les abréviations spécifiques, par contraction, portent sur les <hi rend="i">nomina sacra</hi> (<hi rend="i">Deus, Dominus, Spiritu</hi>), les adjectifs qui s’y rapportent (<hi rend="i">omnipotens, sempiterne</hi>), leurs dérivés (<hi rend="i">christianissimo, sanctificatur</hi>) et la titulature cléricale (<hi rend="i">episcopis</hi>), ainsi que sur le verbe <hi rend="i">quesumus</hi>, lié par essence aux formules de prière. S’y ajoute une seule abréviation générique : dans <hi rend="i">sacramentorum</hi> (colophon), un tilde pour <hi rend="i">m</hi> final.</p>
+          <p>La forme exacte de l'abréviation peut varier selon l'espace dont dispose le copiste (20 gauche, <hi rend="i">d</hi> au lieu de <hi rend="i">dnm</hi> pour <hi rend="i">Dominum</hi>).</p>
+        </div>
+        <div>
+          <head>Ponctuation</head>
+          <p>La ponctuation, sans être parfaitement rigoureuse, est soignée. Comme il convient à un texte destiné à une lecture à haute voix, elle contribue à la structuration du texte en distinguant des pauses d'importance différente (plutôt que des unités de sens).</p>
+          <list>
+            <item><hi rend="i">comma</hi>, un point légèrement élevé = pause courte (cf. notre virgule), fréquente ;</item>
+            <item><hi rend="i">colon</hi>, un point-virgule inversé = pause moyenne (cf. notre point-virgule), après <hi rend="i">Oremus</hi> ;</item>
+            <item><hi rend="i">periodus</hi>, ici un deux-points-virgule = pause forte (cf. notre point), à la fin d'une prière (10 gauche).</item>
+          </list>
+          <p>On notera que le <hi rend="i">periodus</hi> est appliqué à une prière complète, tandis que le <hi rend="i">comma</hi> est employé pour celles qui se concluent par une formule réduite à ses premiers mots, <hi rend="i">per Dominum</hi> ou <hi rend="i">per Dominum nostrum</hi> (ce que notre transcription rend par des points de suspension).</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

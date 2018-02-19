@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Milieu du Ve siècle (après 442). Saint Jérôme, Chronicon</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">1</idno>
+        <publisher>Ecole nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Oxford, Bodleian Library, auct. T. II. 26, fol. 145v.</p>
+        <p>Fac-sim. ENC : NF 360 A (héliogravure).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc/>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="309,165,857,186">Valentinianus subita sanguinis eruptio-</seg>
+          <seg rend="310,193,825,214">-ne, quod graece apoplexis vocatur,</seg>
+          <seg rend="315,222,834,242">Brigitione moritur. [Début de paragraphe] Post quem Gra-</seg>
+          <seg rend="308,245,852,272">-tianus adsumpto\\sit/ in imperium Vale<ex>n</ex>-</seg>
+          <seg rend="311,276,864,305">-tiniano\\um/ fratre\\<ex>m</ex> et ambo/ cum patruo Valente</seg>
+          <seg rend="317,313,434,337">regna\\<ex>n</ex>/t.</seg>
+          <seg rend="316,340,844,364">Multi monachorum Nitriae per tri-</seg>
+          <seg rend="312,371,647,390">-bunos et milites caesi.</seg>
+          <seg rend="441,392,711,407">ar. C de decurio. l. q<ex>u</ex>idam lib<ex>r</ex>o X.</seg>
+          <seg rend="316,407,874,428">Vale\\<ex>n</ex>/s, lege data ut monachi militarent,</seg>
+          <seg rend="310,434,805,455">nolentes fustib<ex>us</ex> jussit interfici.</seg>
+          <seg rend="311,456,828,489">XII. Theodosius, Theodosii \\postea/ imperatoris </seg>
+          <seg rend="330,490,416,499"><ex>Chr</ex>i<ex>sti</ex>an<ex>us</ex>. P<ex>roximo</ex> l<ex>i</ex>b<ex>ro</ex> [?].</seg>
+          <seg rend="317,499,788,517">pater, et plurimi nobilium occisi.</seg>
+          <seg rend="317,527,849,549">Fotinus in Galatia moritur, a quo Foti-</seg>
+          <seg rend="315,560,744,580">-nianorum dogma judaicum.</seg>
+          <seg rend="316,584,854,606">Basilius Caesariensis episcopus Cap-</seg>
+          <seg rend="318,617,842,638">-padociae clarus habetur, qui multa</seg>
+          <seg rend="319,643,840,666">continentiae et ingenii bona uno</seg>
+          <seg rend="318,677,712,697">superbiae malo perdidit.</seg>
+          <seg rend="205,705,502,727">CCLXXXVIIII Olymp<ex>ias</ex>.</seg>
+          <seg rend="203,735,855,757">XIII. Alamannorum XXX circiter milia</seg>
+          <seg rend="316,763,866,783">apud Argentariam, oppidum Galliaru<ex>m</ex>,</seg>
+          <seg rend="320,791,760,812">ab exercitu Gratiani strata.</seg>
+          <seg rend="322,823,840,843">Florentinus, Bonosus et Rufinus</seg>
+          <seg rend="319,850,862,873">insignes monachi habentur, e quibus</seg>
+          <seg rend="321,880,861,901">Florentinus tam misericors in egen-</seg>
+          <seg rend="319,907,859,935">-tes fuit ut vulgo pater (pater) paupe-</seg>
+          <seg rend="319,939,644,959">-rum nominatus sit.</seg>
+          <seg rend="478,960,498,971">[appel de note]</seg>
+          <seg rend="323,970,853,987">Gens Hunorum Gothos vastat qui</seg>
+          <seg rend="321,1000,861,1022">a Romanis sine armorum depositio-</seg>
+          <seg rend="323,1027,859,1055">-ne suscepti per avaritiam Maximi...</seg>
+          <seg rend="14,275,307,292">Aliq<ex>u</ex>i d<ex>icu</ex>nt q<ex>uod</ex> n<ex>on</ex> stati<ex>m</ex> as[<ex>s</ex>]umpsit f<ex>ratr</ex>em ad imp<ex>er</ex>iu<ex>m</ex></seg>
+          <seg rend="13,295,303,312">sed p<ex>r</ex>i<ex>us</ex> Theodosiu<ex>m</ex>, p<ex>ost</ex>ea Vale<ex>n</ex>tinian<ex>um</ex>, <ex>et</ex> s<ex>i</ex>c</seg>
+          <seg rend="8,313,316,329">i<ex>n</ex>nuit Rod<ex>er</ex>ic<ex>us</ex> in isto<ex>ri</ex>a Gothor<ex>um</ex>, s<ex>ed</ex> hic <ex>contr</ex>a[r]iu<ex>m</ex></seg>
+          <seg rend="11,329,316,347">pat<ex>et</ex> p<ex>er</ex> J<ex>er</ex>onimu<ex>m</ex>. It<ex>em</ex> A<ex>m</ex>bros<ex>ius</ex> de obitu Va-</seg>
+          <seg rend="12,351,310,364">-le<ex>n</ex>tiniani d<ex>ici</ex>t eu<ex>m</ex> obiis[<ex>s</ex>]e a<ex>n</ex>no XVIII reg-</seg>
+          <seg rend="16,367,76,386">-ni sui.</seg>
+          <seg rend="47,395,220,470">Valens lege da-ta monachos militare jussit.</seg>
+          <seg rend="53,519,204,609">Fotinus in Ga-latia moritur, a quo Fotini-ani.</seg>
+          <seg rend="206,577,264,607">Basili<ex>us</ex>.</seg>
+          <seg rend="91,836,151,857">Rufin<ex>us</ex>.</seg>
+          <seg rend="38,959,157,990">Hu<ex>n</ex>ni <ex>contr</ex>a Gothos.</seg>
+          <seg rend="168,959,313,992">[Note sur Gens Hunorum :]Inaccessis diu seclusa mo<ex>n</ex>tibus</seg>
+          <seg rend="165,992,317,1045">Scithie repe<ex>n</ex>tina rabie p<ex>ro</ex>g<ex>re</ex>die<ex>n</ex>s ex-arsit i<ex>n</ex> Gothos</seg>
+          <seg rend="166,1046,319,1083">eosq<ex>ue</ex> turbatos a<ex>n</ex>-tiq<ex>u</ex>is sedib<ex>us</ex> pellit.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l>Valentinianus subita sanguinis eruptio-</l>
+          <l>ne, quod graece apoplexis vocatur,</l>
+          <l>Brigitione moritur. ¶ Post quem Gra-</l>
+          <l>tianus adsumpsit in imperium Vale<ex>n</ex>-</l>
+          <l>tinianum fratre<ex>m</ex> et ambo cum patruo Valente</l>
+          <l>regna<ex>n</ex>t
+            <add place="left">
+              <p>Aliq<ex>u</ex>i d<ex>icu</ex>nt q<ex>uod</ex> n<ex>on</ex> stati<ex>m</ex> as[<ex>s</ex>]umpsit</p>
+              <p>f<ex>ratr</ex>em ad imp<ex>er</ex>iu<ex>m</ex> sed p<ex>r</ex>i<ex>us</ex> Theodosiu<ex>m</ex>,</p>
+              <p>p<ex>ost</ex>ea Vale<ex>n</ex>tinian<ex>um</ex>, <ex>et</ex> s<ex>i</ex>c i<ex>n</ex>nuit Rod<ex>er</ex>ic<ex>us</ex></p>
+              <p>in isto<ex>ri</ex>a Gothor<ex>um</ex>, s<ex>ed</ex> hic <ex>contr</ex>a[r]iu<ex>m</ex></p>
+              <p>pat<ex>et</ex> p<ex>er</ex> J<ex>er</ex>onimu<ex>m</ex>. It<ex>em</ex> A<ex>m</ex>bros<ex>ius</ex> de obitu</p>
+              <p>Vale<ex>n</ex>tiniani d<ex>ici</ex>t eu<ex>m</ex> obiis[<ex>s</ex>]e a<ex>n</ex>no XVIII</p>
+              <p>regni sui.</p>
+            </add>.</l>
+          <l>Multi monachorum Nitriae per tri-</l>
+          <l>bunos et milites caesi.</l>
+          <l>Vale<ex>n</ex>s, lege data ut monachi militarent <add place="left">ar. C. De decurio. l. Q<ex>u</ex>idam, libro X.</add>,</l>
+          <l>nolentes fustib<ex>us</ex> jussit interfici.</l>
+          <l/>
+          <l>XII.</l>
+          <l>Theodosius, Theodosii postea imperatoris</l>
+          <l>pater <add place="left">Christianus : proximo libro.</add>, et plurimi nobilium occisi.</l>
+          <l>Fotinus in Galatia moritur, a quo Foti-</l>
+          <l>nianorum dogma judaicum.</l>
+          <l>Basilius Caesariensis episcopus Cap-</l>
+          <l>padociae clarus habetur, qui multa</l>
+          <l>continentiae et ingenii bona uno</l>
+          <l>superbiae malo perdidit.</l>
+          <l/>
+          <l>CCLXXXVIIII olymp<ex>ias</ex>.</l>
+          <l>XIII. </l>
+          <l>Alamannorum XXX circiter milia</l>
+          <l>apud Argentariam, oppidum Galliaru<ex>m</ex>,</l>
+          <l>ab exercitu Gratiani strata.</l>
+          <l>Florentinus, Bonosus et Rufinus</l>
+          <l>insignes monachi habentur, e quibus</l>
+          <l>Florentinus tam misericors in egen-</l>
+          <l>tes fuit ut vulgo <ex>pater</ex> paupe-</l>
+          <l>rum nominatus sit.</l>
+          <l>Gens Hunorum
+            <add place="left">
+              <p>Inaccessis diu seclusa montibus</p>
+              <p>Scithie, repentina rabie progrediens exarsit</p>
+              <p>in Gothos eosque turbatos antiquis sedibus pellit.</p>
+            </add> Gothos vastat, qui,</l>
+          <l>a Romanis sine armorum depositio-</l>
+          <l>ne suscepti, per avaritiam Maximi</l>
+          <l>[ducis ad rebellandum fame coacti sunt.</l>
+        </div>
+        <div type="translation">
+          <l>Valentinien, par suite d’un afflux brutal </l>
+          <l>de sang, qu’on appelle en grec apoplexie,</l>
+          <l>meurt à Brigetio. ¶ Après lui, Gratien</l>
+          <l>a élevé à l’empire Valentinien</l>
+          <l>son frère, et tous deux règnent avec Valens</l>
+          <l>leur oncle
+            <add place="left">
+              <p>Certains disent qu’il n’éleva pas aussitôt</p>
+              <p>son frère à l’empire mais d’abord Théodose</p>
+              <p>et ensuite Valentinien ; c’est ce qu’indique Roderic</p>
+              <p>dans l’histoire des Goths, mais le contraire est ici</p>
+              <p>prouvé par Jérôme. De même Augustin, sur la mort</p>
+              <p>de Valentinien, dit qu’il mourut la dix-huitième année</p>
+              <p>de son règne.</p>
+            </add>.</l>
+          <l>De nombreux moines de Nitrie sont </l>
+          <l>massacrés par les tribuns et les soldats. </l>
+          <l>Valens, ayant décrété le service militaire pour les moines
+            <add place="left"> Code [Justinien], <hi rend="i">Des décurions</hi>, loi <hi rend="i">Quidam</hi>, liv. X [= C. 10, 31, 26]. </add>, </l>
+          <l>a ordonné de tuer les réfractaires à coups de bâton.</l>
+          <l/>
+          <l>12e [année de Valentinien et Valens].</l>
+          <l>Théodose
+            <add place="left">
+              <p>Chrétien : voir le livre suivant. [= <hi rend="i">Chronique de</hi></p>
+              <p><hi rend="sup">Marcellin, commençant par l'accession de Théodose</hi></p>
+              <p><hi rend="sup">à l'Empire</hi>].</p>
+            </add>, père de Théodose, le futur</l>
+          <l>empereur, et de nombreux nobles ont été tués.</l>
+          <l>Fotinus meurt en Galatie ; il était le fondateur</l>
+          <l>du dogme juif des fotiniens. </l>
+          <l>Basile de Césarée, évêque de Cap-</l>
+          <l>padoce, est très réputé ; ses grandes</l>
+          <l>qualités de continence et d’intelligence ont</l>
+          <l>été gâchées par son seul défaut, l’orgueil.</l>
+          <l/>
+          <l>289e olympiade.</l>
+          <l>13e [année de Valentinien et Valens]. </l>
+          <l>Quelque trente mille Alamans,</l>
+          <l>à Argentaria, place forte de Gaule,</l>
+          <l>sont vaincus par l’armée de Gratien.</l>
+          <l>Florentin, Bonosus et Rufin sont </l>
+          <l>des moines très renommés ; parmi eux,</l>
+          <l>Florentin est si charitable envers les </l>
+          <l>indigents qu’on le surnomme le père</l>
+          <l>des pauvres.</l>
+          <l>Le peuple des Huns <add place="left">
+            <p>Longtemps retranché dans les montagnes inaccessibles</p>
+            <p>de la Scythie, poussé par une rage subite, il se déchaîna contre</p>
+            <p>les Goths, les bouscula et les chassa de leurs anciens territoires.</p>
+          </add> ravage les Goths ; </l>
+          <l>accueillis par les Romains sans déposer les</l>
+          <l>armes, à cause de la cupidité du général Maxime</l>
+          <l>ils ont été poussés à la révolte par la faim </l>
+        </div>
+      </div>
+      <div type="paleography">
+        <head>Commentaire paléographique</head>
+        <p>Ce manuscrit italien, exemple célèbre décriture <hi rend="b">onciale</hi> du type le plus ancien (attesté depuis le IV<hi rend="sup">e</hi> siècle), présente des formes dune harmonieuse simplicité, tracées avec fluidité et assurance, au moyen dun instrument incliné selon un angle constant denviron 45°. Le fractionnement visible du tracé permet danalyser à lil nu les traits qui composent les lettres.</p>
+        <p>La morphologie illustre les <hi rend="b">limites du classement théorique</hi> des écritures en majuscules et minuscules ou écritures « bilinéaires » et « quadrilinéaires », selon le nombre des lignes rectrices qui encadrent le corps des lettres et leurs éventuels prolongements supérieurs (hastes) et inférieurs (hampes). Lonciale est habituellement classée parmi les majuscules : outre quelle emprunte certaines formes directement à la capitale (surtout B et R), les hastes et hampes y sont souvent à peine esquissées, du moins avant le VI<hi rend="sup">e</hi> siècle. Ici, les hastes de <hi rend="i">d</hi>, <hi rend="i">h</hi>, <hi rend="i">l</hi> et les hampes de <hi rend="i">f</hi>, <hi rend="i">p</hi>, <hi rend="i">q</hi> (et R dans une moindre mesure) sont au contraires fortement marquées, multipliant environ par deux la hauteur des lettres.</p>
+        <div>
+          <head>Observations de détail</head>
+          <p>Noter deux couples de <hi rend="b">lettres conjointes</hi> :</p>
+          <list>
+            <item>Le couple <hi rend="i">VS</hi> (<hi rend="i">Valentinian<hi rend="u">us</hi></hi>, 1) mérite dêtre souligné : il dérive dune forme propre à la cursive romaine tardive dite « nouvelle écriture commune », comme le montrent à la fois V surélevé et S prolongé sous la ligne. Le résultat nest pas sans évoquer la future abréviation <hi rend="i">us</hi> en forme de <hi rend="i">9</hi> : simple coïncidence, cette dernière étant née en  réalité sous une autre forme, semblable à une apostrophe. Mais l'ancienne conjonction que nous avons ici se retrouve sporadiquement au moins jusqu'au X<hi rend="sup">e</hi> siècle, et dans des formes et des emplois qui semblent en effet la rapprocher d'une abréviation.</item>
+            <item>Le couple NT (9), emprunté à la capitale épigraphique, est dun usage plus banal, surtout placé comme ici en fin de ligne.</item>
+          </list>
+          <p>Les rares <hi rend="b">abréviations</hi> sont normales dans lonciale à cette date :</p>
+          <list>
+            <item>-B. = -BUS (<hi rend="i">fustibus</hi>, 10 ; <hi rend="i">quibus</hi>, 24).</item>
+            <item>Traits horizontaux prolongés en fin de ligne = N ou M, là où une lettre complète déborderait trop visiblement de la justification (4, 21, 25). Les autres tildes sont ajoutés postérieurement (voir ci-dessous).</item>
+            <item>L’abréviation par suspension d’<hi rend="i">Olympias</hi> se justifie par la récurrence du mot dans la chronique.</item>
+          </list>          
+        </div>
+        <div>
+          <head>Ajouts postérieurs</head>
+          <p><hi rend="b">Les gloses, corrections  et signes destinés à faciliter la lecture</hi>, tracées dans des  écritures postérieures, témoignent dun travail serré de critique du texte,  à la fois philologique et historique :</p>
+          <list>
+            <item><hi rend="i">Basilius</hi>  et <hi rend="i">Rufinus</hi>, en marge, apparemment du XIII<hi rend="sup">e</hi> siècle,  mais difficiles à localiser, peut-être de deux mains différentes (<hi rend="i">Rufinus</hi>  est moins soigné, et labréviation -<hi rend="i">us</hi> est placée à une hauteur  différente).</item>
+            <item>Corrections et  notes dans une main française de la fin du XIV<hi rend="sup">e</hi> siècle, dun  type fréquent dans luniversité, à la fois cursif et fortement abrégé.  Les abréviations <hi rend="i">d(icu)nt</hi> et <hi rend="i">d(ici)t</hi>, par exemple, de  même que lusage de <hi rend="i">s</hi> long en fin de mot, sont typiques de l'écriture  des manuscrits (par opposition aux écritures documentaires).</item>
+            <item>Tildes sur <hi rend="i">fratre<hi rend="u">m</hi></hi>  (5), <hi rend="i">regna<hi rend="u">n</hi>t</hi> (6), <hi rend="i">Vale<hi rend="u">n</hi>s</hi> (9), complétant  les corrections interlinéaires.</item>
+            <item>Plus difficiles  à dater et localiser, des signes pour délimiter paragraphes et mots : <hi rend="i">a)</hi> séparation de paragraphes : pied-de-mouche en marge  signalant une marque placée à lintérieur de la ligne (3), et  lignes horizontales en début de ligne pour les paragraphes suivants ; <hi rend="i">b)</hi> séparation de mots, plus occasionnelle (surtout 16).</item>
+            <item>Pointage du I  redoublé dans <hi rend="i">ingenii</hi> (17).</item>
+          </list> 
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,286 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE TEI.2 SYSTEM "../tei.dtd"[
-<!ENTITY % ISOlat1 SYSTEM "../iso-lat1.ent"> 
-%ISOlat1; 
-<!ENTITY % ISOlat2 SYSTEM "../iso-lat2.ent"> 
-%ISOlat2; 
-]>
-<TEI.2>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title> Début du Xe siècle. Épîtres de saint Paul.</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">4</idno>
-                <publisher>École nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig. : Bibl. mun. Orléans, ms. 79.</p>
-                <p>Fac-sim. ENC : NF 308 (héliogravure).</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc/>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="facsimile">
-                <p>
-                    <seg rend="61,8,260,21">Si fieri posset : s<ex>cilicet</ex> sine v<ex>est</ex>ro dispendio.</seg>
-                    <seg rend="262,9,1194,23">’Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ : i<ex>dest</ex> si fieri posset ut ego oculis corporeis possem majora de D<ex>e</ex>o cognoscere et archana mysterioru<ex>m</ex> lumine corporis amplius penetrare. - ’Oculos...</seg>
-                    <seg rend="63,25,726,38">(’Oculos) v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ : i<ex>dest</ex> tanta caritate erga me ferventes eratis et tantu<ex>m</ex> desiderabatis audire verbum D<ex>e</ex>i p<ex>er</ex> me.</seg>
-                    <seg rend="747,38,1226,58">’Filioli mei, quos iteru<ex>m</ex> parturio donec formet<ex>ur</ex> <ex>Christu</ex>s in vob<ex>is</ex>.’ Parturire <ex>est</ex> parere velle...</seg>
-                    <seg rend="112,262,356,276">Q<ex>ua</ex>re dic<ex>it </ex>‘quib<ex>us</ex> denuo servire vultis’ ? Nu<ex>m</ex>quid</seg>
-                    <seg rend="122,278,386,293">Galatæ legi <ex>ve</ex>l circu<ex>m</ex>cisioni antea servierant ?</seg>
-                    <seg rend="120,296,377,311">N<ex>on</ex> utique s<ex>ed</ex> ita <ex>est</ex> intelligendum : O Galatæ,</seg>
-                    <seg rend="119,312,357,329">si dies et annos observatis more Judeor<ex>um</ex>,</seg>
-                    <seg rend="120,330,355,346">nichil distatis a gentilibus incredulis</seg>
-                    <seg rend="122,345,354,368">q<ex>u</ex>i dies et annos <ex>et</ex> tempora observant.</seg>
-                    <seg rend="369,254,1004,273">[...] convertimini iteru<ex>m</ex> ad infirma et egena</seg>
-                    <seg rend="374,296,978,309">elementa, quibus denuo servire vultis ?</seg>
-                    <seg rend="388,310,517,325">s<ex>cilicet</ex> circu<ex>m</ex>cisionis</seg>
-                    <seg rend="631,311,750,327">s<ex>cilicet</ex> novaru<ex>m</ex> frugum</seg>
-                    <seg rend="791,315,873,331">s<ex>cilicet</ex> div<ex>er</ex>sa</seg>
-                    <seg rend="913,315,1031,331">s<ex>cilicet</ex> septimu<ex>m</ex> <ex>ve</ex>l <ex>quinquagesi</ex>mu<ex>m</ex></seg>
-                    <seg rend="368,332,1035,352">Dies observatis et menses et tempora et annos.</seg>
-                    <seg rend="391,352,512,362">i<ex>dest</ex> timeo de vobis</seg>
-                    <seg rend="693,353,1165,368">ille sine causa laborat in discipulis q<ex>u</ex>i du<ex>m</ex> eos ad meliora p<ex>ro</ex>vocat illi minora sectantur</seg>
-                    <seg rend="379,369,999,387">Timeo vos, ne forte sine causa laboraverim</seg>
-                    <seg rend="556,388,1000,405">i<ex>dest</ex> recedite ab observatione legali et transite ad Ev<ex>an</ex>g<ex>e</ex>li gr<ex>ati</ex>am sicut ego feci</seg>
-                    <seg rend="380,406,1032,422">in vobis. Estote sicut ego, quia et ego sicut vos.</seg>
-                    <seg rend="422,423,604,439">s<ex>cilicet</ex> ut me patient<ex>er</ex> audiatis</seg>
-                    <seg rend="613,424,883,438">i<ex>dest</ex> in nullo du<ex>m</ex> apud vos fuerim c<ex>on</ex>tradixistis</seg>
-                    <seg rend="350,440,1017,462">F<ex>rat</ex>r<ex>e</ex>s, obsecro vos. Nihil me lesi\s/tis. Scitis autem</seg>
-                    <seg rend="379,481,1002,501">quia p<ex>er</ex> infirmitatem carnis evangelizavi</seg>
-                    <seg rend="380,517,1004,535">vobis jampridem, et temptationem v<ex>est</ex>ram</seg>
-                    <seg rend="380,561,1021,578">in carne mea non sprevistis neque respuistis,</seg>
-                    <seg rend="381,603,1044,619">sed sicut angelum Dei excepistis me, sicut <ex>Christu</ex>m J<ex>esu</ex>m.</seg>
-                    <seg rend="558,621,745,633">s<ex>cilicet</ex> q<ex>u</ex>a vos beatos e<ex>ss</ex>e diceba<ex>m</ex></seg>
-                    <seg rend="376,636,995,660">Ubi est ergo beatitudo v<ex>est</ex>ra ? Testimonium</seg>
-                    <seg rend="381,678,1030,698">enim perhibeo vobis quia, si fieri posset, oculos v<ex>est</ex>ros</seg>
-                    <seg rend="377,713,1038,732">eruissetis et dedissetis mihi. Ergo inimicus vobis</seg>
-                    <seg rend="842,737,1031,749">invident vobis <ex>ve</ex>l zelant<ex>ur</ex> vos</seg>
-                    <seg rend="383,751,1052,771">factus sum, verum dicens vobis. Aemulantur vos</seg>
-                    <seg rend="494,773,987,785">i<ex>dest</ex> separare vos volunt a gr<ex>ati</ex>a Ev<ex>an</ex>g<ex>e</ex>li <ex>et</ex> servitute<ex>m</ex> legis transferre</seg>
-                    <seg rend="379,789,994,810">non bene, sed excludere vos volunt ut illos</seg>
-                    <seg rend="401,812,471,824">imitemini</seg>
-                    <seg rend="814,811,918,826">imitamini</seg>
-                    <seg rend="381,827,1014,846">aemulemini. Bonum aute<ex>m</ex> aemulamini in</seg>
-                    <seg rend="375,865,1016,890">bono semper, et non tantum cum p<ex>rae</ex>sens sum</seg>
-                    <seg rend="941,891,1015,904">i<ex>dest</ex> doleo</seg>
-                    <seg rend="375,905,1015,926">apud vos. Filioli mei, quos iterum parturio</seg>
-                    <seg rend="385,946,1005,962">donec formetur <ex>Christu</ex>s in vobis. Vellem aute<ex>m</ex></seg>
-                    <seg rend="672,968,935,982">i<ex>dest</ex> ut n<ex>on</ex> dicerem vos e<ex>ss</ex>e filios meos</seg>
-                    <seg rend="382,983,1005,1000">e<ex>ss</ex>e apud vos modo et mutare vocem meam,</seg>
-                    <seg rend="448,1001,518,1013">erubesco</seg>
-                    <seg rend="389,1015,735,1034">q<ex>uoniam</ex> confundor in vobis.</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="text">
-                    <l> [...] convertimini iteru<ex>m</ex> ad infirma et egena</l>
-                    <l>elementa, quibus denuo servire vultis <add place="left">
-                            <p>Q<ex>ua</ex>re dic<ex>it</ex> ‘quib<ex>us</ex> denuo servire vultis’ ? Nu<ex>m</ex>quid</p>
-                            <p>Galatæ legi <ex>ve</ex>l circu<ex>m</ex>cisioni antea servierant ?</p>
-                            <p>N<ex>on</ex> utique s<ex>ed</ex> ita <ex>est</ex> intelligendum : O Galatæ,</p>
-                            <p>si dies et annos observatis more Judeor<ex>um</ex>,</p>
-                            <p>nichil distatis a gentilibus incredulis</p>
-                            <p>q<ex>u</ex>i dies et annos <ex>et</ex> tempora observant.</p>
-                        </add> ? </l>
-                    <l>Dies  <add place="infralinear" n="a">
-                            <p>s<ex>cilicet</ex> circu<ex>m</ex>cisionis.</p>
-                        </add>  observatis et menses  <add place="infralinear" n="b">
-                            <p>s<ex>cilicet</ex> novaru<ex>m</ex> frugum.</p>
-                        </add>  et tempora  <add place="infralinear" n="c">
-                            <p>s<ex>cilicet</ex> div<ex>er</ex>sa.</p>
-                        </add>  et annos <add place="infralinear" n="d">
-                            <p>s<ex>cilicet</ex> septimu<ex>m</ex> <ex>ve</ex>l <ex>quinquagesi</ex>mu<ex>m</ex>.</p>
-                        </add>.</l>
-                    <l>Timeo vos <add place="infralinear" n="e">
-                            <p>i<ex>dest</ex> timeo de vobis.</p>
-                        </add>, ne forte sine causa laboraverim <add place="infralinear" n="f">
-                            <p>ille sine causa laborat in discipulis q<ex>u</ex>i du<ex>m</ex> eos</p>
-                            <p>ad meliora p<ex>ro</ex>vocat illi minora sectantur.</p>
-                        </add>
-                    </l>
-                    <l>in vobis. Estote sicut ego <add place="infralinear" n="g">
-                            <p>i<ex>dest</ex> recedite ab observatione legali et transite</p>
-                            <p>ad Evangeli gratiam sicut ego feci.</p>
-                        </add>, quia et ego sicut vos.</l>
-                    <l>F<ex>rat</ex>r<ex>e</ex>s, obsecro vos <add place="infralinear" n="h">
-                            <p>s<ex>cilicet</ex> ut me patient<ex>er</ex> audiatis.</p>
-                        </add>. Nihil me lesi\s/tis <add place="infralinear" n="i">
-                            <p>i<ex>dest</ex> in nullo du<ex>m</ex> apud vos fuerim c<ex>on</ex>tradixistis.</p>
-                        </add>. Scitis autem</l>
-                    <l>quia p<ex>er</ex> infirmitatem carnis evangelizavi</l>
-                    <l>vobis jampridem, et temptationem v<ex>est</ex>ram</l>
-                    <l>in carne mea non sprevistis neque respuistis,</l>
-                    <l>sed sicut angelum Dei excepistis me, sicut <ex>Christu</ex>m J<ex>esu</ex>m.</l>
-                    <l/>
-                    <l>Ubi est ergo beatitudo v<ex>est</ex>ra <add place="infralinear" n="j">
-                            <p>s<ex>cilicet</ex> q<ex>u</ex>a vos beatos e<ex>ss</ex>e diceba<ex>m</ex>.</p>
-                        </add> ? Testimonium</l>
-                    <l>enim perhibeo vobis quia, si fieri posset<add place="left">
-                            <p>’Si fieri posset’ : s<ex>cilicet</ex> sine v<ex>est</ex>ro dispendio.</p>
-                            <p>- ’Oculos v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ :</p>
-                            <p>i<ex>dest</ex> si fieri posset ut ego oculis corporeis</p>
-                            <p>possem majora de D<ex>e</ex>o cognoscere et archana</p>
-                            <p>mysterioru<ex>m</ex> lumine corporis amplius penetrare.</p>
-                            <p>- ’<ex>Oculos</ex> v<ex>est</ex>ros eruissetis et dedissetis m<ex>ih</ex>i’ :</p>
-                            <p>i<ex>dest</ex> tanta caritate erga me ferventes eratis</p>
-                            <p>et tantu<ex>m</ex> desiderabatis audire verbum Dei per me.</p>
-                        </add>, <ex>oculos</ex> v<ex>est</ex>ros</l>
-                    <l>eruissetis et dedissetis mihi. Ergo inimicus vobis</l>
-                    <l>factus sum, verum dicens vobis. Aemulantur vos <add place="infralinear" n="k">
-                            <p>invident vobis <ex>ve</ex>l zelant<ex>ur</ex> vos.</p>
-                        </add>
-                    </l>
-                    <l>non bene, sed excludere vos volunt <add place="infralinear" n="l">
-                            <p>i<ex>dest</ex> separare vos volunt a gr<ex>ati</ex>a Ev<ex>an</ex>g<ex>e</ex>li <ex>et</ex> in</p>
-                            <p>servitute<ex>m</ex> legis transferre.</p>
-                        </add> ut illos</l>
-                    <l>aemulemini. <add place="infralinear" n="m">
-                            <p>imitamini.</p>
-                        </add> Bonum aute<ex>m</ex> aemulamini in</l>
-                    <l>bono semper, et non tantum cum p<ex>rae</ex>sens sum</l>
-                    <l>apud vos. Filioli mei<add place="left">
-                            <p>‘Filioli mei, quos iteru<ex>m</ex> parturio donec formet<ex>ur</ex></p>
-                            <p><ex>Christu</ex>s in vob<ex>is</ex>.’ Parturire <ex>est</ex> parere velle...</p>
-                        </add>, quos iterum parturio <add place="infralinear" n="n">
-                            <p>i<ex>dest</ex> doleo.</p>
-                        </add>
-                    </l>
-                    <l>donec formetur <ex>Christu</ex>s in vobis. Vellem aute<ex>m</ex></l>
-                    <l>e<ex>ss</ex>e apud vos modo et mutare vocem meam <add place="infralinear" n="o">
-                            <p>i<ex>dest</ex> ut n<ex>on</ex> dicerem vos e<ex>ss</ex>e filios meos.</p>
-                        </add>,</l>
-                    <l>q<ex>uoniam</ex> confundor <add place="infralinear" n="p">
-                            <p>erubesco.</p>
-                        </add> in vobis.</l>
-                    <l/>
-                    <l>Dicite mihi, qui sub lege vultis esse, legem non</l>
-                    <l>legistis <add place="infralinear" n="q">
-                            <p>scilicet ut spiritaliter intellexissetis.</p>
-                        </add>  ’ Scriptum est enim quoniam Abraham</l>
-                    <l>duos filios habuit, unum de ancilla et unum</l>
-                    <l>de libera. Sed qui de ancilla, secundum car-</l>
-                    <l>nem natus est ; qui autem de libera, per repro-</l>
-                    <l>missionem. Quae sunt per allegoriam dicta.</l>
-                    <l>Haec enim sunt duo testamenta. Unum quidem</l>
-                    <l>in monte Sina in servitutem generans,</l>
-                    <l>quae est Agar. Sina enim mons est in Arabia,</l>
-                    <l>qui conjunctus est ei quae nunc est Hierusalem <add place="infralinear" n="r">
-                            <p>idest terre.</p>
-                        </add>
-                    </l>
-                    <l>et servit cum filiis ejus. Illa autem quae sursum est [...]</l>
-                </div>
-                <div type="translation">
-                    <l>[...] comment retournez-vous à ces pauvres et faibles</l>
-                    <l>rudiments, auxquels vous voulez de nouveau vous soumettre <add place="left">
-                            <p>Pourquoi dit-il : ’auxquels vous voulez…’ ’ Est-ce que les</p>
-                            <p>Galates avaient été soumis auparavant à la loi ou à la circoncision ?</p>
-                            <p>Il faut le comprendre non dans l’absolu mais ainsi : Galates,</p>
-                            <p>si vous observez les jours et les années à la manière des Juifs,</p>
-                            <p>vous n’êtes en rien différents des gentils incroyants</p>
-                            <p>qui observent les jours, les années et les temps.</p>
-                        </add>  ? </l>
-                    <l>Vous observez les jours <add n="a" place="infralinear">
-                            <p>i.e. de la circoncision.</p>
-                        </add>, les mois <add n="b" place="infralinear">
-                            <p>i.e. des récoltes.</p>
-                        </add>, les temps  <add n="c" place="infralinear">
-                            <p>i.e. différents.</p>
-                        </add>  et les années <add n="d" place="infralinear">
-                            <p>i.e. la septième ou la cinquantième.</p>
-                        </add>  !</l>
-                    <l>Vous me faites craindre <add n="e" place="infralinear">
-                            <p>i.e. j’ai peur pour vous.</p>
-                        </add> d’avoir travaillé en vain <add n="f" place="infralinear">
-                            <p>il travaille en vain pour des disciples qui, alors</p>
-                            <p>qu’il les exhorte à s’élever, s’arrêtent à des minuties.</p>
-                        </add>
-                    </l>
-                    <l>parmi vous. Soyez comme moi <add n="g" place="infralinear">
-                            <p>i.e. laissez là l’observance de la loi pour vous</p>
-                            <p>convertir à la grâce de l’Évangile comme je l’ai fait.</p>
-                        </add>, puisque moi je suis comme vous.</l>
-                    <l>Frères, je vous supplie <add n="h" place="infralinear">i.e. de m’écouter avec patience.</add>. Vous ne m’avez blessé en rien <add n="i" place="infralinear">
-                            <p>i.e. de m’écouter avec patience.</p>
-                        </add>. Vous savez</l>
-                    <l>que j’étais malade dans ma chair quand je vous ai évangélisés</l>
-                    <l>d’abord, et l’épreuve qu’détait pour vous </l>
-                    <l>ma chair, vous ne l’avez ni méprisée ni repoussée,</l>
-                    <l>mais vous m’avez reçu comme un ange de Dieu, comme le Christ Jésus.</l>
-                    <l>Où est votre bonheur <add n="j" place="infralinear">
-                            <p>i.e. celui dont je vous disais que vous jouissiez.</p>
-                        </add>  ? Je vous rends ce témoignage</l>
-                    <l>que, s’il eût été possible, vous vous seriez arraché les yeux <add place="left">
-                            <p>’S’il eût été possible’ : i.e. sans perte pour vous.</p>
-                            <p>- ’Vous vous seriez arraché les yeux pour me les donner’ :</p>
-                            <p>i.e. si j’avais pu connaître de Dieu des vérités plus élevées</p>
-                            <p>avec des yeux physiques, et pénétrer plus profondément</p>
-                            <p>par la vue physique les secrets des mystères.</p>
-                            <p>- ’Vous vous seriez arraché les yeux pour me les donner :</p>
-                            <p>i.e. vous éprouviez une telle affection pour moi et vous</p>
-                            <p>désiriez tellement entendre de moi la parole de Dieu.</p>
-                        </add>
-                    </l>
-                    <l>pour me les donner. Suis-je donc devenu votre ennemi,</l>
-                    <l>en vous disant la vérité ? L’attachement <add n="k" place="infralinear">
-                            <p>ils vous envient ou vous jalousent.</p>
-                        </add> de ces gens pour vous</l>
-                    <l>n’est pas bon, ils veulent vous détacher <add n="l" place="infralinear">
-                            <p>i.e. ils veulent vous détacher de la grâce de</p>
-                            <p>l’Évangile pour vous soumettre au joug de la loi.</p>
-                        </add> afin que ce soit à eux</l>
-                    <l>que vous vous attachiez <add n="m" place="infralinear">
-                            <p>que vous les imitiez.</p>
-                        </add>. Il est bon que vous vous attachiez dans</l>
-                    <l>le bien, toujours, et non seulement quand je suis présent</l>
-                    <l>parmi vous. Mes petits enfants <add place="left">
-                            <p>’Mes petits enfants, que j’enfante de nouveau jusqu’à ce que le</p>
-                            <p>Christ soit formé en vous’ : enfanter, c’est vouloir qu’ils obéissent...</p>
-                        </add>, que j’enfante <add n="n" place="infralinear">
-                            <p>i.e. je souffre.</p>
-                        </add> de nouveau</l>
-                    <l>jusqu’à ce que le Christ soit formé en vous, je voudrais</l>
-                    <l>être auprès de vous à cette heure et changer de langage <add n="o" place="infralinear">
-                            <p>i.e. ne pas dire que vous êtes mes enfants.</p>
-                        </add>,</l>
-                    <l>car je suis perplexe <add n="p" place="infralinear">
-                            <p>je rougis.</p>
-                        </add> à votre sujet.</l>
-                    <l>Dites-moi, vous qui voulez être sous la loi : la loi, ne</l>
-                    <l>l’avez-vous pas lue <add n="q" place="infralinear">
-                            <p>i.e. de manière à l’avoir comprise spirituellement.</p>
-                        </add>  ? Car il est écrit qu’Abraham</l>
-                    <l>eut deux fils, l’un de la servante, l’autre</l>
-                    <l>de la femme libre. Mais le fils de la servante naquit selon</l>
-                    <l>la chair ; et celui de la femme libre, en vertu de</l>
-                    <l>la promesse. Ces choses sont dites par manière d’allégorie.</l>
-                    <l>Elles représentent les deux testaments. L’un [l’Ancien], </l>
-                    <l>enfantant au mont Sinaï pour la servitude,</l>
-                    <l>c’est Agar (le Sinaï est en effet en Arabie),</l>
-                    <l>et il correspond à la Jérusalem actuelle <add n="r" place="infralinear">
-                            <p>i.e. terrestre.</p>
-                        </add>,</l>
-                    <l>qui est esclave avec ses enfants. Mais celle d’en haut [...]</l>
-                </div>
-            </div>
-	    <div type="paleography">
-	      <div> 	<head>Morphologie</head> 	<div> 	  <p> 	  <figure rend="4/faxexterne.jpg"> 	  </figure> 	 </p> 	<p> Cette page très abondamment glosée est écrite dans une  	  <hi rend="strong">minuscule caroline</hi> classique de qualité moyenne, où  se détache quelques <hi rend="strong">traits archaïques</hi>.</p> 	<p>D'abord l'alternance indifférente de deux formes équivalentes  (allographes) de la <hi rend="strong">lettre 'a'</hi> :</p> 	<hi rend="i">a</hi> rond en trois traits (2 courbes parallèles et un trait pour fermer la partie supérieure) ; 	<hi rend="i">a</hi> à crosse, qui s'est généralisé à  partir du IX<hi rend="sup">e</hi> siècle, ici avec une panse relativement  étirée en pointue.  	<p>Ces deux formes s'opposent à l'ancien <hi rend="i">a</hi> ouvert en haut, qui  a été supplanté comme susceptible d'être confondu  avec <hi rend="i">u</hi> : c'est l'un des aspects de l'effort méthodique  de clarification et de distinction des formes qui a fait de la minuscule caroline  le modèle idéal auquel notre écriture est toujours revenue.  	</p> 	<p>S'y ajoutent des <hi rend="strong">ligatures</hi>, habituelles comme le couple  	<hi rend="strong">e-t (&amp;)</hi>, mais aussi plus inattendues dans la minuscule  caroline, comme le couple <hi rend="strong">r-t</hi> avec <hi rend="i">r</hi> prolongé  en pointe vers le haut (18), forme qui survit plus abondamment et plus lontemps  dans l'écriture des documents que dans celle des livres.</p> 	<p>L'écriture des gloses se distingue par quelques traits propres, l'allongement  (irrégulier et modéré) de <hi rend="i">s</hi> et <hi rend="i">r</hi> sous  la ligne, <hi rend="i">e</hi> avec très longue cédille pour la diphtongue  	<hi rend="i">ae</hi>.</p>
-	      </div>
-	    </div>
-	    <div>
-	      <head>Abréviations</head>
-	      <div> 	<p>     Le système abréviatif recourt à des formes banales :  abréviations génériques de nasales, abréviations  sur <hi rend="i">p</hi>, <hi rend="i">nomina sacra</hi>, etc.</p> 	<p>Comme souvent, il est plus développé dans la glose, où  figurent en particulier abondamment l'abréviation tironienne pour <hi rend="i">est</hi>  (÷) et les formes en une lettre de <hi rend="i">idest</hi> (.<hi rend="i">i</hi>.), <hi rend="i">scilicet</hi>  (.<hi rend="i">s</hi>.), <hi rend="i">vel</hi> (<hi rend="i">l</hi> barré).</p>
-	      </div>
-	    </div>
-	    <div>
-	      <head>Structuraction</head>
-	      <div> 	<p>  	 <hi rend="strong">La séparation des mots</hi> est à peu près  régulière. Cependant les monosyllabes, prépositions et  conjonctions, comme c'est très souvent le cas, s'agglutinent au mot  voisin, et les adjectifs peuvent de même se souder au substantif auquel  ils se rapportent. Ces groupements constituent des unités surtout pour  la prononciation (avec un accent tonique unique ou principal), et accessoirement  pour le sens.</p> 	<p><hi rend="strong">La ponctuation</hi> utilise avec régularité les  trois signes habituels :</p>  	<hi rend="i">comma</hi>, un point légèrement élevé  = pause courte (cf. notre virgule) ; 	<hi rend="i">colon</hi>, un point-virgule renversé = pause moyenne (cf. notre  point-virgule) ; 	<hi rend="i">periodus</hi>, ici un point-virgule simple = pause forte (cf. notre  point).  	<p>Le <hi rend="i">periodus</hi> est systématiquement suivi d'une initiale agrandie,  dont la morphologie est essentiellement empruntée à l'onciale,  et dont la dimension variable introduit une hiérarchie supplémentaire  dans le découpage du texte.</p> 	<p><hi rend="strong">La disposition de la glose</hi> par rapport au texte n'est pas  planifiée à l'avance, bien que tous deux soient de la même  main. La glose n'est même pas rédigée dans l'ordre du  texte, ce qui interdit toute mise en page logique. Elle est placée  d'abord au plus près du passage commenté, soit dans l'interligne,  soit, si elle est plus longue, dans la marge voisine, et introduite par <hi rend="i">idest</hi>  ou <hi rend="i">scilicet</hi>. Au fur et à mesure du remplissage de la marge,  il devient nécessaire de recourir à des signes de renvoi et  de placer les gloses en fonction de l'espace nécessaire pour chacune,  jusque dans les marges supérieure et inférieure. Les <hi rend="strong">signes  de renvoi</hi> sont des dessins arbitraires, qui ne peuvent constituer  une série logique (comme nos notes appelées par des numéros  ou des lettres), et dont les formes peuvent éventuellement prêter  à confusion ; aussi les mots à commenter sont-ils repris  par précaution au début de la glose. Le repérage est  au total bien incommode, et exige de donner aux signes de renvoi une assez  grande dimension pour qu'ils soient bien visibles. L'aspect de la page n'en  est que plus touffu.</p>  	  </div> 	</div>
-	    </div>
-        </body>
-    </text>
-</TEI.2>
