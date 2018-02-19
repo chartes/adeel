@@ -1,227 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>[1165-1172]. Charte du roi d'Angleterre</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">52</idno>
-                <publisher>Ecole nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig. : Bibl. nat. de Fr.</p>
-                <p>Fac-sim. : ENC AF 426 (lithographie).</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc> </profileDesc>
-    </teiHeader>
-    <text>
-        <front> </front>
-        <body>
-            <div type="facsimile">
-                <p>
-                    <seg rend="13,99,455,139">H<ex>enricus</ex> rex Angl<ex>orum</ex>
- <ex>et</ex> dux Norm<ex>annorum</ex>
- <ex>et</ex> Aquit<ex>anorum</ex>
-</seg>
-                    <seg rend="463,101,763,154"><ex>et</ex> com<ex>es</ex> Andeg<ex>avorum</ex>, archiep<ex>iscop</ex>o Rotho-</seg>
-                    <seg rend="21,153,403,194">-mag<ex>ensi</ex>
- <ex>et</ex> om<ex>n</ex>ibus baronib<ex>us</ex> Norma<ex>nnie</ex>, sal<ex>u</ex>t<ex>em</ex>.</seg>
-                    <seg rend="409,159,761,206">Precipio q<ex>uo</ex>d abbas S<ex>an</ex>c<ex>ti</ex> Petri Carnot<ex>ensis</ex></seg>
-                    <seg rend="21,220,332,256"><ex>et</ex> monachi teneant eccl<ex>es</ex>ias <ex>et</ex> t<ex>er</ex>ras</seg>
-                    <seg rend="339,229,749,264"><ex>et</ex> elemosinas <ex>et</ex> om<ex>ne</ex>s decimas <ex>et</ex> redditus suos de</seg>
-                    <seg rend="26,286,328,321">Norm<ex>annia</ex>
- <ex>et</ex> om<ex>ne</ex>s quietantias suas</seg>
-                    <seg rend="331,296,750,332">ita b<ex>e</ex>n<ex>e</ex>
- <ex>et</ex> i<ex>n</ex> pace <ex>et</ex> honorifice sic<ex>ut</ex> melius tenue-</seg>
-                    <seg rend="21,358,349,392">-runt te<ex>m</ex>p<ex>or</ex>e regis H<ex>enrici</ex> avi mei <ex>et</ex> meo</seg>
-                    <seg rend="351,363,748,396"><ex>et</ex> sic<ex>ut</ex> juste tenere debuerint. Et p<ex>ro</ex>hibeo ne</seg>
-                    <seg rend="24,429,334,458">ullus eis sup<ex>er</ex> hoc q<ex>u</ex>icq<ex>u</ex>a<ex>m</ex> forifatiat.</seg>
-                    <seg rend="338,427,749,464">Pret<ex>er</ex>[e]a do eis <ex>et</ex> hac mea carta confirmo decem</seg>
-                    <seg rend="28,486,354,521">milia harengoru<ex>m</ex> annuati<ex>m</ex> habenda</seg>
-                    <seg rend="355,486,730,521">de decimis reddituu<ex>m</ex> meoru<ex>m</ex> de Molendinis <ex>et</ex></seg>
-                    <seg rend="32,540,417,576">Bonmolinis p<ex>er</ex> manu<ex>m</ex> prioris de Planchis.</seg>
-                    <seg rend="426,541,756,576">T<ex>estibus</ex> Rotr<ex>odo</ex> archiep<ex>iscop</ex>o Rothom<ex>agensi</ex>, Hamel<ex>ino</ex></seg>
-                    <seg rend="36,598,385,630">com<ex>ite</ex> de Warenna, Rob<ex>er</ex>to com<ex>ite</ex> de Legr<ex>ecestria</ex>,</seg>
-                    <seg rend="387,596,739,630">Ric<ex>ardo</ex> de Hum<ex>etis</ex> conest<ex>abulario</ex>, Will<ex>elm</ex>o de Caineto,</seg>
-                    <seg rend="39,653,340,686">Will<ex>elm</ex>o fil<ex>io</ex> Ham<ex>onis</ex>, Will<ex>elm</ex>o de Curci,</seg>
-                    <seg rend="344,646,751,682">Regin<ex>aldo</ex> de Curtenai, Walt<ex>er</ex>o de Dunst<ex>anvilla</ex>. Ap<ex>u</ex>d Vernoliu<ex>m</ex>.</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <l><term n="Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189." >H<ex>enricus</ex></term> rex <term n="Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.)." >Angl<ex>orum</ex></term>
- <ex>et</ex>
-                    </l>
-                    <l>dux Norm<ex>annorum</ex>
- <ex>et</ex>
-                    </l>
-                    <l>Aquit<ex>anorum</ex>
- <ex>et</ex> com<ex>es</ex>
-                    </l>
-                    <l>Andeg<ex>avorum</ex>, archiep<ex>iscop</ex>o </l>
-                    <l>Rothomag<ex>ensi</ex>
- <ex>et</ex>
-                    </l>
-                    <l>om<ex>n</ex>ibus baronib<ex>us</ex>
-                    </l>
-                    <l>Norma<ex>nnie</ex>, sal<ex>u</ex>t<ex>em</ex>. </l>
-                    <l>Precipio q<ex>uo</ex>d abbas </l>
-                    <l>
-                        <term n="Saint-Père-en-Vallée à Chartres, abbaye bénédictine." >S<ex>an</ex>c<ex>ti</ex> Petri Carnot<ex>ensis</ex></term>
-                    </l>
-                    <l><ex>et</ex> monachi teneant </l>
-                    <l>eccl<ex>es</ex>ias <ex>et</ex> t<ex>er</ex>ras </l>
-                    <l><ex>et</ex> elemosinas <ex>et</ex> om<ex>ne</ex>s </l>
-                    <l>decimas <ex>et</ex> redditus suos de</l>
-                    <l>Norm<ex>annia</ex>
- <ex>et</ex> om<ex>ne</ex>s </l>
-                    <l>quietantias suas ita b<ex>e</ex>n<ex>e</ex>
-                    </l>
-                    <l><ex>et</ex> i<ex>n</ex> pace <ex>et</ex> honorifice </l>
-                    <l>sic<ex>ut</ex> melius tenuerunt </l>
-                    <l>te<ex>m</ex>p<ex>or</ex>e regis <term n="Henri Ier Beauclerc, l’un des fils de Guillaume le Conquérant, roi d’Angleterre (1100-1135) et duc de Normandie depuis 1106, dont la succession a été revendiquée par Geoffroy Plantagenet, qui avait épousé sa fille Mathilde, puis par leur fils Henri II." >H<ex>enrici</ex></term>
-                    </l>
-                    <l>avi mei <ex>et</ex> meo <ex>et</ex> sic<ex>ut</ex>
-                    </l>
-                    <l>juste tenere debuerint. </l>
-                    <l>Et p<ex>ro</ex>hibeo ne ullus eis </l>
-                    <l>sup<ex>er</ex> hoc q<ex>u</ex>icq<ex>u</ex>a<ex>m</ex>
-                    </l>
-                    <l>forifatiat. Pret<ex>ere</ex>a do eis </l>
-                    <l><ex>et</ex> hac mea carta confirmo </l>
-                    <l>decem milia harengoru<ex>m</ex>
-                    </l>
-                    <l>annuati<ex>m</ex> habenda de decimis </l>
-                    <l>reddituu<ex>m</ex> meoru<ex>m</ex> de </l>
-                    <l>
-                        <term n="Moulins-la-Marche (Orne, ch.-l. cant.).">Molendinis</term>
- <ex>et</ex>
-                        <term n="Bonsmoulins (Orne, cant. Moulins-la-Marche).">Bonmolinis</term>
-                    </l>
-                    <l>p<ex>er</ex> manu<ex>m</ex> prioris </l>
-                    <l>de <term n="Les Planches (Orne, cant. Le Merlerault) était le siège du prieuré de Notre-Dame des Planches, dépendance de Saint-Père de Chartres." >Planchis</term>. T<ex>estibus</ex>
-                    </l>
-                    <l><term n="Rotrou de Warwick, évêque d’Évreux (1139-1164), puis archevêque de Rouen jusqu’à sa mort en 1183, fut un proche du roi, pour qui il remplit de nombreuses missions et dont il fut en 1182 exécuteur testamentaire." >Rotr<ex>odo</ex></term> archiep<ex>iscop</ex>o </l>
-                    <l>Rothom<ex>agensi</ex>, <term n="Hamelin, frère naturel d’Henri II, avait épousé en 1164 Isabelle, fille de Guillaume III comte de Waren et de Surrey. Il resta fidèle au roi lors du grand soulèvement de 1173." >Hamel<ex>ino</ex></term>
-                    </l>
-                    <l>com<ex>ite</ex> de Warenna, </l>
-                    <l>
-                        <term n="Robert de Leicester peut être Robert II de Beaumont, comte de Leicester et justicier d’Angleterre, ou bien Robert III, qui succéda à son père en 1168 ; il devint en 1173 chef de file des barons révoltés et vit ses biens confisqués ; il revint en grâce en 1177." >Rob<ex>er</ex>to</term>
-                    </l>
-                    <l>com<ex>ite</ex> de Legr<ex>ecestria</ex>, </l>
-                    <l><term n="Richard de Hommet, issu d’un lignage de fidèles des ducs de Normandie, fut connétable de Normandie jusqu’en 1178." >Ric<ex>ardo</ex></term> de Hum<ex>etis</ex>
-                    </l>
-                    <l>conest<ex>abulario</ex>, <term n="Guillaume de Caineto, proche d’Henri II, cité dans les rouleaux des comptes royaux jusqu’en 1175." >Will<ex>elm</ex>o</term>
-                    </l>
-                    <l>de Caineto, <term n="Guillaume fils d’Hamon, cité dans les rouleaux de comptes royaux jusqu’en 1176, prit part en 1166 à la campagne de Bretagne et fut probablement gouverneur de la partie annexée de cette province." >Will<ex>elm</ex>o</term> fil<ex>io</ex>
-                    </l>
-                    <l>Ham<ex>onis</ex>, <term n="Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon." >Will<ex>elm</ex>o</term> de Curci, </l>
-                    <l><term n="Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier." >Regin<ex>aldo</ex></term> de Curtenai, </l>
-                    <l>Walt<ex>er</ex>o de Dunst<ex>anvilla</ex>. </l>
-                    <l>Ap<ex>u</ex>d <term n="Verneuil-sur-Avre, Eure, ch.-l. cant." >Vernoliu<ex>m</ex></term>.</l>
-                </div>
-                <div type="translation">
-                    <l><term n="Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189." >Henri</term>, roi d'<term n="Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.)." >Angleterre</term>
-                    </l>
-                    <l>et duc de Normandie </l>
-                    <l>et d'Aquitaine et comte </l>
-                    <l>d'Anjou, à l'archevêque </l>
-                    <l>de Rouen et à tous les </l>
-                    <l>barons de Normandie, </l>
-                    <l>salut. J'ordonne que </l>
-                    <l>l'abbé de <term n="Saint-Père-en-Vallée à Chartres, abbaye bénédictine." >Saint-Père de</term>
-                    </l>
-                    <l><term n="Saint-Père-en-Vallée à Chartres, abbaye bénédictine." >Chartres</term> et les moines </l>
-                    <l>tiennent les églises, </l>
-                    <l>terres, aumônes et tous </l>
-                    <l>leurs dîmes et revenus </l>
-                    <l>en Normandie et toutes </l>
-                    <l>leurs exemptions aussi </l>
-                    <l>bien, en toute paix et </l>
-                    <l>honneur, qu'ils les ont </l>
-                    <l>tenus au mieux du temps </l>
-                    <l>de mon aïeul <term n="Henri Ier Beauclerc, l’un des fils de Guillaume le Conquérant, roi d’Angleterre (1100-1135) et duc de Normandie depuis 1106, dont la succession a été revendiquée par Geoffroy Plantagenet, qui avait épousé sa fille Mathilde, puis par leur fils Henri II." >Henri</term> et du </l>
-                    <l>mien, et comme ils les </l>
-                    <l>doivent justement tenir. </l>
-                    <l>Et j'interdis que </l>
-                    <l>quiconque leur en porte </l>
-                    <l>tort en quoi que ce soit. </l>
-                    <l>En outre je leur donne et </l>
-                    <l>confirme par cette </l>
-                    <l>mienne charte dix </l>
-                    <l>milliers de harengs à </l>
-                    <l>recevoir chaque année </l>
-                    <l>sur les dîmes de mes </l>
-                    <l>revenus de <term n="Moulins-la-Marche (Orne, ch.-l. cant.).">Moulins</term> et de </l>
-                    <l><term n="Bonsmoulins (Orne, cant. Moulins-la-Marche).">Bonsmoulins</term> par la main </l>
-                    <l>du prieur des <term n="Les Planches (Orne, cant. Le Merlerault) était le siège du prieuré de Notre-Dame des Planches, dépendance de Saint-Père de Chartres." >Planches</term>. </l>
-                    <l>Témoins <term n="Rotrou de Warwick, évêque d’Évreux (1139-1164), puis archevêque de Rouen jusqu’à sa mort en 1183, fut un proche du roi, pour qui il remplit de nombreuses missions et dont il fut en 1182 exécuteur testamentaire." >Rotrou</term> archevêque </l>
-                    <l>de Rouen, <term n="Hamelin, frère naturel d’Henri II, avait épousé en 1164 Isabelle, fille de Guillaume III comte de Waren et de Surrey. Il resta fidèle au roi lors du grand soulèvement de 1173." >Hamelin</term> comte </l>
-                    <l>de Waren, <term n="Robert de Leicester peut être Robert II de Beaumont, comte de Leicester et justicier d’Angleterre, ou bien Robert III, qui succéda à son père en 1168 ; il devint en 1173 chef de file des barons révoltés et vit ses biens confisqués ; il revint en grâce en 1177." >Robert</term> comte de </l>
-                    <l>Leicester, <term n="Richard de Hommet, issu d’un lignage de fidèles des ducs de Normandie, fut connétable de Normandie jusqu’en 1178." >Richard</term> de </l>
-                    <l>Hommet connétable, </l>
-                    <l><term n="Guillaume de Caineto, proche d’Henri II, cité dans les rouleaux des comptes royaux jusqu’en 1175." >Guillaume</term> de Caineto, </l>
-                    <l><term n="Guillaume fils d’Hamon, cité dans les rouleaux de comptes royaux jusqu’en 1176, prit part en 1166 à la campagne de Bretagne et fut probablement gouverneur de la partie annexée de cette province." >Guillaume</term> fils d'Hamon, </l>
-                    <l><term n="Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon." >Guillaume</term> de Courcy, </l>
-                    <l><term n="Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier." >Renaud</term> de Courtenay, </l>
-                    <l>Gautier de Dunstanvilla. </l>
-                    <l>[Fait] à <term n="Verneuil-sur-Avre, Eure, ch.-l. cant.">Verneuil</term>.
-                    </l>
-                </div>
-                <div type="regeste">
-                    <head>[1165-1172]. - Verneuil.</head>
-                    <p>Henri [II Plantagenet] confirme au monastère Saint-Père de Chartres tous les biens et revenus de celui-ci en Normandie et lui confirme une rente annuelle de dix mille harengs, assignée sur les revenus du roi à Moulins et Bonsmoulins, à percevoir par les mains du prieur des Planches.</p>
-                    <div type="precision">
-                        <p>Acte déjà édité par Léopold Delisle et Élie Berger, <hi rend="italique" >Recueil des actes de Henri II roi d'Angleterre et duc de Normandie concernant les provinces françaises et les affaires de France</hi>, Paris, 1909-1927, 3 vol. (<hi rend="italique">Chartes et diplômes</hi>), au t. I, n° 427 (une nouvelle édition, incluant les actes pour des destinataires anglais, est en préparation aux soins de Nicholas Vincent).</p>
-                    </div>
-                </div>
-            </div>
-            <div type="diplomatic">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Caractères externes</head> 
-                    <div>
-                        <p>
-                            <figure rend="52/faxexternes.jpg">
-                                <figDesc>
-                                    <seg rend="34,71,31">Caractéristique des actes anglo-normands, la sévérité des abréviations des noms de personne gagne le nom de l?auteur, comme plus bas celui de son aïeul.</seg>
-                                    <seg rend="141,85,10">Le point est le seul signe de ponctuation utilisé par le scribe. Il individualise certaines formules et les noms de personne et de lieu.</seg>
-                                    <seg rend="289,514,29">Scellage sur double queue de parchemin.</seg>
-
-                                    <seg rend="54,534,27">Tortil de parchemin apposé plus tard, sans doute à des fins archivistiques.</seg>
-                                </figDesc>
-                            </figure>
-                       </p>
-
-                        <p>Le format de l’acte est presque carré et un peu irrégulier. Le sceau, dont l’existence était encore mentionnée au XVII<hi rend="sup" >e</hi> siècle, était de cire rouge. Marges quasi inexistantes, mais interlignage assez régulier, encore que les dernières lignes soient plus tassées ; écriture rapide aux abréviations d’autant plus sévères que les mots et formules sont connus et attendus (le nom de l’auteur et le mot « Testibus » sont réduits à l’initiale), mais emphase des majuscules redoublées et de nombreuses lettres étirées (dont les <hi rend="i" >a</hi> et <hi rend="i">r</hi> typiques de l'écriture anglaise), qui aèrent l’aspect général : autant de signes ambivalents qui suggèrent à la fois la majesté et le pragmatisme.</p>
-                    </div>
-                </div>
-                <div>
-                    <head>Parties du discours</head> 
-                    <div>
-                        <p>
-                            <seg corresp="suscription">Henricus rex Anglorum et dux Normannorum et Aquitanorum et comes Andegavorum,<note id="suscription">Suscription.</note></seg>
-                            <seg corresp="adresse">archiepiscopo Rothomagensi et omnibus baronibus Normannie,<note id="adresse">Adresse (personnelle puis collective).</note></seg>
-                            <seg corresp="salut">salutem.<note id="salut" >Salut.</note></seg>
-                            <seg corresp="dispositif">Precipio quod abbas Sancti Petri Carnotensis et monachi teneant ecclesias et terras et elemosinas et omnes decimas et redditus suos de Normannia et omnes quietantias suas ita bene et in pace et honorifice sicut melius tenuerunt tempore regis Henrici avi mei et meo et sicut juste tenere debuerint. Et prohibeo ne ullus eis super hoc quicquam forifatiat. Preterea do eis et hac mea carta confirmo decem milia harengorum annuatim habenda de decimis reddituum meorum de Molendinis et Bonmolinis per manum prioris de Planchis.<note id="dispositif" >Dispositif.</note></seg>
-                            <seg corresp="temoins">Testibus Rotrodo archiepiscopo Rothomagensi, Hamelino comite de Warenna, Roberto comite de Legrecestria, Ricardo de Humetis conestabulario, Willelmo de Caineto, Willelmo filio Hamonis, Willelmo de Curci, Reginaldo de Curtenai, Waltero de Dunstanvilla.<note id="temoins" >Liste de témoins.</note></seg>
-                            <seg corresp="date">Apud Vernolium.<note id="date" >Date de lieu.</note></seg>
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Interprétation</head>
-                    <div>
-                        <p>Le style de l’acte offre un contrepoint parfait aux particularités graphiques. Il est en effet composé dans un latin fluide et clair, sans aucun ornement littéraire. La finalité du document exclut toute invocation, tout préambule, et jusqu’au moindre exposé. Tous les mots sont pesés. Le ton, martelé par la réitération des verbes de commandement (<hi rend="i">precipio</hi>... <hi rend="i">et prohibeo</hi>... <hi rend="i">preterea do</hi>... <hi rend="i">et confirmo</hi>...), est cassant. Les formulations se retrouvent d’ailleurs à l’identique, sans souci de variété, d’un acte à l’autre, à un haut degré de stéréotype, très loin, déjà, des déploiements rhétoriques de l’acte capétien, qui sera tenté, un temps, par ce style très « administratif ».</p>
-                        <p>Le document présente, au plan de la stricte technique diplomatique, les caractéristiques les plus typiques des « chartes » (catégorie supérieure en solennité), et plus largement des actes de la chancellerie anglo-normande, dont la production est déjà abondante et normée : l’autodésignation de l’acte par un terme précis, ici <hi rend="i" >carta</hi> (l. 6) ; l’utilisation par le roi de la première personne du singulier (le « nous » de majesté n’est introduit que sous Richard Cœur-de-Lion) ; l’adresse collective formée d’une énumération plus ou moins longue de destinataires (au moins potentiels), nettement distincts du bénéficiaire ; La formule d’adresse collective est caractéristique des chartes royales anglaises, et dans son essence, et dans son adaptation au ressort concerné (ici la Normandie). Elle désigne ici en premier lieu l’archevêque de Rouen, dont la province couvre l’ensemble du duché, et qui est considéré comme le garant naturel des actes émis par les rois d’Angleterre comme ducs de Normandie. Le parallèle est fait ensuite avec la hiérarchie laïque, celle de tous les « barons de Normandie », premier relais du pouvoir royal-ducal. l’absence de date de temps, qui ne s’introduit que sous Richard Cœur-de-Lion. De fait, c’est surtout grâce à l’étude serrée de la liste de témoins, le cas échéant des formules de suscription et de la date de lieu, rapprochée de l’itinéraire royal, qu’il est possible de donner une estimation de date de temps, dans une fourchette plus ou moins large — l’une des raisons d’ailleurs de l’intérêt précoce des érudits et historiens anglais pour la prosopographie des élites anglo-normandes.</p>
-                        <p>Voyons dans ce cas précis comment procéder. Henri II reste seul en lice (contre Henri I<hi rend="sup">er</hi>, 1100-1135, ou Henri III, 1216-1272) du fait de sa titulature très typée (accessoirement, on peut invoquer l’écriture ; le sceau, ici perdu ; des allusions faites dans le texte, ici à un aïeul Henri — mais elle vaudrait aussi pour Henri III...). Le titre de “rex Anglorum” restreint ensuite (légèrement) la fourchette à la période 1154-1189. L’adoption de la formule de dévotion “Dei gratia” (ici absente) remonterait, d’après les spécialistes, à 1172, ce qui donne un <hi rend="i">terminus ad quem</hi> fort précieux.</p>
-                        <p>Ces constatations qui font opter pour une fourchette [1154-1172] peuvent être recoupées et affinées par l’étude des témoins. On sait en particulier que Rotrou de Warwick est archevêque de Rouen de 1164/1165 à novembre 1183 et qu’Hamelin de Warren est comte à partir de 1164. On sait enfin qu’Henri II était en Angleterre en 1164 et n’est revenu en France qu’en 1165. En somme, l’acte ne peut être antérieur à 1165. Aucun autre indice n’est en l’état actuel des connaissances disponible pour resserrer la fourchette [1165-1172].</p>
-                        <p>La présence de l’acte à Paris s’explique par le fait que la Bibliothèque nationale a reçu une collection de 141 pièces tirées du chartrier de Saint-Père de Chartres sous la Révolution ou l’Empire, sans doute en 1796, en application des mesures visant à réunir à Paris les actes intéressant l’histoire de France, et en particulier issus des chartriers ecclésiastiques nationalisés. Cette collection a aussi gardé la charte d’Henri I<hi rend="sup">er</hi> implicitement visée dans celle d’Henri II, et datable de [1130-1135].</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>[1165-1172]. Charte du roi d'Angleterre</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">52</idno>
+        <publisher>Ecole nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Bibl. nat. de Fr.</p>
+        <p>Fac-sim. : ENC AF 426 (lithographie).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc> </profileDesc>
+  </teiHeader>
+  <text>
+    <front> </front>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="13,99,455,139">H<ex>enricus</ex> rex Angl<ex>orum</ex> <ex>et</ex> dux Norm<ex>annorum</ex> <ex>et</ex> Aquit<ex>anorum</ex></seg>
+          <seg rend="463,101,763,154"><ex>et</ex> com<ex>es</ex> Andeg<ex>avorum</ex>, archiep<ex>iscop</ex>o Rotho-</seg>
+          <seg rend="21,153,403,194">-mag<ex>ensi</ex> <ex>et</ex> om<ex>n</ex>ibus baronib<ex>us</ex> Norma<ex>nnie</ex>, sal<ex>u</ex>t<ex>em</ex>.</seg>
+          <seg rend="409,159,761,206">Precipio q<ex>uo</ex>d abbas S<ex>an</ex>c<ex>ti</ex> Petri Carnot<ex>ensis</ex></seg>
+          <seg rend="21,220,332,256"><ex>et</ex> monachi teneant eccl<ex>es</ex>ias <ex>et</ex> t<ex>er</ex>ras</seg>
+          <seg rend="339,229,749,264"><ex>et</ex> elemosinas <ex>et</ex> om<ex>ne</ex>s decimas <ex>et</ex> redditus suos de</seg>
+          <seg rend="26,286,328,321">Norm<ex>annia</ex> <ex>et</ex> om<ex>ne</ex>s quietantias suas</seg>
+          <seg rend="331,296,750,332">ita b<ex>e</ex>n<ex>e</ex> <ex>et</ex> i<ex>n</ex> pace <ex>et</ex> honorifice sic<ex>ut</ex> melius tenue-</seg>
+          <seg rend="21,358,349,392">-runt te<ex>m</ex>p<ex>or</ex>e regis H<ex>enrici</ex> avi mei <ex>et</ex> meo</seg>
+          <seg rend="351,363,748,396"><ex>et</ex> sic<ex>ut</ex> juste tenere debuerint. Et p<ex>ro</ex>hibeo ne</seg>
+          <seg rend="24,429,334,458">ullus eis sup<ex>er</ex> hoc q<ex>u</ex>icq<ex>u</ex>a<ex>m</ex> forifatiat.</seg>
+          <seg rend="338,427,749,464">Pret<ex>er</ex>[e]a do eis <ex>et</ex> hac mea carta confirmo decem</seg>
+          <seg rend="28,486,354,521">milia harengoru<ex>m</ex> annuati<ex>m</ex> habenda</seg>
+          <seg rend="355,486,730,521">de decimis reddituu<ex>m</ex> meoru<ex>m</ex> de Molendinis <ex>et</ex></seg>
+          <seg rend="32,540,417,576">Bonmolinis p<ex>er</ex> manu<ex>m</ex> prioris de Planchis.</seg>
+          <seg rend="426,541,756,576">T<ex>estibus</ex> Rotr<ex>odo</ex> archiep<ex>iscop</ex>o Rothom<ex>agensi</ex>, Hamel<ex>ino</ex></seg>
+          <seg rend="36,598,385,630">com<ex>ite</ex> de Warenna, Rob<ex>er</ex>to com<ex>ite</ex> de Legr<ex>ecestria</ex>,</seg>
+          <seg rend="387,596,739,630">Ric<ex>ardo</ex> de Hum<ex>etis</ex> conest<ex>abulario</ex>, Will<ex>elm</ex>o de Caineto,</seg>
+          <seg rend="39,653,340,686">Will<ex>elm</ex>o fil<ex>io</ex> Ham<ex>onis</ex>, Will<ex>elm</ex>o de Curci,</seg>
+          <seg rend="344,646,751,682">Regin<ex>aldo</ex> de Curtenai, Walt<ex>er</ex>o de Dunst<ex>anvilla</ex>. Ap<ex>u</ex>d Vernoliu<ex>m</ex>.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l><term n="Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189." >H<ex>enricus</ex></term> rex <term n="Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.)." >Angl<ex>orum</ex></term> <ex>et</ex></l>
+          <l>dux Norm<ex>annorum</ex> <ex>et</ex></l>
+          <l>Aquit<ex>anorum</ex> <ex>et</ex> com<ex>es</ex></l>
+          <l>Andeg<ex>avorum</ex>, archiep<ex>iscop</ex>o </l>
+          <l>Rothomag<ex>ensi</ex> <ex>et</ex></l>
+          <l>om<ex>n</ex>ibus baronib<ex>us</ex></l>
+          <l>Norma<ex>nnie</ex>, sal<ex>u</ex>t<ex>em</ex>. </l>
+          <l>Precipio q<ex>uo</ex>d abbas </l>
+          <l><term n="Saint-Père-en-Vallée à Chartres, abbaye bénédictine." >S<ex>an</ex>c<ex>ti</ex> Petri Carnot<ex>ensis</ex></term></l>
+          <l><ex>et</ex> monachi teneant </l>
+          <l>eccl<ex>es</ex>ias <ex>et</ex> t<ex>er</ex>ras </l>
+          <l><ex>et</ex> elemosinas <ex>et</ex> om<ex>ne</ex>s </l>
+          <l>decimas <ex>et</ex> redditus suos de</l>
+          <l>Norm<ex>annia</ex> <ex>et</ex> om<ex>ne</ex>s </l>
+          <l>quietantias suas ita b<ex>e</ex>n<ex>e</ex></l>
+          <l><ex>et</ex> i<ex>n</ex> pace <ex>et</ex> honorifice </l>
+          <l>sic<ex>ut</ex> melius tenuerunt </l>
+          <l>te<ex>m</ex>p<ex>or</ex>e regis <term n="Henri Ier Beauclerc, l’un des fils de Guillaume le Conquérant, roi d’Angleterre (1100-1135) et duc de Normandie depuis 1106, dont la succession a été revendiquée par Geoffroy Plantagenet, qui avait épousé sa fille Mathilde, puis par leur fils Henri II." >H<ex>enrici</ex></term></l>
+          <l>avi mei <ex>et</ex> meo <ex>et</ex> sic<ex>ut</ex></l>
+          <l>juste tenere debuerint. </l>
+          <l>Et p<ex>ro</ex>hibeo ne ullus eis </l>
+          <l>sup<ex>er</ex> hoc q<ex>u</ex>icq<ex>u</ex>a<ex>m</ex></l>
+          <l>forifatiat. Pret<ex>ere</ex>a do eis </l>
+          <l><ex>et</ex> hac mea carta confirmo </l>
+          <l>decem milia harengoru<ex>m</ex></l>
+          <l>annuati<ex>m</ex> habenda de decimis </l>
+          <l>reddituu<ex>m</ex> meoru<ex>m</ex> de </l>
+          <l><term n="Moulins-la-Marche (Orne, ch.-l. cant.).">Molendinis</term> <ex>et</ex> <term n="Bonsmoulins (Orne, cant. Moulins-la-Marche).">Bonmolinis</term></l>
+          <l>p<ex>er</ex> manu<ex>m</ex> prioris </l>
+          <l>de <term n="Les Planches (Orne, cant. Le Merlerault) était le siège du prieuré de Notre-Dame des Planches, dépendance de Saint-Père de Chartres." >Planchis</term>. T<ex>estibus</ex></l>
+          <l><term n="Rotrou de Warwick, évêque d’Évreux (1139-1164), puis archevêque de Rouen jusqu’à sa mort en 1183, fut un proche du roi, pour qui il remplit de nombreuses missions et dont il fut en 1182 exécuteur testamentaire." >Rotr<ex>odo</ex></term> archiep<ex>iscop</ex>o </l>
+          <l>Rothom<ex>agensi</ex>, <term n="Hamelin, frère naturel d’Henri II, avait épousé en 1164 Isabelle, fille de Guillaume III comte de Waren et de Surrey. Il resta fidèle au roi lors du grand soulèvement de 1173." >Hamel<ex>ino</ex></term></l>
+          <l>com<ex>ite</ex> de Warenna, </l>
+          <l><term n="Robert de Leicester peut être Robert II de Beaumont, comte de Leicester et justicier d’Angleterre, ou bien Robert III, qui succéda à son père en 1168 ; il devint en 1173 chef de file des barons révoltés et vit ses biens confisqués ; il revint en grâce en 1177." >Rob<ex>er</ex>to</term></l>
+          <l>com<ex>ite</ex> de Legr<ex>ecestria</ex>, </l>
+          <l><term n="Richard de Hommet, issu d’un lignage de fidèles des ducs de Normandie, fut connétable de Normandie jusqu’en 1178." >Ric<ex>ardo</ex></term> de Hum<ex>etis</ex></l>
+          <l>conest<ex>abulario</ex>, <term n="Guillaume de Caineto, proche d’Henri II, cité dans les rouleaux des comptes royaux jusqu’en 1175." >Will<ex>elm</ex>o</term></l>
+          <l>de Caineto, <term n="Guillaume fils d’Hamon, cité dans les rouleaux de comptes royaux jusqu’en 1176, prit part en 1166 à la campagne de Bretagne et fut probablement gouverneur de la partie annexée de cette province." >Will<ex>elm</ex>o</term> fil<ex>io</ex>          </l>
+          <l>Ham<ex>onis</ex>, <term n="Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon." >Will<ex>elm</ex>o</term> de Curci, </l>
+          <l><term n="Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier." >Regin<ex>aldo</ex></term> de Curtenai, </l>
+          <l>Walt<ex>er</ex>o de Dunst<ex>anvilla</ex>. </l>
+          <l>Ap<ex>u</ex>d <term n="Verneuil-sur-Avre, Eure, ch.-l. cant." >Vernoliu<ex>m</ex></term>.</l>
+        </div>
+        <div type="translation">
+          <l><term n="Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189." >Henri</term>, roi d'<term n="Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.)." >Angleterre</term>
+          </l>
+          <l>et duc de Normandie </l>
+          <l>et d'Aquitaine et comte </l>
+          <l>d'Anjou, à l'archevêque </l>
+          <l>de Rouen et à tous les </l>
+          <l>barons de Normandie, </l>
+          <l>salut. J'ordonne que </l>
+          <l>l'abbé de <term n="Saint-Père-en-Vallée à Chartres, abbaye bénédictine." >Saint-Père de</term>
+          </l>
+          <l><term n="Saint-Père-en-Vallée à Chartres, abbaye bénédictine." >Chartres</term> et les moines </l>
+          <l>tiennent les églises, </l>
+          <l>terres, aumônes et tous </l>
+          <l>leurs dîmes et revenus </l>
+          <l>en Normandie et toutes </l>
+          <l>leurs exemptions aussi </l>
+          <l>bien, en toute paix et </l>
+          <l>honneur, qu'ils les ont </l>
+          <l>tenus au mieux du temps </l>
+          <l>de mon aïeul <term n="Henri Ier Beauclerc, l’un des fils de Guillaume le Conquérant, roi d’Angleterre (1100-1135) et duc de Normandie depuis 1106, dont la succession a été revendiquée par Geoffroy Plantagenet, qui avait épousé sa fille Mathilde, puis par leur fils Henri II." >Henri</term> et du </l>
+          <l>mien, et comme ils les </l>
+          <l>doivent justement tenir. </l>
+          <l>Et j'interdis que </l>
+          <l>quiconque leur en porte </l>
+          <l>tort en quoi que ce soit. </l>
+          <l>En outre je leur donne et </l>
+          <l>confirme par cette </l>
+          <l>mienne charte dix </l>
+          <l>milliers de harengs à </l>
+          <l>recevoir chaque année </l>
+          <l>sur les dîmes de mes </l>
+          <l>revenus de <term n="Moulins-la-Marche (Orne, ch.-l. cant.).">Moulins</term> et de </l>
+          <l><term n="Bonsmoulins (Orne, cant. Moulins-la-Marche).">Bonsmoulins</term> par la main </l>
+          <l>du prieur des <term n="Les Planches (Orne, cant. Le Merlerault) était le siège du prieuré de Notre-Dame des Planches, dépendance de Saint-Père de Chartres." >Planches</term>. </l>
+          <l>Témoins <term n="Rotrou de Warwick, évêque d’Évreux (1139-1164), puis archevêque de Rouen jusqu’à sa mort en 1183, fut un proche du roi, pour qui il remplit de nombreuses missions et dont il fut en 1182 exécuteur testamentaire." >Rotrou</term> archevêque </l>
+          <l>de Rouen, <term n="Hamelin, frère naturel d’Henri II, avait épousé en 1164 Isabelle, fille de Guillaume III comte de Waren et de Surrey. Il resta fidèle au roi lors du grand soulèvement de 1173." >Hamelin</term> comte </l>
+          <l>de Waren, <term n="Robert de Leicester peut être Robert II de Beaumont, comte de Leicester et justicier d’Angleterre, ou bien Robert III, qui succéda à son père en 1168 ; il devint en 1173 chef de file des barons révoltés et vit ses biens confisqués ; il revint en grâce en 1177." >Robert</term> comte de </l>
+          <l>Leicester, <term n="Richard de Hommet, issu d’un lignage de fidèles des ducs de Normandie, fut connétable de Normandie jusqu’en 1178." >Richard</term> de </l>
+          <l>Hommet connétable, </l>
+          <l><term n="Guillaume de Caineto, proche d’Henri II, cité dans les rouleaux des comptes royaux jusqu’en 1175." >Guillaume</term> de Caineto, </l>
+          <l><term n="Guillaume fils d’Hamon, cité dans les rouleaux de comptes royaux jusqu’en 1176, prit part en 1166 à la campagne de Bretagne et fut probablement gouverneur de la partie annexée de cette province." >Guillaume</term> fils d'Hamon, </l>
+          <l><term n="Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon." >Guillaume</term> de Courcy, </l>
+          <l><term n="Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier." >Renaud</term> de Courtenay, </l>
+          <l>Gautier de Dunstanvilla. </l>
+          <l>[Fait] à <term n="Verneuil-sur-Avre, Eure, ch.-l. cant.">Verneuil</term>.
+          </l>
+        </div>
+        <div type="regeste">
+          <head>[1165-1172]. - Verneuil.</head>
+          <p>Henri [II Plantagenet] confirme au monastère Saint-Père de Chartres tous les biens et revenus de celui-ci en Normandie et lui confirme une rente annuelle de dix mille harengs, assignée sur les revenus du roi à Moulins et Bonsmoulins, à percevoir par les mains du prieur des Planches.</p>
+          <p>Acte déjà édité par Léopold Delisle et Élie Berger, <hi rend="i">Recueil des actes de Henri II roi d'Angleterre et duc de Normandie concernant les provinces françaises et les affaires de France</hi>, Paris, 1909-1927, 3 vol. (<hi rend="italique">Chartes et diplômes</hi>), au t. I, n° 427 (une nouvelle édition, incluant les actes pour des destinataires anglais, est en préparation aux soins de Nicholas Vincent).</p>
+        </div>
+      </div>
+      <div type="speech">
+        <head>Parties du discours</head> 
+        <p>
+          <seg corresp="suscription">Henricus rex Anglorum et dux Normannorum et Aquitanorum et comes Andegavorum,<note id="suscription">Suscription.</note></seg>
+          <seg corresp="adresse">archiepiscopo Rothomagensi et omnibus baronibus Normannie,<note id="adresse">Adresse (personnelle puis collective).</note></seg>
+          <seg corresp="salut">salutem.<note id="salut" >Salut.</note></seg>
+          <seg corresp="dispositif">Precipio quod abbas Sancti Petri Carnotensis et monachi teneant ecclesias et terras et elemosinas et omnes decimas et redditus suos de Normannia et omnes quietantias suas ita bene et in pace et honorifice sicut melius tenuerunt tempore regis Henrici avi mei et meo et sicut juste tenere debuerint. Et prohibeo ne ullus eis super hoc quicquam forifatiat. Preterea do eis et hac mea carta confirmo decem milia harengorum annuatim habenda de decimis reddituum meorum de Molendinis et Bonmolinis per manum prioris de Planchis.<note id="dispositif" >Dispositif.</note></seg>
+          <seg corresp="temoins">Testibus Rotrodo archiepiscopo Rothomagensi, Hamelino comite de Warenna, Roberto comite de Legrecestria, Ricardo de Humetis conestabulario, Willelmo de Caineto, Willelmo filio Hamonis, Willelmo de Curci, Reginaldo de Curtenai, Waltero de Dunstanvilla.<note id="temoins" >Liste de témoins.</note></seg>
+          <seg corresp="date">Apud Vernolium.<note id="date" >Date de lieu.</note></seg>
+        </p>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head> 
+          <figure rend="52/faxexternes.jpg">
+            <figDesc>
+              <seg rend="34,71,31">Caractéristique des actes anglo-normands, la sévérité des abréviations des noms de personne gagne le nom de l?auteur, comme plus bas celui de son aïeul.</seg>
+              <seg rend="141,85,10">Le point est le seul signe de ponctuation utilisé par le scribe. Il individualise certaines formules et les noms de personne et de lieu.</seg>
+              <seg rend="289,514,29">Scellage sur double queue de parchemin.</seg>
+              <seg rend="54,534,27">Tortil de parchemin apposé plus tard, sans doute à des fins archivistiques.</seg>
+            </figDesc>
+          </figure>
+          <p>Le format de l’acte est presque carré et un peu irrégulier. Le sceau, dont l’existence était encore mentionnée au XVII<hi rend="sup" >e</hi> siècle, était de cire rouge. Marges quasi inexistantes, mais interlignage assez régulier, encore que les dernières lignes soient plus tassées ; écriture rapide aux abréviations d’autant plus sévères que les mots et formules sont connus et attendus (le nom de l’auteur et le mot « Testibus » sont réduits à l’initiale), mais emphase des majuscules redoublées et de nombreuses lettres étirées (dont les <hi rend="i" >a</hi> et <hi rend="i">r</hi> typiques de l'écriture anglaise), qui aèrent l’aspect général : autant de signes ambivalents qui suggèrent à la fois la majesté et le pragmatisme.</p>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <p>Le style de l’acte offre un contrepoint parfait aux particularités graphiques. Il est en effet composé dans un latin fluide et clair, sans aucun ornement littéraire. La finalité du document exclut toute invocation, tout préambule, et jusqu’au moindre exposé. Tous les mots sont pesés. Le ton, martelé par la réitération des verbes de commandement (<hi rend="i">precipio</hi>... <hi rend="i">et prohibeo</hi>... <hi rend="i">preterea do</hi>... <hi rend="i">et confirmo</hi>...), est cassant. Les formulations se retrouvent d’ailleurs à l’identique, sans souci de variété, d’un acte à l’autre, à un haut degré de stéréotype, très loin, déjà, des déploiements rhétoriques de l’acte capétien, qui sera tenté, un temps, par ce style très « administratif ».</p>
+          <p>Le document présente, au plan de la stricte technique diplomatique, les caractéristiques les plus typiques des « chartes » (catégorie supérieure en solennité), et plus largement des actes de la chancellerie anglo-normande, dont la production est déjà abondante et normée : l’autodésignation de l’acte par un terme précis, ici <hi rend="i" >carta</hi> (l. 6) ; l’utilisation par le roi de la première personne du singulier (le « nous » de majesté n’est introduit que sous Richard Cœur-de-Lion) ; l’adresse collective formée d’une énumération plus ou moins longue de destinataires (au moins potentiels), nettement distincts du bénéficiaire ; La formule d’adresse collective est caractéristique des chartes royales anglaises, et dans son essence, et dans son adaptation au ressort concerné (ici la Normandie). Elle désigne ici en premier lieu l’archevêque de Rouen, dont la province couvre l’ensemble du duché, et qui est considéré comme le garant naturel des actes émis par les rois d’Angleterre comme ducs de Normandie. Le parallèle est fait ensuite avec la hiérarchie laïque, celle de tous les « barons de Normandie », premier relais du pouvoir royal-ducal. l’absence de date de temps, qui ne s’introduit que sous Richard Cœur-de-Lion. De fait, c’est surtout grâce à l’étude serrée de la liste de témoins, le cas échéant des formules de suscription et de la date de lieu, rapprochée de l’itinéraire royal, qu’il est possible de donner une estimation de date de temps, dans une fourchette plus ou moins large — l’une des raisons d’ailleurs de l’intérêt précoce des érudits et historiens anglais pour la prosopographie des élites anglo-normandes.</p>
+          <p>Voyons dans ce cas précis comment procéder. Henri II reste seul en lice (contre Henri I<hi rend="sup">er</hi>, 1100-1135, ou Henri III, 1216-1272) du fait de sa titulature très typée (accessoirement, on peut invoquer l’écriture ; le sceau, ici perdu ; des allusions faites dans le texte, ici à un aïeul Henri — mais elle vaudrait aussi pour Henri III...). Le titre de “rex Anglorum” restreint ensuite (légèrement) la fourchette à la période 1154-1189. L’adoption de la formule de dévotion “Dei gratia” (ici absente) remonterait, d’après les spécialistes, à 1172, ce qui donne un <hi rend="i">terminus ad quem</hi> fort précieux.</p>
+          <p>Ces constatations qui font opter pour une fourchette [1154-1172] peuvent être recoupées et affinées par l’étude des témoins. On sait en particulier que Rotrou de Warwick est archevêque de Rouen de 1164/1165 à novembre 1183 et qu’Hamelin de Warren est comte à partir de 1164. On sait enfin qu’Henri II était en Angleterre en 1164 et n’est revenu en France qu’en 1165. En somme, l’acte ne peut être antérieur à 1165. Aucun autre indice n’est en l’état actuel des connaissances disponible pour resserrer la fourchette [1165-1172].</p>
+          <p>La présence de l’acte à Paris s’explique par le fait que la Bibliothèque nationale a reçu une collection de 141 pièces tirées du chartrier de Saint-Père de Chartres sous la Révolution ou l’Empire, sans doute en 1796, en application des mesures visant à réunir à Paris les actes intéressant l’histoire de France, et en particulier issus des chartriers ecclésiastiques nationalisés. Cette collection a aussi gardé la charte d’Henri I<hi rend="sup">er</hi> implicitement visée dans celle d’Henri II, et datable de [1130-1135].</p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

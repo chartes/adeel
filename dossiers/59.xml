@@ -1,94 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1265. Lettre épiscopale (Tyr)</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">59</idno>
-                <publisher>Ecole nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig. :</p>
-                <p>Fac-sim. ENC : AF 498 (lithographie).</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc/>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="facsimile">
-                <p>
-                    <seg rend="10,8,493,53">Rev<ex>er</ex>endo patri ac d<ex>omi</ex>no O<ex>ctaviano</ex>, Dei gr<ex>ati</ex>a Sancte Marie in Via Lata dyacono cardinali, . .</seg>
-                    <seg rend="505,28,780,61">Egidius miserac<ex>i</ex>o<ex>n</ex>e divina Tyren<ex>sis</ex> archiep<ex>iscopu</ex>s,</seg>
-                    <seg rend="18,53,495,78">sal<ex>u</ex>t<ex>em</ex> <ex>et</ex> obedienciam tam debitam q<ex>u</ex>am devotam cum om<ex>n</ex>i rev<ex>er</ex>encia <ex>et</ex> honore.</seg>
-                    <seg rend="499,61,786,90">Cum nos in novitate felicis creac<ex>i</ex>o<ex>n</ex>is s<ex>an</ex>c<ex>t</ex>issimi</seg>
-                    <seg rend="19,81,436,108">patris ac d<ex>omi</ex>ni n<ex>ost</ex>ri Clementis, divina p<ex>ro</ex>videncia summi pontificis,</seg>
-                    <seg rend="440,90,778,113">n<ex>ost</ex>ras eidem destinassemus litt<ex>er</ex>as, p<ex>er</ex> eas humiliter</seg>
-                    <seg rend="22,111,354,133">supplicando ut injunctum nob<ex>is</ex> Chr<ex>ist</ex>i crucis officium,</seg>
-                    <seg rend="358,114,774,139">in quo lic<ex>et</ex> parum utiliter t<ex>ame</ex>n pro n<ex>ost</ex>re possibilitatis modulo</seg>
-                    <seg rend="21,139,558,162">nu<ex>n</ex>c usq<ex>ue</ex> laboravimus diligenter, a n<ex>ost</ex>ris debilibus hum<ex>er</ex>is deponeri dignaretur</seg>
-                    <seg rend="563,142,794,168"><ex>et</ex> jugum on<ex>er</ex>is h<ex>u</ex>j<ex>us</ex>modi collo alte-</seg>
-                    <seg rend="20,165,393,189">-rius potencioris inponere, cujus circo<ex>m</ex>sp<ex>e</ex>ctione <ex>et</ex> industria</seg>
-                    <seg rend="399,167,784,190">p<ex>re</ex>fatum Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex> feliciorem sortiretur effectum,</seg>
-                    <seg rend="14,195,332,218">pat<ex>er</ex>nitati v<ex>est</ex>re rev<ex>er</ex>ende litt<ex>er</ex>as n<ex>ost</ex>ras deprecator<ex>ias</ex></seg>
-                    <seg rend="335,198,793,222">ut ad hoc n<ex>ost</ex>ri gracia laborare dignaremini specialit<ex>er</ex> dirigendo, ide<ex>m</ex></seg>
-                    <seg rend="17,232,444,254">d<ex>omi</ex>n<ex>u</ex>s summus pontifex, debilitati n<ex>ost</ex>re parcere renuens <ex>et</ex> etati,</seg>
-                    <seg rend="450,230,788,252">supplicac<ex>i</ex>o<ex>n</ex>es n<ex>ost</ex>ras admittere recusavit, ip<ex>su</ex>m nego-</seg>
-                    <seg rend="17,260,379,285">-cium imbecillitati n<ex>ost</ex>re sicut antea iterato committens.</seg>
-                    <seg rend="387,260,772,283">Cujus labor, q<ex>u</ex>antumcu<ex>m</ex>q<ex>ue</ex> nob<ex>is</ex> difficilis fu<ex>er</ex>it, ob rev<ex>er</ex>enciam</seg>
-                    <seg rend="18,294,544,317">t<ex>ame</ex>n mandator<ex>is</ex> ejusdem, cuj<ex>us</ex> voluntati resistere nec volumus nec debemus,</seg>
-                    <seg rend="549,291,778,316">illud devoto a<ex>n</ex>i<ex>m</ex>o pro n<ex>ost</ex>ris viribus</seg>
-                    <seg rend="18,324,445,345">tanq<ex>u</ex>am obediencie filius sicut alias fecimus diligent<ex>er</ex> exequimur</seg>
-                    <seg rend="447,325,781,348"><ex>et</ex> in ip<ex>s</ex>o afectuose p<ex>ro</ex>ut melius possumus labo-</seg>
-                    <seg rend="16,356,286,380">-ramus. P<ex>re</ex>fatum aut<ex>em</ex> Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex>,</seg>
-                    <seg rend="289,357,785,377">quod v<ex>est</ex>ro int<ex>er</ex>veniente suffragio ad bonu<ex>m</ex> fine<ex>m</ex> p<ex>er</ex>venire speramus, v<ex>est</ex>re</seg>
-                    <seg rend="21,388,522,410">rev<ex>er</ex>ende pat<ex>er</ex>nitati v<ex>est</ex>roq<ex>ue</ex> patrocinio q<ex>u</ex>anta devocione possumus commandamus,</seg>
-                    <seg rend="527,385,777,408">necno<ex>n</ex> n<ex>ost</ex>ram Tyren<ex>sem</ex> ecc<ex>lesi</ex>am, q<ex>u</ex>am volu-</seg>
-                    <seg rend="19,414,272,439">-mus esse v<ex>est</ex>ram, p<ex>ar</ex>ati ubicu<ex>m</ex>q<ex>ue</ex> fu<ex>er</ex>imus</seg>
-                    <seg rend="278,416,783,436">cum affectu p<ex>ar</ex>iter <ex>et</ex> effectu v<ex>est</ex>ris in om<ex>n</ex>ibus obtemp<ex>er</ex>are b<ex>e</ex>n<ex>e</ex>placitis <ex>et</ex> ma<ex>n</ex>-</seg>
-                    <seg rend="15,448,342,465">-datis. Valeat in D<ex>omi</ex>no v<ex>est</ex>ra paternitas rev<ex>er</ex>enda.</seg>
-                    <seg rend="347,447,751,467">Dat<ex>um</ex> Parisius, IX k<ex>a</ex>l<ex>endas</ex> decembris, anno D<ex>omi</ex>ni mill<ex>es</ex>i<ex>m</ex>o</seg>
-                    <seg rend="14,474,775,504">ducentesimo sexagesimo quinto.</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <l>Rev<ex>er</ex>endo patri ac d<ex>omi</ex>no <term n="Ottaviano Ubaldini. Créé cardinal-diacre de Santa Maria in Via Lata le 27 septembre 1244, fonction dont il reste en charge jusqu’au 28 février 1268." >O<ex>ctaviano</ex></term>, Dei gr<ex>ati</ex>a Sancte Marie in Via Lata dyacono cardinali, . . <term n="Gilles de Saumur, clerc de l’entourage du roi de France, a été garde du sceau royal et brièvement évêque de Damiette pendant la première croisade de Louis IX. Nommé archevêque de Tyr le 31 juillet 1254, il se voit confier par Urbain IV, en 1263, la prédication de la croisade et la collecte du centième dans le royaume de France. Il meurt en avril 1266." >Egidius</term> miserac<ex>i</ex>o<ex>n</ex>e divina <term n="Tyr, occupée par les croisés de 1124 à 1291." >Tyren<ex>sis</ex></term> archiep<ex>iscopu</ex>s, sal<ex>u</ex>t<ex>em</ex> <ex>et</ex> obedienciam tam debitam q<ex>u</ex>am devotam cum om<ex>n</ex>i rev<ex>er</ex>encia <ex>et</ex> honore. Cum nos in novitate felicis creac<ex>i</ex>o<ex>n</ex>is s<ex>an</ex>c<ex>t</ex>issimi patris ac d<ex>omi</ex>ni n<ex>ost</ex>ri <term n="Clément IV, pape de 1265 (consacré le 15 février) à 1268. Il accéda finalement, le 1er mai 1266, à une nouvelle demande de décharge de Gilles, alors que celui-ci venait de décéder." >Clementis</term>, divina p<ex>ro</ex>videncia summi pontificis, n<ex>ost</ex>ras eidem destinassemus litt<ex>er</ex>as, p<ex>er</ex> eas humiliter supplicando ut injunctum nob<ex>is</ex> Chr<ex>ist</ex>i crucis officium, in quo lic<ex>et</ex> parum utiliter t<ex>ame</ex>n pro n<ex>ost</ex>re possibilitatis modulo nu<ex>n</ex>c usq<ex>ue</ex> laboravimus diligenter, a n<ex>ost</ex>ris debilibus hum<ex>er</ex>is deponeri dignaretur <ex>et</ex> jugum on<ex>er</ex>is h<ex>u</ex>j<ex>us</ex>modi collo alterius potencioris inponere, cujus circo<ex>m</ex>sp<ex>e</ex>ctione <ex>et</ex> industria p<ex>re</ex>fatum Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex> feliciorem sortiretur effectum, pat<ex>er</ex>nitati v<ex>est</ex>re rev<ex>er</ex>ende litt<ex>er</ex>as n<ex>ost</ex>ras deprecator<ex>ias</ex> ut ad hoc n<ex>ost</ex>ri gracia laborare dignaremini specialit<ex>er</ex> dirigendo, ide<ex>m</ex> d<ex>omi</ex>n<ex>u</ex>s summus pontifex, debilitati n<ex>ost</ex>re parcere renuens <ex>et</ex> etati, supplicac<ex>i</ex>o<ex>n</ex>es n<ex>ost</ex>ras admittere recusavit, ip<ex>su</ex>m negocium imbecillitati n<ex>ost</ex>re sicut antea iterato committens. Cujus labor, q<ex>u</ex>antumcu<ex>m</ex>q<ex>ue</ex> nob<ex>is</ex> difficilis fu<ex>er</ex>it, ob rev<ex>er</ex>enciam t<ex>ame</ex>n mandator<ex>is</ex> ejusdem, cuj<ex>us</ex> voluntati resistere nec volumus nec debemus, illud devoto a<ex>n</ex>i<ex>m</ex>o pro n<ex>ost</ex>ris viribus tanq<ex>u</ex>am obediencie filius sicut alias fecimus diligent<ex>er</ex> exequimur <ex>et</ex> in ip<ex>s</ex>o afectuose p<ex>ro</ex>ut melius possumus laboramus. P<ex>re</ex>fatum aut<ex>em</ex> Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex>, quod v<ex>est</ex>ro int<ex>er</ex>veniente suffragio ad bonu<ex>m</ex> fine<ex>m</ex> p<ex>er</ex>venire speramus, v<ex>est</ex>re rev<ex>er</ex>ende pat<ex>er</ex>nitati v<ex>est</ex>roq<ex>ue</ex> patrocinio q<ex>u</ex>anta devocione possumus commandamus, necno<ex>n</ex> n<ex>ost</ex>ram Tyren<ex>sem</ex> ecc<ex>lesi</ex>am, q<ex>u</ex>am volumus esse v<ex>est</ex>ram, p<ex>ar</ex>ati ubicu<ex>m</ex>q<ex>ue</ex> fu<ex>er</ex>imus cum affectu p<ex>ar</ex>iter <ex>et</ex> effectu v<ex>est</ex>ris in om<ex>n</ex>ibus obtemp<ex>er</ex>are b<ex>e</ex>n<ex>e</ex>placitis <ex>et</ex> ma<ex>n</ex>datis. Valeat in D<ex>omi</ex>no v<ex>est</ex>ra paternitas rev<ex>er</ex>enda. Dat<ex>um</ex> Parisius, IX k<ex>a</ex>l<ex>endas</ex> decembris, anno D<ex>omi</ex>ni mill<ex>es</ex>i<ex>m</ex>o ducentesimo sexagesimo quinto.</l>
-                </div>
-                <div type="translation">
-                    <l>Au vénérable père et seigneur <term n="Ottaviano Ubaldini. Créé cardinal-diacre de Santa Maria in Via Lata le 27 septembre 1244, fonction dont il reste en charge jusqu’au 28 février 1268." >Ottaviano</term>, par la grâce de Dieu cardinal-diacre de Santa Maria in Via Lata, <term n="Gilles de Saumur, clerc de l’entourage du roi de France, a été garde du sceau royal et brièvement évêque de Damiette pendant la première croisade de Louis IX. Nommé archevêque de Tyr le 31 juillet 1254, il se voit confier par Urbain IV, en 1263, la prédication de la croisade et la collecte du centième dans le royaume de France. Il meurt en avril 1266." >Gilles</term> par la misericorde divine archevêque de <term n="Tyr, occupée par les croisés de 1124 à 1291.">Tyr</term>, salut et obéissance tant due que dévouée, avec toute révérence et honneur. Comme, après la récente et heureuse élection du très saint père et notre seigneur
-                            <term n="Clément IV, pape de 1265 (consacré le 15 février) à 1268. Il accéda finalement, le 1er mai 1266, à une nouvelle demande de décharge de Gilles, alors que celui-ci venait de décéder." >Clément</term>, souverain pontife par la divine providence, nous lui avions adressé une lettre, où nous le suppliions humblement de daigner faire retirer de nos faibles épaules la charge à nous confiée de la croix du Christ, dont nous nous étions acquitté jusque-là avec empressement, sinon utilement du moins dans la faible mesure de nos capacités, et de placer le joug de ce fardeau sur le col d'un plus puissant, dont la circonspection et la diligence assureraient une plus heureuse issue à ladite affaire de la Terre sainte, tout en vous adressant spécialement, vénérable père, une lettre qui vous priait de daigner pour nous oeuvrer à ce but, ledit seigneur souverain pontife, refusant d'épargner notre faiblesse comme notre âge, n'a pas voulu accéder à nos supplications, confiant à nouveau cette affaire à notre faiblesse, comme elle l'avait été auparavant. Cette tâche, quelque difficile qu'elle nous ait été, nous la remplissons avec le même empressement qu'autrefois, avec dévotion, selon nos forces, en fils d'obéissance, pour la révérence de celui qui l'ordonne, à la volonté de qui nous ne voulons, nous ne devons résister, et nous y travaillons de tout notre coeur, du mieux que nous pouvons. Cette affaire de la Terre sainte, que nous espérons mener à bonne fin avec votre aide, nous vous la recommandons, vénérable père, de toute la dévotion que nous pouvons, ainsi que notre église de Tyr, que nous voulons vôtre, nous disant prêt, où que nous soyons, à obtempérer en tout à vos plaisirs et à vos ordres aussi affectueusement qu'effectivement. Salut dans le Seigneur, vénérable père. Donné à Paris le 9 des kalendes de décembre, l'an du Seigneur 1265.</l>
-                </div>
-                <div type="regeste">
-                    <head>1265, 23 novembre. - Paris.</head>
-                    <p>Gilles, archevêque de Tyr, annonce au cardinal Ottaviano Ubaldini qu'il continuera à s'occuper de l'affaire de Terre sainte [pour laquelle il prêche la croisade], après que le pape a rejeté sa demande d'en être déchargé ; celle-ci avait été présentée à l'occasion de l'avènement de Clément [IV] avec l'appui du cardinal, que Gilles assure de son dévouement.</p>
-                </div>
-            </div>
-            <div type="diplomatic">
-                <head>Commentaire diplomatique</head>
-                <div>
-                    <head>Caractères externes</head>
-                    <div>
-                        <p>
-                            <figure rend="59/faxexternes.jpg"/>
-                       </p>
-                        <p>La présentation est régulière, les marges sont assez généreuses, mais rien ne trahit un apprêt spécial. L'écriture est rapide, marquée par une cursivité contenue, très proche des écritures de chancellerie : le soin mis dans la composition du texte n'en ressort que mieux. La lettre est-elle conçue avant tout pour être lue au destinataire ?</p>
-                        <p>Comme dans un acte, la lettre est écrite en bloc (contrairement à l'individualisation de divers espaces qui s'imposera par la suite). Comme dans un acte encore, l'écriture, au besoin avec des traits, occupe tout l'espace de la dernière ligne ; traits intermédiaires en moins, la disposition, qui étire la date, rappelle celle des actes pontificaux.
-                       </p>
-                    </div>
-                </div>
-                <div>
-                    <head>Interprétation</head>
-                    <div>
-                        <p>Le document n'a aucun effet juridique spécial. Support d'une communication, il constitue, dans sa conception la plus stricte, une simple lettre, dont la conservation est infiniment plus hasardeuse que celle d'une lettre faisant titre. De fait, le document sacrifie très normalement aux règles épistolaires de l'organisation du discours et n'annonce ni ne comporte aucun signe de validation. Si sceau il y a eu, il a simplement servi à clore le parchemin.</p>
-                        <p>Le document n'en reste pas moins intéressant pour la connaissance de l'histoire institutionnelle au sens large : prédication de la croisade, fonctionnement humain de la hiérarchie ecclésiale... À un diplomatiste, il offre un exemple pur d'application des règles de l'art épistolaire, qui ont eu par ailleurs une influence directe sur la composition des actes. Mais il a aussi l'intérêt de montrer quelques traces d'influence en retour de l'acte sur la lettre (disposition de la dernière ligne, datation en mode diplomatique).</p>
-                        <p>Le style est très naturellement fleuri. De lourdes attentions sont prodiguées au cardinal destinataire, dont le nom est mis en tête, et que de multiples formules assurent de la dévotion et de l'obéissance de l'auteur. Commencée à la mode pontificale (<hi rend="i">salutem et...</hi>, respectant jusqu'au mode abréviatif de la Curie, <hi rend="i">salt</hi>), la formule de salut brode avec virtuosité sur l'obéissance effective, voulue et respectueuse, non dénuée d'amour (<hi rend="i">debitam-devotam</hi>), portée au cardinal. En clôture à nouveau, les sentiments à l'égard du cardinal sont évoqués avec force, et appellent autant de jeux de mots, assez courants (<hi rend="i">paternitati-patrocinio</hi>, <hi rend="i" >nostram-vestram</hi>, <hi rend="i">affectu-effectu</hi>). Ces deux protestations initiale et finale de déférente dilection encadrent le passage central, rédigé en mode d'exposé (passé/présent) et présentant l'état des relations avec le pape : la demande, son rejet, la soumission.</p>
-                        <p>Usuel dans les hautes sphères de l'Église, ce mode raffiné de communication, fondé sur un latin cultivé, n'exclut pas au détour une graphie trahissant la prononciation française, "circomspectione" (ligne 6).</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1265. Lettre épiscopale (Tyr)</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">59</idno>
+        <publisher>Ecole nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. :</p>
+        <p>Fac-sim. ENC : AF 498 (lithographie).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc/>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="10,8,493,53">Rev<ex>er</ex>endo patri ac d<ex>omi</ex>no O<ex>ctaviano</ex>, Dei gr<ex>ati</ex>a Sancte Marie in Via Lata dyacono cardinali, . .</seg>
+          <seg rend="505,28,780,61">Egidius miserac<ex>i</ex>o<ex>n</ex>e divina Tyren<ex>sis</ex> archiep<ex>iscopu</ex>s,</seg>
+          <seg rend="18,53,495,78">sal<ex>u</ex>t<ex>em</ex> <ex>et</ex> obedienciam tam debitam q<ex>u</ex>am devotam cum om<ex>n</ex>i rev<ex>er</ex>encia <ex>et</ex> honore.</seg>
+          <seg rend="499,61,786,90">Cum nos in novitate felicis creac<ex>i</ex>o<ex>n</ex>is s<ex>an</ex>c<ex>t</ex>issimi</seg>
+          <seg rend="19,81,436,108">patris ac d<ex>omi</ex>ni n<ex>ost</ex>ri Clementis, divina p<ex>ro</ex>videncia summi pontificis,</seg>
+          <seg rend="440,90,778,113">n<ex>ost</ex>ras eidem destinassemus litt<ex>er</ex>as, p<ex>er</ex> eas humiliter</seg>
+          <seg rend="22,111,354,133">supplicando ut injunctum nob<ex>is</ex> Chr<ex>ist</ex>i crucis officium,</seg>
+          <seg rend="358,114,774,139">in quo lic<ex>et</ex> parum utiliter t<ex>ame</ex>n pro n<ex>ost</ex>re possibilitatis modulo</seg>
+          <seg rend="21,139,558,162">nu<ex>n</ex>c usq<ex>ue</ex> laboravimus diligenter, a n<ex>ost</ex>ris debilibus hum<ex>er</ex>is deponeri dignaretur</seg>
+          <seg rend="563,142,794,168"><ex>et</ex> jugum on<ex>er</ex>is h<ex>u</ex>j<ex>us</ex>modi collo alte-</seg>
+          <seg rend="20,165,393,189">-rius potencioris inponere, cujus circo<ex>m</ex>sp<ex>e</ex>ctione <ex>et</ex> industria</seg>
+          <seg rend="399,167,784,190">p<ex>re</ex>fatum Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex> feliciorem sortiretur effectum,</seg>
+          <seg rend="14,195,332,218">pat<ex>er</ex>nitati v<ex>est</ex>re rev<ex>er</ex>ende litt<ex>er</ex>as n<ex>ost</ex>ras deprecator<ex>ias</ex></seg>
+          <seg rend="335,198,793,222">ut ad hoc n<ex>ost</ex>ri gracia laborare dignaremini specialit<ex>er</ex> dirigendo, ide<ex>m</ex></seg>
+          <seg rend="17,232,444,254">d<ex>omi</ex>n<ex>u</ex>s summus pontifex, debilitati n<ex>ost</ex>re parcere renuens <ex>et</ex> etati,</seg>
+          <seg rend="450,230,788,252">supplicac<ex>i</ex>o<ex>n</ex>es n<ex>ost</ex>ras admittere recusavit, ip<ex>su</ex>m nego-</seg>
+          <seg rend="17,260,379,285">-cium imbecillitati n<ex>ost</ex>re sicut antea iterato committens.</seg>
+          <seg rend="387,260,772,283">Cujus labor, q<ex>u</ex>antumcu<ex>m</ex>q<ex>ue</ex> nob<ex>is</ex> difficilis fu<ex>er</ex>it, ob rev<ex>er</ex>enciam</seg>
+          <seg rend="18,294,544,317">t<ex>ame</ex>n mandator<ex>is</ex> ejusdem, cuj<ex>us</ex> voluntati resistere nec volumus nec debemus,</seg>
+          <seg rend="549,291,778,316">illud devoto a<ex>n</ex>i<ex>m</ex>o pro n<ex>ost</ex>ris viribus</seg>
+          <seg rend="18,324,445,345">tanq<ex>u</ex>am obediencie filius sicut alias fecimus diligent<ex>er</ex> exequimur</seg>
+          <seg rend="447,325,781,348"><ex>et</ex> in ip<ex>s</ex>o afectuose p<ex>ro</ex>ut melius possumus labo-</seg>
+          <seg rend="16,356,286,380">-ramus. P<ex>re</ex>fatum aut<ex>em</ex> Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex>,</seg>
+          <seg rend="289,357,785,377">quod v<ex>est</ex>ro int<ex>er</ex>veniente suffragio ad bonu<ex>m</ex> fine<ex>m</ex> p<ex>er</ex>venire speramus, v<ex>est</ex>re</seg>
+          <seg rend="21,388,522,410">rev<ex>er</ex>ende pat<ex>er</ex>nitati v<ex>est</ex>roq<ex>ue</ex> patrocinio q<ex>u</ex>anta devocione possumus commandamus,</seg>
+          <seg rend="527,385,777,408">necno<ex>n</ex> n<ex>ost</ex>ram Tyren<ex>sem</ex> ecc<ex>lesi</ex>am, q<ex>u</ex>am volu-</seg>
+          <seg rend="19,414,272,439">-mus esse v<ex>est</ex>ram, p<ex>ar</ex>ati ubicu<ex>m</ex>q<ex>ue</ex> fu<ex>er</ex>imus</seg>
+          <seg rend="278,416,783,436">cum affectu p<ex>ar</ex>iter <ex>et</ex> effectu v<ex>est</ex>ris in om<ex>n</ex>ibus obtemp<ex>er</ex>are b<ex>e</ex>n<ex>e</ex>placitis <ex>et</ex> ma<ex>n</ex>-</seg>
+          <seg rend="15,448,342,465">-datis. Valeat in D<ex>omi</ex>no v<ex>est</ex>ra paternitas rev<ex>er</ex>enda.</seg>
+          <seg rend="347,447,751,467">Dat<ex>um</ex> Parisius, IX k<ex>a</ex>l<ex>endas</ex> decembris, anno D<ex>omi</ex>ni mill<ex>es</ex>i<ex>m</ex>o</seg>
+          <seg rend="14,474,775,504">ducentesimo sexagesimo quinto.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <p>Rev<ex>er</ex>endo patri ac d<ex>omi</ex>no <term n="Ottaviano Ubaldini. Créé cardinal-diacre de Santa Maria in Via Lata le 27 septembre 1244, fonction dont il reste en charge jusqu’au 28 février 1268." >O<ex>ctaviano</ex></term>, Dei gr<ex>ati</ex>a Sancte Marie in Via Lata dyacono cardinali, . . <term n="Gilles de Saumur, clerc de l’entourage du roi de France, a été garde du sceau royal et brièvement évêque de Damiette pendant la première croisade de Louis IX. Nommé archevêque de Tyr le 31 juillet 1254, il se voit confier par Urbain IV, en 1263, la prédication de la croisade et la collecte du centième dans le royaume de France. Il meurt en avril 1266." >Egidius</term> miserac<ex>i</ex>o<ex>n</ex>e divina <term n="Tyr, occupée par les croisés de 1124 à 1291." >Tyren<ex>sis</ex></term> archiep<ex>iscopu</ex>s, sal<ex>u</ex>t<ex>em</ex> <ex>et</ex> obedienciam tam debitam q<ex>u</ex>am devotam cum om<ex>n</ex>i rev<ex>er</ex>encia <ex>et</ex> honore. Cum nos in novitate felicis creac<ex>i</ex>o<ex>n</ex>is s<ex>an</ex>c<ex>t</ex>issimi patris ac d<ex>omi</ex>ni n<ex>ost</ex>ri <term n="Clément IV, pape de 1265 (consacré le 15 février) à 1268. Il accéda finalement, le 1er mai 1266, à une nouvelle demande de décharge de Gilles, alors que celui-ci venait de décéder." >Clementis</term>, divina p<ex>ro</ex>videncia summi pontificis, n<ex>ost</ex>ras eidem destinassemus litt<ex>er</ex>as, p<ex>er</ex> eas humiliter supplicando ut injunctum nob<ex>is</ex> Chr<ex>ist</ex>i crucis officium, in quo lic<ex>et</ex> parum utiliter t<ex>ame</ex>n pro n<ex>ost</ex>re possibilitatis modulo nu<ex>n</ex>c usq<ex>ue</ex> laboravimus diligenter, a n<ex>ost</ex>ris debilibus hum<ex>er</ex>is deponeri dignaretur <ex>et</ex> jugum on<ex>er</ex>is h<ex>u</ex>j<ex>us</ex>modi collo alterius potencioris inponere, cujus circo<ex>m</ex>sp<ex>e</ex>ctione <ex>et</ex> industria p<ex>re</ex>fatum Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex> feliciorem sortiretur effectum, pat<ex>er</ex>nitati v<ex>est</ex>re rev<ex>er</ex>ende litt<ex>er</ex>as n<ex>ost</ex>ras deprecator<ex>ias</ex> ut ad hoc n<ex>ost</ex>ri gracia laborare dignaremini specialit<ex>er</ex> dirigendo, ide<ex>m</ex> d<ex>omi</ex>n<ex>u</ex>s summus pontifex, debilitati n<ex>ost</ex>re parcere renuens <ex>et</ex> etati, supplicac<ex>i</ex>o<ex>n</ex>es n<ex>ost</ex>ras admittere recusavit, ip<ex>su</ex>m negocium imbecillitati n<ex>ost</ex>re sicut antea iterato committens. Cujus labor, q<ex>u</ex>antumcu<ex>m</ex>q<ex>ue</ex> nob<ex>is</ex> difficilis fu<ex>er</ex>it, ob rev<ex>er</ex>enciam t<ex>ame</ex>n mandator<ex>is</ex> ejusdem, cuj<ex>us</ex> voluntati resistere nec volumus nec debemus, illud devoto a<ex>n</ex>i<ex>m</ex>o pro n<ex>ost</ex>ris viribus tanq<ex>u</ex>am obediencie filius sicut alias fecimus diligent<ex>er</ex> exequimur <ex>et</ex> in ip<ex>s</ex>o afectuose p<ex>ro</ex>ut melius possumus laboramus. P<ex>re</ex>fatum aut<ex>em</ex> Terre s<ex>an</ex>c<ex>t</ex>e negociu<ex>m</ex>, quod v<ex>est</ex>ro int<ex>er</ex>veniente suffragio ad bonu<ex>m</ex> fine<ex>m</ex> p<ex>er</ex>venire speramus, v<ex>est</ex>re rev<ex>er</ex>ende pat<ex>er</ex>nitati v<ex>est</ex>roq<ex>ue</ex> patrocinio q<ex>u</ex>anta devocione possumus commandamus, necno<ex>n</ex> n<ex>ost</ex>ram Tyren<ex>sem</ex> ecc<ex>lesi</ex>am, q<ex>u</ex>am volumus esse v<ex>est</ex>ram, p<ex>ar</ex>ati ubicu<ex>m</ex>q<ex>ue</ex> fu<ex>er</ex>imus cum affectu p<ex>ar</ex>iter <ex>et</ex> effectu v<ex>est</ex>ris in om<ex>n</ex>ibus obtemp<ex>er</ex>are b<ex>e</ex>n<ex>e</ex>placitis <ex>et</ex> ma<ex>n</ex>datis. Valeat in D<ex>omi</ex>no v<ex>est</ex>ra paternitas rev<ex>er</ex>enda. Dat<ex>um</ex> Parisius, IX k<ex>a</ex>l<ex>endas</ex> decembris, anno D<ex>omi</ex>ni mill<ex>es</ex>i<ex>m</ex>o ducentesimo sexagesimo quinto.</p>
+        </div>
+        <div type="translation">
+          <p>Au vénérable père et seigneur <term n="Ottaviano Ubaldini. Créé cardinal-diacre de Santa Maria in Via Lata le 27 septembre 1244, fonction dont il reste en charge jusqu’au 28 février 1268." >Ottaviano</term>, par la grâce de Dieu cardinal-diacre de Santa Maria in Via Lata, <term n="Gilles de Saumur, clerc de l’entourage du roi de France, a été garde du sceau royal et brièvement évêque de Damiette pendant la première croisade de Louis IX. Nommé archevêque de Tyr le 31 juillet 1254, il se voit confier par Urbain IV, en 1263, la prédication de la croisade et la collecte du centième dans le royaume de France. Il meurt en avril 1266." >Gilles</term> par la misericorde divine archevêque de <term n="Tyr, occupée par les croisés de 1124 à 1291.">Tyr</term>, salut et obéissance tant due que dévouée, avec toute révérence et honneur. Comme, après la récente et heureuse élection du très saint père et notre seigneur <term n="Clément IV, pape de 1265 (consacré le 15 février) à 1268. Il accéda finalement, le 1er mai 1266, à une nouvelle demande de décharge de Gilles, alors que celui-ci venait de décéder." >Clément</term>, souverain pontife par la divine providence, nous lui avions adressé une lettre, où nous le suppliions humblement de daigner faire retirer de nos faibles épaules la charge à nous confiée de la croix du Christ, dont nous nous étions acquitté jusque-là avec empressement, sinon utilement du moins dans la faible mesure de nos capacités, et de placer le joug de ce fardeau sur le col d'un plus puissant, dont la circonspection et la diligence assureraient une plus heureuse issue à ladite affaire de la Terre sainte, tout en vous adressant spécialement, vénérable père, une lettre qui vous priait de daigner pour nous oeuvrer à ce but, ledit seigneur souverain pontife, refusant d'épargner notre faiblesse comme notre âge, n'a pas voulu accéder à nos supplications, confiant à nouveau cette affaire à notre faiblesse, comme elle l'avait été auparavant. Cette tâche, quelque difficile qu'elle nous ait été, nous la remplissons avec le même empressement qu'autrefois, avec dévotion, selon nos forces, en fils d'obéissance, pour la révérence de celui qui l'ordonne, à la volonté de qui nous ne voulons, nous ne devons résister, et nous y travaillons de tout notre coeur, du mieux que nous pouvons. Cette affaire de la Terre sainte, que nous espérons mener à bonne fin avec votre aide, nous vous la recommandons, vénérable père, de toute la dévotion que nous pouvons, ainsi que notre église de Tyr, que nous voulons vôtre, nous disant prêt, où que nous soyons, à obtempérer en tout à vos plaisirs et à vos ordres aussi affectueusement qu'effectivement. Salut dans le Seigneur, vénérable père. Donné à Paris le 9 des kalendes de décembre, l'an du Seigneur 1265.</p>
+        </div>
+        <div type="regeste">
+          <head>1265, 23 novembre. - Paris.</head>
+          <p>Gilles, archevêque de Tyr, annonce au cardinal Ottaviano Ubaldini qu'il continuera à s'occuper de l'affaire de Terre sainte [pour laquelle il prêche la croisade], après que le pape a rejeté sa demande d'en être déchargé ; celle-ci avait été présentée à l'occasion de l'avènement de Clément [IV] avec l'appui du cardinal, que Gilles assure de son dévouement.</p>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          <figure rend="59/faxexternes.jpg"/>
+          <p>La présentation est régulière, les marges sont assez généreuses, mais rien ne trahit un apprêt spécial. L'écriture est rapide, marquée par une cursivité contenue, très proche des écritures de chancellerie : le soin mis dans la composition du texte n'en ressort que mieux. La lettre est-elle conçue avant tout pour être lue au destinataire ?</p>
+          <p>Comme dans un acte, la lettre est écrite en bloc (contrairement à l'individualisation de divers espaces qui s'imposera par la suite). Comme dans un acte encore, l'écriture, au besoin avec des traits, occupe tout l'espace de la dernière ligne ; traits intermédiaires en moins, la disposition, qui étire la date, rappelle celle des actes pontificaux.</p>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <p>Le document n'a aucun effet juridique spécial. Support d'une communication, il constitue, dans sa conception la plus stricte, une simple lettre, dont la conservation est infiniment plus hasardeuse que celle d'une lettre faisant titre. De fait, le document sacrifie très normalement aux règles épistolaires de l'organisation du discours et n'annonce ni ne comporte aucun signe de validation. Si sceau il y a eu, il a simplement servi à clore le parchemin.</p>
+          <p>Le document n'en reste pas moins intéressant pour la connaissance de l'histoire institutionnelle au sens large : prédication de la croisade, fonctionnement humain de la hiérarchie ecclésiale... À un diplomatiste, il offre un exemple pur d'application des règles de l'art épistolaire, qui ont eu par ailleurs une influence directe sur la composition des actes. Mais il a aussi l'intérêt de montrer quelques traces d'influence en retour de l'acte sur la lettre (disposition de la dernière ligne, datation en mode diplomatique).</p>
+          <p>Le style est très naturellement fleuri. De lourdes attentions sont prodiguées au cardinal destinataire, dont le nom est mis en tête, et que de multiples formules assurent de la dévotion et de l'obéissance de l'auteur. Commencée à la mode pontificale (<hi rend="i">salutem et...</hi>, respectant jusqu'au mode abréviatif de la Curie, <hi rend="i">salt</hi>), la formule de salut brode avec virtuosité sur l'obéissance effective, voulue et respectueuse, non dénuée d'amour (<hi rend="i">debitam-devotam</hi>), portée au cardinal. En clôture à nouveau, les sentiments à l'égard du cardinal sont évoqués avec force, et appellent autant de jeux de mots, assez courants (<hi rend="i">paternitati-patrocinio</hi>, <hi rend="i" >nostram-vestram</hi>, <hi rend="i">affectu-effectu</hi>). Ces deux protestations initiale et finale de déférente dilection encadrent le passage central, rédigé en mode d'exposé (passé/présent) et présentant l'état des relations avec le pape : la demande, son rejet, la soumission.</p>
+          <p>Usuel dans les hautes sphères de l'Église, ce mode raffiné de communication, fondé sur un latin cultivé, n'exclut pas au détour une graphie trahissant la prononciation française, "circomspectione" (ligne 6).</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
