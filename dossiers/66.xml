@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2 n="66">
+<TEI n="66">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,164 +7,127 @@
         </title>
       </titleStmt>
       <publicationStmt>
-	<idno type="numero">66</idno>
-	<publisher>École nationale des chartes</publisher>
+        <idno type="numero">66</idno>
+        <publisher>École nationale des chartes</publisher>
       </publicationStmt>
       <sourceDesc>
-	  <p>Orig. : Arch. nat.</p>
-	  <p>Fac-sim. : AF 409 (lithographie).</p>
+        <p>Orig. : Arch. nat.</p>
+        <p>Fac-sim. : AF 409 (lithographie).</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc></profileDesc>
   </teiHeader>
   <text>
-    <front></front>
     <body>
       <div type="facsimile">
         <p>
-	<seg rend="30,64,435,108"> De ista ora in antea, ego Ylisiarius de Salve,
-	</seg>
-	<seg rend="438,80,767,109"> fili<ex>us</ex> de Stephana, a te Guilelma vice-
-	</seg>
-	<seg rend="33,105,434,137"> -comitissa que fuist moller de B<ex>er</ex>nardo Aton,
-	</seg>
-	<seg rend="439,116,756,132"> tant qua<ex>n</ex>t tenras la sennoria del
-	</seg>
-	<seg rend="31,137,524,164"> castel de la Arena, <ex>et</ex> ad aquel eres que auras d’en Bernart Aton,
-	</seg>
-	<seg rend="530,143,758,165"> de qual tu es
-	</seg>
-	<seg rend="33,171,538,192"> preinz, lo castel de B<ex>er</ex>niz non vos tolrai ne vos en tolrai
-	</seg>
-	<seg rend="546,175,777,198"> ipsas fortedas que hodie
-	</seg>
-	<seg rend="35,201,501,223"> ibi sunt ni adena<ex>n</ex>t factas i eru<ex>n</ex>t p<ex>er</ex> nomen de castel ;
-	</seg>
-	<seg rend="507,201,759,226">
-	<ex>et</ex> si om v<ex>e</ex>l femina aquest
-	</seg>
-	<seg rend="34,226,421,256"> castel suprascripti vos tollia o.s en tollia,
-	</seg>
-	<seg rend="425,233,749,256"> ab aquel o ab aquella o ab aquels
-	</seg>
-	<seg rend="36,260,321,288"> o ab aquellas finem ne societate<ex>m</ex>
-	</seg>
-	<seg rend="326,263,758,288"> cum illo v<ex>e</ex>l cum illis no<ex>n</ex> auria, fors quant p<ex>er</ex> lo
-	</seg>
-	<seg rend="36,288,443,321"> castel a recobrar. <ex>Et</ex> si recobrar eu lo potuero,
-	</seg>
-	<seg rend="447,295,760,320"> p<ex>er</ex> nullu<ex>m</ex> ingeniu<ex>m</ex> a te vicecomitis-
-	</seg>
-	<seg rend="36,318,396,326,399,348,37,341"> -sa o a l’eres que auras d’en B<ex>er</ex>nart d’Aton
-	</seg>
-	<seg rend="404,327,772,349"> lo redrai sine lucro <ex>et</ex> sine decepcione,
-	</seg>
-	<seg rend="34,345,441,360,438,382,234,375,35,367"> p<ex>er</ex> ipsa conveniencia, p<ex>er</ex> fide<ex>m</ex> <ex>et</ex> sine inganno,
-	</seg>
-	<seg rend="447,357,536,385"> p<ex>er</ex> hec s<ex>an</ex>c<ex>t</ex>a evang<ex>e</ex>lia.
-	</seg>
-	<seg rend="35,378,376,400"> Hoc e<ex>st</ex> factu<ex>m</ex> i<ex>n</ex> p<ex>re</ex>sencia Ugonis de Brodito,
-	</seg>
-	<seg rend="385,384,770,411"> Pet<ex>r</ex>i Guirardi, Po<ex>n</ex>tii de Vedenobrio, Rai-
-	</seg>
-	<seg rend="33,402,361,424"> -mu<ex>n</ex>di de Brodito, Guill<ex>el</ex>mi Raimu<ex>n</ex>di,
-	</seg>
-	<seg rend="368,406,776,421,774,441,369,424"> Stephani Signerii, Petri Aldeb<ex>er</ex>ti, Pontii Rai-
-	</seg>
-	<seg rend="32,429,410,453"> -mu<ex>n</ex>di, B<ex>er</ex>nardi Raimu<ex>n</ex>di, Guill<ex>elmi</ex> S<ex>an</ex>c<ex>t</ex>i Joh<ex>ann</ex>is,
-	</seg>
-	<seg rend="424,432,769,444,769,467,518,457,425,454"> Guilelmi de Calmis, Bernardi Ma-
-	</seg>
-	<seg rend="34,456,452,479"> -liani, B<ex>er</ex>tra<ex>n</ex>di d<ex>e</ex> Anglata, Guill<ex>el</ex>mi Fulconis,
-	</seg>
-	<seg rend="460,459,770,470,770,487,463,477"> majoris et minoris, B<ex>er</ex>nardi de
-	</seg>
-	<seg rend="35,479,585,512"> Clare<ex>n</ex>ciaco, Pet<ex>r</ex>i Arnaldi. Hoc fuit factu<ex>m</ex> i<ex>n</ex> castro de Arenis.
-	</seg>
-	</p>
+          <seg rend="30,64,435,108">De ista ora in antea, ego Ylisiarius de Salve,</seg>
+          <seg rend="438,80,767,109">fili<ex>us</ex> de Stephana, a te Guilelma vice-</seg>
+          <seg rend="33,105,434,137">-comitissa que fuist moller de B<ex>er</ex>nardo Aton,</seg>
+          <seg rend="439,116,756,132">tant qua<ex>n</ex>t tenras la sennoria del</seg>
+          <seg rend="31,137,524,164">castel de la Arena, <ex>et</ex> ad aquel eres que auras d’en Bernart Aton,</seg>
+          <seg rend="530,143,758,165">de qual tu es</seg>
+          <seg rend="33,171,538,192">preinz, lo castel de B<ex>er</ex>niz non vos tolrai ne vos en tolrai</seg>
+          <seg rend="546,175,777,198">ipsas fortedas que hodie</seg>
+          <seg rend="35,201,501,223">ibi sunt ni adena<ex>n</ex>t factas i eru<ex>n</ex>t p<ex>er</ex> nomen de castel ;</seg>
+          <seg rend="507,201,759,226"><ex>et</ex> si om v<ex>e</ex>l femina aquest</seg>
+          <seg rend="34,226,421,256">castel suprascripti vos tollia o.s en tollia,</seg>
+          <seg rend="425,233,749,256">ab aquel o ab aquella o ab aquels</seg>
+          <seg rend="36,260,321,288">o ab aquellas finem ne societate<ex>m</ex></seg>
+          <seg rend="326,263,758,288">cum illo v<ex>e</ex>l cum illis no<ex>n</ex> auria, fors quant p<ex>er</ex> lo</seg>
+          <seg rend="36,288,443,321">castel a recobrar. <ex>Et</ex> si recobrar eu lo potuero,</seg>
+          <seg rend="447,295,760,320">p<ex>er</ex> nullu<ex>m</ex> ingeniu<ex>m</ex> a te vicecomitis-</seg>
+          <seg rend="36,318,396,326,399,348,37,341">-sa o a l’eres que auras d’en B<ex>er</ex>nart d’Aton</seg>
+          <seg rend="404,327,772,349">lo redrai sine lucro <ex>et</ex> sine decepcione,</seg>
+          <seg rend="34,345,441,360,438,382,234,375,35,367">p<ex>er</ex> ipsa conveniencia, p<ex>er</ex> fide<ex>m</ex> <ex>et</ex> sine inganno,</seg>
+          <seg rend="447,357,536,385">p<ex>er</ex> hec s<ex>an</ex>c<ex>t</ex>a evang<ex>e</ex>lia.</seg>
+          <seg rend="35,378,376,400">Hoc e<ex>st</ex> factu<ex>m</ex> i<ex>n</ex> p<ex>re</ex>sencia Ugonis de Brodito,</seg>
+          <seg rend="385,384,770,411">Pet<ex>r</ex>i Guirardi, Po<ex>n</ex>tii de Vedenobrio, Rai-</seg>
+          <seg rend="33,402,361,424">-mu<ex>n</ex>di de Brodito, Guill<ex>el</ex>mi Raimu<ex>n</ex>di,</seg>
+          <seg rend="368,406,776,421,774,441,369,424">Stephani Signerii, Petri Aldeb<ex>er</ex>ti, Pontii Rai-</seg>
+          <seg rend="32,429,410,453">-mu<ex>n</ex>di, B<ex>er</ex>nardi Raimu<ex>n</ex>di, Guill<ex>elmi</ex> S<ex>an</ex>c<ex>t</ex>i Joh<ex>ann</ex>is,</seg>
+          <seg rend="424,432,769,444,769,467,518,457,425,454">Guilelmi de Calmis, Bernardi Ma-</seg>
+          <seg rend="34,456,452,479">-liani, B<ex>er</ex>tra<ex>n</ex>di d<ex>e</ex> Anglata, Guill<ex>el</ex>mi Fulconis,</seg>
+          <seg rend="460,459,770,470,770,487,463,477">majoris et minoris, B<ex>er</ex>nardi de</seg>
+          <seg rend="35,479,585,512">Clare<ex>n</ex>ciaco, Pet<ex>r</ex>i Arnaldi. Hoc fuit factu<ex>m</ex> i<ex>n</ex> castro de Arenis.</seg>
+        </p>
       </div>	    
       <div type="text">
         <div type="transcription">
-	 <l>De ista ora in antea, ego Ylisiarius de <term n="Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.">Salve</term>,</l> 
-	 <l>filius de Stephana, a te <term n="Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.">Guilelma vicecomitissa</term></l>
-	 <l>que fuist moller de <term n="Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.">Bernardo Aton</term>,</l>
-	 <l>tant quant tenras la sennoria del castel de la <term n="Fort probablement, l’amphithéâtre romain des arènes de Nîmes, fortifié, siège du pouvoir vicomtal.">Arena</term>,</l> <l>et ad aquel eres que auras d’en Bernart Aton,</l>
-	 <l>de qual tu es preinz, lo castel de <term n="Bernis (Gard, cant. Vauvert).">Berniz</term></l>
-	 <l>non vos tolrai ne vos en tolrai ipsas fortedas que hodie ibi sunt</l>
-	 <l>ni adenant factas i erunt per nomen de castel ;</l>
-	 <l>et si om vel femina aquest castel suprascripti vos tollia <term n="Enclise pour “o vos” (“le château vous enlevait ou vous en enlevait [une partie]”).">o.s</term> en tollia,</l> 
-	 <l>ab aquel o ab aquella o ab aquels o ab aquellas finem ne societatem cum illo vel cum illis non auria, fors quant per lo castel a recobrar.</l>
-	 <l>Et si recobrar eu lo potuero, per nullum ingenium a te vicecomitissa</l>
-	 <l>o a l’eres que auras d’en Bernart d’Aton lo redrai sine lucro et sine decepcione,</l>
-	 <l>per ipsa conveniencia, per fidem et sine inganno, per hec sancta evangelia.</l>
-	 <l>Hoc est factum in presencia Ugonis de <term n="Sans doute Brouzet-lès-Quissac (Gard, cant. Quissac).">Brodito</term>,</l>
-	 <l>Petri Guirardi, Pontii de <term n="Vézénobres (dép. Gard, ch.-l. cant.).">Vedenobrio</term>, Raimundi de Brodito,</l>
-	 <l>Guillelmi Raimundi, Stephani Signerii, Petri Aldeberti,</l>
-	 <l>Pontii Raimundi, Bernardi Raimundi, Guillelmi Sancti Johannis,</l>
-	 <l>Guilelmi de <term n="Sans doute La Calmette (Gard, cant. Saint-Chaptes).">Calmis</term>, Bernardi Maliani, Bertrandi de
-	 <term n="Langlade (Gard, cant. Sommières).">Anglata</term>,</l>
-	 <l>Guillelmi Fulconis, majoris et minoris, Bernardi de
-	 <term n="Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).">Clarenciaco</term>,</l>
-	 <l>Petri Arnaldi. Hoc fuit factum in castro de Arenis.</l>
-</div>
-	<div type="translation">
-	<l>À partir de maintenant, moi, Éléazar de <term n="Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.">Sauve</term>,</l> 
-	<l>fils de Stéphanie, à toi <term n="Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.">Guillemette, vicomtesse</term></l> 
-	<l>qui fut l’épouse de <term n="Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.">Bernard Aton</term>,</l>
-	<l>tant que tu posséderas la seigneurie du château des <term n="Fort probablement, l’amphithéâtre romain des arènes de Nîmes, fortifié, siège du pouvoir vicomtal.">Arènes</term>,</l>
-	<l>et à l’héritier que tu vas avoir du seigneur Bernard Aton</l>
-	<l>de qui tu es enceinte, je ne vous prendrai pas le château de <term n="Bernis (Gard, cant. Vauvert).">Bernis</term></l>
-	<l>et je ne vous en prendrai pas les fortifications qui s’y trouvent aujourd’hui</l>
-	<l>ou qui y seront faites sous le nom de château ;</l>
-	<l>et si un homme ou une femme vous prenait le château susnommé ou vous en prenait [une partie],</l>
-	<l>je n’aurais ni accord ni alliance avec lui, elle, eux ou elles,</l>
-	<l>sauf pour reprendre le château. Et si je peux le reprendre, je le rendrai sans aucune ruse à toi, vicomtesse,</l>
-	<l>ou à l’héritier que tu vas avoir du seigneur Bernard d’Aton, sans profit et sans tromperie,</l>
-	<l>au nom du présent accord, par bonne foi et sans mauvais tour, de par ces saints Évangiles.</l>
-	<l>Cela a été fait en présence d’Hugues de <term n="Sans doute Brouzet-lès-Quissac (Gard, cant. Quissac).">Brouzet</term>,</l>
-	<l>de Peire Guirard, de Pons de <term n="Vézénobres (dép. Gard, ch.-l. cant.).">Vézénobres</term>, de Raymon de Brouzet,</l>
-	<l>de Guilhem Raymon, d’Étienne [fils de] Signerius, de Peire Aldebert,</l>
-	<l>de Pons Raymon, de Bernard Raymon, de Guilhem de Saint-Jean,</l>
-	<l>de Guilhem de <term n="Calmis">La Calmette</term>, de Bernard [fils de] Malianus, de Bertran de <term n="Langlade (Gard, cant. Sommières).">Langlade</term>,</l>
-	<l>de Guilhem Foulque, l’aîné et le cadet, de Bernard de <term n="Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).">Clarensac</term>,</l>
-	<l>de Peire Arnaut. Cela a été fait au château des Arènes.</l>
-	</div>
-	<div type="regeste">
-	  <head>[1159 environ]. — Nîmes, château des Arènes.</head>
-	  <p>Éléazar de Sauve fait serment à la vicomtesse d’Agde Guillemette, veuve de Bernard [V] Aton, et au fils posthume de ce dernier dont elle est enceinte, qu’il ne les dépossèdera pas du château de Bernis ni de ses fortifications. Si quelqu’un venait à s’emparer du château, il ne passerait aucune convention avec lui sauf pour reprendre le château ; cela fait, il remettrait le château sans contrepartie pécuniaire ni tromperie à la vicomtesse ou à son fils.</p>  
-	  <p>N.B. : l’acte a été édité en dernier lieu par Clovis Brunel, <hi rend="i">Les plus anciennes chartes en langue provençale</hi>, Paris, 1926, n<sup>o</sup> 83, p. 83.</p> 
-	</div>
-	</div>
-	<div type="diplomatic">
-	  <head>Commentaire diplomatique</head>
-	  <div>
-	  <head>Caractères externes</head>
-	  <div>
-	  <p>L’écriture est parallèle au côté le plus long. Le document est écrit sur deux paragraphes, de la même main, mais dans le second alinéa l’espace est tassé, comme s’il avait été mal calculé à l’avance. On ne voit pas autre chose que le texte lui-même : aucun signe de validation n’est apposé.</p> <p>L’examen des caractères externes amène à deux observations. En premier lieu, l’écriture, dénuée de traits diplomatiques marqués (elle s’apparente à la caroline tardive) et l’utilisation de tout l’espace au détriment des marges situent cet acte dans la tradition de l’acte privé méridional. En second lieu, l’absence de justification à gauche comme à droite, l’absence de recherche graphique, le manque de régularité des interlignes, qui se réduisent vers la fin, dénotent le caractère routinier et pragmatique du document, juste conjoints à une indéniable volonté de clarté, parfois même à une ébauche de solennité.</p>
-	  <p>On remarque certains flottements dans l’utilisation des abréviations, au demeurant assez discrètes : le q de “que” (l. 3) est barré fautivement, de même que le “p” de “scripti” (l. 6) et vraisemblablement le “u” de “Ugonis” (l. 11). Le nom “Guillelmi” est écrit de trois façons différentes (l. 13-14), “Guill-mi”, “Guill-” et “Guilelmi”. Enfin, la distinction en général très claire entre “u” et “n” est incertaine dans le “non vos tolrai” qu’impose le sens (l. 4) ; il y a sans doute eu ici un léger repentir de la part du scripteur.</p> <p>On observe des pratiques plus fermes ailleurs, dans le marquage des coupures de mot en fin de ligne (fin des l. 1, 2, 7 [coupure “lo-castel” qui est normale, car l’article est en général soudé], 8, 11, 13), ou dans l’utilisation de points entre les propositions pour scander le discours et pour clairement distinguer chacun des témoins, désignés par une anthroponymie déjà plus riche, à deux éléments, mais ambiguë dans la double valeur du génitif (“in presentia Petri Guirardi” renvoie à “Petrus Guirardi”). Tous traits qui semblent témoigner d’un certain souci de clarté.</p>
-	  <p>Fonctionnelle, l’écriture est même assez soignée, avec notamment d’élégants “z” plongeants en fin de mot (voir “preinz” et “Berniz”, l. 4) et un effet ornemental dans l’ébauche de ligature “ct” (voir “factas” l. 5). On note la présence de quelques “i” plongeants, pour différencier les jambages, dans le groupe “ui”  (voir “vice[comitissa]” l. 1 et “fuist” l. 2), et dans le groupe “ii” en fin de mot, distingué en sus par un double pointage (“Pontii” l. 11, “Signerii” l. 12).</p> 
-	  </div>
-	  </div>
-	  <div>
-	  <head>Langue et style</head>
-	  <div>
-	  <p>Le trait le plus éclatant de la langue du document, très commun pour son époque et son type, est le balancement entre latin et langue d’oc, qu’il faut examiner non en termes d’incapacité à tout exprimer en latin, mais comme un système pertinent jouant de  la complémentarité des deux registres. On peut pour ce faire mettre en opposition les emplois des deux langues, non sans quelque incertitude puisque certains groupes peuvent finalement relever de l’une ou l’autre : dans “filius de Stephana”, “filius” est certainement latin, mais “de Stephana” peut aussi bien être aussi bien occitan que renvoyer à une tournure latine évoluée, plaquant des flexions latines sur un bâti vulgaire.</p> 
-	  <p><hi n="color" rend="gray">Latin sûr</hi></p>
-	      <q><p><hi n="color" rend="gray">De ista ora inantea, ego Ylisiarius de Salve, filius</hi> de Stephana, a te Guilelma vicecomitissa que fuist moller de Bernardo Aton, tant quant tenras la sennoria del castel de la Arena, et ad aquel eres que auras d’en Bernart Aton, de qual tu es preinz, lo castel de Berniz non vos tolrai ne vos en tolrai ipsas fortedas <hi n="color" rend="gray">que hodie ibi sunt</hi> ni adenant factas i erunt per nomen de castel ; et si om vel femina aquest castel <hi n="color" rend="gray">suprascripti</hi> vos tollia o.s en tollia, ab aquel o ab aquella o ab aquels o ab aquellas <hi n="color">finem</hi> ne <hi n="color" rend="gray">societatem cum illo vel cum illis</hi>non auria, fors quant per lo castel a recobrar. Et si recobrar eu lo <hi n="color" rend="gray">potuero, per nullum ingenium</hi> a te vicecomitissa o a l’eres que auras d’en Bernart d’Aton lo redrai <hi n="color" rend="gray">sine lucro et sine decepcione</hi>, per ipsa conveniencia, <hi n="color" rend="gray">per fidem et sine inganno, per hec sancta evangelia</hi>.</p> 
-	  <p><hi n="color" rend="gray">Hoc est factum in presencia Ugonis de Brodito, Petri Guirardi, Pontii de Vedenobrio, Raimundi de Brodito, Guillelmi Raimundi, Stephani Signerii, Petri Aldeberti, Pontii Raimundi, Bernardi Raimundi, Guillelmi Sancti Johannis, Guilelmi de Calmis, Bernardi Maliani, Bertrandi de Anglata, Guillelmi Fulconis, majoris et minoris, Bernardi de Clarenciaco, Petri Arnaldi. Hoc fuit factum in castro de Arenis.</hi></p></q>
-	  <p>Malgré ces incertitudes, la conclusion s’impose. L’opposition entre les deux alinéas est profonde : le vernaculaire est employé dans la première moitié de l’acte exclusivement, avant la souscription des témoins, ce qui peut paraître d’autant plus surprenant étant donnée la présence de très nombreux anthroponymes dans le second paragraphe : le rédacteur a éprouvé ici le besoin d’une latinisation systématique, alors que les anthroponymes dans le premier alinéa balancent entre latin et occitan. Dans le second alinéa, l’utilisation du latin sert donc à solenniser la souscription ; avec la date de lieu, elle fait pleinement partie de l’eschatocole, très diplomatique, lié à la validation de l’acte.</p>
-	  <p>Un examen même superficiel de l’occitan montre que la langue utilisée est formée et ferme, et l’on en dirait autant du latin, fonctionnel et correct. Le balancement des deux langues obéit donc bien à une volonté délibérée : le latin légitime l’acte écrit et solennise la cérémonie, la notation en vernaculaire correspond au cœur même du serment et, avec un effet de réel plus ou moins décalé, fait entendre les mots mêmes de l’engagement, actif dès son énonciation. Vernaculaire farci, au reste, auquel la marquetterie de mots latins confère une tonalité juridique.</p>
-	  </div>
-	  </div>
-	  <div>
-	  <head>Interprétation</head>
-	  <div>
-	  <p>On remarquera de manière générale le caractère très direct de la rédaction de l’acte : on ne trouve ni invocation ni salut dans le protocole ; ni préambule, ni notification, ni exposé dans le corps du texte ; enfin, l’eschatocole se réduit à une liste de témoins et à une simple date de lieu. Le document consigne le souvenir d’une cérémonie aussi immédiatement que possible ; il baigne dans le présent, dans un contexte (des acteurs, des lieux) très bien connu des lecteurs potentiels, mais aussi dans le présent ouvert vers le futur de la fidélité perpétuelle (“De ista ora in antea”).</p> <p>Au milieu du XIIe siècle, ce genre de serment, outil de la construction princière, a derrière lui un passé déjà séculaire, mais il reproduit des formes traditionnelles (déjà carolingiennes, et encore observables au XIVe siècle), qui tirent leur force aussi bien de la solennelle et lancinante répétition du formulaire, au sens de l’histoire littéraire, que du mixage tout autre malhabile de la langue du seigneur et de la langue du prêtre, et du serment prêté sur des livres saints presque pris à témoins (“per hec sancta evangelia”).</p>
-	  <p>Le document est conservé aux Archives nationales dans le Trésor des chartes des rois de France. Il est difficile de savoir s’il est parvenu entre les mains du Capétien avec Nîmes, ou s’il n’est pas auparavant passé entre celles des comtes de Toulouse.</p> 
-	  </div>
-	  </div> 
+          <l>De ista ora in antea, ego Ylisiarius de <term n="Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.">Salve</term>,</l> 
+          <l>filius de Stephana, a te <term n="Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.">Guilelma vicecomitissa</term></l>
+          <l>que fuist moller de <term n="Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.">Bernardo Aton</term>,</l>
+          <l>tant quant tenras la sennoria del castel de la <term n="Fort probablement, l’amphithéâtre romain des arènes de Nîmes, fortifié, siège du pouvoir vicomtal.">Arena</term>,</l> <l>et ad aquel eres que auras d’en Bernart Aton,</l>
+          <l>de qual tu es preinz, lo castel de <term n="Bernis (Gard, cant. Vauvert).">Berniz</term></l>
+          <l>non vos tolrai ne vos en tolrai ipsas fortedas que hodie ibi sunt</l>
+          <l>ni adenant factas i erunt per nomen de castel ;</l>
+          <l>et si om vel femina aquest castel suprascripti vos tollia <term n="Enclise pour “o vos” (“le château vous enlevait ou vous en enlevait [une partie]”).">o.s</term> en tollia,</l> 
+          <l>ab aquel o ab aquella o ab aquels o ab aquellas finem ne societatem cum illo vel cum illis non auria, fors quant per lo castel a recobrar.</l>
+          <l>Et si recobrar eu lo potuero, per nullum ingenium a te vicecomitissa</l>
+          <l>o a l’eres que auras d’en Bernart d’Aton lo redrai sine lucro et sine decepcione,</l>
+          <l>per ipsa conveniencia, per fidem et sine inganno, per hec sancta evangelia.</l>
+          <l>Hoc est factum in presencia Ugonis de <term n="Sans doute Brouzet-lès-Quissac (Gard, cant. Quissac).">Brodito</term>,</l>
+          <l>Petri Guirardi, Pontii de <term n="Vézénobres (dép. Gard, ch.-l. cant.).">Vedenobrio</term>, Raimundi de Brodito,</l>
+          <l>Guillelmi Raimundi, Stephani Signerii, Petri Aldeberti,</l>
+          <l>Pontii Raimundi, Bernardi Raimundi, Guillelmi Sancti Johannis,</l>
+          <l>Guilelmi de <term n="Sans doute La Calmette (Gard, cant. Saint-Chaptes).">Calmis</term>, Bernardi Maliani, Bertrandi de <term n="Langlade (Gard, cant. Sommières).">Anglata</term>,</l>
+          <l>Guillelmi Fulconis, majoris et minoris, Bernardi de <term n="Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).">Clarenciaco</term>,</l>
+          <l>Petri Arnaldi. Hoc fuit factum in castro de Arenis.</l>
+        </div>
+        <div type="translation">
+          <l>À partir de maintenant, moi, Éléazar de <term n="Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.">Sauve</term>,</l> 
+          <l>fils de Stéphanie, à toi <term n="Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.">Guillemette, vicomtesse</term></l> 
+          <l>qui fut l’épouse de <term n="Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.">Bernard Aton</term>,</l>
+          <l>tant que tu posséderas la seigneurie du château des <term n="Fort probablement, l’amphithéâtre romain des arènes de Nîmes, fortifié, siège du pouvoir vicomtal.">Arènes</term>,</l>
+          <l>et à l’héritier que tu vas avoir du seigneur Bernard Aton</l>
+          <l>de qui tu es enceinte, je ne vous prendrai pas le château de <term n="Bernis (Gard, cant. Vauvert).">Bernis</term></l>
+          <l>et je ne vous en prendrai pas les fortifications qui s’y trouvent aujourd’hui</l>
+          <l>ou qui y seront faites sous le nom de château ;</l>
+          <l>et si un homme ou une femme vous prenait le château susnommé ou vous en prenait [une partie],</l>
+          <l>je n’aurais ni accord ni alliance avec lui, elle, eux ou elles,</l>
+          <l>sauf pour reprendre le château. Et si je peux le reprendre, je le rendrai sans aucune ruse à toi, vicomtesse,</l>
+          <l>ou à l’héritier que tu vas avoir du seigneur Bernard d’Aton, sans profit et sans tromperie,</l>
+          <l>au nom du présent accord, par bonne foi et sans mauvais tour, de par ces saints Évangiles.</l>
+          <l>Cela a été fait en présence d’Hugues de <term n="Sans doute Brouzet-lès-Quissac (Gard, cant. Quissac).">Brouzet</term>,</l>
+          <l>de Peire Guirard, de Pons de <term n="Vézénobres (dép. Gard, ch.-l. cant.).">Vézénobres</term>, de Raymon de Brouzet,</l>
+          <l>de Guilhem Raymon, d’Étienne [fils de] Signerius, de Peire Aldebert,</l>
+          <l>de Pons Raymon, de Bernard Raymon, de Guilhem de Saint-Jean,</l>
+          <l>de Guilhem de <term n="Calmis">La Calmette</term>, de Bernard [fils de] Malianus, de Bertran de <term n="Langlade (Gard, cant. Sommières).">Langlade</term>,</l>
+          <l>de Guilhem Foulque, l’aîné et le cadet, de Bernard de <term n="Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).">Clarensac</term>,</l>
+          <l>de Peire Arnaut. Cela a été fait au château des Arènes.</l>
+        </div>
+        <div type="regeste">
+          <head>[1159 environ]. — Nîmes, château des Arènes.</head>
+          <p>Éléazar de Sauve fait serment à la vicomtesse d’Agde Guillemette, veuve de Bernard [V] Aton, et au fils posthume de ce dernier dont elle est enceinte, qu’il ne les dépossèdera pas du château de Bernis ni de ses fortifications. Si quelqu’un venait à s’emparer du château, il ne passerait aucune convention avec lui sauf pour reprendre le château ; cela fait, il remettrait le château sans contrepartie pécuniaire ni tromperie à la vicomtesse ou à son fils.</p>  
+          <p>N.B. : l’acte a été édité en dernier lieu par Clovis Brunel, <hi rend="i">Les plus anciennes chartes en langue provençale</hi>, Paris, 1926, n<sup>o</sup> 83, p. 83.</p> 
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <div>
+          <head>Caractères externes</head>
+          <p>L’écriture est parallèle au côté le plus long. Le document est écrit sur deux paragraphes, de la même main, mais dans le second alinéa l’espace est tassé, comme s’il avait été mal calculé à l’avance. On ne voit pas autre chose que le texte lui-même : aucun signe de validation n’est apposé.</p> <p>L’examen des caractères externes amène à deux observations. En premier lieu, l’écriture, dénuée de traits diplomatiques marqués (elle s’apparente à la caroline tardive) et l’utilisation de tout l’espace au détriment des marges situent cet acte dans la tradition de l’acte privé méridional. En second lieu, l’absence de justification à gauche comme à droite, l’absence de recherche graphique, le manque de régularité des interlignes, qui se réduisent vers la fin, dénotent le caractère routinier et pragmatique du document, juste conjoints à une indéniable volonté de clarté, parfois même à une ébauche de solennité.</p>
+          <p>On remarque certains flottements dans l’utilisation des abréviations, au demeurant assez discrètes : le q de “que” (l. 3) est barré fautivement, de même que le “p” de “scripti” (l. 6) et vraisemblablement le “u” de “Ugonis” (l. 11). Le nom “Guillelmi” est écrit de trois façons différentes (l. 13-14), “Guill-mi”, “Guill-” et “Guilelmi”. Enfin, la distinction en général très claire entre “u” et “n” est incertaine dans le “non vos tolrai” qu’impose le sens (l. 4) ; il y a sans doute eu ici un léger repentir de la part du scripteur.</p> <p>On observe des pratiques plus fermes ailleurs, dans le marquage des coupures de mot en fin de ligne (fin des l. 1, 2, 7 [coupure “lo-castel” qui est normale, car l’article est en général soudé], 8, 11, 13), ou dans l’utilisation de points entre les propositions pour scander le discours et pour clairement distinguer chacun des témoins, désignés par une anthroponymie déjà plus riche, à deux éléments, mais ambiguë dans la double valeur du génitif (“in presentia Petri Guirardi” renvoie à “Petrus Guirardi”). Tous traits qui semblent témoigner d’un certain souci de clarté.</p>
+          <p>Fonctionnelle, l’écriture est même assez soignée, avec notamment d’élégants “z” plongeants en fin de mot (voir “preinz” et “Berniz”, l. 4) et un effet ornemental dans l’ébauche de ligature “ct” (voir “factas” l. 5). On note la présence de quelques “i” plongeants, pour différencier les jambages, dans le groupe “ui”  (voir “vice[comitissa]” l. 1 et “fuist” l. 2), et dans le groupe “ii” en fin de mot, distingué en sus par un double pointage (“Pontii” l. 11, “Signerii” l. 12).</p> 
+        </div>
+        <div>
+          <head>Langue et style</head>
+          
+          <p>Le trait le plus éclatant de la langue du document, très commun pour son époque et son type, est le balancement entre latin et langue d’oc, qu’il faut examiner non en termes d’incapacité à tout exprimer en latin, mais comme un système pertinent jouant de  la complémentarité des deux registres. On peut pour ce faire mettre en opposition les emplois des deux langues, non sans quelque incertitude puisque certains groupes peuvent finalement relever de l’une ou l’autre : dans “filius de Stephana”, “filius” est certainement latin, mais “de Stephana” peut aussi bien être aussi bien occitan que renvoyer à une tournure latine évoluée, plaquant des flexions latines sur un bâti vulgaire.</p> 
+          <p><hi n="color" rend="gray">Latin sûr</hi></p>
+          <quote>
+            <p><hi n="color" rend="gray">De ista ora inantea, ego Ylisiarius de Salve, filius</hi> de Stephana, a te Guilelma vicecomitissa que fuist moller de Bernardo Aton, tant quant tenras la sennoria del castel de la Arena, et ad aquel eres que auras d’en Bernart Aton, de qual tu es preinz, lo castel de Berniz non vos tolrai ne vos en tolrai ipsas fortedas <hi n="color" rend="gray">que hodie ibi sunt</hi> ni adenant factas i erunt per nomen de castel ; et si om vel femina aquest castel <hi n="color" rend="gray">suprascripti</hi> vos tollia o.s en tollia, ab aquel o ab aquella o ab aquels o ab aquellas <hi n="color">finem</hi> ne <hi n="color" rend="gray">societatem cum illo vel cum illis</hi>non auria, fors quant per lo castel a recobrar. Et si recobrar eu lo <hi n="color" rend="gray">potuero, per nullum ingenium</hi> a te vicecomitissa o a l’eres que auras d’en Bernart d’Aton lo redrai <hi n="color" rend="gray">sine lucro et sine decepcione</hi>, per ipsa conveniencia, <hi n="color" rend="gray">per fidem et sine inganno, per hec sancta evangelia</hi>.</p>
+            <p><hi n="color" rend="gray">Hoc est factum in presencia Ugonis de Brodito, Petri Guirardi, Pontii de Vedenobrio, Raimundi de Brodito, Guillelmi Raimundi, Stephani Signerii, Petri Aldeberti, Pontii Raimundi, Bernardi Raimundi, Guillelmi Sancti Johannis, Guilelmi de Calmis, Bernardi Maliani, Bertrandi de Anglata, Guillelmi Fulconis, majoris et minoris, Bernardi de Clarenciaco, Petri Arnaldi. Hoc fuit factum in castro de Arenis.</hi></p>
+          </quote>
+          <p>Malgré ces incertitudes, la conclusion s’impose. L’opposition entre les deux alinéas est profonde : le vernaculaire est employé dans la première moitié de l’acte exclusivement, avant la souscription des témoins, ce qui peut paraître d’autant plus surprenant étant donnée la présence de très nombreux anthroponymes dans le second paragraphe : le rédacteur a éprouvé ici le besoin d’une latinisation systématique, alors que les anthroponymes dans le premier alinéa balancent entre latin et occitan. Dans le second alinéa, l’utilisation du latin sert donc à solenniser la souscription ; avec la date de lieu, elle fait pleinement partie de l’eschatocole, très diplomatique, lié à la validation de l’acte.</p>
+          <p>Un examen même superficiel de l’occitan montre que la langue utilisée est formée et ferme, et l’on en dirait autant du latin, fonctionnel et correct. Le balancement des deux langues obéit donc bien à une volonté délibérée : le latin légitime l’acte écrit et solennise la cérémonie, la notation en vernaculaire correspond au cœur même du serment et, avec un effet de réel plus ou moins décalé, fait entendre les mots mêmes de l’engagement, actif dès son énonciation. Vernaculaire farci, au reste, auquel la marquetterie de mots latins confère une tonalité juridique.</p>
+        </div>
+        <div>
+          <head>Interprétation</head>
+          <p>On remarquera de manière générale le caractère très direct de la rédaction de l’acte : on ne trouve ni invocation ni salut dans le protocole ; ni préambule, ni notification, ni exposé dans le corps du texte ; enfin, l’eschatocole se réduit à une liste de témoins et à une simple date de lieu. Le document consigne le souvenir d’une cérémonie aussi immédiatement que possible ; il baigne dans le présent, dans un contexte (des acteurs, des lieux) très bien connu des lecteurs potentiels, mais aussi dans le présent ouvert vers le futur de la fidélité perpétuelle (“De ista ora in antea”).</p> <p>Au milieu du XIIe siècle, ce genre de serment, outil de la construction princière, a derrière lui un passé déjà séculaire, mais il reproduit des formes traditionnelles (déjà carolingiennes, et encore observables au XIVe siècle), qui tirent leur force aussi bien de la solennelle et lancinante répétition du formulaire, au sens de l’histoire littéraire, que du mixage tout autre malhabile de la langue du seigneur et de la langue du prêtre, et du serment prêté sur des livres saints presque pris à témoins (“per hec sancta evangelia”).</p>
+          <p>Le document est conservé aux Archives nationales dans le Trésor des chartes des rois de France. Il est difficile de savoir s’il est parvenu entre les mains du Capétien avec Nîmes, ou s’il n’est pas auparavant passé entre celles des comtes de Toulouse.</p> 
+        </div> 
       </div>
     </body>
-    <back></back>
   </text>
-</TEI.2>
+</TEI>
