@@ -1,15 +1,15 @@
 {
-    "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man109.json",
+    "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man109-1.json",
     "@type": "sc:Manifest",
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "label": "Dossier documentaire 109",
+    "label": "Dossier documentaire 109-1",
     "thumbnail": {
-        "@id": "http://193.48.42.68/loris/adele/dossiers/109.jpg/full/180,/0/default.jpg"
+        "@id": "http://193.48.42.68/loris/adele/dossiers/109-1.jpg/full/180,/0/default.jpg"
     },
     "attribution": "\u00c9cole nationale des chartes",
     "license": "http://rightsstatements.org/vocab/NoC-NC/1.0/",
     "logo": "http://193.48.42.68/loris/logos/logo-enc.png/full/full/0/default.png",
-    "related": "http://theleme.enc.sorbonne.fr/dossiers/notice109.php",
+    "related": "http://theleme.enc.sorbonne.fr/dossiers/notice109-1.php",
     "description": "Saint J\u00e9r\u00f4me, Chronicon",
     "metadata": [
         {
@@ -20,11 +20,11 @@
     "sequences": [
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "http://193.48.42.68/loris/adele/dossiers/109/sequence/normal",
+            "@id": "http://193.48.42.68/loris/adele/dossiers/109-2/sequence/normal",
             "@type": "sc:Sequence",
             "canvases": [
                 {
-                    "@id": "http://193.48.42.68/loris/adele/dossiers/109/canvas/f1",
+                    "@id": "http://193.48.42.68/loris/adele/dossiers/109-2/canvas/f1",
                     "@type": "sc:Canvas",
                     "label": "Volume de 178 fol.",
                     "height": 1184,
@@ -32,22 +32,57 @@
                     "images": [
                         {
                             "@context": "http://iiif.io/api/presentation/2/context.json",
-                            "@id": "http://193.48.42.68/loris/adele/dossiers/109/annotation/a1",
+                            "@id": "http://193.48.42.68/loris/adele/dossiers/109-2/annotation/a1",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "http://193.48.42.68/loris/adele/dossiers/109.jpg/full/full/0/default.jpg",
+                                "@id": "http://193.48.42.68/loris/adele/dossiers/109-2.jpg/full/full/0/default.jpg",
                                 "@type": "dctypes:Image",
                                 "height": 1184,
                                 "width": 900,
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "http://193.48.42.68/loris/adele/dossiers/109.jpg",
+                                    "@id": "http://193.48.42.68/loris/adele/dossiers/109-2.jpg",
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "http://193.48.42.68/loris/adele/dossiers/109/canvas/f1"
+                            "on": "http://193.48.42.68/loris/adele/dossiers/109-2/canvas/f1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "http://193.48.42.68/loris/adele/dossiers/109-2/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "http://193.48.42.68/loris/adele/dossiers/109-2/canvas/f1",
+                    "@type": "sc:Canvas",
+                    "label": "Volume de 178 fol.",
+                    "height": 1184,
+                    "width": 900,
+                    "images": [
+                        {
+                            "@context": "http://iiif.io/api/presentation/2/context.json",
+                            "@id": "http://193.48.42.68/loris/adele/dossiers/109-2/annotation/a1",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "http://193.48.42.68/loris/adele/dossiers/109-2.jpg/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 1184,
+                                "width": 900,
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "http://193.48.42.68/loris/adele/dossiers/109-2.jpg",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "http://193.48.42.68/loris/adele/dossiers/109-2/canvas/f1"
                         }
                     ]
                 }
