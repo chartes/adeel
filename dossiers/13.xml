@@ -1,110 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-        <teiHeader>
-                <fileDesc>
-                        <titleStmt>
-                                <title>1278 (a. st.), février. Projet de liquidation des dettes de la ville de Noyon.</title>
-                        </titleStmt>
-                        <publicationStmt>
-                                <idno type="numero">13</idno>
-                                <publisher>École nationale des chartes</publisher>
-                        </publicationStmt>
-                        <sourceDesc>
-                                <p>Orig. : Arch. nat., J 1035, n° 33.</p>
-                                <p>Fac-sim. ENC : NF 58 (héliogravure).</p>
-                        </sourceDesc>
-                </fileDesc>
-                <profileDesc>
-                        <langUsage>
-                                <language id="frm">Ancien français</language>
-                                <language id="fre">Français</language>
-                        </langUsage>
-                </profileDesc>
-        </teiHeader>
-        <text>
-                <body>
-                        <div type="facsimile">
-                                <p>
-                                        <seg rend="12,8,806,31">Vez ci l’estat de la ville de Noion. La ville doit XVIM livres poi plus ou mains, a l’estimation du maire</seg>
-                                        <seg rend="11,35,793,55"><ex>et</ex> des eschevins, c’est a savoir a ceus qui sunt asenez des rentes a vie <ex>et</ex> a ceus qui lour ont</seg>
-                                        <seg rend="10,57,784,76">baillez lour quemandes en garde <ex>et</ex> a ceus desquels il ont emprunté p<ex>our</ex> le besoing de la ville,</seg>
-                                        <seg rend="12,81,656,104">don nos, auditors, devons avoir les nons <ex>et</ex> les parties, que nos vos porteron.</seg>
-                                        <seg rend="-14,125,789,154">Vez ci la delivrance ordrenee p<ex>ar</ex> devant nos, auditors, du conseil du maior <ex>et</ex> des jurés</seg>
-                                        <seg rend="25,154,792,184">de Noion au plus profitablement que l’e<ex>n</ex> pourra p<ex>our</ex> la ville \aquiter/ si plaist a nostre sei<ex>n</ex>gnor le roy</seg>
-                                        <seg rend="5,191,790,216">P<ex>re</ex>mierement il doivent XLIIC livres <ex>et</ex> XX l. paris<ex>is</ex> de rente a vie chascun an, p<ex>our</ex> laquele</seg>
-                                        <seg rend="4,217,791,239">deite rendre chascun an la ville, du quemun assenteme<ex>n</ex>t, s’est acordee que il paieront par</seg>
-                                        <seg rend="3,239,787,267">taille ceste p<ex>re</ex>miere anee VIM livres <ex>et</ex> chascu<ex>n</ex> an ap<ex>ré</ex>s cele meesme su<ex>m</ex>me, se celui qui i sera</seg>
-                                        <seg rend="12,268,797,295">de p<ex>ar</ex> lou roy voit que il le puissent fere, jusqu’a tant que la deite devant dite (soit),</seg>
-                                        <seg rend="16,297,811,319">c’est a savoir XVIM livres \<ex>et</ex> les rentes a vie/, soient paiees, <ex>et</ex> sera levee la taille p<ex>ar</ex> (cil) \celui/ que li roys i establira,</seg>
-                                        <seg rend="19,320,819,347"><ex>et</ex> en contera p<ex>ar</ex> devant les mestres des contes le roy, presenz aucu<ex>n</ex>s des p<ex>ro</ex>udeshomes</seg>
-                                        <seg rend="24,350,810,372">de Noion qui pour ce seront apelez. <ex>Et</ex> pour ce que la ville sera trop grevee de si</seg>
-                                        <seg rend="25,374,834,403">grant su<ex>m</ex>me paier, il requierent nostre seignor le roy qu’i lour face rabatre les usures</seg>
-                                        <seg rend="29,405,832,430"><ex>et</ex> que ceus qui lour voudront quit<ex>er</ex> aucunes [des deites ou des rentes] a vie, qui lour</seg>
-                                        <seg rend="21,432,825,454">soient rabatues de lour so<ex>m</ex>me, pour ce que il ont eu plus que chatel et il semble a</seg>
-                                        <seg rend="32,457,827,480">nos, auditors, que il ont achaté m<ex>ou</ex>lt pellireusement (puis) \ce/ qu’il ont achaté (sus les deffendement</seg>
-                                        <seg rend="29,482,820,506">le roy) puis la deffense nostre seignor le roy, c’est a savoir puis X anz en encha, <ex>et</ex> si est</seg>
-                                        <seg rend="19,510,793,530">ordrené que se aucun ne voloit paier sa (paie) taille chascun an, cil qui seroit de par le roy</seg>
-                                        <seg rend="26,538,798,562">rendroit li cors en Chastelet a Paris ou en autre bonne p<ex>ri</ex>sson <ex>et</ex> vendroit de ses bie<ex>n</ex>s tant</seg>
-                                        <seg rend="10,566,797,593">que sa taille seroit paiee. <ex>Et</ex> se besoing estoit que la taille fust refaite, il la referoient par le <ex>con</ex>seil</seg>
-                                        <seg rend="5,597,787,620">de celui qui seroit de par le roy. Et requiert ladite ville de Noion par ce fesant</seg>
-                                        <seg rend="7,624,819,648">que il puissent marchaander <ex>et</ex> qu’i ne soient pas aresté pour la deite de la ville ne que li</seg>
-                                        <seg rend="2,651,792,675">maires ne la (q) co<ex>m</ex>mune ne puissent charchier la ville de plus de deite devant q<ex>ue</ex> ceste soit</seg>
-                                        <seg rend="7,678,790,705">aquitee. Et requirent li maires <ex>et</ex> li eschevin devant diz que li clers qui tiennent</seg>
-                                        <seg rend="8,711,789,736">les heritaiges de lour peires <ex>et</ex> de lour meres (\et de lour/) que il paient les deites que il deveent</seg>
-                                        <seg rend="7,738,788,764">(q) a la co<ex>m</ex>mune q<ex>u</ex>ant il viveent, <ex>et</ex> ausi requirent il que il paient des biens qui lour sunt venuz</seg>
-                                        <seg rend="9,766,787,794">par eschaance de lour autres parenz. Et sus le choses devant dites parlez au roy si vos plaist</seg>
-                                        <seg rend="14,798,774,817"><ex>et</ex> nos remandez sa volenté p<ex>ar</ex> le porteors de ces letres ha(u)tiveme<ex>n</ex>t quer nos n’atendon gaires autre</seg>
-                                        <seg rend="22,820,774,844">chose fors vostre response. En testmong de laquele chose, li maior <ex>et</ex> li jurés de Noion, par</seg>
-                                        <seg rend="22,847,781,871">l’asentement de la comune apelee a cloige sonnant, ont mis lour seel en cest p<ex>re</ex>sent escrit,</seg>
-                                        <seg rend="26,872,623,901">le diemeinche des Brandons en l’an nostre Seignor mil CC sexante XVIII.</seg>
-                               </p>
-                        </div>
-                        <div type="text">
-                                <div type="transcription">
-                                        <l>Vez ci l’estat de la ville de Noion. La ville doit XVI<hi rend="sup">M</hi> livres poi plus ou mains, a l’estimation du maire</l>
-                                        <l><ex>et</ex> des eschevins, c’est a savoir a ceus qui sunt asenez des rentes a vie <ex>et</ex> a ceus qui lour ont</l>
-                                        <l>baillez lour quemandes en garde <ex>et</ex> a ceus desquels il ont emprunté p<ex>our</ex> le besoing de la ville,</l>
-                                        <l>don nos, auditors, devons avoir les nons <ex>et</ex> les parties, que nos vos porteron.</l>
-                                        <l>Vez ci la delivrance ordrenee p<ex>ar</ex> devant nos, auditors, du conseil du maior <ex>et</ex> des jurés</l>
-                                        <l>de Noion au plus profitablement que l’e<ex>n</ex> pourra p<ex>our</ex> la ville \aquiter/ si plaist a nostre sei<ex>n</ex>gnor le roy</l>
-                                        <l>P<ex>re</ex>mierement il doivent XLII<hi rend="sup">C</hi> livres <ex>et</ex> XX l. paris<ex>is</ex> de rente a vie chascun an, p<ex>our</ex> laquele</l>
-                                        <l>deite rendre chascun an la ville, du quemun assenteme<ex>n</ex>t, s’est acordee que il paieront par</l>
-                                        <l>taille ceste p<ex>re</ex>miere anee VI<hi rend="sup">M</hi> livres <ex>et</ex> chascu<ex>n</ex> an ap<ex>ré</ex>s cele meesme su<ex>m</ex>me, se celui qui i sera</l>
-                                        <l>de p<ex>ar</ex> lou roy voit que il le puissent fere, jusqu’a tant que la deite devant dite (soit),</l>
-                                        <l>c’est a savoir XVI<hi rend="sup">M</hi> livres \<ex>et</ex> les rentes a vie/, soient paiees, <ex>et</ex> sera levee la taille p<ex>ar</ex> (cil) \celui/ que li roys i establira,</l>
-                                        <l><ex>et</ex> en contera p<ex>ar</ex> devant les mestres des contes le roy, presenz aucu<ex>n</ex>s des p<ex>ro</ex>udeshomes</l>
-                                        <l>de Noion qui pour ce seront apelez. <ex>Et</ex> pour ce que la ville sera trop grevee de si</l>
-                                        <l>grant su<ex>m</ex>me paier, il requierent nostre seignor le roy qu’i lour face rabatre les usures</l>
-                                        <l><ex>et</ex> que ceus qui lour voudront quit<ex>er</ex> aucunes [des deites ou des rentes] a vie, qui lour</l>
-                                        <l>soient rabatues de lour so<ex>m</ex>me, pour ce que il ont eu plus que chatel et il semble a</l>
-                                        <l>nos, auditors, que il ont achaté m<ex>ou</ex>lt pellireusement (puis) \ce/ qu’il ont achaté (sus les deffendement</l>
-                                        <l>le roy) puis la deffense nostre seignor le roy, c’est a savoir puis X anz en encha, <ex>et</ex> si est</l>
-                                        <l>ordrené que se aucun ne voloit paier sa (paie) taille chascun an, cil qui seroit de par le roy</l>
-                                        <l>rendroit li cors en Chastelet a Paris ou en autre bonne p<ex>ri</ex>sson <ex>et</ex> vendroit de ses bie<ex>n</ex>s tant</l>
-                                        <l>que sa taille seroit paiee. <ex>Et</ex> se besoing estoit que la taille fust refaite, il la referoient par le <ex>con</ex>seil</l>
-                                        <l>de celui qui seroit de par le roy. Et requiert ladite ville de Noion par ce fesant</l>
-                                        <l>que il puissent marchaander <ex>et</ex> qu’i ne soient pas aresté pour la deite de la ville ne que li</l>
-                                        <l>maires ne la (q) co<ex>m</ex>mune ne puissent charchier la ville de plus de deite devant q<ex>ue</ex> ceste soit</l>
-                                        <l>aquitee. Et requirent li maires <ex>et</ex> li eschevin devant diz que li clers qui tiennent</l>
-                                        <l>les heritaiges de lour peires <ex>et</ex> de lour meres (\et de lour/) que il paient les deites que il deveent</l>
-                                        <l>a la co<ex>m</ex>mune q<ex>u</ex>ant il viveent, <ex>et</ex> ausi requirent il que il paient des biens qui lour sunt venuz</l>
-                                        <l>par eschaance de lour autres parenz. Et sus le choses devant dites parlez au roy si vos plaist</l>
-                                        <l><ex>et</ex> nos remandez sa volenté p<ex>ar</ex> le porteors de ces letres ha(u)tiveme<ex>n</ex>t quer nos n’atendon gaires autre</l>
-                                        <l>chose fors vostre response. En testmong de laquele chose, li maior <ex>et</ex> li jurés de Noion, par</l>
-                                        <l>l’asentement de la comune apelee a cloige sonnant, ont mis lour seel en cest p<ex>re</ex>sent escrit,</l>
-                                        <l>le diemeinche des Brandons en l’an nostre Seignor mil CC sexante XVIII.</l>
-                                </div>
-                        </div>
-                        <div type="diplomatic">
-                                <head>Commentaire diplomatique</head>
-                                <div>
-                                        <div>
-                                                <p>De 1259 à 1263, le gouvernement royal a pris une série de mesures pour remettre de l'ordre dans la gestion des villes du domaine royal ("vieux domaine" capétien et Normandie), qu'elles aient ou non le statut de communes. L'état de délabrement de leurs finances, lourdement endettées (d'ailleurs en bonne part par les réquisitions de la royauté...) ainsi que la mainmise des oligarchies suscitent en effet des troubles sociaux assez graves.</p>
-                                                <p>Le roi a donc ordonné de procéder d'abord avec régularité aux élections des maires, et à ceux-ci de rendre ensuite avec la même régularité des comptes de leur gestion. Nouveauté plus absolue, ces comptes, accompagnés d'une estimation de l'endettement, doivent être transmis à la cour royale, où des commissaires les examineront et proposeront des solutions.</p>
-                                                <p>Le résultat le plus éclatant est moins l'assainissement de la gestion municipale que la concentration au Trésor des chartes du roi (et en grande partie jusqu'à nos jours, aux Archives nationales, sous la cote J 385, layette "Dettes des villes") d'un ensemble unique et précoce de comptes de villes concentrés autour de 1260 (près d'une centaine, avec les copies de documents perdus). Ce dossier captivant, ne courant malheureusement que sur quelques années, est intéressant à d'autres points de vue : par le nombre de sceaux de villes qu'il nous fait connaître, par les avis des commissaires royaux qui sont eux aussi conservés, par la façon dont on voit les méthodes comptables de la monarchie, sous leur influence, se répandre dans les villes ; car l'on voit aussi, à la lecture de ce document-ci, les difficultés d'interprétation liées à des techniques, à un vocabulaire et à une présentation comptables encore très flottants, avant l'homogénéisation réalisée au XIV<hi rend="sup">e</hi> et XV<hi rend="sup">e</hi> siècles, toujours sous influence royale.</p>
-                                        </div>
-                                </div>
-                        </div>
-                </body>
-        </text>
-</TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1278 (a. st.), février. Projet de liquidation des dettes de la ville de Noyon.</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">13</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Arch. nat., J 1035, n° 33.</p>
+        <p>Fac-sim. ENC : NF 58 (héliogravure).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="frm">Ancien français</language>
+        <language id="fre">Français</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="12,8,806,31">Vez ci l’estat de la ville de Noion. La ville doit XVIM livres poi plus ou mains, a l’estimation du maire</seg>
+          <seg rend="11,35,793,55"><ex>et</ex> des eschevins, c’est a savoir a ceus qui sunt asenez des rentes a vie <ex>et</ex> a ceus qui lour ont</seg>
+          <seg rend="10,57,784,76">baillez lour quemandes en garde <ex>et</ex> a ceus desquels il ont emprunté p<ex>our</ex> le besoing de la ville,</seg>
+          <seg rend="12,81,656,104">don nos, auditors, devons avoir les nons <ex>et</ex> les parties, que nos vos porteron.</seg>
+          <seg rend="-14,125,789,154">Vez ci la delivrance ordrenee p<ex>ar</ex> devant nos, auditors, du conseil du maior <ex>et</ex> des jurés</seg>
+          <seg rend="25,154,792,184">de Noion au plus profitablement que l’e<ex>n</ex> pourra p<ex>our</ex> la ville \aquiter/ si plaist a nostre sei<ex>n</ex>gnor le roy</seg>
+          <seg rend="5,191,790,216">P<ex>re</ex>mierement il doivent XLIIC livres <ex>et</ex> XX l. paris<ex>is</ex> de rente a vie chascun an, p<ex>our</ex> laquele</seg>
+          <seg rend="4,217,791,239">deite rendre chascun an la ville, du quemun assenteme<ex>n</ex>t, s’est acordee que il paieront par</seg>
+          <seg rend="3,239,787,267">taille ceste p<ex>re</ex>miere anee VIM livres <ex>et</ex> chascu<ex>n</ex> an ap<ex>ré</ex>s cele meesme su<ex>m</ex>me, se celui qui i sera</seg>
+          <seg rend="12,268,797,295">de p<ex>ar</ex> lou roy voit que il le puissent fere, jusqu’a tant que la deite devant dite (soit),</seg>
+          <seg rend="16,297,811,319">c’est a savoir XVIM livres \<ex>et</ex> les rentes a vie/, soient paiees, <ex>et</ex> sera levee la taille p<ex>ar</ex> (cil) \celui/ que li roys i establira,</seg>
+          <seg rend="19,320,819,347"><ex>et</ex> en contera p<ex>ar</ex> devant les mestres des contes le roy, presenz aucu<ex>n</ex>s des p<ex>ro</ex>udeshomes</seg>
+          <seg rend="24,350,810,372">de Noion qui pour ce seront apelez. <ex>Et</ex> pour ce que la ville sera trop grevee de si</seg>
+          <seg rend="25,374,834,403">grant su<ex>m</ex>me paier, il requierent nostre seignor le roy qu’i lour face rabatre les usures</seg>
+          <seg rend="29,405,832,430"><ex>et</ex> que ceus qui lour voudront quit<ex>er</ex> aucunes [des deites ou des rentes] a vie, qui lour</seg>
+          <seg rend="21,432,825,454">soient rabatues de lour so<ex>m</ex>me, pour ce que il ont eu plus que chatel et il semble a</seg>
+          <seg rend="32,457,827,480">nos, auditors, que il ont achaté m<ex>ou</ex>lt pellireusement (puis) \ce/ qu’il ont achaté (sus les deffendement</seg>
+          <seg rend="29,482,820,506">le roy) puis la deffense nostre seignor le roy, c’est a savoir puis X anz en encha, <ex>et</ex> si est</seg>
+          <seg rend="19,510,793,530">ordrené que se aucun ne voloit paier sa (paie) taille chascun an, cil qui seroit de par le roy</seg>
+          <seg rend="26,538,798,562">rendroit li cors en Chastelet a Paris ou en autre bonne p<ex>ri</ex>sson <ex>et</ex> vendroit de ses bie<ex>n</ex>s tant</seg>
+          <seg rend="10,566,797,593">que sa taille seroit paiee. <ex>Et</ex> se besoing estoit que la taille fust refaite, il la referoient par le <ex>con</ex>seil</seg>
+          <seg rend="5,597,787,620">de celui qui seroit de par le roy. Et requiert ladite ville de Noion par ce fesant</seg>
+          <seg rend="7,624,819,648">que il puissent marchaander <ex>et</ex> qu’i ne soient pas aresté pour la deite de la ville ne que li</seg>
+          <seg rend="2,651,792,675">maires ne la (q) co<ex>m</ex>mune ne puissent charchier la ville de plus de deite devant q<ex>ue</ex> ceste soit</seg>
+          <seg rend="7,678,790,705">aquitee. Et requirent li maires <ex>et</ex> li eschevin devant diz que li clers qui tiennent</seg>
+          <seg rend="8,711,789,736">les heritaiges de lour peires <ex>et</ex> de lour meres (\et de lour/) que il paient les deites que il deveent</seg>
+          <seg rend="7,738,788,764">(q) a la co<ex>m</ex>mune q<ex>u</ex>ant il viveent, <ex>et</ex> ausi requirent il que il paient des biens qui lour sunt venuz</seg>
+          <seg rend="9,766,787,794">par eschaance de lour autres parenz. Et sus le choses devant dites parlez au roy si vos plaist</seg>
+          <seg rend="14,798,774,817"><ex>et</ex> nos remandez sa volenté p<ex>ar</ex> le porteors de ces letres ha(u)tiveme<ex>n</ex>t quer nos n’atendon gaires autre</seg>
+          <seg rend="22,820,774,844">chose fors vostre response. En testmong de laquele chose, li maior <ex>et</ex> li jurés de Noion, par</seg>
+          <seg rend="22,847,781,871">l’asentement de la comune apelee a cloige sonnant, ont mis lour seel en cest p<ex>re</ex>sent escrit,</seg>
+          <seg rend="26,872,623,901">le diemeinche des Brandons en l’an nostre Seignor mil CC sexante XVIII.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l>Vez ci l’estat de la ville de Noion. La ville doit XVI<hi rend="sup">M</hi> livres poi plus ou mains, a l’estimation du maire</l>
+          <l><ex>et</ex> des eschevins, c’est a savoir a ceus qui sunt asenez des rentes a vie <ex>et</ex> a ceus qui lour ont</l>
+          <l>baillez lour quemandes en garde <ex>et</ex> a ceus desquels il ont emprunté p<ex>our</ex> le besoing de la ville,</l>
+          <l>don nos, auditors, devons avoir les nons <ex>et</ex> les parties, que nos vos porteron.</l>
+          <l>Vez ci la delivrance ordrenee p<ex>ar</ex> devant nos, auditors, du conseil du maior <ex>et</ex> des jurés</l>
+          <l>de Noion au plus profitablement que l’e<ex>n</ex> pourra p<ex>our</ex> la ville \aquiter/ si plaist a nostre sei<ex>n</ex>gnor le roy</l>
+          <l>P<ex>re</ex>mierement il doivent XLII<hi rend="sup">C</hi> livres <ex>et</ex> XX l. paris<ex>is</ex> de rente a vie chascun an, p<ex>our</ex> laquele</l>
+          <l>deite rendre chascun an la ville, du quemun assenteme<ex>n</ex>t, s’est acordee que il paieront par</l>
+          <l>taille ceste p<ex>re</ex>miere anee VI<hi rend="sup">M</hi> livres <ex>et</ex> chascu<ex>n</ex> an ap<ex>ré</ex>s cele meesme su<ex>m</ex>me, se celui qui i sera</l>
+          <l>de p<ex>ar</ex> lou roy voit que il le puissent fere, jusqu’a tant que la deite devant dite (soit),</l>
+          <l>c’est a savoir XVI<hi rend="sup">M</hi> livres \<ex>et</ex> les rentes a vie/, soient paiees, <ex>et</ex> sera levee la taille p<ex>ar</ex> (cil) \celui/ que li roys i establira,</l>
+          <l><ex>et</ex> en contera p<ex>ar</ex> devant les mestres des contes le roy, presenz aucu<ex>n</ex>s des p<ex>ro</ex>udeshomes</l>
+          <l>de Noion qui pour ce seront apelez. <ex>Et</ex> pour ce que la ville sera trop grevee de si</l>
+          <l>grant su<ex>m</ex>me paier, il requierent nostre seignor le roy qu’i lour face rabatre les usures</l>
+          <l><ex>et</ex> que ceus qui lour voudront quit<ex>er</ex> aucunes [des deites ou des rentes] a vie, qui lour</l>
+          <l>soient rabatues de lour so<ex>m</ex>me, pour ce que il ont eu plus que chatel et il semble a</l>
+          <l>nos, auditors, que il ont achaté m<ex>ou</ex>lt pellireusement (puis) \ce/ qu’il ont achaté (sus les deffendement</l>
+          <l>le roy) puis la deffense nostre seignor le roy, c’est a savoir puis X anz en encha, <ex>et</ex> si est</l>
+          <l>ordrené que se aucun ne voloit paier sa (paie) taille chascun an, cil qui seroit de par le roy</l>
+          <l>rendroit li cors en Chastelet a Paris ou en autre bonne p<ex>ri</ex>sson <ex>et</ex> vendroit de ses bie<ex>n</ex>s tant</l>
+          <l>que sa taille seroit paiee. <ex>Et</ex> se besoing estoit que la taille fust refaite, il la referoient par le <ex>con</ex>seil</l>
+          <l>de celui qui seroit de par le roy. Et requiert ladite ville de Noion par ce fesant</l>
+          <l>que il puissent marchaander <ex>et</ex> qu’i ne soient pas aresté pour la deite de la ville ne que li</l>
+          <l>maires ne la (q) co<ex>m</ex>mune ne puissent charchier la ville de plus de deite devant q<ex>ue</ex> ceste soit</l>
+          <l>aquitee. Et requirent li maires <ex>et</ex> li eschevin devant diz que li clers qui tiennent</l>
+          <l>les heritaiges de lour peires <ex>et</ex> de lour meres (\et de lour/) que il paient les deites que il deveent</l>
+          <l>a la co<ex>m</ex>mune q<ex>u</ex>ant il viveent, <ex>et</ex> ausi requirent il que il paient des biens qui lour sunt venuz</l>
+          <l>par eschaance de lour autres parenz. Et sus le choses devant dites parlez au roy si vos plaist</l>
+          <l><ex>et</ex> nos remandez sa volenté p<ex>ar</ex> le porteors de ces letres ha(u)tiveme<ex>n</ex>t quer nos n’atendon gaires autre</l>
+          <l>chose fors vostre response. En testmong de laquele chose, li maior <ex>et</ex> li jurés de Noion, par</l>
+          <l>l’asentement de la comune apelee a cloige sonnant, ont mis lour seel en cest p<ex>re</ex>sent escrit,</l>
+          <l>le diemeinche des Brandons en l’an nostre Seignor mil CC sexante XVIII.</l>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <p>De 1259 à 1263, le gouvernement royal a pris une série de mesures pour remettre de l'ordre dans la gestion des villes du domaine royal ("vieux domaine" capétien et Normandie), qu'elles aient ou non le statut de communes. L'état de délabrement de leurs finances, lourdement endettées (d'ailleurs en bonne part par les réquisitions de la royauté...) ainsi que la mainmise des oligarchies suscitent en effet des troubles sociaux assez graves.</p>
+        <p>Le roi a donc ordonné de procéder d'abord avec régularité aux élections des maires, et à ceux-ci de rendre ensuite avec la même régularité des comptes de leur gestion. Nouveauté plus absolue, ces comptes, accompagnés d'une estimation de l'endettement, doivent être transmis à la cour royale, où des commissaires les examineront et proposeront des solutions.</p>
+        <p>Le résultat le plus éclatant est moins l'assainissement de la gestion municipale que la concentration au Trésor des chartes du roi (et en grande partie jusqu'à nos jours, aux Archives nationales, sous la cote J 385, layette "Dettes des villes") d'un ensemble unique et précoce de comptes de villes concentrés autour de 1260 (près d'une centaine, avec les copies de documents perdus). Ce dossier captivant, ne courant malheureusement que sur quelques années, est intéressant à d'autres points de vue : par le nombre de sceaux de villes qu'il nous fait connaître, par les avis des commissaires royaux qui sont eux aussi conservés, par la façon dont on voit les méthodes comptables de la monarchie, sous leur influence, se répandre dans les villes ; car l'on voit aussi, à la lecture de ce document-ci, les difficultés d'interprétation liées à des techniques, à un vocabulaire et à une présentation comptables encore très flottants, avant l'homogénéisation réalisée au XIV<hi rend="sup">e</hi> et XV<hi rend="sup">e</hi> siècles, toujours sous influence royale.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,218 +1,286 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-	<teiHeader> 	<fileDesc> 	<titleStmt> 	<title>1297. Saint-Omer. Vincent de Beauvais, Speculum historiale (liv. I, chap. 121, et liv. II, chap. 1)</title> 	</titleStmt> 	<publicationStmt> 	<idno type="numero">7</idno> 	<publisher>École nationale des chartes</publisher> 	</publicationStmt> 	<sourceDesc> 	<p>Orig. : Bibl. mun. Boulogne-sur-Mer, ms. 131.</p> 	<p>Fac-sim. ENC : NF 339 (héliogravure).</p> 	</sourceDesc> 	</fileDesc> 	<profileDesc> 	<langUsage> 	<language id="frm">Ancien français</language> 	<language id="fre">Français</language> 	</langUsage> 	</profileDesc>
-	</teiHeader>
-	<text> 	<body> 	<div type="facsimile"> 	    <p>
-                                                    <seg rend="2,8,382,35">Testat<ex>ur</ex> a<ex>utem</ex> Epyfani<ex>us</ex> q<ex>uod</ex> no<ex>n</ex> sit passus cor<ex>por</ex>is mutatione<ex>m</ex> s<ex>ed</ex> m<ex>en</ex>-</seg>
-                                                    <seg rend="4,37,371,61">-tis alienat<ex>i</ex>one<ex>m</ex>, <ex>et</ex> ablat<ex>us</ex> e<ex>st</ex> ei usus lingue ad loque<ex>n</ex>du<ex>m</ex></seg>
-                                                    <seg rend="4,63,360,84">dataq<ex>ue</ex> <ex>es</ex>t h<ex>er</ex>ba n<ex>atu</ex>re cib<ex>us</ex> humane. Videbat<ex>ur</ex> a<ex>utem</ex> ei q<ex>uod</ex> bos e<ex>ss</ex>et</seg>
-                                                    <seg rend="4,86,359,110">i<ex>n</ex> a<ex>n</ex>teriorib<ex>us</ex> <ex>et</ex> leo in post<ex>er</ex>iorib<ex>us</ex>, s<ex>ecundum</ex> mysteriu<ex>m</ex> tyra<ex>n</ex>nor<ex>um</ex> q<ex>u</ex>i</seg>
-                                                    <seg rend="5,110,375,132">i<ex>n</ex> p<ex>ri</ex>ma etate voluptatib<ex>us</ex> dediti ac cervicosi jugo Be-</seg>
-                                                    <seg rend="4,135,363,155">-lial se s<ex>u</ex>biciu<ex>n</ex>t <ex>et</ex> i<ex>n</ex> fine i<ex>n</ex>t<ex>er</ex>ficiu<ex>n</ex>t, diripiunt et <ex>con</ex>culca<ex>n</ex>t.</seg>
-                                                    <seg rend="5,156,365,182">Multi v<ex>er</ex>o egrediebant<ex>ur</ex> <ex>et</ex> videba<ex>n</ex>t eu<ex>m</ex>. Solus Daniel n<ex>on</ex></seg>
-                                                    <seg rend="4,183,369,209">exibat, q<ex>uia</ex> toto t<ex>em</ex>p<ex>o</ex>re alienat<ex>i</ex>onis ej<ex>us</ex> or<ex>ati</ex>oni p<ex>ro</ex> eo vaca-</seg>
-                                                    <seg rend="4,209,360,228">-bat <ex>et</ex> ad p<ex>re</ex>ces ej<ex>us</ex> anni VII, quos totide<ex>m</ex> t<ex>em</ex>p<ex>o</ex>ra dixerat,</seg>
-                                                    <seg rend="4,231,375,253">i<ex>n</ex> VII m<ex>en</ex>ses v<ex>er</ex>si su<ex>n</ex>t. I<ex>n</ex> quib<ex>us</ex> XLa dieb<ex>us</ex> i<ex>n</ex>sania<ex>m</ex> patiebat<ex>ur</ex></seg>
-                                                    <seg rend="2,254,384,275"><ex>et</ex> per alios XLa rev<ex>er</ex>sus ad cor ho<ex>mini</ex>s flebat Deoq<ex>ue</ex> supplica-</seg>
-                                                    <seg rend="3,278,371,300">-bat, adeo ut oc<ex>u</ex>li ej<ex>us</ex> caro fiere<ex>n</ex>t, et it<ex>eru</ex>m p<ex>er</ex> alias XL dies</seg>
-                                                    <seg rend="4,301,366,325">in i<ex>n</ex>sania<ex>m</ex> v<ex>er</ex>tebat<ex>ur</ex>, donec VII m<ex>en</ex>ses complerent<ex>ur</ex>. Post</seg>
-                                                    <seg rend="5,326,361,349">quos revocat<ex>us</ex> no<ex>n</ex> stati<ex>m</ex> regnavit, s<ex>ed</ex> statuti s<ex>un</ex>t p<ex>ro</ex> eo</seg>
-                                                    <seg rend="5,351,360,371">VII judices, et usq<ex>ue</ex> ad fine<ex>m</ex> VII a<ex>n</ex>nor<ex>um</ex> p<ex>e</ex>n<ex>itent</ex>iam egit,</seg>
-                                                    <seg rend="4,373,375,398">pane<ex>m</ex> n<ex>on</ex> comedens <ex>et</ex> vinu<ex>m</ex> n<ex>on</ex> bibens : leguminib<ex>us</ex> ute-</seg>
-                                                    <seg rend="3,396,369,421">-bat<ex>ur</ex> <ex>et</ex> h<ex>er</ex>bis, jux<ex>t</ex>a <ex>con</ex>siliu<ex>m</ex> Daniel<ex>is</ex>. Et cu<ex>m</ex> iter<ex>um</ex> regnasset,</seg>
-                                                    <seg rend="3,423,368,441">Daniele<ex>m</ex> filior<ex>um</ex> suor<ex>um</ex> coh<ex>er</ex>ede<ex>m</ex> fac<ex>er</ex>e voluit. Qui ait : « Ab-</seg>
-                                                    <seg rend="2,444,374,463">-sit ut h<ex>er</ex>editate<ex>m</ex> patr<ex>um</ex> relinq<ex>u</ex>a<ex>m</ex> <ex>et</ex> i<ex>n</ex>circu<ex>m</ex>cisor<ex>um</ex> donis ad-</seg>
-                                                    <seg rend="3,467,370,493">-h<ex>er</ex>ea<ex>m</ex>. » Hic dic<ex>it</ex> Josephus q<ex>uod</ex> i<ex>p</ex>se libros hebraicos in latinu<ex>m</ex></seg>
-                                                    <seg rend="3,492,380,516">transtulit eloquiu<ex>m</ex>. Hystoria<ex>m</ex> Susanne p<ex>atet</ex> e<ex>ss</ex>e f<ex>a</ex>c<ex>t</ex>am ad-</seg>
-                                                    <seg rend="4,519,373,538">-huc recente captivitate, q<ex>uia</ex> Daniel erat adh<ex>u</ex>c juvenis.</seg>
-                                                    <seg rend="4,542,370,564">Qui p<ex>er</ex>severavit us<ex>que</ex> ad a<ex>n</ex>nu<ex>m</ex> primu<ex>m</ex> Cyri regis. Eusebi<ex>us</ex> :</seg>
-                                                    <seg rend="258,564,378,590">De i<ex>n</ex>it<ex>i</ex>o regni Cy-</seg>
-                                                    <seg rend="256,595,367,615">-ri ap<ex>u</ex>d P<ex>er</ex>sas. I.</seg>
-                                                    <seg rend="256,617,366,638">Anno captivi-</seg>
-                                                    <seg rend="258,639,363,664">-tatis XXX° Cyr<ex>us</ex></seg>
-                                                    <seg rend="257,667,360,690">Medor<ex>um</ex> i<ex>m</ex>p<ex>er</ex>ium</seg>
-                                                    <seg rend="255,691,371,710">destruxit, subv<ex>er</ex>-</seg>
-                                                    <seg rend="254,712,372,734">-soq<ex>ue</ex> rege eor<ex>um</ex> As-</seg>
-                                                    <seg rend="254,738,364,759">-tiage, regnum</seg>
-                                                    <seg rend="255,763,369,785">ad P<ex>er</ex>sas transtulit.</seg>
-                                                    <seg rend="254,785,366,806">Cepit ig<ex>itur</ex> anno</seg>
-                                                    <seg rend="5,808,363,830">etatis tercie XXXI°, mu<ex>n</ex>di v<ex>er</ex>o IIIM CCCC IIII, <ex>et</ex> regnavit</seg>
-                                                    <seg rend="6,834,371,857">annis XXX. Comestor : I ste fuit nepos Darii ex sorore,</seg>
-                                                    <seg rend="5,858,357,878">nepos a<ex>utem</ex> Astiagis ex filia. Na<ex>m</ex> Astiages unica<ex>m</ex> h<ex>ab</ex>uit</seg>
-                                                    <seg rend="5,881,376,902">filia<ex>m</ex>, <ex>et</ex> vidit sompniu<ex>m</ex> q<ex>uod</ex> de genitalibus filie orieba-</seg>
-                                                    <seg rend="6,906,370,927">-tur vitis q<ex>ue</ex> tota<ex>m</ex> occupabat Asya<ex>m</ex>, <ex>et</ex> accepit a co<ex>n</ex>-</seg>
-                                                    <seg rend="8,929,365,951">-jectorib<ex>us</ex> se h<ex>ab</ex>ituru<ex>m</ex> nepote<ex>m</ex> ex filia q<ex>u</ex>i d<ex>omi</ex>n<ex>u</ex>s e<ex>ss</ex>et Asye <ex>et</ex></seg>
-                                                    <seg rend="5,954,374,976">ip<ex>su</ex>m deic<ex>er</ex>et a regno. Q<ex>uod</ex> time<ex>n</ex>s, dedit filia<ex>m</ex> sua<ex>m</ex> uxore<ex>m</ex></seg>
-                                                    <seg rend="7,979,372,999">militi plebeio, ne fili<ex>us</ex> ex ea nasc<ex>er</ex>et<ex>ur</ex> nobil<ex>is</ex> <ex>et</ex> potens.</seg>
-                                                    <seg rend="6,1001,363,1022">Pret<ex>er</ex>ea filia<ex>m</ex> p<ex>re</ex>gnantem ascivit, <ex>et</ex> natu<ex>m</ex> ex ea filiu<ex>m</ex></seg>
-                                                    <seg rend="6,1024,362,1045">cuida<ex>m</ex> p<ex>ar</ex>ticipi archanor<ex>um</ex> tradidit occidend<ex>um</ex>. Q<ex>u</ex>i crede<ex>n</ex>s</seg>
-                                                    <seg rend="6,1049,365,1072">regnu<ex>m</ex> t<ex>r</ex>ansituru<ex>m</ex> ad filia<ex>m</ex>, filiu<ex>m</ex> ip<ex>s</ex>i<ex>us</ex> v<ex>er</ex>itus e<ex>st</ex> occid<ex>er</ex>e <ex>et</ex></seg>
-                                                    <seg rend="6,1074,357,1096">uni de pastorib<ex>us</ex> regis t<ex>r</ex>adidit p<ex>ar</ex>vulu<ex>m</ex> expone<ex>n</ex>du<ex>m</ex> i<ex>n</ex></seg>
-                                                    <seg rend="8,1098,367,1119">nemore. Qui cu<ex>m</ex> exposuiss<ex>et</ex> eu<ex>m</ex> <ex>et</ex> id i<ex>n</ex>dicass<ex>et</ex> uxori, q<ex>ue</ex></seg>
-                                                    <seg rend="6,1120,366,1144">i<ex>n</ex> dieb<ex>us</ex> ill<ex>is</ex> pepererat, supplicavit ei m<ex>u</ex>l<ex>ie</ex>r ut ei par[vulu<ex>m</ex> deferret alend<ex>um</ex>…]</seg> 	   </p> 	</div> 	<div type="text"> 	    <div type="transcription">
-                                                    <l>Testatur autem Epyfanius quod non sit</l>
-                                                    <l>passus corporis mutationem sed men-</l>
-                                                    <l>tis alienationem, et ablatus est</l>
-                                                    <l>ei usus lingue ad loquendum</l>
-                                                    <l>dataque est herba nature cibus humane.</l>
-                                                    <l>Videbatur autem ei quod bos esset</l>
-                                                    <l>in anterioribus et leo in posterioribus,</l>
-                                                    <l>secundum mysterium tyrannorum qui</l>
-                                                    <l>in prima etate voluptatibus</l>
-                                                    <l>dediti ac cervicosi jugo Be-</l>
-                                                    <l>lial se subiciunt et in fine</l>
-                                                    <l>interficiunt, diripiunt et conculcant.</l>
-                                                    <l>Multi vero egrediebantur et</l>
-                                                    <l>videbant eum. Solus Daniel non</l>
-                                                    <l>exibat, quia toto tempore</l>
-                                                    <l>alienationis ejus orationi pro eo vaca-</l>
-                                                    <l>bat et ad preces ejus anni VII,</l>
-                                                    <l>quos totidem tempora dixerat,</l>
-                                                    <l>in VII menses versi sunt. In quibus</l>
-                                                    <l>XLa diebus insaniam patiebatur</l>
-                                                    <l>et per alios XLa reversus ad cor</l>
-                                                    <l>hominis flebat Deoque supplica-</l>
-                                                    <l>bat, adeo ut oculi ejus caro fierent,</l>
-                                                    <l>et iterum per alias XL dies</l>
-                                                    <l>in insaniam vertebatur, donec</l>
-                                                    <l>VII menses complerentur. Post</l>
-                                                    <l>quos revocatus non statim</l>
-                                                    <l>regnavit, sed statuti sunt pro eo</l>
-                                                    <l>VII judices, et usque ad finem</l>
-                                                    <l>VII annorum penitentiam egit.</l>
-                                                    <l>Panem non comedens et vinum</l>
-                                                    <l>non bibens, leguminibus ute-</l>
-                                                    <l>batur et herbis, juxta consilium</l>
-                                                    <l>Danielis. Et cum iterum regnasset,</l>
-                                                    <l>Danielem filiorum suorum coheredem</l>
-                                                    <l>facere voluit. Qui ait : « Ab-</l>
-                                                    <l>sit ut hereditatem patrum relinquam</l>
-                                                    <l>et incircumcisorum donis ad-</l>
-                                                    <l>heream. » Hic dicit Josephus quod</l>
-                                                    <l>ipse libros hebraicos in latinum</l>
-                                                    <l>transtulit eloquium. Hystoriam</l>
-                                                    <l>Susanne patet esse factam ad-</l>
-                                                    <l>huc recente captivitate, quia</l>
-                                                    <l>Daniel erat adhuc juvenis.</l>
-                                                    <l>Qui perseveravit usque ad annum</l>
-                                                    <l>primum Cyri regis.</l>
-                                                    <l/>
-                                                    <l>Eusebius :</l>
-                                                    <l>De initio regni Cyri apud Persas. I.</l>
-                                                    <l>Anno captivitatis XXX° Cyrus</l>
-                                                    <l>Medorum imperium destruxit, sub-</l>
-                                                    <l>versoque rege eorum Astiage, regnum</l>
-                                                    <l>ad Persas transtulit. Cepit igitur anno</l>
-                                                    <l>etatis tercie XXXI°, mundi vero</l>
-                                                    <l>IIIM CCCC IIII, et regnavit</l>
-                                                    <l>annis XXX. Comestor : Iste</l>
-                                                    <l>fuit nepos Darii ex sorore,</l>
-                                                    <l>nepos autem Astiagis ex filia.</l>
-                                                    <l>Nam Astiages unicam habuit</l>
-                                                    <l>filiam, et vidit sompnium quod</l>
-                                                    <l>de genitalibus filie orieba-</l>
-                                                    <l>tur vitis que totam occupabat</l>
-                                                    <l>Asyam, et accepit a con-</l>
-                                                    <l>jectoribus se habiturum nepotem</l>
-                                                    <l>ex filia qui dominus esset Asye et</l>
-                                                    <l>ipsum deiceret a regno. Quod</l>
-                                                    <l>timens, dedit filiam suam uxorem</l>
-                                                    <l>militi plebeio, ne filius ex ea</l>
-                                                    <l>nasceretur nobilis et potens.</l>
-                                                    <l>Preterea filiam pregnantem</l>
-                                                    <l>ascivit, et natum ex ea filium</l>
-                                                    <l>cuidam participi archanorum</l>
-                                                    <l>tradidit occidendum. Qui credens</l>
-                                                    <l>regnum transiturum ad filiam,</l>
-                                                    <l>filium ipsius veritus est occidere et</l>
-                                                    <l>uni de pastoribus regis tradidit</l>
-                                                    <l>parvulum exponendum in</l>
-                                                    <l>nemore. Qui cum exposuisset</l>
-                                                    <l>eum et id indicasset uxori, que</l>
-                                                    <l>in diebus illis pepererat,</l>
-                                                    <l>supplicavit ei mulier ut ei par-</l>
-                                                    <l>[vulum deferret alendum...]</l> 	    </div> 	    <div type="translation">
-                                                    <l>Épiphane atteste en effet qu’il ne subit pas</l>
-                                                    <l>une transformation physique mais une</l>
-                                                    <l>aliénation mentale : il perdit</l>
-                                                    <l>l’usage de la langue pour s’exprimer</l>
-                                                    <l>et son corps d'homme prit l’herbe pour aliment.</l>
-                                                    <l>Il lui semblait en effet être boeuf</l>
-                                                    <l>devant et lion derrière,</l>
-                                                    <l>selon le mystère des tyrans qui,</l>
-                                                    <l>dans leur jeunesse voués aux</l>
-                                                    <l>plaisirs et entêtés, se soumettent</l>
-                                                    <l>au joug de Bélial puis finissent</l>
-                                                    <l>en meurtriers, dissipateurs et oppresseurs.</l>
-                                                    <l>Nombreux étaient ceux qui sortaient et</l>
-                                                    <l>le voyaient. Seul Daniel ne</l>
-                                                    <l>sortait pas, parce que tout le temps de son</l>
-                                                    <l>aliénation il resta en prière pour lui,</l>
-                                                    <l>et grâce à ses prières les sept années</l>
-                                                    <l>qu’il avait annoncées comme autant de « temps »</l>
-                                                    <l>devinrent sept mois. Pendant ceux-ci,</l>
-                                                    <l>il souffrait quarante jours de sa folie</l>
-                                                    <l>et les quarante suivants, revenu à son coeur</l>
-                                                    <l>d’homme, il pleurait en suppliant Dieu</l>
-                                                    <l>jusqu’à avoir les yeux à vif,</l>
-                                                    <l>puis il retombait quarante jours</l>
-                                                    <l>dans sa folie, jusqu’à ce que</l>
-                                                    <l>sept mois furent passés. Après</l>
-                                                    <l>lesquels, rappelé, il ne régna</l>
-                                                    <l>pas aussitôt : on établit sur lui</l>
-                                                    <l>sept juges et, jusqu’à la fin</l>
-                                                    <l>des sept années, il fit pénitence.</l>
-                                                    <l>Sans manger de pain ni boire</l>
-                                                    <l>de vin, il se nourrissait de légumes</l>
-                                                    <l>et d’herbes, suivant le conseil de</l>
-                                                    <l>Daniel. Une fois rétabli sur le trône,</l>
-                                                    <l>il voulut faire de Daniel le cohéritier</l>
-                                                    <l>de ses fils. Celui-ci lui dit : « Loin</l>
-                                                    <l>de moi de renoncer à l’héritage de nos</l>
-                                                    <l>pères pour les dons des incirconcis. »</l>
-                                                    <l>C’est à cet endroit que Josèphe indique avoir</l>
-                                                    <l>traduit lui-même les livres hébraïques</l>
-                                                    <l>en latin. L’histoire de Susanne</l>
-                                                    <l>fut manifestement écrite</l>
-                                                    <l>peu après la captivité, parce</l>
-                                                    <l>que Daniel était encore jeune.</l>
-                                                    <l>Il vécut jusqu’à la première année</l>
-                                                    <l>du règne de Cyrus.</l>
-                                                    <l/>
-                                                    <l>Eusèbe :</l>
-                                                    <l>Début du règne de Cyrus chez les Perses. Chap. I.</l>
-                                                    <l>La 30e année de la captivité, Cyrus</l>
-                                                    <l>détruisit l’empire des Mèdes et, ayant</l>
-                                                    <l>renversé leur roi Astyage, transféra</l>
-                                                    <l>la royauté aux Perses. Commencé l’an</l>
-                                                    <l>31 du troisième âge, 3404</l>
-                                                    <l>de la création, son règne</l>
-                                                    <l>dura 30 ans. Comestor : Il était</l>
-                                                    <l>par sa mère neveu de Darius</l>
-                                                    <l>et petit-fils d’Astyage.</l>
-                                                    <l>Astyage, en effet, eut une seule</l>
-                                                    <l>fille, et il vit en songe que</l>
-                                                    <l>du sein de sa fille naissait</l>
-                                                    <l>une vigne qui remplissait toute</l>
-                                                    <l>l’Asie ; il lui fut indiqué</l>
-                                                    <l>par les devins qu’il aurait de sa fille</l>
-                                                    <l>un petit-fils qui dominerait l’Asie</l>
-                                                    <l>et le détrônerait. Pris de crainte,</l>
-                                                    <l>il donna sa fille en épouse à</l>
-                                                    <l>un soldat issu du peuple, pour qu’elle</l>
-                                                    <l>n’eût pas de fils noble et puissant.</l>
-                                                    <l>Ayant ensuite appris qu'elle était grosse,</l>
-                                                    <l>il confia le fils qu’elle avait mis au monde</l>
-                                                    <l>à un agent de ses affaires secrètes</l>
-                                                    <l>pour le tuer. Celui-ci, pensant</l>
-                                                    <l>que la couronne passerait à la fille,</l>
-                                                    <l>craignit de tuer son fils et</l>
-                                                    <l>confia à l’un des bergers du roi</l>
-                                                    <l>le petit enfant pour l’abandonner</l>
-                                                    <l>dans les bois. Ce dernier, l’ayant abandonné,</l>
-                                                    <l>en informa son épouse, qui</l>
-                                                    <l>venait elle-même d’enfanter ;</l>
-                                                    <l>la femme le supplia de lui donner</l>
-                                                    <l>[le petit enfant à nourrir...]</l> 	    </div> 	</div> 	    <div type="paleography"> 	        <head>Commentaire paléographique</head> 	        <div> 	            <head>Ecriture</head>                 	            <div>		    		     	    <p>Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>		        	        <p>  L'écriture de ce manuscrit, écrit   à Saint-Omer en 1297, est une écriture « textuelle »   gothique d'assez bonne qualité, qui peut servir d'exemple pour   une description des caractères généraux de l'écriture   gothique, environ un siècle après qu'elle a commencé   à se distinguer de l'ancienne minuscule caroline.</p>  	        <ul>  	            <li>Verticalité et rythme serré : lettres composées   d'éléments normalisés, essentiellement des segments   rectilignes en succession régulière, avec un effet de   compression latérale.</li>  	            <li>Empattements supérieurs et inférieurs en forme   de crochets opposés, plus ou moins anguleux. Le copiste veille   cependant à éviter la confusion entre ces crochets et   les traits de liaison entre deux jambages : ainsi il reste une   différence visible entre <hi rend="b">u</hi> et <hi rend="b">n</hi>, entre <hi rend="b">iu</hi>   et <hi rend="b">m</hi>, etc., et cela malgré l'absence presque générale   de point sur les <hi rend="b">i</hi>. Ces crochets sont ici produits pour la plupart   par un simple retour de la plume, plutôt que par l'application   d'un trait supplémentaire croisant l'extrémité   du jambage, comme c'est le cas dans la variété plus calligraphique   dite <hi rend="b">textualis quadrata</hi>, particulièrement employée   dans les beaux manuscrits liturgiques.</li>  	            <li>Sur les hastes montantes, l'ancien empattement (de forme massuée   puis triangulaire) a évolué vers une forme fourchue, avec   un crochet plus ou moins marqué à gauche (ex. : 1<sup>re</sup> col.,   2, plusieurs <hi rend="b">l</hi>).</li>  	            <li>Superposition de courbes opposées (règle dite   de Meyer) : afin de ne pas rompre le rythme continu du mot par l'insertion   d'un blanc là où on ne peut enchaîner deux lettres   successives par des crochets, les courbes opposées de deux lettres   voisines se superposent (ex. : col. a, 3, <hi rend="b">vi<u>de</u>batur</hi>)</li>  	            <li>Le <hi rend="b">d</hi> oncial (incliné à gauche),   qui a désormais supplanté le <hi rend="b">d</hi> droit, est particulièrement   concerné par la règle de Meyer.</li>  	            <li>L'abréviation tironienne de <hi rend="b">et</hi>, ici en forme   de <hi rend="b">z</hi> barré, a remplacé pour l'essentiel l'ancienne   conjonction <hi rend="b">&amp;</hi>. Celle-ci n'a pas pour autant disparu (voir   ci-après)</li>  	        </ul> 	            </div> 	        </div>  	            <div> 	                <head>Structuration</head>                 	                <div> 	                    <p>Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p>  	                <hr/>  	                    <p>  Sans être aussi dense que celui des textes plus techniques destinés  à des lecteurs spécialisés, le système abréviatif  de ce manuscrit emploie pratiquement toute la gamme des signes et modes d'abréviation  habituels dans les livres. Principalement :</p>  	                    <ul> 	                        <li>tilde avec diverses valeurs, abréviations particulières  de <hi rend="b">p</hi> et <hi rend="b">q</hi>, signes spéciaux pour <hi rend="b">et</hi> (voir  	                            <xref to="paleographie.php?id=7&amp;page=1">morphologie</xref>), <hi rend="b">con-, er, us,  ur, -rum, -que</hi> ;</li>  	                        <li>contraction de mots fréquents, jusqu'à la réduction  à une lettre de mots-outils comme<hi rend="b"> autem</hi> ou <hi rend="b">secundum</hi>.  	                        </li> 	                        <li>voyelle suscrite pour une syllabe (mais non pour contracter un mot) ;  	                        </li> 	                    </ul>  	                </div> 	                </div>  	        <div> 	            <head>Suite et fin - Structuration</head>                 	            <div> 	                <p id="explications_paleo">Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p> 	            </div> 	            <hr/>  	                <p>  La ponctuation repose sur deux signes   seulement, mais qui valent pour trois selon la manière dont ils   se combinent avec les lettres :</p>  	                <ul>  	                    <li>point suivi de minuscule = pause faible ;</li>  	                    <li>point-virgule renversé = pause moyenne ;</li>  	                    <li>point suivi de majuscule = pause forte.</li>  	                </ul>  	                <p>La séparation des mots est soigneusement observée.</p>  	                <p>Au niveau supérieur, la hiérarchie de la page est   organisée par l'initiale historiée dans la colonne   a (on y voit le roi Astiage rêvant de sa fille) et par une lettrine   filigranée dans la colonne b (non visible ici).</p>  	                <p>Les débuts de chapitre sont en outre signalés par des titres   en rouge, les rubriques, dont la différence de couleur n'apparaît   pas sur ce fac-similé héliographique, mais dont on voit   d'autant mieux qu'elles sont tracées d'une autre plume. Le copiste   est peut-être le même (l'écriture est très semblable),   ou bien un autre, éventuellement un spécialiste, le rubricateur.   La rubrique est toujours tracée après le texte, dans un   espace réservé pour cela. C'est ce qui explique les ajustements   parfois nécessaires (comme ici l'emploi de <hi rend="b">s</hi> spéciaux),   quand l'espace prévu est trop étroit ou trop large.</p>  	                <p>Les noms soulignes sont ceux des auteurs cités.</p>  	            </div> 	            </div>  	</body>
-	</text>
-</TEI> 
+  <teiHeader> 
+    <fileDesc> 
+      <titleStmt> 
+        <title>1297. Saint-Omer. Vincent de Beauvais, Speculum historiale (liv. I, chap. 121, et liv. II, chap. 1)</title> 
+      </titleStmt> 
+      <publicationStmt> 
+        <idno type="numero">7</idno> 
+        <publisher>École nationale des chartes</publisher> 
+      </publicationStmt> 
+      <sourceDesc> 
+        <p>Orig. : Bibl. mun. Boulogne-sur-Mer, ms. 131.</p> 
+        <p>Fac-sim. ENC : NF 339 (héliogravure).</p> 
+      </sourceDesc> 
+    </fileDesc> 
+    <profileDesc> 
+      <langUsage> 
+        <language id="frm">Ancien français</language> 
+        <language id="fre">Français</language> 
+      </langUsage> 
+    </profileDesc>
+  </teiHeader>
+  <text> 
+    <body> 
+      <div type="facsimile"> 
+        <p>
+          <seg rend="2,8,382,35">Testat<ex>ur</ex> a<ex>utem</ex> Epyfani<ex>us</ex> q<ex>uod</ex> no<ex>n</ex> sit passus cor<ex>por</ex>is mutatione<ex>m</ex> s<ex>ed</ex> m<ex>en</ex>-</seg>
+          <seg rend="4,37,371,61">-tis alienat<ex>i</ex>one<ex>m</ex>, <ex>et</ex> ablat<ex>us</ex> e<ex>st</ex> ei usus lingue ad loque<ex>n</ex>du<ex>m</ex></seg>
+          <seg rend="4,63,360,84">dataq<ex>ue</ex> <ex>es</ex>t h<ex>er</ex>ba n<ex>atu</ex>re cib<ex>us</ex> humane. Videbat<ex>ur</ex> a<ex>utem</ex> ei q<ex>uod</ex> bos e<ex>ss</ex>et</seg>
+          <seg rend="4,86,359,110">i<ex>n</ex> a<ex>n</ex>teriorib<ex>us</ex> <ex>et</ex> leo in post<ex>er</ex>iorib<ex>us</ex>, s<ex>ecundum</ex> mysteriu<ex>m</ex> tyra<ex>n</ex>nor<ex>um</ex> q<ex>u</ex>i</seg>
+          <seg rend="5,110,375,132">i<ex>n</ex> p<ex>ri</ex>ma etate voluptatib<ex>us</ex> dediti ac cervicosi jugo Be-</seg>
+          <seg rend="4,135,363,155">-lial se s<ex>u</ex>biciu<ex>n</ex>t <ex>et</ex> i<ex>n</ex> fine i<ex>n</ex>t<ex>er</ex>ficiu<ex>n</ex>t, diripiunt et <ex>con</ex>culca<ex>n</ex>t.</seg>
+          <seg rend="5,156,365,182">Multi v<ex>er</ex>o egrediebant<ex>ur</ex> <ex>et</ex> videba<ex>n</ex>t eu<ex>m</ex>. Solus Daniel n<ex>on</ex></seg>
+          <seg rend="4,183,369,209">exibat, q<ex>uia</ex> toto t<ex>em</ex>p<ex>o</ex>re alienat<ex>i</ex>onis ej<ex>us</ex> or<ex>ati</ex>oni p<ex>ro</ex> eo vaca-</seg>
+          <seg rend="4,209,360,228">-bat <ex>et</ex> ad p<ex>re</ex>ces ej<ex>us</ex> anni VII, quos totide<ex>m</ex> t<ex>em</ex>p<ex>o</ex>ra dixerat,</seg>
+          <seg rend="4,231,375,253">i<ex>n</ex> VII m<ex>en</ex>ses v<ex>er</ex>si su<ex>n</ex>t. I<ex>n</ex> quib<ex>us</ex> XLa dieb<ex>us</ex> i<ex>n</ex>sania<ex>m</ex> patiebat<ex>ur</ex></seg>
+          <seg rend="2,254,384,275"><ex>et</ex> per alios XLa rev<ex>er</ex>sus ad cor ho<ex>mini</ex>s flebat Deoq<ex>ue</ex> supplica-</seg>
+          <seg rend="3,278,371,300">-bat, adeo ut oc<ex>u</ex>li ej<ex>us</ex> caro fiere<ex>n</ex>t, et it<ex>eru</ex>m p<ex>er</ex> alias XL dies</seg>
+          <seg rend="4,301,366,325">in i<ex>n</ex>sania<ex>m</ex> v<ex>er</ex>tebat<ex>ur</ex>, donec VII m<ex>en</ex>ses complerent<ex>ur</ex>. Post</seg>
+          <seg rend="5,326,361,349">quos revocat<ex>us</ex> no<ex>n</ex> stati<ex>m</ex> regnavit, s<ex>ed</ex> statuti s<ex>un</ex>t p<ex>ro</ex> eo</seg>
+          <seg rend="5,351,360,371">VII judices, et usq<ex>ue</ex> ad fine<ex>m</ex> VII a<ex>n</ex>nor<ex>um</ex> p<ex>e</ex>n<ex>itent</ex>iam egit,</seg>
+          <seg rend="4,373,375,398">pane<ex>m</ex> n<ex>on</ex> comedens <ex>et</ex> vinu<ex>m</ex> n<ex>on</ex> bibens : leguminib<ex>us</ex> ute-</seg>
+          <seg rend="3,396,369,421">-bat<ex>ur</ex> <ex>et</ex> h<ex>er</ex>bis, jux<ex>t</ex>a <ex>con</ex>siliu<ex>m</ex> Daniel<ex>is</ex>. Et cu<ex>m</ex> iter<ex>um</ex> regnasset,</seg>
+          <seg rend="3,423,368,441">Daniele<ex>m</ex> filior<ex>um</ex> suor<ex>um</ex> coh<ex>er</ex>ede<ex>m</ex> fac<ex>er</ex>e voluit. Qui ait : « Ab-</seg>
+          <seg rend="2,444,374,463">-sit ut h<ex>er</ex>editate<ex>m</ex> patr<ex>um</ex> relinq<ex>u</ex>a<ex>m</ex> <ex>et</ex> i<ex>n</ex>circu<ex>m</ex>cisor<ex>um</ex> donis ad-</seg>
+          <seg rend="3,467,370,493">-h<ex>er</ex>ea<ex>m</ex>. » Hic dic<ex>it</ex> Josephus q<ex>uod</ex> i<ex>p</ex>se libros hebraicos in latinu<ex>m</ex></seg>
+          <seg rend="3,492,380,516">transtulit eloquiu<ex>m</ex>. Hystoria<ex>m</ex> Susanne p<ex>atet</ex> e<ex>ss</ex>e f<ex>a</ex>c<ex>t</ex>am ad-</seg>
+          <seg rend="4,519,373,538">-huc recente captivitate, q<ex>uia</ex> Daniel erat adh<ex>u</ex>c juvenis.</seg>
+          <seg rend="4,542,370,564">Qui p<ex>er</ex>severavit us<ex>que</ex> ad a<ex>n</ex>nu<ex>m</ex> primu<ex>m</ex> Cyri regis. Eusebi<ex>us</ex> :</seg>
+          <seg rend="258,564,378,590">De i<ex>n</ex>it<ex>i</ex>o regni Cy-</seg>
+          <seg rend="256,595,367,615">-ri ap<ex>u</ex>d P<ex>er</ex>sas. I.</seg>
+          <seg rend="256,617,366,638">Anno captivi-</seg>
+          <seg rend="258,639,363,664">-tatis XXX° Cyr<ex>us</ex></seg>
+          <seg rend="257,667,360,690">Medor<ex>um</ex> i<ex>m</ex>p<ex>er</ex>ium</seg>
+          <seg rend="255,691,371,710">destruxit, subv<ex>er</ex>-</seg>
+          <seg rend="254,712,372,734">-soq<ex>ue</ex> rege eor<ex>um</ex> As-</seg>
+          <seg rend="254,738,364,759">-tiage, regnum</seg>
+          <seg rend="255,763,369,785">ad P<ex>er</ex>sas transtulit.</seg>
+          <seg rend="254,785,366,806">Cepit ig<ex>itur</ex> anno</seg>
+          <seg rend="5,808,363,830">etatis tercie XXXI°, mu<ex>n</ex>di v<ex>er</ex>o IIIM CCCC IIII, <ex>et</ex> regnavit</seg>
+          <seg rend="6,834,371,857">annis XXX. Comestor : I ste fuit nepos Darii ex sorore,</seg>
+          <seg rend="5,858,357,878">nepos a<ex>utem</ex> Astiagis ex filia. Na<ex>m</ex> Astiages unica<ex>m</ex> h<ex>ab</ex>uit</seg>
+          <seg rend="5,881,376,902">filia<ex>m</ex>, <ex>et</ex> vidit sompniu<ex>m</ex> q<ex>uod</ex> de genitalibus filie orieba-</seg>
+          <seg rend="6,906,370,927">-tur vitis q<ex>ue</ex> tota<ex>m</ex> occupabat Asya<ex>m</ex>, <ex>et</ex> accepit a co<ex>n</ex>-</seg>
+          <seg rend="8,929,365,951">-jectorib<ex>us</ex> se h<ex>ab</ex>ituru<ex>m</ex> nepote<ex>m</ex> ex filia q<ex>u</ex>i d<ex>omi</ex>n<ex>u</ex>s e<ex>ss</ex>et Asye <ex>et</ex></seg>
+          <seg rend="5,954,374,976">ip<ex>su</ex>m deic<ex>er</ex>et a regno. Q<ex>uod</ex> time<ex>n</ex>s, dedit filia<ex>m</ex> sua<ex>m</ex> uxore<ex>m</ex></seg>
+          <seg rend="7,979,372,999">militi plebeio, ne fili<ex>us</ex> ex ea nasc<ex>er</ex>et<ex>ur</ex> nobil<ex>is</ex> <ex>et</ex> potens.</seg>
+          <seg rend="6,1001,363,1022">Pret<ex>er</ex>ea filia<ex>m</ex> p<ex>re</ex>gnantem ascivit, <ex>et</ex> natu<ex>m</ex> ex ea filiu<ex>m</ex></seg>
+          <seg rend="6,1024,362,1045">cuida<ex>m</ex> p<ex>ar</ex>ticipi archanor<ex>um</ex> tradidit occidend<ex>um</ex>. Q<ex>u</ex>i crede<ex>n</ex>s</seg>
+          <seg rend="6,1049,365,1072">regnu<ex>m</ex> t<ex>r</ex>ansituru<ex>m</ex> ad filia<ex>m</ex>, filiu<ex>m</ex> ip<ex>s</ex>i<ex>us</ex> v<ex>er</ex>itus e<ex>st</ex> occid<ex>er</ex>e <ex>et</ex></seg>
+          <seg rend="6,1074,357,1096">uni de pastorib<ex>us</ex> regis t<ex>r</ex>adidit p<ex>ar</ex>vulu<ex>m</ex> expone<ex>n</ex>du<ex>m</ex> i<ex>n</ex></seg>
+          <seg rend="8,1098,367,1119">nemore. Qui cu<ex>m</ex> exposuiss<ex>et</ex> eu<ex>m</ex> <ex>et</ex> id i<ex>n</ex>dicass<ex>et</ex> uxori, q<ex>ue</ex></seg>
+          <seg rend="6,1120,366,1144">i<ex>n</ex> dieb<ex>us</ex> ill<ex>is</ex> pepererat, supplicavit ei m<ex>u</ex>l<ex>ie</ex>r ut ei par[vulu<ex>m</ex> deferret alend<ex>um</ex>…]</seg> 
+        </p> 
+      </div> 
+      <div type="text"> 
+        <div type="transcription">
+          <l>Testatur autem Epyfanius quod non sit</l>
+          <l>passus corporis mutationem sed men-</l>
+          <l>tis alienationem, et ablatus est</l>
+          <l>ei usus lingue ad loquendum</l>
+          <l>dataque est herba nature cibus humane.</l>
+          <l>Videbatur autem ei quod bos esset</l>
+          <l>in anterioribus et leo in posterioribus,</l>
+          <l>secundum mysterium tyrannorum qui</l>
+          <l>in prima etate voluptatibus</l>
+          <l>dediti ac cervicosi jugo Be-</l>
+          <l>lial se subiciunt et in fine</l>
+          <l>interficiunt, diripiunt et conculcant.</l>
+          <l>Multi vero egrediebantur et</l>
+          <l>videbant eum. Solus Daniel non</l>
+          <l>exibat, quia toto tempore</l>
+          <l>alienationis ejus orationi pro eo vaca-</l>
+          <l>bat et ad preces ejus anni VII,</l>
+          <l>quos totidem tempora dixerat,</l>
+          <l>in VII menses versi sunt. In quibus</l>
+          <l>XLa diebus insaniam patiebatur</l>
+          <l>et per alios XLa reversus ad cor</l>
+          <l>hominis flebat Deoque supplica-</l>
+          <l>bat, adeo ut oculi ejus caro fierent,</l>
+          <l>et iterum per alias XL dies</l>
+          <l>in insaniam vertebatur, donec</l>
+          <l>VII menses complerentur. Post</l>
+          <l>quos revocatus non statim</l>
+          <l>regnavit, sed statuti sunt pro eo</l>
+          <l>VII judices, et usque ad finem</l>
+          <l>VII annorum penitentiam egit.</l>
+          <l>Panem non comedens et vinum</l>
+          <l>non bibens, leguminibus ute-</l>
+          <l>batur et herbis, juxta consilium</l>
+          <l>Danielis. Et cum iterum regnasset,</l>
+          <l>Danielem filiorum suorum coheredem</l>
+          <l>facere voluit. Qui ait : « Ab-</l>
+          <l>sit ut hereditatem patrum relinquam</l>
+          <l>et incircumcisorum donis ad-</l>
+          <l>heream. » Hic dicit Josephus quod</l>
+          <l>ipse libros hebraicos in latinum</l>
+          <l>transtulit eloquium. Hystoriam</l>
+          <l>Susanne patet esse factam ad-</l>
+          <l>huc recente captivitate, quia</l>
+          <l>Daniel erat adhuc juvenis.</l>
+          <l>Qui perseveravit usque ad annum</l>
+          <l>primum Cyri regis.</l>
+          <l/>
+          <l>Eusebius :</l>
+          <l>De initio regni Cyri apud Persas. I.</l>
+          <l>Anno captivitatis XXX° Cyrus</l>
+          <l>Medorum imperium destruxit, sub-</l>
+          <l>versoque rege eorum Astiage, regnum</l>
+          <l>ad Persas transtulit. Cepit igitur anno</l>
+          <l>etatis tercie XXXI°, mundi vero</l>
+          <l>IIIM CCCC IIII, et regnavit</l>
+          <l>annis XXX. Comestor : Iste</l>
+          <l>fuit nepos Darii ex sorore,</l>
+          <l>nepos autem Astiagis ex filia.</l>
+          <l>Nam Astiages unicam habuit</l>
+          <l>filiam, et vidit sompnium quod</l>
+          <l>de genitalibus filie orieba-</l>
+          <l>tur vitis que totam occupabat</l>
+          <l>Asyam, et accepit a con-</l>
+          <l>jectoribus se habiturum nepotem</l>
+          <l>ex filia qui dominus esset Asye et</l>
+          <l>ipsum deiceret a regno. Quod</l>
+          <l>timens, dedit filiam suam uxorem</l>
+          <l>militi plebeio, ne filius ex ea</l>
+          <l>nasceretur nobilis et potens.</l>
+          <l>Preterea filiam pregnantem</l>
+          <l>ascivit, et natum ex ea filium</l>
+          <l>cuidam participi archanorum</l>
+          <l>tradidit occidendum. Qui credens</l>
+          <l>regnum transiturum ad filiam,</l>
+          <l>filium ipsius veritus est occidere et</l>
+          <l>uni de pastoribus regis tradidit</l>
+          <l>parvulum exponendum in</l>
+          <l>nemore. Qui cum exposuisset</l>
+          <l>eum et id indicasset uxori, que</l>
+          <l>in diebus illis pepererat,</l>
+          <l>supplicavit ei mulier ut ei par-</l>
+          <l>[vulum deferret alendum...]</l> 
+        </div> 
+        <div type="translation">
+          <l>Épiphane atteste en effet qu’il ne subit pas</l>
+          <l>une transformation physique mais une</l>
+          <l>aliénation mentale : il perdit</l>
+          <l>l’usage de la langue pour s’exprimer</l>
+          <l>et son corps d'homme prit l’herbe pour aliment.</l>
+          <l>Il lui semblait en effet être boeuf</l>
+          <l>devant et lion derrière,</l>
+          <l>selon le mystère des tyrans qui,</l>
+          <l>dans leur jeunesse voués aux</l>
+          <l>plaisirs et entêtés, se soumettent</l>
+          <l>au joug de Bélial puis finissent</l>
+          <l>en meurtriers, dissipateurs et oppresseurs.</l>
+          <l>Nombreux étaient ceux qui sortaient et</l>
+          <l>le voyaient. Seul Daniel ne</l>
+          <l>sortait pas, parce que tout le temps de son</l>
+          <l>aliénation il resta en prière pour lui,</l>
+          <l>et grâce à ses prières les sept années</l>
+          <l>qu’il avait annoncées comme autant de « temps »</l>
+          <l>devinrent sept mois. Pendant ceux-ci,</l>
+          <l>il souffrait quarante jours de sa folie</l>
+          <l>et les quarante suivants, revenu à son coeur</l>
+          <l>d’homme, il pleurait en suppliant Dieu</l>
+          <l>jusqu’à avoir les yeux à vif,</l>
+          <l>puis il retombait quarante jours</l>
+          <l>dans sa folie, jusqu’à ce que</l>
+          <l>sept mois furent passés. Après</l>
+          <l>lesquels, rappelé, il ne régna</l>
+          <l>pas aussitôt : on établit sur lui</l>
+          <l>sept juges et, jusqu’à la fin</l>
+          <l>des sept années, il fit pénitence.</l>
+          <l>Sans manger de pain ni boire</l>
+          <l>de vin, il se nourrissait de légumes</l>
+          <l>et d’herbes, suivant le conseil de</l>
+          <l>Daniel. Une fois rétabli sur le trône,</l>
+          <l>il voulut faire de Daniel le cohéritier</l>
+          <l>de ses fils. Celui-ci lui dit : « Loin</l>
+          <l>de moi de renoncer à l’héritage de nos</l>
+          <l>pères pour les dons des incirconcis. »</l>
+          <l>C’est à cet endroit que Josèphe indique avoir</l>
+          <l>traduit lui-même les livres hébraïques</l>
+          <l>en latin. L’histoire de Susanne</l>
+          <l>fut manifestement écrite</l>
+          <l>peu après la captivité, parce</l>
+          <l>que Daniel était encore jeune.</l>
+          <l>Il vécut jusqu’à la première année</l>
+          <l>du règne de Cyrus.</l>
+          <l/>
+          <l>Eusèbe :</l>
+          <l>Début du règne de Cyrus chez les Perses. Chap. I.</l>
+          <l>La 30e année de la captivité, Cyrus</l>
+          <l>détruisit l’empire des Mèdes et, ayant</l>
+          <l>renversé leur roi Astyage, transféra</l>
+          <l>la royauté aux Perses. Commencé l’an</l>
+          <l>31 du troisième âge, 3404</l>
+          <l>de la création, son règne</l>
+          <l>dura 30 ans. Comestor : Il était</l>
+          <l>par sa mère neveu de Darius</l>
+          <l>et petit-fils d’Astyage.</l>
+          <l>Astyage, en effet, eut une seule</l>
+          <l>fille, et il vit en songe que</l>
+          <l>du sein de sa fille naissait</l>
+          <l>une vigne qui remplissait toute</l>
+          <l>l’Asie ; il lui fut indiqué</l>
+          <l>par les devins qu’il aurait de sa fille</l>
+          <l>un petit-fils qui dominerait l’Asie</l>
+          <l>et le détrônerait. Pris de crainte,</l>
+          <l>il donna sa fille en épouse à</l>
+          <l>un soldat issu du peuple, pour qu’elle</l>
+          <l>n’eût pas de fils noble et puissant.</l>
+          <l>Ayant ensuite appris qu'elle était grosse,</l>
+          <l>il confia le fils qu’elle avait mis au monde</l>
+          <l>à un agent de ses affaires secrètes</l>
+          <l>pour le tuer. Celui-ci, pensant</l>
+          <l>que la couronne passerait à la fille,</l>
+          <l>craignit de tuer son fils et</l>
+          <l>confia à l’un des bergers du roi</l>
+          <l>le petit enfant pour l’abandonner</l>
+          <l>dans les bois. Ce dernier, l’ayant abandonné,</l>
+          <l>en informa son épouse, qui</l>
+          <l>venait elle-même d’enfanter ;</l>
+          <l>la femme le supplia de lui donner</l>
+          <l>[le petit enfant à nourrir...]</l> 
+        </div> 
+      </div> 
+      <div type="paleography"> 
+        <head>Commentaire paléographique</head> 
+        <div> 
+          <head>Ecriture</head>                  
+          <p>L'écriture de ce manuscrit, écrit   à Saint-Omer en 1297, est une écriture « textuelle »   gothique d'assez bonne qualité, qui peut servir d'exemple pour   une description des caractères généraux de l'écriture   gothique, environ un siècle après qu'elle a commencé   à se distinguer de l'ancienne minuscule caroline.</p> 
+          <list> 
+            <item>Verticalité et rythme serré : lettres composées   d'éléments normalisés, essentiellement des segments   rectilignes en succession régulière, avec un effet de   compression latérale.</item> 
+            <item>Empattements supérieurs et inférieurs en forme   de crochets opposés, plus ou moins anguleux. Le copiste veille   cependant à éviter la confusion entre ces crochets et   les traits de liaison entre deux jambages : ainsi il reste une   différence visible entre <hi rend="b">u</hi> et <hi rend="b">n</hi>, entre <hi rend="b">iu</hi>   et <hi rend="b">m</hi>, etc., et cela malgré l'absence presque générale   de point sur les <hi rend="b">i</hi>. Ces crochets sont ici produits pour la plupart   par un simple retour de la plume, plutôt que par l'application   d'un trait supplémentaire croisant l'extrémité   du jambage, comme c'est le cas dans la variété plus calligraphique   dite <hi rend="b">textualis quadrata</hi>, particulièrement employée   dans les beaux manuscrits liturgiques.</item> 
+            <item>Sur les hastes montantes, l'ancien empattement (de forme massuée   puis triangulaire) a évolué vers une forme fourchue, avec   un crochet plus ou moins marqué à gauche (ex. : 1<sup>re</sup> col.,   2, plusieurs <hi rend="b">l</hi>).</item> 
+            <item>Superposition de courbes opposées (règle dite   de Meyer) : afin de ne pas rompre le rythme continu du mot par l'insertion   d'un blanc là où on ne peut enchaîner deux lettres   successives par des crochets, les courbes opposées de deux lettres   voisines se superposent (ex. : col. a, 3, <hi rend="b">vi<u>de</u>batur</hi>)</item> 
+            <item>Le <hi rend="b">d</hi> oncial (incliné à gauche),   qui a désormais supplanté le <hi rend="b">d</hi> droit, est particulièrement   concerné par la règle de Meyer.</item> 
+            <item>L'abréviation tironienne de <hi rend="b">et</hi>, ici en forme   de <hi rend="b">z</hi> barré, a remplacé pour l'essentiel l'ancienne   conjonction <hi rend="b">&amp;</hi>. Celle-ci n'a pas pour autant disparu (voir   ci-après)</item> 
+          </list>  
+        </div> 
+        <div> 
+          <head>Structuration</head>                 
+          <p>Les numéros entre parenthèses renvoient  aux lignes. Pour revenir au fac-similé interactif, cliquer sur l'image.</p> 
+          <p>Sans être aussi dense que celui des textes plus techniques destinés  à des lecteurs spécialisés, le système abréviatif  de ce manuscrit emploie pratiquement toute la gamme des signes et modes d'abréviation  habituels dans les livres. Principalement :</p> 
+          <list> 
+            <item>tilde avec diverses valeurs, abréviations particulières  de <hi rend="b">p</hi> et <hi rend="b">q</hi>, signes spéciaux pour <hi rend="b">et</hi>, <hi rend="b">con-, er, us,  ur, -rum, -que</hi> ;</item> 
+            <item>contraction de mots fréquents, jusqu'à la réduction  à une lettre de mots-outils comme<hi rend="b"> autem</hi> ou <hi rend="b">secundum</hi>.  
+            </item> 
+            <item>voyelle suscrite pour une syllabe (mais non pour contracter un mot) ;</item> 
+          </list> 
+          <p>La ponctuation repose sur deux signes   seulement, mais qui valent pour trois selon la manière dont ils   se combinent avec les lettres :</p> 
+          <list> 
+            <item>point suivi de minuscule = pause faible ;</item> 
+            <item>point-virgule renversé = pause moyenne ;</item> 
+            <item>point suivi de majuscule = pause forte.</item> 
+          </list> 
+          <p>La séparation des mots est soigneusement observée.</p> 
+          <p>Au niveau supérieur, la hiérarchie de la page est   organisée par l'initiale historiée dans la colonne   a (on y voit le roi Astiage rêvant de sa fille) et par une lettrine   filigranée dans la colonne b (non visible ici).</p> 
+          <p>Les débuts de chapitre sont en outre signalés par des titres   en rouge, les rubriques, dont la différence de couleur n'apparaît   pas sur ce fac-similé héliographique, mais dont on voit   d'autant mieux qu'elles sont tracées d'une autre plume. Le copiste   est peut-être le même (l'écriture est très semblable),   ou bien un autre, éventuellement un spécialiste, le rubricateur.   La rubrique est toujours tracée après le texte, dans un   espace réservé pour cela. C'est ce qui explique les ajustements   parfois nécessaires (comme ici l'emploi de <hi rend="b">s</hi> spéciaux),   quand l'espace prévu est trop étroit ou trop large.</p> 
+          <p>Les noms soulignes sont ceux des auteurs cités.</p> 
+        </div> 
+      </div> 
+    </body>
+  </text>
+</TEI>
+

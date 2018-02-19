@@ -1,165 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1340, 8 novembre. Paris. Charte des pitanciers de l’abbaye de Saint-Germain-des-Prés.</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">15</idno>
-                <publisher>École nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig. : Arch. nat., S 6346 B, n° 16.</p>
-                <p>Fac-sim. ENC : NF 100 (héliogravure).</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language id="frm">Ancien français</language>
-                <language id="fre">Français</language>
-            </langUsage>
-        </profileDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="facsimile">
-                <p>
-                    <seg rend="35,39,367,58">A touz ceus qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront</seg>
-                    <seg rend="377,37,744,56">. . Freres Guill<ex>aum</ex>e de Paris et Pierre de Soisi,</seg>
-                    <seg rend="750,36,979,51">pittanciers de l’eglise Saint</seg>
-                    <seg rend="41,66,326,82">Germain des Prez delez Par<ex>is</ex>, salut</seg>
-                    <seg rend="337,65,637,84">. . Savoir faisons que p<ex>ar</ex> devant nous</seg>
-                    <seg rend="641,66,973,83">vint en sa p<ex>ro</ex>pre p<ex>er</ex>sonne Richart a l’Espee,</seg>
-                    <seg rend="39,93,545,111">demourant en la grant rue Saint Germain des Prez dessusdit</seg>
-                    <seg rend="550,90,972,107">devant l’eglise Saint Andry des Ars a Paris, si co<ex>m</ex>me</seg>
-                    <seg rend="39,117,401,136">il disoit. Liquiex Richars, tant en son nom</seg>
-                    <seg rend="404,120,660,137">[que] co<ex>m</ex>me p<ex>ro</ex>cureur de Agnés sa fame,</seg>
-                    <seg rend="668,119,971,136">se dessaisi <ex>et</ex> devesti en n<ex>ost</ex>re main</seg>
-                    <seg rend="42,145,539,164">co<ex>m</ex>me en main de seigneurs haus justiciers et tresfonciers,</seg>
-                    <seg rend="545,142,984,159">d’une maison et ses appertenances et appendances, no<ex>m</ex>mee</seg>
-                    <seg rend="45,173,273,186">et declarciee es lettres seellees</seg>
-                    <seg rend="280,168,666,185">du seel de la p<ex>re</ex>vosté de Paris p<ex>ar</ex>mi lesquelles</seg>
-                    <seg rend="671,170,963,182">ces p<ex>rese</ex>ntes sunt annexees. Laquelle</seg>
-                    <seg rend="45,196,306,213">maison et sesd<ex>it</ex>es appertenances</seg>
-                    <seg rend="318,196,731,214">lesdiz Richart et Agnés sa fame avoient vendue</seg>
-                    <seg rend="742,190,979,208">a rev<ex>er</ex>ent pere en Dieu mons.</seg>
-                    <seg rend="44,222,360,241">Pierres Bertram, par la grace de Dieu</seg>
-                    <seg rend="361,221,668,235">cardinal de la saincte Eglise de Ro<ex>m</ex>me,</seg>
-                    <seg rend="678,216,978,234">achetant non pas ou nom de sa</seg>
-                    <seg rend="45,249,368,266">dignité mais en son p<ex>ro</ex>pre <ex>et</ex> privé nom,</seg>
-                    <seg rend="373,250,681,263">pour lui, ses hoirs et ceus qui de lui</seg>
-                    <seg rend="682,244,989,262">ont ou auront cause ou temps a venir,</seg>
-                    <seg rend="43,276,335,296">pour le pris de quarante livres par<ex>isis</ex>,</seg>
-                    <seg rend="339,272,794,289">si co<ex>m</ex>me il est plus plenement contenu es lettres dess<ex>us</ex> d<ex>it</ex>es.</seg>
-                    <seg rend="807,272,966,290">Et volt <ex>et</ex> accorda et</seg>
-                    <seg rend="48,305,355,321">nous requist instamm<ex>en</ex>t ledit Richart,</seg>
-                    <seg rend="361,305,526,321">ou nom que dit est,</seg>
-                    <seg rend="536,302,814,314">que de ladite maison et ses app<ex>er</ex>ten<ex>ances</ex></seg>
-                    <seg rend="817,298,986,315">ledit acheteur feust</seg>
-                    <seg rend="41,329,250,345">par nous saisis <ex>et</ex> vestus.</seg>
-                    <seg rend="263,327,547,346">Laquelle dessaisine p<ex>ar</ex> nous receue,</seg>
-                    <seg rend="563,325,982,341">nous, de la volenté <ex>et</ex> assentem<ex>en</ex>t dudit Richart, ou</seg>
-                    <seg rend="48,355,188,372">nom que dit est,</seg>
-                    <seg rend="204,357,511,372">de la devant d<ex>it</ex>e maison et ses app<ex>er</ex>ten<ex>ances</ex></seg>
-                    <seg rend="515,352,956,366">avons saisi et mis en saisine et poss<ex>essi</ex>on corporelle</seg>
-                    <seg rend="47,381,374,399">honorable ho<ex>m</ex>me Regnaut Le Paonnier,</seg>
-                    <seg rend="377,378,893,395">bourgois de Paris, tant co<ex>m</ex>me p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal,</seg>
-                    <seg rend="901,378,977,394">p<ex>our</ex> ycelui</seg>
-                    <seg rend="53,410,387,425">cardinal, non pas ou nom de sa dignité</seg>
-                    <seg rend="399,410,666,424">mais en son p<ex>ro</ex>pre <ex>et</ex> p<ex>r</ex>ivé nom</seg>
-                    <seg rend="671,408,985,425">et pour le p<ex>ro</ex>ffit <ex>et</ex> usage d’icelui, sauf</seg>
-                    <seg rend="49,438,363,456">touz drois, si co<ex>m</ex>me il est de coustume</seg>
-                    <seg rend="366,440,499,457">gardee en tel cas.</seg>
-                    <seg rend="510,432,981,448">Liquelz p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal nous a payé</seg>
-                    <seg rend="48,461,372,481">soixante six solz et huit deniers par<ex>isis</ex></seg>
-                    <seg rend="379,465,670,477">qui nous estoient deüz des ventes.</seg>
-                    <seg rend="681,456,987,472">De laquelle summe pour la cause dess<ex>us</ex></seg>
-                    <seg rend="46,488,427,507">d<ex>it</ex>e nous nous tenons a b<ex>ie</ex>n paiez et aggreez</seg>
-                    <seg rend="435,489,768,505">et en quittons lesdiz mons. le cardinal</seg>
-                    <seg rend="773,490,989,504">et son p<ex>ro</ex>cur<ex>eur</ex> et touz autres</seg>
-                    <seg rend="51,519,330,536">a qui quittance en puet app<ex>er</ex>tenir</seg>
-                    <seg rend="339,516,553,532">desorendroit a touz jours</seg>
-                    <seg rend="574,514,979,531">. . En tesmoin de laquelle chose, nous avons mis</seg>
-                    <seg rend="51,545,267,560">n<ex>os</ex>tre seel a ces p<ex>rese</ex>ntes l<ex>ett</ex>res,</seg>
-                    <seg rend="278,548,576,562">le mecredi huit jours de novembre</seg>
-                    <seg rend="577,545,852,560">l’an de grace mil CCC quarante.</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <l>A touz ceus qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront</l>
-                    <l>. . Freres Guill<ex>aum</ex>e de Paris et Pierre de Soisi,</l>
-                    <l><term n="pitanciers : officiers monastiques chargés de l’approvisionnement et de la distribution de la nourriture. A leur office (Pitancerie) est souvent affectée une portion du patrimoine, dont ils ont la gestion." >pittanciers</term> de <term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&#34;delez&#34; ou &#34;lez&#34; = &#34;près de&#34;, comme par ex. dans Villeneuve-lès-Avignon)." >l’eglise Saint</term></l>
-                    <l><term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&#34;delez&#34; ou &#34;lez&#34; = &#34;près de&#34;, comme par ex. dans Villeneuve-lès-Avignon)." >Germain des Prez</term> delez Par<ex>is</ex>, salut</l>
-                    <l>. . Savoir faisons que p<ex>ar</ex> devant nous</l>
-                    <l>vint en sa p<ex>ro</ex>pre p<ex>er</ex>sonne Richart a l’Espee,</l>
-                    <l>demourant en la grant rue Saint Germain des Prez dessusdit</l>
-                    <l>devant l’eglise <term n="Saint-André-des-Arts.">Saint Andry des Ars</term> a Paris, si co<ex>m</ex>me</l>
-                    <l>il disoit. Liquiex Richars, tant en son nom</l>
-                    <l>[que] co<ex>m</ex>me p<ex>ro</ex>cureur de Agnés sa fame,</l>
-                    <l>se dessaisi <ex>et</ex> devesti en n<ex>ost</ex>re main</l>
-                    <l>co<ex>m</ex>me en main de seigneurs haus justiciers et tresfonciers,</l>
-                    <l>d’une maison et ses appertenances et appendances, no<ex>m</ex>mee</l>
-                    <l>et declarciee es lettres seellees</l>
-                    <l>du seel de la p<ex>re</ex>vosté de Paris p<ex>ar</ex>mi lesquelles</l>
-                    <l>ces p<ex>rese</ex>ntes sunt annexees. Laquelle</l>
-                    <l>maison et sesd<ex>it</ex>es appertenances</l>
-                    <l>lesdiz Richart et Agnés sa fame avoient vendue</l>
-                    <l>a rev<ex>er</ex>ent pere en Dieu mons.</l>
-                    <l><term n="Pierre Bertrand, évêque d’Autun, promu le 20 décembre 1331 cardinal-prêtre du titre de Saint-Clément (dit le cardinal d’Autun). Mort en 1348." >Pierres Bertram</term>, par la grace de Dieu</l>
-                    <l>cardinal de la saincte Eglise de Ro<ex>m</ex>me,</l>
-                    <l>achetant non pas ou nom de sa</l>
-                    <l>dignité mais en son p<ex>ro</ex>pre <ex>et</ex> privé nom,</l>
-                    <l>pour lui, ses hoirs et ceus qui de lui</l>
-                    <l>ont ou auront cause ou temps a venir,</l>
-                    <l>pour le pris de quarante livres par<ex>isis</ex>,</l>
-                    <l>si co<ex>m</ex>me il est plus plenement contenu es lettres dess<ex>us</ex> d<ex>it</ex>es.</l>
-                    <l>Et volt <ex>et</ex> accorda et</l>
-                    <l>nous requist instamm<ex>en</ex>t ledit Richart,</l>
-                    <l>ou nom que dit est,</l>
-                    <l>que de ladite maison et ses app<ex>er</ex>ten<ex>ances</ex></l>
-                    <l>ledit acheteur feust</l>
-                    <l>par nous saisis <ex>et</ex> vestus.</l>
-                    <l>Laquelle dessaisine p<ex>ar</ex> nous receue,</l>
-                    <l>nous, de la volenté <ex>et</ex> assentem<ex>en</ex>t dudit Richart, ou</l>
-                    <l>nom que dit est,</l>
-                    <l>de la devant d<ex>it</ex>e maison et ses app<ex>er</ex>ten<ex>ances</ex></l>
-                    <l>avons saisi et mis en saisine et poss<ex>essi</ex>on corporelle</l>
-                    <l>honorable ho<ex>m</ex>me Regnaut Le Paonnier,</l>
-                    <l>bourgois de Paris, tant co<ex>m</ex>me p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal,</l>
-                    <l>p<ex>our</ex> ycelui</l>
-                    <l>cardinal, non pas ou nom de sa dignité</l>
-                    <l>mais en son p<ex>ro</ex>pre <ex>et</ex> p<ex>r</ex>ivé nom</l>
-                    <l>et pour le p<ex>ro</ex>ffit <ex>et</ex> usage d’icelui, sauf</l>
-                    <l>touz drois, si co<ex>m</ex>me il est de coustume</l>
-                    <l>gardee en tel cas.</l>
-                    <l>Liquelz p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal nous a payé</l>
-                    <l>soixante six solz et huit deniers par<ex>isis</ex></l>
-                    <l>qui nous estoient deüz des ventes.</l>
-                    <l>De laquelle summe pour la cause dess<ex>us</ex></l>
-                    <l>d<ex>it</ex>e nous nous tenons a b<ex>ie</ex>n paiez et aggreez</l>
-                    <l>et en quittons lesdiz mons. le cardinal</l>
-                    <l>et son p<ex>ro</ex>cur<ex>eur</ex> et touz autres</l>
-                    <l>a qui quittance en puet app<ex>er</ex>tenir</l>
-                    <l>desorendroit a touz jours</l>
-                    <l>. . En tesmoin de laquelle chose, nous avons mis</l>
-                    <l>n<ex>os</ex>tre seel a ces p<ex>rese</ex>ntes l<ex>ett</ex>res,</l>
-                    <l>le mecredi huit jours de novembre</l>
-                    <l> l’an de grace mil CCC quarante.</l>
-                </div>
-            </div>
-            <div type="diplomatic">
-                <head>Commentaire diplomatique</head>
-                <div>               
-                    <div>
-                        <p>L'acte est soigné mais sans ornementation, bien justifié à gauche, mais guère à droite, le repli de parchemin, assez modeste, arrive au ras de la dernière ligne d'écriture. L'écriture est d'un type de "mixte" très courant, tracé d'une main experte.</p>
-                        <p>Le formulaire est inspiré de la production du Châtelet (par exemple l'adresse, la formule "par devant nous vint en sa propre personne"). C'est d'ailleurs une lettre de Châtelet (l. 6) que cet acte complète et auquel il doit reprendre nombre d'expressions. Il lui est "annexé" (l. 6), c'est-à-dire au sens matériel attaché, comme l'administration royale produit au même moment des "lettres d'attache", qui visent un acte royal et donnent ordre de l'exécuter.</p>
-                        <p>La vente a eu lieu, sanctionnée par une lettre de Châtelet. Le présent acte, qui le complète, permet une parfaite exécution en notifiant l'accord donné à la vente de la maison par le seigneur "treffoncier", seigneur de la censive où se trouve la maison et qui perçoit un cens annuel, sans doute assez faible (non précisé dans cet acte, mais certainement dans l'acte du Châtelet), mais aussi de coquets droits de mutation en cas de vente à un tiers (des "ventes" de plus de trois livres parisis). Outre cette notification de l'accord du seigneur censuel (accompagnée de la mention du "devest" de l'ancien détenteur et de l'investiture du nouveau détenteur), l'acte fonctionne aussi <hi rend="i">in fine</hi> comme une quittance constatant le paiement, par le représentant du nouveau détenteur, des droits de vente.</p>
-                        <p>Noter enfin que l'acte insiste bien sur le caractère privé de l'intervention du cardinal.</p>
-                    </div>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1340, 8 novembre. Paris. Charte des pitanciers de l’abbaye de Saint-Germain-des-Prés.</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">15</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. : Arch. nat., S 6346 B, n° 16.</p>
+        <p>Fac-sim. ENC : NF 100 (héliogravure).</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language id="frm">Ancien français</language>
+        <language id="fre">Français</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="35,39,367,58">A touz ceus qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront</seg>
+          <seg rend="377,37,744,56">. . Freres Guill<ex>aum</ex>e de Paris et Pierre de Soisi,</seg>
+          <seg rend="750,36,979,51">pittanciers de l’eglise Saint</seg>
+          <seg rend="41,66,326,82">Germain des Prez delez Par<ex>is</ex>, salut</seg>
+          <seg rend="337,65,637,84">. . Savoir faisons que p<ex>ar</ex> devant nous</seg>
+          <seg rend="641,66,973,83">vint en sa p<ex>ro</ex>pre p<ex>er</ex>sonne Richart a l’Espee,</seg>
+          <seg rend="39,93,545,111">demourant en la grant rue Saint Germain des Prez dessusdit</seg>
+          <seg rend="550,90,972,107">devant l’eglise Saint Andry des Ars a Paris, si co<ex>m</ex>me</seg>
+          <seg rend="39,117,401,136">il disoit. Liquiex Richars, tant en son nom</seg>
+          <seg rend="404,120,660,137">[que] co<ex>m</ex>me p<ex>ro</ex>cureur de Agnés sa fame,</seg>
+          <seg rend="668,119,971,136">se dessaisi <ex>et</ex> devesti en n<ex>ost</ex>re main</seg>
+          <seg rend="42,145,539,164">co<ex>m</ex>me en main de seigneurs haus justiciers et tresfonciers,</seg>
+          <seg rend="545,142,984,159">d’une maison et ses appertenances et appendances, no<ex>m</ex>mee</seg>
+          <seg rend="45,173,273,186">et declarciee es lettres seellees</seg>
+          <seg rend="280,168,666,185">du seel de la p<ex>re</ex>vosté de Paris p<ex>ar</ex>mi lesquelles</seg>
+          <seg rend="671,170,963,182">ces p<ex>rese</ex>ntes sunt annexees. Laquelle</seg>
+          <seg rend="45,196,306,213">maison et sesd<ex>it</ex>es appertenances</seg>
+          <seg rend="318,196,731,214">lesdiz Richart et Agnés sa fame avoient vendue</seg>
+          <seg rend="742,190,979,208">a rev<ex>er</ex>ent pere en Dieu mons.</seg>
+          <seg rend="44,222,360,241">Pierres Bertram, par la grace de Dieu</seg>
+          <seg rend="361,221,668,235">cardinal de la saincte Eglise de Ro<ex>m</ex>me,</seg>
+          <seg rend="678,216,978,234">achetant non pas ou nom de sa</seg>
+          <seg rend="45,249,368,266">dignité mais en son p<ex>ro</ex>pre <ex>et</ex> privé nom,</seg>
+          <seg rend="373,250,681,263">pour lui, ses hoirs et ceus qui de lui</seg>
+          <seg rend="682,244,989,262">ont ou auront cause ou temps a venir,</seg>
+          <seg rend="43,276,335,296">pour le pris de quarante livres par<ex>isis</ex>,</seg>
+          <seg rend="339,272,794,289">si co<ex>m</ex>me il est plus plenement contenu es lettres dess<ex>us</ex> d<ex>it</ex>es.</seg>
+          <seg rend="807,272,966,290">Et volt <ex>et</ex> accorda et</seg>
+          <seg rend="48,305,355,321">nous requist instamm<ex>en</ex>t ledit Richart,</seg>
+          <seg rend="361,305,526,321">ou nom que dit est,</seg>
+          <seg rend="536,302,814,314">que de ladite maison et ses app<ex>er</ex>ten<ex>ances</ex></seg>
+          <seg rend="817,298,986,315">ledit acheteur feust</seg>
+          <seg rend="41,329,250,345">par nous saisis <ex>et</ex> vestus.</seg>
+          <seg rend="263,327,547,346">Laquelle dessaisine p<ex>ar</ex> nous receue,</seg>
+          <seg rend="563,325,982,341">nous, de la volenté <ex>et</ex> assentem<ex>en</ex>t dudit Richart, ou</seg>
+          <seg rend="48,355,188,372">nom que dit est,</seg>
+          <seg rend="204,357,511,372">de la devant d<ex>it</ex>e maison et ses app<ex>er</ex>ten<ex>ances</ex></seg>
+          <seg rend="515,352,956,366">avons saisi et mis en saisine et poss<ex>essi</ex>on corporelle</seg>
+          <seg rend="47,381,374,399">honorable ho<ex>m</ex>me Regnaut Le Paonnier,</seg>
+          <seg rend="377,378,893,395">bourgois de Paris, tant co<ex>m</ex>me p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal,</seg>
+          <seg rend="901,378,977,394">p<ex>our</ex> ycelui</seg>
+          <seg rend="53,410,387,425">cardinal, non pas ou nom de sa dignité</seg>
+          <seg rend="399,410,666,424">mais en son p<ex>ro</ex>pre <ex>et</ex> p<ex>r</ex>ivé nom</seg>
+          <seg rend="671,408,985,425">et pour le p<ex>ro</ex>ffit <ex>et</ex> usage d’icelui, sauf</seg>
+          <seg rend="49,438,363,456">touz drois, si co<ex>m</ex>me il est de coustume</seg>
+          <seg rend="366,440,499,457">gardee en tel cas.</seg>
+          <seg rend="510,432,981,448">Liquelz p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal nous a payé</seg>
+          <seg rend="48,461,372,481">soixante six solz et huit deniers par<ex>isis</ex></seg>
+          <seg rend="379,465,670,477">qui nous estoient deüz des ventes.</seg>
+          <seg rend="681,456,987,472">De laquelle summe pour la cause dess<ex>us</ex></seg>
+          <seg rend="46,488,427,507">d<ex>it</ex>e nous nous tenons a b<ex>ie</ex>n paiez et aggreez</seg>
+          <seg rend="435,489,768,505">et en quittons lesdiz mons. le cardinal</seg>
+          <seg rend="773,490,989,504">et son p<ex>ro</ex>cur<ex>eur</ex> et touz autres</seg>
+          <seg rend="51,519,330,536">a qui quittance en puet app<ex>er</ex>tenir</seg>
+          <seg rend="339,516,553,532">desorendroit a touz jours</seg>
+          <seg rend="574,514,979,531">. . En tesmoin de laquelle chose, nous avons mis</seg>
+          <seg rend="51,545,267,560">n<ex>os</ex>tre seel a ces p<ex>rese</ex>ntes l<ex>ett</ex>res,</seg>
+          <seg rend="278,548,576,562">le mecredi huit jours de novembre</seg>
+          <seg rend="577,545,852,560">l’an de grace mil CCC quarante.</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l>A touz ceus qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront</l>
+          <l>. . Freres Guill<ex>aum</ex>e de Paris et Pierre de Soisi,</l>
+          <l><term n="pitanciers : officiers monastiques chargés de l’approvisionnement et de la distribution de la nourriture. A leur office (Pitancerie) est souvent affectée une portion du patrimoine, dont ils ont la gestion." >pittanciers</term> de <term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&#34;delez&#34; ou &#34;lez&#34; = &#34;près de&#34;, comme par ex. dans Villeneuve-lès-Avignon)." >l’eglise Saint</term></l>
+          <l><term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&#34;delez&#34; ou &#34;lez&#34; = &#34;près de&#34;, comme par ex. dans Villeneuve-lès-Avignon)." >Germain des Prez</term> delez Par<ex>is</ex>, salut</l>
+          <l>. . Savoir faisons que p<ex>ar</ex> devant nous</l>
+          <l>vint en sa p<ex>ro</ex>pre p<ex>er</ex>sonne Richart a l’Espee,</l>
+          <l>demourant en la grant rue Saint Germain des Prez dessusdit</l>
+          <l>devant l’eglise <term n="Saint-André-des-Arts.">Saint Andry des Ars</term> a Paris, si co<ex>m</ex>me</l>
+          <l>il disoit. Liquiex Richars, tant en son nom</l>
+          <l>[que] co<ex>m</ex>me p<ex>ro</ex>cureur de Agnés sa fame,</l>
+          <l>se dessaisi <ex>et</ex> devesti en n<ex>ost</ex>re main</l>
+          <l>co<ex>m</ex>me en main de seigneurs haus justiciers et tresfonciers,</l>
+          <l>d’une maison et ses appertenances et appendances, no<ex>m</ex>mee</l>
+          <l>et declarciee es lettres seellees</l>
+          <l>du seel de la p<ex>re</ex>vosté de Paris p<ex>ar</ex>mi lesquelles</l>
+          <l>ces p<ex>rese</ex>ntes sunt annexees. Laquelle</l>
+          <l>maison et sesd<ex>it</ex>es appertenances</l>
+          <l>lesdiz Richart et Agnés sa fame avoient vendue</l>
+          <l>a rev<ex>er</ex>ent pere en Dieu mons.</l>
+          <l><term n="Pierre Bertrand, évêque d’Autun, promu le 20 décembre 1331 cardinal-prêtre du titre de Saint-Clément (dit le cardinal d’Autun). Mort en 1348." >Pierres Bertram</term>, par la grace de Dieu</l>
+          <l>cardinal de la saincte Eglise de Ro<ex>m</ex>me,</l>
+          <l>achetant non pas ou nom de sa</l>
+          <l>dignité mais en son p<ex>ro</ex>pre <ex>et</ex> privé nom,</l>
+          <l>pour lui, ses hoirs et ceus qui de lui</l>
+          <l>ont ou auront cause ou temps a venir,</l>
+          <l>pour le pris de quarante livres par<ex>isis</ex>,</l>
+          <l>si co<ex>m</ex>me il est plus plenement contenu es lettres dess<ex>us</ex> d<ex>it</ex>es.</l>
+          <l>Et volt <ex>et</ex> accorda et</l>
+          <l>nous requist instamm<ex>en</ex>t ledit Richart,</l>
+          <l>ou nom que dit est,</l>
+          <l>que de ladite maison et ses app<ex>er</ex>ten<ex>ances</ex></l>
+          <l>ledit acheteur feust</l>
+          <l>par nous saisis <ex>et</ex> vestus.</l>
+          <l>Laquelle dessaisine p<ex>ar</ex> nous receue,</l>
+          <l>nous, de la volenté <ex>et</ex> assentem<ex>en</ex>t dudit Richart, ou</l>
+          <l>nom que dit est,</l>
+          <l>de la devant d<ex>it</ex>e maison et ses app<ex>er</ex>ten<ex>ances</ex></l>
+          <l>avons saisi et mis en saisine et poss<ex>essi</ex>on corporelle</l>
+          <l>honorable ho<ex>m</ex>me Regnaut Le Paonnier,</l>
+          <l>bourgois de Paris, tant co<ex>m</ex>me p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal,</l>
+          <l>p<ex>our</ex> ycelui</l>
+          <l>cardinal, non pas ou nom de sa dignité</l>
+          <l>mais en son p<ex>ro</ex>pre <ex>et</ex> p<ex>r</ex>ivé nom</l>
+          <l>et pour le p<ex>ro</ex>ffit <ex>et</ex> usage d’icelui, sauf</l>
+          <l>touz drois, si co<ex>m</ex>me il est de coustume</l>
+          <l>gardee en tel cas.</l>
+          <l>Liquelz p<ex>ro</ex>cur<ex>eur</ex> dudit mons. le cardinal nous a payé</l>
+          <l>soixante six solz et huit deniers par<ex>isis</ex></l>
+          <l>qui nous estoient deüz des ventes.</l>
+          <l>De laquelle summe pour la cause dess<ex>us</ex></l>
+          <l>d<ex>it</ex>e nous nous tenons a b<ex>ie</ex>n paiez et aggreez</l>
+          <l>et en quittons lesdiz mons. le cardinal</l>
+          <l>et son p<ex>ro</ex>cur<ex>eur</ex> et touz autres</l>
+          <l>a qui quittance en puet app<ex>er</ex>tenir</l>
+          <l>desorendroit a touz jours</l>
+          <l>. . En tesmoin de laquelle chose, nous avons mis</l>
+          <l>n<ex>os</ex>tre seel a ces p<ex>rese</ex>ntes l<ex>ett</ex>res,</l>
+          <l>le mecredi huit jours de novembre</l>
+          <l> l’an de grace mil CCC quarante.</l>
+        </div>
+      </div>
+      <div type="diplomatic">
+        <head>Commentaire diplomatique</head>
+        <p>L'acte est soigné mais sans ornementation, bien justifié à gauche, mais guère à droite, le repli de parchemin, assez modeste, arrive au ras de la dernière ligne d'écriture. L'écriture est d'un type de "mixte" très courant, tracé d'une main experte.</p>
+        <p>Le formulaire est inspiré de la production du Châtelet (par exemple l'adresse, la formule "par devant nous vint en sa propre personne"). C'est d'ailleurs une lettre de Châtelet (l. 6) que cet acte complète et auquel il doit reprendre nombre d'expressions. Il lui est "annexé" (l. 6), c'est-à-dire au sens matériel attaché, comme l'administration royale produit au même moment des "lettres d'attache", qui visent un acte royal et donnent ordre de l'exécuter.</p>
+        <p>La vente a eu lieu, sanctionnée par une lettre de Châtelet. Le présent acte, qui le complète, permet une parfaite exécution en notifiant l'accord donné à la vente de la maison par le seigneur "treffoncier", seigneur de la censive où se trouve la maison et qui perçoit un cens annuel, sans doute assez faible (non précisé dans cet acte, mais certainement dans l'acte du Châtelet), mais aussi de coquets droits de mutation en cas de vente à un tiers (des "ventes" de plus de trois livres parisis). Outre cette notification de l'accord du seigneur censuel (accompagnée de la mention du "devest" de l'ancien détenteur et de l'investiture du nouveau détenteur), l'acte fonctionne aussi <hi rend="i">in fine</hi> comme une quittance constatant le paiement, par le représentant du nouveau détenteur, des droits de vente.</p>
+        <p>Noter enfin que l'acte insiste bien sur le caractère privé de l'intervention du cardinal.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

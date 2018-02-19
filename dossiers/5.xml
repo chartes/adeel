@@ -1,219 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>1200. Saint Paul, Épître aux Romains</title>
-            </titleStmt>
-            <publicationStmt>
-                <idno type="numero">5</idno>
-                <publisher>École nationale des chartes</publisher>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Orig. :</p>
-                <p>Fac-sim. ENC :</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc/>
-    </teiHeader>
-    <text>
-        <body>
-            <div type="facsimile">
-                <p>
-                    <seg rend="17,17,753,35">Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles, m<ex>od</ex>o Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant gr<ex>ati</ex>æ D<ex>e</ex>i.  - Paulus hebraice, Quiet<ex>us</ex>...</seg>
-                    <seg rend="18,38,751,50">g<ex>ræ</ex>ce, Modic<ex>us</ex> latine, pri<ex>us</ex> Saul<ex>us</ex> a Saule p<ex>er</ex>secutore. Co<ex>m</ex>m<ex>en</ex>dat p<ex>er</ex>sonam et negocium <ex>et</ex> auctorem negocii, in quibus congrue captat. - Servus : nomen humili-</seg>
-                    <seg rend="18,55,751,65">-tatis, ut ad eam p<ex>ro</ex>vocet ap<ex>osto</ex>l[o]s. Ecce de humili altus. - Non a se, s<ex>ed</ex> a D<ex>e</ex>o vocatus, <ex>ve</ex>l vocat<ex>us</ex> ab hominib<ex>us</ex>, dictus privilegio nominis. - Segregatus : a doctrina...</seg>
-                    <seg rend="15,70,750,80">phariseorum (hoc contra Jud<ex>e</ex>os dictum) <ex>ve</ex>l ab aliis ap<ex>osto</ex>lis. Un<ex>de</ex> "Segrægate m<ex>ich</ex>i b. et p." - Ev<ex>an</ex>g<ex>e</ex>l<ex>iu</ex>m bona adnuntiatio e<ex>st</ex>, quæ ad salutem. Ea vero est de his quæ ad fidem...</seg>
-                    <seg rend="13,85,757,97"><ex>et</ex> mores. D<ex>e</ex>i : non ab homine inventum. - <ex>Quo</ex>d an<ex>te</ex> conpletionem, non subitum. Unde : "In hoc \v<ex>er</ex>bum/ verum e<ex>st</ex>, quia alius e<ex>st</ex> qui seminat <ex>et</ex> ali<ex>us</ex> qui metit. - P<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as,...</seg>
-                    <seg rend="11,99,751,112">un<ex>de</ex> Jheremias : "Ecce dies veniunt <ex>et</ex> consu<ex>m</ex>mabo testam<ex>en</ex>tu<ex>m</ex> novum". Idem <ex>et</ex> alii. - Fact<ex>us</ex> : <ex>et</ex>si int<ex>er</ex>fect<ex>us</ex>. Tanta e<ex>st</ex> unio utri<ex>us</ex>q<ex>ue</ex> nat<ex>ur</ex>æ ut totum dicatur D<ex>eu</ex>s, totu<ex>m</ex> h<ex>om</ex>o...</seg>
-                    <seg rend="505,113,752,126"><ex>et</ex> vicissim D<ex>eu</ex>s h<ex>om</ex>o <ex>et</ex> h<ex>om</ex>o D<ex>eu</ex>s, q<ex>uo</ex>d non \i<ex>n</ex>/ substantiis ho<ex>m</ex>i<ex>n</ex>um.</seg>
-                    <seg rend="214,120,384,139">Ep<ex>istu</ex>la ad Romanos</seg>
-                    <seg rend="386,122,486,138">Salvatoris. - Regis <ex>et</ex>...</seg>
-                    <seg rend="57,147,480,161">PAULUS servus Jh<ex>es</ex>u <ex>Christ</ex>i</seg>
-                    <seg rend="226,164,376,178"><ex>sacer</ex>doti, cui merito o<ex>mne</ex>s servi</seg>
-                    <seg rend="229,182,485,195">vocatus ap<ex>osto</ex>l<ex>us</ex>, segregatus in</seg>
-                    <seg rend="230,200,484,214">P<ex>ræ</ex>dicandu<ex>m</ex>. <ex>Com</ex>m<ex>en</ex>datio Ev<ex>an</ex>g<ex>e</ex>lii</seg>
-                    <seg rend="231,217,484,233">Evangelium Dei q<ex>uo</ex>d ante</seg>
-                    <seg rend="181,237,254,255">D<ex>eu</ex>s pat<ex>er</ex>, <ex>et</ex> g<ex>r</ex>atis.</seg>
-                    <seg rend="280,235,341,243">Qui magni.</seg>
-                    <seg rend="399,239,482,249">N<ex>on</ex> m<ex>od</ex>o v<ex>er</ex>b<ex>is</ex>, ne daret<ex>ur</ex>.</seg>
-                    <seg rend="276,245,360,254">Qui ex Deo, n<ex>on</ex> ex se.</seg>
-                    <seg rend="185,255,484,268">p<ex>ro</ex>miserat p<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as suos in Scrip-</seg>
-                    <seg rend="182,272,486,286">oblivioni. - Q<ex>uia</ex> o<ex>mne</ex>s ad Filiu<ex>m</ex>. - P<ex>ro</ex>p<ex>r</ex>io. - <ex>Com</ex>mendatio auct<ex>orita</ex>tis.</seg>
-                    <seg rend="183,293,504,305">-turis s<ex>an</ex>c<ex>t</ex>is de filio suo qui factus e<ex>st</ex></seg>
-                    <seg rend="182,311,397,322">Ad honore<ex>m</ex> ej<ex>us</ex>. - Fact<ex>us</ex> ne putet<ex>ur</ex> h<ex>om</ex>o.</seg>
-                    <seg rend="183,328,491,342">ei ex semine David s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m carne<ex>m</ex>,</seg>
-                    <seg rend="182,345,487,358">Sec<ex>undum</ex> q<ex>uo</ex>d h<ex>om</ex>o gr<ex>ati</ex>a sola se \præ/elect<ex>us</ex> ut sit Fili<ex>us</ex> in eade<ex>m</ex> potentia cu<ex>m</ex> Patre</seg>
-                    <seg rend="183,366,490,380">qui pr<ex>æ</ex>destinatus est filius Dei in</seg>
-                    <seg rend="185,385,481,396">p<ex>er</ex> unione<ex>m</ex> verbi, q<ex>uod</ex> pot<ex>est</ex> vid<ex>er</ex>i ex h<ex>oc</ex> quod ex Sp<ex>irit</ex>u s<ex>an</ex>c<ex>t</ex>o <ex>con</ex>cept<ex>us</ex>, p<ex>ro</ex>bat<ex>us</ex></seg>
-                    <seg rend="186,401,494,414">virtute s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Sp<ex>irit</ex>um s<ex>an</ex>c<ex>t</ex>ificatio<ex>n</ex>is,</seg>
-                    <seg rend="187,420,451,430"><ex>etiam</ex> q<ex>uia</ex> mortuos fec<ex>it</ex> secu<ex>m</ex> resurgere, qui fuerunt ej<ex>us</ex>.</seg>
-                    <seg rend="185,440,487,453">ex resurrectione mortuor<ex>um</ex> Jh<ex>es</ex>u</seg>
-                    <seg rend="294,459,492,468">Ecce quod auctor ei. - Remissionem peccatorum</seg>
-                    <seg rend="184,478,486,490"><ex>Christ</ex>i D<ex>omi</ex>ni nostri, p<ex>er</ex> que<ex>m</ex> accepimus</seg>
-                    <seg rend="187,494,483,506">et dona. Ut faciam obedire fidei pro ejus</seg>
-                    <seg rend="185,512,489,525">gr<ex>ati</ex>am et ap<ex>osto</ex>latum ad obediendu<ex>m</ex></seg>
-                    <seg rend="181,532,501,546">gl<ex>ori</ex>a, n<ex>on</ex> p<ex>ro</ex> n<ex>ost</ex>ra sic<ex>ut</ex> vos facitis. - Jud<ex>e</ex>i cohabitatione sunt in gentib<ex>us</ex>. - Vice ej<ex>us</ex>. </seg>
-                    <seg rend="188,549,491,562">fidei in omnibus gentibus pro nomine</seg>
-                    <seg rend="220,567,467,578">Int<ex>er</ex> q<ex>u</ex>os, ut familiari<ex>us</ex> admoneat. - P<ex>er</ex> gr<ex>ati</ex>am</seg>
-                    <seg rend="184,580,487,596">ejus, in quib<ex>us</ex> estis et vos vocati</seg>
-                    <seg rend="184,601,488,610">Ab eo, <ex>ve</ex>l ut siti[s] ej<ex>us</ex>. - Scribit. - N<ex>on</ex> aliis.  - S<ex>ed</ex>.</seg>
-                    <seg rend="187,618,489,631">Jh<ex>es</ex>u <ex>Christ</ex>i, omnib<ex>us</ex> qui sunt Romæ</seg>
-                    <seg rend="188,638,430,649">Dilex<ex>it</ex> ut vocaret ad s<ex>an</ex>ctitate<ex>m</ex>. - Pri<ex>us</ex> salutat.</seg>
-                    <seg rend="183,653,487,668">dilectis Deo vocatis s<ex>an</ex>c<ex>t</ex>is, gratia</seg>
-                    <seg rend="231,671,426,681">Rec<ex>on</ex>ciliatio. - Ab eo q<ex>u</ex>o pot<ex>est</ex> <ex>et</ex> vult.</seg>
-                    <seg rend="185,689,491,703">vobis et pax a Deo patre n<ex>ost</ex>ro et</seg>
-                    <seg rend="254,705,344,716">Sine quo nulla.</seg>
-                    <seg rend="181,721,416,735">Domino Jhesu Xpristo.</seg>
-                    <seg rend="149,757,483,771">Primum quide<ex>m</ex> gr<ex>ati</ex>as ago Deo</seg>
-                    <seg rend="183,793,487,807">meo p<ex>er</ex> Jh<ex>esu</ex>m <ex>Christu</ex>m p<ex>ro</ex> om<ex>n</ex>ib<ex>us</ex> vobis,</seg>
-                    <seg rend="183,829,491,841">quia fides v<ex>est</ex>ra annunciatur in</seg>
-                    <seg rend="187,865,490,879">universo mundo. Testis enim e<ex>st</ex></seg>
-                    <seg rend="186,900,488,914">michi D<ex>eu</ex>s, cui servio in sp<ex>irit</ex>u meo</seg>
-                    <seg rend="184,936,487,952">in Evangelio filii ejus, q<ex>uo</ex>d sine in-</seg>
-                    <seg rend="183,968,484,984">-termissione memoriam vestri [...]</seg>
-               </p>
-            </div>
-            <div type="text">
-                <div type="transcription">
-                    <l rend="rouge">EP<ex>ISTU</ex>LA AD ROMANOS<add place="left">
-                            <p>Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles</p>,<p>m<ex>od</ex>o Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant</p>
-                            <p>gr<ex>ati</ex>æ D<ex>e</ex>i.</p>
-                        </add>
-                   </l>
-                    <l rend="rouge">PAULUS <add place="left">
-                            <p>Paulus hebraice, Quiet<ex>us</ex> g<ex>ræ</ex>ce, Modic<ex>us</ex> latine, pri<ex>us</ex> Saul<ex>us</ex> a</p>
-                            <p>Saule p<ex>er</ex>secutore. Co<ex>m</ex>m<ex>en</ex>dat p<ex>er</ex>sonam et negocium <ex>et</ex> auctorem</p>
-                            <p>negocii, in quibus congrue captat.</p>
-                        </add> servus <add place="left">
-                            <p>Servus : nomen humilitatis, ut ad eam p<ex>ro</ex>vocet ap<ex>osto</ex>l[o]s. "Ecce de</p>
-                            <p>humili altus."</p></add> Jh<ex>es</ex>u* <ex>Christ</ex>i**</l>
-                    <l>*Salvatoris. **Regis et <ex>sacer</ex>doti, cui merito o<ex>mne</ex>s servi.</l>
-                    <l rend="rouge">vocatus <add place="left">
-                            <p>Non a se, s<ex>ed</ex> a D<ex>e</ex>o vocatus, <ex>ve</ex>l vocat<ex>us</ex> ab hominib<ex>us</ex>, dictus</p>
-                            <p>privilegio nominis.</p>
-                        </add> ap<ex>osto</ex>lus, segregatus <add place="left">
-                            <p>Segregatus : a doctrina phariseorum (hoc contra Judeos dictum) <ex>ve</ex>l</p>
-                            <p>ab aliis ap<ex>osto</ex>lis. Un<ex>de</ex> "Segrægate m<ex>ich</ex>i b. et p."</p>
-                        </add> in</l>
-                    <l rend="rouge">Ev<ex>an</ex>g<ex>e</ex>l<ex>ium</ex>* <add place="left">
-                            <p>Evangelium bona adnuntiatio e<ex>st</ex>, quæ ad salutem. Ea vero est de his</p>
-                            <p>quæ ad fidem <ex>et</ex> mores.</p>
-                        </add> Dei** <add place="left">
-                            <p>Dei : non ab homine inventum.</p>
-                        </add> <ex>quo</ex>d an<ex>te</ex>*** <add place="left">
-                            <p>Quod ante conpletionem, non subitum. Unde : "In hoc /v<ex>er</ex>bum/</p>
-                            <p>verum e<ex>st</ex>, quia alius e<ex>st</ex> qui seminat <ex>et</ex> ali<ex>us</ex> qui metit.</p>
-                        </add>
-                   </l>
-                    <l>*P<ex>ræ</ex>dicandu<ex>m</ex>. <ex>Com</ex>m<ex>en</ex>datio Ev<ex>an</ex>g<ex>e</ex>lii. **Deus pater.</l>
-                    <l>***Et gratis.</l>
-                    <l rend="rouge">p<ex>ro</ex>miserat p<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as* <add place="left">
-                            <p>P<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as, un<ex>de</ex> Jheremias : "Ecce dies veniunt <ex>et</ex> consu<ex>m</ex>mabo</p>
-                            <p>testam<ex>en</ex>tu<ex>m</ex> novum". Idem <ex>et</ex> alii.</p>
-                        </add> suos in Scrip-</l>
-                    <l>*Qui magni. Qui ex Deo, n<ex>on</ex> ex se.</l>
-                    <l rend="rouge">turis* s<ex>an</ex>c<ex>t</ex>is de filio** suo*** qui factus <add n="10" place="left">
-                            <p>Fact<ex>us</ex> : <ex>et</ex>si int<ex>er</ex>fect<ex>us</ex>. Tanta e<ex>st</ex> unio utri<ex>us</ex>q<ex>ue</ex> nat<ex>ur</ex>æ ut totum</p>
-                            <p>dicatur D<ex>eu</ex>s, totu<ex>m</ex> h<ex>om</ex>o <ex>et</ex> vicissim D<ex>eu</ex>s h<ex>om</ex>o <ex>et</ex> h<ex>om</ex>o D<ex>eu</ex>s, q<ex>uo</ex>d</p>
-                            <p>non \i<ex>n</ex>/ substantiis ho<ex>m</ex>i<ex>n</ex>um.</p>
-                        </add> e<ex>st</ex></l>
-                    <l>*N<ex>on</ex> m<ex>od</ex>o v<ex>er</ex>b<ex>is</ex>, ne daret<ex>ur</ex> oblivioni. **Q<ex>uia</ex> o<ex>mne</ex>s ad Filiu<ex>m</ex>. ***P<ex>ro</ex>p<ex>r</ex>io. <ex>Com</ex>mendatio auct<ex>orita</ex>tis.</l>
-                    <l rend="rouge">ei* ex semine David** s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m carne<ex>m</ex>***,</l>
-                    <l>*Ad honore<ex>m</ex> ej<ex>us</ex>. **Fact<ex>us</ex> ne putet<ex>ur</ex> h<ex>om</ex>o.</l>
-                    <l>***Sec<ex>undum</ex> q<ex>uo</ex>d h<ex>om</ex>o.</l>
-                    <l rend="rouge">qui prædestinatus* est filius Dei in</l>
-                    <l>*Gr<ex>ati</ex>a sola se \præ/elect<ex>us</ex> ut sit Fili<ex>us</ex>...</l>
-                    <l rend="rouge">virtute* s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Sp<ex>irit</ex>um s<ex>an</ex>c<ex>t</ex>ificatio<ex>n</ex>is**,</l>
-                    <l>*... in eade<ex>m</ex> potentia cu<ex>m</ex> Patre, p<ex>er</ex> unione<ex>m</ex> Verbi...</l>
-                    <l>**... q<ex>uod</ex> pot<ex>est</ex> vid<ex>er</ex>i ex h<ex>oc</ex> quod ex Sp<ex>irit</ex>u s<ex>an</ex>c<ex>t</ex>o <ex>con</ex>ceptus...</l>
-                    <l rend="rouge">ex resurrectione mortuorum* Jhesu</l>
-                    <l>*... p<ex>ro</ex>bat<ex>us</ex> <ex>etiam</ex> q<ex>uia</ex> mortuos fec<ex>it</ex> secu<ex>m</ex> resurgere...</l>
-                    <l rend="rouge">Christi* Domini nostri, per quem** accepimus</l>
-                    <l>* ... qui fuerunt ej<ex>us</ex>. **Ecce quod auctor ei.</l>
-                    <l rend="rouge">gratiam et apostolatum* ad obediendum</l>
-                    <l>*Remissionem peccatorum et dona.</l>
-                    <l rend="rouge">fidei* in omnibus gentibus** pro nomine</l>
-                    <l>*Ut faciam obedire fidei, pro ejus gl<ex>ori</ex>a, n<ex>on</ex> p<ex>ro</ex> n<ex>ost</ex>ra sic<ex>ut</ex> vos facitis. **Jud<ex>e</ex>i cohabitatione sunt in gentib<ex>us</ex>.</l>
-                    <l rend="rouge">ejus*, in quib<ex>us</ex>** estis et vos vocati***</l>
-                    <l>*Vice ej<ex>us</ex>. **Int<ex>er</ex> q<ex>u</ex>os, ut familiari<ex>us</ex> admoneat.</l>
-                    <l>***P<ex>er</ex> gr<ex>ati</ex>am.</l>
-                    <l rend="rouge">Jh<ex>es</ex>u <ex>Christ</ex>i*, omnib<ex>us</ex>** qui sunt Romæ***</l>
-                    <l>*Ab eo, vel ut siti[s] ejus. **Scribit. ***Non aliis. Sed.</l>
-                    <l rend="rouge">dilectis Deo vocatis s<ex>an</ex>c<ex>t</ex>is*, gratia**</l>
-                    <l>*Dilexit ut vocaret ad sanctitatem. **Prius salutat.</l>
-                    <l rend="rouge">vobis et pax* a Deo patre n<ex>ost</ex>ro** et</l>
-                    <l>*Rec<ex>on</ex>ciliatio. **Ab eo q<ex>u</ex>o pot<ex>est</ex> <ex>et</ex> vult.</l>
-                    <l rend="rouge">Domino Jhesu Xpristo*.</l>
-                    <l>*Sine quo nulla.</l>
-                    <l rend="rouge">Primum quide<ex>m</ex> gr<ex>ati</ex>as ago Deo</l>
-                    <l rend="rouge">meo p<ex>er</ex> Jh<ex>esu</ex>m <ex>Christu</ex>m p<ex>ro</ex> om<ex>n</ex>ib<ex>us</ex> vobis,</l>
-                    <l rend="rouge">quia fides v<ex>est</ex>ra annunciatur in</l>
-                    <l rend="rouge">universo mundo. Testis enim e<ex>st</ex></l>
-                    <l rend="rouge">michi D<ex>eu</ex>s, cui servio in sp<ex>irit</ex>u meo</l>
-                    <l rend="rouge">in Evangelio filii ejus, q<ex>uo</ex>d sine in-</l>
-                    <l rend="rouge">termissione memoriam vestri [facio...]</l>
-                </div>
-                <div type="translation">
-                    <l rend="rouge">ÉPITRE AUX ROMAINS
-                    <add place="left"><p>Il écrit par altercation aux Romains, réfutant tantôt les gentils</p>
-                        <p>et tantôt les juifs, leur apprenant à s'humilier pour attribuer toutes</p> <p>choses à la grâce de Dieu.</p></add>
-                   </l>
-                    <l rend="rouge">PAUL <add place="left"><p>Paul en hébreu, "Tranquille" en grec," Modéré" en latin, et</p>
-                    <p>auparavant Saul, d'après le persécuteur Saül. Il recommande sa</p>
-                    <p>personne et sa mission et l'auteur de sa mission, dans lequels...</p></add>,  serviteur <add place="left"><p>Serviteur : titre d'humilité, pour inciter à l'humilité les apôtres. "Voici</p><p>que l'humble est élevé".</p></add>  de Jésus* Christ**,</l>
-                    <l>*Sauveur. ** Roi et prêtre, dont tous sont à juste titre serviteurs.</l>
-                    <l rend="rouge">appelé <add place="left"><p>Appelé : non par lui mais par Dieu, ou bien appelé par les hommes,</p><p>dit d'un nom privilégié.</p></add>  apôtre, mis à part 
-                    <add place="left"><p>Séparé : de la doctrine des pharisiens (ceci est dit contre les juifs) ou</p><p>bien des autres apôtres. D'où : "Séparez de moi de b. et p."</p></add>  pour l'Évangile* <add place="left"><p>L'Évangile est la bonne nouvelle, qui [concerne] le salut. Celle-ci</p><p>cependant concerne ce qui se rapporte à la foi et aux m?urs.</p></add></l>
-                    <l rend="rouge">de Dieu**, <add place="left"><p>De Dieu : non inventé par un homme.</p></add> que d'avance*** 
-                    <add place="left"><p>D'avance : avant l'accomplissement, non aussitôt. D'où : "La parole</p><p>est vraie en ceci que c'est l'un qui sème et l'autre qui récolte".</p></add> il avait</l>
-                    <l>*Pour le prêcher. Éloge de l'Évangile. **Dieu le Père.</l>
-                    <l>***Et gratuitement.</l>
-                    <l rend="rouge">promis par ses prophètes 
-                    <add place="left"><p>Par les prophètes, d'où Jérémie : "Voici que les jours viennent, et je</p><p>consommerais mon nouveau testament. Les autres de même.</p></add>  dans les saintes</l>
-                    <l>*Les grands. Ils [parlent] de par Dieu, non d'eux-mêmes.</l>
-                    <l rend="rouge">Écritures* touchant son** fils***, fait 
-                        <add n="10" place="left"><p>Fait : même s'il a été tué. L'union est telle entre les deux natures que le tout est dit Dieu et</p><p>le tout également homme, et tour à tour Dieu-</p><p>homme et homme-Dieu, ce qui n'est pas dans les substances des</p><p>hommes.[??]</p></add></l>
-                    <l>*Non seulement en paroles, pour qu'il ne tombe pas dans l'oubli.</l>
-                    <l>**Propre. Éloge de l'autorité.***Parce que tous [vont] au fils.</l>
-                    <l rend="rouge">pour lui* de la postérité de David selon la chair***,</l>
-                    <l>*Pour son honneur. **Fait pour ne pas être réputé homme.</l>
-                    <l>**Selon qu'il est homme.</l>
-                    <l>et prédéstiné* comme fils de Dieu dans</l>
-                    <l rend="rouge">*Par la grâce seule, élu d'avance pour que le Fils soit...</l>
-                    <l>la puissance*, selon l'Esprit de sainteté**,</l>
-                    <l>*dans la même puissance que le Père, par l'union du Verbe,...</l>
-                    <l>**... ce qui est manifeste parce qu'il a été conçu du Saint-Esprit...</l>
-                    <l rend="rouge">par la résurrection des morts* de Jésus</l>
-                    <l/>
-                    <l>* et prouvé aussi parce qu'il a fait ressusciter avec lui les morts...</l>
-                    <l rend="rouge">Christ* notre Seigneur, par qui** nous avons reçu</l>
-                    <l>*... qui ont été à lui. **Voici que l'auteur à lui...</l>
-                    <l rend="rouge">la grâce et l'apostolat* pour l'obéissance</l>
-                    <l>*La rémission de péchés et les dons.</l>
-                    <l rend="rouge">à la foi* dans toutes les nations en son</l>
-                    <l>*Afin que je fasse obéir à la foi pour sa gloire, non pour la nôtre</l>
-                    <l>comme vous le faites. **Les juifs cohabitent parmi les peuples.</l>
-                    <l rend="rouge">nom*, parmi lesquels vous êtes aussi, appelés***</l>
-                    <l>*A sa place. **Parmi lesquels, pour les avertir plus familièrement.</l>
-                    <l>***Par la grâce.</l>
-                    <l rend="rouge">de Jésus Christ*, à tous ceux** qui à Rome***</l>
-                    <l>*Par lui ou pour que vous soyez à lui. **Adresse. ***Non à d'autres.</l>
-                    <l rend="rouge">sont aimés de Dieu, saints appelés par lui*, grâce**</l>
-                    <l>*Il les a aimés pour les appeler à la sainteté. **Il salue d'abord.</l>
-                    <l rend="rouge">et paix* à vous de par Dieu notre Père** et</l>
-                    <l>*La réconciliation. **Par celui qui peut et qui veut.</l>
-                    <l rend="rouge">le Seigneur Jésus Christ*.</l>
-                    <l rend="rouge">*Sans qui il n'en est aucune.</l>
-                    <l rend="rouge">Tout d'abord, je rends grâce à mon</l>
-                    <l rend="rouge">Dieu par Jésus Christ pour vous tous,</l>
-                    <l rend="rouge">de ce que votre foi est renommée dans</l>
-                    <l rend="rouge">le monde entier. Dieu en effet m'en est</l>
-                    <l rend="rouge">témoin, lui que je sers en mon esprit</l>
-                    <l rend="rouge">dans l'Évangile de son fils, sans</l>
-                    <l rend="rouge">cesse je fais mémoire de vous [...]</l>
-                </div>
-            </div>
-        </body>
-    </text>
-</TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>1200. Saint Paul, Épître aux Romains</title>
+      </titleStmt>
+      <publicationStmt>
+        <idno type="numero">5</idno>
+        <publisher>École nationale des chartes</publisher>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Orig. :</p>
+        <p>Fac-sim. ENC :</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc/>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="facsimile">
+        <p>
+          <seg rend="17,17,753,35">Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles, m<ex>od</ex>o Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant gr<ex>ati</ex>æ D<ex>e</ex>i.  - Paulus hebraice, Quiet<ex>us</ex>...</seg>
+          <seg rend="18,38,751,50">g<ex>ræ</ex>ce, Modic<ex>us</ex> latine, pri<ex>us</ex> Saul<ex>us</ex> a Saule p<ex>er</ex>secutore. Co<ex>m</ex>m<ex>en</ex>dat p<ex>er</ex>sonam et negocium <ex>et</ex> auctorem negocii, in quibus congrue captat. - Servus : nomen humili-</seg>
+          <seg rend="18,55,751,65">-tatis, ut ad eam p<ex>ro</ex>vocet ap<ex>osto</ex>l[o]s. Ecce de humili altus. - Non a se, s<ex>ed</ex> a D<ex>e</ex>o vocatus, <ex>ve</ex>l vocat<ex>us</ex> ab hominib<ex>us</ex>, dictus privilegio nominis. - Segregatus : a doctrina...</seg>
+          <seg rend="15,70,750,80">phariseorum (hoc contra Jud<ex>e</ex>os dictum) <ex>ve</ex>l ab aliis ap<ex>osto</ex>lis. Un<ex>de</ex> "Segrægate m<ex>ich</ex>i b. et p." - Ev<ex>an</ex>g<ex>e</ex>l<ex>iu</ex>m bona adnuntiatio e<ex>st</ex>, quæ ad salutem. Ea vero est de his quæ ad fidem...</seg>
+          <seg rend="13,85,757,97"><ex>et</ex> mores. D<ex>e</ex>i : non ab homine inventum. - <ex>Quo</ex>d an<ex>te</ex> conpletionem, non subitum. Unde : "In hoc \v<ex>er</ex>bum/ verum e<ex>st</ex>, quia alius e<ex>st</ex> qui seminat <ex>et</ex> ali<ex>us</ex> qui metit. - P<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as,...</seg>
+          <seg rend="11,99,751,112">un<ex>de</ex> Jheremias : "Ecce dies veniunt <ex>et</ex> consu<ex>m</ex>mabo testam<ex>en</ex>tu<ex>m</ex> novum". Idem <ex>et</ex> alii. - Fact<ex>us</ex> : <ex>et</ex>si int<ex>er</ex>fect<ex>us</ex>. Tanta e<ex>st</ex> unio utri<ex>us</ex>q<ex>ue</ex> nat<ex>ur</ex>æ ut totum dicatur D<ex>eu</ex>s, totu<ex>m</ex> h<ex>om</ex>o...</seg>
+          <seg rend="505,113,752,126"><ex>et</ex> vicissim D<ex>eu</ex>s h<ex>om</ex>o <ex>et</ex> h<ex>om</ex>o D<ex>eu</ex>s, q<ex>uo</ex>d non \i<ex>n</ex>/ substantiis ho<ex>m</ex>i<ex>n</ex>um.</seg>
+          <seg rend="214,120,384,139">Ep<ex>istu</ex>la ad Romanos</seg>
+          <seg rend="386,122,486,138">Salvatoris. - Regis <ex>et</ex>...</seg>
+          <seg rend="57,147,480,161">PAULUS servus Jh<ex>es</ex>u <ex>Christ</ex>i</seg>
+          <seg rend="226,164,376,178"><ex>sacer</ex>doti, cui merito o<ex>mne</ex>s servi</seg>
+          <seg rend="229,182,485,195">vocatus ap<ex>osto</ex>l<ex>us</ex>, segregatus in</seg>
+          <seg rend="230,200,484,214">P<ex>ræ</ex>dicandu<ex>m</ex>. <ex>Com</ex>m<ex>en</ex>datio Ev<ex>an</ex>g<ex>e</ex>lii</seg>
+          <seg rend="231,217,484,233">Evangelium Dei q<ex>uo</ex>d ante</seg>
+          <seg rend="181,237,254,255">D<ex>eu</ex>s pat<ex>er</ex>, <ex>et</ex> g<ex>r</ex>atis.</seg>
+          <seg rend="280,235,341,243">Qui magni.</seg>
+          <seg rend="399,239,482,249">N<ex>on</ex> m<ex>od</ex>o v<ex>er</ex>b<ex>is</ex>, ne daret<ex>ur</ex>.</seg>
+          <seg rend="276,245,360,254">Qui ex Deo, n<ex>on</ex> ex se.</seg>
+          <seg rend="185,255,484,268">p<ex>ro</ex>miserat p<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as suos in Scrip-</seg>
+          <seg rend="182,272,486,286">oblivioni. - Q<ex>uia</ex> o<ex>mne</ex>s ad Filiu<ex>m</ex>. - P<ex>ro</ex>p<ex>r</ex>io. - <ex>Com</ex>mendatio auct<ex>orita</ex>tis.</seg>
+          <seg rend="183,293,504,305">-turis s<ex>an</ex>c<ex>t</ex>is de filio suo qui factus e<ex>st</ex></seg>
+          <seg rend="182,311,397,322">Ad honore<ex>m</ex> ej<ex>us</ex>. - Fact<ex>us</ex> ne putet<ex>ur</ex> h<ex>om</ex>o.</seg>
+          <seg rend="183,328,491,342">ei ex semine David s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m carne<ex>m</ex>,</seg>
+          <seg rend="182,345,487,358">Sec<ex>undum</ex> q<ex>uo</ex>d h<ex>om</ex>o gr<ex>ati</ex>a sola se \præ/elect<ex>us</ex> ut sit Fili<ex>us</ex> in eade<ex>m</ex> potentia cu<ex>m</ex> Patre</seg>
+          <seg rend="183,366,490,380">qui pr<ex>æ</ex>destinatus est filius Dei in</seg>
+          <seg rend="185,385,481,396">p<ex>er</ex> unione<ex>m</ex> verbi, q<ex>uod</ex> pot<ex>est</ex> vid<ex>er</ex>i ex h<ex>oc</ex> quod ex Sp<ex>irit</ex>u s<ex>an</ex>c<ex>t</ex>o <ex>con</ex>cept<ex>us</ex>, p<ex>ro</ex>bat<ex>us</ex></seg>
+          <seg rend="186,401,494,414">virtute s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Sp<ex>irit</ex>um s<ex>an</ex>c<ex>t</ex>ificatio<ex>n</ex>is,</seg>
+          <seg rend="187,420,451,430"><ex>etiam</ex> q<ex>uia</ex> mortuos fec<ex>it</ex> secu<ex>m</ex> resurgere, qui fuerunt ej<ex>us</ex>.</seg>
+          <seg rend="185,440,487,453">ex resurrectione mortuor<ex>um</ex> Jh<ex>es</ex>u</seg>
+          <seg rend="294,459,492,468">Ecce quod auctor ei. - Remissionem peccatorum</seg>
+          <seg rend="184,478,486,490"><ex>Christ</ex>i D<ex>omi</ex>ni nostri, p<ex>er</ex> que<ex>m</ex> accepimus</seg>
+          <seg rend="187,494,483,506">et dona. Ut faciam obedire fidei pro ejus</seg>
+          <seg rend="185,512,489,525">gr<ex>ati</ex>am et ap<ex>osto</ex>latum ad obediendu<ex>m</ex></seg>
+          <seg rend="181,532,501,546">gl<ex>ori</ex>a, n<ex>on</ex> p<ex>ro</ex> n<ex>ost</ex>ra sic<ex>ut</ex> vos facitis. - Jud<ex>e</ex>i cohabitatione sunt in gentib<ex>us</ex>. - Vice ej<ex>us</ex>. </seg>
+          <seg rend="188,549,491,562">fidei in omnibus gentibus pro nomine</seg>
+          <seg rend="220,567,467,578">Int<ex>er</ex> q<ex>u</ex>os, ut familiari<ex>us</ex> admoneat. - P<ex>er</ex> gr<ex>ati</ex>am</seg>
+          <seg rend="184,580,487,596">ejus, in quib<ex>us</ex> estis et vos vocati</seg>
+          <seg rend="184,601,488,610">Ab eo, <ex>ve</ex>l ut siti[s] ej<ex>us</ex>. - Scribit. - N<ex>on</ex> aliis.  - S<ex>ed</ex>.</seg>
+          <seg rend="187,618,489,631">Jh<ex>es</ex>u <ex>Christ</ex>i, omnib<ex>us</ex> qui sunt Romæ</seg>
+          <seg rend="188,638,430,649">Dilex<ex>it</ex> ut vocaret ad s<ex>an</ex>ctitate<ex>m</ex>. - Pri<ex>us</ex> salutat.</seg>
+          <seg rend="183,653,487,668">dilectis Deo vocatis s<ex>an</ex>c<ex>t</ex>is, gratia</seg>
+          <seg rend="231,671,426,681">Rec<ex>on</ex>ciliatio. - Ab eo q<ex>u</ex>o pot<ex>est</ex> <ex>et</ex> vult.</seg>
+          <seg rend="185,689,491,703">vobis et pax a Deo patre n<ex>ost</ex>ro et</seg>
+          <seg rend="254,705,344,716">Sine quo nulla.</seg>
+          <seg rend="181,721,416,735">Domino Jhesu Xpristo.</seg>
+          <seg rend="149,757,483,771">Primum quide<ex>m</ex> gr<ex>ati</ex>as ago Deo</seg>
+          <seg rend="183,793,487,807">meo p<ex>er</ex> Jh<ex>esu</ex>m <ex>Christu</ex>m p<ex>ro</ex> om<ex>n</ex>ib<ex>us</ex> vobis,</seg>
+          <seg rend="183,829,491,841">quia fides v<ex>est</ex>ra annunciatur in</seg>
+          <seg rend="187,865,490,879">universo mundo. Testis enim e<ex>st</ex></seg>
+          <seg rend="186,900,488,914">michi D<ex>eu</ex>s, cui servio in sp<ex>irit</ex>u meo</seg>
+          <seg rend="184,936,487,952">in Evangelio filii ejus, q<ex>uo</ex>d sine in-</seg>
+          <seg rend="183,968,484,984">-termissione memoriam vestri [...]</seg>
+        </p>
+      </div>
+      <div type="text">
+        <div type="transcription">
+          <l rend="rouge">EP<ex>ISTU</ex>LA AD ROMANOS<add place="left">
+            <p>Pro altercatione scribit Romanis, confutans m<ex>od</ex>o gentiles</p>,<p>m<ex>od</ex>o Jud<ex>e</ex>os, docens eos humiliari ut om<ex>n</ex>ia attribuant</p>
+            <p>gr<ex>ati</ex>æ D<ex>e</ex>i.</p>
+          </add></l>
+          <l rend="rouge">PAULUS <add place="left">
+            <p>Paulus hebraice, Quiet<ex>us</ex> g<ex>ræ</ex>ce, Modic<ex>us</ex> latine, pri<ex>us</ex> Saul<ex>us</ex> a</p>
+            <p>Saule p<ex>er</ex>secutore. Co<ex>m</ex>m<ex>en</ex>dat p<ex>er</ex>sonam et negocium <ex>et</ex> auctorem</p>
+            <p>negocii, in quibus congrue captat.</p>
+          </add> servus <add place="left">
+            <p>Servus : nomen humilitatis, ut ad eam p<ex>ro</ex>vocet ap<ex>osto</ex>l[o]s. "Ecce de</p>
+            <p>humili altus."</p></add> Jh<ex>es</ex>u* <ex>Christ</ex>i**</l>
+          <l>*Salvatoris. **Regis et <ex>sacer</ex>doti, cui merito o<ex>mne</ex>s servi.</l>
+          <l rend="rouge">vocatus <add place="left">
+            <p>Non a se, s<ex>ed</ex> a D<ex>e</ex>o vocatus, <ex>ve</ex>l vocat<ex>us</ex> ab hominib<ex>us</ex>, dictus</p>
+            <p>privilegio nominis.</p>
+          </add> ap<ex>osto</ex>lus, segregatus <add place="left">
+            <p>Segregatus : a doctrina phariseorum (hoc contra Judeos dictum) <ex>ve</ex>l</p>
+            <p>ab aliis ap<ex>osto</ex>lis. Un<ex>de</ex> "Segrægate m<ex>ich</ex>i b. et p."</p>
+          </add> in</l>
+          <l rend="rouge">Ev<ex>an</ex>g<ex>e</ex>l<ex>ium</ex>* <add place="left">
+            <p>Evangelium bona adnuntiatio e<ex>st</ex>, quæ ad salutem. Ea vero est de his</p>
+            <p>quæ ad fidem <ex>et</ex> mores.</p>
+          </add> Dei** <add place="left">
+            <p>Dei : non ab homine inventum.</p>
+          </add> <ex>quo</ex>d an<ex>te</ex>*** <add place="left">
+            <p>Quod ante conpletionem, non subitum. Unde : "In hoc /v<ex>er</ex>bum/</p>
+            <p>verum e<ex>st</ex>, quia alius e<ex>st</ex> qui seminat <ex>et</ex> ali<ex>us</ex> qui metit.</p>
+          </add></l>
+          <l>*P<ex>ræ</ex>dicandu<ex>m</ex>. <ex>Com</ex>m<ex>en</ex>datio Ev<ex>an</ex>g<ex>e</ex>lii. **Deus pater.</l>
+          <l>***Et gratis.</l>
+          <l rend="rouge">p<ex>ro</ex>miserat p<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as* <add place="left">
+            <p>P<ex>er</ex> p<ex>ro</ex>ph<ex>et</ex>as, un<ex>de</ex> Jheremias : "Ecce dies veniunt <ex>et</ex> consu<ex>m</ex>mabo</p>
+            <p>testam<ex>en</ex>tu<ex>m</ex> novum". Idem <ex>et</ex> alii.</p>
+          </add> suos in Scrip-</l>
+          <l>*Qui magni. Qui ex Deo, n<ex>on</ex> ex se.</l>
+          <l rend="rouge">turis* s<ex>an</ex>c<ex>t</ex>is de filio** suo*** qui factus <add n="10" place="left">
+            <p>Fact<ex>us</ex> : <ex>et</ex>si int<ex>er</ex>fect<ex>us</ex>. Tanta e<ex>st</ex> unio utri<ex>us</ex>q<ex>ue</ex> nat<ex>ur</ex>æ ut totum</p>
+            <p>dicatur D<ex>eu</ex>s, totu<ex>m</ex> h<ex>om</ex>o <ex>et</ex> vicissim D<ex>eu</ex>s h<ex>om</ex>o <ex>et</ex> h<ex>om</ex>o D<ex>eu</ex>s, q<ex>uo</ex>d</p>
+            <p>non \i<ex>n</ex>/ substantiis ho<ex>m</ex>i<ex>n</ex>um.</p>
+          </add> e<ex>st</ex></l>
+          <l>*N<ex>on</ex> m<ex>od</ex>o v<ex>er</ex>b<ex>is</ex>, ne daret<ex>ur</ex> oblivioni. **Q<ex>uia</ex> o<ex>mne</ex>s ad Filiu<ex>m</ex>. ***P<ex>ro</ex>p<ex>r</ex>io.
+            <ex>Com</ex>mendatio auct<ex>orita</ex>tis.</l>
+          <l rend="rouge">ei* ex semine David** s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m carne<ex>m</ex>***,</l>
+          <l>*Ad honore<ex>m</ex> ej<ex>us</ex>. **Fact<ex>us</ex> ne putet<ex>ur</ex> h<ex>om</ex>o.</l>
+          <l>***Sec<ex>undum</ex> q<ex>uo</ex>d h<ex>om</ex>o.</l>
+          <l rend="rouge">qui prædestinatus* est filius Dei in</l>
+          <l>*Gr<ex>ati</ex>a sola se \præ/elect<ex>us</ex> ut sit Fili<ex>us</ex>...</l>
+          <l rend="rouge">virtute* s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Sp<ex>irit</ex>um s<ex>an</ex>c<ex>t</ex>ificatio<ex>n</ex>is**,</l>
+          <l>*... in eade<ex>m</ex> potentia cu<ex>m</ex> Patre, p<ex>er</ex> unione<ex>m</ex> Verbi...</l>
+          <l>**... q<ex>uod</ex> pot<ex>est</ex> vid<ex>er</ex>i ex h<ex>oc</ex> quod ex Sp<ex>irit</ex>u s<ex>an</ex>c<ex>t</ex>o <ex>con</ex>ceptus...</l>
+          <l rend="rouge">ex resurrectione mortuorum* Jhesu</l>
+          <l>*... p<ex>ro</ex>bat<ex>us</ex> <ex>etiam</ex> q<ex>uia</ex> mortuos fec<ex>it</ex> secu<ex>m</ex> resurgere...</l>
+          <l rend="rouge">Christi* Domini nostri, per quem** accepimus</l>
+          <l>* ... qui fuerunt ej<ex>us</ex>. **Ecce quod auctor ei.</l>
+          <l rend="rouge">gratiam et apostolatum* ad obediendum</l>
+          <l>*Remissionem peccatorum et dona.</l>
+          <l rend="rouge">fidei* in omnibus gentibus** pro nomine</l>
+          <l>*Ut faciam obedire fidei, pro ejus gl<ex>ori</ex>a, n<ex>on</ex> p<ex>ro</ex> n<ex>ost</ex>ra sic<ex>ut</ex> vos facitis. **Jud<ex>e</ex>i cohabitatione sunt in gentib<ex>us</ex>.</l>
+          <l rend="rouge">ejus*, in quib<ex>us</ex>** estis et vos vocati***</l>
+          <l>*Vice ej<ex>us</ex>. **Int<ex>er</ex> q<ex>u</ex>os, ut familiari<ex>us</ex> admoneat.</l>
+          <l>***P<ex>er</ex> gr<ex>ati</ex>am.</l>
+          <l rend="rouge">Jh<ex>es</ex>u <ex>Christ</ex>i*, omnib<ex>us</ex>** qui sunt Romæ***</l>
+          <l>*Ab eo, vel ut siti[s] ejus. **Scribit. ***Non aliis. Sed.</l>
+          <l rend="rouge">dilectis Deo vocatis s<ex>an</ex>c<ex>t</ex>is*, gratia**</l>
+          <l>*Dilexit ut vocaret ad sanctitatem. **Prius salutat.</l>
+          <l rend="rouge">vobis et pax* a Deo patre n<ex>ost</ex>ro** et</l>
+          <l>*Rec<ex>on</ex>ciliatio. **Ab eo q<ex>u</ex>o pot<ex>est</ex> <ex>et</ex> vult.</l>
+          <l rend="rouge">Domino Jhesu Xpristo*.</l>
+          <l>*Sine quo nulla.</l>
+          <l rend="rouge">Primum quide<ex>m</ex> gr<ex>ati</ex>as ago Deo</l>
+          <l rend="rouge">meo p<ex>er</ex> Jh<ex>esu</ex>m <ex>Christu</ex>m p<ex>ro</ex> om<ex>n</ex>ib<ex>us</ex> vobis,</l>
+          <l rend="rouge">quia fides v<ex>est</ex>ra annunciatur in</l>
+          <l rend="rouge">universo mundo. Testis enim e<ex>st</ex></l>
+          <l rend="rouge">michi D<ex>eu</ex>s, cui servio in sp<ex>irit</ex>u meo</l>
+          <l rend="rouge">in Evangelio filii ejus, q<ex>uo</ex>d sine in-</l>
+          <l rend="rouge">termissione memoriam vestri [facio...]</l>
+        </div>
+        <div type="translation">
+          <l rend="rouge">ÉPITRE AUX ROMAINS
+            <add place="left"><p>Il écrit par altercation aux Romains, réfutant tantôt les gentils</p>
+              <p>et tantôt les juifs, leur apprenant à s'humilier pour attribuer toutes</p> <p>choses à la grâce de Dieu.</p></add></l>
+          <l rend="rouge">PAUL <add place="left"><p>Paul en hébreu, "Tranquille" en grec," Modéré" en latin, et</p>
+            <p>auparavant Saul, d'après le persécuteur Saül. Il recommande sa</p>
+            <p>personne et sa mission et l'auteur de sa mission, dans lequels...</p></add>,  serviteur <add place="left"><p>Serviteur : titre d'humilité, pour inciter à l'humilité les apôtres. "Voici</p><p>que l'humble est élevé".</p></add>  de Jésus* Christ**,</l>
+          <l>*Sauveur. ** Roi et prêtre, dont tous sont à juste titre serviteurs.</l>
+          <l rend="rouge">appelé <add place="left"><p>Appelé : non par lui mais par Dieu, ou bien appelé par les hommes,</p><p>dit d'un nom privilégié.</p></add>  apôtre, mis à part 
+            <add place="left"><p>Séparé : de la doctrine des pharisiens (ceci est dit contre les juifs) ou</p><p>bien des autres apôtres. D'où : "Séparez de moi de b. et p."</p></add>  pour l'Évangile* <add place="left"><p>L'Évangile est la bonne nouvelle, qui [concerne] le salut. Celle-ci</p><p>cependant concerne ce qui se rapporte à la foi et aux m?urs.</p></add></l>
+          <l rend="rouge">de Dieu**, <add place="left"><p>De Dieu : non inventé par un homme.</p></add> que d'avance*** 
+            <add place="left"><p>D'avance : avant l'accomplissement, non aussitôt. D'où : "La parole</p><p>est vraie en ceci que c'est l'un qui sème et l'autre qui récolte".</p></add> il avait</l>
+          <l>*Pour le prêcher. Éloge de l'Évangile. **Dieu le Père.</l>
+          <l>***Et gratuitement.</l>
+          <l rend="rouge">promis par ses prophètes 
+            <add place="left"><p>Par les prophètes, d'où Jérémie : "Voici que les jours viennent, et je</p><p>consommerais mon nouveau testament. Les autres de même.</p></add>  dans les saintes</l>
+          <l>*Les grands. Ils [parlent] de par Dieu, non d'eux-mêmes.</l>
+          <l rend="rouge">Écritures* touchant son** fils***, fait 
+            <add n="10" place="left"><p>Fait : même s'il a été tué. L'union est telle entre les deux natures que le tout est dit Dieu et</p><p>le tout également homme, et tour à tour Dieu-</p><p>homme et homme-Dieu, ce qui n'est pas dans les substances des</p><p>hommes.[??]</p></add></l>
+          <l>*Non seulement en paroles, pour qu'il ne tombe pas dans l'oubli.</l>
+          <l>**Propre. Éloge de l'autorité.***Parce que tous [vont] au fils.</l>
+          <l rend="rouge">pour lui* de la postérité de David selon la chair***,</l>
+          <l>*Pour son honneur. **Fait pour ne pas être réputé homme.</l>
+          <l>**Selon qu'il est homme.</l>
+          <l>et prédéstiné* comme fils de Dieu dans</l>
+          <l rend="rouge">*Par la grâce seule, élu d'avance pour que le Fils soit...</l>
+          <l>la puissance*, selon l'Esprit de sainteté**,</l>
+          <l>*dans la même puissance que le Père, par l'union du Verbe,...</l>
+          <l>**... ce qui est manifeste parce qu'il a été conçu du Saint-Esprit...</l>
+          <l rend="rouge">par la résurrection des morts* de Jésus</l>
+          <l/>
+          <l>* et prouvé aussi parce qu'il a fait ressusciter avec lui les morts...</l>
+          <l rend="rouge">Christ* notre Seigneur, par qui** nous avons reçu</l>
+          <l>*... qui ont été à lui. **Voici que l'auteur à lui...</l>
+          <l rend="rouge">la grâce et l'apostolat* pour l'obéissance</l>
+          <l>*La rémission de péchés et les dons.</l>
+          <l rend="rouge">à la foi* dans toutes les nations en son</l>
+          <l>*Afin que je fasse obéir à la foi pour sa gloire, non pour la nôtre</l>
+          <l>comme vous le faites. **Les juifs cohabitent parmi les peuples.</l>
+          <l rend="rouge">nom*, parmi lesquels vous êtes aussi, appelés***</l>
+          <l>*A sa place. **Parmi lesquels, pour les avertir plus familièrement.</l>
+          <l>***Par la grâce.</l>
+          <l rend="rouge">de Jésus Christ*, à tous ceux** qui à Rome***</l>
+          <l>*Par lui ou pour que vous soyez à lui. **Adresse. ***Non à d'autres.</l>
+          <l rend="rouge">sont aimés de Dieu, saints appelés par lui*, grâce**</l>
+          <l>*Il les a aimés pour les appeler à la sainteté. **Il salue d'abord.</l>
+          <l rend="rouge">et paix* à vous de par Dieu notre Père** et</l>
+          <l>*La réconciliation. **Par celui qui peut et qui veut.</l>
+          <l rend="rouge">le Seigneur Jésus Christ*.</l>
+          <l rend="rouge">*Sans qui il n'en est aucune.</l>
+          <l rend="rouge">Tout d'abord, je rends grâce à mon</l>
+          <l rend="rouge">Dieu par Jésus Christ pour vous tous,</l>
+          <l rend="rouge">de ce que votre foi est renommée dans</l>
+          <l rend="rouge">le monde entier. Dieu en effet m'en est</l>
+          <l rend="rouge">témoin, lui que je sers en mon esprit</l>
+          <l rend="rouge">dans l'Évangile de son fils, sans</l>
+          <l rend="rouge">cesse je fais mémoire de vous [...]</l>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
