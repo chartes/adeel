@@ -20,175 +20,126 @@
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="17,8,585,30">In no<ex>m</ex>i<ex>n</ex>e d<ex>omi</ex>ni n<ex>ost</ex>ri Jh<ex>es</ex>u Ch<ex>rist</ex>i, amen. A<ex>n</ex>no I<ex>n</ex>carnat<ex>i</ex>onis ejusde<ex>m</ex> M° CC° XVIII°, VI° kal<ex>endas</ex> octob<ex>ris</ex>.</seg>
-          <seg rend="590,17,883,34">Nos R<ex>aymundus</ex>, D<ex>e</ex>i gr<ex>ati</ex>a Moysiace<ex>n</ex>sis abbas, notu<ex>m</ex> fa-</seg>
-          <seg rend="23,34,302,47">-cim<ex>us</ex> universis p<ex>re</ex>sentib<ex>us</ex> parit<ex>er</ex>
-            <ex>et</ex> futuris</seg>
-          <seg rend="305,36,883,52">q<ex>uo</ex>d, cu<ex>m</ex> nobil<ex>is</ex> vir d<ex>omi</ex>n<ex>u</ex>s A<ex>malricus</ex>, D<ex>e</ex>i p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex>
-            <ex>et</ex> comes Toloze <ex>et</ex> d<ex>omi</ex>nus Mo<ex>n</ex>tis Fortis, post</seg>
-          <seg rend="23,52,343,70">decessu<ex>m</ex> inclite recordationis d<ex>omi</ex>ni S<ex>imonis</ex> p<ex>at</ex>ris sui</seg>
-          <seg rend="347,54,882,70">ad villa<ex>m</ex> Moysiaci devenisset, nos de voluntate, <ex>con</ex>silio <ex>et</ex> assensu toti<ex>us</ex>
-            <ex>con</ex>vent<ex>us</ex></seg>
-          <seg rend="20,71,497,88">nostri et hominum de Moysiaco ip<ex>su</ex>m recepim<ex>us</ex> in ho<ex>m</ex>i<ex>n</ex>em n<ex>ost</ex>ru<ex>m</ex>
-            <ex>et</ex> ip<ex>s</ex>i p<ex>ro</ex>misim<ex>us</ex></seg>
-          <seg rend="501,72,896,90">q<ex>uo</ex>d eu<ex>m</ex>
-            <ex>et</ex> o<ex>mn</ex>es ho<ex>m</ex>i<ex>n</ex>es suos <ex>et</ex> terra<ex>m</ex>
-            <ex>et</ex> res suas p<ex>ro</ex> posse n<ex>ost</ex>ro</seg>
-          <seg rend="15,91,347,108">custodiem<ex>us</ex> bona fide ; et p<ex>er</ex> hanc carta<ex>m</ex>
-            <ex>con</ex>firmam<ex>us</ex></seg>
-          <seg rend="353,92,887,111">eide<ex>m</ex> om<ex>ne</ex>s pact<ex>i</ex>ones <ex>et</ex> o<ex>mn</ex>ia jura q<ex>ue</ex> pat<ex>er</ex> suus h<ex>ab</ex>ebat
-            <ex>ve</ex>l h<ex>abe</ex>re debebat i<ex>n</ex> villa Moysi-</seg>
-          <seg rend="16,111,549,126">-aci et in p<ex>er</ex>tinentiis ejusde<ex>m</ex>, sicut in cartis patris sui et n<ex>ost</ex>ris pleni<ex>us</ex>
-            <ex>con</ex>tinetur.</seg>
-          <seg rend="559,115,887,132">Et nos A<ex>malricus</ex>, D<ex>e</ex>i p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex>, comes Tol<ex>oze</ex>
-            <ex>et</ex> d<ex>omi</ex>n<ex>u</ex>s</seg>
-          <seg rend="15,128,328,143">Mo<ex>n</ex>tis Fortis, recognoscim<ex>us</ex> vobis, d<ex>omi</ex>no R<ex>aymundo</ex>, fecisse</seg>
-          <seg rend="335,134,885,150" >ho<ex>m</ex>i<ex>ni</ex>u<ex>m</ex> et p<ex>ro</ex>misisse vob<ex>is</ex> q<ex>uo</ex>d vos
-            <ex>et</ex> v<ex>est</ex>ra om<ex>n</ex>ia
-            <ex>et</ex> ho<ex>m</ex>inu<ex>m</ex> v<ex>est</ex>ro<ex>rum</ex>
-            <ex>et</ex> villa<ex>m</ex> Moysiaci</seg>
-          <seg rend="12,145,360,165">cu<ex>m</ex> p<ex>er</ex>tinentiis suis p<ex>ro</ex> posse n<ex>ost</ex>ro cutodiem<ex>us</ex>
-            <ex>et</ex> tuebim<ex>ur</ex></seg>
-          <seg rend="367,153,889,170">bona fide <ex>et</ex> om<ex>n</ex>es pact<ex>i</ex>ones <ex>et</ex> jura om<ex>n</ex>ia eccl<ex>es</ex>ie <ex>et</ex> ho<ex>m</ex>inu<ex>m</ex> Moysiaci, corp<ex>or</ex>ali vo-</seg>
-          <seg rend="8,170,395,185">-b<ex>is</ex> prestito sacramento, cu<ex>m</ex> om<ex>n</ex>i integritate observabim<ex>us</ex>,</seg>
-          <seg rend="398,174,885,190">sic<ex>ut</ex> in cartis v<ex>est</ex>ris <ex>et</ex> d<ex>omi</ex>ni pat<ex>r</ex>is n<ex>ost</ex>ri pleni<ex>us</ex>
-            <ex>con</ex>tinet<ex>ur</ex>. Et ut h<ex>ec</ex> omnia firmi<ex>us</ex></seg>
-          <seg rend="9,189,422,205">teneant<ex>ur</ex>, duo instrumenta p<ex>er</ex> alphabetu<ex>m</ex> divisa inde facta sunt,</seg>
-          <seg rend="425,195,885,212">quib<ex>us</ex> vos, d<ex>omi</ex>ne abbas, cu<ex>m</ex>
-            <ex>con</ex>ve<ex>n</ex>tu v<ex>est</ex>ro
-            <ex>et</ex> nos n<ex>ost</ex>ra sigilla fecim<ex>us</ex> apponi et</seg>
-          <seg rend="7,209,261,221">p<ex>re</ex>sente<ex>m</ex> carta<ex>m</ex> eor<ex>um</ex> caractere
-            <ex>con</ex>firmari.</seg>
-          <seg rend="269,214,896,229">Actu<ex>m</ex> Moysiaci, anno ab Incarnatione D<ex>omi</ex>ni M° CC° XVIII°, VI° kal<ex>endas</ex> octob<ex>ris</ex>, p<ex>re</ex>sentib<ex>us</ex>
-            <ex>et</ex> testib<ex>us</ex> : comite Gui-</seg>
-          <seg rend="5,230,313,243">-done, avunculo dicti d<ex>omi</ex>ni A<ex>malrici</ex>, E’ de Villa Peror,</seg>
-          <seg rend="317,232,890,253">Th’ de Novavilla, F’ de Issio, W<ex>illelm</ex>o notario n<ex>ost</ex>ro ; Ademario de S<ex>an</ex>c<ex>t</ex>a Maria Deaurata Tol<ex>oze</ex>, He-</seg>
+          <seg rend="17,8,585,30">In no<ex>m</ex>i<ex>n</ex>e d<ex>omi</ex>ni n<ex>ost</ex>ri Jh<ex>es</ex>u Ch<ex>rist</ex>i, amen. A<ex>n</ex>no I<ex>n</ex>carnat<ex>i</ex>onis ejusde<ex>m</ex> M° CC° XVIII°, VI° kal<ex>endas</ex> octob<ex>ris</ex>.</seg>
+          <seg rend="590,17,883,34">Nos R<ex>aymundus</ex>, D<ex>e</ex>i gr<ex>ati</ex>a Moysiace<ex>n</ex>sis abbas, notu<ex>m</ex> fa-</seg>
+          <seg rend="23,34,302,47">-cim<ex>us</ex> universis p<ex>re</ex>sentib<ex>us</ex> parit<ex>er</ex> <ex>et</ex> futuris</seg>
+          <seg rend="305,36,883,52">q<ex>uo</ex>d, cu<ex>m</ex> nobil<ex>is</ex> vir d<ex>omi</ex>n<ex>u</ex>s A<ex>malricus</ex>, D<ex>e</ex>i p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex> <ex>et</ex> comes Toloze <ex>et</ex> d<ex>omi</ex>nus Mo<ex>n</ex>tis Fortis, post</seg>
+          <seg rend="23,52,343,70">decessu<ex>m</ex> inclite recordationis d<ex>omi</ex>ni S<ex>imonis</ex> p<ex>at</ex>ris sui</seg>
+          <seg rend="347,54,882,70">ad villa<ex>m</ex> Moysiaci devenisset, nos de voluntate, <ex>con</ex>silio <ex>et</ex> assensu toti<ex>us</ex> <ex>con</ex>vent<ex>us</ex></seg>
+          <seg rend="20,71,497,88">nostri et hominum de Moysiaco ip<ex>su</ex>m recepim<ex>us</ex> in ho<ex>m</ex>i<ex>n</ex>em n<ex>ost</ex>ru<ex>m</ex> <ex>et</ex> ip<ex>s</ex>i p<ex>ro</ex>misim<ex>us</ex></seg>
+          <seg rend="501,72,896,90">q<ex>uo</ex>d eu<ex>m</ex> <ex>et</ex> o<ex>mn</ex>es ho<ex>m</ex>i<ex>n</ex>es suos <ex>et</ex> terra<ex>m</ex> <ex>et</ex> res suas p<ex>ro</ex> posse n<ex>ost</ex>ro</seg>
+          <seg rend="15,91,347,108">custodiem<ex>us</ex> bona fide ; et p<ex>er</ex> hanc carta<ex>m</ex> <ex>con</ex>firmam<ex>us</ex></seg>
+          <seg rend="353,92,887,111">eide<ex>m</ex> om<ex>ne</ex>s pact<ex>i</ex>ones <ex>et</ex> o<ex>mn</ex>ia jura q<ex>ue</ex> pat<ex>er</ex> suus h<ex>ab</ex>ebat <ex>ve</ex>l h<ex>abe</ex>re debebat i<ex>n</ex> villa Moysi-</seg>
+          <seg rend="16,111,549,126">-aci et in p<ex>er</ex>tinentiis ejusde<ex>m</ex>, sicut in cartis patris sui et n<ex>ost</ex>ris pleni<ex>us</ex> <ex>con</ex>tinetur.</seg>
+          <seg rend="559,115,887,132">Et nos A<ex>malricus</ex>, D<ex>e</ex>i p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex>, comes Tol<ex>oze</ex> <ex>et</ex> d<ex>omi</ex>n<ex>u</ex>s</seg>
+          <seg rend="15,128,328,143">Mo<ex>n</ex>tis Fortis, recognoscim<ex>us</ex> vobis, d<ex>omi</ex>no R<ex>aymundo</ex>, fecisse</seg>
+          <seg rend="335,134,885,150" >ho<ex>m</ex>i<ex>ni</ex>u<ex>m</ex> et p<ex>ro</ex>misisse vob<ex>is</ex> q<ex>uo</ex>d vos <ex>et</ex> v<ex>est</ex>ra om<ex>n</ex>ia <ex>et</ex> ho<ex>m</ex>inu<ex>m</ex> v<ex>est</ex>ro<ex>rum</ex> <ex>et</ex> villa<ex>m</ex> Moysiaci</seg>
+          <seg rend="12,145,360,165">cu<ex>m</ex> p<ex>er</ex>tinentiis suis p<ex>ro</ex> posse n<ex>ost</ex>ro cutodiem<ex>us</ex> <ex>et</ex> tuebim<ex>ur</ex></seg>
+          <seg rend="367,153,889,170">bona fide <ex>et</ex> om<ex>n</ex>es pact<ex>i</ex>ones <ex>et</ex> jura om<ex>n</ex>ia eccl<ex>es</ex>ie <ex>et</ex> ho<ex>m</ex>inu<ex>m</ex> Moysiaci, corp<ex>or</ex>ali vo-</seg>
+          <seg rend="8,170,395,185">-b<ex>is</ex> prestito sacramento, cu<ex>m</ex> om<ex>n</ex>i integritate observabim<ex>us</ex>,</seg>
+          <seg rend="398,174,885,190">sic<ex>ut</ex> in cartis v<ex>est</ex>ris <ex>et</ex> d<ex>omi</ex>ni pat<ex>r</ex>is n<ex>ost</ex>ri pleni<ex>us</ex> <ex>con</ex>tinet<ex>ur</ex>. Et ut h<ex>ec</ex> omnia firmi<ex>us</ex></seg>
+          <seg rend="9,189,422,205">teneant<ex>ur</ex>, duo instrumenta p<ex>er</ex> alphabetu<ex>m</ex> divisa inde facta sunt,</seg>
+          <seg rend="425,195,885,212">quib<ex>us</ex> vos, d<ex>omi</ex>ne abbas, cu<ex>m</ex> <ex>con</ex>ve<ex>n</ex>tu v<ex>est</ex>ro <ex>et</ex> nos n<ex>ost</ex>ra sigilla fecim<ex>us</ex> apponi et</seg>
+          <seg rend="7,209,261,221">p<ex>re</ex>sente<ex>m</ex> carta<ex>m</ex> eor<ex>um</ex> caractere <ex>con</ex>firmari.</seg>
+          <seg rend="269,214,896,229">Actu<ex>m</ex> Moysiaci, anno ab Incarnatione D<ex>omi</ex>ni M° CC° XVIII°, VI° kal<ex>endas</ex> octob<ex>ris</ex>, p<ex>re</ex>sentib<ex>us</ex> <ex>et</ex> testib<ex>us</ex> : comite Gui-</seg>
+          <seg rend="5,230,313,243">-done, avunculo dicti d<ex>omi</ex>ni A<ex>malrici</ex>, E’ de Villa Peror,</seg>
+          <seg rend="317,232,890,253">Th’ de Novavilla, F’ de Issio, W<ex>illelm</ex>o notario n<ex>ost</ex>ro ; Ademario de S<ex>an</ex>c<ex>t</ex>a Maria Deaurata Tol<ex>oze</ex>, He-</seg>
           <seg rend="4,246,289,263">-lia de Coquinis, Guiscardo de Castro Serraceno,</seg>
-          <seg rend="294,256,892,270">Rotberto de Bruneq<ex>ue</ex>llo priorib<ex>us</ex> ; A’ de Aragone sacrista, G’ de Caterio helemosinario, monachis</seg>
-          <seg rend="2,266,229,282">Moysiacensis eccl<ex>es</ex>ie ; Pontio Fortaiss,</seg>
-          <seg rend="241,274,895,291">W<ex>illelm</ex>o de Castillo, Falq<ex>ue</ex>to, Pontio de Rat<ex>er</ex>io <ex>et</ex> ej<ex>us</ex> f<ex>rat</ex>re Rat<ex>er</ex>io, G’ de Pictavino, W<ex>illelm</ex>o B. scribe, burgensibu<ex>s</ex>, cu<ex>m</ex> pl<ex>ur</ex>i-</seg>
-          <seg rend="1,289,235,306">-bus aliis testib<ex>us</ex> ; insup[er] B<ex>er</ex>trando de Roca,</seg>
-          <seg rend="237,294,725,317">p<ex>re</ex>ceptore Templi de baiulia de Tolozano <ex>et</ex> fratre P’ de Biurc magistro Ville Dei.</seg>
+          <seg rend="294,256,892,270">Rotberto de Bruneq<ex>ue</ex>llo priorib<ex>us</ex> ; A’ de Aragone sacrista, G’ de Caterio helemosinario, monachis</seg>
+          <seg rend="2,266,229,282">Moysiacensis eccl<ex>es</ex>ie ; Pontio Fortaiss,</seg>
+          <seg rend="241,274,895,291">W<ex>illelm</ex>o de Castillo, Falq<ex>ue</ex>to, Pontio de Rat<ex>er</ex>io <ex>et</ex> ej<ex>us</ex> f<ex>rat</ex>re Rat<ex>er</ex>io, G’ de Pictavino, W<ex>illelm</ex>o B. scribe, burgensibu<ex>s</ex>, cu<ex>m</ex> pl<ex>ur</ex>i-</seg>
+          <seg rend="1,289,235,306">-bus aliis testib<ex>us</ex> ; insup[er] B<ex>er</ex>trando de Roca,</seg>
+          <seg rend="237,294,725,317">p<ex>re</ex>ceptore Templi de baiulia de Tolozano <ex>et</ex> fratre P’ de Biurc magistro Ville Dei.</seg>
         </p>
       </div>
       <div type="text">
         <div type="transcription">
-          <l>In no<ex>m</ex>i<ex>n</ex>e d<ex>omi</ex>ni n<ex>ost</ex>ri Jh<ex>es</ex>u Ch<ex>rist</ex>i,</l>
-          <l>amen. A<ex>n</ex>no I<ex>n</ex>carnat<ex>i</ex>onis ejusde<ex>m</ex> M° CC°</l>
-          <l>XVIII°, <term n="VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre." >VI° kal<ex>endas</ex> octob<ex>ris</ex></term>.Nos</l>
-          <l>R<ex>aymundus</ex>, D<ex>e</ex>i gr<ex>ati</ex>a <term n="Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle." >Moysiace<ex>n</ex>sis</term>
-         </l>
+          <l>In no<ex>m</ex>i<ex>n</ex>e d<ex>omi</ex>ni n<ex>ost</ex>ri Jh<ex>es</ex>u Ch<ex>rist</ex>i,</l>
+          <l>amen. A<ex>n</ex>no I<ex>n</ex>carnat<ex>i</ex>onis ejusde<ex>m</ex> M° CC°</l>
+          <l>XVIII°, <term n="VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre." >VI° kal<ex>endas</ex> octob<ex>ris</ex></term>.Nos</l>
+          <l>R<ex>aymundus</ex>, D<ex>e</ex>i gr<ex>ati</ex>a <term n="Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle." >Moysiace<ex>n</ex>sis</term></l>
           <l>abbas, notu<ex>m</ex> facim<ex>us</ex> universis</l>
-          <l>p<ex>re</ex>sentib<ex>us</ex> parit<ex>er</ex>
-            <ex>et</ex> futuris q<ex>uo</ex>d, cu<ex>m</ex>
-         </l>
-          <l>nobil<ex>is</ex> vir d<ex>omi</ex>n<ex>u</ex>s <term n="Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France." >A<ex>malricus</ex></term>, D<ex>e</ex>i</l>
-          <l>p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex>
-            <ex>et</ex> comes Toloze</l>
-          <l><ex>et</ex> d<ex>omi</ex>nus Mo<ex>n</ex>tis Fortis, post decessu<ex>m</ex>
-         </l>
-          <l>inclite recordationis d<ex>omi</ex>ni S<ex>imonis</ex>
-         </l>
+          <l>p<ex>re</ex>sentib<ex>us</ex> parit<ex>er</ex> <ex>et</ex> futuris q<ex>uo</ex>d, cu<ex>m</ex></l>
+          <l>nobil<ex>is</ex> vir d<ex>omi</ex>n<ex>u</ex>s <term n="Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France." >A<ex>malricus</ex></term>, D<ex>e</ex>i</l>
+          <l>p<ex>ro</ex>vid<ex>entia</ex> dux Narb<ex>one</ex> <ex>et</ex> comes Toloze</l>
+          <l><ex>et</ex> d<ex>omi</ex>nus Mo<ex>n</ex>tis Fortis, post decessu<ex>m</ex></l>
+          <l>inclite recordationis d<ex>omi</ex>ni S<ex>imonis</ex></l>
           <l>p<ex>at</ex>ris sui ad villa<ex>m</ex> Moysiaci devenisset,</l>
-          <l>nos de voluntate, <ex>con</ex>silio <ex>et</ex> assensu toti<ex>us</ex>
-         </l>
-          <l><term n="conventus : Face à l’abbé, le &#34; convent &#34; est l’ensemble de la communauté monastique ; le droit canon s’attache alors, depuis quelques décennies, à préciser le jeu institutionnel entre les deux instances dans le gouvernement des maisons religieuses, et à poser un pouvoir de contrôle du convent sur la gestion abbatiale. Reconnu comme une personne morale, le convent a désormais un sceau distinct de celui de l’abbé : l’un et l’autre serviront à sceller le présent acte." ><ex>con</ex>vent<ex>us</ex></term> nostri et hominum de Moysiaco</l>
-          <l>ip<ex>su</ex>m recepim<ex>us</ex> in <term n="hominem : &#34;Homme&#34;, au sens féodal (il s’applique alors, tel quel, aussi bien à des femmes) : vassal qui a fait hommage." >ho<ex>m</ex>i<ex>n</ex>em</term> n<ex>ost</ex>ru<ex>m</ex>
-            <ex>et</ex>
-         </l>
-          <l>ip<ex>s</ex>i p<ex>ro</ex>misim<ex>us</ex> q<ex>uo</ex>d eu<ex>m</ex>
-            <ex>et</ex> o<ex>mn</ex>es</l>
-          <l>ho<ex>m</ex>i<ex>n</ex>es suos <ex>et</ex> terra<ex>m</ex>
-            <ex>et</ex> res suas</l>
-          <l>p<ex>ro</ex> posse n<ex>ost</ex>ro custodiem<ex>us</ex> bona fide ; et p<ex>er</ex></l>
-          <l>hanc carta<ex>m</ex>
-            <ex>con</ex>firmam<ex>us</ex> eide<ex>m</ex> om<ex>ne</ex>s</l>
-          <l><term n="pactiones : Du sens générique de &#34; pacte &#34;, &#34; accord &#34;, le terme semble ici tirer celui de &#34; possession ou droit reconnu à la suite d’un accord &#34;. De fait, l’accord passé entre l’abbé de Moissac et Simon de Montfort, ici confirmé (voir commentaire ci-après), avait réglé le partage des dépouilles du comte Raimond VI dans la région de Moissac. " >pact<ex>i</ex>ones</term>
-            <ex>et</ex> o<ex>mn</ex>ia jura q<ex>ue</ex> pat<ex>er</ex> suus</l>
-          <l><term n="habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés." >h<ex>ab</ex>ebat <ex>ve</ex>l h<ex>abe</ex>re debebat</term> i<ex>n</ex> villa</l>
+          <l>nos de voluntate, <ex>con</ex>silio <ex>et</ex> assensu toti<ex>us</ex></l>
+          <l><term n="conventus : Face à l’abbé, le &#34; convent &#34; est l’ensemble de la communauté monastique ; le droit canon s’attache alors, depuis quelques décennies, à préciser le jeu institutionnel entre les deux instances dans le gouvernement des maisons religieuses, et à poser un pouvoir de contrôle du convent sur la gestion abbatiale. Reconnu comme une personne morale, le convent a désormais un sceau distinct de celui de l’abbé : l’un et l’autre serviront à sceller le présent acte." ><ex>con</ex>vent<ex>us</ex></term> nostri et hominum de Moysiaco</l>
+          <l>ip<ex>su</ex>m recepim<ex>us</ex> in <term n="hominem : &#34;Homme&#34;, au sens féodal (il s’applique alors, tel quel, aussi bien à des femmes) : vassal qui a fait hommage." >ho<ex>m</ex>i<ex>n</ex>em</term> n<ex>ost</ex>ru<ex>m</ex> <ex>et</ex></l>
+          <l>ip<ex>s</ex>i p<ex>ro</ex>misim<ex>us</ex> q<ex>uo</ex>d eu<ex>m</ex> <ex>et</ex> o<ex>mn</ex>es</l>
+          <l>ho<ex>m</ex>i<ex>n</ex>es suos <ex>et</ex> terra<ex>m</ex> <ex>et</ex> res suas</l>
+          <l>p<ex>ro</ex> posse n<ex>ost</ex>ro custodiem<ex>us</ex> bona fide ; et p<ex>er</ex></l>
+          <l>hanc carta<ex>m</ex> <ex>con</ex>firmam<ex>us</ex> eide<ex>m</ex> om<ex>ne</ex>s</l>
+          <l><term n="pactiones : Du sens générique de &#34; pacte &#34;, &#34; accord &#34;, le terme semble ici tirer celui de &#34; possession ou droit reconnu à la suite d’un accord &#34;. De fait, l’accord passé entre l’abbé de Moissac et Simon de Montfort, ici confirmé (voir commentaire ci-après), avait réglé le partage des dépouilles du comte Raimond VI dans la région de Moissac. " >pact<ex>i</ex>ones</term> <ex>et</ex> o<ex>mn</ex>ia jura q<ex>ue</ex> pat<ex>er</ex> suus</l>
+          <l><term n="habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés." >h<ex>ab</ex>ebat <ex>ve</ex>l h<ex>abe</ex>re debebat</term> i<ex>n</ex> villa</l>
           <l>Moysiaci et in p<ex>er</ex>tinentiis ejusde<ex>m</ex>, sicut in</l>
-          <l>cartis patris sui et n<ex>ost</ex>ris pleni<ex>us</ex>
-         </l>
+          <l>cartis patris sui et n<ex>ost</ex>ris pleni<ex>us</ex></l>
           <l><ex>con</ex>tinetur.</l>
           <l/>
-          <l>Et nos A<ex>malricus</ex>, D<ex>e</ex>i p<ex>ro</ex>vid<ex>entia</ex> dux</l>
-          <l>Narb<ex>one</ex>, comes Tol<ex>oze</ex>
-            <ex>et</ex> d<ex>omi</ex>n<ex>u</ex>s Mo<ex>n</ex>tis</l>
+          <l>Et nos A<ex>malricus</ex>, D<ex>e</ex>i p<ex>ro</ex>vid<ex>entia</ex> dux</l>
+          <l>Narb<ex>one</ex>, comes Tol<ex>oze</ex> <ex>et</ex> d<ex>omi</ex>n<ex>u</ex>s Mo<ex>n</ex>tis</l>
           <l>Fortis, recognoscim<ex>us</ex> vobis, d<ex>omi</ex>no</l>
-          <l>R<ex>aymundo</ex>, fecisse ho<ex>m</ex>i<ex>ni</ex>u<ex>m</ex> et</l>
-          <l>p<ex>ro</ex>misisse vob<ex>is</ex> q<ex>uo</ex>d vos
-            <ex>et</ex> v<ex>est</ex>ra om<ex>n</ex>ia</l>
-          <l><ex>et</ex> ho<ex>m</ex>inu<ex>m</ex> v<ex>est</ex>ro<ex>rum</ex>
-            <ex>et</ex> villa<ex>m</ex> Moysiaci</l>
-          <l>cu<ex>m</ex> p<ex>er</ex>tinentiis suis p<ex>ro</ex> posse n<ex>ost</ex>ro</l>
-          <l>cutodiem<ex>us</ex>
-            <ex>et</ex> tuebim<ex>ur</ex> bona fide <ex>et</ex> om<ex>n</ex>es</l>
-          <l>pact<ex>i</ex>ones <ex>et</ex> jura om<ex>n</ex>ia eccl<ex>es</ex>ie <ex>et</ex>
-         </l>
-          <l>ho<ex>m</ex>inu<ex>m</ex> Moysiaci, corp<ex>or</ex>ali vob<ex>is</ex>
-         </l>
+          <l>R<ex>aymundo</ex>, fecisse ho<ex>m</ex>i<ex>ni</ex>u<ex>m</ex> et</l>
+          <l>p<ex>ro</ex>misisse vob<ex>is</ex> q<ex>uo</ex>d vos <ex>et</ex> v<ex>est</ex>ra om<ex>n</ex>ia</l>
+          <l><ex>et</ex> ho<ex>m</ex>inu<ex>m</ex> v<ex>est</ex>ro<ex>rum</ex> <ex>et</ex> villa<ex>m</ex> Moysiaci</l>
+          <l>cu<ex>m</ex> p<ex>er</ex>tinentiis suis p<ex>ro</ex> posse n<ex>ost</ex>ro</l>
+          <l>cutodiem<ex>us</ex> <ex>et</ex> tuebim<ex>ur</ex> bona fide <ex>et</ex> om<ex>n</ex>es</l>
+          <l>pact<ex>i</ex>ones <ex>et</ex> jura om<ex>n</ex>ia eccl<ex>es</ex>ie <ex>et</ex></l>
+          <l>ho<ex>m</ex>inu<ex>m</ex> Moysiaci, corp<ex>or</ex>ali vob<ex>is</ex></l>
           <l>prestito sacramento, cu<ex>m</ex> om<ex>n</ex>i integritate</l>
-          <l>observabim<ex>us</ex>, sic<ex>ut</ex> in cartis v<ex>est</ex>ris <ex>et</ex>
-         </l>
-          <l>d<ex>omi</ex>ni pat<ex>r</ex>is n<ex>ost</ex>ri pleni<ex>us</ex>
-            <ex>con</ex>tinet<ex>ur</ex>.</l>
+          <l>observabim<ex>us</ex>, sic<ex>ut</ex> in cartis v<ex>est</ex>ris <ex>et</ex></l>
+          <l>d<ex>omi</ex>ni pat<ex>r</ex>is n<ex>ost</ex>ri pleni<ex>us</ex> <ex>con</ex>tinet<ex>ur</ex>.</l>
           <l/>
-          <l>Et ut h<ex>ec</ex> omnia firmi<ex>us</ex> teneant<ex>ur</ex>, duo</l>
+          <l>Et ut h<ex>ec</ex> omnia firmi<ex>us</ex> teneant<ex>ur</ex>, duo</l>
           <l>instrumenta p<ex>er</ex> alphabetu<ex>m</ex> divisa inde</l>
-          <l>facta sunt, quib<ex>us</ex> vos, d<ex>omi</ex>ne abbas, cu<ex>m</ex>
-         </l>
-          <l><ex>con</ex>ve<ex>n</ex>tu v<ex>est</ex>ro
-            <ex>et</ex> nos n<ex>ost</ex>ra sigilla</l>
-          <l>fecim<ex>us</ex> apponi et p<ex>re</ex>sente<ex>m</ex> carta<ex>m</ex> eor<ex>um</ex>
-         </l>
+          <l>facta sunt, quib<ex>us</ex> vos, d<ex>omi</ex>ne abbas, cu<ex>m</ex></l>
+          <l><ex>con</ex>ve<ex>n</ex>tu v<ex>est</ex>ro <ex>et</ex> nos n<ex>ost</ex>ra sigilla</l>
+          <l>fecim<ex>us</ex> apponi et p<ex>re</ex>sente<ex>m</ex> carta<ex>m</ex> eor<ex>um</ex></l>
           <l>caractere <ex>con</ex>firmari.</l>
           <l/>
           <l>Actu<ex>m</ex> Moysiaci, anno ab Incarnatione</l>
-          <l>D<ex>omi</ex>ni M° CC° XVIII°, VI° kal<ex>endas</ex>
-         </l>
-          <l>octob<ex>ris</ex>, p<ex>re</ex>sentib<ex>us</ex>
-            <ex>et</ex>
-            <term n="Testibus : voir la partie synthèse du commentaire diplomatique." >testib<ex>us</ex></term> : comite</l>
+          <l>D<ex>omi</ex>ni M° CC° XVIII°, VI° kal<ex>endas</ex></l>
+          <l>octob<ex>ris</ex>, p<ex>re</ex>sentib<ex>us</ex> <ex>et</ex> <term n="Testibus : voir la partie synthèse du commentaire diplomatique." >testib<ex>us</ex></term> : comite</l>
           <l>Guidone, avunculo dicti d<ex>omi</ex>ni A<ex>malrici</ex>,</l>
           <l>E’ de Villa Peror, Th’ de Novavilla, F’ de</l>
           <l>Issio, W<ex>illelm</ex>o notario n<ex>ost</ex>ro ; Ademario</l>
-          <l>de S<ex>an</ex>c<ex>t</ex>a Maria Deaurata Tol<ex>oze</ex>, Helia de</l>
+          <l>de S<ex>an</ex>c<ex>t</ex>a Maria Deaurata Tol<ex>oze</ex>, Helia de</l>
           <l>Coquinis, Guiscardo de Castro Serraceno,</l>
-          <l>Rotberto de Bruneq<ex>ue</ex>llo priorib<ex>us</ex> ; A’ de</l>
+          <l>Rotberto de Bruneq<ex>ue</ex>llo priorib<ex>us</ex> ; A’ de</l>
           <l>Aragone sacrista, G’ de Caterio</l>
           <l>helemosinario, monachis Moysiacensis</l>
           <l>eccl<ex>es</ex>ie ; Pontio Fortaiss, W<ex>illelm</ex>o de</l>
-          <l>Castillo, <term n="Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent." >Falq<ex>ue</ex>to</term>, Pontio de Rat<ex>er</ex>io
-            <ex>et</ex> ej<ex>us</ex>
-         </l>
-          <l>f<ex>rat</ex>re Rat<ex>er</ex>io, G’ de Pictavino, W<ex>illelm</ex>o B.</l>
-          <l>scribe, burgensibu<ex>s</ex>, cu<ex>m</ex> pl<ex>ur</ex>ibus aliis</l>
+          <l>Castillo, <term n="Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent." >Falq<ex>ue</ex>to</term>, Pontio de Rat<ex>er</ex>io <ex>et</ex> ej<ex>us</ex></l>
+          <l>f<ex>rat</ex>re Rat<ex>er</ex>io, G’ de Pictavino, W<ex>illelm</ex>o B.</l>
+          <l>scribe, burgensibu<ex>s</ex>, cu<ex>m</ex> pl<ex>ur</ex>ibus aliis</l>
           <l>testib<ex>us</ex> ; insup[er] B<ex>er</ex>trando de Roca,</l>
           <l>p<ex>re</ex>ceptore Templi de baiulia de Tolozano</l>
           <l><ex>et</ex> fratre P’ de Biurc magistro Ville Dei.</l>
         </div>
         <div type="translation">
           <l>Au nom de notre seigneur Jésus Christ,</l>
-          <l>amen. L’an de son Incarnation 1218, <term n="VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre." >le 6</term></l>
-          <l><term n="VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre." >des calendes d’octobre</term>.</l>
+          <l>amen. L’an de son Incarnation 1218, <term n="VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre." >le 6</term></l>
+          <l><term n="VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre." >des calendes d’octobre</term>.</l>
           <l>Nous R(aimond),</l>
-          <l>par la grâce de Dieu abbé de <term n="Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle." >Moissac</term>,</l>
+          <l>par la grâce de Dieu abbé de <term n="Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle." >Moissac</term>,</l>
           <l>faisons savoir à tous, présents comme à</l>
           <l>venir, que, comme noble homme messire</l>
-          <l><term n="Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France." >A(maury)</term>, par la providence divine duc de</l>
+          <l><term n="Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France." >A(maury)</term>, par la providence divine duc de</l>
           <l>Narbonne, comte de Toulouse et seigneur</l>
           <l>de Montfort, était venu en la ville de</l>
           <l>Moissac, après le décès de son père,</l>
           <l>messire S(imon) de glorieux souvenir,</l>
           <l>nous, de la volonté, conseil et consentement</l>
-          <l>de tout notre <term n="conventus : Face à l’abbé, le &#34; convent &#34; est l’ensemble de la communauté monastique ; le droit canon s’attache alors, depuis quelques décennies, à préciser le jeu institutionnel entre les deux instances dans le gouvernement des maisons religieuses, et à poser un pouvoir de contrôle du convent sur la gestion abbatiale. Reconnu comme une personne morale, le convent a désormais un sceau distinct de celui de l’abbé : l’un et l’autre serviront à sceller le présent acte." >convent</term> et des hommes de</l>
-          <l>Moissac l’avons reçu en notre <term n="hominem : &#34;Homme&#34;, au sens féodal (il s’applique alors, tel quel, aussi bien à des femmes) : vassal qui a fait hommage." >homme</term> et lui</l>
+          <l>de tout notre <term n="conventus : Face à l’abbé, le &#34; convent &#34; est l’ensemble de la communauté monastique ; le droit canon s’attache alors, depuis quelques décennies, à préciser le jeu institutionnel entre les deux instances dans le gouvernement des maisons religieuses, et à poser un pouvoir de contrôle du convent sur la gestion abbatiale. Reconnu comme une personne morale, le convent a désormais un sceau distinct de celui de l’abbé : l’un et l’autre serviront à sceller le présent acte." >convent</term> et des hommes de</l>
+          <l>Moissac l’avons reçu en notre <term n="hominem : &#34;Homme&#34;, au sens féodal (il s’applique alors, tel quel, aussi bien à des femmes) : vassal qui a fait hommage." >homme</term> et lui</l>
           <l>avons promis que nous garderons de bonne</l>
           <l>foi, autant que nous le pourrons, lui, tous</l>
           <l>ses hommes et sa terre et ses biens ; et par</l>
           <l>cette charte nous lui confirmons tous les</l>
-          <l><term n="pactiones : Du sens générique de &#34; pacte &#34;, &#34; accord &#34;, le terme semble ici tirer celui de &#34; possession ou droit reconnu à la suite d’un accord &#34;. De fait, l’accord passé entre l’abbé de Moissac et Simon de Montfort, ici confirmé (voir commentaire ci-après), avait réglé le partage des dépouilles du comte Raimond VI dans la région de Moissac. " >pactes</term> et tous les droits que son père <term n="habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés." >avait</term></l>
-          <l><term n="habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés." >ou devait avoir</term> dans la ville de Moissac et</l>
+          <l><term n="pactiones : Du sens générique de &#34; pacte &#34;, &#34; accord &#34;, le terme semble ici tirer celui de &#34; possession ou droit reconnu à la suite d’un accord &#34;. De fait, l’accord passé entre l’abbé de Moissac et Simon de Montfort, ici confirmé (voir commentaire ci-après), avait réglé le partage des dépouilles du comte Raimond VI dans la région de Moissac. " >pactes</term> et tous les droits que son père <term n="habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés." >avait</term></l>
+          <l><term n="habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés." >ou devait avoir</term> dans la ville de Moissac et</l>
           <l>dans ses dépendances, ainsi qu’il est plus</l>
           <l>pleinement contenu dans les chartes</l>
           <l>délivrées par son père et par nous.</l>
@@ -217,7 +168,7 @@
           <l/>
           <l>Fait à Moissac, l’an de l’Incarnation du</l>
           <l>Seigneur 1218, le 6 des calendes d’octobre,</l>
-          <l>étant présents et <term n="Testibus : voir la partie synthèse du commentaire diplomatique." >témoins</term> le comte Guy,</l>
+          <l>étant présents et <term n="Testibus : voir la partie synthèse du commentaire diplomatique." >témoins</term> le comte Guy,</l>
           <l>oncle dudit seigneur A(maury), E. de Villa</l>
           <l>Peror, Th. de Novavilla, F. de Issio,</l>
           <l>Guillaume [ou Guilhem ?] notre notaire ;</l>
@@ -228,71 +179,60 @@
           <l>prieur de Bruniquel ; A. d’Aragon sacriste</l>
           <l>et G. de Caterio aumônier, moines de</l>
           <l>l’église de Moissac ; Pons Fortaiss, Guilhem</l>
-          <l>de Castillo, <term n="Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent." >Falquet</term>, Pons [fils] de Ratier et</l>
+          <l>de Castillo, <term n="Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent." >Falquet</term>, Pons [fils] de Ratier et</l>
           <l>son frère Ratier, G. de Peitavi, Guilhem</l>
           <l>[fils] de B. l’écrivain [public], bourgeois [de</l>
           <l>Moissac], avec nombre d’autres témoins ; et</l>
           <l>en outre Bertran de Laroque, précepteur du</l>
           <l>Temple pour la baylie de Toulousain, et</l>
           <l>frère P. de Biurc, maître [de la commanderie] de La Villedieu.</l>
-        </div> 
+        </div> 
         <div type="regeste">
-          <head> </head>
-          <p>R[aimond] abbé de Moissac fait savoir que, avec le consentement du convent et des habitants de Moissac, il a reçu l'hommage d'A[maury], duc de Narbonne, comte de Toulouse et seigneur de Montfort ; il confirme à A[maury] les droits qu'il avait reconnus à son feu père S[imon], à Moissac et alentour, dans l'accord qu'il avait passé avec ce dernier. Un engagement symétrique est pris par A[maury].</p>
-          <div type="precision">
-            <p>Le document est mentionné dans Auguste Molinier, Catalogue des actes de Simon et d'Amauri de Montfort [d'après les imprimés et les documents conservés à Paris], dans Bibliothèque de l'École des chartes, 1873, p. 153-203 et 445-501, n° 167, à la p. 492 ; il est édité dans Archives nationales, Layettes du Trésor des chartes, t. V, par Henri-François Delaborde, Paris, 1909, n° 240, p. 81-82.</p>
-          </div>
+          <head>Regeste</head>
+          <p>R[aimond] abbé de Moissac fait savoir que, avec le consentement du convent et des habitants de Moissac, il a reçu l'hommage d'A[maury], duc de Narbonne, comte de Toulouse et seigneur de Montfort ; il confirme à A[maury] les droits qu'il avait reconnus à son feu père S[imon], à Moissac et alentour, dans l'accord qu'il avait passé avec ce dernier. Un engagement symétrique est pris par A[maury].</p>
+          <p>Le document est mentionné dans Auguste Molinier, Catalogue des actes de Simon et d'Amauri de Montfort [d'après les imprimés et les documents conservés à Paris], dans Bibliothèque de l'École des chartes, 1873, p. 153-203 et 445-501, n° 167, à la p. 492 ; il est édité dans Archives nationales, Layettes du Trésor des chartes, t. V, par Henri-François Delaborde, Paris, 1909, n° 240, p. 81-82.</p>
         </div>
-      </div> 
+      </div>
+      <div type="speech">
+        <head>Parties du discours</head> 
+        <p>
+          <seg corresp="invocation_verbale">In nomine domini nostri Jhesu Christi, amen.<note id="invocation_verbale" type="bulle">Invocation verbale.</note></seg>
+          <seg corresp="date_initiale">Anno Incarnationis ejusdem M° CC° XVIII°, VI° kalendas octobris<note id="date_initiale" type="bulle">Date initiale</note></seg>
+          <seg corresp="nom_signature">Nos R(aymundus), Dei gratia Moysiacensis abbas<note id="nom_signature" >Nom-signature du notaire et sécrétaire responsable de l’établissement</note></seg>
+          <seg corresp="notification_universelle">notum facimus universis presentibus pariter et futuris quod<note id="notification_universelle">Notification universelle.</note></seg>
+          <seg corresp="expose">cum nobilis vir dominus A(malricus), Dei providentia dux Narbone et comes Toloze et dominus Montis Fortis, post decessum inclite recordationis domini Simonis patris sui ad villam Moysiaci devenisset, nos de voluntate, consilio et assensu totius conventus nostri et hominum de Moysiaco ipsum recepimus in hominem nostrum et ipsi promisimus quod eum et omnes homines suos et terram et res suas pro posse nostro custodiemus bona fide<note id="expose">Exposé dont le récit contient des éléments dipositifs, mais rapportés au passé(reconnaissance par l’abbé du statut de vassal et promesse)</note></seg>
+          <seg corresp="dispositif_suite">et per hanc cartam confirmamus eidem omnes pactiones et omnia jura que pater suus habebat vel habere debebat in villa Moysiaci et in pertinentiis ejusdem, sicut in cartis patris sui et nostris plenius continetur<note id="dispositif_suite">Suite du dispositif (confirmation)</note></seg>
+          <seg corresp="suscription_2">Et nos A(malricus), Dei providentia dux Narbone, comes Toloze et dominus Montis Fortis<note id="suscription_2">Prise de parole n° 2 : suscription</note></seg>
+          <seg corresp="dispositif_promesse">recognoscimus vobis, domino R(aymundo), fecisse hominium et promisisse vobis quod vos et vestra omnia et hominum vestrorum et villam Moysiaci cum pertinentiis suis pro posse nostro cutodiemus et tuebimur bona fide et omnes pactiones et jura omnia ecclesie et hominum Moysiaci, corporali vobis prestito sacramento, cum omni integritate observabimus, sicut in cartis vestris et domini patris nostri plenius continetur<note id="dispositif_promesse" >Dispositif : reconnaissance et promesse</note></seg>
+          <seg corresp="corroboration">Et ut hec omnia firmius teneantur, duo instrumenta per alphabetum divisa inde facta sunt, quibus vos, domine abbas, cum conventu vestro et nos nostra sigilla fecimus apponi et presentem cartam eorum caractere confirmari<note id="corroboration">Corroboration (annonce du chirographe et des sceaux</note></seg>
+          <seg corresp="date_finale">Actum Moysiaci, anno ab Incarnatione Domini M° CC° XVIII°, VI° kalendas octobris<note id="date_finale">Date finale, de lieu, de temps (réitérée)</note></seg>
+          <seg corresp="liste">presentibus et testibus comite Guidone, avunculo dicti domini A(malrici), E' de Villa <em>Peror</em>, Th' de Novavilla, F' de Issio, Willelmo notario nostro ; Ademario de Sancta Maria Deaurata Toloze, Helia de Coquinis, Guiscardo de Castro Serraceno, Rotberto de Brunequello prioribus ; A' de Aragone sacrista, G' de Caterio helemosinario, monachis Moysiacensis ecclesie ; Pontio <em>Fortaiss</em>, Willelmo de Castillo, Falqueto, Pontio de Raterio et ejus fratre Raterio, G' de Pictavino, Willelmo B. scribe, burgensibus, cum pluribus aliis testibus ; insuper Bertrando de Roca, preceptore Templi de baiulia de Tolozano et fratre P' de <em>Biurc</em> magistro Ville Dei<note id="liste">Liste de témoins</note></seg>
+        </p>
+      </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <div>
-            <p>
-              <figure rend="33/faxexternes.jpg">
-                <figDesc>
-                  <seg rend="125,7,172,5,220,4,252,4,305,6,332,4,363,6,402,6,438,6,469,8,499,8,526,11,546,9,563,12,581,14,604,17,619,18,627,23,605,27,573,30,509,34,459,35,418,36,378,36,332,37,303,35,247,35,207,35,155,33,127,31,102,30,77,28,65,28,49,27,35,25,20,21,13,19,22,17,34,15,47,13,63,12" >« Alphabet » formant la « devise » (divisa) qui sépare les deux portions du chirographe, ou « charte partie » (carta partita per alphabetum). On reconnaît sans peine les parties inférieures des lettres de “A” à “P” (il n?y a pas de “J” distinct du “I”).</seg>
-                  <seg rend="333,64,340,62,344,67,342,70,333,72,330,65">Le nom de l?autre co-auteur est traité comme celui de l?abbé : la pratique est d?autant plus délibérée que le père d?Amaury, Simon, est lui aussi désigné par son initiale, alors que son oncle Guy, simple témoin, voit plus bas son nom écrit en entier. Dans la liste de témoins, les motifs sont autres : l?initiale est plutôt employée par économie, quand la résolution est presque évidente (P. pour Petrus, W. pour Willelmus, R. pour Raymundus, A. pour Arnaldus…).</seg>
-                  <seg rend="454,44,461,52,457,63,446,57,446,51,451,46">L?abbé, co-auteur de l?acte, n?est jamais désigné que par son titre et l?initiale de son nom personnel, encadré de deux points. Manière de suggérer qu?il agit ici pleinement comme autorité, et non comme particulier.</seg> 
-                  <seg rend="622,50,631,54,634,57,628,63,622,63,616,60,613,54,619,53" >Employant presque tout l?espace utile sans modifier la taille ni l?espacement des lettres et des mots, le scribe est amené à pratiquer des coupures, soigneusement signalées par un tiret (6 lignes contre 8).</seg>
-                  <seg rend="130,262,143,269,154,275,156,283,151,290,145,298,132,301,124,300,118,297,109,295,107,290,105,283,107,277,110,272,113,269,117,264,122,262,133,263,142,264" >Double queue de parchemin.</seg>
-                  <seg rend="319,271,332,273,339,274,343,280,341,283,333,285,326,288,318,287,309,285,300,283,298,280,300,277,308,273,312,270" >Fente dans le repli, attache (une double queue de parchemin) disparue.</seg>
-                </figDesc>
-              </figure>
-            </p>
-            <p>Noter de façon générale l'écriture posée, et la disposition soignée, encore que sobre, du texte.</p>
-          </div>
-        </div>
-        <div>
-          <head>Parties du discours</head> 
-          <div> 
-            <p>
-              <seg corresp="invocation_verbale">In nomine domini nostri Jhesu Christi, amen.<note id="invocation_verbale" type="bulle">Invocation verbale.</note></seg>
-              <seg corresp="date_initiale">Anno Incarnationis ejusdem M° CC° XVIII°, VI° kalendas octobris<note id="date_initiale" type="bulle">Date initiale</note></seg>
-              <seg corresp="nom_signature">Nos R(aymundus), Dei gratia Moysiacensis abbas<note id="nom_signature" >Nom-signature du notaire et sécrétaire responsable de l’établissement</note></seg>
-              <seg corresp="notification_universelle">notum facimus universis presentibus pariter et futuris quod<note id="notification_universelle">Notification universelle.</note></seg>
-              <seg corresp="expose">cum nobilis vir dominus A(malricus), Dei providentia dux Narbone et comes Toloze et dominus Montis Fortis, post decessum inclite recordationis domini Simonis patris sui ad villam Moysiaci devenisset, nos de voluntate, consilio et assensu totius conventus nostri et hominum de Moysiaco ipsum recepimus in hominem nostrum et ipsi promisimus quod eum et omnes homines suos et terram et res suas pro posse nostro custodiemus bona fide<note id="expose">Exposé dont le récit contient des éléments dipositifs, mais rapportés au passé(reconnaissance par l’abbé du statut de vassal et promesse)</note></seg>
-              <seg corresp="dispositif_suite">et per hanc cartam confirmamus eidem omnes pactiones et omnia jura que pater suus habebat vel habere debebat in villa Moysiaci et in pertinentiis ejusdem, sicut in cartis patris sui et nostris plenius continetur<note id="dispositif_suite">Suite du dispositif (confirmation)</note></seg>
-              <seg corresp="suscription_2">Et nos A(malricus), Dei providentia dux Narbone, comes Toloze et dominus Montis Fortis<note id="suscription_2">Prise de parole n° 2 : suscription</note></seg>
-              <seg corresp="dispositif_promesse">recognoscimus vobis, domino R(aymundo), fecisse hominium et promisisse vobis quod vos et vestra omnia et hominum vestrorum et villam Moysiaci cum pertinentiis suis pro posse nostro cutodiemus et tuebimur bona fide et omnes pactiones et jura omnia ecclesie et hominum Moysiaci, corporali vobis prestito sacramento, cum omni integritate observabimus, sicut in cartis vestris et domini patris nostri plenius continetur<note id="dispositif_promesse" >Dispositif : reconnaissance et promesse</note></seg>
-              <seg corresp="corroboration">Et ut hec omnia firmius teneantur, duo instrumenta per alphabetum divisa inde facta sunt, quibus vos, domine abbas, cum conventu vestro et nos nostra sigilla fecimus apponi et presentem cartam eorum caractere confirmari<note id="corroboration">Corroboration (annonce du chirographe et des sceaux</note></seg>
-              <seg corresp="date_finale">Actum Moysiaci, anno ab Incarnatione Domini M° CC° XVIII°, VI° kalendas octobris<note id="date_finale">Date finale, de lieu, de temps (réitérée)</note></seg>
-              <seg corresp="liste">presentibus et testibus comite Guidone, avunculo dicti domini A(malrici), E' de Villa
-                <em>Peror</em>, Th' de Novavilla, F' de Issio, Willelmo notario nostro ; Ademario de Sancta Maria Deaurata Toloze, Helia de Coquinis, Guiscardo de Castro Serraceno, Rotberto de Brunequello prioribus ; A' de Aragone sacrista, G' de Caterio helemosinario, monachis Moysiacensis ecclesie ; Pontio <em>Fortaiss</em>, Willelmo de Castillo, Falqueto, Pontio de Raterio et ejus fratre Raterio, G' de Pictavino, Willelmo B. scribe, burgensibus, cum pluribus aliis testibus ; insuper Bertrando de Roca, preceptore Templi de baiulia de Tolozano et fratre P' de <em>Biurc</em> magistro Ville Dei<note id="liste">Liste de témoins</note></seg>
-            </p>
-          </div>
+          <figure rend="33/faxexternes.jpg">
+            <figDesc>
+              <seg rend="125,7,172,5,220,4,252,4,305,6,332,4,363,6,402,6,438,6,469,8,499,8,526,11,546,9,563,12,581,14,604,17,619,18,627,23,605,27,573,30,509,34,459,35,418,36,378,36,332,37,303,35,247,35,207,35,155,33,127,31,102,30,77,28,65,28,49,27,35,25,20,21,13,19,22,17,34,15,47,13,63,12" >« Alphabet » formant la « devise » (divisa) qui sépare les deux portions du chirographe, ou « charte partie » (carta partita per alphabetum). On reconnaît sans peine les parties inférieures des lettres de “A” à “P” (il n?y a pas de “J” distinct du “I”).</seg>
+              <seg rend="333,64,340,62,344,67,342,70,333,72,330,65">Le nom de l?autre co-auteur est traité comme celui de l?abbé : la pratique est d?autant plus délibérée que le père d?Amaury, Simon, est lui aussi désigné par son initiale, alors que son oncle Guy, simple témoin, voit plus bas son nom écrit en entier. Dans la liste de témoins, les motifs sont autres : l?initiale est plutôt employée par économie, quand la résolution est presque évidente (P. pour Petrus, W. pour Willelmus, R. pour Raymundus, A. pour Arnaldus…).</seg>
+              <seg rend="454,44,461,52,457,63,446,57,446,51,451,46">L?abbé, co-auteur de l?acte, n?est jamais désigné que par son titre et l?initiale de son nom personnel, encadré de deux points. Manière de suggérer qu?il agit ici pleinement comme autorité, et non comme particulier.</seg> 
+              <seg rend="622,50,631,54,634,57,628,63,622,63,616,60,613,54,619,53" >Employant presque tout l?espace utile sans modifier la taille ni l?espacement des lettres et des mots, le scribe est amené à pratiquer des coupures, soigneusement signalées par un tiret (6 lignes contre 8).</seg>
+              <seg rend="130,262,143,269,154,275,156,283,151,290,145,298,132,301,124,300,118,297,109,295,107,290,105,283,107,277,110,272,113,269,117,264,122,262,133,263,142,264" >Double queue de parchemin.</seg>
+              <seg rend="319,271,332,273,339,274,343,280,341,283,333,285,326,288,318,287,309,285,300,283,298,280,300,277,308,273,312,270" >Fente dans le repli, attache (une double queue de parchemin) disparue.</seg>
+            </figDesc>
+          </figure>
+          <p>Noter de façon générale l'écriture posée, et la disposition soignée, encore que sobre, du texte.</p>
         </div>
         <div>
           <head>Interprétation</head>
-          <div> 
-            <p>Simon de Montfort, guerroyant en Languedoc, avait patiemment renégocié les conventions passées entre les comtes de Toulouse et de nombreux évêques et abbés ; quand il lui succéda, affaibli, son fils Amaury s'empressa de confirmer et faire confirmer ces actes. La présente convention fait allusion aux actes échangés entre Simon de Montfort et l'abbé de Moissac après la reddition des habitants de la localité, le 14 septembre 1212 ; un exemplaire existait encore au XVII<sup>e</sup> siècle aux archives de l'abbaye de Moissac, et l'autre, destiné à Simon, est, comme le présent document, passé aux archives royales après qu'Amaury, en 1224, a remis ses droits à Louis VIII.</p>
-            <p>Si la connaissance du contexte permet de pressentir la hâte et l'insistance d'Amaury et de son entourage (Simon vient de mourir, trois mois plus tôt, en assiégeant Toulouse révoltée), ce sont des formules éprouvées qui servent à exprimer le nouvel accord, coulé dans le moule strictement féodal d'un hommage prêté à l'abbé, puis des engagements solennels qui lient seigneur et vassal. Le texte, comme il est fréquent dans des cas analogues, voit les parties prendre la parole à tour de rôle : enchâssés dans le protocole (invocation, date initiale ; corroboration, date finale et liste des témoins), on lit donc successivement deux ensembles, à la suscription individualisée et dont la savante symétrie noue l'accord. À chacun l'occasion de s'exprimer alternativement dans la posture de l'auteur de l'acte ; à chacun aussi son chirographe, qui permettra de relire les droits et devoirs de tous.</p>
-            <p>Même si un surcroît d'honneur fait pencher la balance du côté de l'abbé, seigneur (il « reçoit » l'hommage que lui offre Amaury, ce qui sous-entend qu'il eût pu refuser), les obligations pèsent du même poids pour l'un et pour l'autre (42 mots pour l'expression de celles d'Amaury, contre 44 pour l'abbé, alors que la formulation est en partie différente). C'est fondamentalement un acte synallagmatique qui est passé, tissé d'engagements réciproques, mais aussi de partage du pouvoir et des prélèvements, sous les yeux attentifs des fidèles, du convent et des habitants &#151; tout à la fois subordonnés, gardiens, conseillers, appuis, garants et possibles antagonistes.</p>
-            <p>L'équilibre semble parfait, et la corroboration achever le discours en point d'orgue, dans la synthèse du <em>vos&#133; et nos&#133; fecimus apponi</em>. C'est Amaury qui y garde la première personne (comme encore dans l'épithète qualifiant « son » notaire dans la liste de témoins), mais on ne sait si ce trait est commodité de rédaction (dans la coulée du dispositif n° 2) ou indice sur la personnalité du rédacteur. Scriptorium de Moissac ou notaire comtal ? Une réponse certaine ne se trouverait que dans la comparaison avec d'autres actes des mêmes auteurs.</p>
-            <p>La comparaison avec quelques actes concernant Simon de Montfort permet de comprendre l’articulation de la liste des témoins (ici traduite dans la ponctuation). Un premier groupe, clos par le notaire Guillaume [ou Guilhem s’il est d’origine méridionale], est constitué de fidèles encadrant le nouveau comte : on peut sans doute y reconnaître Evrardus de Villa Peror (acte de Simon le 25 mai 1218, au siège de Toulouse, éd. Layettes, t. V, n° 236), Titbaldus de Nouvilla (accord entre Simon et les seigneurs de Capdenac, n° 208), Ferricus de Isseio (acquisition par Simon des vicomtés de Nîmes et Agde, 1214, n° 201). Viennent ensuite les témoins liés à l’abbaye : quatre prieurs clunisiens, plus ou moins fortement liés à Moissac, et deux dignitaires de l’abbaye. Enfin les habitants de la bourgade. Inclassables, ou oubliés dans un premier temps, figurent <em>in fine</em> deux Templiers.</p>
-            <p>Il est d'autres traits qui marquent un art consommé de la composition. On peut ainsi goûter l'usage subtil qui est fait des temps verbaux, si subtil qu'en un moment les utiles mais trop rigides démarcations posées par la doctrine entre exposé et dispositif s'effacent. Il y a, d'abord, le temps de l'hommage, cérémonie que l'acte écrit ne peut que rapporter au passé, comme les paroles qui se sont alors échangées : <em>recepimus in hominem&#133; promisimus</em> pour l'abbé, <em>fecisse hominium et promisisse</em> pour Amaury. L'acte est ici constat, et ce constat est formulé au présent : porté à la connaissance des lecteurs-auditeurs de la charte par l'abbé (<em>notum facimus</em>), il est « reconnu » (quasi au sens de la juridiction gracieuse) par Amaury (<em>recognoscimus</em>). Mais la charte use aussi d'un autre présent, pleinement dispositif, où le lien se crée en même temps que l'écriture (<em>per hanc cartam confirmamus</em>) ; ce présent-là n'est pas un point dans le temps, mais un présent toujours actif, qui regarde aussi bien vers le passé (conformité aux actes précédents) que vers le futur (respect des obligations).</p>
-          </div>				
+          <p>Simon de Montfort, guerroyant en Languedoc, avait patiemment renégocié les conventions passées entre les comtes de Toulouse et de nombreux évêques et abbés ; quand il lui succéda, affaibli, son fils Amaury s'empressa de confirmer et faire confirmer ces actes. La présente convention fait allusion aux actes échangés entre Simon de Montfort et l'abbé de Moissac après la reddition des habitants de la localité, le 14 septembre 1212 ; un exemplaire existait encore au XVII<sup>e</sup> siècle aux archives de l'abbaye de Moissac, et l'autre, destiné à Simon, est, comme le présent document, passé aux archives royales après qu'Amaury, en 1224, a remis ses droits à Louis VIII.</p>
+          <p>Si la connaissance du contexte permet de pressentir la hâte et l'insistance d'Amaury et de son entourage (Simon vient de mourir, trois mois plus tôt, en assiégeant Toulouse révoltée), ce sont des formules éprouvées qui servent à exprimer le nouvel accord, coulé dans le moule strictement féodal d'un hommage prêté à l'abbé, puis des engagements solennels qui lient seigneur et vassal. Le texte, comme il est fréquent dans des cas analogues, voit les parties prendre la parole à tour de rôle : enchâssés dans le protocole (invocation, date initiale ; corroboration, date finale et liste des témoins), on lit donc successivement deux ensembles, à la suscription individualisée et dont la savante symétrie noue l'accord. À chacun l'occasion de s'exprimer alternativement dans la posture de l'auteur de l'acte ; à chacun aussi son chirographe, qui permettra de relire les droits et devoirs de tous.</p>
+          <p>Même si un surcroît d'honneur fait pencher la balance du côté de l'abbé, seigneur (il « reçoit » l'hommage que lui offre Amaury, ce qui sous-entend qu'il eût pu refuser), les obligations pèsent du même poids pour l'un et pour l'autre (42 mots pour l'expression de celles d'Amaury, contre 44 pour l'abbé, alors que la formulation est en partie différente). C'est fondamentalement un acte synallagmatique qui est passé, tissé d'engagements réciproques, mais aussi de partage du pouvoir et des prélèvements, sous les yeux attentifs des fidèles, du convent et des habitants &#151; tout à la fois subordonnés, gardiens, conseillers, appuis, garants et possibles antagonistes.</p>
+          <p>L'équilibre semble parfait, et la corroboration achever le discours en point d'orgue, dans la synthèse du <em>vos&#133; et nos&#133; fecimus apponi</em>. C'est Amaury qui y garde la première personne (comme encore dans l'épithète qualifiant « son » notaire dans la liste de témoins), mais on ne sait si ce trait est commodité de rédaction (dans la coulée du dispositif n° 2) ou indice sur la personnalité du rédacteur. Scriptorium de Moissac ou notaire comtal ? Une réponse certaine ne se trouverait que dans la comparaison avec d'autres actes des mêmes auteurs.</p>
+          <p>La comparaison avec quelques actes concernant Simon de Montfort permet de comprendre l’articulation de la liste des témoins (ici traduite dans la ponctuation). Un premier groupe, clos par le notaire Guillaume [ou Guilhem s’il est d’origine méridionale], est constitué de fidèles encadrant le nouveau comte : on peut sans doute y reconnaître Evrardus de Villa Peror (acte de Simon le 25 mai 1218, au siège de Toulouse, éd. Layettes, t. V, n° 236), Titbaldus de Nouvilla (accord entre Simon et les seigneurs de Capdenac, n° 208), Ferricus de Isseio (acquisition par Simon des vicomtés de Nîmes et Agde, 1214, n° 201). Viennent ensuite les témoins liés à l’abbaye : quatre prieurs clunisiens, plus ou moins fortement liés à Moissac, et deux dignitaires de l’abbaye. Enfin les habitants de la bourgade. Inclassables, ou oubliés dans un premier temps, figurent <em>in fine</em> deux Templiers.</p>
+          <p>Il est d'autres traits qui marquent un art consommé de la composition. On peut ainsi goûter l'usage subtil qui est fait des temps verbaux, si subtil qu'en un moment les utiles mais trop rigides démarcations posées par la doctrine entre exposé et dispositif s'effacent. Il y a, d'abord, le temps de l'hommage, cérémonie que l'acte écrit ne peut que rapporter au passé, comme les paroles qui se sont alors échangées : <em>recepimus in hominem&#133; promisimus</em> pour l'abbé, <em>fecisse hominium et promisisse</em> pour Amaury. L'acte est ici constat, et ce constat est formulé au présent : porté à la connaissance des lecteurs-auditeurs de la charte par l'abbé (<em>notum facimus</em>), il est « reconnu » (quasi au sens de la juridiction gracieuse) par Amaury (<em>recognoscimus</em>). Mais la charte use aussi d'un autre présent, pleinement dispositif, où le lien se crée en même temps que l'écriture (<em>per hanc cartam confirmamus</em>) ; ce présent-là n'est pas un point dans le temps, mais un présent toujours actif, qui regarde aussi bien vers le passé (conformité aux actes précédents) que vers le futur (respect des obligations).</p>
         </div>
       </div>
     </body>

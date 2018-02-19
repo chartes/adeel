@@ -94,18 +94,12 @@
         </p>
       </div>
       <div type="text">
-        <div type="presentation">
-          <p>Une traduction de la vida a été donnée dans l’édition de Jean Boutière et A. H. Schutz, <hi rend="i">Biographies des troubadours. Textes provençaux des XIIIe et XIVe siècles. &#201;dition refondue, augmentée d’une traduction française…</hi>, par Jean Boutière avec la collaboration d’Irénée Cluzel, Paris, 1964 (<hi rend="i">Les classiques d’oc</hi>, 1), p. 409 et 411. La traduction qui est donnée ici s’en inspire sans la reproduire et cherche à coller le plus possible au texte occitan.</p>
-          <p>La canso est constituée de cinq coblas unissonans, cinq strophes utilisant le même schéma : 10 a [-o], 10 b [-is], 10 b, 10 c [- ida], 10 c, 10 d [-en], 10 d, 10 a, 10 a] suivies d’une tornada. Une traduction accompagne l’édition Chaytor des poésies de Perdigon : la traduction qui est donnée ici s’en écarte et tient compte d’une part que le texte du chansonnier A n’est pas celui qui a été pris comme base de l’éditon Chaytor, d’autre part des remarques sur le vocabulaire juridique employé par les troubadours formulées par Giulio Bertoni, &#34; Riflessi di costumanze giuridiche nell’antica poesia di Provenza &#34;, dans <hi rend="i">Archivum romanicum</hi>, t. 1, 1917, p. 4-20, aux pages 8 à 12 pour la strophe V de cette canso, en particulier sur le sens de de plan (p. 9-10) et de batalh’aramida (p. 10-12). On trouvera une excellente vue d’ensemble sur l’utilisation par les troubadours de mots ou d’expressions juridiques par Paul Ourliac, « Troubadours et juristes », dans <hi rend="i">Cahiers de civilisation médiévale</hi>, t. 8, 1965, p. 159-177, réimprimé dans <hi rend="i">Études d’histoire du droit médiéval</hi>, Paris, 1979, p. 273-301.</p>
-        </div>
         <div type="transcription">
           <l>La vida</l>
           <l/>
           <l>Perdigons fon joglars e saup <term n="trobar : &#34; Quelque soit l’origine (durement discutée) du mot trobar, il est clair qu’il faut en retenir, outre ce qu’il désigne, l’art des troubadours et ses productions, l’idée de découverte, qu’on retrouve dans la proximité du français trouver.…Par le trobar se dévoile la nature de l’amour, d’où il vient, ce qu’il est, qui l’éprouve, pour qui et la joie. Trouver, trobar, c’est trouver l’ amour, c’est trouver d’amour, trobar d’amor. &#34; (Jacques Roubaud, La fleur inverse. Essai sur l’art formel des troubadours, Paris, 1986, p. 185-186)." >trobar</term> e viular trop ben ;</l>
           <l>e fon de l’<term n="évêché de Gévaudan : évêché de Mende ; le pays de Gévaudan correspond à peu près à l’actuel département de la Lozère." >evescat de Gavaudan</term> d’un castel q<ex>e</ex> a nom</l>
-          <l>
-            <term n="Lesperon : Ardèche, arr. Largentière, cant. Coucouron.">Lesperon</term>
-         </l>
+          <l><term n="Lesperon : Ardèche, arr. Largentière, cant. Coucouron.">Lesperon</term></l>
           <l>e fon fills d’un paubre homen</l>
           <l>qe era pescaire ;</l>
           <l>e p<ex>er</ex> son sen e p<ex>er</ex> son trobar</l>
@@ -185,14 +179,12 @@
         <div type="translation">
           <l>La vida</l>
           <l/>
-          <l>Perdigon fut jongleur et sut très bien <term n="trobar : &#34; Quelque soit l’origine (durement discutée) du mot trobar, il est clair qu’il faut en retenir, outre ce qu’il désigne, l’art des troubadours et ses productions, l’idée de découverte, qu’on retrouve dans la proximité du français trouver.…Par le trobar se dévoile la nature de l’amour, d’où il vient, ce qu’il est, qui l’éprouve, pour qui et la joie. Trouver, trobar, c’est trouver l’ amour, c’est trouver d’amour, trobar d’amor. &#34; (Jacques Roubaud, La fleur inverse. Essai sur l’art formel des troubadours, Paris, 1986, p. 185-186)." >« trouver »</term>
-         </l>
+          <l>Perdigon fut jongleur et sut très bien <term n="trobar : &#34; Quelque soit l’origine (durement discutée) du mot trobar, il est clair qu’il faut en retenir, outre ce qu’il désigne, l’art des troubadours et ses productions, l’idée de découverte, qu’on retrouve dans la proximité du français trouver.…Par le trobar se dévoile la nature de l’amour, d’où il vient, ce qu’il est, qui l’éprouve, pour qui et la joie. Trouver, trobar, c’est trouver l’ amour, c’est trouver d’amour, trobar d’amor. &#34; (Jacques Roubaud, La fleur inverse. Essai sur l’art formel des troubadours, Paris, 1986, p. 185-186)." >« trouver »</term></l>
           <l>et jouer de la viole. Il fut de l’<term n="évêché de Gévaudan : évêché de Mende ; le pays de Gévaudan correspond à peu près à l’actuel département de la Lozère." >évêché de Gévaudan</term>, d’un</l>
           <l>bourg fortifié qui a nom <term n="Lesperon : Ardèche, arr. Largentière, cant. Coucouron.">Lesperon</term> et fut le fils</l>
           <l>d’un pauvre homme qui était pêcheur.</l>
           <l>Grâce à son intelligence et à son art, il s’éleva à un très haut</l>
-          <l>degré d’estime et d’honneur à tel point que le <term n="Dauphin d’Auvergne (? - 22 mars 1235) fils de Guillaume le Jeune, comte de Clermont à qui il succéda après 1169 peut-être après 1181-1182." >dauphin d’Auvergne</term>
-         </l>
+          <l>degré d’estime et d’honneur à tel point que le <term n="Dauphin d’Auvergne (? - 22 mars 1235) fils de Guillaume le Jeune, comte de Clermont à qui il succéda après 1169 peut-être après 1181-1182." >dauphin d’Auvergne</term></l>
           <l>l’agréa comme son chevalier et</l>
           <l>lui fournit pendant longtemps</l>
           <l>vêtements et armes en le gardant à</l>
@@ -266,37 +258,27 @@
           <l>pour une qui jamais ne respectera mon droit à la défense,</l>
           <l>mais me tuera dans sa douce prison;</l>
         </div>
+        <div type="presentation">
+          <p>Une traduction de la vida a été donnée dans l’édition de Jean Boutière et A. H. Schutz, <hi rend="i">Biographies des troubadours. Textes provençaux des XIIIe et XIVe siècles. &#201;dition refondue, augmentée d’une traduction française…</hi>, par Jean Boutière avec la collaboration d’Irénée Cluzel, Paris, 1964 (<hi rend="i">Les classiques d’oc</hi>, 1), p. 409 et 411. La traduction qui est donnée ici s’en inspire sans la reproduire et cherche à coller le plus possible au texte occitan.</p>
+          <p>La canso est constituée de cinq coblas unissonans, cinq strophes utilisant le même schéma : 10 a [-o], 10 b [-is], 10 b, 10 c [- ida], 10 c, 10 d [-en], 10 d, 10 a, 10 a] suivies d’une tornada. Une traduction accompagne l’édition Chaytor des poésies de Perdigon : la traduction qui est donnée ici s’en écarte et tient compte d’une part que le texte du chansonnier A n’est pas celui qui a été pris comme base de l’éditon Chaytor, d’autre part des remarques sur le vocabulaire juridique employé par les troubadours formulées par Giulio Bertoni, &#34; Riflessi di costumanze giuridiche nell’antica poesia di Provenza &#34;, dans <hi rend="i">Archivum romanicum</hi>, t. 1, 1917, p. 4-20, aux pages 8 à 12 pour la strophe V de cette canso, en particulier sur le sens de de plan (p. 9-10) et de batalh’aramida (p. 10-12). On trouvera une excellente vue d’ensemble sur l’utilisation par les troubadours de mots ou d’expressions juridiques par Paul Ourliac, « Troubadours et juristes », dans <hi rend="i">Cahiers de civilisation médiévale</hi>, t. 8, 1965, p. 159-177, réimprimé dans <hi rend="i">Études d’histoire du droit médiéval</hi>, Paris, 1979, p. 273-301.</p>
+        </div>
       </div>
-      <div type="commentaire" n="philologie">
+      <div type="paleography">
         <head>Commentaire linguistique</head>
         <div>
           <head>Introduction littéraire</head>
           <div>
-            <div>
-              <head>Les chansonniers</head>
-              <p>La lyrique des troubadours est apparue au début du XII<hi rend="sup" >e</hi> siècle dans le Sud-Ouest, où ses contacts avec le milieu clérical limousin lui ont sans doute permis de développer ses moyens musicaux. C’est une poésie de cour, une poésie rimée et chantée qui célèbre une conception originale de l’amour - l’amour courtois ou <foreign>fin’amor</foreign> - principalement à travers la
-                <foreign>canso</foreign><note type="footnote">« poème de quarante à soixante vers environ, répartis en strophes (<foreign>coblas</foreign>) de six à dix vers, et terminé généralement par un envoi (<foreign>tornada</foreign>) qui répète par les rimes et la mélodie la fin de la dernière strophe. Le nombre des strophes ne doit pas dépasser six. Toutes sont construites de la même façon. Les vers peuvent être de longueur différente. Le schéma métrique et l’agencement des rimes souvent complexes, doivent en principe être originaux, comme la musique. » (<bibl>Michel Zink, <title>Littérature française du Moyen âge</title>, Paris, 1992 (<series>Premier cycle</series>), p. 107.</bibl>)</note>. Cette poésie est conservée, comme d’ailleurs celle des trouvères de langue d’oïl, dans des recueils manuscrits qu’on appelle chansonniers. Les plus anciens chansonniers remontent au milieu du XIII<hi rend="sup">e</hi> siècle mais ils ne deviennent nombreux qu’à la fin du siècle ; de plus environ la moitié des chansonniers conservés provient d’Italie. <q>Au décalage chronologique - très sommairement : 1100-1200, période de création ; 1250-1350, période de récapitulation écrite -, s’ajoute un décalage géographique, indice parmi bien d’autres d’un rayonnement durable de la lyrique d’oc au-delà des frontières linguistiques.</q><note type="footnote"><bibl>Geneviève Hasehnor, <title>Les recueils lyriques</title>, dans <title>Mise en page et mise en texte du livre manuscrit</title>, sous la direction de Henri-Jean Martin et Jean Vezin, Paris, 1990, p. 329-333, à la p. 329</bibl>.</note></p>
-              <p>Les chansonniers sont des anthologies, des conservatoires des meilleurs spécimens de la lyrique ; ils présentent un choix plus ou moins étendu de pièces, signées ou anonymes, généralement groupées, en tout cas pour la poésie d’oc, par genres. Un certain nombre de chansonniers occitans se caractérisent en outre par la présence en tête des pièces attribuées à un même poète de sa biographie romancée, la
-                <foreign>vida</foreign><note type="footnote">
-                  <q>la vida, comme vie brève, est destinée à donner à un ensemble de cansos, désignées comme étant d’un même troubadour, l’unité d’une vie entièrement éclairée par l’amour.</q>
-                  <bibl>Jacques Roubaud, <title>La fleur inverse. Essai sur l’art formel des troubadours</title>, Paris, 1986, p. 194)</bibl>
-                </note> et / ou d’un commentaire littéraire de ses œuvres, la
-                <foreign>razo</foreign>. En revanche, les chansonniers occitans comportent plus rarement que les chansonniers français une notation musicale.</p>
-            </div>
-            <div>
-              <head>Le chansonnier <hi rend="i">A</hi></head>
-              <p>Le manuscrit Vatican latin 5232 de la Bibliothèque apostolique vaticane est
-                <q>l’œuvre d’un copiste provençal travaillant en Italie du Nord dans les dernières années du XIII<hi rend="sup" >e</hi> siècle ou dans les premières du XIV<hi rend="sup" >e</hi>.</q><note type="footnote">
-                  <bibl>François Zufferey, <title>Recherches linguistiques sur les chansonniers provençaux</title>, Genève, Droz, 1987 (<series>Publications romanes et françaises</series>, 176), p. 64</bibl>
-                </note>. Il présente, comme la majorité des chansonniers, le texte sur deux colonnes. Il contient la <foreign>vida</foreign> du troubadour en tête de ses <foreign>cansos</foreign> ; la première <foreign>canso</foreign> commence par une initiale illustrée figurant le troubadour ; le feuillet présenté ici (f. 158v) contient, outre la <foreign>vida</foreign>, une chanson complète (<foreign>Tot l’an mi ten amors d’aital faiso</foreign>) et les premiers vers d’une autre (<foreign>Trop ai estat q’en bon esper non vi</foreign>). On remarquera que les strophes de la <foreign>canso</foreign> sont nettement distinguées par un alinéa et l’emploi de petites lettrines de couleur mais qu’à l’intérieur de la strophe les vers s’enchaînent les uns aux autres, chaque rime étant simplement marquée par un point de facture identique à celle du point « syntaxique » employé dans le texte en prose et épisodiquement dans le texte en vers (voir ligne 3 de la colonne de droite : <foreign>mas de ma mort. c’aissi lor abellis</foreign>).</p>
-            </div>
-            <div>
-              <head>Le poète<note type="footnote">
-                <bibl><title>Les chansons de Perdigon</title> éditées par H. J. Chaytor, Paris, 1926 (<series>Classiques français du Moyen âge</series>, 53)</bibl>
-              </note></head>
-              <p>On peut dater la douzaine de pièces attribuées à Perdigon entre les années 1195 et 1212 ; sa réputation est attestée par le nombre de manuscrits qui conservent ses œuvres, les nombreuses citations dont il fait l’objet chez d’autres troubadours ainsi que par les traductions et imitations qu’en ont faites les poètes italiens. Les données biographiques qu’on a voulu tirer des deux
-                <foreign>vidas</foreign> qui le concernent sont hypothétiques<note type="footnote"><bibl>Ernest Hoepffner, <title>La biographie de Perdigon</title>, dans <title>Romania</title>, t. 53, 1927, p. 343-364</bibl>.</note>.</p>
-            </div>
+            <head>Les chansonniers</head>
+            <p>La lyrique des troubadours est apparue au début du XII<hi rend="sup" >e</hi> siècle dans le Sud-Ouest, où ses contacts avec le milieu clérical limousin lui ont sans doute permis de développer ses moyens musicaux. C’est une poésie de cour, une poésie rimée et chantée qui célèbre une conception originale de l’amour - l’amour courtois ou <foreign>fin’amor</foreign> - principalement à travers la <foreign>canso</foreign><note type="footnote">« poème de quarante à soixante vers environ, répartis en strophes (<foreign>coblas</foreign>) de six à dix vers, et terminé généralement par un envoi (<foreign>tornada</foreign>) qui répète par les rimes et la mélodie la fin de la dernière strophe. Le nombre des strophes ne doit pas dépasser six. Toutes sont construites de la même façon. Les vers peuvent être de longueur différente. Le schéma métrique et l’agencement des rimes souvent complexes, doivent en principe être originaux, comme la musique. » (<bibl>Michel Zink, <title>Littérature française du Moyen âge</title>, Paris, 1992 (<series>Premier cycle</series>), p. 107.</bibl>)</note>. Cette poésie est conservée, comme d’ailleurs celle des trouvères de langue d’oïl, dans des recueils manuscrits qu’on appelle chansonniers. Les plus anciens chansonniers remontent au milieu du XIII<hi rend="sup">e</hi> siècle mais ils ne deviennent nombreux qu’à la fin du siècle ; de plus environ la moitié des chansonniers conservés provient d’Italie. <q>Au décalage chronologique - très sommairement : 1100-1200, période de création ; 1250-1350, période de récapitulation écrite -, s’ajoute un décalage géographique, indice parmi bien d’autres d’un rayonnement durable de la lyrique d’oc au-delà des frontières linguistiques.</q><note type="footnote"><bibl>Geneviève Hasehnor, <title>Les recueils lyriques</title>, dans <title>Mise en page et mise en texte du livre manuscrit</title>, sous la direction de Henri-Jean Martin et Jean Vezin, Paris, 1990, p. 329-333, à la p. 329</bibl>.</note></p>
+            <p>Les chansonniers sont des anthologies, des conservatoires des meilleurs spécimens de la lyrique ; ils présentent un choix plus ou moins étendu de pièces, signées ou anonymes, généralement groupées, en tout cas pour la poésie d’oc, par genres. Un certain nombre de chansonniers occitans se caractérisent en outre par la présence en tête des pièces attribuées à un même poète de sa biographie romancée, la <foreign>vida</foreign><note type="footnote"><q>la vida, comme vie brève, est destinée à donner à un ensemble de cansos, désignées comme étant d’un même troubadour, l’unité d’une vie entièrement éclairée par l’amour.</q> <bibl>Jacques Roubaud, <title>La fleur inverse. Essai sur l’art formel des troubadours</title>, Paris, 1986, p. 194)</bibl></note> et / ou d’un commentaire littéraire de ses œuvres, la <foreign>razo</foreign>. En revanche, les chansonniers occitans comportent plus rarement que les chansonniers français une notation musicale.</p>
+          </div>
+          <div>
+            <head>Le chansonnier <hi rend="i">A</hi></head>
+            <p>Le manuscrit Vatican latin 5232 de la Bibliothèque apostolique vaticane est <q>l’œuvre d’un copiste provençal travaillant en Italie du Nord dans les dernières années du XIII<hi rend="sup" >e</hi> siècle ou dans les premières du XIV<hi rend="sup" >e</hi>.</q><note type="footnote"><bibl>François Zufferey, <title>Recherches linguistiques sur les chansonniers provençaux</title>, Genève, Droz, 1987 (<series>Publications romanes et françaises</series>, 176), p. 64</bibl></note>. Il présente, comme la majorité des chansonniers, le texte sur deux colonnes. Il contient la <foreign>vida</foreign> du troubadour en tête de ses <foreign>cansos</foreign> ; la première <foreign>canso</foreign> commence par une initiale illustrée figurant le troubadour ; le feuillet présenté ici (f. 158v) contient, outre la <foreign>vida</foreign>, une chanson complète (<foreign>Tot l’an mi ten amors d’aital faiso</foreign>) et les premiers vers d’une autre (<foreign>Trop ai estat q’en bon esper non vi</foreign>). On remarquera que les strophes de la <foreign>canso</foreign> sont nettement distinguées par un alinéa et l’emploi de petites lettrines de couleur mais qu’à l’intérieur de la strophe les vers s’enchaînent les uns aux autres, chaque rime étant simplement marquée par un point de facture identique à celle du point « syntaxique » employé dans le texte en prose et épisodiquement dans le texte en vers (voir ligne 3 de la colonne de droite : <foreign>mas de ma mort. c’aissi lor abellis</foreign>).</p>
+          </div>
+          <div>
+            <head>Le poète<note type="footnote"><bibl><title>Les chansons de Perdigon</title> éditées par H. J. Chaytor, Paris, 1926 (<series>Classiques français du Moyen âge</series>, 53)</bibl></note></head>
+            <p>On peut dater la douzaine de pièces attribuées à Perdigon entre les années 1195 et 1212 ; sa réputation est attestée par le nombre de manuscrits qui conservent ses œuvres, les nombreuses citations dont il fait l’objet chez d’autres troubadours ainsi que par les traductions et imitations qu’en ont faites les poètes italiens. Les données biographiques qu’on a voulu tirer des deux <foreign>vidas</foreign> qui le concernent sont hypothétiques<note type="footnote"><bibl>Ernest Hoepffner, <title>La biographie de Perdigon</title>, dans <title>Romania</title>, t. 53, 1927, p. 343-364</bibl>.</note>.</p>
           </div>
         </div>
         <div>
@@ -308,9 +290,7 @@
               <l>bar e viular trop ben ; e fon de l’eves-</l>
               <l>-cat de Gavaudan d’un castel qe a nom</l>
               <l>Lesperon e fon fills d’un paubre homen</l>
-              <l><seg corresp="qe">qe</seg> era pescaire ; e per son sen e per son trobar
-                <note id="qe"><hi rend="souligne">q</hi> surmont&#201; d’un tilde est d&#201;velopp&#201; <hi rend="souligne" >qe</hi>, les formes d&#201;velopp&#201;es &#171; qe &#187; &#201;tant plus nombreuses que les formes d&#201;lopp&#201;es &#171; que &#187; F. Zufferey, <hi rend="i">op. cit</hi>., p. 45 : &#171; on peut relever que le copiste de <hi rend="i">A</hi> parait pr&#201;f&#201;rer q &#232; qu &#187;.</note>
-             </l>
+              <l><seg corresp="qe">qe</seg> era pescaire ; e per son sen e per son trobar <note id="qe"><hi rend="souligne">q</hi> surmont&#201; d’un tilde est d&#201;velopp&#201; <hi rend="souligne" >qe</hi>, les formes d&#201;velopp&#201;es &#171; qe &#187; &#201;tant plus nombreuses que les formes d&#201;lopp&#201;es &#171; que &#187; F. Zufferey, <hi rend="i">op. cit</hi>., p. 45 : &#171; on peut relever que le copiste de <hi rend="i">A</hi> parait pr&#201;f&#201;rer q &#232; qu &#187;.</note></l>
               <l>poiet en gran pretz <seg corresp="et">et</seg> en gran honor, tant<note id="et">La r&#201;solution de l’abr&#201;viation doit se faire en tenant compte que la coordination est not&#201;e <hi rend="souligne">e</hi> devant un mot commen&#199;ant par une consonne -voir <hi rend="souligne">e saup</hi> &#232; la premi&#232;re ligne- mais <hi rend="souligne" >et</hi> devant un mot commen&#199;ant par une voyelle -voir et aqui &#232; la derni&#232;e ligne de la <hi rend="i" >vida</hi>-.</note></l>
               <l><seg corresp="qel">qe<hi rend="sup">.</hi>l</seg> dalfins d’Alvernge lo tenc per son<note id="qel">qe<hi rend="sup">.</hi>l dalfins = enclise de <hi rend="souligne" >lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">qe.</hi></note></l>
               <l>cavallier <seg corresp="el">e.l</seg> vestic e l’armet ab se lonc<note id="el">e<hi rend="sup">.</hi>l vestic e l’armet = enclise de <hi rend="souligne">lo</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 3) sur <hi rend="souligne">et</hi> : si le pronom pr&#201;c&#232;de un verbe commen&#199;ant par une voyelle, on privil&#201;gie l’&#201;lision par proclise sur l’enclise.</note></l>
@@ -320,8 +300,7 @@
               <l>aventuras mas mout li camieron pois</l>
               <l>las bonas aventuras e vengron li las</l>
               <l>malas qez el perdet los amics e las ami-</l>
-              <l> -gas <seg corresp="el2">e<hi rend="sup">.</hi>l</seg>
-                <note id="el2">e<hi rend="sup">.</hi>l pretz e l’onor e l’aver = enclise de <hi rend="souligne" >lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">et</hi> ; si l’article pr&#201;c&#232;de un mot commen&#199;ant par une voyelle, on privil&#201;gie l’&#201;lision par proclise sur l’enclise.</note></l>
+              <l> -gas <seg corresp="el2">e<hi rend="sup">.</hi>l</seg><note id="el2">e<hi rend="sup">.</hi>l pretz e l’onor e l’aver = enclise de <hi rend="souligne" >lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">et</hi> ; si l’article pr&#201;c&#232;de un mot commen&#199;ant par une voyelle, on privil&#201;gie l’&#201;lision par proclise sur l’enclise.</note></l>
               <l>pretz e l’onor e l’aver e pois el se ren-</l>
               <l> det en l’orden de Cistel e lai moric. Et aqui</l>
               <l>son escriutas de las soas canssos.</l>
@@ -330,99 +309,66 @@
               <l><hi rend="strong">T</hi>ot l’an mi ten</l>
               <l>Amors d’aital fai-</l>
               <l>-so / cum estai cel</l>
-              <l>q’<seg corresp="al">a<hi rend="sup">.</hi>l</seg> mal dond s’a- <note id="al"><hi rend="sup">.</hi>l = enclise de <hi rend="souligne">lo</hi> (article f&#201;minin masculin singulier) sur <hi rend="souligne">a</hi></note>
-             </l>
+              <l>q’<seg corresp="al">a<hi rend="sup">.</hi>l</seg> mal dond s’a- <note id="al"><hi rend="sup">.</hi>l = enclise de <hi rend="souligne">lo</hi> (article f&#201;minin masculin singulier) sur <hi rend="souligne">a</hi></note></l>
               <l>-dormis / e morria</l>
               <l>dormen, tant es</l>
               <l>conquis, / en breu</l>
               <l>d’ora, entro c’om lo ressida ;/ atressi m’es</l>
-              <l>tals dolors demedida / <seg corresp="qe2">qe<hi rend="sup">.</hi>m</seg>
-                <seg corresp="don">don</seg>’Amors <note id="qe2" >qe<hi rend="sup">.</hi>m = enclise de <hi rend="souligne" >mi</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 1) sur <hi rend="souligne">qe</hi></note>
-                <note id="don">don’amors = &#201;lision de a final post-tonique de <hi rend="souligne">dona</hi> (personne 3 de l’indicatif pr&#201;sent de <hi rend="souligne" >donar</hi>) devant un mot commen&#199;ant par une voyelle</note></l>
-              <l>que sol <seg corresp="nom">no<hi rend="sup">.</hi>m</seg> sai <seg corresp="nim">ni<hi rend="sup">.</hi>m</seg> sen, / e cuich mo-
-                <note id="nim">ni<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">ni</hi></note>
-                <note id="nom">no<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 1) sur <hi rend="souligne" >non</hi></note>
-             </l>
+              <l>tals dolors demedida / <seg corresp="qe2">qe<hi rend="sup">.</hi>m</seg> <seg corresp="don">don</seg>’Amors <note id="qe2" >qe<hi rend="sup">.</hi>m = enclise de <hi rend="souligne" >mi</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 1) sur <hi rend="souligne">qe</hi></note><note id="don">don’amors = &#201;lision de a final post-tonique de <hi rend="souligne">dona</hi> (personne 3 de l’indicatif pr&#201;sent de <hi rend="souligne" >donar</hi>) devant un mot commen&#199;ant par une voyelle</note></l>
+              <l>que sol <seg corresp="nom">no<hi rend="sup">.</hi>m</seg> sai <seg corresp="nim">ni<hi rend="sup">.</hi>m</seg> sen, / e cuich mo-<note id="nim">ni<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">ni</hi></note><note id="nom">no<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 1) sur <hi rend="souligne" >non</hi></note></l>
               <l> -rir ab aqest marrimen, / tro qe m’esfortz</l>
-              <l>de far una chansso / <seg corresp="qem">qe<hi rend="sup">.</hi>m</seg> resside d’aqest <note id="qem"><hi rend="sup" >.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne" >qe</hi></note>
-             </l>
+              <l>de far una chansso / <seg corresp="qem">qe<hi rend="sup">.</hi>m</seg> resside d’aqest <note id="qem"><hi rend="sup" >.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne" >qe</hi></note></l>
               <l>tormen on fo.</l>
             </lg>
             <lg>
               <l><hi rend="strong">B</hi>en fetz Amors l’usatge del larro / qand</l>
-              <l>encontra cellui d’estraing pays / <seg corresp="eil3">e<hi rend="sup">.</hi>il</seg>fai <note id="eil3">e<hi rend="sup">.</hi>il fai = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne">et</hi></note>
-             </l>
+              <l>encontra cellui d’estraing pays / <seg corresp="eil3">e<hi rend="sup">.</hi>il</seg>fai <note id="eil3">e<hi rend="sup">.</hi>il fai = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne">et</hi></note></l>
               <l>creire c’aillors es sos camis, / tro qu’el li</l>
               <l>ditz : &#171; Bels amics, tu mi guida &#187; / et enaissi</l>
-              <l>es mainta gens trahida / qe <seg corresp="lail">lai<hi rend="sup" >.</hi>l</seg> mena <note id="lail">lai<hi rend="sup" >.</hi>l mena = enclise de <hi rend="souligne">lo</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 3) sur <hi rend="souligne">lai</hi></note>
-             </l>
-              <l>on puois lo lia <seg corresp="el3">e<hi rend="sup" >.</hi>l</seg> pren ; / et eu puosc dir <note id="el3">e<hi rend="sup">.</hi>l pren = enclise de <hi rend="souligne">lo</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 3) sur <hi rend="souligne">et</hi></note>
-             </l>
+              <l>es mainta gens trahida / qe <seg corresp="lail">lai<hi rend="sup" >.</hi>l</seg> mena <note id="lail">lai<hi rend="sup" >.</hi>l mena = enclise de <hi rend="souligne">lo</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 3) sur <hi rend="souligne">lai</hi></note></l>
+              <l>on puois lo lia <seg corresp="el3">e<hi rend="sup" >.</hi>l</seg> pren ; / et eu puosc dir <note id="el3">e<hi rend="sup">.</hi>l pren = enclise de <hi rend="souligne">lo</hi> (pronom personnel r&#201;gime direct faible masculin singulier de personne 3) sur <hi rend="souligne">et</hi></note></l>
               <l>atressi veramen / qez eu segei Amor</l>
-              <l>tant <seg corresp="coil">co<hi rend="sup">.</hi>il</seg> saup bo, / tant mi menet tro [colonne b] <note id="coil">co<hi rend="sup">.</hi>il saup = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne">com</hi>.</note>
-             </l>
+              <l>tant <seg corresp="coil">co<hi rend="sup">.</hi>il</seg> saup bo, / tant mi menet tro [colonne b] <note id="coil">co<hi rend="sup">.</hi>il saup = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne">com</hi>.</note></l>
               <l>m’ac en sa preiso.</l>
             </lg>
             <lg>
-              <l><hi rend="strong">E</hi>
-                <seg corresp="tem">te<hi rend="sup">.</hi>m</seg> lai pres on non trob rezensso / <note id="tem">te<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">ten</hi> (personne 3 de l’indicatif pr&#201;sent de <hi rend="souligne">tener</hi>)</note></l>
+              <l><hi rend="strong">E</hi> <seg corresp="tem">te<hi rend="sup">.</hi>m</seg> lai pres on non trob rezensso / <note id="tem">te<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">ten</hi> (personne 3 de l’indicatif pr&#201;sent de <hi rend="souligne">tener</hi>)</note></l>
               <l>mas de ma mort c’aissi lor abellis / en-</l>
               <l>-tre midonz et Amors cui sui fis : / lor platz</l>
               <l>ma mortz e lor es abellida, / mas eu sui</l>
               <l>cel que merce no lor crida / plus cum</l>
               <l>fai cel q’es liuratz a tormen / que sap</l>
-              <l>que plus <seg corresp="noil">no<hi rend="sup">.</hi>il</seg> valria nien / clamar <note id="noil">no<hi rend="sup">.</hi>il = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne" >non</hi></note>
-             </l>
+              <l>que plus <seg corresp="noil">no<hi rend="sup">.</hi>il</seg> valria nien / clamar <note id="noil">no<hi rend="sup">.</hi>il = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne" >non</hi></note></l>
               <l>merce, aia tort o razo : / per q’eu m’en lais</l>
               <l>qe mot non lor en so.</l>
             </lg>
             <lg>
               <l><hi rend="strong">P</hi>ero non sai cal me fassa o cal no /</l>
-              <l>pois per mon dan m’engana <seg corresp="em">e<hi rend="sup" >.</hi>m</seg> trahis / Am- <note id="em">e<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">et</hi></note>
-             </l>
+              <l>pois per mon dan m’engana <seg corresp="em">e<hi rend="sup" >.</hi>m</seg> trahis / Am- <note id="em">e<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">et</hi></note></l>
               <l>-ors vas cui estau totz temps aclis / al</l>
-              <l>sieu plazer c’aitals fo m’escarida ; / e<seg corresp="ten"> ten-</seg>
-                <note id="ten">tengr’o = &#201;lision de a final post-tonique de <hi rend="souligne">tengra</hi> (personne 1 du conditionnel II de <hi rend="souligne">tener</hi>) devant un mot commen&#199;ant par une voyelle</note>
-             </l>
-              <l>-gr’o trop a paraula grazida / sol <seg corresp="nom2">no<hi rend="sup">.</hi></seg>m<hi rend="sup">
-                <note type="footnote">sol no<hi rend="sup">.</hi>m. La le&#199;on est partag&#201;e avec le chansonnier <hi rend="i">B</hi>. Tous les autres manuscrits ont <hi rend="souligne">si no<hi rend="sup">.</hi>m</hi> qui est meilleur, <hi rend="souligne">si</hi> &#201;tant n&#201;cessaire pour la construction de la phrase (&#171; je consid&#201;rerais cela&#133; si il ne me montrait&#133;&#187;)</note>
-              </hi>
-                <note id="nom2">no<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">non</hi></note>
-             </l>
+              <l>sieu plazer c’aitals fo m’escarida ; / e<seg corresp="ten"> ten-</seg><note id="ten">tengr’o = &#201;lision de a final post-tonique de <hi rend="souligne">tengra</hi> (personne 1 du conditionnel II de <hi rend="souligne">tener</hi>) devant un mot commen&#199;ant par une voyelle</note></l>
+              <l>-gr’o trop a paraula grazida / sol <seg corresp="nom2">no<hi rend="sup">.</hi></seg>m<hi rend="sup"><note type="footnote">sol no<hi rend="sup">.</hi>m. La le&#199;on est partag&#201;e avec le chansonnier <hi rend="i">B</hi>. Tous les autres manuscrits ont <hi rend="souligne">si no<hi rend="sup">.</hi>m</hi> qui est meilleur, <hi rend="souligne">si</hi> &#201;tant n&#201;cessaire pour la construction de la phrase (&#171; je consid&#201;rerais cela&#133; si il ne me montrait&#133;&#187;)</note></hi><note id="nom2">no<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">non</hi></note></l>
               <l>mostres tant brau chaptenemen / mas</l>
-              <l><seg corresp="sill">sill s’aunis</seg>
-                <seg corresp="pel">pe<hi rend="sup">.</hi>l</seg> mieu dechazemen / ben
-                <note id="sill">sill s’aunis. La le&#199;on est partag&#201;e par les chansonniers <hi rend="i">B D G Q</hi>. Les autres manuscrits ont <hi rend="souligne">se aunis</hi>. <hi rend="souligne">Sill</hi> est une forme de d&#201;monstratif sujet pluriel, on peut d&#201;fendre la le&#199;on du manuscrit en corrigeant <hi rend="souligne">sill</hi> en <hi rend="souligne" >sell</hi>, quoiqu’il offre la forme <hi rend="souligne" >cel</hi> dans la troisi&#232;me strophe </note>
-                <note id="pel">pe<hi rend="sup">.</hi>l mieu = enclise de <hi rend="souligne">lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">per</hi></note>
-             </l>
+              <l><seg corresp="sill">sill s’aunis</seg> <seg corresp="pel">pe<hi rend="sup">.</hi>l</seg> mieu dechazemen / ben<note id="sill">sill s’aunis. La le&#199;on est partag&#201;e par les chansonniers <hi rend="i">B D G Q</hi>. Les autres manuscrits ont <hi rend="souligne">se aunis</hi>. <hi rend="souligne">Sill</hi> est une forme de d&#201;monstratif sujet pluriel, on peut d&#201;fendre la le&#199;on du manuscrit en corrigeant <hi rend="souligne">sill</hi> en <hi rend="souligne" >sell</hi>, quoiqu’il offre la forme <hi rend="souligne" >cel</hi> dans la troisi&#232;me strophe </note><note id="pel">pe<hi rend="sup">.</hi>l mieu = enclise de <hi rend="souligne">lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">per</hi></note></l>
               <l>fai semblan qe m’aia cor fello / qe per mon</l>
               <l>dan non tem far mespreiso.</l>
             </lg>
             <lg>
               <l><hi rend="strong">E</hi> fatz esfortz s’ab ira joi mi do / mas en</l>
-              <l><seg corresp="aisso">aisso<hi rend="sup">.</hi>m</seg> conort e m’afortis / <seg corresp="contra">contra.l</seg> de- <note id="aisso">aisso<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">aisso</hi></note>
-                <note id="contra">contra.l = enclise de <hi rend="souligne" >lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">contra</hi></note>
-             </l>
+              <l><seg corresp="aisso">aisso<hi rend="sup">.</hi>m</seg> conort e m’afortis / <seg corresp="contra">contra.l</seg> de- <note id="aisso">aisso<hi rend="sup">.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">aisso</hi></note><note id="contra">contra.l = enclise de <hi rend="souligne" >lo</hi> (article d&#201;fini masculin singulier) sur <hi rend="souligne">contra</hi></note></l>
               <l>-sir en c’Amors m’a assis, / aissi cum cel</l>
-              <l>c’a <seg corresp="bataill">bataill’aramida</seg>, / qe sap de plan sa <note id="bataill">bataill’aramida = &#201;lision de a final post-tonique de <hi rend="souligne" >batailla</hi> devant un mot commen&#199;ant par une voyelle</note>
-             </l>
+              <l>c’a <seg corresp="bataill">bataill’aramida</seg>, / qe sap de plan sa <note id="bataill">bataill’aramida = &#201;lision de a final post-tonique de <hi rend="souligne" >batailla</hi> devant un mot commen&#199;ant par une voyelle</note></l>
               <l>razos es delida / qand es en cort on hom</l>
-              <l>dreich <seg corresp="noill">no<hi rend="sup">.</hi>ill</seg> consen, / et ab tot so <seg corresp="sis">si<hi rend="sup">.</hi>s</seg>
-                <note id="noill">no<hi rend="sup">.</hi>ill = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne">non</hi></note>
-                <note id="sis">si<hi rend="sup">.</hi>s = enclise de <hi rend="souligne">si</hi> (pronom personnel r&#201;fl&#232;chi faible masculin singulier de personne 3) sur <hi rend="souligne">si.
-                </hi></note>
-             </l>
+              <l>dreich <seg corresp="noill">no<hi rend="sup">.</hi>ill</seg> consen, / et ab tot so <seg corresp="sis">si<hi rend="sup">.</hi>s</seg><note id="noill">no<hi rend="sup">.</hi>ill = enclise de <hi rend="souligne">li</hi> (pronom personnel r&#201;gime indirect faible masculin singulier de personne 3) sur <hi rend="souligne">non</hi></note><note id="sis">si<hi rend="sup">.</hi>s = enclise de <hi rend="souligne">si</hi> (pronom personnel r&#201;fl&#232;chi faible masculin singulier de personne 3) sur <hi rend="souligne">si.</hi></note></l>
               <l>combat eissamen / mi combat eu en</l>
-              <l>cort on<seg corresp="no"> no<hi rend="sup">.</hi>m</seg> ten pro / qe Amors m’a for- <note id="no">no<hi rend="sup" >.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne" >non</hi></note>
-             </l>
+              <l>cort on<seg corresp="no"> no<hi rend="sup">.</hi>m</seg> ten pro / qe Amors m’a for- <note id="no">no<hi rend="sup" >.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne" >non</hi></note></l>
               <l>-jutgat non sai co.</l>
             </lg>
             <lg>
               <l><hi rend="strong">A</hi>i Bel Esper pros dompna issernida / tant</l>
               <l>grans dreitz es si d’Amor mal mi pren /</l>
               <l>car anc de vos mi parti, las, dolen, / per cel</l>
-              <l>una qe ja <seg corresp="nom3">no<hi rend="sup">.</hi>m</seg> tenra pro / anz m’aucira <note id="nom3">no<hi rend="sup" >.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">non</hi></note>
-             </l>
+              <l>una qe ja <seg corresp="nom3">no<hi rend="sup">.</hi>m</seg> tenra pro / anz m’aucira <note id="nom3">no<hi rend="sup" >.</hi>m = enclise de <hi rend="souligne">mi</hi> sur <hi rend="souligne">non</hi></note></l>
               <l>en sa doussa preiso.</l>
             </lg>
           </div>
