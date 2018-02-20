@@ -27,8 +27,8 @@
 *   24 listBibl
 *   21 sup
 *   17 label
-*    9 xref
-*    8 span
+*    <strike>9 xref</strike>
+*    <strike>8 span</strike>
 *    7 lg
 *    7 i
 *    7 editor
@@ -68,7 +68,22 @@ div[@type="facsimile"]
 
 
 **enrichissement typographique**
-* `hi[@rend="i|sc|sup"]`
+* italique (`tei:hi[@rend="i"]` => `html:i` | `html:em` AND `html:cite` ?)
+* gras (`tei:hi[@rend="b"]` => `html:b` | `html:strong`)
+* sous-ligné (`tei:hi[@rend="u"]` => `html:u` – déprécié, on remplace par quoi ?)
+* exposant (`tei:hi[@rend="sup"]` => `html:sup`)
+* petites caps (`tei:hi[@rend="sc"]` => `html:span[@class="sc"]`)
+* citations inline (`«`,`»`) (`tei:quote`=> `html:q`)
+* des liens (`tei:ref[@target]` => `html:a[@href]`)
+
+**structure éditoriale**
+* titres hiérarchiques (`tei:head` => `html:h1`, `html:h2`, `html:h3`…)
+* blocs citation (`tei:quote` => `html:blockquote`)
+
+**transcription**
+* développement abréviation (`tei:ex` => `html:span[@class="ex"] | tei:ins` ?)
+* texte supprimé (`tei:del` => `html:del`)
+
 
 **partie du discours, typologie**
 
