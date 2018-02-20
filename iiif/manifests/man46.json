@@ -1,5 +1,5 @@
 {
-    "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man46.json",
+    "@id": "https://193.48.42.68/adele/iiif/manifests/man46.json",
     "@type": "sc:Manifest",
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "label": "Dossier documentaire 46",

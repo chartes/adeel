@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/collection.json",
+  "@id": "https://193.48.42.68/adele/iiif/collections/dossiers_facsim.json",
   "@type": "sc:Collection",
   "label": "Collection des dossiers documentaires Adele" ,
   "description": "Les dossiers sont constitués à partir de la riche collection de fac-similés de l'École.",
@@ -8,567 +8,567 @@
 
   "manifests": [
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man1.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man1.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 1"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man10.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man10.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 10"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man100.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man100.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 100"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man101.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man101.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 101"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man102.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man102.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 102"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man103.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man103.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 103"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man104.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man104.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 104"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man105.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man105.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 105"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man106.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man106.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 106"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man107.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man107.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 107"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man108.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man108.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 108"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man109.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man109.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 109"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man110.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man110.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 110"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man111.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man111.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 111"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man112.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man112.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 112"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man113.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man113.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 113"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man114.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man114.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 114"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man115.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man115.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 115"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man116.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man116.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 116"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man117.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man117.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 117"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man13.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man13.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 13"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man15.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man15.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 15"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man16.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man16.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 16"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man17.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man17.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 17"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man18.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man18.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 18"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man19.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man19.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 19"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man2.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man2.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 2"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man20.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man20.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 20"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man22.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man22.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 22"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man23.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man23.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 23"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man24.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man24.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 24"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man25.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man25.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 25"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man26.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man26.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 26"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man27.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man27.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 27"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man28.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man28.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 28"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man29.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man29.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 29"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man3.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man3.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 3"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man30.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man30.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 30"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man31.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man31.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 31"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man32.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man32.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 32"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man33.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man33.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 33"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man34.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man34.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 34"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man35.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man35.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 35"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man36.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man36.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 36"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man37.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man37.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 37"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man38.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man38.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 38"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man39.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man39.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 39"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man4.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man4.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 4"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man40.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man40.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 40"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man41.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man41.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 41"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man42.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man42.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 42"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man43.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man43.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 43"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man44.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man44.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 44"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man45.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man45.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 45"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man46.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man46.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 46"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man47.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man47.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 47"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man48.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man48.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 48"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man49.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man49.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 49"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man5.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man5.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 5"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man50.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man50.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 50"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man51.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man51.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 51"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man52.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man52.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 52"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man53.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man53.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 53"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man54.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man54.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 54"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man55.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man55.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 55"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man56.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man56.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 56"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man57.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man57.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 57"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man58.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man58.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 58"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man59.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man59.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 59"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man6.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man6.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 6"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man60.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man60.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 60"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man61.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man61.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 61"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man62.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man62.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 62"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man63.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man63.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 63"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man64.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man64.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 64"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man65.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man65.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 65"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man66.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man66.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 66"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man67.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man67.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 67"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man68.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man68.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 68"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man69.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man69.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 69"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man7.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man7.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 7"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man70.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man70.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 70"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man71.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man71.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 71"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man72.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man72.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 72"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man73.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man73.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 73"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man74.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man74.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 74"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man75.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man75.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 75"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man76.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man76.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 76"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man77.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man77.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 77"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man78.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man78.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 78"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man79.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man79.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 79"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man8.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man8.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 8"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man80.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man80.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 80"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man81.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man81.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 81"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man82.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man82.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 82"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man83.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man83.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 83"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man84.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man84.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 84"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man85.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man85.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 85"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man86.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man86.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 86"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man87.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man87.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 87"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man88.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man88.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 88"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man89.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man89.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 89"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man9.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man9.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 9"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man90.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man90.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 90"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man91.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man91.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 91"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man92.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man92.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 92"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man93.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man93.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 93"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man94.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man94.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 94"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man95.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man95.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 95"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man96.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man96.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 96"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man97.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man97.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 97"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man98.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man98.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 98"
     },
     { 
-       "@id": "https://raw.githubusercontent.com/chartes/adele/master/dossiers/manifests/man99.json",
+       "@id": "https://193.48.42.68/adele/iiif/manifests/man99.json",
       "@type": "sc:Manifest",
       "label" : "Dossier documentaire 99"
     }
