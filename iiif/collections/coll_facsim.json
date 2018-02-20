@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://193.48.42.68/adele/iiif/collections/coll_facsim.json",
+  "@id": "http://193.48.42.68/adele/iiif/collections/coll_facsim.json",
   "@type": "sc:Collection",
   "label": "Collection des dossiers documentaires Adele" ,
   "description": "Les dossiers sont constitués à partir de la riche collection de fac-similés de l'École.",
