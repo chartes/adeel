@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -299,7 +301,35 @@
           <head>Hugues de Saint-Victor pédagogue</head>
           <p>Selon le passage, la pédagogie d’Hugues est marquée par deux traits principaux : <list>
             <item>l’optimisme : un souci de modération pousse le victorin à n’exclure personne de son enseignement. Le maître ne cherche pas tant à condamner qu’à redresser le mal là où il se trouve pour en tirer un bien. </item>
-            <item>la division : afin de mieux transmettre son enseignement, Hugues divise chaque ensemble théorique en autant de points eux-mêmes détaillés et subdivisés. On peut ainsi représenter sous la forme d’un diagramme la manière dont il procède au début du livre six : <graphic url="diagramme.jpg"/>
+            <item>la division : afin de mieux transmettre son enseignement, Hugues divise chaque ensemble théorique en autant de points eux-mêmes détaillés et subdivisés. On peut ainsi représenter la manière dont il procède au début du livre six :
+              <list>
+                <item>lecture
+                  <list>
+                    <item>ordre
+                      <list>
+                        <item>matière
+                          <list>
+                            <item>histoire
+                              <list>
+                                <item>personne</item>
+                                <item>fait</item>
+                                <item>temps</item>
+                                <item>lieu</item>
+                              </list>
+                            </item>
+                            <item>allégorie</item>
+                            <item>tropologie</item>
+                          </list>
+                        </item>
+                        <item>livres</item>
+                        <item>narration</item>
+                        <item>explication</item>
+                      </list>
+                    </item>
+                    <item>manière</item>
+                  </list>
+                </item>
+              </list>
             </item>
           </list>
           </p>

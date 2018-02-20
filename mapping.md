@@ -39,13 +39,13 @@
 *    3 series
 *    3 q
 *    2 del
-*    2 br
-*    1 u
+*    <strike>2 br</strike>
+*    <strike>1 u</strike>
 *    1 quote
-*    1 graphic
-*    1 edition
-*    1 blockquote
-*    1 a
+*    <strike>1 graphic</strike>
+*    <strike>1 edition</strike>
+*    <strike>1 blockquote</strike>
+*    <strike>1 a</strike>
 
 
 # structure `body`
