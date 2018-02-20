@@ -1,5 +1,5 @@
 {
-    "@id": "https://193.48.42.68/adele/iiif/manifests/man79.json",
+    "@id": "http://193.48.42.68/adele/iiif/manifests/man79.json",
     "@type": "sc:Manifest",
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "label": "Dossier documentaire 79",
