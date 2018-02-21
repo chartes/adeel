@@ -46,6 +46,7 @@
 *    <strike>1 edition</strike>
 *    <strike>1 blockquote</strike>
 *    <strike>1 a</strike>
+* <strike>commentaires</strike>
 
 
 # structure `body`
