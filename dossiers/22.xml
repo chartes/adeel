@@ -145,23 +145,23 @@
           <head>Caractères externes</head>
           <figure rend="22/faxexternes.jpg">
             <figDesc>
-              <seg rend="234,42,250,41,270,42,288,42,303,44,315,48,316,55,296,58,288,59,278,60,264,61,252,61,236,58,225,56,210,52,212,44" >S&#201;v&#201;rit&#201; relative des abr&#201;viations.</seg>
+              <seg rend="234,42,250,41,270,42,288,42,303,44,315,48,316,55,296,58,288,59,278,60,264,61,252,61,236,58,225,56,210,52,212,44" >Sévérité relative des abréviations.</seg>
               <seg rend="577,83,583,77,590,76,597,83,592,92,584,92,579,88" >Absence de marquage des coupures de mots en fin de ligne.</seg>
-              <seg rend="262,101,274,100,283,101,288,106,291,110,283,114,279,115,272,117,264,115,258,113,255,109" >i point&#201; par un trait oblique appuy&#201;.</seg>
-              <seg rend="140,227,152,224,168,221,186,223,196,229,195,234,185,238,169,241,157,241,145,239,141,233" >Cursivit&#201; du trac&#201; des lettres.</seg>
+              <seg rend="262,101,274,100,283,101,288,106,291,110,283,114,279,115,272,117,264,115,258,113,255,109" >i pointé par un trait oblique appuyé.</seg>
+              <seg rend="140,227,152,224,168,221,186,223,196,229,195,234,185,238,169,241,157,241,145,239,141,233" >Cursivité du tracé des lettres.</seg>
               <seg rend="499,308,520,308,536,309,558,314,571,320,560,327,543,331,527,332,513,335,494,331,477,331,465,327,455,324,455,316,468,312,480,311" >Traits interdisant un ajout.</seg>
               <seg rend="294,346,315,352,324,365,328,381,324,391,318,400,308,405,288,407,274,401,268,389,264,371,271,359,280,350" >Double queue de parchemin.</seg>
             </figDesc>
           </figure>
-          <p>Noter l'absence presque totale de souci d&#201;coratif ; les majuscules &#192;traits redoubl&#201;s (premi&#232;re et derni&#232;re ligne) servent surtout &#192;scander le d&#201;but et la fin du discours diplomatique (ou avec le mois, &#192;achever l'acte avec une certaine emphase).</p>
+          <p>Noter l'absence presque totale de souci décoratif ; les majuscules &#192;traits redoublés (premi&#232;re et derni&#232;re ligne) servent surtout &#192;scander le début et la fin du discours diplomatique (ou avec le mois, &#192;achever l'acte avec une certaine emphase).</p>
           <p>Au fil de la lecture, noter :</p>
           <list>
-            <item>la s&#201;v&#201;rit&#201; relative de certaines abr&#201;viations;</item>
+            <item>la sévérité relative de certaines abréviations;</item>
             <item>l'absence de souci de marquer les coupures de mot en fin de ligne (4 cas sur 13) ;</item>
             <item>l'habitude de pointer largement les &quot;i&quot; ;</item>
-            <item>la cursivit&#201; du trac&#201; des lettres, qui contrebalance parfois l'attention port&#201;e &#192;la s&#201;paration des mots ;</item>
+            <item>la cursivité du tracé des lettres, qui contrebalance parfois l'attention portée &#192;la séparation des mots ;</item>
             <item>l'occupation de la fin de la fin de la derni&#232;re ligne par des traits interdisant un ajout ;</item>
-            <item>le scellement tout aussi normal &#192;l'&#201;poque sur double queue de parchemin.</item>
+            <item>le scellement tout aussi normal &#192;l'époque sur double queue de parchemin.</item>
           </list>
         </div>
         <div>
@@ -183,9 +183,9 @@
           </hi> alia racione per se vel per alium non venient in futurum. In cujus rei testimonium, presentibus litteris sigillum curie Meldensis duximus apponendum. Datum anno Domini M° CC° L° primo, mense novembris.</p>
           <div>
             <head>Commentaire</head>
-            <p>Le trait le plus &#201;vident, bien caract&#201;ristique de ce type d'acte, est l'emploi de <hi n="color" rend="#0000FF"> <hi rend="strong">termes et expressions techniques</hi> </hi> fondant la validit&#201; du document sur le recours au droit savant et &#192;la pratique judiciaire, voire sur leur r&#201;p&#201;tition (promesses de la femme puis de ses parents, qui empruntent tout naturellement au registre religieux du serment).</p>
-            <p>Noter aussi le souci de <hi n="color" rend="#FF0000"> <hi rend="strong">pr&#201;cision descriptive</hi></hi> qui anime les actes de l'&#201;poque, de tout genre : &#201;tats de la soci&#201;t&#201;, onomastique, relative pr&#201;cision aussi de la description de la terre (superficie ; finage mais pas ici le quartier d&#201;sign&#201; par un microtoponyme ; voisinage, mais pas ici les confronts : l'acte ne suffit pas pour la gestion, il doit &#234;tre doubl&#201; de documents sp&#201;cifiques, tel un censier).</p>
-            <p>Ce double trait n'exclut pas, bien au contraire, les <hi n="color" rend="#CC0099"> <hi rend="strong">bourdes</hi></hi> (r&#201;p&#201;tition non relev&#201;e par le r&#201;dacteur), parce que l'on travaille vite ; ni, derri&#232;re la pratique d'un latin scolaire et ch&#194;ti&#201; (le r&#201;dacteur ici relatinise tous les noms propres), une possible influence de la langue vernaculaire, &#192;tout le moins de la <hi n="color" rend="#009933"> <hi rend="strong">prononciation &quot;gallicane&quot; du latin</hi></hi>.</p>
+            <p>Le trait le plus évident, bien caractéristique de ce type d'acte, est l'emploi de <hi n="color" rend="#0000FF"> <hi rend="strong">termes et expressions techniques</hi> </hi> fondant la validité du document sur le recours au droit savant et &#192;la pratique judiciaire, voire sur leur répétition (promesses de la femme puis de ses parents, qui empruntent tout naturellement au registre religieux du serment).</p>
+            <p>Noter aussi le souci de <hi n="color" rend="#FF0000"> <hi rend="strong">précision descriptive</hi></hi> qui anime les actes de l'époque, de tout genre : états de la société, onomastique, relative précision aussi de la description de la terre (superficie ; finage mais pas ici le quartier désigné par un microtoponyme ; voisinage, mais pas ici les confronts : l'acte ne suffit pas pour la gestion, il doit &#234;tre doublé de documents spécifiques, tel un censier).</p>
+            <p>Ce double trait n'exclut pas, bien au contraire, les <hi n="color" rend="#CC0099"> <hi rend="strong">bourdes</hi></hi> (répétition non relevée par le rédacteur), parce que l'on travaille vite ; ni, derri&#232;re la pratique d'un latin scolaire et ch&#194;tié (le rédacteur ici relatinise tous les noms propres), une possible influence de la langue vernaculaire, &#192;tout le moins de la <hi n="color" rend="#009933"> <hi rend="strong">prononciation &quot;gallicane&quot; du latin</hi></hi>.</p>
           </div>
         </div>
       </div>
