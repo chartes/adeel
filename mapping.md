@@ -48,6 +48,8 @@
 *    <strike>1 a</strike>
 * <strike>commentaires</strike>
 
+# entités
+Penser au `&quot;` in `//term/@n`
 
 # structure `body`
 
