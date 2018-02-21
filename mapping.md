@@ -30,9 +30,9 @@
 *    <strike>9 xref</strike>
 *    <strike>8 span</strike>
 *    7 lg
-*    7 i
+*    <strike>7 i</strike
 *    7 editor
-*    6 li
+*    <strike>6 li</strike>
 *    5 cb
 *    4 biblScop
 *    3 space

@@ -39,10 +39,10 @@
           <seg rend="175,633,683,628,687,696,172,700">diem festum caelebrantes</seg>
           <seg rend="175,712,719,704,720,758,169,767">sub honore Marie virginis de cujus assu<ex>m</ex>ptione</seg>
           <seg rend="175,781,725,770,735,836,178,844">gaudent angeli et conlaudant Filiu<ex>m</ex> D<ex>e</ex>i. P<ex>salmus</ex>. Eructav(it).</seg>
-          <seg rend="84,861,683,853,680,902,85,917" >R<ex>esponsorium</ex>. Benedicta et venerabilis es virgo Maria</seg>
+          <seg rend="84,861,683,853,680,902,85,917">R<ex>esponsorium</ex>. Benedicta et venerabilis es virgo Maria</seg>
           <seg rend="178,927,684,922,683,973,183,987">que sine tactu pudoris inventa es mater</seg>
           <seg rend="181,1002,436,994,431,1053,187,1054">salvatoris.</seg>
-          <seg rend="83,1056,687,1049,693,1123,86,1126" >V<ex>ersus</ex>. Virgo Dei geni-</seg>
+          <seg rend="83,1056,687,1049,693,1123,86,1126">V<ex>ersus</ex>. Virgo Dei geni-</seg>
           <seg rend="194,1143,727,1133,730,1191,186,1202">–trix quem totus non capit orbis in tua…</seg>
         </p>
       </div>
@@ -85,7 +85,7 @@
           <p>Sur ce feuillet de dimensions moyennes (270 x 165 mm), la parfaite clarté de la mise en page, réalisée sans lésiner sur le parchemin, est calculée pour faciliter au mieux le repérage lors de l’exécution orale.</p>
           <p>L’introït est marqué par une grande initiale à l’encre brune, tracée à la plume, d’une admirable sûreté de trait. On y retrouve mêlés des éléments diversement combinés depuis l’époque carolingienne, et qui se développeront avec une inventivité nouvelle dans les initiales romanes : des entrelacs issus de la tradition insulaire, des palmettes d’inspiration plus ou moins antique et quatre têtes animales. La fin du mot, qu’on s’attendrait à trouver ensuite, a été laissée en blanc.</p>
           <p>Les noms des chants de la messe sont signalés par des capitales rubriquées écrites en marge. Le début des chants est mis en valeur par une initiale rubriquée, distinguée des précédentes par sa dimension (elle est dessinée à la plume, non simplement écrite) et, la plupart du temps, par une touche de bleu.</p>
-          <p>Il serait éclairant de comparer systématiquement la séparation des mots dans les manuscrits musicaux et les autres livres contemporains. Le découpage en tronçons arbitraires, correspondant assez peu aux limites des mots, mais souvent à des syllabes, se justifie ici essentiellement par la correspondance avec les neumes. Sous les mélismes, qui nécessitent d’écarter largement deux parties d’un mot, une ligne rouge sauvegarde la cohérence verbale. Certaines soudures, notamment d’une préposition monosyllabe avec le mot suivant <hi rend="b" >(posteam</hi> l. 1) seront courantes jusqu’à la fin du Moyen Âge, en latin comme en français.</p>
+          <p>Il serait éclairant de comparer systématiquement la séparation des mots dans les manuscrits musicaux et les autres livres contemporains. Le découpage en tronçons arbitraires, correspondant assez peu aux limites des mots, mais souvent à des syllabes, se justifie ici essentiellement par la correspondance avec les neumes. Sous les mélismes, qui nécessitent d’écarter largement deux parties d’un mot, une ligne rouge sauvegarde la cohérence verbale. Certaines soudures, notamment d’une préposition monosyllabe avec le mot suivant <hi rend="b">(posteam</hi> l. 1) seront courantes jusqu’à la fin du Moyen Âge, en latin comme en français.</p>
         </div>
       </div>
       <div type="history">
@@ -101,7 +101,7 @@
           <figure rend="97/fax.jpg"/>
           <p>La page correspond aux chants de la vigile et de la fête de l’Assomption et comprend quatre des cinq chants du propre de la messe : <list>
             <item>l’introït (<hi rend="b">Gaudeamus</hi>) accompagné d’un verset psalmique (<hi rend="b">Eructavit</hi>) est chanté par le chœur pendant la procession d’entrée au début de la messe ;</item>
-            <item>le graduel composé d’un répons (<hi rend="b" >Benedicta</hi>) et d’un verset (<hi rend="b">Virgo</hi>) est chanté par un soliste après la première lecture liturgique ;</item>
+            <item>le graduel composé d’un répons (<hi rend="b">Benedicta</hi>) et d’un verset (<hi rend="b">Virgo</hi>) est chanté par un soliste après la première lecture liturgique ;</item>
             <item>suit normalement l’<hi rend="b">Alleluia</hi> qui manque ici sur la page et qui est chanté après le graduel et avant la lecture de l’Évangile ;</item>
             <item>l’offertoire (celui de la vigile en haut de page : <hi rend="b"> Offerentur</hi>) est exécuté pendant la remise des offrandes qui précède la consécration ;</item>
             <item>le chant de communion (celui de la vigile en haut de page : <hi rend="b">Dilexisti</hi>) accompagne la distribution de la communion au clergé et aux fidèles.</item>
