@@ -84,7 +84,7 @@
           <head>Bibliographie complémentaire</head>
           <listBibl>
             <bibl>
-              <title>Mémoires de Marie Dubois, sieur de Lestourmière et du Poirier, gentilhomme servant du roi, valet de chambre de Louis XIII et de Louis XIV (1647-1676)</title>, <!-- "(1647-1676)" ne sont pas  en italique mais semblent faire partie du titre -->
+              <title>Mémoires de Marie Dubois, sieur de Lestourmière et du Poirier, gentilhomme servant du roi, valet de chambre de Louis XIII et de Louis XIV (1647-1676)</title>,
               <editor>Louis de G<hi rend="sc">RANDMAISON</hi></editor>,
               <pubPlace>Vendôme</pubPlace>, <publisher>Société archéologique, scientifique et littéraire du Vendômois</publisher>, <date when="1936">1936</date>, <biblScope type="pp">547 p</biblScope>. </bibl>
             <bibl>

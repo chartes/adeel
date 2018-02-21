@@ -28,7 +28,6 @@
     <profileDesc>
       <langUsage>
         <language ident="lat"/>
-        <!-- Le document, "Eléments utiles pour l'indexation des dossiers  documentaires indique que ce texte est en français or, manifestement, ce n'est pas le  cas. Je rétablis.  -->
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -169,7 +168,7 @@
           <p>Les mots sont régulièrement séparés à l’exception de certaines prépositions et conjonctions. A la ligne 22, pour éviter un risque d’ambiguïté, le scribe a ajouté deux traits, au-dessus et au-dessous, entre <hi rend="b">de</hi> et <hi rend="b">generis</hi>.</p>
           <p>La coupe en fin de ligne est signalée par un trait d’union.</p>
           <p>La ponctuation, simple, utilise le point (<hi rend="i">punctus</hi>) seul pour séparer les propositions, et associé à une majuscule pour le début d’une nouvelle phrase.</p>
-          <p><!-- A la différence des autres paragraphes de ce div, celui-ci s'accompagne d'un saut de  ligne : faut-il l'encoder d'une manière particulière ?  --> L’économie originelle de la page a été modifiée par la suite : <lb/>
+          <p>L’économie originelle de la page a été modifiée par la suite : <lb/>
             <list>
               <item>l’ex-libris au bas et la cote (?) <hi rend="b">A</hi> sont probablement de la première moitié du XV<hi rend="sup">e</hi> siècle ; </item>
               <item>l’époque moderne et contemporaine a encore ajouté plusieurs cotes, des essais de plume et le cachet de la bibliothèque Mazarine. </item>

@@ -57,7 +57,6 @@
           <seg rend="85,259,477,281">Paris le <hi rend="sc">XXV</hi><hi rend="sup">e</hi> jour de sep<ex>tem</ex>bre mil <hi rend="sc">V<hi rend="sup">C</hi></hi> quatre vingtz dix-sept.</seg>
           <seg rend="80,301,637,355">Mandement du tresorier de l’Espargne annee <hi rend="sc">M V<hi rend="sup">C</hi> IIII<hi rend="sup">XX</hi> XVII</hi>.</seg>
           <seg rend="210,420,418,518">G<hi rend="sc">OBELIN</hi>.</seg>
-          <!-- ce paragraphe est entouré de crochets sur le fichier Word, indiquant, peut-être, par là, qu'il est au verso de l'image précédente afin de marquer une coupure avec le reste du texte ; auquel cas il n'est nul besoin de les encoder -->
           <seg rend="16,635,797,687">Enregistré au controlle general des finances par moy soubzsigné,</seg>
           <seg rend="96,690,763,732">a Paris le neufvieme octobre <hi rend="sc">M V<hi rend="sup">C</hi> IIII<hi rend="sup">XX</hi></hi> dix-sept.</seg>
           <seg rend="399,737,645,805">D<hi rend="sc">E</hi> S<hi rend="sc">ALDAIGNE</hi>.</seg>

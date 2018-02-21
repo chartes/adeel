@@ -28,7 +28,6 @@
     <profileDesc>
       <langUsage>
         <language ident="lat"/>
-        <!-- Le document, "Eléments utiles pour l'indexation des dossiers  documentaires indique que ce texte est en français or, manifestement, ce n'est pas le  cas. Je rétablis (idem pour le document 1002, 1r).  -->
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -173,7 +172,7 @@
         <div>
           <head>Abréviations</head>
           <div>
-            <p><!-- Dans ce paragraphe, certaines des terminaisons sont précédées par des tirets tantôt  en gras (de tailles différentes dans le fichier Word), tantôt non. J'ai choisi d'harmoniser en ne  mettant pas les tirets en gras --> Le système abréviatif est peu développé, mais comprend les signes et principes usuels : tildes pour nasales ; des contractions sur des mots courants ; abréviations sur –<hi rend="b">p</hi> ; lettres suscrites ; terminaisons en –<hi rend="b">q(ue)</hi>, -<hi rend="b">b(us)</hi> et -<hi rend="b">or(um)</hi> ; signes conventionnels pour –<hi rend="b">ur</hi> et -<hi rend="b">us</hi>.</p>
+            <p>Le système abréviatif est peu développé, mais comprend les signes et principes usuels : tildes pour nasales ; des contractions sur des mots courants ; abréviations sur –<hi rend="b">p</hi> ; lettres suscrites ; terminaisons en –<hi rend="b">q(ue)</hi>, -<hi rend="b">b(us)</hi> et -<hi rend="b">or(um)</hi> ; signes conventionnels pour –<hi rend="b">ur</hi> et -<hi rend="b">us</hi>.</p>
           </div>
         </div>
         <div>
