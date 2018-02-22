@@ -93,12 +93,14 @@ div[@type="facsimile"]
 * texte supprimé (`tei:del` => `html:del`)
 
 
-**partie du discours, typologie**
+# partie du discours, typologie
+
+## état
 * 1 Clause_decharge => clause_decharge
 * 1 Date => date
 * 1 Dispositif => dispositif
 * 1 Exposé => expose
-* 1 Liste_temoins => ???????
+* 1 Liste_temoins => temoins
 * 1 Nom_signature => signature
 * 22 adresse
 * 3 adresse_universelle
@@ -227,6 +229,8 @@ div[@type="facsimile"]
 * 1 vidisuscription
 * 1 viditemoin
 * 1 visa
+
+## reprise
 
 
 # Mapping
