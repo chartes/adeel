@@ -16,13 +16,9 @@ XPATH
 """
 XPATH_TI_FACSIM_COORDS_TRANSCRIPTION="//ti:div[@type='facsimile']//ti:seg/@rend"
 XPATH_TI_FACSIM_ANNO_TRANSCRIPTION="//ti:div[@type='facsimile']//ti:seg"
-XPATH_FACSIM_COORDS_TRANSCRIPTION="//div[@type='facsimile']//seg/@rend"
-XPATH_FACSIM_ANNO_TRANSCRIPTION="//div[@type='facsimile']//seg"
 
 XPATH_TI_FACSIM_COORDS_FIGDESC="//ti:figDesc//ti:seg/@rend"
 XPATH_TI_FACSIM_ANNO_FIGDESC="//ti:figDesc//ti:seg"
-XPATH_FACSIM_COORDS_FIGDESC="//figDesc//seg/@rend"
-XPATH_FACSIM_ANNO_FIGDESC="//figDesc//seg"
 
 """
 helpers
@@ -97,18 +93,12 @@ for f in filenames:
     table image_zone
     """
     doc = ET.parse(os.path.join(ROOT,f))
-    try:
-        facsim_coord_tr = doc.xpath(XPATH_FACSIM_COORDS_TRANSCRIPTION, namespaces=doc.getroot().nsmap)
-        facsim_note_tr = doc.xpath(XPATH_FACSIM_ANNO_TRANSCRIPTION, namespaces=doc.getroot().nsmap)
 
-        facsim_coord_figdesc = doc.xpath(XPATH_FACSIM_COORDS_FIGDESC, namespaces=doc.getroot().nsmap)
-        facsim_note_figdesc = doc.xpath(XPATH_FACSIM_ANNO_FIGDESC, namespaces=doc.getroot().nsmap)
-    except:
-        facsim_coord_tr = doc.xpath(XPATH_TI_FACSIM_COORDS_TRANSCRIPTION, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
-        facsim_note_tr = doc.xpath(XPATH_TI_FACSIM_ANNO_TRANSCRIPTION, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
+    facsim_coord_tr = doc.xpath(XPATH_TI_FACSIM_COORDS_TRANSCRIPTION, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
+    facsim_note_tr = doc.xpath(XPATH_TI_FACSIM_ANNO_TRANSCRIPTION, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
 
-        facsim_coord_figdesc = doc.xpath(XPATH_TI_FACSIM_COORDS_FIGDESC, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
-        facsim_note_figdesc = doc.xpath(XPATH_TI_FACSIM_ANNO_FIGDESC, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
+    facsim_coord_figdesc = doc.xpath(XPATH_TI_FACSIM_COORDS_FIGDESC, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
+    facsim_note_figdesc = doc.xpath(XPATH_TI_FACSIM_ANNO_FIGDESC, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
 
     facsim_image_zone_transcription = zip(facsim_coord_tr, facsim_note_tr)
     facsim_image_zone_figdesc = zip(facsim_coord_figdesc, facsim_note_figdesc)
@@ -147,9 +137,9 @@ print("=" * 80)
 cnt = 0
 for dossier in dossiers.values():
     for i in insert_image_zone(dossier):
-        #print(i)
+        print(i)
         cnt+=1
 print("NB_INSERT image_zone:", cnt)
 
-for d in insert_image_zone(dossiers["20.xml"]):
-    print(d)
+#for d in insert_image_zone(dossiers["20.xml"]):
+#    print(d)
