@@ -57,7 +57,7 @@ def insert_image_zone(dossier):
         get_insert_stmt(
             "image_zone",
             "manifest_url,img_id,zone_id,coords,note",
-            ",".join(['"{0}"'.format(v.replace("\"", "&quot;"))
+            ",".join(['"{0}"'.format(v.replace('"', '\\"'))
                       if v is not None else "null" for v in value])
         )
         for value in values
