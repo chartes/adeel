@@ -88,13 +88,13 @@
         <head>Parties du discours</head>
         <div>
           <p>
-            <seg corresp="suscription">De par le roy.<note xml:id="suscription">Suscription</note></seg>
-            <seg corresp="adresse">Il est ordonné et très expressement enjoint aux prevost des marchans et eschevins de la ville de Paris<note xml:id="adresse">Adresse</note></seg>
-            <seg corresp="dispositif">en faisant faire la reveue d’ordonner aux quarteniers de faire roolle des lacquais capables de porter armes qui se trouveront dans les maisons et charger les maistres de les envoyer sur le boullevar pour s’enrooller à peine aux maistres de cinq cens livres d’amende et des gallaires contre les lacquais. Et à cette fin Sad. Majesté veut et entend qu’il soit depputté deux conseillers de ville pour en faire l’enroollement et que le payement en soit faict par les bourgeois.<note xml:id="dispositif">Dispositif</note></seg>
-            <seg corresp="mention_publication"> et que la presente ordonnance soit leue et publiée à son de trompe et cry public à ce que personne n’en pretende cause d’ignorance.<note xml:id="mention_publication">Mention de publication</note></seg>
-            <seg corresp="date">Faict à Paris le VI<hi rend="sup">e</hi> jour d’aoust 1636.<note xml:id="date">Date</note></seg>
-            <seg corresp="signature">L<hi rend="sc">OUIS</hi><note xml:id="signature">Signature</note></seg>
-            <seg corresp="contreseing"><hi rend="sc">DE</hi> L<hi rend="sc">OMENIE</hi> (paraphe).<note xml:id="contreseing">Contreseing du secrétaire d’Etat de la Maison du roi</note></seg>
+            <seg corresp="suscription">De par le roy.<note n="suscription">Suscription</note></seg>
+            <seg corresp="adresse">Il est ordonné et très expressement enjoint aux prevost des marchans et eschevins de la ville de Paris<note n="adresse">Adresse</note></seg>
+            <seg corresp="dispositif">en faisant faire la reveue d’ordonner aux quarteniers de faire roolle des lacquais capables de porter armes qui se trouveront dans les maisons et charger les maistres de les envoyer sur le boullevar pour s’enrooller à peine aux maistres de cinq cens livres d’amende et des gallaires contre les lacquais. Et à cette fin Sad. Majesté veut et entend qu’il soit depputté deux conseillers de ville pour en faire l’enroollement et que le payement en soit faict par les bourgeois.<note n="dispositif">Dispositif</note></seg>
+            <seg corresp="mention_publication"> et que la presente ordonnance soit leue et publiée à son de trompe et cry public à ce que personne n’en pretende cause d’ignorance.<note n="mention_publication">Mention de publication</note></seg>
+            <seg corresp="date">Faict à Paris le VI<hi rend="sup">e</hi> jour d’aoust 1636.<note n="date">Date</note></seg>
+            <seg corresp="signature">L<hi rend="sc">OUIS</hi><note n="signature">Signature</note></seg>
+            <seg corresp="contreseing"><hi rend="sc">DE</hi> L<hi rend="sc">OMENIE</hi> (paraphe).<note n="contreseing">Contreseing du secrétaire d’Etat de la Maison du roi</note></seg>
           </p>
         </div>
       </div>

@@ -121,12 +121,12 @@
       <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="date">Anno Domini M° CCC vicesimo quinto et vicesima sexta die octobris, domino Karolo Francorum et Navarre rege regnante,<note xml:id="date">Date de temps initiale.</note></seg>
-          <seg corresp="coeur"> ego Johannes Saureri de Marologio confiteor et recognosco vobis, discreto viro Guirardo Petri, thesaurario regio in senescallia Bellicadri et Nemausi, quod vos de hoc in quo vobis tenebar ratione pedagii de Larsis defalcastis mihi decem libras decem solidos turonensium pro parte regia, quas solvi mandato judicis communis curie Gaballitani et locum tenentis baylivii dicte communis curie ratione septuaginta solidorum quos Bernardus dominus de Benevento percipere consueverat annuatim seu annis singulis in et super emolumentis pedagii de Larsis terre de Petra et qui septuaginta solidi ad solvendum retardati fuerant dicto domino de Benevento per sex annos tempore quo mihi preceptum fuit de solvendis dictorum sex annorum arreragiis supradictis<note xml:id="coeur">Cœur de l’acte (qui n’est qu’à moitié un dispositif stricto sensu) ; verbe-clef : recognosco</note></seg>
-          <seg corresp="renonciation">Exceptioni dicte peccunie per vos mihi non defalcate renuncio<note xml:id="renonciation">Renonciation</note></seg>
-          <seg corresp="date">Actum in domo thesaurarie,<note xml:id="date">Date de lieu finale</note></seg>
-          <seg corresp="liste">presentibus testibus magistro Helie Bernardi, Johanne Manni, Raimundo Petri de Nemauso,<note xml:id="liste">Liste des témoins</note></seg>
-          <seg corresp="souscription">et me Paulo Andree, publico dicti domini regis notario, qui predictis presens fui et predicta in notam recepi et requisitus in formam publicam reddegi et signo meo signavi notario<note xml:id="souscription">Souscription notariale</note></seg>
+          <seg corresp="date">Anno Domini M° CCC vicesimo quinto et vicesima sexta die octobris, domino Karolo Francorum et Navarre rege regnante,<note n="date">Date de temps initiale.</note></seg>
+          <seg corresp="coeur"> ego Johannes Saureri de Marologio confiteor et recognosco vobis, discreto viro Guirardo Petri, thesaurario regio in senescallia Bellicadri et Nemausi, quod vos de hoc in quo vobis tenebar ratione pedagii de Larsis defalcastis mihi decem libras decem solidos turonensium pro parte regia, quas solvi mandato judicis communis curie Gaballitani et locum tenentis baylivii dicte communis curie ratione septuaginta solidorum quos Bernardus dominus de Benevento percipere consueverat annuatim seu annis singulis in et super emolumentis pedagii de Larsis terre de Petra et qui septuaginta solidi ad solvendum retardati fuerant dicto domino de Benevento per sex annos tempore quo mihi preceptum fuit de solvendis dictorum sex annorum arreragiis supradictis<note n="coeur">Cœur de l’acte (qui n’est qu’à moitié un dispositif stricto sensu) ; verbe-clef : recognosco</note></seg>
+          <seg corresp="renonciation">Exceptioni dicte peccunie per vos mihi non defalcate renuncio<note n="renonciation">Renonciation</note></seg>
+          <seg corresp="date">Actum in domo thesaurarie,<note n="date">Date de lieu finale</note></seg>
+          <seg corresp="liste">presentibus testibus magistro Helie Bernardi, Johanne Manni, Raimundo Petri de Nemauso,<note n="liste">Liste des témoins</note></seg>
+          <seg corresp="souscription">et me Paulo Andree, publico dicti domini regis notario, qui predictis presens fui et predicta in notam recepi et requisitus in formam publicam reddegi et signo meo signavi notario<note n="souscription">Souscription notariale</note></seg>
         </p>
       </div>
       <div type="diplomatic">

@@ -145,12 +145,12 @@
       <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="suscription">Henricus rex Anglorum et dux Normannorum et Aquitanorum et comes Andegavorum,<note xml:id="suscription">Suscription.</note></seg>
-          <seg corresp="adresse">archiepiscopo Rothomagensi et omnibus baronibus Normannie,<note xml:id="adresse">Adresse (personnelle puis collective).</note></seg>
-          <seg corresp="salut">salutem.<note xml:id="salut">Salut.</note></seg>
-          <seg corresp="dispositif">Precipio quod abbas Sancti Petri Carnotensis et monachi teneant ecclesias et terras et elemosinas et omnes decimas et redditus suos de Normannia et omnes quietantias suas ita bene et in pace et honorifice sicut melius tenuerunt tempore regis Henrici avi mei et meo et sicut juste tenere debuerint. Et prohibeo ne ullus eis super hoc quicquam forifatiat. Preterea do eis et hac mea carta confirmo decem milia harengorum annuatim habenda de decimis reddituum meorum de Molendinis et Bonmolinis per manum prioris de Planchis.<note xml:id="dispositif">Dispositif.</note></seg>
-          <seg corresp="temoins">Testibus Rotrodo archiepiscopo Rothomagensi, Hamelino comite de Warenna, Roberto comite de Legrecestria, Ricardo de Humetis conestabulario, Willelmo de Caineto, Willelmo filio Hamonis, Willelmo de Curci, Reginaldo de Curtenai, Waltero de Dunstanvilla.<note xml:id="temoins">Liste de témoins.</note></seg>
-          <seg corresp="date">Apud Vernolium.<note xml:id="date">Date de lieu.</note></seg>
+          <seg corresp="suscription">Henricus rex Anglorum et dux Normannorum et Aquitanorum et comes Andegavorum,<note n="suscription">Suscription.</note></seg>
+          <seg corresp="adresse">archiepiscopo Rothomagensi et omnibus baronibus Normannie,<note n="adresse">Adresse (personnelle puis collective).</note></seg>
+          <seg corresp="salut">salutem.<note n="salut">Salut.</note></seg>
+          <seg corresp="dispositif">Precipio quod abbas Sancti Petri Carnotensis et monachi teneant ecclesias et terras et elemosinas et omnes decimas et redditus suos de Normannia et omnes quietantias suas ita bene et in pace et honorifice sicut melius tenuerunt tempore regis Henrici avi mei et meo et sicut juste tenere debuerint. Et prohibeo ne ullus eis super hoc quicquam forifatiat. Preterea do eis et hac mea carta confirmo decem milia harengorum annuatim habenda de decimis reddituum meorum de Molendinis et Bonmolinis per manum prioris de Planchis.<note n="dispositif">Dispositif.</note></seg>
+          <seg corresp="temoins">Testibus Rotrodo archiepiscopo Rothomagensi, Hamelino comite de Warenna, Roberto comite de Legrecestria, Ricardo de Humetis conestabulario, Willelmo de Caineto, Willelmo filio Hamonis, Willelmo de Curci, Reginaldo de Curtenai, Waltero de Dunstanvilla.<note n="temoins">Liste de témoins.</note></seg>
+          <seg corresp="date">Apud Vernolium.<note n="date">Date de lieu.</note></seg>
         </p>
       </div>
       <div type="diplomatic">
