@@ -55,7 +55,7 @@ def insert_image_zone(dossier):
             dossier["img_id"],
             str(zone_id),
             t["coords"],
-            t["note"]]
+            t["note"] if t["note"] is not None else "null"]
         )
         zone_id += 1
     #generate insert statements
@@ -63,12 +63,20 @@ def insert_image_zone(dossier):
         get_insert_stmt(
             "image_zone",
             "manifest_url,img_id,zone_id,coords,note",
-            ",".join(['"{0}"'.format(v.replace('"', '\\"'))
-                      if v is not None else "null" for v in value])
+            '"{0}","{1}",{2},"{3}","{4}"'.format(*[v.replace('"', '\\"') for v in value])
         )
         for value in values
     ]
     return stmts
+
+def insert_image(dossier):
+    stmts = [
+        get_insert_stmt("image",
+                        "manifest_url,img_id,doc_id",
+                        '"{0}","{1}",{2}'.format(dossier["manifest_url"], dossier["img_id"], dossier["id"]))
+    ]
+    return stmts
+
 
 """
 validity checks
@@ -76,6 +84,8 @@ validity checks
 check_coords_validity = lambda coords : [int(c) for c in coords.split(",")]
 facsim_coords_error = []
 
+
+cnt_file_parsing_error = 0
 
 """
 processing
@@ -91,6 +101,7 @@ for f in filenames:
     """
     id = f.split(".")[0]
     dossiers[f] = {
+        "id": id,
         "manifest_url": get_manifest_url(id),
         "img_id": get_image_id(id),
         "image_zone" : []
@@ -99,7 +110,11 @@ for f in filenames:
     """
     table image_zone
     """
-    doc = ET.parse(os.path.join(ROOT,f))
+    try:
+        doc = ET.parse(os.path.join(ROOT,f))
+    except:
+        cnt_file_parsing_error += 1
+        break
 
     facsim_coord_tr = doc.xpath(XPATH_TI_FACSIM_COORDS_TRANSCRIPTION, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
     facsim_note_tr = doc.xpath(XPATH_TI_FACSIM_ANNO_TRANSCRIPTION, namespaces={"ti":"http://www.tei-c.org/ns/1.0"})
@@ -136,28 +151,44 @@ display
 print("=" * 80)
 print("facsim coords error:")
 pprint.pprint(set(facsim_coords_error))
+print("file parsing error (nb files): {0}".format(cnt_file_parsing_error))
 
-print("=" * 80)
-pprint.pprint(dossiers["1.xml"])
+#print("=" * 80)
+#pprint.pprint(dossiers["1.xml"])
 
-print("=" * 80)
-cnt = 0
-for dossier in dossiers.values():
-    for i in insert_image_zone(dossier):
-        print(i)
-        cnt+=1
-print("NB_INSERT image_zone:", cnt)
+#print("=" * 80)
+#cnt = 0
+#for dossier in dossiers.values():
+#    for i in insert_image_zone(dossier):
+#        #print(i)
+#        cnt+=#1
+#print("NB_INSERT image_zone:", cnt)
 
 
+add_sql_comment = lambda f, c="=" : f.write("--" + c * 40 + "\n")
 
 print("=" * 80)
 print("SQL statements written to 'insert_statements.sql'")
 with open('insert_statements.sql', 'w+') as f:
-    f.write(get_delete_stmt("image_zone"))
-    f.write("\n" + "--" + "==" * 40 + "\n")
+
+    f.write(get_delete_stmt("image_zone") + "\n")
+    f.write(get_delete_stmt("image") + "\n")
+    add_sql_comment(f, '#')
+
     for dossier in dossiers.values():
+        #table image
+        for i in insert_image(dossier):
+            f.write(i + "\n")
+
+        add_sql_comment(f, '-')
+
+        #table image_zone
         for i in insert_image_zone(dossier):
             f.write(i + "\n")
+        add_sql_comment(f, '=')
+
 
 #for d in insert_image_zone(dossiers["20.xml"]):
 #    print(d)
+
+
