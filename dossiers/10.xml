@@ -151,7 +151,7 @@
           <seg corresp="dispositif">Nos autem ad petitionem predicti Gilonis hanc venditionem confirmamus<note xml:id="dispositif" type="bulle">Dispositif : l’acte est une confirmation</note></seg> 
           <seg corresp="corroboration">et, ut perpetuum robur obtineat, sigilli nostri munimine et regii nominis karactere inferius annotato presentem paginam roboramus.<note xml:id="corroboration">Corroboration probatoire avec mention de perpétuité annonce du sceau et du monogramme</note></seg> 
           <seg corresp="date">Actum Parisius, anno ab incarnatione Domini M° CC° secundo, regni nostri anno vicesimo quarto.<note xml:id="date">Date de lieu et de temps</note></seg> 
-          <seg corresp="corroboration_2">Nos Astantibus in palatio nostro quorum nomina supposita sunt et signa.<note xml:id="corroboration_2">Second volet de la corroboration : annonce des souscriptions des grands officiers</note></seg> 
+          <seg corresp="corroboration">Nos Astantibus in palatio nostro quorum nomina supposita sunt et signa.<note xml:id="corroboration">Second volet de la corroboration : annonce des souscriptions des grands officiers</note></seg> 
           <seg corresp="souscription">Dapifero nullo. Signum Guidonis buticularii. S. Mathei camerarii. S. Droconis constabularii.<note xml:id="souscription">Souscriptions des grands officiers</note></seg> 
           <seg corresp="monogramme">Data vacante [PHILIPPUS] cancellaria per manum fratris Garini.<note xml:id="monogramme" type="bulle">Monogramme royal enchâssé dans la récognition de chancellerie</note></seg> 
         </p>

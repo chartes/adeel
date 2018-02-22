@@ -128,13 +128,13 @@
         <head>Parties du discours</head>
         <p>
           <seg corresp="adresse">Omnibus presentes litteras inspecturis,<note xml:id="adresse">Adresse universelle</note></seg>
-          <seg corresp="notif">Notum facimus quod <note xml:id="notif">Notification.</note></seg>
+          <seg corresp="notification">Notum facimus quod <note xml:id="notification">Notification.</note></seg>
           <seg corresp="corps">coram nobis constituta domicella Margareta de Essartis, relicta defuncti Galteri Ruffi de Essartis, recognovit se vendidisse et imperpetuum quitasse viris religiosis abbati et conventui de Caroliloco et imperpetuum quitasse duo arpenta terre et dimidium arabilis, sita in territorio de Marchemoreto, contigua terre predictorum abbatis et conventus, pro quindecim libris turonensium, de quibus tenuit se coram nobis pro pagata in pecunia numerata ; <note xml:id="corps">Corps de l’acte, conçu comme un procès-verbal,<lb/>enregistrant un aveu (recognovit) ; ce n’est pas un dispositif au sens strict.</note></seg>
           <seg corresp="renonciation">renoncians quantum ad hoc excepcioni non numerate sibi pecunie, non tradite, non solute ; <note xml:id="renonciation">Clause de renonciation.</note></seg>
           <seg corresp="promesse">promittens, fide data in manu nostra, se istam vendicionem firmiter imperpetuum servaturam et non contraventuram racione hereditatis, dotalicii sive dotis seu quaconque alia racione ; <note xml:id="promesse">Clause de promesse.</note></seg>
           <seg corresp="garantie">immo dictis emtoribus erga omnes rectam garandiam portabit erga omnes imperpetuum. <note xml:id="garantie">Clause de garantie.</note></seg>
           <seg corresp="laudatio">Petrus vero presbiter de Bolorria, frater dicte Margarete, et Guiotus filius dicte Margarete, in nostra presencia constituti, predictam vendicionem voluerunt, laudaverunt et concesserunt ; <note xml:id="laudatio">Laudatio parentum.</note></seg>
-          <seg corresp="promesseparents"> promittentes, fide data in manu nostra, quod contra premissa per se vel per alium racione hereditatis seu quaconque alia racione per se vel per alium non venient in futurum.<note xml:id="promesseparents">Clause de promesse des parents.</note></seg>
+          <seg corresp="promesse"> promittentes, fide data in manu nostra, quod contra premissa per se vel per alium racione hereditatis seu quaconque alia racione per se vel per alium non venient in futurum.<note xml:id="promesse">Clause de promesse des parents.</note></seg>
           <seg corresp="corroboration">In cujus rei testimonium, presentibus litteris sigillum curie Meldensis duximus apponendum. <note xml:id="corroboration">Corroboration probatoire avec annonce du sceau.</note></seg>
           <seg corresp="date"> Datum anno Domini M° CC° L° primo, mense novembris. <note xml:id="date">Date de temps.</note></seg>
         </p>

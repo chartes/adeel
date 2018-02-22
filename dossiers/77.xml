@@ -120,8 +120,8 @@
           <seg corresp="salut"> salut.
             <note xml:id="salut">Salut</note>
           </seg>
-          <seg corresp="exposé"> Comme a la journee et assemblee nagaires tenue en la ville de Hem en Vermendois, et depuis en la ville de Peronne, entre noz gens et ambasseurs et ceulx de nostre tres chier et tres amé frere et cousin le duc de Bourgoigne, plusieurs doleances, requestes et remonstrances aient esté faictes de la part de nostredit frere et cousin, et entre autres choses ait esté remonstré que, selon le droit du païs de Flandres, nostre court de parlement ne doit recevoir aucunes appellations des loix et juges dudit païs de Flandres autres que les loix des quatre principaulx membres d’icellui pays <hi rend="i">obmisso medio</hi>, car le ressort doit premier appartenir a nostredit frere et cousin et ne doit point estre travaillié de requerir le renvoy en nostredicte court comme l’on fait pour les ressors des autres païs du royaume, et ne doit l’on bailler aux subgetz de Flandres relievement en cas d’appel, se l’appellation ne procede <hi rend="i">inmediate</hi> du jugement du conte ou de sa chambre de conseil en Flandres, en nous requerant vouloir sur ce pourveoir a nostredit frere et cousin,
-            <note xml:id="exposé">Exposé</note>
+          <seg corresp="expose"> Comme a la journee et assemblee nagaires tenue en la ville de Hem en Vermendois, et depuis en la ville de Peronne, entre noz gens et ambasseurs et ceulx de nostre tres chier et tres amé frere et cousin le duc de Bourgoigne, plusieurs doleances, requestes et remonstrances aient esté faictes de la part de nostredit frere et cousin, et entre autres choses ait esté remonstré que, selon le droit du païs de Flandres, nostre court de parlement ne doit recevoir aucunes appellations des loix et juges dudit païs de Flandres autres que les loix des quatre principaulx membres d’icellui pays <hi rend="i">obmisso medio</hi>, car le ressort doit premier appartenir a nostredit frere et cousin et ne doit point estre travaillié de requerir le renvoy en nostredicte court comme l’on fait pour les ressors des autres païs du royaume, et ne doit l’on bailler aux subgetz de Flandres relievement en cas d’appel, se l’appellation ne procede <hi rend="i">inmediate</hi> du jugement du conte ou de sa chambre de conseil en Flandres, en nous requerant vouloir sur ce pourveoir a nostredit frere et cousin,
+            <note xml:id="expose">Exposé</note>
           </seg>
           <seg corresp="notification"> savoir faisons que
             <note xml:id="notification">Notification</note>
@@ -135,8 +135,8 @@
           <seg corresp="clause_intentionnelle"> Car ainsi nous plaist il et voulons estre fait.
             <note xml:id="clause_intentionnelle">Clause intentionnelle</note>
           </seg>
-          <seg corresp="corroboration_probatoire"> En tesmoing de ce, nous avons fait mettre nostre seel a cesdictes presentes.
-            <note xml:id="corroboration_probatoire">Corroboration probatoire</note>
+          <seg corresp="corroboration"> En tesmoing de ce, nous avons fait mettre nostre seel a cesdictes presentes.
+            <note xml:id="corroboration">Corroboration probatoire</note>
           </seg>
           <seg corresp="date"> Donné audit lieu de Peronne, le quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante et huit, et de nostre regne le huitiesme.
             <note xml:id="date">Date de lieu et de temps</note>

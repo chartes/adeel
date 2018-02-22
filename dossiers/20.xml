@@ -139,7 +139,7 @@
           <seg corresp="clause_garantie">sed super eadem terra vendita dictis abbati et conventui contra omnes legitimam portabunt garandiam ;<note xml:id="clause_garantie">Clause de garantie</note></seg>
           <seg corresp="clause_renonciation">renuntiantes in hoc facto, fide data, excepcioni non numerate et non recepte pecunie et omnibus aliis excepcionibus et juris auxilio tam canonici quam civilis quod sibi contra presens instrumentum posset prodesse et dictis abbati et conventui prodesse [sic]<note xml:id="clause_renonciation">Clause de renonciation</note></seg>
           <seg corresp="corroboration">In cujus rei testimonium, presentes litteras sigillo curie Belvacensis fecimus communiri.<note xml:id="corroboration">Corroboration probatoire avec annonce du sceau</note></seg>
-          <seg corresp="date_temps">Actum anno Domini M° CC° XL° octavo, die lune post Jubilate.<note xml:id="date_temps" type="bulle">Date de temps.</note></seg>
+          <seg corresp="date">Actum anno Domini M° CC° XL° octavo, die lune post Jubilate.<note xml:id="date" type="bulle">Date de temps.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

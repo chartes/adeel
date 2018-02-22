@@ -123,8 +123,8 @@
             <note xml:id="dispositif">Pas de dispositif à proprement parler, mais le rapport en forme de procès-verbal de l’action juridique
             </note>
           </seg>
-          <seg corresp="notification_secondaire"> Et sciendum quod
-            <note xml:id="notification_secondaire">Notification secondaire</note>
+          <seg corresp="notification"> Et sciendum quod
+            <note xml:id="notification">Notification secondaire</note>
           </seg>
           <seg corresp="complements"> dicti Petrus et Maria dederunt sex arpennos in elemosinam prefate ecclesie pro Johanne consanguineo dicti Petri, quatuor vero in excambium, scilicet pro decem et octo minis bladi apud <hi rend="i">Frenoi</hi> et apud Saciacum parvum annuatim recipiendis, tria quarteria similiter pro tribus solidis et tribus denariis et duobus caponibus singulis annis apud Compendium recipiendis.
             <note xml:id="complements">Compléments des dispositions</note>
