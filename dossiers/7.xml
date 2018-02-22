@@ -16,8 +16,8 @@
     </fileDesc> 
     <profileDesc> 
       <langUsage> 
-        <language id="frm">Ancien français</language> 
-        <language id="fre">Français</language> 
+        <language xml:id="frm">Ancien français</language> 
+        <language xml:id="fre">Français</language> 
       </langUsage> 
     </profileDesc>
   </teiHeader>

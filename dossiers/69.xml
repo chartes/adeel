@@ -117,18 +117,18 @@
       <div type="speech">
         <head>Parties du discours</head> 
           <p>
-            <seg corresp="invocation"> [I]n nomine sanctæ et individue Trinitatis<note id="invocation">Invocation verbale</note></seg>
-            <seg corresp="suscritpion"> Karolus gratia Dei rex.<note id="suscritpion">Suscription</note></seg>
-            <seg corresp="preambule"> Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque sublimare.<note id="preambule">Préambule</note></seg>
-            <seg corresp="expose"> Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes, libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de quibusdam rebus nostræ proprietatis honorare atque in ejus juris potestatem liberalitatis nostræ gratiam conferre.<note id="expose">Exposé</note></seg>
-            <seg corresp="notification">Idcirco noverit experientia atque industria omnium fidelium nostrorum tam presentium quam et futurorum quia<note id="notification">Notification</note></seg>
-            <seg corresp="dispositif"> concedimus eidem fideli nostro, Roclino nomine, ad proprium quasdam res juris nostri sitas in comitatu Avalense, in villa nuncupata Dornetiaco, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris, vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque fideli nostro Roclino ad proprium per hanc nostre actoritatis conscriptionem concedimus et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet ut quicquid ab hodierna die et tempore exinde pro sua utilitate ac commoditate jure proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.<note id="dispositif">Dispositif</note></seg>
-            <seg corresp="corroboration"> Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem, eam manus nostræ propriæ subterfirmavimus et anuli nostri inpressione sigillari decrevimus.<note id="corroboration">Corroboration</note></seg>
-            <seg corresp="souscription_royale"> Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.<note id="souscription_royale">Souscription royale</note></seg>
-            <seg corresp="recognition"> Deormarus notarius advicem Hludovici recognovit.<note id="recognition">Récogntition de chancellerie</note></seg>
-            <seg corresp="date_temps"> Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.<note id="date_temps">Date de temps</note></seg>
-            <seg corresp="date_lieu"> Actum Castellione super fluvium Dornonia.<note id="date_lieu">Date de lieu</note></seg>
-            <seg corresp="apprecation"> In Dei nomine feliciter. Amen.<note id="apprecation">Apprécation</note></seg>
+            <seg corresp="invocation"> [I]n nomine sanctæ et individue Trinitatis<note xml:id="invocation">Invocation verbale</note></seg>
+            <seg corresp="suscritpion"> Karolus gratia Dei rex.<note xml:id="suscritpion">Suscription</note></seg>
+            <seg corresp="preambule"> Regalis celsitudinis moris est fideles suos donis multiplicibus et manentibus honoribus honorare atque sublimare.<note xml:id="preambule">Préambule</note></seg>
+            <seg corresp="expose"> Proinde morem parentum, regum videlicet predecessorum nostrorum sequentes, libuit celsitudini nostre quendam fidelem virum, Roclinum nomine, de quibusdam rebus nostræ proprietatis honorare atque in ejus juris potestatem liberalitatis nostræ gratiam conferre.<note xml:id="expose">Exposé</note></seg>
+            <seg corresp="notification">Idcirco noverit experientia atque industria omnium fidelium nostrorum tam presentium quam et futurorum quia<note xml:id="notification">Notification</note></seg>
+            <seg corresp="dispositif"> concedimus eidem fideli nostro, Roclino nomine, ad proprium quasdam res juris nostri sitas in comitatu Avalense, in villa nuncupata Dornetiaco, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris, vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque fideli nostro Roclino ad proprium per hanc nostre actoritatis conscriptionem concedimus et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet ut quicquid ab hodierna die et tempore exinde pro sua utilitate ac commoditate jure proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.<note xml:id="dispositif">Dispositif</note></seg>
+            <seg corresp="corroboration"> Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem, eam manus nostræ propriæ subterfirmavimus et anuli nostri inpressione sigillari decrevimus.<note xml:id="corroboration">Corroboration</note></seg>
+            <seg corresp="souscription_royale"> Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.<note xml:id="souscription_royale">Souscription royale</note></seg>
+            <seg corresp="recognition"> Deormarus notarius advicem Hludovici recognovit.<note xml:id="recognition">Récogntition de chancellerie</note></seg>
+            <seg corresp="date_temps"> Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.<note xml:id="date_temps">Date de temps</note></seg>
+            <seg corresp="date_lieu"> Actum Castellione super fluvium Dornonia.<note xml:id="date_lieu">Date de lieu</note></seg>
+            <seg corresp="apprecation"> In Dei nomine feliciter. Amen.<note xml:id="apprecation">Apprécation</note></seg>
           </p>
       </div>
       <div type="diplomatic">

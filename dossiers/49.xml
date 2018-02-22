@@ -146,15 +146,15 @@
       <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="suscription">Clemens episcopus, servus servorum Dei<note id="suscription">Suscription.</note></seg>
-          <seg corresp="adresse">dilectis filiis . . ministro et fratribus domus Sancti Maturini Parisiensis, ordinis sancte Trinitatis et redemptionis captivorum<note id="adresse">Adresse (personnelle puis collective).</note></seg>
-          <seg corresp="salut">salutem.<note id="salut">salutem et apostolicam benedictionem.</note></seg>
-          <seg corresp="preambule">Cum a nobis petitur quod justum est et honestum, tam vigor equitatis quam ordo exigit rationis ut id per solicitudinem officii nostri ad debitum perducatur effectum.<note id="preambule">Préambule</note></seg>
-          <seg corresp="dispositif">Eapropter, dilecti in Domino filii, vestris justis postulationibus grato concurrentes assensu, omnes libertates et immunitate[s] a predecessoribus nostris Romanis pontificibus sive per privilegia seu alias indulgentias vobis et domui vestre concessas necnon libertates et exemptiones secularium exactionum a regibus et principibus et aliis Christi fidelibus rationabiliter vobis indultas, sicut eas juste ac pacifice obtinetis, vobis et per vos eidem domui auctoritate apostolica <hi rend="b">confirmamus</hi> et presentis scripti patrocinio communimus.<note id="dispositif">Dispositif</note></seg>
-          <seg corresp="clause_prohi">Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis infringere vel ei ausu temerario contraire.<note id="clause_prohi">Clause prohibitive</note></seg>
-          <seg corresp="clause_comm">Si quis autem hoc attemptare presumpserit, indignationem omnipotentis Dei et beatorum Petri et Pauli apostolorum ejus se noverit incurs[ur]um.<note id="clause_comm">Clause comminatoire</note></seg>
-          <seg corresp="date">Datum Avinione, X kalendas aprilis, pontificatus nostri anno secundo.<note id="date">Date de lieu et de temps</note></seg>
-          <seg corresp="mention">Pro B. Testagay, Christianus.<note id="mention">Mention hors-teneur (nom du scriptor)</note></seg>
+          <seg corresp="suscription">Clemens episcopus, servus servorum Dei<note xml:id="suscription">Suscription.</note></seg>
+          <seg corresp="adresse">dilectis filiis . . ministro et fratribus domus Sancti Maturini Parisiensis, ordinis sancte Trinitatis et redemptionis captivorum<note xml:id="adresse">Adresse (personnelle puis collective).</note></seg>
+          <seg corresp="salut">salutem.<note xml:id="salut">salutem et apostolicam benedictionem.</note></seg>
+          <seg corresp="preambule">Cum a nobis petitur quod justum est et honestum, tam vigor equitatis quam ordo exigit rationis ut id per solicitudinem officii nostri ad debitum perducatur effectum.<note xml:id="preambule">Préambule</note></seg>
+          <seg corresp="dispositif">Eapropter, dilecti in Domino filii, vestris justis postulationibus grato concurrentes assensu, omnes libertates et immunitate[s] a predecessoribus nostris Romanis pontificibus sive per privilegia seu alias indulgentias vobis et domui vestre concessas necnon libertates et exemptiones secularium exactionum a regibus et principibus et aliis Christi fidelibus rationabiliter vobis indultas, sicut eas juste ac pacifice obtinetis, vobis et per vos eidem domui auctoritate apostolica <hi rend="b">confirmamus</hi> et presentis scripti patrocinio communimus.<note xml:id="dispositif">Dispositif</note></seg>
+          <seg corresp="clause_prohi">Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis infringere vel ei ausu temerario contraire.<note xml:id="clause_prohi">Clause prohibitive</note></seg>
+          <seg corresp="clause_comm">Si quis autem hoc attemptare presumpserit, indignationem omnipotentis Dei et beatorum Petri et Pauli apostolorum ejus se noverit incurs[ur]um.<note xml:id="clause_comm">Clause comminatoire</note></seg>
+          <seg corresp="date">Datum Avinione, X kalendas aprilis, pontificatus nostri anno secundo.<note xml:id="date">Date de lieu et de temps</note></seg>
+          <seg corresp="mention">Pro B. Testagay, Christianus.<note xml:id="mention">Mention hors-teneur (nom du scriptor)</note></seg>
         </p>
       </div>
       <div type="diplomatic">

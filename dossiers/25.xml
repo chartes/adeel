@@ -16,8 +16,8 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language id="frm">Ancien français</language>
-        <language id="fre">Français</language>
+        <language xml:id="frm">Ancien français</language>
+        <language xml:id="fre">Français</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -123,12 +123,12 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg corresp="suscription">Philippus, Dei gratia Francorum et Navarre rex,<note id="suscription">Suscription (nom, formule de dévotion, titre)</note></seg>
-          <seg corresp="adresse">senescallo Petragoricensi et Caturcensi aut ejus locumtenenti,<note id="adresse">Adresse individuelle.</note></seg>
-          <seg corresp="salut">salutem.<note id="salut">Salut (l’acte est rédigé en forme de lettre)</note></seg>
-          <seg corresp="expose">Dilectus et fidelis noster Archambaudus comes Petragoricensis nobis fecit exponi, graviter conquerendo, quod, cum carissimus dominus et genitor noster dudum eidem comiti seu genitori suo castrum et castellaniam de Calciata cum omnibus pertinenciis, juribus, redditibus, redibenciis, justicia alta et bassa et omnibus aliis juribus que dicto domino et genitori nostro pertinere poterunt quomodolibet in premissis, superioritate et ressorto dumtaxat exceptis, tradiderit in recompesacionem [<hi rend="i">sic</hi>] vicecomitatuum Leomannie etAltivillaris, et licet dictus genitor noster in dictis castro et castellania cavalcatam haberet et eam interdum receperit, nichilominus habitatores dictorum castri et castellanie dictam cavalcatam prefato comiti solvere contradicunt indebite et injuste et contra predicte tradicionis tenorem.<note id="expose">Exposé.</note></seg>
-          <seg corresp="dispositif">Unde mandamus vobis quatinus, si, visis litteris super dicta assignacione confectis, vocatis dictis habitatoribus, procuratore nostro et aliis evocandis, constiterit ita esse, dictam cavalcatam faciatis predicto comiti liberari et sine difficultate persolvi, prout fuerit racionis, ad hoc illos quos ad hoc teneri noveritis debite compellendo.<note id="dispositif">Dispositif (ordre exprimé par le terme mandamus)</note></seg>
-          <seg corresp="date">Datum Parisius, die lune post Brandones, anno Domini M° CCC° XVI°<note id="date">Date de de temps.</note></seg>
+          <seg corresp="suscription">Philippus, Dei gratia Francorum et Navarre rex,<note xml:id="suscription">Suscription (nom, formule de dévotion, titre)</note></seg>
+          <seg corresp="adresse">senescallo Petragoricensi et Caturcensi aut ejus locumtenenti,<note xml:id="adresse">Adresse individuelle.</note></seg>
+          <seg corresp="salut">salutem.<note xml:id="salut">Salut (l’acte est rédigé en forme de lettre)</note></seg>
+          <seg corresp="expose">Dilectus et fidelis noster Archambaudus comes Petragoricensis nobis fecit exponi, graviter conquerendo, quod, cum carissimus dominus et genitor noster dudum eidem comiti seu genitori suo castrum et castellaniam de Calciata cum omnibus pertinenciis, juribus, redditibus, redibenciis, justicia alta et bassa et omnibus aliis juribus que dicto domino et genitori nostro pertinere poterunt quomodolibet in premissis, superioritate et ressorto dumtaxat exceptis, tradiderit in recompesacionem [<hi rend="i">sic</hi>] vicecomitatuum Leomannie etAltivillaris, et licet dictus genitor noster in dictis castro et castellania cavalcatam haberet et eam interdum receperit, nichilominus habitatores dictorum castri et castellanie dictam cavalcatam prefato comiti solvere contradicunt indebite et injuste et contra predicte tradicionis tenorem.<note xml:id="expose">Exposé.</note></seg>
+          <seg corresp="dispositif">Unde mandamus vobis quatinus, si, visis litteris super dicta assignacione confectis, vocatis dictis habitatoribus, procuratore nostro et aliis evocandis, constiterit ita esse, dictam cavalcatam faciatis predicto comiti liberari et sine difficultate persolvi, prout fuerit racionis, ad hoc illos quos ad hoc teneri noveritis debite compellendo.<note xml:id="dispositif">Dispositif (ordre exprimé par le terme mandamus)</note></seg>
+          <seg corresp="date">Datum Parisius, die lune post Brandones, anno Domini M° CCC° XVI°<note xml:id="date">Date de de temps.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

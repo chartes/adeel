@@ -127,12 +127,12 @@
       <div class="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="suscription">Clemens episcopus servus servorum Dei,<note id="suscription">Suscription.</note></seg>
-          <seg corresp="adresse">venerabili fratri . . episcopo Parisiensi,<note id="adresse">Adresse.</note></seg>
-          <seg corresp="salut">salutem et apostolicam benedictionem.<note id="salut">Salut.</note></seg>
-          <seg corresp="expose">Supplicationi qua dilecti filii magistri pauperes qui, in artibus adepti magisterii dignitatem, in theologica facultate student et in vico ad Portas ante palatium de Termis Parisius sub communi vita degunt, attenta instantia nos pulsarunt, benignum accomodantes auditum,<note id="expose">Exposé.</note></seg>
-          <seg corresp="dispositif">fraternitatem tuam rogamus, et hortamur attente, quatinus magistris ipsis habendi oratorium in domo ipsa, in quo illi ex ipsis qui fuerint in sacerdotio constituti, aliis predictis magistris presentibus et audientibus, ac alii etiam ydonei capellani, quos ab ipsis magistris ad hoc requiri contigerit specialiter et vocari, cum opus fuerit, magistris eisdem divina officia celebrare possint, absque juris prejudicio alieni, ob nostram et apostolice Sedis reverentiam, licentiam quam habere postulant et affectant, si expedire videris, liberaliter largiaris, ut ex nostra intercessione, quam sibi efficaciter sperant prodesse, salubre suum in hoc propositum fuisse gaudeant adimpletum, et nos devotionem tuam dignis proinde laudibus prosequi debeamus.<note id="dispositif">Dispositif.</note></seg>
-          <seg corresp="date">Datum Viterbii, III° kalendas aprilis, pontificatus nostri anno quarto.<note id="date">Date de lieu et de temps.</note></seg>
+          <seg corresp="suscription">Clemens episcopus servus servorum Dei,<note xml:id="suscription">Suscription.</note></seg>
+          <seg corresp="adresse">venerabili fratri . . episcopo Parisiensi,<note xml:id="adresse">Adresse.</note></seg>
+          <seg corresp="salut">salutem et apostolicam benedictionem.<note xml:id="salut">Salut.</note></seg>
+          <seg corresp="expose">Supplicationi qua dilecti filii magistri pauperes qui, in artibus adepti magisterii dignitatem, in theologica facultate student et in vico ad Portas ante palatium de Termis Parisius sub communi vita degunt, attenta instantia nos pulsarunt, benignum accomodantes auditum,<note xml:id="expose">Exposé.</note></seg>
+          <seg corresp="dispositif">fraternitatem tuam rogamus, et hortamur attente, quatinus magistris ipsis habendi oratorium in domo ipsa, in quo illi ex ipsis qui fuerint in sacerdotio constituti, aliis predictis magistris presentibus et audientibus, ac alii etiam ydonei capellani, quos ab ipsis magistris ad hoc requiri contigerit specialiter et vocari, cum opus fuerit, magistris eisdem divina officia celebrare possint, absque juris prejudicio alieni, ob nostram et apostolice Sedis reverentiam, licentiam quam habere postulant et affectant, si expedire videris, liberaliter largiaris, ut ex nostra intercessione, quam sibi efficaciter sperant prodesse, salubre suum in hoc propositum fuisse gaudeant adimpletum, et nos devotionem tuam dignis proinde laudibus prosequi debeamus.<note xml:id="dispositif">Dispositif.</note></seg>
+          <seg corresp="date">Datum Viterbii, III° kalendas aprilis, pontificatus nostri anno quarto.<note xml:id="date">Date de lieu et de temps.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

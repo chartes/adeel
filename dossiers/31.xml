@@ -15,8 +15,8 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language id="frm">Ancien français</language>
-        <language id="fre">Français</language>
+        <language xml:id="frm">Ancien français</language>
+        <language xml:id="fre">Français</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -93,14 +93,14 @@
       <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="suscription">Loys, ainsné filz du roy de France, daulphin de Viennoys, conte de Valentinoys et de Dioys,<note id="suscription">Suscription</note></seg>
-          <seg corresp="adresse">a nostre amé et feal Girault Aymar, escuier, seigneur de Granhan<note id="adresse">Adresse (placée après la suscription, dénote une infériorité hiérarchique ou sociale</note></seg>, <seg corresp="salut">Salut et dilection<note id="salut">Salut</note></seg>. <seg corresp="expose">Comme par l'accort et traictié fait entre nous, d'une part, et vous, d'autre, sur le fait de l'eschange de la place, terre et seigneurie de Grillen a la terre et seigneurie de Marsenne et la moitié du peage de Laine et des empses de Savasse vous nous doiez presentement delivrer et mettre en noz mains ladicte place, terre et seigneurie de Grillen ensemble toutes les rentes et revenues, ainsi que par le traictié sur ce fait peut apparoir, <note id="expose">Exposé.</note></seg>
-          <seg corresp="notification">savoir vous faisons que<note id="notification">Notification (personnelle)</note></seg>, 
-          <seg corresp="substitut">nous confians a plain de la loyauté, souffisance et bonne preudomie de nostre amé et feal escuie r d'escuierie Hugues de Verdun, seigneur de Sainte Camelle, icelui avons commis et ordonné, commettons et ordonnons par ces presentes a prandre la possession, la garde et joïssance de ladicte place de Grillen, pour et en nostre nom<note id="substitut">Substitut de Dispositif (verbe-clef : ’commettons’)</note></seg>,                        
-          <seg corresp="clause_injonctive">Si vous mandons et expressement enjoingnons que icelle place de Grillen avec toute la revenue, ainsi que ledit traictié le contient, vous lui baillez et mettez en ses mains pour et en nostre nom.<note id="clause_injonctive">Clause injonctive</note></seg><seg corresp="Clause_decharge">Et en ce faisant nous vous en tendrons quitte et deschargé partout ou besoing sera, sans aucunement aller au contraire.<note id="Clause_decharge">Clause de décharge</note></seg>
-          <seg corresp="clause_intentionnelle">Car ainsi nous plaist il et voulons estre fait<note id="clause_intentionnelle">Clause intentionnelle</note></seg>. <seg corresp="date_finale">Donné au Monteil Aymart, le XXVI<hi rend="sup">me</hi> jour de may, l'an de grace mil CCCC quarante et sept<note id="date_finale">Date finale de lieu et de temps.</note></seg>. <seg corresp="mention">Par monseigneur le daulphin en son conseil<note id="mention">Mention hors-teneur (mention de commandement)</note></seg>.
+          <seg corresp="suscription">Loys, ainsné filz du roy de France, daulphin de Viennoys, conte de Valentinoys et de Dioys,<note xml:id="suscription">Suscription</note></seg>
+          <seg corresp="adresse">a nostre amé et feal Girault Aymar, escuier, seigneur de Granhan<note xml:id="adresse">Adresse (placée après la suscription, dénote une infériorité hiérarchique ou sociale</note></seg>, <seg corresp="salut">Salut et dilection<note xml:id="salut">Salut</note></seg>. <seg corresp="expose">Comme par l'accort et traictié fait entre nous, d'une part, et vous, d'autre, sur le fait de l'eschange de la place, terre et seigneurie de Grillen a la terre et seigneurie de Marsenne et la moitié du peage de Laine et des empses de Savasse vous nous doiez presentement delivrer et mettre en noz mains ladicte place, terre et seigneurie de Grillen ensemble toutes les rentes et revenues, ainsi que par le traictié sur ce fait peut apparoir, <note xml:id="expose">Exposé.</note></seg>
+          <seg corresp="notification">savoir vous faisons que<note xml:id="notification">Notification (personnelle)</note></seg>, 
+          <seg corresp="substitut">nous confians a plain de la loyauté, souffisance et bonne preudomie de nostre amé et feal escuie r d'escuierie Hugues de Verdun, seigneur de Sainte Camelle, icelui avons commis et ordonné, commettons et ordonnons par ces presentes a prandre la possession, la garde et joïssance de ladicte place de Grillen, pour et en nostre nom<note xml:id="substitut">Substitut de Dispositif (verbe-clef : ’commettons’)</note></seg>,                        
+          <seg corresp="clause_injonctive">Si vous mandons et expressement enjoingnons que icelle place de Grillen avec toute la revenue, ainsi que ledit traictié le contient, vous lui baillez et mettez en ses mains pour et en nostre nom.<note xml:id="clause_injonctive">Clause injonctive</note></seg><seg corresp="Clause_decharge">Et en ce faisant nous vous en tendrons quitte et deschargé partout ou besoing sera, sans aucunement aller au contraire.<note xml:id="Clause_decharge">Clause de décharge</note></seg>
+          <seg corresp="clause_intentionnelle">Car ainsi nous plaist il et voulons estre fait<note xml:id="clause_intentionnelle">Clause intentionnelle</note></seg>. <seg corresp="date_finale">Donné au Monteil Aymart, le XXVI<hi rend="sup">me</hi> jour de may, l'an de grace mil CCCC quarante et sept<note xml:id="date_finale">Date finale de lieu et de temps.</note></seg>. <seg corresp="mention">Par monseigneur le daulphin en son conseil<note xml:id="mention">Mention hors-teneur (mention de commandement)</note></seg>.
         </p>
-        <p><seg corresp="Nom_signature"><hi rend="b">(Signé :</hi>) Bochetel (<hi rend="b">paraphe</hi>)<note id="Nom_signature">Nom-signature du notaire et sécrétaire responsable de l’établissement</note></seg></p>
+        <p><seg corresp="Nom_signature"><hi rend="b">(Signé :</hi>) Bochetel (<hi rend="b">paraphe</hi>)<note xml:id="Nom_signature">Nom-signature du notaire et sécrétaire responsable de l’établissement</note></seg></p>
       </div>
       <div type="diplomatic">
         <head>Commentaire diplomatique</head>
