@@ -28,13 +28,19 @@ get_image_id = lambda id: "http://193.48.42.68/loris/adele/dossiers/{0}.jpg/full
 get_insert_stmt = lambda table,fields,values : "INSERT INTO {0} ({1}) VALUES ({2});".format(table, fields, values)
 get_delete_stmt = lambda table,where_clause="" : "DELETE FROM {0} {1};".format(table, where_clause)
 
+clean = lambda s : s.replace("&","&amp;").replace(">","&gt;").replace("<","&lt;")
 
-def stringify(node):
-    parts = ([node.text] +
-             list(chain((ET.tounicode(c) for c in node.getchildren()))) +
-             [node.tail])
-    parts = filter(None, parts)
-    return ''.join(parts).strip()
+p = re.compile("<[^>]+>(.*)<\/[^>]+>")
+def get_tag_xml_content(node):
+    m = re.match(p, ET.tounicode(node))
+    return m.group(1)
+
+#def stringify(node):
+#    parts = ([node.text] +
+#             list(chain((ET.tounicode(c) for c in node.getchildren()))) +
+#             [node.tail])
+#    parts = filter(None, parts)
+#    return ''.join(parts).strip()
 
 
 """
@@ -115,7 +121,7 @@ for f in filenames:
     for coords_figdesc, note_figdesc in facsim_image_zone_figdesc:
         try:
             check_coords_validity(coords_figdesc)
-            dossiers[f]["image_zone"].append({"coords": coords_figdesc, "note": stringify(note_figdesc)})
+            dossiers[f]["image_zone"].append({"coords": coords_figdesc, "note": clean(get_tag_xml_content(note_figdesc))})
         except ValueError:
             facsim_coords_error.append((f, coords_figdesc))
 
@@ -146,10 +152,10 @@ print("NB_INSERT image_zone:", cnt)
 
 print("=" * 80)
 print("SQL statements written to 'insert_statements.sql'")
-with open('insert_statements.sql', 'w') as f:
+with open('insert_statements.sql', 'w+') as f:
+    f.write(get_delete_stmt("image_zone"))
+    f.write("\n" + "--" + "==" * 40 + "\n")
     for dossier in dossiers.values():
-        f.write(get_delete_stmt("image_zone"))
-        f.write("\n" + "--" + "=="*40 + "\n")
         for i in insert_image_zone(dossier):
             f.write(i + "\n")
 
