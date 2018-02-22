@@ -57,7 +57,8 @@ def insert_image_zone(dossier):
         get_insert_stmt(
             "image_zone",
             "manifest_url,img_id,zone_id,coords,note",
-            ",".join(['"{0}"'.format(v) if v is not None else "null" for v in value])
+            ",".join(['"{0}"'.format(v.replace("\"", "&quot;"))
+                      if v is not None else "null" for v in value])
         )
         for value in values
     ]
@@ -140,6 +141,17 @@ for dossier in dossiers.values():
         print(i)
         cnt+=1
 print("NB_INSERT image_zone:", cnt)
+
+
+
+print("=" * 80)
+print("SQL statements written to 'insert_statements.sql'")
+with open('insert_statements.sql', 'w') as f:
+    for dossier in dossiers.values():
+        f.write(get_delete_stmt("image_zone"))
+        f.write("\n" + "--" + "=="*40 + "\n")
+        for i in insert_image_zone(dossier):
+            f.write(i + "\n")
 
 #for d in insert_image_zone(dossiers["20.xml"]):
 #    print(d)
