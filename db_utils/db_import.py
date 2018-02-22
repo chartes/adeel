@@ -28,7 +28,7 @@ get_image_id = lambda id: "http://193.48.42.68/loris/adele/dossiers/{0}.jpg/full
 get_insert_stmt = lambda table,fields,values : "INSERT INTO {0} ({1}) VALUES ({2});".format(table, fields, values)
 get_delete_stmt = lambda table,where_clause="" : "DELETE FROM {0} {1};".format(table, where_clause)
 
-clean = lambda s : s.replace("&","&amp;").replace(">","&gt;").replace("<","&lt;")
+clean = lambda s : s.replace("&amp;","&").replace("&gt;",">").replace("&lt;","<")
 
 p = re.compile("<[^>]+>(.*)<\/[^>]+>")
 def get_tag_xml_content(node):
@@ -55,7 +55,7 @@ def insert_image_zone(dossier):
             dossier["img_id"],
             str(zone_id),
             t["coords"],
-            t["note"] if t["note"] is not None else "null"]
+            '"{0}"'.format(t["note"].replace('"', '\\"')) if t["note"] is not None else "null"]
         )
         zone_id += 1
     #generate insert statements
@@ -63,7 +63,7 @@ def insert_image_zone(dossier):
         get_insert_stmt(
             "image_zone",
             "manifest_url,img_id,zone_id,coords,note",
-            '"{0}","{1}",{2},"{3}","{4}"'.format(*[v.replace('"', '\\"') for v in value])
+            '"{0}","{1}",{2},"{3}",{4}'.format(*value)
         )
         for value in values
     ]
