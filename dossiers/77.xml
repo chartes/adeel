@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI n="77">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -108,7 +108,7 @@
           <p>Louis [XI], roi de France, accorde au duc de Bourgogne [Charles le Téméraire], qui l’en a prié lors des pourparlers menés à Ham puis Péronne, que le Parlement de Paris ne recevra plus directement les appels du pays de Flandre, et que ceux-ci seront désormais faits selon les lois et traditions de Flandre, c’est-à-dire vers le comte ou sa chambre du Conseil. — Mention d’enregistrement au Parlement de Paris le 2 mars 1469 (n.st.).</p>
         </div>
       </div>
-      <div part="speech">
+      <div type="speech">
         <head>Parties du discours</head> 
         <p>
           <seg corresp="suscription"> Loys, par la grace de Dieu roy de France
