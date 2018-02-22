@@ -29,7 +29,7 @@
 *   17 label
 *    <strike>9 xref</strike>
 *    <strike>8 span</strike>
-*    <strike>7 lg</strike
+*    <strike>7 lg</strike>
 *    <strike>7 i</strike>
 *    7 editor
 *    <strike>6 li</strike>
