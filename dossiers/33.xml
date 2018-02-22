@@ -213,16 +213,15 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <figure rend="33/faxexternes.jpg">
-            <figDesc>
-              <seg rend="125,7,172,5,220,4,252,4,305,6,332,4,363,6,402,6,438,6,469,8,499,8,526,11,546,9,563,12,581,14,604,17,619,18,627,23,605,27,573,30,509,34,459,35,418,36,378,36,332,37,303,35,247,35,207,35,155,33,127,31,102,30,77,28,65,28,49,27,35,25,20,21,13,19,22,17,34,15,47,13,63,12">« Alphabet » formant la « devise » (divisa) qui sépare les deux portions du chirographe, ou « charte partie » (carta partita per alphabetum). On reconnaît sans peine les parties inférieures des lettres de “A” à “P” (il n?y a pas de “J” distinct du “I”).</seg>
-              <seg rend="333,64,340,62,344,67,342,70,333,72,330,65">Le nom de l?autre co-auteur est traité comme celui de l?abbé : la pratique est d?autant plus délibérée que le père d?Amaury, Simon, est lui aussi désigné par son initiale, alors que son oncle Guy, simple témoin, voit plus bas son nom écrit en entier. Dans la liste de témoins, les motifs sont autres : l?initiale est plutôt employée par économie, quand la résolution est presque évidente (P. pour Petrus, W. pour Willelmus, R. pour Raymundus, A. pour Arnaldus…).</seg>
-              <seg rend="454,44,461,52,457,63,446,57,446,51,451,46">L?abbé, co-auteur de l?acte, n?est jamais désigné que par son titre et l?initiale de son nom personnel, encadré de deux points. Manière de suggérer qu?il agit ici pleinement comme autorité, et non comme particulier.</seg> 
-              <seg rend="622,50,631,54,634,57,628,63,622,63,616,60,613,54,619,53">Employant presque tout l?espace utile sans modifier la taille ni l?espacement des lettres et des mots, le scribe est amené à pratiquer des coupures, soigneusement signalées par un tiret (6 lignes contre 8).</seg>
-              <seg rend="130,262,143,269,154,275,156,283,151,290,145,298,132,301,124,300,118,297,109,295,107,290,105,283,107,277,110,272,113,269,117,264,122,262,133,263,142,264">Double queue de parchemin.</seg>
-              <seg rend="319,271,332,273,339,274,343,280,341,283,333,285,326,288,318,287,309,285,300,283,298,280,300,277,308,273,312,270">Fente dans le repli, attache (une double queue de parchemin) disparue.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="33/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="125,7,172,5,220,4,252,4,305,6,332,4,363,6,402,6,438,6,469,8,499,8,526,11,546,9,563,12,581,14,604,17,619,18,627,23,605,27,573,30,509,34,459,35,418,36,378,36,332,37,303,35,247,35,207,35,155,33,127,31,102,30,77,28,65,28,49,27,35,25,20,21,13,19,22,17,34,15,47,13,63,12">« Alphabet » formant la « devise » (divisa) qui sépare les deux portions du chirographe, ou « charte partie » (carta partita per alphabetum). On reconnaît sans peine les parties inférieures des lettres de “A” à “P” (il n’y a pas de “J” distinct du “I”).</seg>
+            <seg rend="333,64,340,62,344,67,342,70,333,72,330,65">Le nom de l’autre co-auteur est traité comme celui de l’abbé : la pratique est d’autant plus délibérée que le père d’Amaury, Simon, est lui aussi désigné par son initiale, alors que son oncle Guy, simple témoin, voit plus bas son nom écrit en entier. Dans la liste de témoins, les motifs sont autres : l’initiale est plutôt employée par économie, quand la résolution est presque évidente (P. pour Petrus, W. pour Willelmus, R. pour Raymundus, A. pour Arnaldus…).</seg>
+            <seg rend="454,44,461,52,457,63,446,57,446,51,451,46">L’abbé, co-auteur de l’acte, n’est jamais désigné que par son titre et l’initiale de son nom personnel, encadré de deux points. Manière de suggérer qu’il agit ici pleinement comme autorité, et non comme particulier.</seg> 
+            <seg rend="622,50,631,54,634,57,628,63,622,63,616,60,613,54,619,53">Employant presque tout l’espace utile sans modifier la taille ni l’espacement des lettres et des mots, le scribe est amené à pratiquer des coupures, soigneusement signalées par un tiret (6 lignes contre 8).</seg>
+            <seg rend="130,262,143,269,154,275,156,283,151,290,145,298,132,301,124,300,118,297,109,295,107,290,105,283,107,277,110,272,113,269,117,264,122,262,133,263,142,264">Double queue de parchemin.</seg>
+            <seg rend="319,271,332,273,339,274,343,280,341,283,333,285,326,288,318,287,309,285,300,283,298,280,300,277,308,273,312,270">Fente dans le repli, attache (une double queue de parchemin) disparue.</seg>
+          </figDesc>
           <p>Noter de façon générale l'écriture posée, et la disposition soignée, encore que sobre, du texte.</p>
         </div>
         <div>

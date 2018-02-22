@@ -206,18 +206,17 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head> 
-          <figure rend="53/faxexternes.jpg">
-            <figDesc>
-              <seg rend="181,32,19">Lettres allongées (le “-te” après une ligature “-ct-” y échappe).</seg>
-              <seg rend="229,30,17">Lettres conjointes : un élément commun au “t” et au “r”.</seg>
-              <seg type="rect" rend="197,57,257,74">Lettres capitales.</seg>
-              <seg rend="351,154,13">Contrairement à ses usages postérieurs, la chancellerie n?interdit pas encore les coupures de mots en fin de ligne. Les coupures sont inégalement signalées par un trait d?union (2 cas contre 4).</seg>
-              <seg rend="57,231,18">Ligature “-st-” allongée (trait d?influence pontificale).</seg>
-              <seg rend="68,381,11">Point virgule de clôture du discours (alterne avec le point, avec une valeur apparemment renforcée).</seg>
-              <seg rend="233,655,77">Monogramme, très proche de celui de Louis VI et, plus loin, de celui de Louis le Pieux. La structure porteuse, en forme de H, impose de lire le nom à l?ancienne, “Hludovicus”.</seg>
-              <seg rend="187,761,38">Attache du sceau.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="53/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="181,32,19">Lettres allongées (le “-te” après une ligature “-ct-” y échappe).</seg>
+            <seg rend="229,30,17">Lettres conjointes : un élément commun au “t” et au “r”.</seg>
+            <seg type="rect" rend="197,57,257,74">Lettres capitales.</seg>
+            <seg rend="351,154,13">Contrairement à ses usages postérieurs, la chancellerie n?interdit pas encore les coupures de mots en fin de ligne. Les coupures sont inégalement signalées par un trait d?union (2 cas contre 4).</seg>
+            <seg rend="57,231,18">Ligature “-st-” allongée (trait d?influence pontificale).</seg>
+            <seg rend="68,381,11">Point virgule de clôture du discours (alterne avec le point, avec une valeur apparemment renforcée).</seg>
+            <seg rend="233,655,77">Monogramme, très proche de celui de Louis VI et, plus loin, de celui de Louis le Pieux. La structure porteuse, en forme de H, impose de lire le nom à l?ancienne, “Hludovicus”.</seg>
+            <seg rend="187,761,38">Attache du sceau.</seg>
+          </figDesc>
           <p>L’acte se distingue au premier coup d’œil par sa solennité (allure épigraphique de la première ligne, qui correspond à l’invocation ; somptueux monogramme royal ; traitement graphique soigné). Cet apprêt répond à l’appel à la perpétuité répété au fil du texte, pour désigner la production la plus solennelle de la chancellerie capétienne, le « diplôme ». Pourtant, même s’il est d’assez grandes dimensions, le parchemin est moins vaste que d’autres. La disproportion entre hauteur et largeur, au profit de la hauteur, est assez générale depuis Philippe I<hi rend="sup">er</hi> et disparaîtra au fil du XII<hi rend="sup">e</hi> siècle, mais elle est ici exceptionnelle (l’acte est deux fois plus haut que large, alors que la moitié des originaux de Louis VI sont dans un rapport 1 à 1,2 pour 1, et le quart seulement dans un rapport 1,2 à 1,4 pour 1). Cette étroitesse, comme l’inexistence des marges, est un marqueur du caractère ponctuel de la concession, même perpétuelle et emphatique. Autres traits typiques de la graphie et de la mise en page dans ces décennies : l’emploi de “e” cédillés, parfois à contretemps (æxactione), la recherche de symétrie, le découpage du texte en plusieurs alinéas.</p>
         </div>
         <div>

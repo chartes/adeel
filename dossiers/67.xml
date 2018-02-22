@@ -118,17 +118,16 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head> 
-          <figure rend="67/faxexternes.jpg">
-            <figDesc>
-              <seg rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
-              <seg rend="153,177,12">Début de l’acte vidimé</seg>
-              <seg rend="574,259,8">Fin de l’acte vidimé</seg>
-              <seg rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
-              <seg rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
-              <seg rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
-              <seg rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="67/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="89,78,105,71,111,22,171,22,168,36,139,44,137,95,89,100,84,85">Initiale ornée</seg>
+            <seg rend="153,177,12">Début de l’acte vidimé</seg>
+            <seg rend="574,259,8">Fin de l’acte vidimé</seg>
+            <seg rend="313,335,48">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
+            <seg rend="358,308,382,304,415,307,413,317,388,320,362,320,353,310,358,309">Fente pour le scellement ?</seg>
+            <seg rend="488,283,545,290,577,308,573,340,530,360,492,359,441,354,418,329,429,301,461,288">Seings manuels des tabellions : la proximité de l’écriture suggère que c’est Bouton qui a mis l’acte au net. Noter la divergence des paraphes qui ornent et complètent le patronyme dans le seing, et la présence insistante dans l’un et l’autre de dessins rappelant la lettre <hi rend="i">n</hi> (pour <hi rend="i">nota</hi>, <hi rend="i">notavi</hi>, <hi rend="i">notarius</hi>… ?).</seg>
+            <seg rend="523,183,543,195,526,210,512,205,506,193,519,183">Un passage blanc (sans doute après grattage) est occupé par un trait destiné à empêcher toute addition frauduleuse.</seg>
+          </figDesc>
           <p>L’acte est rédigé sur un parchemin plus large que haut, soigneusement coupé. Les marges sont importantes sauf sur le bord droit ; on peut se demander si le document n’a pas été plus tard rogné à droite. Les interlignes sont très réguliers. La justification est correcte à gauche mais assez approximative sur la droite, où la fin des lignes est remplie de fins coups de plume. Il se dégage au premier coup d’œil une application, un apprêt que renforce la graphie.</p>
           <p>L’écriture est en effet régulière et soignée ; elle a été tracée avec une plume épaisse. Économe d’abréviations, comme c’est très souvent le cas des actes rédigés en français, elle ne pose pas de problèmes de lecture. Le soin graphique, qui joue des effets de scansion propres à la mixte et à ses nombreux traits obliques, est confirmé par le traitement solennel des trois mots initiaux, grossis et dont le <hi rend="i">A</hi> initial est légèrement orné.</p>
           <p>On n’observe pas de trace apparente de sceau, mais on devine la double fente (repli déplié) par où passait une double queue de parchemin. Sa position excentrée tendrait à confirmer l’hypothèse selon laquelle le document a été rogné sur sa partie droite.</p>

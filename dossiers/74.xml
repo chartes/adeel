@@ -140,20 +140,19 @@
       <div type="diplomatic">
         <div>
           <head>Caractères externes</head> 
-          <figure rend="74/faxexterne.jpg">
-            <figDesc>
-              <seg rend="33,46,36,23,43,9,49,1,55,1,66,11,72,33,73,51,73,70,73,91,66,93,69,106,63,119,53,125,42,116,35,96,31,66,34,32,39,10">Chrismon</seg>
-              <seg rend="172,51,174,39,182,37,186,43,186,55,185,63,179,67,170,62,172,53">Graphie wisigothique du “g”</seg>
-              <seg rend="275,40,283,46,279,56,273,60,270,60,265,59,261,50,264,42,270,38,275,41">Graphie wisigothique du “a”</seg>
-              <seg rend="466,40,478,32,482,38,487,46,484,55,476,60,468,58,464,49">Graphie wisigothique du “t”</seg>
-              <seg rend="377,180,393,181,396,186,395,201,389,205,381,204,373,199,370,193,374,184">Graphie wisigothique du “e” en ligature</seg>
-              <seg rend="82,242,95,237,103,241,105,248,105,257,101,263,93,267,83,261,80,256,81,245">Graphie non wisigothique de “es”</seg>
-              <seg rend="133,241,140,248,140,260,134,265,127,265,121,262,118,253,121,244,126,243">Graphie wisigothique de “es”</seg>
-              <seg rend="342,341,361,332,373,339,381,346,383,355,381,361,374,371,361,380,347,375,337,364,335,354,343,336">Graphie wisigothique de “XLa”. Les éditeurs du <hi rend="i">Recueil des chartes de l’abbaye de Cluny…</hi> s’y sont laissé prendre et n’ont pas vu le “L” suspendu à la barre du “X”. Ils ont donc lu “millesima C<hi rend="sup">a</hi> X<hi rend="sup">a</hi> VII<hi rend="sup">a</hi>” (an 1117 de l’ère) et converti “1079”, tout en relevant les incohérences chronologiques soulevées par cette datation.</seg>
-              <seg rend="512,316,529,319,530,330,530,340,521,348,506,347,501,339,501,327,502,320">Tilde orné</seg>
-              <seg rend="559,412,615,405,656,411,691,423,722,453,730,478,721,501,709,520,657,547,596,555,551,546,504,515,494,492,499,459,523,432,569,410,596,407">Seing d’Urraka, incluant les lettres de son nom et, à gauche, les lettres f (?), m et t, apparemment comme le seing du rédacteur (pour “firmat” ?).</seg>
-            </figDesc>
-          </figure>
+          <figure rend="74/faxexterne.jpg"/>
+          <figDesc>
+            <seg rend="33,46,36,23,43,9,49,1,55,1,66,11,72,33,73,51,73,70,73,91,66,93,69,106,63,119,53,125,42,116,35,96,31,66,34,32,39,10">Chrismon</seg>
+            <seg rend="172,51,174,39,182,37,186,43,186,55,185,63,179,67,170,62,172,53">Graphie wisigothique du “g”</seg>
+            <seg rend="275,40,283,46,279,56,273,60,270,60,265,59,261,50,264,42,270,38,275,41">Graphie wisigothique du “a”</seg>
+            <seg rend="466,40,478,32,482,38,487,46,484,55,476,60,468,58,464,49">Graphie wisigothique du “t”</seg>
+            <seg rend="377,180,393,181,396,186,395,201,389,205,381,204,373,199,370,193,374,184">Graphie wisigothique du “e” en ligature</seg>
+            <seg rend="82,242,95,237,103,241,105,248,105,257,101,263,93,267,83,261,80,256,81,245">Graphie non wisigothique de “es”</seg>
+            <seg rend="133,241,140,248,140,260,134,265,127,265,121,262,118,253,121,244,126,243">Graphie wisigothique de “es”</seg>
+            <seg rend="342,341,361,332,373,339,381,346,383,355,381,361,374,371,361,380,347,375,337,364,335,354,343,336">Graphie wisigothique de “XLa”. Les éditeurs du <hi rend="i">Recueil des chartes de l’abbaye de Cluny…</hi> s’y sont laissé prendre et n’ont pas vu le “L” suspendu à la barre du “X”. Ils ont donc lu “millesima C<hi rend="sup">a</hi> X<hi rend="sup">a</hi> VII<hi rend="sup">a</hi>” (an 1117 de l’ère) et converti “1079”, tout en relevant les incohérences chronologiques soulevées par cette datation.</seg>
+            <seg rend="512,316,529,319,530,330,530,340,521,348,506,347,501,339,501,327,502,320">Tilde orné</seg>
+            <seg rend="559,412,615,405,656,411,691,423,722,453,730,478,721,501,709,520,657,547,596,555,551,546,504,515,494,492,499,459,523,432,569,410,596,407">Seing d’Urraka, incluant les lettres de son nom et, à gauche, les lettres f (?), m et t, apparemment comme le seing du rédacteur (pour “firmat” ?).</seg>
+          </figDesc>
           <p>Les caractères externes les plus éclatants sont ceux qui sont enracinés dans les traditions ibériques. Le document affiche en effet une large originalité face à la matrice carolingienne des actes de souverains au nord des Pyrénées. Il emprunte sa disposition d’ensemble à l’acte privé, n’y ajoutant qu’une ornementation supplémentaire (lettres capitales, tildes ornés, application graphique, seings décorés). Élément totalement étranger à l’acte souverain d’empreinte carolingienne, le scribe-rédacteur trace un seing-monogramme de même forme et de même taille que celui de la princesse. C’est ainsi le début timide d’organisation des souscripteurs en colonnes qui signe le mieux la différence avec l’acte privé, où ils viennent ordinairement à longue ligne.</p>
           <p>Second trait éclatant, et concordant, dans les rémanences d’écriture wisigothique, qui est d’ailleurs en train de disparaître et ne subsiste plus, assez contrainte et artificielle, que dans quelques lettres (a, t, e en ligature, XL de l’année), peinant même à se maintenir face à la déferlante de l’écriture caroline. Quelque crédit que l’on accorde à l’idée commune selon laquelle les conciles de Burgos et León de 1080 et 1090 auraient explicitement remplacé la liturgie hispanique par la romaine, et l’écriture wisigothique par la caroline (pour les seuls livres liturgiques), on est bien ici à un tournant : dans les années 1130, la victoire de la caroline sera totale.</p>
         </div>

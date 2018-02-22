@@ -139,17 +139,16 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <figure rend="41/faxexternes.jpg">
-            <figDesc>
-              <seg rend="67,71,39">Seule l’initiale du nom pontifical est grossie</seg>
-              <seg rend="160,81,9">Tilde plat (titulus planus)</seg>
-              <seg rend="303,83,19">Rares initiales traitées en majuscule</seg>
-              <seg rend="694,81,17">Initiale du début du texte grossie</seg>
-              <seg rend="512,116,14">Absence de ligature allongée aux groupes "st" et "ct".’,512</seg>
-              <seg rend="497,402,529,395,619,395,654,402,613,410,533,409">Etirement des lignes comprenant la date</seg>
-              <seg rend="428,452,23">Attache de la bulle</seg>
-            </figDesc>
-          </figure>
+          <figure rend="41/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="67,71,39">Seule l’initiale du nom pontifical est grossie</seg>
+            <seg rend="160,81,9">Tilde plat (titulus planus)</seg>
+            <seg rend="303,83,19">Rares initiales traitées en majuscule</seg>
+            <seg rend="694,81,17">Initiale du début du texte grossie</seg>
+            <seg rend="512,116,14">Absence de ligature allongée aux groupes "st" et "ct".’,512</seg>
+            <seg rend="497,402,529,395,619,395,654,402,613,410,533,409">Etirement des lignes comprenant la date</seg>
+            <seg rend="428,452,23">Attache de la bulle</seg>
+          </figDesc>
           <p>Les abréviations sont peu nombreuses, limitées à quelques désinences et à un petit nombre de mots (hors protocole : <hi rend="i">magister, ipse, noster, apostolicus</hi>). Noter au passage la forme canonique de l’abréviation de la formule de salut : « <hi rend="i">Salt et aplicam ben</hi> ». L’allure générale est d’une grande régularité, renforcée par la maîtrise de la justification du texte, appliquée également aux deux dernières lignes, où le scribe doit mener les éléments de la date jusqu’en bout de ligne sans avoir beaucoup de choix possibles pour les couper.</p>
         </div>
         <div>

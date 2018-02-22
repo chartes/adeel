@@ -178,17 +178,16 @@
         <head>Commentaire diplomatique</head>               
         <div>
           <head>Caractères externes</head>
-          <figure rend="55/faxexternes.jpg">
-            <figDesc>
-              <seg rend="75,18,11">Tilde à boucle</seg>
-              <seg rend="364,57,11">"s" final rond</seg>
-              <seg rend="421,78,10">"i" final plongeant</seg>
-              <seg type="rect" rend="33,78,229,100">Des points servent irrégulièrement à séparer les anthroponymes ou leurs constituants</seg>
-              <seg rend="112,115,11">"i" plongeant en position médiane</seg>
-              <seg type="rect" rend="18,124,209,141">Des points servent à séparer les clauses ou termes juridiques</seg>
-              <seg rend="116,358,15">"m" plongeant en position médiane</seg>
-            </figDesc>
-          </figure>
+          <figure rend="55/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="75,18,11">Tilde à boucle</seg>
+            <seg rend="364,57,11">"s" final rond</seg>
+            <seg rend="421,78,10">"i" final plongeant</seg>
+            <seg type="rect" rend="33,78,229,100">Des points servent irrégulièrement à séparer les anthroponymes ou leurs constituants</seg>
+            <seg rend="112,115,11">"i" plongeant en position médiane</seg>
+            <seg type="rect" rend="18,124,209,141">Des points servent à séparer les clauses ou termes juridiques</seg>
+            <seg rend="116,358,15">"m" plongeant en position médiane</seg>
+          </figDesc>
           <p>La capitale redoublée à l’initiale, deux tildes à boucle sont les maigres  ornementations du début de l’acte, dont la sobriété graphique est exemplaire,  jusque dans le trait simple, peu soigné, qui occupe (presque) la fin de  la dernière ligne. L’écriture, où affleurent des indices de cursivité, reste  claire. On peut noter quelques particularités : “s” finaux ronds ; “i” finaux  plongeant sous la ligne (le même procédé peut être utilisé en milieu de  mot pour faciliter la lecture des jambages). La ponctuation, limitée à des  points, est discrète, sauf lorsqu’il s’agit d’individualiser des clauses,  des incises, des termes importants qui forment le fond de la concession  (ligne 6), des anthroponymes ou des surnoms (p. ex. 6<hi rend="sup">e</hi>-4<hi rend="sup">e</hi> ligne avant la  fin, mais de façon assez irrégulière : “Lantelmo de Jarjaya. Willelmi. de  Pontisio. juvenis.”).</p> 
           <p>Même constatation pour le scellement : le repli est modeste ; le nœud fait  à la double queue de parchemin offre solidité et amorce d’enjolivement.</p> 
         </div>

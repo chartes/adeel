@@ -186,17 +186,16 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <figure rend="32/faxexternes.jpg">
-            <figDesc>
-              <seg rend="240,49,249,49,254,54,254,61,249,66,243,69,237,65,234,60,234,54">La comtesse et, plus bas, l?évêque de Beauvais, ne sont jamais désignés que par l?initiale de leur nom, encadrée par deux points. Les autres personnages cités (Alphonse, Gaucher) sont d?abord désignés par leur nom complet et ce n?est qu?après qu?ils sont désignés par l?initiale. Ceci peut nous sembler incohérent, puisque les « acteurs » principaux ont droit à une désignation anthroponymique moins complète que les « comparses » ; mais, au contraire, insiste très profondément sur une différence de nature entre les acteurs d?actes, pourvus d?une autorité (comtesse, évêque), donc en partie dépersonnalisés (penser aux deux points suivis d?un titre), et les personnes citées comme légataires ou héritiers</seg>
-              <seg rend="588,170,596,176,598,179,597,186,595,191,589,193,583,194,579,191,577,187,578,181,581,176">Initiale du mari, Alphonse, dont le nom est cité intégralement à la ligne 1.</seg>
-              <seg rend="238,163,253,169,253,178,249,183,247,185,239,187,233,182,229,176,231,171">Initiale du gendre, Gaucher de Châtillon, dont le nom est cité intégralement à la ligne 4.</seg>
-              <seg rend="522,222,531,222,536,226,537,232,532,237,524,238,516,236,513,231,516,225">Initiale de l?évêque de Beauvais, Robert de Cressonsacq, dont le nom n?apparaît jamais sous sa forme développée.</seg>
-              <seg rend="689,271,698,266,701,258,697,251,690,248,684,250,680,255,680,262,683,266,684,270">Noter le souci de présentation de lignes à peu près justifiées à droite, et qui n?amène qu?une coupure de mot, signalées par un tiret.</seg>
-              <seg rend="644,336,660,333,680,333,691,334,698,335,711,337,717,342,725,346,727,352,719,359,709,363,694,366,684,367,672,367,660,367,647,364,638,363,631,360,624,356,619,353,617,349,620,345,628,339,633,337">Trait couvrant la fin de la dernière ligne : marqueur de fin de texte et obstacle à une addition frauduleuse (“interpolation”).</seg>
-              <seg rend="192,414,201,414,213,414,222,418,232,422,239,427,238,434,234,439,224,444,212,447,201,448,188,446,179,445,170,441,162,438,157,433,156,429,158,423,168,419,175,415,182,415">Fente dans le repli, par laquelle passait l?attache (double queue de parchemin) de l?un des deux sceaux, tous deux perdus avec leur attache.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="32/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="240,49,249,49,254,54,254,61,249,66,243,69,237,65,234,60,234,54">La comtesse et, plus bas, l?évêque de Beauvais, ne sont jamais désignés que par l?initiale de leur nom, encadrée par deux points. Les autres personnages cités (Alphonse, Gaucher) sont d?abord désignés par leur nom complet et ce n?est qu?après qu?ils sont désignés par l?initiale. Ceci peut nous sembler incohérent, puisque les « acteurs » principaux ont droit à une désignation anthroponymique moins complète que les « comparses » ; mais, au contraire, insiste très profondément sur une différence de nature entre les acteurs d?actes, pourvus d?une autorité (comtesse, évêque), donc en partie dépersonnalisés (penser aux deux points suivis d?un titre), et les personnes citées comme légataires ou héritiers</seg>
+            <seg rend="588,170,596,176,598,179,597,186,595,191,589,193,583,194,579,191,577,187,578,181,581,176">Initiale du mari, Alphonse, dont le nom est cité intégralement à la ligne 1.</seg>
+            <seg rend="238,163,253,169,253,178,249,183,247,185,239,187,233,182,229,176,231,171">Initiale du gendre, Gaucher de Châtillon, dont le nom est cité intégralement à la ligne 4.</seg>
+            <seg rend="522,222,531,222,536,226,537,232,532,237,524,238,516,236,513,231,516,225">Initiale de l?évêque de Beauvais, Robert de Cressonsacq, dont le nom n?apparaît jamais sous sa forme développée.</seg>
+            <seg rend="689,271,698,266,701,258,697,251,690,248,684,250,680,255,680,262,683,266,684,270">Noter le souci de présentation de lignes à peu près justifiées à droite, et qui n?amène qu?une coupure de mot, signalées par un tiret.</seg>
+            <seg rend="644,336,660,333,680,333,691,334,698,335,711,337,717,342,725,346,727,352,719,359,709,363,694,366,684,367,672,367,660,367,647,364,638,363,631,360,624,356,619,353,617,349,620,345,628,339,633,337">Trait couvrant la fin de la dernière ligne : marqueur de fin de texte et obstacle à une addition frauduleuse (“interpolation”).</seg>
+            <seg rend="192,414,201,414,213,414,222,418,232,422,239,427,238,434,234,439,224,444,212,447,201,448,188,446,179,445,170,441,162,438,157,433,156,429,158,423,168,419,175,415,182,415">Fente dans le repli, par laquelle passait l?attache (double queue de parchemin) de l?un des deux sceaux, tous deux perdus avec leur attache.</seg>
+          </figDesc>
         </div>
         <div>
           <head>Langue, mots, style</head>

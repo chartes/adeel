@@ -133,17 +133,16 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <figure rend="72/faxexterne.jpg">
-            <figDesc>
-              <seg rend="277,85,12">Les “i” sont inégalement pointés.</seg>
-              <seg rend="556,66,14">Les “i” sont inégalement pointés.</seg>
-              <seg rend="599,90,15">Initiale marquée par une majuscule à redoublement : signale des personnes, des institutions ou, comme ici, scande le discours.</seg>
-              <seg rend="655,202,13">Pas de justification à droite, pas de marge, guère de coupure : ici, un espace laissé blanc en fin de ligne est occupé d’un trait.</seg>
-              <seg rend="658,369,9">Mot coupé, sans tiret de coupure.</seg>
-              <seg rend="347,448,360,448,370,456,374,460,370,467,359,471,346,473,338,469,330,466,326,460,328,452,339,449,346,449">Trait final clôturant le discours.</seg>
-              <seg rend="246,469,260,463,268,462,275,462,275,465,275,473,269,482,261,489,252,494,238,497,229,498,225,491,230,480,246,469,252,465">Trace d’arrachement de la simple queue supportant le sceau ; fait disparaître la fin du nom du scribe.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="72/faxexterne.jpg"/>
+          <figDesc>
+            <seg rend="277,85,12">Les “i” sont inégalement pointés.</seg>
+            <seg rend="556,66,14">Les “i” sont inégalement pointés.</seg>
+            <seg rend="599,90,15">Initiale marquée par une majuscule à redoublement : signale des personnes, des institutions ou, comme ici, scande le discours.</seg>
+            <seg rend="655,202,13">Pas de justification à droite, pas de marge, guère de coupure : ici, un espace laissé blanc en fin de ligne est occupé d’un trait.</seg>
+            <seg rend="658,369,9">Mot coupé, sans tiret de coupure.</seg>
+            <seg rend="347,448,360,448,370,456,374,460,370,467,359,471,346,473,338,469,330,466,326,460,328,452,339,449,346,449">Trait final clôturant le discours.</seg>
+            <seg rend="246,469,260,463,268,462,275,462,275,465,275,473,269,482,261,489,252,494,238,497,229,498,225,491,230,480,246,469,252,465">Trace d’arrachement de la simple queue supportant le sceau ; fait disparaître la fin du nom du scribe.</seg>
+          </figDesc>
           <p>L’acte présente des caractères externes fréquemment rencontrés dans ce type modeste d’écrit.</p>
           <p>L’écriture court sur le bord le plus long. Les dimensions sont modestes (195x145 mm). L’espace est entièrement utilisé par le scribe, ne laissant qu’une faible mage à gauche, et coupant les mots en fin de ligne à deux reprises (lignes 11/12 et 14/15). Le souci d’économiser le parchemin est flagrant.</p>
           <p>L’acte semble avoir été écrit sans soin particulier ; ainsi, dans sa deuxième moitié, les lignes ne sont pas droites et pas toujours espacées régulièrement. Quant aux caractères graphiques, ils illustrent bien les expérimentations que connaissent les écritures documentaires du XIII<hi rend="sup">e</hi> siècle. Dérivées de l’écriture gothique, mais cursives, elles adoptent des traits originaux qui font que la cursivité devient ornement.</p>

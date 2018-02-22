@@ -160,21 +160,20 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head> 
-          <figure rend="46/faxexternes.jpg">
-            <figDesc>
-              <seg rend="40,103,16">Ornementations de lettres.</seg>
-              <seg type="rect" rend="136,104,146,131">Ornementations de lettres.</seg>
-              <seg type="rect" rend="211,96,224,128">Ornementations de lettres.</seg>
-              <seg rend="330,132,8">Signe &amp; (conjonction e + t).</seg>
-              <seg rend="245,213,8">Abréviation tironienne de et.</seg>
-              <seg rend="209,262,9">Abréviation tironienne de et.</seg>
-              <seg rend="240,291,11">Abréviation et avec tilde = et(iam).</seg>
-              <seg rend="437,279,434,316,439,364,452,375,465,342,464,301,460,275,449,261">Justification assez régulière à droite, d’autant plus habilement ménagée que, sur seize lignes pleines, deux seulement voient un mot coupé en fin de ligne (l. 11, 13), sans d’ailleurs que la coupure soit indiquée.</seg>
-              <seg rend="279,357,9">Quelques s médians capitaux.</seg>
-              <seg rend="88,366,107,359,141,357,179,361,187,368,165,377,126,377,96,374">Trait occupant l’espace sans écriture de la dernière ligne.</seg>
-              <seg rend="244,411,41">Attache du sceau (double queue de parchemin) passant deux fois dans le repli.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="46/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="40,103,16">Ornementations de lettres.</seg>
+            <seg type="rect" rend="136,104,146,131">Ornementations de lettres.</seg>
+            <seg type="rect" rend="211,96,224,128">Ornementations de lettres.</seg>
+            <seg rend="330,132,8">Signe &amp; (conjonction e + t).</seg>
+            <seg rend="245,213,8">Abréviation tironienne de et.</seg>
+            <seg rend="209,262,9">Abréviation tironienne de et.</seg>
+            <seg rend="240,291,11">Abréviation et avec tilde = et(iam).</seg>
+            <seg rend="437,279,434,316,439,364,452,375,465,342,464,301,460,275,449,261">Justification assez régulière à droite, d’autant plus habilement ménagée que, sur seize lignes pleines, deux seulement voient un mot coupé en fin de ligne (l. 11, 13), sans d’ailleurs que la coupure soit indiquée.</seg>
+            <seg rend="279,357,9">Quelques s médians capitaux.</seg>
+            <seg rend="88,366,107,359,141,357,179,361,187,368,165,377,126,377,96,374">Trait occupant l’espace sans écriture de la dernière ligne.</seg>
+            <seg rend="244,411,41">Attache du sceau (double queue de parchemin) passant deux fois dans le repli.</seg>
+          </figDesc>
           <p>L’acte est écrit sur un support de petite taille (17 x 14 cm). L’importance de la marge supérieure, la régularité de la justification, la hauteur relative du repli signent la volonté de délivrer un titre qui, pour être courant si ce n’est modeste, reste soigné. Malgré l’absence de signe figuré initial, dont l’usage se raréfie dès le siècle précédent, l’écriture trahit elle aussi une certaine volonté d’ornementation, tout en servant une évidente fonctionnalité.</p>
           <p>À la première ligne, la lettre initiale est grandie et le trait d’attaque est orné de signes décoratifs. Il en va de même pour de nombreux “s” finaux (11 sur 18), qui sont droits et dont la haste est souvent ornementée ; plus visible encore, plusieurs “p”, même médians, en particulier ceux de la première ligne, ont la forme de majuscules, combinant redoublement et allongement. On peut également remarquer des “m” initiaux de forme onciale avec prolongement sous la ligne, et des “v” initiaux avec un trait d’attaque allongé. Dans la suite de l’acte, plusieurs initiales sont grandies (leurs traits dédoublés ou grossis), en particulier à la première ligne, pour le prénom de l’auteur de l’acte juridique, pour ceux des bénéficiaires de l’acte et presque systématiquement pour la lettre initiale de chaque nouvelle partie du discours.</p>
           <p>D’autres traits dénotent une certaine volonté de clarté. Certains “i” sont pointés, comme pour (“Domino” l. 1, “Vincentii” l. 6 et “quiete” l. 8), pour éviter toute ambiguïté de lecture ; les “m” sont toujours plongeants dans toutes les positions, ce qui permet de les distinguer d’autres jambages ; les “i” initiaux sont toujours tracés en majuscule. Les signes de ponctuation utilisés sont de deux sortes, le point et le point-virgule inversé. Ils séparent des unités de sens bien plus que des unités grammaticales. Ils sont ainsi utilisés au début et à la fin des différentes parties du discours ou pour encadrer certains termes abrégés.</p>

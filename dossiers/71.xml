@@ -98,17 +98,16 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head> 
-          <figure rend="71/faxexterne.jpg">
-            <figDesc>
-              <seg rend="97,112,101,107,110,105,115,106,118,109,119,117,119,125,113,125,104,127,96,123,95,115,99,112,99,109">Majuscule à redoublement</seg>
-              <seg rend="249,108,248,98,251,92,254,93,258,90,263,90,265,92,267,100,269,108,269,115,266,122,259,125,252,124,246,119,246,108,246,100">Majuscule à redoublement</seg>
-              <seg rend="391,103,391,92,394,88,397,87,404,89,406,94,410,101,407,109,407,122,402,123,394,121,390,116,389,106,390,96">“a” à crosse allongée</seg>
-              <seg rend="657,193,657,183,663,178,670,177,675,181,678,189,679,196,679,205,674,218,664,213,658,209,655,200,657,193">“i” pointés dans certains cas de lecture ambiguë ou quand ils sont redoublés</seg>
-              <seg rend="397,327,397,318,399,309,406,305,412,305,413,316,414,325,415,329,415,339,413,347,411,358,406,356,399,351,399,341,399,331,396,325">“s” final plongeant</seg>
-              <seg rend="353,435,368,426,373,422,383,422,393,422,397,423,400,423,406,424,410,432,413,449,416,453,409,456,399,466,381,467,359,463,356,457,350,452,350,442">fente ménagée pour la double queue de parchemin aujourd’hui disparue</seg>
-              <seg rend="690,109,692,91,696,84,697,72,701,65,708,54,713,58,719,68,725,84,725,107,732,115,732,139,735,154,735,178,738,206,738,217,738,241,738,259,737,287,737,301,736,320,733,332,730,362,723,378,717,391,713,396,706,396,697,381,694,359,689,343,689,312,685,298,684,281,684,267,684,251,684,228,683,203,682,187,684,156,687,124,690,103">devise, par le milieu de laquelle passe la découpe des deux exemplaires du chirographe (un pour chaqua partie)</seg>
-            </figDesc>
-          </figure>
+          <figure rend="71/faxexterne.jpg"/>
+          <figDesc>
+            <seg rend="97,112,101,107,110,105,115,106,118,109,119,117,119,125,113,125,104,127,96,123,95,115,99,112,99,109">Majuscule à redoublement</seg>
+            <seg rend="249,108,248,98,251,92,254,93,258,90,263,90,265,92,267,100,269,108,269,115,266,122,259,125,252,124,246,119,246,108,246,100">Majuscule à redoublement</seg>
+            <seg rend="391,103,391,92,394,88,397,87,404,89,406,94,410,101,407,109,407,122,402,123,394,121,390,116,389,106,390,96">“a” à crosse allongée</seg>
+            <seg rend="657,193,657,183,663,178,670,177,675,181,678,189,679,196,679,205,674,218,664,213,658,209,655,200,657,193">“i” pointés dans certains cas de lecture ambiguë ou quand ils sont redoublés</seg>
+            <seg rend="397,327,397,318,399,309,406,305,412,305,413,316,414,325,415,329,415,339,413,347,411,358,406,356,399,351,399,341,399,331,396,325">“s” final plongeant</seg>
+            <seg rend="353,435,368,426,373,422,383,422,393,422,397,423,400,423,406,424,410,432,413,449,416,453,409,456,399,466,381,467,359,463,356,457,350,452,350,442">fente ménagée pour la double queue de parchemin aujourd’hui disparue</seg>
+            <seg rend="690,109,692,91,696,84,697,72,701,65,708,54,713,58,719,68,725,84,725,107,732,115,732,139,735,154,735,178,738,206,738,217,738,241,738,259,737,287,737,301,736,320,733,332,730,362,723,378,717,391,713,396,706,396,697,381,694,359,689,343,689,312,685,298,684,281,684,267,684,251,684,228,683,203,682,187,684,156,687,124,690,103">devise, par le milieu de laquelle passe la découpe des deux exemplaires du chirographe (un pour chaqua partie)</seg>
+          </figDesc>
           <p>Dénuée d’affectation, l’écriture échappe encore à toute sorte de cursivité. Son caractère diplomatique s’affirme dans quelques ornements, quelques discrets redoublements de majuscules (“T” en l. 1, “E” en l. 1 et 2, “G” en l. 2…), l’étirement parfois maladroit du jambage plongeant des “m” et “s” finaux, l’étirement en hauteur du “a” initial (deux exemples l. 2), qui n’est pas sans suggérer une possible influence des actes anglo-normands, que l’on pourrait aussi subodorer dans l’abréviation initiale du nom de l’auteur (“Th.”). Quelques ligatures (“fl” de “flay”, l. 2) ou amorces de ligature (“ct” de “fructibus”, l. 5) sont aussi à noter. Le pointage sert à distinguer deux i qui se suivent. La ponctuation est discrète mais pertinente. La volonté de clarté est donc évidente.</p>
         </div>
         <div>

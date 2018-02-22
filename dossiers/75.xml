@@ -79,13 +79,12 @@
       <div type="diplomatic">
         <div>
           <head>Caractères externes</head> 
-          <figure rend="75/faxexterne.jpg">
-            <figDesc>
-              <seg rend="202,9,242,5,308,3,384,4,429,5,490,5,538,8,585,14,661,28,673,34,677,42,675,45,666,52,649,54,599,67,538,72,481,76,400,79,346,79,279,77,186,72,131,64,91,55,71,41,69,33,80,27,140,16,228,5">Devise chirographaire</seg>
-              <seg rend="49,52,65,50,75,54,84,55,91,67,92,74,92,84,92,99,83,106,68,110,56,110,48,108,41,100,35,90,34,75,36,62,46,57,54,50">Initiale</seg>
-              <seg rend="645,246,718,247,765,252,784,251,784,261,763,263,714,266,656,267,591,266,525,263,494,260,486,258,482,256,482,252,499,248,532,248,611,245,678,247">Tirets de clôture de texte</seg>
-            </figDesc>
-          </figure>
+          <figure rend="75/faxexterne.jpg"/>
+          <figDesc>
+            <seg rend="202,9,242,5,308,3,384,4,429,5,490,5,538,8,585,14,661,28,673,34,677,42,675,45,666,52,649,54,599,67,538,72,481,76,400,79,346,79,279,77,186,72,131,64,91,55,71,41,69,33,80,27,140,16,228,5">Devise chirographaire</seg>
+            <seg rend="49,52,65,50,75,54,84,55,91,67,92,74,92,84,92,99,83,106,68,110,56,110,48,108,41,100,35,90,34,75,36,62,46,57,54,50">Initiale</seg>
+            <seg rend="645,246,718,247,765,252,784,251,784,261,763,263,714,266,656,267,591,266,525,263,494,260,486,258,482,256,482,252,499,248,532,248,611,245,678,247">Tirets de clôture de texte</seg>
+          </figDesc>
           <p>L’ensemble des caractères externes dénote une recherche de clarté, de rapidité et d’efficacité, qui témoigne d’un développement et d’une systématisation des pratiques administratives échevinales.</p>
           <p>L’acte est bien centré sur le parchemin, de format très allongé. Des marges relativement importantes assurent la clarté de l’ensemble. On note un certain souci de justification (voir p. ex. l. 7, l’écriture très tassée de <hi rend="i">poursuilte</hi> en fin de ligne), qui n’est pas pour autant parfaite. Le début et la fin du texte sont bien délimités par une majuscule ornée d’une part, et des tirets empêchant les falsifications par ajout d’autre part. Les interlignes sont réguliers mais serrés : le texte est concentré par souci d’économie.</p>
           <p>L’écriture se caractérise par une grande lisibilité et un souci d’efficacité, avec de petites lettres aiguës et bien formées, où apparaissent quelques signes de cursivité.</p>

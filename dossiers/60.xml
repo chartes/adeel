@@ -286,16 +286,14 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <p>
-            <figDesc>
-              <seg type="rect" rend="14,86,59,226">Marge généreuse et bien respectée à gauche</seg>
-              <seg rend="68,74,16">Initiale simplement grossie.</seg>
-              <seg type="rect" rend="463,48,495,182">Marge droite quasi inexistante, sans recherche de justification.</seg>
-              <seg rend="82,278,12">Forme typique du "q" (ici avec "i" suscrit).</seg>
-              <seg type="rect" rend="175,513,249,539">Hastes très peu élevées.</seg>
-              <seg type="rect" rend="93,651,422,693">Repli avec trois fentes, vestiges du triple scellement annoncé".</seg>
-            </figDesc>
-          </p>
+          <figDesc>
+            <seg type="rect" rend="14,86,59,226">Marge généreuse et bien respectée à gauche</seg>
+            <seg rend="68,74,16">Initiale simplement grossie.</seg>
+            <seg type="rect" rend="463,48,495,182">Marge droite quasi inexistante, sans recherche de justification.</seg>
+            <seg rend="82,278,12">Forme typique du "q" (ici avec "i" suscrit).</seg>
+            <seg type="rect" rend="175,513,249,539">Hastes très peu élevées.</seg>
+            <seg type="rect" rend="93,651,422,693">Repli avec trois fentes, vestiges du triple scellement annoncé".</seg>
+          </figDesc>
         </div>
         <div>
           <head>Interprétation</head>

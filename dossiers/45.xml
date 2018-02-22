@@ -163,16 +163,15 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head>
-          <figure rend="45/faxexternes.jpg">
-            <figDesc>
-              <seg rend="19,6,10,18,6,41,11,68,18,82,26,69,27,45,25,20">Seule l’initiale du nom pontifical est grossie.</seg>
-              <seg rend="229,60,12">Tilde plat.</seg>
-              <seg rend="562,146,14">Le texte est à peu près justifié à droite, au besoin par étirement de lettres (l. 2, 4, 10, 11) ou d’un signe de ponctuation (l. 8) ; aucun mot n’est ici coupé en fin de ligne (mais la pratique est admise).</seg>
-              <seg rend="141,201,10">Mise en valeur discrète de l’initiale de l’exposé.</seg>
-              <seg rend="255,284,8">Absence d’allongement de la ligature c-t.</seg>
-              <seg rend="320,389,350,376,429,373,534,377,578,388,540,400,457,403,359,401">La date suit, aux deux dernières lignes, une disposition très rigoureuse ; les mots sont séparés par de grands blancs d’abord parce que les coupures autorisées entre les différents éléments de la date sont rares, ensuite parce que la dernière ligne d’écriture doit être entièrement occupée.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="45/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="19,6,10,18,6,41,11,68,18,82,26,69,27,45,25,20">Seule l’initiale du nom pontifical est grossie.</seg>
+            <seg rend="229,60,12">Tilde plat.</seg>
+            <seg rend="562,146,14">Le texte est à peu près justifié à droite, au besoin par étirement de lettres (l. 2, 4, 10, 11) ou d’un signe de ponctuation (l. 8) ; aucun mot n’est ici coupé en fin de ligne (mais la pratique est admise).</seg>
+            <seg rend="141,201,10">Mise en valeur discrète de l’initiale de l’exposé.</seg>
+            <seg rend="255,284,8">Absence d’allongement de la ligature c-t.</seg>
+            <seg rend="320,389,350,376,429,373,534,377,578,388,540,400,457,403,359,401">La date suit, aux deux dernières lignes, une disposition très rigoureuse ; les mots sont séparés par de grands blancs d’abord parce que les coupures autorisées entre les différents éléments de la date sont rares, ensuite parce que la dernière ligne d’écriture doit être entièrement occupée.</seg>
+          </figDesc>
           <p>L’écriture est typique de la production de la chancellerie pontificale à cette époque : noter le système abréviatif cohérent et d’emploi assez limité, la ponctuation discrète et pertinente. Seule l’initiale du nom pontifical se détache nettement ; les majuscules employées par la suite sont moins hautes et pas plus ornementées, même si l’attention est discrètement attirée sur celles qui ouvrent des formules protocolaires (l’adresse au roi de France : K, R, I) ou une nouvelle partie du discours (redoublement de trait aux capitales P de <hi rend="i">Propter</hi>, C de <hi rend="i">Cum</hi>, C de <hi rend="i">Celsitudinem</hi>, qui marquent le début du préambule, de l’exposé, de ce qui tient lieu de dispositif). En bref, l’allure générale qui se dégage du document est de régularité, de soin, de précision, toutes impressions qui se confirment à la lecture du texte.</p>
         </div>
         <div>

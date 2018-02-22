@@ -124,20 +124,19 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes et commentaire</head>
-          <figure rend="37/faxexternes.jpg">
-            <figDesc>
-              <seg rend="35,15,18,28,36,27,49,13,41,2,12,1">Initiale grossie.</seg>
-              <seg rend="297,15,7">Capitales à traits redoublés.</seg>
-              <seg rend="507,32,10">Capitales à traits redoublés.</seg>
-              <seg rend="800,196,12">Capitales à traits redoublés.</seg>
-              <seg rend="711,12,10">Différentes formes de tilde.</seg>
-              <seg rend="631,53,8">Différentes formes de tilde.</seg>
-              <seg rend="126,77,11">Différentes formes de tilde.</seg>
-              <seg rend="490,194,8">Différentes formes de ponctuation forte.</seg>
-              <seg rend="690,34,8">Différentes formes de ponctuation forte.</seg>
-              <seg rend="212,221,226,209,255,204,284,210,296,222,280,236,253,236,228,234">Ligne de fin de texte.</seg>
-            </figDesc>
-          </figure>
+          <figure rend="37/faxexternes.jpg"/>
+          <figDesc>
+            <seg rend="35,15,18,28,36,27,49,13,41,2,12,1">Initiale grossie.</seg>
+            <seg rend="297,15,7">Capitales à traits redoublés.</seg>
+            <seg rend="507,32,10">Capitales à traits redoublés.</seg>
+            <seg rend="800,196,12">Capitales à traits redoublés.</seg>
+            <seg rend="711,12,10">Différentes formes de tilde.</seg>
+            <seg rend="631,53,8">Différentes formes de tilde.</seg>
+            <seg rend="126,77,11">Différentes formes de tilde.</seg>
+            <seg rend="490,194,8">Différentes formes de ponctuation forte.</seg>
+            <seg rend="690,34,8">Différentes formes de ponctuation forte.</seg>
+            <seg rend="212,221,226,209,255,204,284,210,296,222,280,236,253,236,228,234">Ligne de fin de texte.</seg>
+          </figDesc>
           <p>L'acte se signale par une écriture aussi claire que son formulaire est pertinent. Son souci de précision n'exclut pas un certaine recherche ornementale : justification du texte, initiale majuscule noircie à laquelle répondent les enjolivements du trait final, dédoublement des traits de plusieurs capitales, opposition entre plusieurs formes de tilde (plats, en flamme, en huit ouvert par le bas).</p>
           <p>La langue est claire et correcte, ne s'encombrant d'aucun ornement. La technicité se retrouve aussi bien dans le vocabulaire relatif aux biens (<hi rend="i">librate, terra arabilis, redemi, acquisiverat</hi>) et aux successions (<hi rend="i">pars terre, excantia</hi>) que dans les expressions du droit féodal (<hi rend="i">ad unum feodum conjunctum, ad unum homagium, servitium</hi>, <hi rend="i">excantia, paribus</hi>…), de la procédure et du droit (<hi rend="i">ad jus venire et ad legem</hi>, <hi rend="i">usus et consuetudines</hi>), ou encore de l'acte privé de veine savante (<hi rend="i">garandire</hi>). Tout en bref dénote l'intervention d'un rédacteur spécialisé, caché derrière l'auteur de l'acte et son sceau.</p>
           <p>L'acte offre comme un condensé de multiples aspects de l'économie seigneuriale : redevances et terres (accensées ou en faire-valoir direct, impossible de trancher), engagement de biens à un bourgeois suivi d'une récupération, laborieux réglement de la succession entre frères, extension des usages du fief comme outil de régulation des rapports entre aîné et cadet. On notera la précision explicite de la remise de l'acte au bénéficiaire, d'autant plus forte de sens qu'elle est enchâssée dans la corroboration. Elle confirme que l'acte écrit a eu pour partenaires exclusifs des laïques : une situation qui commence à mieux se révéler à l'époque, mais encore assez rarement au niveau inférieur de l'aristocratie.</p>
