@@ -4,7 +4,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">La Bible glosée au milieu du XII<hi rend="sup">e</hi> siècle : l’exemple de l’épître aux Colossiens. </title>
-        <author>Giraud, Cédric (ATER à l'École nationale des Chartes)</author>
+        <author>Giraud, Cédric (ATER à l’École nationale des Chartes)</author>
         <respStmt>
           <resp>document encodé en XML/TEI P5 par</resp>
           <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l’École nationale des Chartes)</name>
@@ -32,7 +32,7 @@
       <tagsDecl xml:id="imtAnnotationCategories">
         <rendition xml:id="Theleme">
           <desc>transcriptional</desc>
-          <label>zone d'image pour facsimile interactif Theleme</label>
+          <label>zone d’image pour facsimile interactif Theleme</label>
           <code rend="rectangle" lang="text/css"/>
         </rendition>
       </tagsDecl>
