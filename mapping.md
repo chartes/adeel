@@ -49,7 +49,12 @@
 * <strike>commentaires</strike>
 
 # entités
-Penser au `&quot;` in `//term/@n`
+Penser à transformer `&quot;` au chargement en base.
+
+On conserve
+* `&amp;`
+* `&gt;`
+* `&lt;`
 
 # structure `body`
 
