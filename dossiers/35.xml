@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -168,7 +168,7 @@
               <seg rend="10,45,5,41,3,32,6,24,10,23,15,30,15,37,13,41">Marqueur de début d’acte (d’usage rare). Il semble s’agir moins d’une croix que d’un fleuron</seg>
               <seg rend="43,44,57,39,63,31,64,20,59,12,53,7,46,4,40,3,32,4,28,6,22,11,17,15,15,22,16,30,22,37,25,40,30,43">Initiale filigranée</seg>
               <seg rend="146,59,150,63,150,68,144,68,141,65,142,61">Comme il est usuel, les personnes citées ex officio (ici le roi de France, plus haut l’official), voient leur titre précédé de deux points (. .)</seg>
-              <seg rend="235,27,238,28,239,34,238,38,232,39,230,35,228,32,229,29,231,27">Noter quelques capitales à traits redoublés, qui servent à scander, mais sans exclusive, le discours (nom de l’auteur de l’acte, somme, promesse, date&#133;)</seg>
+              <seg rend="235,27,238,28,239,34,238,38,232,39,230,35,228,32,229,29,231,27">Noter quelques capitales à traits redoublés, qui servent à scander, mais sans exclusive, le discours (nom de l’auteur de l’acte, somme, promesse, date)</seg>
               <seg rend="432,202,447,205,460,207,469,212,470,219,457,224,446,224,427,226,408,224,399,222,390,218,384,213,389,208,398,206,410,202,418,201">Marqueur de fin d’acte (remplace les lettres étirées ou suite de signes qui, au XIIIe siècle principalement, occupent l’espace de la dernière ligne) : autre moyen de lutter contre les interpolations</seg>
               <seg rend="629,179,639,186,641,197,639,208,637,215,633,220,627,220,623,216,621,209,620,203,620,197,622,191,623,186,626,182">« Signature » du responsable effectif de la mise par écrit. Attention : cette mention « hors teneur » n’agit pas (encore) comme un signe de validation. Vu l’époque, l’acte devait être normalement validé par un sceau, qui est d’ailleurs annoncé dans le texte. L’absence de toute trace de scellement et d’attache laisse supposer que le bas du parchemin a été découpé, et le sceau emporté. Noter aussi que la signature est suivie d’un signe analogue au marqueur de début et de fin de l’acte</seg>
               <seg rend="689,20,692,31,694,47,694,65,694,78,694,93,694,107,694,127,694,135,693,151,693,159,692,175,692,185,691,193,691,202,690,211,687,208,685,196,682,180,681,165,681,139,681,116,682,94,681,79,682,58,683,44,685,30">Souci de justifier le texte à droite, qui n’entraîne qu’une coupure de mot (ligne 4), marquée par un tiret</seg>

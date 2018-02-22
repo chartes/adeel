@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader> 
     <fileDesc> 
       <titleStmt> 
@@ -175,7 +175,7 @@
             <item><hi rend="b">première ligne</hi> en caractères allongés (allongement dont l'origine remonte aussi, au-delà des diplômes carolingiens, à l'Antiquité tardive) et au besoin étirés en largeur afin que la première ligne soit entièrement occupée par l' invocation et la suscription ; la suscription est ponctuée fortement, en fin de ligne, par trois points superposés (une ponctuation de style "épigraphique", qui accentue la monumentalité de l'acte) ;</item> 
             <item><hi rend="b">ligature <hi rend="i">ct</hi> étirée</hi> (mais une seule occurrence ici, pour mettre en valeur <hi rend="i">Actum</hi>, premier mot de la date, et aucune sur le couple <hi rend="i">st</hi>) ;</item>
             <item><hi rend="b">majuscules</hi> agrandies et ornées de traits de doublement ;</item> 
-            <item><hi rend="b">tildes en n&#156;ud</hi> ;</item> 
+            <item><hi rend="b">tildes en nœud</hi> ;</item> 
             <item><hi rend="i"><hi rend="b">s</hi></hi><hi rend="b"> longs à treillis</hi> (boucles au sommet).</item>
           </list> 
           <p><hi rend="b">Les souscriptions,</hi> mises en relief à la fin du texte par l'<hi rend="b">étirement de l'abréviation <hi rend="i">s(ignum)</hi></hi>, se limitent maintenant à celles, purement factices, des <hi rend="b">quatre grands officiers</hi> : sénéchal, bouteiller, chambrier, connétable. On fait souscrire ceux-ci, évidemment sans aucune implication graphique réelle, et même quand ils sont absents de la cour. Ces souscriptions, uniquement présentes, comme le monogramme du roi, sur les actes les plus solennels, sont une sorte de "butte-témoin" des souscriptions qui ont fleuri au bas de l'acte royal au XI<hi rend="sup">e</hi> siècle : la chancellerie capétienne, qui a toujours organisé dans un ordre très savant les souscriptions au bas de ses actes, a très tôt (dès le règne de Philippe I<hi rend="sup">er</hi>) mis en relief, à part, les souscriptions des quatre grands officiers du palais royal, qui apparaissent dans les années 1050. La présentation de l'acte a donc déjà un siècle de tradition derrière elle, alors même que le roi cherche à contrebalancer l'importance que pourrait prendre tel des grands officiers à sa cour (alternativement par vacance, rupture de la tendance à la formation de dynasties dans une charge, recours à un proche très fidèle...). Ces souscriptions fictives constituent ainsi une sorte d'annuaire, enregistrant jusqu'aux vacances de charge (ici pour le sénéchalat).</p> 

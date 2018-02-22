@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -60,13 +60,13 @@
           <l>Posteror<ex>um</ex> multitudini notificare volumus</l>
           <l>quod Jordanus Froterius de om<ex>n</ex>ibus</l>
           <l>æccl<ex>es</ex>iis quas habe[be]bat in vita sua</l>
-          <l>ubicu<ex>m</ex>q<ex>ue</ex> essent dedit <term n="Le &#34;fief presbytéral&#34; désigne ce dont le prêtre de paroisse est investi pour vivre, le &#34;manse presbytéral&#34; des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).">feoda</term></l>
-          <l><term n="Le &#34;fief presbytéral&#34; désigne ce dont le prêtre de paroisse est investi pour vivre, le &#34;manse presbytéral&#34; des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).">pr<ex>es</ex>b<ex>i</ex>t<ex>er</ex>or<ex>um</ex></term> Fulconi filio suo</l>
+          <l>ubicu<ex>m</ex>q<ex>ue</ex> essent dedit <term n="Le &quot;fief presbytéral&quot; désigne ce dont le prêtre de paroisse est investi pour vivre, le &quot;manse presbytéral&quot; des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).">feoda</term></l>
+          <l><term n="Le &quot;fief presbytéral&quot; désigne ce dont le prêtre de paroisse est investi pour vivre, le &quot;manse presbytéral&quot; des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).">pr<ex>es</ex>b<ex>i</ex>t<ex>er</ex>or<ex>um</ex></term> Fulconi filio suo</l>
           <l>quando obtulit eu<ex>m</ex> D<ex>e</ex>o et <term n="Adémar, évêque d’Angoulême (1076-1101).">Ademaro</term></l>
           <l>ep<ex>iscop</ex>o ad clericu<ex>m</ex> et corona ei fuit</l>
           <l>benedicta. Postea ego Emma mater sua</l>
           <l>post morte<ex>m</ex> patri{s} sui dedi eu<ex>m</ex></l>
-          <l>s<ex>an</ex>c<ex>t</ex>o adjutori <term n="Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l’École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l’initiale de &#34;saint&#34;, car c’est la personne même de celui-ci qui est invoquée comme patron.">Maxe<ex>n</ex>tio</term> ad</l>
+          <l>s<ex>an</ex>c<ex>t</ex>o adjutori <term n="Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l’École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l’initiale de &quot;saint&quot;, car c’est la personne même de celui-ci qui est invoquée comme patron.">Maxe<ex>n</ex>tio</term> ad</l>
           <l>monachu<ex>m</ex> esse p<ex>er</ex>petuum cu<ex>m</ex></l>
           <l>om<ex>n</ex>ibus donis æccl<ex>esi</ex>aru<ex>m</ex></l>
           <l>sup<ex>r</ex>adictis et ipsa c<ex>on</ex>cessi <ex>et</ex></l>
@@ -74,7 +74,7 @@
           <l><ex>et</ex> Goffredi de <term n="Romans (Deux-Sèvres, cant. Saint-Maixent-l’École).">Roth<ex>e</ex>mancio</term> e et Petri</l>
           <l>Fulcherii monachor<ex>um</ex> s<ex>an</ex>c<ex>t</ex>i</l>
           <l>Maxe<ex>n</ex>tii, videntib<ex>us</ex> testibus Guidone</l>
-          <l><term n="La restitution &#34;David&#34;, usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de &#34;Guido Davit&#34;.">D<ex>avi</ex>d</term> et Fulcaudo de Salacans. Ite<ex>m</ex></l>
+          <l><term n="La restitution &quot;David&quot;, usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de &quot;Guido Davit&quot;.">D<ex>avi</ex>d</term> et Fulcaudo de Salacans. Ite<ex>m</ex></l>
           <l>quoq<ex>ue</ex> ego Guill<ex>el</ex>mus Jordanus et</l>
           <l>fr<ex>atre</ex>s mei Gi' {Rob<ex>er</ex>t<ex>us</ex>}, Go'</l>
           <l>{Jorda} Fulconi fr<ex>atr</ex>i n<ex>ost</ex>ro karissimo</l>
@@ -90,7 +90,7 @@
           <l>monachicu<ex>m</ex> habitu<ex>m</ex>, <term n="Garnier, abbé de Saint-Maixent de 1093 à 1106.">Garnerio</term></l>
           <l>abb<ex>at</ex>e tribuente <ex>et</ex> p<ex>re</ex>sidente <ex>et</ex></l>
           <l>om<ex>n</ex>ibus fr<ex>atr</ex>ib<ex>us</ex> in capitulo, ubi</l>
-          <l>accepim<ex>us</ex>[us] <term n="La &#34; société &#34; permet d’associer un fidèle aux bienfaits spirituels de la communauté de prière.">societate<ex>m</ex> et beneficiu<ex>m</ex></term></l>
+          <l>accepim<ex>us</ex>[us] <term n="La &quot; société &quot; permet d’associer un fidèle aux bienfaits spirituels de la communauté de prière.">societate<ex>m</ex> et beneficiu<ex>m</ex></term></l>
           <l>totius monasterii, concessimus sicut <ex>et</ex></l>
           <l>prius, videntibus istis testibus.</l>
           <l>S<ex>ubscripsit</ex></l>
@@ -119,18 +119,18 @@
           <l>Nous voulons faire savoir à la multitude des</l>
           <l>hommes à venir que Jourdain Frotier, de toutes</l>
           <l>les églises qu'il avait de son vivant, où qu'elles</l>
-          <l>fussent, a donné les <term n="Le &#34;fief presbytéral&#34; désigne ce dont le prêtre de paroisse est investi pour vivre, le &#34;manse presbytéral&#34; des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).">fiefs presbytéraux</term> à son</l>
+          <l>fussent, a donné les <term n="Le &quot;fief presbytéral&quot; désigne ce dont le prêtre de paroisse est investi pour vivre, le &quot;manse presbytéral&quot; des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).">fiefs presbytéraux</term> à son</l>
           <l>fils Foulque quand il l'a offert comme clerc à</l>
           <l>Dieu et à l'évêque <term n="Adémar, évêque d’Angoulême (1076-1101).">Adémar</term> et que sa tonsure</l>
           <l>a été bénie. Par la suite, moi, Emma, sa mère,</l>
           <l>après la mort de son père, je l'ai donné au</l>
-          <l>saint adjuteur <term n="Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l’École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l’initiale de &#34;saint&#34;, car c’est la personne même de celui-ci qui est invoquée comme patron.">Maixent</term> pour qu'il soit moine</l>
+          <l>saint adjuteur <term n="Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l’École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l’initiale de &quot;saint&quot;, car c’est la personne même de celui-ci qui est invoquée comme patron.">Maixent</term> pour qu'il soit moine</l>
           <l>pour toujours, avec tous les dons susdits</l>
           <l>des églises, et j'en ai fait concession et</l>
           <l>remise dans les mains d'<term n="Archambaud : prieur de Saint-Maixent de 1096 à 1104 environ.">Archambaud</term>, prieur,</l>
           <l>de Geoffroy de <term n="Romans (Deux-Sèvres, cant. Saint-Maixent-l’École).">Romans</term> et de Pierre Foucher,</l>
           <l>moines de saint Maixent ; étaient témoins</l>
-          <l>oculaires Guy <term n="La restitution &#34;David&#34;, usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de &#34;Guido Davit&#34;.">David</term> et Foulcaud de Salacans.</l>
+          <l>oculaires Guy <term n="La restitution &quot;David&quot;, usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de &quot;Guido Davit&quot;.">David</term> et Foulcaud de Salacans.</l>
           <l>De même, moi, Guillaume Jourdain, et mes</l>
           <l>frères Gi' Robert et Geo[ffroy] Jourdain, nous</l>
           <l>avons donné [cela] à notre très cher frère</l>
@@ -145,7 +145,7 @@
           <l>du Seigneur il a reçu l'habit monastique des</l>
           <l>mains et sous la présidence de l'abbé</l>
           <l><term n="Garnier, abbé de Saint-Maixent de 1093 à 1106.">Garnier</term> avec tous les moines en chapitre, où</l>
-          <l>nous avons reçu l'<term n="La &#34; société &#34; permet d’associer un fidèle aux bienfaits spirituels de la communauté de prière.">association et bienfait</term> de</l>
+          <l>nous avons reçu l'<term n="La &quot; société &quot; permet d’associer un fidèle aux bienfaits spirituels de la communauté de prière.">association et bienfait</term> de</l>
           <l>tout le monastère, nous avons fait la même</l>
           <l>concession qu'auparavant ; devant les témoins</l>
           <l>oculaires qui suivent.</l>
@@ -180,7 +180,7 @@
         </div>
         <div type="commentaire">
           <head>Note sur la transcription</head>
-          <p>Les &#34;e cédillés&#34; sont rendus par &#34;æ&#34; ; les crochets droits [ ] encadrent des lettres inscrites par erreur par le scribe, les accolades { } des mots ou lettres par lui écrits en interligne.</p>
+          <p>Les &quot;e cédillés&quot; sont rendus par &quot;æ&quot; ; les crochets droits [ ] encadrent des lettres inscrites par erreur par le scribe, les accolades { } des mots ou lettres par lui écrits en interligne.</p>
           <p>Observation sur la date. La mention faite du pape Urbain II (mort en 1099) est inconciliable avec l’année indiquée par l’acte, 1106. Or l’on sait que le pape Urbain II a séjourné à Saintes du 12 au 20 avril 1096, ce qui permet d’incriminer une erreur de graphie, le scribe omettant (en recopiant un modèle ou sous le seul effet d’une dictée intérieure) le X de MXCVI. La date corrigée est conciliable avec les dates connues de tous les autres personnages cités, et concorde mieux avec ce que l’on connaît des dates du prieur Archambaud.</p>
         </div>
       </div>

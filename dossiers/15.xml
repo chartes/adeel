@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -90,8 +90,8 @@
         <div type="transcription">
           <l>A touz ceus qui ces p<ex>rese</ex>ntes l<ex>ett</ex>res verront</l>
           <l>. . Freres Guill<ex>aum</ex>e de Paris et Pierre de Soisi,</l>
-          <l><term n="pitanciers : officiers monastiques chargés de l’approvisionnement et de la distribution de la nourriture. A leur office (Pitancerie) est souvent affectée une portion du patrimoine, dont ils ont la gestion.">pittanciers</term> de <term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&#34;delez&#34; ou &#34;lez&#34; = &#34;près de&#34;, comme par ex. dans Villeneuve-lès-Avignon).">l’eglise Saint</term></l>
-          <l><term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&#34;delez&#34; ou &#34;lez&#34; = &#34;près de&#34;, comme par ex. dans Villeneuve-lès-Avignon).">Germain des Prez</term> delez Par<ex>is</ex>, salut</l>
+          <l><term n="pitanciers : officiers monastiques chargés de l’approvisionnement et de la distribution de la nourriture. A leur office (Pitancerie) est souvent affectée une portion du patrimoine, dont ils ont la gestion.">pittanciers</term> de <term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&quot;delez&quot; ou &quot;lez&quot; = &quot;près de&quot;, comme par ex. dans Villeneuve-lès-Avignon).">l’eglise Saint</term></l>
+          <l><term n="L’abbaye Saint-Germain-des-Prés est encore hors les murs (&quot;delez&quot; ou &quot;lez&quot; = &quot;près de&quot;, comme par ex. dans Villeneuve-lès-Avignon).">Germain des Prez</term> delez Par<ex>is</ex>, salut</l>
           <l>. . Savoir faisons que p<ex>ar</ex> devant nous</l>
           <l>vint en sa p<ex>ro</ex>pre p<ex>er</ex>sonne Richart a l’Espee,</l>
           <l>demourant en la grant rue Saint Germain des Prez dessusdit</l>

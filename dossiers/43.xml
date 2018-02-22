@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,11 +20,11 @@
     <body>
       <div type="facsimile">
         <p>
-          <seg rend="688,3,794,24">&#60;discreto viro&#62;</seg>
+          <seg rend="688,3,794,24">[discreto viro]</seg>
           <seg rend="5,22,449,48">Petrus de Ferrar<ex>iis</ex>, mil<ex>es</ex> d<ex>omi</ex>ni n<ex>ost</ex>ri Franc’ <ex>et</ex> Navarre reg<ex>is</ex></seg>
           <seg rend="455,25,898,50">ejusq<ex>ue</ex> sen<ex>escallus</ex> Xancton<ex>ensis</ex> <ex>et</ex> Eng<ex>olismensis</ex>, Guill<ex>el</ex>mo Amblardi, thesau-</seg>
           <seg rend="7,52,433,76">-rario {n<ex>ost</ex>ro} regio Xancton<ex>ensi</ex> v<ex>e</ex>l ejus locu<ex>m</ex> ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>. </seg>
-          <seg rend="441,51,890,76">Patent<ex>es</ex> l<ex>itte</ex>ras reg<ex>ias</ex> recepimus in hec v<ex>er</ex>ba : &#34; Ph<ex>ilippus</ex>, Dei</seg>
+          <seg rend="441,51,890,76">Patent<ex>es</ex> l<ex>itte</ex>ras reg<ex>ias</ex> recepimus in hec v<ex>er</ex>ba : &quot; Ph<ex>ilippus</ex>, Dei</seg>
           <seg rend="7,81,553,98">gr<ex>ati</ex>a Franc<ex>orum</ex> et Navarre rex, sen<ex>escall</ex>o Xancton<ex>ensi</ex> aut ejus locu<ex>m</ex> ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>. </seg>
           <seg rend="564,81,887,99">Al<ex>ias</ex> vob<ex>is</ex> mandavimus et it<ex>er</ex>ato p<ex>re</ex>cipie<ex>n</ex>te</seg>
           <seg rend="7,105,592,122">districte mandamus precipiendo districte mandamus q<ex>ua</ex>t<ex>inus</ex> castrum n<ex>ost</ex>r<ex>u</ex>m </seg>
@@ -37,7 +37,7 @@
           <seg rend="377,182,870,199">nos ip<ex>su</ex>m castrum v<ex>est</ex>ris faciemus sumptib<ex>us</ex> rep<ex>ar</ex>ari. Nolumus</seg>
           <seg rend="19,247,18,225,105,212,378,209,379,225,108,232">tam<ex>en</ex> q<ex>uod</ex> si aliq<ex>u</ex>a nova edificia faciatis ibidem. </seg>
           <seg rend="390,207,878,225">Datum apud Lochias, die XIIII maii, anno D<ex>omi</ex>ni M° CCC° vicesimo</seg>
-          <seg rend="20,255,23,280,116,262,241,253,365,247,371,229,137,237">primo. &#34; Quar<ex>um</ex> auct<ex>oritat</ex>e l<ex>itte</ex>rar<ex>um</ex> castrum reg<ex>ium</ex></seg>
+          <seg rend="20,255,23,280,116,262,241,253,365,247,371,229,137,237">primo. &quot; Quar<ex>um</ex> auct<ex>oritat</ex>e l<ex>itte</ex>rar<ex>um</ex> castrum reg<ex>ium</ex></seg>
           <seg rend="378,230,881,248">de Rupp<ex>ell</ex>a faciat<ex>is</ex> rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria rep<ex>ar</ex>ari juxt<ex>a</ex> contine<ex>n</ex>tiam</seg>
           <seg rend="25,305,20,289,100,269,204,261,208,282,100,288">et tenore<ex>m</ex> l<ex>itte</ex>rar<ex>um</ex> p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>ar<ex>um</ex>, </seg>
           <seg rend="214,258,885,278">sine aliquib<ex>us</ex> novis edificiis ibid<ex>em</ex> faciendo, p<ex>ro</ex>ut in d<ex>i</ex>c<ex>t</ex>is l<ex>itte</ex>ris videbitis contin<ex>er</ex>i.</seg>
@@ -50,28 +50,28 @@
           <l><term n="Pierre de Ferrières fut sénéchal de Saintonge de 1321 à 1324, après avoir été sénéchal de Rouergue.">Petrus de Ferrar<ex>iis</ex></term>, mil<ex>es</ex> d<ex>omi</ex>ni n<ex>ost</ex>ri</l>
           <l><term n="La titulature du roi dans ses actes et sur ses sceaux est toujours, par tradition, rex Francorum ; les contemporains transposent plus volontiers la formule vernaculaire en rex Francie ; les actes de l’administration royale hésitent entre les deux formes, quand elles ne sont pas abrégées. - Les fils de Philippe le Bel, de 1314 à 1328, ont pris régulièrement le titre complémentaire de roi de Navarre.">Franc’ <ex>et</ex> Navarre</term> reg<ex>is</ex> ejusq<ex>ue</ex> sen<ex>escallus</ex></l>
           <l>Xancton<ex>ensis</ex> <ex>et</ex> <term n="L’Angoumois, acquis par le roi en 1303, ne constitua une sénéchaussée indépendante de la Saintonge qu’à compter des années 1330. Plus bas, le roi ne qualifie le sénéchal que de sénéchal de Saintonge parce que l’action visée ne concerne que cette circonscription.">Eng<ex>olismensis</ex></term>,</l>
-          <l><term n="Le qualificatif de discretus vir dit le discernement, la sagesse, donc par défaut la non-noblesse.">&#60;discreto viro&#62;</term> Guill<ex>el</ex>mo Amblardi, <term n="Guillaume Amblard fut trésorier royal de Saintonge de 1321 à 1324. Il faisait aussi à l’époque office de receveur de la sénéchaussée. Noter surtout que cet important adjoint du sénéchal est directement rattaché au roi.">thesaurario</term> {n<ex>ost</ex>ro} regio</l>
+          <l><term n="Le qualificatif de discretus vir dit le discernement, la sagesse, donc par défaut la non-noblesse.">[discreto viro]</term> Guill<ex>el</ex>mo Amblardi, <term n="Guillaume Amblard fut trésorier royal de Saintonge de 1321 à 1324. Il faisait aussi à l’époque office de receveur de la sénéchaussée. Noter surtout que cet important adjoint du sénéchal est directement rattaché au roi.">thesaurario</term> {n<ex>ost</ex>ro} regio</l>
           <l>Xancton<ex>ensi</ex> v<ex>e</ex>l ejus locu<ex>m</ex> ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>.</l>
-          <l>Patent<ex>es</ex> l<ex>itte</ex>ras <term n="On a transcrit &#34; regias &#34; et non &#34; regis &#34;, car dans ce dernier cas, on attendrait plutôt une tournure du type &#34; domini nostri regis &#34; : on parle de &#34; lettres patentes royaux &#34;, comme plus bas de &#34; château royal &#34;. Noter au passage que la formule toute faite &#34; lettres royaux &#34; renvoie d’une part au latin (plur. litterae = une lettre, un acte, a.fr. &#34; unes lettres &#34;) et d’autre part à l’ancien français (royaus vient de regales peut être aussi bien féminin que masculin).">reg<ex>ias</ex></term> recepimus in hec v<ex>er</ex>ba :</l>
+          <l>Patent<ex>es</ex> l<ex>itte</ex>ras <term n="On a transcrit &quot; regias &quot; et non &quot; regis &quot;, car dans ce dernier cas, on attendrait plutôt une tournure du type &quot; domini nostri regis &quot; : on parle de &quot; lettres patentes royaux &quot;, comme plus bas de &quot; château royal &quot;. Noter au passage que la formule toute faite &quot; lettres royaux &quot; renvoie d’une part au latin (plur. litterae = une lettre, un acte, a.fr. &quot; unes lettres &quot;) et d’autre part à l’ancien français (royaus vient de regales peut être aussi bien féminin que masculin).">reg<ex>ias</ex></term> recepimus in hec v<ex>er</ex>ba :</l>
           <l/>
-          <l>&#34; <term n="Philippe V le Long, roi de France de 1316 à 1322.">Ph<ex>ilippus</ex></term>, Dei gr<ex>ati</ex>a Franc<ex>orum</ex> et Navarre</l>
+          <l>&quot; <term n="Philippe V le Long, roi de France de 1316 à 1322.">Ph<ex>ilippus</ex></term>, Dei gr<ex>ati</ex>a Franc<ex>orum</ex> et Navarre</l>
           <l>rex, sen<ex>escall</ex>o Xancton<ex>ensi</ex> aut ejus locu<ex>m</ex></l>
           <l>ten<ex>enti</ex>, sal<ex>u</ex>t<ex>em</ex>. Al<ex>ias</ex> vob<ex>is</ex> mandavimus et</l>
           <l>it<ex>er</ex>ato [p<ex>re</ex>cipie<ex>n</ex>te districte mandamus]</l>
           <l>precipiendo districte mandamus q<ex>ua</ex>t<ex>inus</ex></l>
           <l>castrum n<ex>ost</ex>r<ex>u</ex>m de Rupp<ex>ella</ex> faciat<ex>is</ex></l>
           <l>rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria q<ex>u</ex>am cicius rep<ex>ar</ex>ari, et</l>
-          <l>nos <term n="Comprendre, selon l’expression plus courante, &#34; aux gens de nos comptes &#34;, &#34; aux gens qui peuplent présentement notre chambre des comptes &#34;.">gentib<ex>us</ex> n<ex>ost</ex>ris p<ex>re</ex>sentib<ex>us</ex></term> [[damus]] in</l>
+          <l>nos <term n="Comprendre, selon l’expression plus courante, &quot; aux gens de nos comptes &quot;, &quot; aux gens qui peuplent présentement notre chambre des comptes &quot;.">gentib<ex>us</ex> n<ex>ost</ex>ris p<ex>re</ex>sentib<ex>us</ex></term> [[damus]] in</l>
           <l>mandatis quat<ex>inus</ex> quicquid p<ex>ro</ex> rep<ex>ar</ex>ac<ex>i</ex>one</l>
           <l>p<ex>re</ex>d<ex>i</ex>c<ex>t</ex>a vos pon<ex>er</ex>e contig<ex>er</ex>it in v<ex>est</ex>ris</l>
-          <l>compotis <term n="&#34; Allouer &#34; signifie &#34; placer &#34; une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.">allocent</term> <ex>et</ex> de v<ex>est</ex>ra recepta</l>
+          <l>compotis <term n="&quot; Allouer &quot; signifie &quot; placer &quot; une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.">allocent</term> <ex>et</ex> de v<ex>est</ex>ra recepta</l>
           <l>deducant ; scituri q<ex>uod</ex>, si ob v<ex>est</ex>ram</l>
           <l>negligenciam d<ex>i</ex>c<ex>tu</ex>m castru<ex>m</ex> p<ex>er</ex> deffectu<ex>m</ex></l>
           <l>rep<ex>ar</ex>ac<ex>i</ex>onis contig<ex>er</ex>it deteriorari, nos ip<ex>su</ex>m</l>
           <l>castrum v<ex>est</ex>ris faciemus sumptib<ex>us</ex> rep<ex>ar</ex>ari.</l>
           <l>Nolumus tam<ex>en</ex> q<ex>uod</ex> [si] aliq<ex>u</ex>a nova edificia</l>
           <l>faciatis ibidem. Datum apud <term n="Loches (Indre-et-Loire, ch.-l. arr.).">Lochias</term>, die XIIII</l>
-          <l>maii, anno D<ex>omi</ex>ni M° CCC° vicesimo primo. &#34;</l>
+          <l>maii, anno D<ex>omi</ex>ni M° CCC° vicesimo primo. &quot;</l>
           <l/>
           <l>Quar<ex>um</ex> auct<ex>oritat</ex>e l<ex>itte</ex>rar<ex>um</ex> castrum reg<ex>ium</ex></l>
           <l>de Rupp<ex>ell</ex>a faciat<ex>is</ex> rep<ex>ar</ex>ac<ex>i</ex>one nec<ex>ess</ex>aria</l>
@@ -88,16 +88,16 @@
           <l>Saintonge et d’<term n="L’Angoumois, acquis par le roi en 1303, ne constitua une sénéchaussée indépendante de la Saintonge qu’à compter des années 1330. Plus bas, le roi ne qualifie le sénéchal que de sénéchal de Saintonge parce que l’action visée ne concerne que cette circonscription.">Angoumois</term>, à <term n="Le qualificatif de discretus vir dit le discernement, la sagesse, donc par défaut la non-noblesse.">discrète personne</term></l>
           <l>Guillaume Amblard, <term n="Guillaume Amblard fut trésorier royal de Saintonge de 1321 à 1324. Il faisait aussi à l’époque office de receveur de la sénéchaussée. Noter surtout que cet important adjoint du sénéchal est directement rattaché au roi.">trésorier </term>royal de Saintonge</l>
           <l>ou à son lieutenant, salut. Nous avons reçu des</l>
-          <l>lettres patentes <term n="On a transcrit &#34; regias &#34; et non &#34; regis &#34;, car dans ce dernier cas, on attendrait plutôt une tournure du type &#34; domini nostri regis &#34; : on parle de &#34; lettres patentes royaux &#34;, comme plus bas de &#34; château royal &#34;. Noter au passage que la formule toute faite &#34; lettres royaux &#34; renvoie d’une part au latin (plur. litterae = une lettre, un acte, a.fr. &#34; unes lettres &#34;) et d’autre part à l’ancien français (royaus vient de regales peut être aussi bien féminin que masculin).">du roi</term> en ces termes :</l>
+          <l>lettres patentes <term n="On a transcrit &quot; regias &quot; et non &quot; regis &quot;, car dans ce dernier cas, on attendrait plutôt une tournure du type &quot; domini nostri regis &quot; : on parle de &quot; lettres patentes royaux &quot;, comme plus bas de &quot; château royal &quot;. Noter au passage que la formule toute faite &quot; lettres royaux &quot; renvoie d’une part au latin (plur. litterae = une lettre, un acte, a.fr. &quot; unes lettres &quot;) et d’autre part à l’ancien français (royaus vient de regales peut être aussi bien féminin que masculin).">du roi</term> en ces termes :</l>
           <l/>
-          <l>&#34; <term n="Philippe V le Long, roi de France de 1316 à 1322.">Philippe</term>, par la grâce de Dieu roi de France et de</l>
+          <l>&quot; <term n="Philippe V le Long, roi de France de 1316 à 1322.">Philippe</term>, par la grâce de Dieu roi de France et de</l>
           <l>Navarre, au sénéchal de Saintonge ou à son</l>
           <l>lieutenant, salut. Une fois déjà nous vous avons</l>
           <l>mandé et à nouveau par un ordre strict vous</l>
           <l>mandons de faire au plus vite réparer des</l>
           <l>réparations nécessaires notre château de La</l>
-          <l>Rochelle, et nous donnons mandement à <term n="Comprendre, selon l’expression plus courante, &#34; aux gens de nos comptes &#34;, &#34; aux gens qui peuplent présentement notre chambre des comptes &#34;.">nos gens</term></l>
-          <l><term n="Comprendre, selon l’expression plus courante, &#34; aux gens de nos comptes &#34;, &#34; aux gens qui peuplent présentement notre chambre des comptes &#34;.">présents</term> d’<term n="&#34; Allouer &#34; signifie &#34; placer &#34; une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.">allouer</term> dans vos comptes tout ce que</l>
+          <l>Rochelle, et nous donnons mandement à <term n="Comprendre, selon l’expression plus courante, &quot; aux gens de nos comptes &quot;, &quot; aux gens qui peuplent présentement notre chambre des comptes &quot;.">nos gens</term></l>
+          <l><term n="Comprendre, selon l’expression plus courante, &quot; aux gens de nos comptes &quot;, &quot; aux gens qui peuplent présentement notre chambre des comptes &quot;.">présents</term> d’<term n="&quot; Allouer &quot; signifie &quot; placer &quot; une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.">allouer</term> dans vos comptes tout ce que</l>
           <l>vous aurez dû y mettre [en dépenses] pour la</l>
           <l>susdite réparation et de le déduire de votre recette ;</l>
           <l>sachez que, si par votre négligence ledit château</l>
@@ -105,7 +105,7 @@
           <l>réparation, nous ferons réparer le château à vos</l>
           <l>frais. Nous ne voulons pas cependant que vous y</l>
           <l>fassiez de nouvelles constructions. Donné à <term n="Loches (Indre-et-Loire, ch.-l. arr.).">Loches</term>,</l>
-          <l>le 14 mai, l’an du Seigneur 1300 et vingt et un. &#34;</l>
+          <l>le 14 mai, l’an du Seigneur 1300 et vingt et un. &quot;</l>
           <l/>
           <l/>
           <l/>
@@ -126,27 +126,27 @@
           <div>
             <head>Note sur la transcription</head>
             <p>L'état du texte latin ici transcrit est l'état voulu par le scripteur, après corrections. Mais comme celui-ci a parallèlement commis plusieurs bourdes, on a porté dans la transcription ci-dessus des propositions de correction : les crochets droits [ ] encadrent les mots à supprimer ; les doubles crochets droits [[ ]] signalent des propositions, parfois approximatives, de mots à rétablir ou à substituer. La traduction ne tient compte que de l'état corrigé.</p>
-            <p>Dans la transcription interactive du fac-similé, les accolades {} encadrent les mots rayés et les crochets brisés &#60; &#62; signalent les mots ajoutés en interligne par le scribe.</p>
+            <p>Dans la transcription interactive du fac-similé, les accolades {} encadrent les mots rayés et les crochets brisés [] signalent les mots ajoutés en interligne par le scribe.</p>
           </div>
         </div>
       </div>
       <div class="speech">
         <head>Partie du discours</head>
         <p>
-          <seg corresp="">Petrus de Ferrariis, miles domini nostri Franc’ et Navarre regis ejusque senescallus Xanctonensis et Engolismensis,<note id="">Suscription.</note></seg>
-          <seg corresp="">discreto viro Guillelmo Amblardi, thesaurario regio Xanctonensi vel ejus locum tenenti,<note id="">Adresse.</note></seg>
-          <seg corresp="">salutem.<note id="">Salut.</note></seg>
-          <seg corresp="">Patentes litteras regias recepimus in hec verba :<note id="">Début de l?exposé de l?acte du sénéchal, qui inclut tout l?acte inséré.</note></seg>
-          <seg corresp="">“ Philippus, Dei gratia Francorum et Navarre rex,<note id="">Acte inséré : suscription.</note></seg>
-          <seg corresp="">senescallo Xanctonensi aut ejus locum tenenti,<note id="">Acte inséré : adresse.</note></seg>
-          <seg corresp="">salutem.<note id="">Acte inséré : salut.</note></seg>
-          <seg corresp="">Alias vobis mandavimus et iterato (precipiente districte mandamus) precipiendo districte mandamus quatinus castrum nostrum de Ruppella faciatis reparacione necessaria quam cicius reparari,<note id="">Acte inséré : dispositif.</note></seg>
-          <seg corresp="">et nos gentibus nostris presentibus [damus] in mandatis quatinus quicquid pro reparacione predicta vos ponere contigerit in vestris compotis allocent et de vestra recepta deducant ;<note id="">Acte inséré : clause de décharge.</note></seg>
-          <seg corresp="">scituri quod, si ob vestram negligenciam dictum castrum per deffectum reparacionis contigerit deteriorari, nos ipsum castrum vestris faciemus sumptibus reparari.<note id="">Acte inséré : clause pénale.</note></seg>
-          <seg corresp="">Nolumus tamen quod (si) aliqua nova edificia faciatis ibidem.<note id="">Acte inséré : ajout au dispositif.</note></seg>
-          <seg corresp="">Datum apud Lochias, die XIIII maii, anno Domini M° CCC° vicesimo primo. ”<note id="">Acte inséré : date de lieu et de temps.</note></seg>
-          <seg corresp="">Quarum auctoritate litterarum castrum regium de Ruppella faciatis reparacione necessaria reparari juxta continentiam et tenorem litterarum predictarum, sine aliquibus novis edificiis ibidem faciendo, prout in dictis litteris videbitis contineri.<note id="">Dispositif.</note></seg>
-          <seg corresp="">Datum Ruppelle, die dominica post festum Beati Martini yemalis, anno Domini M° CCC° vicesimo primo.<note id="">Date de lieu et de temps.</note></seg>
+          <seg>Petrus de Ferrariis, miles domini nostri Franc’ et Navarre regis ejusque senescallus Xanctonensis et Engolismensis,<note>Suscription.</note></seg>
+          <seg>discreto viro Guillelmo Amblardi, thesaurario regio Xanctonensi vel ejus locum tenenti,<note>Adresse.</note></seg>
+          <seg>salutem.<note>Salut.</note></seg>
+          <seg>Patentes litteras regias recepimus in hec verba :<note>Début de l?exposé de l?acte du sénéchal, qui inclut tout l?acte inséré.</note></seg>
+          <seg>“ Philippus, Dei gratia Francorum et Navarre rex,<note>Acte inséré : suscription.</note></seg>
+          <seg>senescallo Xanctonensi aut ejus locum tenenti,<note>Acte inséré : adresse.</note></seg>
+          <seg>salutem.<note>Acte inséré : salut.</note></seg>
+          <seg>Alias vobis mandavimus et iterato (precipiente districte mandamus) precipiendo districte mandamus quatinus castrum nostrum de Ruppella faciatis reparacione necessaria quam cicius reparari,<note>Acte inséré : dispositif.</note></seg>
+          <seg>et nos gentibus nostris presentibus [damus] in mandatis quatinus quicquid pro reparacione predicta vos ponere contigerit in vestris compotis allocent et de vestra recepta deducant ;<note>Acte inséré : clause de décharge.</note></seg>
+          <seg>scituri quod, si ob vestram negligenciam dictum castrum per deffectum reparacionis contigerit deteriorari, nos ipsum castrum vestris faciemus sumptibus reparari.<note>Acte inséré : clause pénale.</note></seg>
+          <seg>Nolumus tamen quod (si) aliqua nova edificia faciatis ibidem.<note>Acte inséré : ajout au dispositif.</note></seg>
+          <seg>Datum apud Lochias, die XIIII maii, anno Domini M° CCC° vicesimo primo. ”<note>Acte inséré : date de lieu et de temps.</note></seg>
+          <seg>Quarum auctoritate litterarum castrum regium de Ruppella faciatis reparacione necessaria reparari juxta continentiam et tenorem litterarum predictarum, sine aliquibus novis edificiis ibidem faciendo, prout in dictis litteris videbitis contineri.<note>Dispositif.</note></seg>
+          <seg>Datum Ruppelle, die dominica post festum Beati Martini yemalis, anno Domini M° CCC° vicesimo primo.<note>Date de lieu et de temps.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

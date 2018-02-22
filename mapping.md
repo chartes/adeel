@@ -29,8 +29,8 @@
 *   17 label
 *    <strike>9 xref</strike>
 *    <strike>8 span</strike>
-*    7 lg
-*    <strike>7 i</strike
+*    <strike>7 lg</strike>
+*    <strike>7 i</strike>
 *    7 editor
 *    <strike>6 li</strike>
 *    5 cb
@@ -46,7 +46,15 @@
 *    <strike>1 edition</strike>
 *    <strike>1 blockquote</strike>
 *    <strike>1 a</strike>
+* <strike>commentaires</strike>
 
+# entités
+Penser à transformer `&quot;` au chargement en base.
+
+On conserve
+* `&amp;`
+* `&gt;`
+* `&lt;`
 
 # structure `body`
 
