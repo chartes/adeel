@@ -1,3 +1,5 @@
+//seg[not(ancestor::div[@type="facsimile"]) and not(ancestor::div[@type="text"]) and not(ancestor::div[@type="speech"]) and not(ancestor::figDesc)]
+
 # TODO (in `body`)
 * 5070 l
 * 4848 seg
