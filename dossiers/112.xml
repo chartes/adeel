@@ -63,12 +63,12 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg corresp="suscription">En la presence de moy, notaire et secretaire du roy nostre sire Jheronyme Paule et Jehan Marie de Pintour, de Venise, gentilzhommmes plaisans,<note n="suscription">Suscription</note></seg>
-          <seg corresp="expose">ont confessé avoir receu comptant de m<hi rend="sup">e</hi> Jehan Duval conseiller dudict seigneur et trésorier de son Espargne la somme de deux cens vingt-cinq livres tournois en <hi rend="sc">C</hi> escus d’or soleil a <hi rend="sc">XLV</hi> s. t. piece, qui est à chacun d’eulx <hi rend="sc">L</hi> escus soleil dont le roy nostred. seigneur leur a faict don en faveur du passe-temps et recreation qu’ilz luy ont nagueres donné en plusieurs mynes qu’ilz ont faictes et propos facetieux par eulx tenuz devant luy ou il a prins plaisir,<note n="expose">Exposé</note></seg>
-          <seg corresp="dispositif">de laquelle somme de <hi rend="sc">II<hi rend="sup">c</hi></hi> <hi rend="sc">XXV</hi> l. tournois lesdictz Jheronyme Paule et Jehan Marie se sont respectivement tenuz contens et bien payez et en ont quicté et quictent ledit m<hi rend="sup">e</hi> Jehan Duval, tresorier susdict, et touz autres.<note n="dispositif">Dispositif</note></seg>
-          <seg corresp="clause_corroboration">Tesmoing mon seing manuel, cy mis à leur requeste,<note n="clause_corroboration">Clause de corroboration</note></seg>
-          <seg corresp="date">le <hi rend="sc">IIII</hi><hi rend="sup">e</hi> jour de mars, l’an mil cinq cens trente-neuf.<note n="date">Date</note></seg> 
-          <seg corresp="signature">B<hi rend="sc">ONACORSY</hi><note n="signature">Signature et seing manuel</note></seg>
+          <seg corresp="suscription">En la presence de moy, notaire et secretaire du roy nostre sire Jheronyme Paule et Jehan Marie de Pintour, de Venise, gentilzhommmes plaisans,<note ana="suscription">Suscription</note></seg>
+          <seg corresp="expose">ont confessé avoir receu comptant de m<hi rend="sup">e</hi> Jehan Duval conseiller dudict seigneur et trésorier de son Espargne la somme de deux cens vingt-cinq livres tournois en <hi rend="sc">C</hi> escus d’or soleil a <hi rend="sc">XLV</hi> s. t. piece, qui est à chacun d’eulx <hi rend="sc">L</hi> escus soleil dont le roy nostred. seigneur leur a faict don en faveur du passe-temps et recreation qu’ilz luy ont nagueres donné en plusieurs mynes qu’ilz ont faictes et propos facetieux par eulx tenuz devant luy ou il a prins plaisir,<note ana="expose">Exposé</note></seg>
+          <seg corresp="dispositif">de laquelle somme de <hi rend="sc">II<hi rend="sup">c</hi></hi> <hi rend="sc">XXV</hi> l. tournois lesdictz Jheronyme Paule et Jehan Marie se sont respectivement tenuz contens et bien payez et en ont quicté et quictent ledit m<hi rend="sup">e</hi> Jehan Duval, tresorier susdict, et touz autres.<note ana="dispositif">Dispositif</note></seg>
+          <seg corresp="clause_corroboration">Tesmoing mon seing manuel, cy mis à leur requeste,<note ana="clause_corroboration">Clause de corroboration</note></seg>
+          <seg corresp="date">le <hi rend="sc">IIII</hi><hi rend="sup">e</hi> jour de mars, l’an mil cinq cens trente-neuf.<note ana="date">Date</note></seg> 
+          <seg corresp="signature">B<hi rend="sc">ONACORSY</hi><note ana="signature">Signature et seing manuel</note></seg>
         </p> 
       </div>
       <div type="diplomatic">

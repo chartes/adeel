@@ -146,17 +146,17 @@
       <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="suscription">Guillelmus, Dei gratia Cenomannensis episcopus,<note n="suscription">Suscription.</note></seg>
-          <seg corresp="adresse">fidelibus universis,<note n="adresse">Adresse universelle.</note></seg>
-          <seg corresp="salut">salutem.<note n="salut" type="bulle">Salut.</note></seg>
-          <seg corresp="preambule">Nos, intelligentes quod veritas sub scripti actoritate tutius debeat observari,<note n="preambule">Préambule court.</note></seg>
-          <seg corresp="notification">notum fieri curavimus<note n="notification">Première notification.</note></seg>
-          <seg corresp="expose">Gilonem de Gorran pro salute anime sue et uxoris et antecessorum quandam terram suam que dicitur La Mehellee, que est juxta Erneiam, monachis Savigneii ad pitantiam in pane et vino et piscibus singulis annis percipiendam in perpetuam elemosinam liberam et quietam et ab omni servitio et consuetudine et exactione absolutam dedisse et concessisse. Hanc donationem concessit Guillelmus filius ejus primogenitus et sigilli sui actoritate munivit, eam tueri et defensare fideliter promisit, et pro hac concessione de caritate monasterii quatuor libras et decem solidos cenomannensium habuit. Hanc ipsam donationem concessit Henricus frater predicti Guillelmi, qui etiam de prefati monasterii caritate triginta solidos cenomannensium habuit.<note n="expose" type="bulle">Premier exposé (pas de dispositif à proprement dans cet acte dont la fin même est de rapporter des faits sous le sceau de l’évêque) : historique de la donation.</note></seg>
-          <seg corresp="notification">Hoc autem sciendum est quod<note n="notification">Seconde notification.</note></seg>
-          <seg corresp="expose">sepedictus Guillelmus et Henricus frater ejus hanc donationem in manu nostra miserunt, de qua predictos monachos investivimus.<note n="expose">Second exposé : la cérémonie devant l’évêque.</note></seg>
-          <seg corresp="date">Anno ab Incarnatione Domini M° C° LXXX°.<note n="date">Date de temps, simple excroissance de l’exposé.</note></seg> 
-          <seg corresp="corroboration">Quod ut fidelius observetur, litteris annotari et sigilli nostri munimine fecimus confirmari.<note n="corroboration">Corroboration probatoire avec annnonce de sceau.</note></seg>
-          <seg corresp="liste">Hujus rei sunt testes Nicholaus decanus Beati Juliani, R. precentor, magister Ernaldus, magister B. capellanus, Stephanus, Ricardus, Hugo, monachi, et multi alii.<note n="liste">Liste de témoins.</note></seg>
+          <seg corresp="suscription">Guillelmus, Dei gratia Cenomannensis episcopus,<note ana="suscription">Suscription.</note></seg>
+          <seg corresp="adresse">fidelibus universis,<note ana="adresse">Adresse universelle.</note></seg>
+          <seg corresp="salut">salutem.<note ana="salut" type="bulle">Salut.</note></seg>
+          <seg corresp="preambule">Nos, intelligentes quod veritas sub scripti actoritate tutius debeat observari,<note ana="preambule">Préambule court.</note></seg>
+          <seg corresp="notification">notum fieri curavimus<note ana="notification">Première notification.</note></seg>
+          <seg corresp="expose">Gilonem de Gorran pro salute anime sue et uxoris et antecessorum quandam terram suam que dicitur La Mehellee, que est juxta Erneiam, monachis Savigneii ad pitantiam in pane et vino et piscibus singulis annis percipiendam in perpetuam elemosinam liberam et quietam et ab omni servitio et consuetudine et exactione absolutam dedisse et concessisse. Hanc donationem concessit Guillelmus filius ejus primogenitus et sigilli sui actoritate munivit, eam tueri et defensare fideliter promisit, et pro hac concessione de caritate monasterii quatuor libras et decem solidos cenomannensium habuit. Hanc ipsam donationem concessit Henricus frater predicti Guillelmi, qui etiam de prefati monasterii caritate triginta solidos cenomannensium habuit.<note ana="expose" type="bulle">Premier exposé (pas de dispositif à proprement dans cet acte dont la fin même est de rapporter des faits sous le sceau de l’évêque) : historique de la donation.</note></seg>
+          <seg corresp="notification">Hoc autem sciendum est quod<note ana="notification">Seconde notification.</note></seg>
+          <seg corresp="expose">sepedictus Guillelmus et Henricus frater ejus hanc donationem in manu nostra miserunt, de qua predictos monachos investivimus.<note ana="expose">Second exposé : la cérémonie devant l’évêque.</note></seg>
+          <seg corresp="date">Anno ab Incarnatione Domini M° C° LXXX°.<note ana="date">Date de temps, simple excroissance de l’exposé.</note></seg> 
+          <seg corresp="corroboration">Quod ut fidelius observetur, litteris annotari et sigilli nostri munimine fecimus confirmari.<note ana="corroboration">Corroboration probatoire avec annnonce de sceau.</note></seg>
+          <seg corresp="liste">Hujus rei sunt testes Nicholaus decanus Beati Juliani, R. precentor, magister Ernaldus, magister B. capellanus, Stephanus, Ricardus, Hugo, monachi, et multi alii.<note ana="liste">Liste de témoins.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

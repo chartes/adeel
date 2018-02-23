@@ -84,23 +84,23 @@
         <head>Parties du discours</head>
         <div>
           <p>
-            <seg corresp="suscription">Louis par la grâce de Dieu roi de France et de Navarre,<note n="suscription">Suscription</note></seg>
-            <seg corresp="adresse">à tous présents et à venir<note n="adresse">Adresse universelle</note></seg>
-            <seg corresp="salut">salut.<note n="salut">Salut</note></seg>
-            <seg corresp="expose">Par notre edit du mois de janvier M VIc quatre-vingt-huit, nous avons pour les causes et motifx y contenus supprimé l’office de conseiller lay en notre cour de parlement dont estoit pourveu le sieur Muisson et estimant necessaire de rétablir led. office afin que celuy qui en sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service.<note n="expose">Exposé</note></seg>
-            <seg corresp="dispositif">>À ces causes et autres à ce nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre main un office de conseiller lay en notred. cour de parlement pour, par celuy qui en sera bien et deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. cour. Voulons à cette fin que le fonds desd. gages soit fait dans nos estats en la maniere acoutumée.<note n="dispositif">Dispositif</note></seg>
-            <seg corresp="injonctive">Si donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.<note n="injonctive">Clause injonctive</note></seg>
-            <seg corresp="intentionnelle">Car tel est notre plaisir.<note n="intentionnelle">Clause intentionnelle</note></seg>
-            <seg corresp="corroboration"> Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre notre seel à cesd. presentes.<note n="corroboration">Clause de corroboration</note></seg>
-            <seg corresp="date">Donné à Versailles au mois de may l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.<note n="date">Date</note></seg>
-            <seg corresp="signature">L<hi rend="sc">OUIS</hi><note n="signature">Signature du roi</note></seg>
-            <seg corresp="jussio">par le roy<lb/><note n="jussio">Mention de jussio</note></seg>
-            <seg corresp="contreseing">P<hi rend="sc">HELYPEAUX</hi> (paraphe)<note n="contreseing">Contreseing du secrétaire d’État</note></seg>
-            <seg corresp="visa">visa B<hi rend="sc">OUCHERAT</hi><note n="visa">Visa et signature du chancelier</note></seg>
-            <seg corresp="mention_enregistrement">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note n="mention_enregistrement">Mention d’enregistrement</note></seg>
-            <seg corresp="signature">G<hi rend="sc">AMART</hi>, nihil (paraphe)<note n="signature">Signature du greffier de la Chambre des comptes</note></seg>
-            <seg corresp="mention_enregistrement">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note n="mention_enregistrement">Mention d’enregistrement</note></seg>
-            <seg corresp="signature">D<hi rend="sc">ONGOIS</hi> (paraphe)<note n="signature">Signature du greffier du Parlement</note></seg>
+            <seg corresp="suscription">Louis par la grâce de Dieu roi de France et de Navarre,<note ana="suscription">Suscription</note></seg>
+            <seg corresp="adresse">à tous présents et à venir<note ana="adresse">Adresse universelle</note></seg>
+            <seg corresp="salut">salut.<note ana="salut">Salut</note></seg>
+            <seg corresp="expose">Par notre edit du mois de janvier M VIc quatre-vingt-huit, nous avons pour les causes et motifx y contenus supprimé l’office de conseiller lay en notre cour de parlement dont estoit pourveu le sieur Muisson et estimant necessaire de rétablir led. office afin que celuy qui en sera par nous pourveu puisse vaquer aux fonctions d’iceluy pour le bien de la justice et de notre service.<note ana="expose">Exposé</note></seg>
+            <seg corresp="dispositif">>À ces causes et autres à ce nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre main un office de conseiller lay en notred. cour de parlement pour, par celuy qui en sera bien et deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. cour. Voulons à cette fin que le fonds desd. gages soit fait dans nos estats en la maniere acoutumée.<note ana="dispositif">Dispositif</note></seg>
+            <seg corresp="injonctive">Si donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.<note ana="injonctive">Clause injonctive</note></seg>
+            <seg corresp="intentionnelle">Car tel est notre plaisir.<note ana="intentionnelle">Clause intentionnelle</note></seg>
+            <seg corresp="corroboration"> Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre notre seel à cesd. presentes.<note ana="corroboration">Clause de corroboration</note></seg>
+            <seg corresp="date">Donné à Versailles au mois de may l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.<note ana="date">Date</note></seg>
+            <seg corresp="signature">L<hi rend="sc">OUIS</hi><note ana="signature">Signature du roi</note></seg>
+            <seg corresp="jussio">par le roy<lb/><note ana="jussio">Mention de jussio</note></seg>
+            <seg corresp="contreseing">P<hi rend="sc">HELYPEAUX</hi> (paraphe)<note ana="contreseing">Contreseing du secrétaire d’État</note></seg>
+            <seg corresp="visa">visa B<hi rend="sc">OUCHERAT</hi><note ana="visa">Visa et signature du chancelier</note></seg>
+            <seg corresp="mention_enregistrement">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note ana="mention_enregistrement">Mention d’enregistrement</note></seg>
+            <seg corresp="signature">G<hi rend="sc">AMART</hi>, nihil (paraphe)<note ana="signature">Signature du greffier de la Chambre des comptes</note></seg>
+            <seg corresp="mention_enregistrement">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note ana="mention_enregistrement">Mention d’enregistrement</note></seg>
+            <seg corresp="signature">D<hi rend="sc">ONGOIS</hi> (paraphe)<note ana="signature">Signature du greffier du Parlement</note></seg>
           </p>
         </div>
       </div>

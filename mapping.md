@@ -83,7 +83,13 @@ div[@type="facsimile"]
 * sous-ligné (`tei:hi[@rend="u"]` => `html:u` – déprécié, on remplace par quoi ?)
 * exposant (`tei:hi[@rend="sup"]` => `html:sup`)
 * petites caps (`tei:hi[@rend="sc"]` => `html:span[@class="sc"]`)
+
+**enrichissements sémantiques**
 * citations inline (`«`,`»`) (`tei:quote`=> `html:q`)
+* mention bibliographique (`bibl` => )
+* entités nommées
+  * personne (`tei:persName/@ref` => )
+  * lieu (`tei:placeName/@ref` => )
 * des liens (`tei:ref[@target]` => `html:a[@href]`)
 
 **structure éditoriale**

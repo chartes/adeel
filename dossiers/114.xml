@@ -64,11 +64,11 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg corresp="date">L’an mil cinq cens quarante-six le vingt-deuxième jour de septembre,<note n="date">Date</note></seg>
-          <seg corresp="suscription">devant les tabellions d’Orbec<note n="suscription">Suscription</note></seg>
-          <seg corresp="expose">fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part<note n="expose">Exposé et dispositif</note></seg>
-          <seg corresp="clause_finale">promectant led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que aultres, sur l’obligation de biens et heritaiges, etc... <note n="clause_finale">Clause finale</note></seg>
-          <seg corresp="clause_corroboration">Presents Thomas Feret et Françoys Ourtheys tesmoins<note n="clause_corroboration">Clause de corroboration</note></seg>
+          <seg corresp="date">L’an mil cinq cens quarante-six le vingt-deuxième jour de septembre,<note ana="date">Date</note></seg>
+          <seg corresp="suscription">devant les tabellions d’Orbec<note ana="suscription">Suscription</note></seg>
+          <seg corresp="expose">fut present Pierres Neron, executeur des sentences cryminelles en ceste viconté, lequelle confesse avoir eu et receu de honnorable homme Thomas de Sainct-Aubin, recepveur du dommaine de cested. viconté absent, les cens cinq solz tournois contenus en l’autre part qui taxés luy avoient esté a prendre sur led. dommaine jouxtant et pour les causes contenus en l’autre part<note ana="expose">Exposé et dispositif</note></seg>
+          <seg corresp="clause_finale">promectant led. Neron que jamaiz riens desd. cent cinq solz tournois ne sera demandé tant aud. recepveur que aultres, sur l’obligation de biens et heritaiges, etc...<note ana="clause_finale">Clause finale</note></seg>
+          <seg corresp="clause_corroboration">Presents Thomas Feret et Françoys Ourtheys tesmoins<note ana="clause_corroboration">Clause de corroboration</note></seg>
         </p>
       </div>
       <div type="diplomatic">

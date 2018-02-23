@@ -94,24 +94,24 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg corresp="adresse">A tous ceulx qui ces lettres verront ou orront<note n="adresse">Adresse universelle</note></seg>
-          <seg corresp="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes<note n="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes</note></seg>
-          <seg corresp="salut">salut.<note n="salut">Salut</note></seg>
-          <seg corresp="notification">Savoir faisons que<note n="notification">Notification</note></seg>
-          <seg corresp="date">au jour d’uy, quinzieme jour de novembre l’an mil IIIICC IIIIXX et sept,<note n="date">Date initiale</note></seg>
-          <seg corresp="vidisuscription">« Willermus comes Pontuvii,<note n="vidisuscription">Début de l’acte vidimé Suscription</note></seg>
-          <seg corresp="vidiadresse">servientibus et forestariis suis de Almenechis,<note n="vidiadresse">Adresse collective</note></seg>
-          <seg corresp="vidisalut">Salut<note n="vidisalut">Salut</note></seg>
-          <seg corresp="vidinotification">Scitote quia<note n="vidinotification">Notification</note></seg>
-          <seg corresp="vidiexpose">concessi canonicis Sancte Barbare locum de Salta Cocheria pro amore Dei et salute anime mee et antecessorum meorum et filiorum, et herbagium et pasnagium et omnem consuetudinem solutam et liberam.<note n="vidiexpose">Exposé</note></seg>
-          <seg corresp="vididispo">Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.<note n="vididispo">Dispositif</note></seg>
-          <seg corresp="vididate">Apud Almeneschas.<note n="vididate">Date de lieu</note></seg>
-          <seg corresp="viditemoin">Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.<note n="viditemoin">Liste de témoins</note></seg>
-          <seg corresp="vidisalut">Valete. »<note n="vidisalut">Salut final</note></seg>
-          <seg corresp="corroboration">En tesmoing de ce, nous, a la relacion desdits tabellions, avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.<note n="corroboration">Retour au vidimus : corroboration (allusion non expliquée à plusieurs sceaux concurrents)</note></seg>
-          <seg corresp="date">Ce fut faict en l’an et jour dessusdits.<note n="date">Date finale</note></seg>
-          <seg corresp="collation">Collacion faicte.<note n="collation">Mention de collation par laquelle les tabellions attestent avoir revu leur copie en la collationnant à l’original</note> </seg>
-          <seg corresp="signature">(Signé :) Gaudin, Bouton.<note n="signature">Signature des tabellions</note></seg> 
+          <seg corresp="adresse">A tous ceulx qui ces lettres verront ou orront<note ana="adresse">Adresse universelle</note></seg>
+          <seg corresp="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes<note ana="suscription">Pierres Plou, escuier, garde du seel aux obligations de la chastellenie d’Exmes</note></seg>
+          <seg corresp="salut">salut.<note ana="salut">Salut</note></seg>
+          <seg corresp="notification">Savoir faisons que<note ana="notification">Notification</note></seg>
+          <seg corresp="date">au jour d’uy, quinzieme jour de novembre l’an mil IIIICC IIIIXX et sept,<note ana="date">Date initiale</note></seg>
+          <seg corresp="vidisuscription">« Willermus comes Pontuvii,<note ana="vidisuscription">Début de l’acte vidimé Suscription</note></seg>
+          <seg corresp="vidiadresse">servientibus et forestariis suis de Almenechis,<note ana="vidiadresse">Adresse collective</note></seg>
+          <seg corresp="vidisalut">Salut<note ana="vidisalut">Salut</note></seg>
+          <seg corresp="vidinotification">Scitote quia<note ana="vidinotification">Notification</note></seg>
+          <seg corresp="vidiexpose">concessi canonicis Sancte Barbare locum de Salta Cocheria pro amore Dei et salute anime mee et antecessorum meorum et filiorum, et herbagium et pasnagium et omnem consuetudinem solutam et liberam.<note ana="vidiexpose">Exposé</note></seg>
+          <seg corresp="vididispo">Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.<note ana="vididispo">Dispositif</note></seg>
+          <seg corresp="vididate">Apud Almeneschas.<note ana="vididate">Date de lieu</note></seg>
+          <seg corresp="viditemoin">Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.<note ana="viditemoin">Liste de témoins</note></seg>
+          <seg corresp="vidisalut">Valete. »<note ana="vidisalut">Salut final</note></seg>
+          <seg corresp="corroboration">En tesmoing de ce, nous, a la relacion desdits tabellions, avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.<note ana="corroboration">Retour au vidimus : corroboration (allusion non expliquée à plusieurs sceaux concurrents)</note></seg>
+          <seg corresp="date">Ce fut faict en l’an et jour dessusdits.<note ana="date">Date finale</note></seg>
+          <seg corresp="collation">Collacion faicte.<note ana="collation">Mention de collation par laquelle les tabellions attestent avoir revu leur copie en la collationnant à l’original</note> </seg>
+          <seg corresp="signature">(Signé :) Gaudin, Bouton.<note ana="signature">Signature des tabellions</note></seg> 
         </p>
       </div>
       <div type="diplomatic">

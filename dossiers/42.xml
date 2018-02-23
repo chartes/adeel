@@ -108,12 +108,12 @@
       <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="notification">Noverint universi quod <note n="notification">Notification.</note></seg>
-          <seg corresp="suscription">nos Vitalis, Dei gratia prepositus ecclesie Sancti Stephani sedis Tholose, et capitulum ejusdem ecclesie <note n="suscription">Suscription.</note></seg>
-          <seg corresp="dispositif">facimus, constituimus et etiam ordinamus certum et specialem procuratorem nostrum discretum virum magistrum Arnaldum Bartholomei, jurisperitum, presentis procuratorii exibitorem, ad comparendum et existendum pro nobis et nomine nostro in proximo concilio apud Bitterrim convocato per reverendum in Christo patrem dominum P., Dei providencia sancte Narbonensis ecclesie archiepiscopum, et ad audiendum et suscipiendum mandata et ordinationes que in dicto fient concilio, sicut ea suscipient venerabiles patres et domini prelati provincie Narbonensis, et ad faciendum ea que nos faceremus in dicto concilio et que facient domini prelati antedicti, <note n="dispositif">Dispositif.</note></seg>
-          <seg corresp="obligation">ratum et gratum habentes quicquid per dictum procuratorem in premissis actum fuerit seu etiam procuratum. <note n="obligation">Clause d’obligation.</note></seg>
-          <seg corresp="corroboration">In cujus rei testimonium, nus prepositus et capitulum supradicti huic presenti procuratorio sigilla nostra duximus apponenda. <note n="corroboration">Corroboration probatoire avec annonce de sceau</note></seg>
-          <seg corresp="date">Datum Tholose, die mercurii post festum Pentecostes, anno Domini M° CC° LXX° VII°. <note n="date">Date.</note></seg>
+          <seg corresp="notification">Noverint universi quod<note ana="notification">Notification.</note></seg>
+          <seg corresp="suscription">nos Vitalis, Dei gratia prepositus ecclesie Sancti Stephani sedis Tholose, et capitulum ejusdem ecclesie<note ana="suscription">Suscription.</note></seg>
+          <seg corresp="dispositif">facimus, constituimus et etiam ordinamus certum et specialem procuratorem nostrum discretum virum magistrum Arnaldum Bartholomei, jurisperitum, presentis procuratorii exibitorem, ad comparendum et existendum pro nobis et nomine nostro in proximo concilio apud Bitterrim convocato per reverendum in Christo patrem dominum P., Dei providencia sancte Narbonensis ecclesie archiepiscopum, et ad audiendum et suscipiendum mandata et ordinationes que in dicto fient concilio, sicut ea suscipient venerabiles patres et domini prelati provincie Narbonensis, et ad faciendum ea que nos faceremus in dicto concilio et que facient domini prelati antedicti,<note ana="dispositif">Dispositif.</note></seg>
+          <seg corresp="obligation">ratum et gratum habentes quicquid per dictum procuratorem in premissis actum fuerit seu etiam procuratum.<note ana="obligation">Clause d’obligation.</note></seg>
+          <seg corresp="corroboration">In cujus rei testimonium, nus prepositus et capitulum supradicti huic presenti procuratorio sigilla nostra duximus apponenda.<note ana="corroboration">Corroboration probatoire avec annonce de sceau</note></seg>
+          <seg corresp="date">Datum Tholose, die mercurii post festum Pentecostes, anno Domini M° CC° LXX° VII°.<note ana="date">Date.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

@@ -69,15 +69,15 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg corresp="suscription">JEHANNE par la grace de Dieu royne de Jerusalem, de Sicille, etc., duchesse d’Anjou et de Bar, contesse de Prouvence, de Forcalquier, de Pimont, etc., et dame de Saint Remy,<note n="suscription">Suscription : nom, formule de dévotion, titulature (en partie abrégée)</note></seg>
-          <seg corresp="adresse"> noz officiers dud. lieu de Saint Remy et a chacun d’eulx,<note n="adresse">Adresse collective</note></seg>
-          <seg corresp="salut">salut.<note n="salut">Salut</note></seg>
-          <seg corresp="expose">Veüe la supplicacion des sindics de nostred. ville de Saint Remy atachee a ceste presente et le contenu en icelle,<note n="expose">Exposé</note></seg>
-          <seg corresp="dispositif">vous mandons que faictes exprés commandement a maistres Jehan Bourceti et Bertran Deodati, notaires de lad. ville et commissaires a la tauxacion et audicion des comptes et raisons a eulx commise et par eulx prinse et acceptee, dont en lad. supplicacion est faicte mencion, qu’ilz aient a parfaire et acomplir leurd. commission et tauxacion au solt et livre et sur les biens de tous les particuliers de lad. ville dedans ung moys sur peine de XXV marcs d’argent fin, ou qu’ilz aient a restituer ce qu’ilz ont eu de l’université de lad. ville a cause de lad. commission, et a y renuncer. Et en cas d’opposition, les parties ouyes et appellees briefvement et sans procés mes seullement la verité congneue, la cause terminent et decident ainsi que congnoistront et verront estre affaire.<note n="dispositif">Dispositif.</note></seg>
-          <seg corresp="date">Donné a Masseille, le Vme jour d’avril l’an mil CCCC huitante sept.<note n="date">Date de lieu et de temps</note></seg>
-          <seg corresp="signature">JEHANNE<note n="signature">Signature autographe.</note></seg>
-          <seg corresp="mention">Par la royne, le procureur du Boulay chevalier et Jehan de la Jaille maistre d’ostel presens.<note n="mention">Mention de commandement : ici un acte commandé par l’auteur lui-même, en présence de certains familiers</note></seg>
-          <seg corresp="seing ">NIGON.<note n="seing ">Seing du notaire-secrétaire</note></seg>
+          <seg corresp="suscription">JEHANNE par la grace de Dieu royne de Jerusalem, de Sicille, etc., duchesse d’Anjou et de Bar, contesse de Prouvence, de Forcalquier, de Pimont, etc., et dame de Saint Remy,<note ana="suscription">Suscription : nom, formule de dévotion, titulature (en partie abrégée)</note></seg>
+          <seg corresp="adresse"> noz officiers dud. lieu de Saint Remy et a chacun d’eulx,<note ana="adresse">Adresse collective</note></seg>
+          <seg corresp="salut">salut.<note ana="salut">Salut</note></seg>
+          <seg corresp="expose">Veüe la supplicacion des sindics de nostred. ville de Saint Remy atachee a ceste presente et le contenu en icelle,<note ana="expose">Exposé</note></seg>
+          <seg corresp="dispositif">vous mandons que faictes exprés commandement a maistres Jehan Bourceti et Bertran Deodati, notaires de lad. ville et commissaires a la tauxacion et audicion des comptes et raisons a eulx commise et par eulx prinse et acceptee, dont en lad. supplicacion est faicte mencion, qu’ilz aient a parfaire et acomplir leurd. commission et tauxacion au solt et livre et sur les biens de tous les particuliers de lad. ville dedans ung moys sur peine de XXV marcs d’argent fin, ou qu’ilz aient a restituer ce qu’ilz ont eu de l’université de lad. ville a cause de lad. commission, et a y renuncer. Et en cas d’opposition, les parties ouyes et appellees briefvement et sans procés mes seullement la verité congneue, la cause terminent et decident ainsi que congnoistront et verront estre affaire.<note ana="dispositif">Dispositif.</note></seg>
+          <seg corresp="date">Donné a Masseille, le Vme jour d’avril l’an mil CCCC huitante sept.<note ana="date">Date de lieu et de temps</note></seg>
+          <seg corresp="signature">JEHANNE<note ana="signature">Signature autographe.</note></seg>
+          <seg corresp="mention">Par la royne, le procureur du Boulay chevalier et Jehan de la Jaille maistre d’ostel presens.<note ana="mention">Mention de commandement : ici un acte commandé par l’auteur lui-même, en présence de certains familiers</note></seg>
+          <seg corresp="seing ">NIGON.<note ana="seing ">Seing du notaire-secrétaire</note></seg>
         </p>
       </div>
       <div type="diplomatic">
