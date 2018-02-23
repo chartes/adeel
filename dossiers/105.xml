@@ -141,23 +141,23 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg corresp="date">Mai 1763.<note ana="date">Date</note></seg>
-          <seg corresp="analyse">Ordre du roi. (paraphe)<note ana="analyse">Analyse</note></seg>
-          <seg corresp="requete">Le sieur Luthier demande si l’on éclairera et chauffera le château de Marly le voyage prochain comme dans les voyages ordinaires.<note ana="requete">Requête</note></seg>
-          <seg corresp="ordre">Le pavillon du roy comme à l’ordinaire, mais l’on ne donnera de bois d’arrivée à personne. (paraphe)<note ana="ordre">Ordre</note></seg>
-          <seg corresp="requete">Si le concierge, les garçons du garde-meuble, les sieurs Boucheman et Lemoine, les garçons du château, l’orloger, le garçon des chiens et les porteurs seront chauffés et éclairés.<note ana="requete">Requête</note></seg>
-          <seg corresp="ordre">Le voyage étant comme celui de Versailles, l’on n’est obligé à rien, mais on peut leur donner quelque secours en bois et lumières ; m<hi rend="sup">rs</hi> Bouceman et Lemoine, oui sûrement. (paraphe)<note ana="ordre">Ordre</note></seg>
-          <seg corresp="requete">Si on éclairera les salles des gardes de Votre Majesté, des gardes de la Porte et des Cent Suisses.<note ana="requete">Requête</note></seg>
-          <seg corresp="ordre">Oui, sans doute. (paraphe)<note ana="ordre">Ordre</note></seg>
-          <seg corresp="requete"> Si les femmes de chambre de mesdames qui logent hors du château seront chauffées et éclairées.<note ana="requete">Requête</note>></seg>
-          <seg corresp="ordre"> Oui, en observant la règle la plus exacte. (paraphe)<note ana="ordre">Ordre</note></seg>
-          <seg corresp="requete"> Si on donnera une bougie blanche par jour au supérieur des cordeliers de Noisy.<note ana="requete">Requête</note></seg>
-          <seg corresp="ordre"> Oui. Non, une demie.
-            <ex>paraphe</ex><note ana="ordre">Ordre</note></seg>
-          <seg corresp="requete"> Et si on donnera une bougie par jour au vicaire de la paroisse qui dessert la chapelle du commun.<note ana="requete">Requête</note>></seg>
-          <seg corresp="ordre"> Non, mais la valeur en argent. (paraphe)<note ana="ordre5">Ordre</note></seg>
-          <seg corresp="ordre"> Le roy chauffe et éclaire les conseillers d’État à leur pied-à-terre qui est au 5 au commun. (paraphe)<note ana="ordre">Ordre</note></seg>
-          <seg corresp="signature"> NOAILLES.<note ana="signature">Signature</note></seg>
+          <seg ana="date">Mai 1763.<note type="speech">Date</note></seg>
+          <seg ana="analyse">Ordre du roi. (paraphe)<note type="speech">Analyse</note></seg>
+          <seg ana="requete">Le sieur Luthier demande si l’on éclairera et chauffera le château de Marly le voyage prochain comme dans les voyages ordinaires.<note type="speech">Requête</note></seg>
+          <seg ana="ordre">Le pavillon du roy comme à l’ordinaire, mais l’on ne donnera de bois d’arrivée à personne. (paraphe)<note type="speech">Ordre</note></seg>
+          <seg ana="requete">Si le concierge, les garçons du garde-meuble, les sieurs Boucheman et Lemoine, les garçons du château, l’orloger, le garçon des chiens et les porteurs seront chauffés et éclairés.<note type="speech">Requête</note></seg>
+          <seg ana="ordre">Le voyage étant comme celui de Versailles, l’on n’est obligé à rien, mais on peut leur donner quelque secours en bois et lumières ; m<hi rend="sup">rs</hi> Bouceman et Lemoine, oui sûrement. (paraphe)<note type="speech">Ordre</note></seg>
+          <seg ana="requete">Si on éclairera les salles des gardes de Votre Majesté, des gardes de la Porte et des Cent Suisses.<note type="speech">Requête</note></seg>
+          <seg ana="ordre">Oui, sans doute. (paraphe)<note type="speech">Ordre</note></seg>
+          <seg ana="requete"> Si les femmes de chambre de mesdames qui logent hors du château seront chauffées et éclairées.<note type="speech">Requête</note>></seg>
+          <seg ana="ordre"> Oui, en observant la règle la plus exacte. (paraphe)<note type="speech">Ordre</note></seg>
+          <seg ana="requete"> Si on donnera une bougie blanche par jour au supérieur des cordeliers de Noisy.<note type="speech">Requête</note></seg>
+          <seg ana="ordre"> Oui. Non, une demie.
+            <ex>paraphe</ex><note type="speech">Ordre</note></seg>
+          <seg ana="requete"> Et si on donnera une bougie par jour au vicaire de la paroisse qui dessert la chapelle du commun.<note type="speech">Requête</note>></seg>
+          <seg ana="ordre"> Non, mais la valeur en argent. (paraphe)<note type="speech">Ordre</note></seg>
+          <seg ana="ordre"> Le roy chauffe et éclaire les conseillers d’État à leur pied-à-terre qui est au 5 au commun. (paraphe)<note type="speech">Ordre</note></seg>
+          <seg ana="signature"> NOAILLES.<note type="speech">Signature</note></seg>
         </p>
       </div>
       <div type="diplomatic">

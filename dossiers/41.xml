@@ -120,19 +120,19 @@
           <p>Le document est recensé par Bernard Barbiche, <hi rend="i">Les actes pontificaux originaux des Archives nationales de Paris</hi>, t. II, Vatican, 1978 (<hi rend="i">Index actorum Romanorum pontificum</hi>, 2), n° 1445, p. 160, qui renvoie aux éditions antérieures.</p>
         </div>
         <div type="commentaire">
-          <head> Conversion de la date </head>
+          <head>Conversion de la date</head>
           <p>La suscription pontificale ne contient jamais d’ordinal, et la bulle de plomb, qui l’indique, a ici disparu. Il faut donc procéder par recoupement pour identifier ce pape Clément. Des indications d’ordre paléographique et historique fournissent les premiers repères. Clément III (+ 1191) est trop précoce. L’itinéraire de ses homonymes du XIVe siècle les disqualifie autant que la titulature primitive du collège de Sorbonne. Ne reste plus que Clément IV. Il est couronné le 15 février 1265 ; la quatrième année de son pontificat (interrompue par son décès) commence le 15 février 1268 : la lettre est donc du 30 mars 1268.</p>
         </div>
       </div>
-      <div class="speech">
+      <div type="speech">
         <head>Parties du discours</head> 
         <p>
-          <seg corresp="suscription">Clemens episcopus servus servorum Dei,<note ana="suscription">Suscription.</note></seg>
-          <seg corresp="adresse">venerabili fratri . . episcopo Parisiensi,<note ana="adresse">Adresse.</note></seg>
-          <seg corresp="salut">salutem et apostolicam benedictionem.<note ana="salut">Salut.</note></seg>
-          <seg corresp="expose">Supplicationi qua dilecti filii magistri pauperes qui, in artibus adepti magisterii dignitatem, in theologica facultate student et in vico ad Portas ante palatium de Termis Parisius sub communi vita degunt, attenta instantia nos pulsarunt, benignum accomodantes auditum,<note ana="expose">Exposé.</note></seg>
-          <seg corresp="dispositif">fraternitatem tuam rogamus, et hortamur attente, quatinus magistris ipsis habendi oratorium in domo ipsa, in quo illi ex ipsis qui fuerint in sacerdotio constituti, aliis predictis magistris presentibus et audientibus, ac alii etiam ydonei capellani, quos ab ipsis magistris ad hoc requiri contigerit specialiter et vocari, cum opus fuerit, magistris eisdem divina officia celebrare possint, absque juris prejudicio alieni, ob nostram et apostolice Sedis reverentiam, licentiam quam habere postulant et affectant, si expedire videris, liberaliter largiaris, ut ex nostra intercessione, quam sibi efficaciter sperant prodesse, salubre suum in hoc propositum fuisse gaudeant adimpletum, et nos devotionem tuam dignis proinde laudibus prosequi debeamus.<note ana="dispositif">Dispositif.</note></seg>
-          <seg corresp="date">Datum Viterbii, III° kalendas aprilis, pontificatus nostri anno quarto.<note ana="date">Date de lieu et de temps.</note></seg>
+          <seg ana="suscription">Clemens episcopus servus servorum Dei,<note type="speech">Suscription.</note></seg>
+          <seg ana="adresse">venerabili fratri . . episcopo Parisiensi,<note type="speech">Adresse.</note></seg>
+          <seg ana="salut">salutem et apostolicam benedictionem.<note type="speech">Salut.</note></seg>
+          <seg ana="expose">Supplicationi qua dilecti filii magistri pauperes qui, in artibus adepti magisterii dignitatem, in theologica facultate student et in vico ad Portas ante palatium de Termis Parisius sub communi vita degunt, attenta instantia nos pulsarunt, benignum accomodantes auditum,<note type="speech">Exposé.</note></seg>
+          <seg ana="dispositif">fraternitatem tuam rogamus, et hortamur attente, quatinus magistris ipsis habendi oratorium in domo ipsa, in quo illi ex ipsis qui fuerint in sacerdotio constituti, aliis predictis magistris presentibus et audientibus, ac alii etiam ydonei capellani, quos ab ipsis magistris ad hoc requiri contigerit specialiter et vocari, cum opus fuerit, magistris eisdem divina officia celebrare possint, absque juris prejudicio alieni, ob nostram et apostolice Sedis reverentiam, licentiam quam habere postulant et affectant, si expedire videris, liberaliter largiaris, ut ex nostra intercessione, quam sibi efficaciter sperant prodesse, salubre suum in hoc propositum fuisse gaudeant adimpletum, et nos devotionem tuam dignis proinde laudibus prosequi debeamus.<note type="speech">Dispositif.</note></seg>
+          <seg ana="date">Datum Viterbii, III° kalendas aprilis, pontificatus nostri anno quarto.<note type="speech">Date de lieu et de temps.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

@@ -188,26 +188,11 @@
           <head>Formes individuelles à remarquer</head>
           <p>Parmi les formes qui attestent la cursivité de l’écriture, on peut relever : <lb/>
             <list>
-              <item>
-                <label>
-                  <hi rend="b">a</hi>
-                </label> réduit à une panse, </item>
-              <item>
-                <label>
-                  <hi rend="b">r</hi>
-                </label> ouvert qui coexiste avec <hi rend="b">r</hi> rond après la lettre <hi rend="b">o</hi>, </item>
-              <item>
-                <label>
-                  <hi rend="b">m</hi>
-                </label> en position finale dont la forme se rapproche d’un 3, </item> 
-              <item>
-                <label>
-                  <hi rend="b">u</hi>
-                </label> bouclé, </item>
-              <item>
-                <label>
-                  <hi rend="b">t</hi>
-                </label> tracé en un seul trait comme à la l. 30b. </item>
+              <item><hi rend="b">a</hi> réduit à une panse, </item>
+              <item><hi rend="b">r</hi> ouvert qui coexiste avec <hi rend="b">r</hi> rond après la lettre <hi rend="b">o</hi>, </item>
+              <item><hi rend="b">m</hi> en position finale dont la forme se rapproche d’un 3, </item>
+              <item><hi rend="b">u</hi> bouclé, </item>
+              <item><hi rend="b">t</hi> tracé en un seul trait comme à la l. 30b. </item>
             </list>
           </p>
         </div>

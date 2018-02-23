@@ -131,29 +131,12 @@
         <div>
           <head>Formes individuelles à remarquer</head>
           <list>
-            <item>
-              <label>
-                <hi rend="b">a</hi>
-              </label> formé de deux traits. </item>
-            <item>
-              <label>
-                <hi rend="b">i</hi>
-              </label> pointé pour le distinguer d’autres jambages.
-            </item>
-            <item>
-              <label>
-                <hi rend="b">s</hi>
-              </label> long ou bien rond.</item>
-            <item>
-              <label>
-                <hi rend="b">r</hi>
-              </label> rond après <hi rend="b">o</hi> ou <hi rend="b">q</hi>.
-            </item>
-            <item>des lettres plongeant comme <hi rend="b">m</hi> sur le dernier jambage ou <hi rend="b">h</hi>.
-            </item>
-            <item>des lettres rares ici bien représentées comme <hi rend="b">y</hi> et
-              <hi rend="b">z</hi>.
-            </item>
+            <item><hi rend="b">a</hi> formé de deux traits. </item>
+            <item><hi rend="b">i</hi> pointé pour le distinguer d’autres jambages.</item>
+            <item><hi rend="b">s</hi> long ou bien rond.</item>
+            <item><hi rend="b">r</hi> rond après <hi rend="b">o</hi> ou <hi rend="b">q</hi>.</item>
+            <item>des lettres plongeant comme <hi rend="b">m</hi> sur le dernier jambage ou <hi rend="b">h</hi>.</item>
+            <item>des lettres rares ici bien représentées comme <hi rend="b">y</hi> et <hi rend="b">z</hi>.</item>
           </list>
         </div>
         <div>

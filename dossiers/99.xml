@@ -28,22 +28,6 @@
         <language ident="lat"/>
       </langUsage>
     </profileDesc>
-    <encodingDesc>
-      <tagsDecl xml:id="imtAnnotationCategories">
-        <rendition xml:id="Theleme">
-          <desc>transcriptional</desc>
-          <label>zone d’image pour facsimile interactif Theleme</label>
-          <code rend="rectangle" lang="text/css"/>
-        </rendition>
-      </tagsDecl>
-      <appInfo>
-        <application ident="ImageMarkupTool01" version="1.8.0.0" notAfter="2009-01-06T19:31:50">
-          <label> Image Markup Tool</label>
-          <desc> Tool for annotating images using TEI</desc>
-          <ref type="appURI" target="http://www.tapor.uvic.ca/~mholmes/image_markup/"> </ref>
-        </application>
-      </appInfo>
-    </encodingDesc>
   </teiHeader>
   <facsimile>
     <surface>

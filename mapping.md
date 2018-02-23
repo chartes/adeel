@@ -28,7 +28,7 @@
 *   <strike>26 strong</strike>
 *   24 listBibl
 *   <strike>21 sup</strike>
-*   17 label
+*   <strike>17 label</strike>
 *    <strike>9 xref</strike>
 *    <strike>8 span</strike>
 *    <strike>7 lg</strike>
@@ -239,7 +239,7 @@ div[@type="facsimile"]
 * 1 visa
 
 ## reprise
-* 50 date
+* 52 date
 * 39 suscription
 * 38 dispositif
 * 26 corroboration
@@ -310,8 +310,6 @@ div[@type="facsimile"]
 *  1 exposé
 *  1 description
 *  1 date_temps
-*  1 date_2
-*  1 date_1
 *  1 complements
 *  1 collation
 *  1 clause_soumission
