@@ -1,5 +1,3 @@
-//seg[not(ancestor::div[@type="facsimile"]) and not(ancestor::div[@type="text"]) and not(ancestor::div[@type="speech"]) and not(ancestor::figDesc)]
-
 # TODO (in `body`)
 * 5070 l
 * 4848 seg
@@ -66,13 +64,13 @@ div[@type="facsimile"]
   [@type="transcription"]
   [@type="translation"]
   [@type="regeste"]
-  ?
+  [@type="commentaire"] ?
 [@type="speech"]
 [@type="diplomatic"]
 [@type="history"]
 [@type="paleography"]
 ```
-
+TODO: revoir la normalisation div diplomatique / commentaire
 
 ## Commentaires
 
