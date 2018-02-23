@@ -101,90 +101,64 @@
     <body>
       <div type="facsimile" facs="#fax">
         <p>
-          <seg facs="#zone-1">Colosenses et hi sicut Laodicenses sunt Asia-</seg>
-          <seg facs="#zone-2">-ni et ipsi p<ex>re</ex>venti erant a pseudo a-</seg>
-          <seg facs="#zone-3">-postolis, nec ad hos accessit ipse Ap<ex>osto</ex>l<ex>u</ex>s, s<ex>ed</ex></seg>
-          <seg facs="#zone-4">et hos p<ex>er</ex> ep<ex>isto</ex>lam corrigit. Audier<ex>un</ex>t <ex>enim</ex></seg>
-          <seg facs="#zone-5">verbu<ex>m</ex> ab Archippo qui et ministe-</seg>
-          <seg facs="#zone-6">-riu<ex>m</ex> in eos accepit. <ex>Er</ex>go Ap<ex>osto</ex>l<ex>u</ex>s ja<ex>m</ex> ligat<ex>us</ex></seg>
-          <seg facs="#zone-7">scribit eis ab Epheso p<ex>er</ex> Tichicu<ex>m</ex> dia-</seg>
-          <seg facs="#zone-8">-conu<ex>m</ex>. Ad Colosenses.</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-1">q<ex>uia</ex> et istis Ap<ex>osto</ex>l<ex>u</ex>s</seg>
-          </add>
-          <add place="interlinear">
-            <seg facs="#interlineaire-2">auctoritas dicendor<ex>um</ex></seg>
-          </add>
-          <seg facs="#zone-9">Paulus Ap<ex>osto</ex>l<ex>u</ex>s J<ex>es</ex>u</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-3">q<ex>uod</ex> n<ex>on</ex> pseudo</seg>
-          </add>
-          <add place="interlinear">
-            <seg facs="#interlineaire-4">q<ex>ui</ex> <ex>est</ex> vir magne auct<ex>oritatis</ex></seg>
-          </add>
-          <seg facs="#zone-10"> <ex>Christ</ex>i p<ex>er</ex> voluntate<ex>m</ex> D<ex>e</ex>i <ex>et</ex> Timo-</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-5">majorib<ex>us</ex> <ex>et</ex> minorib<ex>us</ex></seg>
-          </add>
-          <seg facs="#zone-11">-theus fr<ex>ater</ex> his qui sunt Colosis</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-6">p<ex>er</ex> gr<ex>ati</ex>am <ex>Christ</ex>i n<ex>on</ex> vi legis</seg>
-          </add>
-          <seg facs="#zone-12">s<ex>an</ex>c<ex>t</ex>is et fidelib<ex>us</ex> fr<ex>atr</ex>ib<ex>us</ex> in <ex>Christ</ex>o J<ex>es</ex>u</seg>
-          <seg facs="#zone-13">gr<ex>ati</ex>a vob<ex>is</ex> et pax a D<ex>e</ex>o Patre n<ex>ost</ex>ro et D<ex>omi</ex>no J<ex>es</ex>u <ex>Christ</ex>o. Gr<ex>ati</ex>as</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-7">q<ex>uia</ex> D<ex>eu</ex>s et Pat<ex>er</ex> pot<ex>est</ex> et vult</seg>
-          </add>
-          <add place="interlinear">
-            <seg facs="#interlineaire-8">p<ex>er</ex> que<ex>m</ex> vob<ex>is</ex> o<ex>mn</ex>ia</seg>
-          </add>
-          <seg facs="#zone-14">agim<ex>us</ex> D<ex>e</ex>o Patri d<ex>omi</ex>ni n<ex>ost</ex>ri J<ex>es</ex>u <ex>Christ</ex>i</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-9"> <ex>etiam</ex></seg>
-          </add>
-          <add place="interlinear">
-            <seg facs="#interlineaire-10">ut crescatis</seg>
-          </add>
-          <add place="interlinear">
-            <seg facs="#interlineaire-11">ecce un<ex>de</ex> gr<ex>ati</ex>as agit</seg>
-          </add>
-          <seg facs="#zone-15">semp<ex>er</ex> p<ex>ro</ex> vobis orantes, audientes</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-12">e<ex>ss</ex>e</seg>
-          </add>
-          <seg facs="#zone-16">fide<ex>m</ex> v<ex>est</ex>ra<ex>m</ex> in <ex>Christ</ex>o J<ex>es</ex>u et dilectio-</seg>
-          <add place="interlinear">
-            <seg facs="#interlineaire-13">n<ex>on</ex> ociosam</seg>
-          </add>
-          <seg facs="#zone-17">ne<ex>m</ex> qua<ex>m</ex> habetis in s<ex>an</ex>c<ex>t</ex>os om<ex>ne</ex>s p<ex>ro</ex>p<ex>ter</ex>…</seg>
+          <seg facs="#zone-1" rend="279,228,555,305">Colosenses et hi sicut Laodicenses sunt Asia-</seg>
+          <seg facs="#zone-2" rend="290,308,553,336">-ni et ipsi p<ex>re</ex>venti erant a pseudo a-</seg>
+          <seg facs="#zone-3" rend="291,338,553,371">-postolis, nec ad hos accessit ipse Ap<ex>osto</ex>l<ex>u</ex>s, s<ex>ed</ex></seg>
+          <seg facs="#zone-4" rend="292,375,552,405">et hos p<ex>er</ex> ep<ex>isto</ex>lam corrigit. Audier<ex>un</ex>t <ex>enim</ex></seg>
+          <seg facs="#zone-5" rend="293,409,558,439">verbu<ex>m</ex> ab Archippo qui et ministe-</seg>
+          <seg facs="#zone-6" rend="294,439,555,471">-riu<ex>m</ex> in eos accepit. <ex>Er</ex>go Ap<ex>osto</ex>l<ex>u</ex>s ja<ex>m</ex> ligat<ex>us</ex></seg>
+          <seg facs="#zone-7" rend="295,471,558,505">scribit eis ab Epheso p<ex>er</ex> Tichicu<ex>m</ex> dia-</seg>
+          <seg facs="#zone-8" rend="297,506,467,525">-conu<ex>m</ex>. Ad Colosenses.</seg>
+          <add place="interlinear"><seg facs="#interlineaire-1" rend="341,523,405,540">q<ex>uia</ex> et istis Ap<ex>osto</ex>l<ex>u</ex>s</seg></add>
+          <add place="interlinear"><seg facs="#interlineaire-2" rend="411,521,513,538">auctoritas dicendor<ex>um</ex></seg></add>
+          <seg facs="#zone-9" rend="251,536,472,560">Paulus Ap<ex>osto</ex>l<ex>u</ex>s J<ex>es</ex>u</seg>
+          <add place="interlinear"><seg facs="#interlineaire-3" rend="386,558,457,575">q<ex>uod</ex> n<ex>on</ex> pseudo</seg></add>
+          <add place="interlinear"><seg facs="#interlineaire-4" rend="497,545,596,572">q<ex>ui</ex> <ex>est</ex> vir magne auct<ex>oritatis</ex></seg></add>
+          <seg facs="#zone-10" rend="340,569,565,592"> <ex>Christ</ex>i p<ex>er</ex> voluntate<ex>m</ex> D<ex>e</ex>i <ex>et</ex> Timo-</seg>
+          <add place="interlinear"><seg facs="#interlineaire-5" rend="501,590,597,606">majorib<ex>us</ex> <ex>et</ex> minorib<ex>us</ex></seg>
+          </add><seg facs="#zone-11" rend="340,601,556,620">-theus fr<ex>ater</ex> his qui sunt Colosis</seg>
+          <add place="interlinear"><seg facs="#interlineaire-6" rend="421,618,511,635">p<ex>er</ex> gr<ex>ati</ex>am <ex>Christ</ex>i n<ex>on</ex> vi legis</seg></add>
+          <seg facs="#zone-12" rend="324,633,557,663">s<ex>an</ex>c<ex>t</ex>is et fidelib<ex>us</ex> fr<ex>atr</ex>ib<ex>us</ex> in <ex>Christ</ex>o J<ex>es</ex>u</seg>
+          <seg facs="#zone-13" rend="307,662,662,688">gr<ex>ati</ex>a vob<ex>is</ex> et pax a D<ex>e</ex>o Patre n<ex>ost</ex>ro et D<ex>omi</ex>no J<ex>es</ex>u <ex>Christ</ex>o. Gr<ex>ati</ex>as</seg>
+          <add place="interlinear"><seg facs="#interlineaire-7" rend="350,685,459,702">q<ex>uia</ex> D<ex>eu</ex>s et Pat<ex>er</ex> pot<ex>est</ex> et vult</seg></add>
+          <add place="interlinear"><seg facs="#interlineaire-8" rend="478,681,550,701">p<ex>er</ex> que<ex>m</ex> vob<ex>is</ex> o<ex>mn</ex>ia</seg></add>
+          <seg facs="#zone-14" rend="307,698,550,720">agim<ex>us</ex> D<ex>e</ex>o Patri d<ex>omi</ex>ni n<ex>ost</ex>ri J<ex>es</ex>u <ex>Christ</ex>i</seg>
+          <add place="interlinear"><seg facs="#interlineaire-9" rend="306,716,342,736"> <ex>etiam</ex></seg></add>
+          <add place="interlinear"><seg facs="#interlineaire-10" rend="410,713,474,733">ut crescatis</seg></add>
+          <add place="interlinear"><seg facs="#interlineaire-11" rend="472,714,552,734">ecce un<ex>de</ex> gr<ex>ati</ex>as agit</seg></add>
+          <seg facs="#zone-15" rend="306,728,567,753">semp<ex>er</ex> p<ex>ro</ex> vobis orantes, audientes</seg>
+          <add place="interlinear"><seg facs="#interlineaire-12" rend="387,749,432,768">e<ex>ss</ex>e</seg></add>
+          <seg facs="#zone-16" rend="308,763,559,786">fide<ex>m</ex> v<ex>est</ex>ra<ex>m</ex> in <ex>Christ</ex>o J<ex>es</ex>u et dilectio-</seg>
+          <add place="interlinear"><seg facs="#interlineaire-13" rend="326,781,390,799">n<ex>on</ex> ociosam</seg></add>
+          <seg facs="#zone-17" rend="309,795,571,830">ne<ex>m</ex> qua<ex>m</ex> habetis in s<ex>an</ex>c<ex>t</ex>os om<ex>ne</ex>s p<ex>ro</ex>p<ex>ter</ex>…</seg>
         </p>
         <p n="I">
           <add place="margin-left">
-            <seg facs="#marge-1">Colosenses sunt Asiani quib<ex>us</ex> n<ex>on</ex> ipse Ap<ex>osto</ex>l<ex>u</ex>s p<ex>re</ex>dica-</seg>
-            <seg facs="#marge-2">-vit, s<ex>ed</ex> ej<ex>us</ex> discip<ex>u</ex>li Archipp<ex>us</ex> <ex>et</ex> Epafras. Archipp<ex>us</ex> v<ex>er</ex>o in eos</seg>
-            <seg facs="#marge-3">minist<ex>er</ex>iu<ex>m</ex> accep<ex>er</ex>at, Epafras au<ex>tem</ex>, ex eis oriund<ex>us</ex>, ab Ap<ex>osto</ex>lo</seg>
-            <seg facs="#marge-4">instruct<ex>us</ex>, doctrina<ex>m</ex> Archippi <ex>con</ex>firmaverat. Sup<ex>er</ex>veni-</seg>
-            <seg facs="#marge-5">-entib<ex>us</ex> au<ex>tem</ex> pseudo Ap<ex>osto</ex>lis <ex>et</ex> carn<ex>is</ex> observantias p<ex>re</ex>dican-</seg>
-            <seg facs="#marge-6">tib<ex>us</ex>, dubiu<ex>m</ex> erat q<ex>u</ex>ib<ex>us</ex> poti<ex>us</ex> credendu<ex>m</ex> e<ex>ss</ex>et. V<ex>e</ex>l Paulus</seg>
-            <seg facs="#marge-7">cuj<ex>us</ex> auctoritas celebris erat, q<ex>u</ex>asi medi<ex>us</ex> judicat q<ex>ue</ex></seg>
-            <seg facs="#marge-8">pars sit poti<ex>us</ex> tenenda. Describit au<ex>tem</ex> <ex>Christ</ex>um <ex>et</ex> ej<ex>us</ex> b<ex>e</ex>n<ex>e</ex>fi-</seg>
-            <seg facs="#marge-9">cia, q<ex>u</ex>om<ex>od</ex>o e<ex>st</ex> sufficiens ad o<ex>mn</ex>ia, carnalia v<ex>er</ex>o p<ex>ro</ex>rs<ex>us</ex> imp<ex>ro</ex>-</seg>
-            <seg facs="#marge-10">-bat, ut deinceps sincere fide<ex>m</ex> <ex>Christ</ex>i teneant. Instruit et mo-</seg>
-            <seg facs="#marge-11">-ralit<ex>er</ex>, confirmans q<ex>u</ex>icq<ex>u</ex>id illi docuerant.</seg>
+            <seg facs="#marge-1" rend="81,241,284,269">Colosenses sunt Asiani quib<ex>us</ex> n<ex>on</ex> ipse Ap<ex>osto</ex>l<ex>u</ex>s p<ex>re</ex>dica-</seg>
+            <seg facs="#marge-2" rend="81,264,290,280">-vit, s<ex>ed</ex> ej<ex>us</ex> discip<ex>u</ex>li Archipp<ex>us</ex> <ex>et</ex> Epafras. Archipp<ex>us</ex> v<ex>er</ex>o in eos</seg>
+            <seg facs="#marge-3" rend="79,277,287,293">minist<ex>er</ex>iu<ex>m</ex> accep<ex>er</ex>at, Epafras au<ex>tem</ex>, ex eis oriund<ex>us</ex>, ab Ap<ex>osto</ex>lo</seg>
+            <seg facs="#marge-4" rend="79,290,287,307">instruct<ex>us</ex>, doctrina<ex>m</ex> Archippi <ex>con</ex>firmaverat. Sup<ex>er</ex>veni-</seg>
+            <seg facs="#marge-5" rend="80,305,290,318">-entib<ex>us</ex> au<ex>tem</ex> pseudo Ap<ex>osto</ex>lis <ex>et</ex> carn<ex>is</ex> observantias p<ex>re</ex>dican-</seg>
+            <seg facs="#marge-6" rend="81,316,290,330">tib<ex>us</ex>, dubiu<ex>m</ex> erat q<ex>u</ex>ib<ex>us</ex> poti<ex>us</ex> credendu<ex>m</ex> e<ex>ss</ex>et. V<ex>e</ex>l Paulus</seg>
+            <seg facs="#marge-7" rend="81,327,289,342">cuj<ex>us</ex> auctoritas celebris erat, q<ex>u</ex>asi medi<ex>us</ex> judicat q<ex>ue</ex></seg>
+            <seg facs="#marge-8" rend="81,340,288,356">pars sit poti<ex>us</ex> tenenda. Describit au<ex>tem</ex> <ex>Christ</ex>um <ex>et</ex> ej<ex>us</ex> b<ex>e</ex>n<ex>e</ex>fi-</seg>
+            <seg facs="#marge-9" rend="81,354,288,366">cia, q<ex>u</ex>om<ex>od</ex>o e<ex>st</ex> sufficiens ad o<ex>mn</ex>ia, carnalia v<ex>er</ex>o p<ex>ro</ex>rs<ex>us</ex> imp<ex>ro</ex>-</seg>
+            <seg facs="#marge-10" rend="81,360,289,380">-bat, ut deinceps sincere fide<ex>m</ex> <ex>Christ</ex>i teneant. Instruit et mo-</seg>
+            <seg facs="#marge-11" rend="81,378,253,397">-ralit<ex>er</ex>, confirmans q<ex>u</ex>icq<ex>u</ex>id illi docuerant.</seg>
           </add>
         </p>
         <p n="II">
           <add place="margin-right">
-            <seg facs="#marge-12">Q<ex>uo</ex>d tenendu<ex>m</ex> e<ex>st</ex> q<ex>uia</ex> <ex>et</ex> ple-</seg>
-            <seg facs="#marge-13">–ne veru<ex>m</ex> et bonu<ex>m</ex> nun-</seg>
-            <seg facs="#marge-14">–ciu<ex>m</ex> ne <ex>er</ex>go alibi spe<ex>m</ex> illam</seg>
-            <seg facs="#marge-15">q<ex>ue</ex>ratis q<ex>u</ex>a<ex>m</ex> pri<ex>us</ex> intellexistis.</seg>
+            <seg facs="#marge-12" rend="567,616,661,634">Q<ex>uo</ex>d tenendu<ex>m</ex> e<ex>st</ex> q<ex>uia</ex> <ex>et</ex> ple-</seg>
+            <seg facs="#marge-13" rend="567,631,662,646">–ne veru<ex>m</ex> et bonu<ex>m</ex> nun-</seg>
+            <seg facs="#marge-14" rend="567,643,662,657">–ciu<ex>m</ex> ne <ex>er</ex>go alibi spe<ex>m</ex> illam</seg>
+            <seg facs="#marge-15" rend="568,655,662,669">q<ex>ue</ex>ratis q<ex>u</ex>a<ex>m</ex> pri<ex>us</ex> intellexistis.</seg>
           </add>
         </p>
         <p n="III">
           <add place="margin-left">
-            <seg facs="#marge-16">Ostend<ex>it</ex> bona q<ex>ue</ex> receper<ex>unt</ex>, dum</seg>
-            <seg facs="#marge-17">p<ex>ro</ex> eis gr<ex>ati</ex>as agit.</seg>
+            <seg facs="#marge-16" rend="91,674,215,696">Ostend<ex>it</ex> bona q<ex>ue</ex> receper<ex>unt</ex>, dum</seg>
+            <seg facs="#marge-17" rend="91,693,163,715">p<ex>ro</ex> eis gr<ex>ati</ex>as agit.</seg>
           </add>
         </p>
       </div>

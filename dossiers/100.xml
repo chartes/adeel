@@ -51,169 +51,169 @@
   <facsimile xml:id="imtAnnotatedImage">
     <surface>
       <graphic url="fax.jpg" width="693px" height="1100px" xml:id="fax"/>
-      <zone xml:id="imtArea_0" rendition="Theleme" ulx="213" uly="3" lrx="342" lry="67" rend="visible"/>
-      <zone xml:id="imtArea_1" rendition="Theleme" ulx="29" uly="31" lrx="214" lry="67" rend="visible"/>
-      <zone xml:id="imtArea_2" rendition="Theleme" ulx="81" uly="65" lrx="335" lry="91" rend="visible"/>
-      <zone xml:id="imtArea_3" rendition="Theleme" ulx="80" uly="89" lrx="342" lry="117" rend="visible"/>
-      <zone xml:id="imtArea_4" rendition="Theleme" ulx="38" uly="113" lrx="338" lry="142" rend="visible"/>
-      <zone xml:id="imtArea_5" rendition="Theleme" ulx="34" uly="139" lrx="332" lry="170" rend="visible"/>
-      <zone xml:id="imtArea_6" rendition="Theleme" ulx="33" uly="167" lrx="332" lry="192" rend="visible"/>
-      <zone xml:id="imtArea_7" rendition="Theleme" ulx="32" uly="188" lrx="334" lry="217" rend="visible"/>
-      <zone xml:id="imtArea_8" rendition="Theleme" ulx="31" uly="214" lrx="333" lry="248" rend="visible"/>
-      <zone xml:id="imtArea_9" rendition="Theleme" ulx="35" uly="246" lrx="345" lry="272" rend="visible"/>
-      <zone xml:id="imtArea_10" rendition="Theleme" ulx="36" uly="268" lrx="335" lry="296" rend="visible"/>
-      <zone xml:id="imtArea_11" rendition="Theleme" ulx="34" uly="295" lrx="330" lry="319" rend="visible"/>
-      <zone xml:id="imtArea_12" rendition="Theleme" ulx="34" uly="318" lrx="343" lry="347" rend="visible"/>
-      <zone xml:id="imtArea_13" rendition="Theleme" ulx="36" uly="345" lrx="343" lry="369" rend="visible"/>
-      <zone xml:id="imtArea_14" rendition="Theleme" ulx="36" uly="367" lrx="341" lry="396" rend="visible"/>
-      <zone xml:id="imtArea_15" rendition="Theleme" ulx="37" uly="395" lrx="344" lry="423" rend="visible"/>
-      <zone xml:id="imtArea_16" rendition="Theleme" ulx="38" uly="422" lrx="349" lry="450" rend="visible"/>
-      <zone xml:id="imtArea_17" rendition="Theleme" ulx="38" uly="447" lrx="349" lry="477" rend="visible"/>
-      <zone xml:id="imtArea_18" rendition="Theleme" ulx="37" uly="476" lrx="355" lry="503" rend="visible"/>
-      <zone xml:id="imtArea_19" rendition="Theleme" ulx="37" uly="494" lrx="361" lry="530" rend="visible"/>
-      <zone xml:id="imtArea_20" rendition="Theleme" ulx="36" uly="521" lrx="350" lry="553" rend="visible"/>
-      <zone xml:id="imtArea_21" rendition="Theleme" ulx="36" uly="550" lrx="340" lry="579" rend="visible"/>
-      <zone xml:id="imtArea_22" rendition="Theleme" ulx="36" uly="577" lrx="353" lry="607" rend="visible"/>
-      <zone xml:id="imtArea_23" rendition="Theleme" ulx="38" uly="604" lrx="349" lry="629" rend="visible"/>
-      <zone xml:id="imtArea_24" rendition="Theleme" ulx="37" uly="623" lrx="343" lry="658" rend="visible"/>
-      <zone xml:id="imtArea_25" rendition="Theleme" ulx="37" uly="655" lrx="333" lry="685" rend="visible"/>
-      <zone xml:id="imtArea_26" rendition="Theleme" ulx="37" uly="682" lrx="359" lry="709" rend="visible"/>
-      <zone xml:id="imtArea_27" rendition="Theleme" ulx="35" uly="703" lrx="360" lry="733" rend="visible"/>
-      <zone xml:id="imtArea_28" rendition="Theleme" ulx="33" uly="729" lrx="353" lry="761" rend="visible"/>
-      <zone xml:id="imtArea_29" rendition="Theleme" ulx="42" uly="759" lrx="343" lry="784" rend="visible"/>
-      <zone xml:id="imtArea_30" rendition="Theleme" ulx="41" uly="781" lrx="356" lry="808" rend="visible"/>
-      <zone xml:id="imtArea_31" rendition="Theleme" ulx="42" uly="805" lrx="352" lry="831" rend="visible"/>
-      <zone xml:id="imtArea_32" rendition="Theleme" ulx="40" uly="829" lrx="359" lry="859" rend="visible"/>
-      <zone xml:id="imtArea_33" rendition="Theleme" ulx="41" uly="851" lrx="356" lry="880" rend="visible"/>
-      <zone xml:id="imtArea_34" rendition="Theleme" ulx="40" uly="879" lrx="345" lry="903" rend="visible"/>
-      <zone xml:id="imtArea_35" rendition="Theleme" ulx="43" uly="902" lrx="347" lry="932" rend="visible"/>
-      <zone xml:id="imtArea_36" rendition="Theleme" ulx="44" uly="930" lrx="341" lry="960" rend="visible"/>
-      <zone xml:id="imtArea_37" rendition="Theleme" ulx="44" uly="951" lrx="354" lry="983" rend="visible"/>
-      <zone xml:id="imtArea_38" rendition="Theleme" ulx="46" uly="980" lrx="354" lry="1007" rend="visible"/>
-      <zone xml:id="imtArea_39" rendition="Theleme" ulx="44" uly="1005" lrx="351" lry="1036" rend="visible"/>
-      <zone xml:id="imtArea_40" rendition="Theleme" ulx="44" uly="1025" lrx="352" lry="1063" rend="visible"/>
-      <zone xml:id="imtArea_41" rendition="Theleme" ulx="40" uly="1054" lrx="359" lry="1090" rend="visible"/>
-      <zone xml:id="imtArea_42" rendition="Theleme" ulx="385" uly="7" lrx="680" lry="79" rend="visible"/>
-      <zone xml:id="imtArea_43" rendition="Theleme" ulx="382" uly="78" lrx="681" lry="104" rend="visible"/>
-      <zone xml:id="imtArea_44" rendition="Theleme" ulx="497" uly="101" lrx="675" lry="128" rend="visible"/>
-      <zone xml:id="imtArea_45" rendition="Theleme" ulx="497" uly="125" lrx="673" lry="152" rend="visible"/>
-      <zone xml:id="imtArea_46" rendition="Theleme" ulx="498" uly="150" lrx="675" lry="174" rend="visible"/>
-      <zone xml:id="imtArea_47" rendition="Theleme" ulx="487" uly="171" lrx="668" lry="201" rend="visible"/>
-      <zone xml:id="imtArea_48" rendition="Theleme" ulx="386" uly="197" lrx="670" lry="221" rend="visible"/>
-      <zone xml:id="imtArea_49" rendition="Theleme" ulx="388" uly="217" lrx="672" lry="247" rend="visible"/>
-      <zone xml:id="imtArea_50" rendition="Theleme" ulx="389" uly="246" lrx="666" lry="272" rend="visible"/>
-      <zone xml:id="imtArea_51" rendition="Theleme" ulx="390" uly="271" lrx="669" lry="298" rend="visible"/>
-      <zone xml:id="imtArea_52" rendition="Theleme" ulx="389" uly="297" lrx="667" lry="323" rend="visible"/>
-      <zone xml:id="imtArea_53" rendition="Theleme" ulx="391" uly="319" lrx="675" lry="346" rend="visible"/>
-      <zone xml:id="imtArea_54" rendition="Theleme" ulx="391" uly="342" lrx="673" lry="370" rend="visible"/>
-      <zone xml:id="imtArea_55" rendition="Theleme" ulx="390" uly="367" lrx="672" lry="397" rend="visible"/>
-      <zone xml:id="imtArea_56" rendition="Theleme" ulx="394" uly="396" lrx="671" lry="420" rend="visible"/>
-      <zone xml:id="imtArea_57" rendition="Theleme" ulx="395" uly="419" lrx="664" lry="444" rend="visible"/>
-      <zone xml:id="imtArea_58" rendition="Theleme" ulx="363" uly="446" lrx="669" lry="475" rend="visible"/>
-      <zone xml:id="imtArea_59" rendition="Theleme" ulx="450" uly="475" lrx="677" lry="499" rend="visible"/>
-      <zone xml:id="imtArea_60" rendition="Theleme" ulx="446" uly="499" lrx="677" lry="525" rend="visible"/>
-      <zone xml:id="imtArea_61" rendition="Theleme" ulx="400" uly="525" lrx="676" lry="548" rend="visible"/>
-      <zone xml:id="imtArea_62" rendition="Theleme" ulx="401" uly="548" lrx="675" lry="575" rend="visible"/>
-      <zone xml:id="imtArea_63" rendition="Theleme" ulx="397" uly="575" lrx="686" lry="600" rend="visible"/>
-      <zone xml:id="imtArea_64" rendition="Theleme" ulx="398" uly="598" lrx="684" lry="627" rend="visible"/>
-      <zone xml:id="imtArea_65" rendition="Theleme" ulx="402" uly="625" lrx="683" lry="654" rend="visible"/>
-      <zone xml:id="imtArea_66" rendition="Theleme" ulx="402" uly="653" lrx="688" lry="680" rend="visible"/>
-      <zone xml:id="imtArea_67" rendition="Theleme" ulx="403" uly="679" lrx="680" lry="704" rend="visible"/>
-      <zone xml:id="imtArea_68" rendition="Theleme" ulx="397" uly="701" lrx="685" lry="728" rend="visible"/>
-      <zone xml:id="imtArea_69" rendition="Theleme" ulx="450" uly="727" lrx="680" lry="755" rend="visible"/>
-      <zone xml:id="imtArea_70" rendition="Theleme" ulx="448" uly="754" lrx="688" lry="778" rend="visible"/>
-      <zone xml:id="imtArea_71" rendition="Theleme" ulx="400" uly="775" lrx="687" lry="806" rend="visible"/>
-      <zone xml:id="imtArea_72" rendition="Theleme" ulx="401" uly="805" lrx="684" lry="853" rend="visible"/>
-      <zone xml:id="imtArea_74" rendition="Theleme" ulx="401" uly="851" lrx="689" lry="901" rend="visible"/>
-      <zone xml:id="imtArea_76" rendition="Theleme" ulx="402" uly="901" lrx="687" lry="953" rend="visible"/>
-      <zone xml:id="imtArea_78" rendition="Theleme" ulx="406" uly="952" lrx="678" lry="1001" rend="visible"/>
-      <zone xml:id="imtArea_80" rendition="Theleme" ulx="407" uly="998" lrx="691" lry="1055" rend="visible"/>
+      <zone xml:id="imtArea_0" ulx="213" uly="3" lrx="342" lry="67" rend="visible"/>
+      <zone xml:id="imtArea_1" ulx="29" uly="31" lrx="214" lry="67" rend="visible"/>
+      <zone xml:id="imtArea_2" ulx="81" uly="65" lrx="335" lry="91" rend="visible"/>
+      <zone xml:id="imtArea_3" ulx="80" uly="89" lrx="342" lry="117" rend="visible"/>
+      <zone xml:id="imtArea_4" ulx="38" uly="113" lrx="338" lry="142" rend="visible"/>
+      <zone xml:id="imtArea_5" ulx="34" uly="139" lrx="332" lry="170" rend="visible"/>
+      <zone xml:id="imtArea_6" ulx="33" uly="167" lrx="332" lry="192" rend="visible"/>
+      <zone xml:id="imtArea_7" ulx="32" uly="188" lrx="334" lry="217" rend="visible"/>
+      <zone xml:id="imtArea_8" ulx="31" uly="214" lrx="333" lry="248" rend="visible"/>
+      <zone xml:id="imtArea_9" ulx="35" uly="246" lrx="345" lry="272" rend="visible"/>
+      <zone xml:id="imtArea_10" ulx="36" uly="268" lrx="335" lry="296" rend="visible"/>
+      <zone xml:id="imtArea_11" ulx="34" uly="295" lrx="330" lry="319" rend="visible"/>
+      <zone xml:id="imtArea_12" ulx="34" uly="318" lrx="343" lry="347" rend="visible"/>
+      <zone xml:id="imtArea_13" ulx="36" uly="345" lrx="343" lry="369" rend="visible"/>
+      <zone xml:id="imtArea_14" ulx="36" uly="367" lrx="341" lry="396" rend="visible"/>
+      <zone xml:id="imtArea_15" ulx="37" uly="395" lrx="344" lry="423" rend="visible"/>
+      <zone xml:id="imtArea_16" ulx="38" uly="422" lrx="349" lry="450" rend="visible"/>
+      <zone xml:id="imtArea_17" ulx="38" uly="447" lrx="349" lry="477" rend="visible"/>
+      <zone xml:id="imtArea_18" ulx="37" uly="476" lrx="355" lry="503" rend="visible"/>
+      <zone xml:id="imtArea_19" ulx="37" uly="494" lrx="361" lry="530" rend="visible"/>
+      <zone xml:id="imtArea_20" ulx="36" uly="521" lrx="350" lry="553" rend="visible"/>
+      <zone xml:id="imtArea_21" ulx="36" uly="550" lrx="340" lry="579" rend="visible"/>
+      <zone xml:id="imtArea_22" ulx="36" uly="577" lrx="353" lry="607" rend="visible"/>
+      <zone xml:id="imtArea_23" ulx="38" uly="604" lrx="349" lry="629" rend="visible"/>
+      <zone xml:id="imtArea_24" ulx="37" uly="623" lrx="343" lry="658" rend="visible"/>
+      <zone xml:id="imtArea_25" ulx="37" uly="655" lrx="333" lry="685" rend="visible"/>
+      <zone xml:id="imtArea_26" ulx="37" uly="682" lrx="359" lry="709" rend="visible"/>
+      <zone xml:id="imtArea_27" ulx="35" uly="703" lrx="360" lry="733" rend="visible"/>
+      <zone xml:id="imtArea_28" ulx="33" uly="729" lrx="353" lry="761" rend="visible"/>
+      <zone xml:id="imtArea_29" ulx="42" uly="759" lrx="343" lry="784" rend="visible"/>
+      <zone xml:id="imtArea_30" ulx="41" uly="781" lrx="356" lry="808" rend="visible"/>
+      <zone xml:id="imtArea_31" ulx="42" uly="805" lrx="352" lry="831" rend="visible"/>
+      <zone xml:id="imtArea_32" ulx="40" uly="829" lrx="359" lry="859" rend="visible"/>
+      <zone xml:id="imtArea_33" ulx="41" uly="851" lrx="356" lry="880" rend="visible"/>
+      <zone xml:id="imtArea_34" ulx="40" uly="879" lrx="345" lry="903" rend="visible"/>
+      <zone xml:id="imtArea_35" ulx="43" uly="902" lrx="347" lry="932" rend="visible"/>
+      <zone xml:id="imtArea_36" ulx="44" uly="930" lrx="341" lry="960" rend="visible"/>
+      <zone xml:id="imtArea_37" ulx="44" uly="951" lrx="354" lry="983" rend="visible"/>
+      <zone xml:id="imtArea_38" ulx="46" uly="980" lrx="354" lry="1007" rend="visible"/>
+      <zone xml:id="imtArea_39" ulx="44" uly="1005" lrx="351" lry="1036" rend="visible"/>
+      <zone xml:id="imtArea_40" ulx="44" uly="1025" lrx="352" lry="1063" rend="visible"/>
+      <zone xml:id="imtArea_41" ulx="40" uly="1054" lrx="359" lry="1090" rend="visible"/>
+      <zone xml:id="imtArea_42" ulx="385" uly="7" lrx="680" lry="79" rend="visible"/>
+      <zone xml:id="imtArea_43" ulx="382" uly="78" lrx="681" lry="104" rend="visible"/>
+      <zone xml:id="imtArea_44" ulx="497" uly="101" lrx="675" lry="128" rend="visible"/>
+      <zone xml:id="imtArea_45" ulx="497" uly="125" lrx="673" lry="152" rend="visible"/>
+      <zone xml:id="imtArea_46" ulx="498" uly="150" lrx="675" lry="174" rend="visible"/>
+      <zone xml:id="imtArea_47" ulx="487" uly="171" lrx="668" lry="201" rend="visible"/>
+      <zone xml:id="imtArea_48" ulx="386" uly="197" lrx="670" lry="221" rend="visible"/>
+      <zone xml:id="imtArea_49" ulx="388" uly="217" lrx="672" lry="247" rend="visible"/>
+      <zone xml:id="imtArea_50" ulx="389" uly="246" lrx="666" lry="272" rend="visible"/>
+      <zone xml:id="imtArea_51" ulx="390" uly="271" lrx="669" lry="298" rend="visible"/>
+      <zone xml:id="imtArea_52" ulx="389" uly="297" lrx="667" lry="323" rend="visible"/>
+      <zone xml:id="imtArea_53" ulx="391" uly="319" lrx="675" lry="346" rend="visible"/>
+      <zone xml:id="imtArea_54" ulx="391" uly="342" lrx="673" lry="370" rend="visible"/>
+      <zone xml:id="imtArea_55" ulx="390" uly="367" lrx="672" lry="397" rend="visible"/>
+      <zone xml:id="imtArea_56" ulx="394" uly="396" lrx="671" lry="420" rend="visible"/>
+      <zone xml:id="imtArea_57" ulx="395" uly="419" lrx="664" lry="444" rend="visible"/>
+      <zone xml:id="imtArea_58" ulx="363" uly="446" lrx="669" lry="475" rend="visible"/>
+      <zone xml:id="imtArea_59" ulx="450" uly="475" lrx="677" lry="499" rend="visible"/>
+      <zone xml:id="imtArea_60" ulx="446" uly="499" lrx="677" lry="525" rend="visible"/>
+      <zone xml:id="imtArea_61" ulx="400" uly="525" lrx="676" lry="548" rend="visible"/>
+      <zone xml:id="imtArea_62" ulx="401" uly="548" lrx="675" lry="575" rend="visible"/>
+      <zone xml:id="imtArea_63" ulx="397" uly="575" lrx="686" lry="600" rend="visible"/>
+      <zone xml:id="imtArea_64" ulx="398" uly="598" lrx="684" lry="627" rend="visible"/>
+      <zone xml:id="imtArea_65" ulx="402" uly="625" lrx="683" lry="654" rend="visible"/>
+      <zone xml:id="imtArea_66" ulx="402" uly="653" lrx="688" lry="680" rend="visible"/>
+      <zone xml:id="imtArea_67" ulx="403" uly="679" lrx="680" lry="704" rend="visible"/>
+      <zone xml:id="imtArea_68" ulx="397" uly="701" lrx="685" lry="728" rend="visible"/>
+      <zone xml:id="imtArea_69" ulx="450" uly="727" lrx="680" lry="755" rend="visible"/>
+      <zone xml:id="imtArea_70" ulx="448" uly="754" lrx="688" lry="778" rend="visible"/>
+      <zone xml:id="imtArea_71" ulx="400" uly="775" lrx="687" lry="806" rend="visible"/>
+      <zone xml:id="imtArea_72" ulx="401" uly="805" lrx="684" lry="853" rend="visible"/>
+      <zone xml:id="imtArea_74" ulx="401" uly="851" lrx="689" lry="901" rend="visible"/>
+      <zone xml:id="imtArea_76" ulx="402" uly="901" lrx="687" lry="953" rend="visible"/>
+      <zone xml:id="imtArea_78" ulx="406" uly="952" lrx="678" lry="1001" rend="visible"/>
+      <zone xml:id="imtArea_80" ulx="407" uly="998" lrx="691" lry="1055" rend="visible"/>
     </surface>
   </facsimile>
   <text>
     <body>
       <div type="facsimile" facs="#fax">
         <p>
-          <seg facs="#imtArea_0" type="imtAnnotation">De tribus generibus lectorum.</seg>
-          <seg facs="#imtArea_1" type="imtAnnotation">Satis ut puto aperte</seg>
-          <seg facs="#imtArea_2" type="imtAnnotation">demonstratum e<ex>st</ex>provectis et aliquid</seg>
-          <seg facs="#imtArea_3" type="imtAnnotation">amplius de se p<ex>ro</ex>mittentib<ex>us</ex>n<ex>on</ex>idem e<ex>ss</ex>e</seg>
-          <seg facs="#imtArea_4" type="imtAnnotation">propositum cum incipientib<ex>us</ex>. Sed sicut illis</seg>
-          <seg facs="#imtArea_5" type="imtAnnotation">aliquid licite concedit<ex>ur</ex>, quod isti sine culpa</seg>
-          <seg facs="#imtArea_6" type="imtAnnotation">minime agere possunt, ita eciam ab istis</seg>
-          <seg facs="#imtArea_7" type="imtAnnotation">aliquid requiri quo illi nondum obligati s<ex>un</ex>t.</seg>
-          <seg facs="#imtArea_8" type="imtAnnotation">Nunc ig<ex>itur</ex>ad p<ex>ro</ex>missa solvenda redeo ut videl<ex>icet</ex></seg>
-          <seg facs="#imtArea_9" type="imtAnnotation">ostendam qualiter eis divina scriptura legen-</seg>
-          <seg facs="#imtArea_10" type="imtAnnotation">-da sit, qui adhuc in ea solam quer<ex>un</ex>t scientiam.</seg>
-          <seg facs="#imtArea_11" type="imtAnnotation">Sunt nonnulli qui divine scripture sci<ex>enti</ex>am</seg>
-          <seg facs="#imtArea_12" type="imtAnnotation">appetunt, ut vel divitias congregent, vel ho-</seg>
-          <seg facs="#imtArea_13" type="imtAnnotation">-nores obtineant, vel famam adquirant, quor<ex>um</ex></seg>
-          <seg facs="#imtArea_14" type="imtAnnotation">intentio quantum p<ex>er</ex>versa, tantum est mise-</seg>
-          <seg facs="#imtArea_15" type="imtAnnotation">-randa. Sunt rursus alii quos audire verba D<ex>e</ex>i</seg>
-          <seg facs="#imtArea_16" type="imtAnnotation">et opera ej<ex>us</ex>discere delectat, non q<ex>uia</ex>salutifera, <del>sed</del></seg>
-          <seg facs="#imtArea_17" type="imtAnnotation"><del>q<ex>uia</ex>salutifera</del>sed quia mirabilia sunt. Scruta-</seg>
-          <seg facs="#imtArea_18" type="imtAnnotation">-ri archana et inaudita cognoscere volunt, mul-</seg>
-          <seg facs="#imtArea_19" type="imtAnnotation">-ta scire et nil facere. In vanum mirant<ex>ur</ex>potenti-</seg>
-          <seg facs="#imtArea_20" type="imtAnnotation">-am, qui n<ex>on</ex>amant mis<ex>eri</ex>c<ex>or</ex>diam. Hos <ex>er</ex>go quid aliud</seg>
-          <seg facs="#imtArea_21" type="imtAnnotation">agere dicam quam preconia divina in fabu-</seg>
-          <seg facs="#imtArea_22" type="imtAnnotation">-las commutare ? Sic theatralib<ex>us</ex>ludis, sic sce-</seg>
-          <seg facs="#imtArea_23" type="imtAnnotation">-nicis carminib<ex>us</ex>intedere solemus, ut scilicet</seg>
-          <seg facs="#imtArea_24" type="imtAnnotation">auditum pascam<ex>us</ex>, non animum. Huj<ex>us</ex>modi</seg>
-          <seg facs="#imtArea_25" type="imtAnnotation">tamen non tam confundi quam adjuvari</seg>
-          <seg facs="#imtArea_26" type="imtAnnotation">oportet censeo, quor<ex>um</ex>voluntas non utiq<ex>ue</ex>ma-</seg>
-          <seg facs="#imtArea_27" type="imtAnnotation">-ligna e<ex>st</ex>, sed improvida. Alii vero idcirco sacra<ex>m</ex></seg>
-          <seg facs="#imtArea_28" type="imtAnnotation">scripturam legunt ut s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Ap<ex>osto</ex>li preceptum</seg>
-          <seg facs="#imtArea_29" type="imtAnnotation">parati sint omni poscenti reddere r<ex>ati</ex>onem de</seg>
-          <seg facs="#imtArea_30" type="imtAnnotation">ea fide in qua positi sunt, ut videlicet inimi-</seg>
-          <seg facs="#imtArea_31" type="imtAnnotation">-cos veritatis fortiter destruant, min<ex>us</ex>eruditos</seg>
-          <seg facs="#imtArea_32" type="imtAnnotation">doceant, ipsi p<ex>er</ex>fecti<ex>us</ex>viam veritatis agnoscant</seg>
-          <seg facs="#imtArea_33" type="imtAnnotation">et altius Dei secreta intelligentes arti<ex>us</ex>ament,</seg>
-          <seg facs="#imtArea_34" type="imtAnnotation">quor<ex>um</ex>nimirum devotio laudanda e<ex>st</ex>et imi-</seg>
-          <seg facs="#imtArea_35" type="imtAnnotation">-tatione digna. Tria ig<ex>itur</ex>sunt gen<ex>er</ex>a hominum</seg>
-          <seg facs="#imtArea_36" type="imtAnnotation">sacram sc<ex>r</ex>ipturam legentium, quor<ex>um</ex>primi</seg>
-          <seg facs="#imtArea_37" type="imtAnnotation">quidem miserandi sunt, s<ex>e</ex>c<ex>un</ex>di juvandi, tercii</seg>
-          <seg facs="#imtArea_38" type="imtAnnotation">laudandi. Nos v<ex>er</ex>o q<ex>uia</ex>om<ex>n</ex>ib<ex>us</ex>consulere intendi-</seg>
-          <seg facs="#imtArea_39" type="imtAnnotation">-mus, q<ex>u</ex>od bonum e<ex>st</ex>in om<ex>n</ex>ib<ex>us</ex>augeri cupimus</seg>
-          <seg facs="#imtArea_40" type="imtAnnotation">et q<ex>u</ex>od p<ex>er</ex>versum commutari. Omnes intellige<ex>re</ex></seg>
-          <seg facs="#imtArea_41" type="imtAnnotation">volumus q<ex>u</ex>od dicim<ex>us</ex>om<ex>n</ex>es face<ex>re</ex>q<ex>u</ex>od hortamur.</seg>
+          <seg facs="#imtArea_0" rend="213,3,342,67">De tribus generibus lectorum.</seg>
+          <seg facs="#imtArea_1" rend="29,31,214,67">Satis ut puto aperte</seg>
+          <seg facs="#imtArea_2" rend="81,65,335,91">demonstratum e<ex>st</ex>provectis et aliquid</seg>
+          <seg facs="#imtArea_3" rend="80,89,342,117">amplius de se p<ex>ro</ex>mittentib<ex>us</ex>n<ex>on</ex>idem e<ex>ss</ex>e</seg>
+          <seg facs="#imtArea_4" rend="38,113,338,142">propositum cum incipientib<ex>us</ex>. Sed sicut illis</seg>
+          <seg facs="#imtArea_5" rend="34,139,332,170">aliquid licite concedit<ex>ur</ex>, quod isti sine culpa</seg>
+          <seg facs="#imtArea_6" rend="33,167,332,192">minime agere possunt, ita eciam ab istis</seg>
+          <seg facs="#imtArea_7" rend="32,188,334,217">aliquid requiri quo illi nondum obligati s<ex>un</ex>t.</seg>
+          <seg facs="#imtArea_8" rend="31,214,333,248">Nunc ig<ex>itur</ex>ad p<ex>ro</ex>missa solvenda redeo ut videl<ex>icet</ex></seg>
+          <seg facs="#imtArea_9" rend="35,246,345,272">ostendam qualiter eis divina scriptura legen-</seg>
+          <seg facs="#imtArea_10" rend="36,268,335,296">-da sit, qui adhuc in ea solam quer<ex>un</ex>t scientiam.</seg>
+          <seg facs="#imtArea_11" rend="34,295,330,319">Sunt nonnulli qui divine scripture sci<ex>enti</ex>am</seg>
+          <seg facs="#imtArea_12" rend="34,318,343,347">appetunt, ut vel divitias congregent, vel ho-</seg>
+          <seg facs="#imtArea_13" rend="36,345,343,369">-nores obtineant, vel famam adquirant, quor<ex>um</ex></seg>
+          <seg facs="#imtArea_14" rend="36,367,341,396">intentio quantum p<ex>er</ex>versa, tantum est mise-</seg>
+          <seg facs="#imtArea_15" rend="37,395,344,423">-randa. Sunt rursus alii quos audire verba D<ex>e</ex>i</seg>
+          <seg facs="#imtArea_16" rend="38,422,349,450">et opera ej<ex>us</ex>discere delectat, non q<ex>uia</ex>salutifera, <del>sed</del></seg>
+          <seg facs="#imtArea_17" rend="38,447,349,477"><del>q<ex>uia</ex>salutifera</del>sed quia mirabilia sunt. Scruta-</seg>
+          <seg facs="#imtArea_18" rend="37,476,355,503">-ri archana et inaudita cognoscere volunt, mul-</seg>
+          <seg facs="#imtArea_19" rend="37,494,361,530">-ta scire et nil facere. In vanum mirant<ex>ur</ex>potenti-</seg>
+          <seg facs="#imtArea_20" rend="36,521,350,553">-am, qui n<ex>on</ex>amant mis<ex>eri</ex>c<ex>or</ex>diam. Hos <ex>er</ex>go quid aliud</seg>
+          <seg facs="#imtArea_21" rend="36,550,340,579">agere dicam quam preconia divina in fabu-</seg>
+          <seg facs="#imtArea_22" rend="36,577,353,607">-las commutare ? Sic theatralib<ex>us</ex>ludis, sic sce-</seg>
+          <seg facs="#imtArea_23" rend="38,604,349,629">-nicis carminib<ex>us</ex>intedere solemus, ut scilicet</seg>
+          <seg facs="#imtArea_24" rend="37,623,343,658">auditum pascam<ex>us</ex>, non animum. Huj<ex>us</ex>modi</seg>
+          <seg facs="#imtArea_25" rend="37,655,333,685">tamen non tam confundi quam adjuvari</seg>
+          <seg facs="#imtArea_26" rend="37,682,359,709">oportet censeo, quor<ex>um</ex>voluntas non utiq<ex>ue</ex>ma-</seg>
+          <seg facs="#imtArea_27" rend="35,703,360,733">-ligna e<ex>st</ex>, sed improvida. Alii vero idcirco sacra<ex>m</ex></seg>
+          <seg facs="#imtArea_28" rend="33,729,353,761">scripturam legunt ut s<ex>e</ex>c<ex>un</ex>d<ex>u</ex>m Ap<ex>osto</ex>li preceptum</seg>
+          <seg facs="#imtArea_29" rend="42,759,343,784">parati sint omni poscenti reddere r<ex>ati</ex>onem de</seg>
+          <seg facs="#imtArea_30" rend="41,781,356,808">ea fide in qua positi sunt, ut videlicet inimi-</seg>
+          <seg facs="#imtArea_31" rend="42,805,352,831">-cos veritatis fortiter destruant, min<ex>us</ex>eruditos</seg>
+          <seg facs="#imtArea_32" rend="40,829,359,859">doceant, ipsi p<ex>er</ex>fecti<ex>us</ex>viam veritatis agnoscant</seg>
+          <seg facs="#imtArea_33" rend="41,851,356,880">et altius Dei secreta intelligentes arti<ex>us</ex>ament,</seg>
+          <seg facs="#imtArea_34" rend="40,879,345,903">quor<ex>um</ex>nimirum devotio laudanda e<ex>st</ex>et imi-</seg>
+          <seg facs="#imtArea_35" rend="43,902,347,932">-tatione digna. Tria ig<ex>itur</ex>sunt gen<ex>er</ex>a hominum</seg>
+          <seg facs="#imtArea_36" rend="44,930,341,960">sacram sc<ex>r</ex>ipturam legentium, quor<ex>um</ex>primi</seg>
+          <seg facs="#imtArea_37" rend="44,951,354,983">quidem miserandi sunt, s<ex>e</ex>c<ex>un</ex>di juvandi, tercii</seg>
+          <seg facs="#imtArea_38" rend="46,980,354,1007">laudandi. Nos v<ex>er</ex>o q<ex>uia</ex>om<ex>n</ex>ib<ex>us</ex>consulere intendi-</seg>
+          <seg facs="#imtArea_39" rend="44,1005,351,1036">-mus, q<ex>u</ex>od bonum e<ex>st</ex>in om<ex>n</ex>ib<ex>us</ex>augeri cupimus</seg>
+          <seg facs="#imtArea_40" rend="44,1025,352,1063">et q<ex>u</ex>od p<ex>er</ex>versum commutari. Omnes intellige<ex>re</ex></seg>
+          <seg facs="#imtArea_41" rend="40,1054,359,1090">volumus q<ex>u</ex>od dicim<ex>us</ex>om<ex>n</ex>es face<ex>re</ex>q<ex>u</ex>od hortamur.</seg>
         </p>
         <cb n="93vb"/>
         <p>
-          <seg facs="#imtArea_42" type="imtAnnotation">Liber sextus. Quomodo legenda sit scriptura sacra querentibus scientiam in ea.</seg>
-          <seg facs="#imtArea_43" type="imtAnnotation">Duo tibi lector, ordine(m)</seg>
-          <seg facs="#imtArea_44" type="imtAnnotation">scilicet et modum, propono, q(ue)</seg>
-          <seg facs="#imtArea_45" type="imtAnnotation">si diligenter inspex(er)is, facile</seg>
-          <seg facs="#imtArea_46" type="imtAnnotation">ti(bi) iter legendi patebit. In hor(um)</seg>
-          <seg facs="#imtArea_47" type="imtAnnotation">v(er)o consideratione, nec om(n)ia</seg>
-          <seg facs="#imtArea_48" type="imtAnnotation">tuo ingenio relinquam, neq(ue) p(er) meam diligen-</seg>
-          <seg facs="#imtArea_49" type="imtAnnotation">-tiam satis ti(bi) fieri promitto, sed sic quedam bre-</seg>
-          <seg facs="#imtArea_50" type="imtAnnotation">-viter prelibando transcurram ut et posita</seg>
-          <seg facs="#imtArea_51" type="imtAnnotation">aliqua quib(us) erudiaris et aliqua pret(er)missa</seg>
-          <seg facs="#imtArea_52" type="imtAnnotation">quib(us) exercearis invenias. Ordine(m) legendi</seg>
-          <seg facs="#imtArea_53" type="imtAnnotation">supra quadrifarium e(ss)e co(m)memoravi, alium</seg>
-          <seg facs="#imtArea_54" type="imtAnnotation">in disciplinis , alium in libris, alium in nar-</seg>
-          <seg facs="#imtArea_55" type="imtAnnotation">-ratione atque alium in expositione. Que q(u)aliter</seg>
-          <seg facs="#imtArea_56" type="imtAnnotation">in divina sc(r)iptura assignanda sint nondum os-</seg>
-          <seg facs="#imtArea_57" type="imtAnnotation">tendi. De ordine qui est in disciplinis.</seg>
-          <seg facs="#imtArea_58" type="imtAnnotation">Primum (er)go hunc ordinem qui querit(ur)</seg>
-          <seg facs="#imtArea_59" type="imtAnnotation">in disciplinis inter hystoriam, allego-</seg>
-          <seg facs="#imtArea_60" type="imtAnnotation">-riam, tropologiam, divinum lectore(m)</seg>
-          <seg facs="#imtArea_61" type="imtAnnotation">considerare oportet, que hor(um) alia ordine le-</seg>
-          <seg facs="#imtArea_62" type="imtAnnotation">-gendi precedant, in quo illud ad memoriam</seg>
-          <seg facs="#imtArea_63" type="imtAnnotation">revocare n(on) inutile e(st) quod in edificiis fieri con-</seg>
-          <seg facs="#imtArea_64" type="imtAnnotation">spicitur, ubi primum quidem fundam(en)tum</seg>
-          <seg facs="#imtArea_65" type="imtAnnotation">ponitur, dehinc fabrica sup(er) edificat(ur), ad ulti-</seg>
-          <seg facs="#imtArea_66" type="imtAnnotation">-mum consummato opere dom(us) colore sup(er)-</seg>
-          <seg facs="#imtArea_67" type="imtAnnotation">-ducto vestitur. De hystoria.</seg>
-          <seg facs="#imtArea_68" type="imtAnnotation">Sic nimirum in doctrina fieri oportet</seg>
-          <seg facs="#imtArea_69" type="imtAnnotation">ut videlicet prius historiam discas</seg>
-          <seg facs="#imtArea_70" type="imtAnnotation">et rerum gestarum veritatem a prin-</seg>
-          <seg facs="#imtArea_71" type="imtAnnotation">-cipio repetens usq(ue) ad finem, quid gestum sit,</seg>
-          <seg facs="#imtArea_72" type="imtAnnotation">quando gestum sit, ubi gestum sit, et a quib(us) / gestum sit, diligenter memorie commendes.</seg>
-          <seg facs="#imtArea_74" type="imtAnnotation">Hec enim quatuor precipue in hystoria requi/renda sunt : p(er)sona, negocium, tempus et locus.</seg>
-          <seg facs="#imtArea_76" type="imtAnnotation">Neq(ue) ego te p(er)fecte subtilem posse fieri puto in / allegoria, nisi p(r)i(us) fundatus fueris in hystoria.</seg>
-          <seg facs="#imtArea_78" type="imtAnnotation">Noli contempnere minima hec. Paulatim / defluit qui minima contempnit. Si p(r)imo</seg>
-          <seg facs="#imtArea_80" type="imtAnnotation">alfabetum discere contempsisses, n(un)c inter / grammaticos tantum nomen non haberes.</seg>
+          <seg facs="#imtArea_42" rend="385,7,680,79">Liber sextus. Quomodo legenda sit scriptura sacra querentibus scientiam in ea.</seg>
+          <seg facs="#imtArea_43" rend="382,78,681,104">Duo tibi lector, ordine(m)</seg>
+          <seg facs="#imtArea_44" rend="497,101,675,128">scilicet et modum, propono, q(ue)</seg>
+          <seg facs="#imtArea_45" rend="497,125,673,152">si diligenter inspex(er)is, facile</seg>
+          <seg facs="#imtArea_46" rend="498,150,675,174">ti(bi) iter legendi patebit. In hor(um)</seg>
+          <seg facs="#imtArea_47" rend="487,171,668,201">v(er)o consideratione, nec om(n)ia</seg>
+          <seg facs="#imtArea_48" rend="386,197,670,221">tuo ingenio relinquam, neq(ue) p(er) meam diligen-</seg>
+          <seg facs="#imtArea_49" rend="388,217,672,247">-tiam satis ti(bi) fieri promitto, sed sic quedam bre-</seg>
+          <seg facs="#imtArea_50" rend="389,246,666,272">-viter prelibando transcurram ut et posita</seg>
+          <seg facs="#imtArea_51" rend="390,271,669,298">aliqua quib(us) erudiaris et aliqua pret(er)missa</seg>
+          <seg facs="#imtArea_52" rend="389,297,667,323">quib(us) exercearis invenias. Ordine(m) legendi</seg>
+          <seg facs="#imtArea_53" rend="391,319,675,346">supra quadrifarium e(ss)e co(m)memoravi, alium</seg>
+          <seg facs="#imtArea_54" rend="391,342,673,370">in disciplinis , alium in libris, alium in nar-</seg>
+          <seg facs="#imtArea_55" rend="390,367,672,397">-ratione atque alium in expositione. Que q(u)aliter</seg>
+          <seg facs="#imtArea_56" rend="394,396,671,420">in divina sc(r)iptura assignanda sint nondum os-</seg>
+          <seg facs="#imtArea_57" rend="395,419,664,444">tendi. De ordine qui est in disciplinis.</seg>
+          <seg facs="#imtArea_58" rend="363,446,669,475">Primum (er)go hunc ordinem qui querit(ur)</seg>
+          <seg facs="#imtArea_59" rend="450,475,677,499">in disciplinis inter hystoriam, allego-</seg>
+          <seg facs="#imtArea_60" rend="446,499,677,525">-riam, tropologiam, divinum lectore(m)</seg>
+          <seg facs="#imtArea_61" rend="400,525,676,548">considerare oportet, que hor(um) alia ordine le-</seg>
+          <seg facs="#imtArea_62" rend="401,548,675,575">-gendi precedant, in quo illud ad memoriam</seg>
+          <seg facs="#imtArea_63" rend="397,575,686,600">revocare n(on) inutile e(st) quod in edificiis fieri con-</seg>
+          <seg facs="#imtArea_64" rend="398,598,684,627">spicitur, ubi primum quidem fundam(en)tum</seg>
+          <seg facs="#imtArea_65" rend="402,625,683,654">ponitur, dehinc fabrica sup(er) edificat(ur), ad ulti-</seg>
+          <seg facs="#imtArea_66" rend="402,653,688,680">-mum consummato opere dom(us) colore sup(er)-</seg>
+          <seg facs="#imtArea_67" rend="403,679,680,704">-ducto vestitur. De hystoria.</seg>
+          <seg facs="#imtArea_68" rend="397,701,685,728">Sic nimirum in doctrina fieri oportet</seg>
+          <seg facs="#imtArea_69" rend="450,727,680,755">ut videlicet prius historiam discas</seg>
+          <seg facs="#imtArea_70" rend="448,754,688,778">et rerum gestarum veritatem a prin-</seg>
+          <seg facs="#imtArea_71" rend="400,775,687,806">-cipio repetens usq(ue) ad finem, quid gestum sit,</seg>
+          <seg facs="#imtArea_72" rend="401,805,684,853">quando gestum sit, ubi gestum sit, et a quib(us) / gestum sit, diligenter memorie commendes.</seg>
+          <seg facs="#imtArea_74" rend="401,851,689,901">Hec enim quatuor precipue in hystoria requi/renda sunt : p(er)sona, negocium, tempus et locus.</seg>
+          <seg facs="#imtArea_76" rend="402,901,687,953">Neq(ue) ego te p(er)fecte subtilem posse fieri puto in / allegoria, nisi p(r)i(us) fundatus fueris in hystoria.</seg>
+          <seg facs="#imtArea_78" rend="406,952,678,1001">Noli contempnere minima hec. Paulatim / defluit qui minima contempnit. Si p(r)imo</seg>
+          <seg facs="#imtArea_80" rend="407,998,691,1055">alfabetum discere contempsisses, n(un)c inter / grammaticos tantum nomen non haberes.</seg>
         </p>
       </div>
       <div type="text">
