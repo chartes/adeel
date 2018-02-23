@@ -160,9 +160,7 @@
                 <title> thèse inédite de l’École des chartes
                 </title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>
                 <date when="1996">1996</date>, <biblScope type="pp">p. 163-170</biblScope>. </bibl>
-              <bibl>
-                <author>S<hi rend="sc">URIREY</hi>D<hi rend="sc">E</hi>S<hi rend="sc">AINT</hi>-R<hi rend="sc">EMY</hi>(Henry de)</author>, <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, <date when="1969"/>
-                <biblScope type="vol">(14-2)</biblScope>, <biblScope type="pp">p. 47-62</biblScope>, : <note> [en ligne sur http://bbf.enssib.fr]</note>. </bibl>
+              <bibl><author>S<hi rend="sc">URIREY</hi>D<hi rend="sc">E</hi>S<hi rend="sc">AINT</hi>-R<hi rend="sc">EMY</hi>(Henry de)</author>, <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, <date>1969</date>, <biblScope type="vol">(14-2)</biblScope>, <biblScope type="pp">p. 47-62</biblScope>.</bibl>
             </listBibl>
           </div>
         </div>

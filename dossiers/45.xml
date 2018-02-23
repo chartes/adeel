@@ -150,13 +150,13 @@
         <head>Parties du discours</head> 
         <p>Comme il est de règle, chaque fin de période, hors du protocole, est marquée par un cursus velox (ici en gras).</p>
         <p>
-          <seg corresp="suscription">Innocentius episcopus, servus servorum Dei<note xml:id="suscription">Suscription.</note></seg>
-          <seg corresp="adresse">karissimo in Christo filio . . regi Francie illustri<note xml:id="adresse">Adresse.</note></seg>
-          <seg corresp="salut">salutem et apostolicam benedictionem.<note xml:id="salut">Salut.</note></seg>
-          <seg corresp="preambule">Propter veritatem, mansuetudinem et justitiam divinitus inspiratas que te pre regibus terre fecerunt excelsum, plenam de te in Domino fiduciam obtinentes, magnificentiam tuam ad ea que ministerium regie sublimitatis respiciunt precibus et monitis eo libentius et confidentius invitamus quo te carius amplexantes in visceribus Jesu Christi gratiam apud Deum et laudem apud homines exinde propensius te cupimus promereri.<note xml:id="preambule">Préambule.</note></seg>
-          <seg corresp="expose">Cum igitur, sicut accepimus, nobilis vir . . senescalcus Belliquadri, balivus tuus, dilectos filios Johannem de Sangenes, Lanfrancum Spinolum, Simonem de S[tant]ion’ et Johannem Dalmatii, cives Januenses, ad Latiniacenses nundinas cum suis mercimoniis accedentes eisdem merci<hi rend="b">moniis spoliarit</hi>,<note xml:id="expose">Exposé.</note></seg>
-          <seg corresp="dispositif">celsitudinem regiam rogandam duximus attentius et hortandam quatinus predictis civibus mercimonia ipsa pro apostolice Sedis et nostra reverentia restitui facias universa, preces nostras in hac parte taliter impleturus quod iidem eas sibi sentiant profuisse et nos excellentiam tuam proinde valeamus non im<hi rend="b">merito commendare</hi>.<note xml:id="dispositif">Dispositif.</note></seg>
-          <seg corresp="date">Datum Lugduni, XVIIII kalendas februarii, pontificatus nostri anno secundo.<note xml:id="date">Date.</note></seg>
+          <seg corresp="suscription">Innocentius episcopus, servus servorum Dei<note ana="suscription">Suscription.</note></seg>
+          <seg corresp="adresse">karissimo in Christo filio . . regi Francie illustri<note ana="adresse">Adresse.</note></seg>
+          <seg corresp="salut">salutem et apostolicam benedictionem.<note ana="salut">Salut.</note></seg>
+          <seg corresp="preambule">Propter veritatem, mansuetudinem et justitiam divinitus inspiratas que te pre regibus terre fecerunt excelsum, plenam de te in Domino fiduciam obtinentes, magnificentiam tuam ad ea que ministerium regie sublimitatis respiciunt precibus et monitis eo libentius et confidentius invitamus quo te carius amplexantes in visceribus Jesu Christi gratiam apud Deum et laudem apud homines exinde propensius te cupimus promereri.<note ana="preambule">Préambule.</note></seg>
+          <seg corresp="expose">Cum igitur, sicut accepimus, nobilis vir . . senescalcus Belliquadri, balivus tuus, dilectos filios Johannem de Sangenes, Lanfrancum Spinolum, Simonem de S[tant]ion’ et Johannem Dalmatii, cives Januenses, ad Latiniacenses nundinas cum suis mercimoniis accedentes eisdem merci<hi rend="b">moniis spoliarit</hi>,<note ana="expose">Exposé.</note></seg>
+          <seg corresp="dispositif">celsitudinem regiam rogandam duximus attentius et hortandam quatinus predictis civibus mercimonia ipsa pro apostolice Sedis et nostra reverentia restitui facias universa, preces nostras in hac parte taliter impleturus quod iidem eas sibi sentiant profuisse et nos excellentiam tuam proinde valeamus non im<hi rend="b">merito commendare</hi>.<note ana="dispositif">Dispositif.</note></seg>
+          <seg corresp="date">Datum Lugduni, XVIIII kalendas februarii, pontificatus nostri anno secundo.<note ana="date">Date.</note></seg>
         </p>
       </div>
       <div type="diplomatic">

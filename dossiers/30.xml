@@ -289,17 +289,17 @@
             <l>bar e viular trop ben ; e fon de l’eves-</l>
             <l>-cat de Gavaudan d’un castel qe a nom</l>
             <l>Lesperon e fon fills d’un paubre homen</l>
-            <l><seg corresp="qe">qe</seg> era pescaire ; e per son sen e per son trobar<note xml:id="qe"><hi rend="u">q</hi> surmonté d’un tilde est développé <hi rend="u">qe</hi>, les formes développées «  qe  » étant plus nombreuses que les formes déloppées «  que  » F. Zufferey, <hi rend="i">op. cit</hi>., p. 45 : «  on peut relever que le copiste de <hi rend="i">A</hi> parait préférer q è qu  ».</note></l>
-            <l>poiet en gran pretz <seg corresp="et">et</seg> en gran honor, tant<note xml:id="et">La résolution de l’abréviation doit se faire en tenant compte que la coordination est notée <hi rend="u">e</hi> devant un mot commençant par une consonne -voir <hi rend="u">e saup</hi> è la première ligne- mais <hi rend="u">et</hi> devant un mot commençant par une voyelle -voir et aqui è la dernièe ligne de la <hi rend="i">vida</hi>-.</note></l>
-            <l><seg corresp="qel">qe<hi rend="sup">.</hi>l</seg> dalfins d’Alvernge lo tenc per son<note xml:id="qel">qe<hi rend="sup">.</hi>l dalfins = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">qe.</hi></note></l>
-            <l>cavallier <seg corresp="el">e.l</seg> vestic e l’armet ab se lonc<note xml:id="el">e<hi rend="sup">.</hi>l vestic e l’armet = enclise de <hi rend="u">lo</hi> (pronom personnel régime direct faible masculin singulier de personne 3) sur <hi rend="u">et</hi> : si le pronom précède un verbe commençant par une voyelle, on privilégie l’élision par proclise sur l’enclise.</note></l>
-            <l>temps <seg corresp="eil">e<hi rend="sup">.</hi>il</seg> donet terra e renda. E tuich<note xml:id="eil">e<hi rend="sup">.</hi>il donet = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">et</hi>.</note></l>
-            <l>li baron <seg corresp="eil2">e<hi rend="sup">.</hi>il</seg> prince li fasiant trop grand<note xml:id="eil2">e<hi rend="sup">.</hi>il prince = enclise de <hi rend="u">li</hi> (article défini sujet masculin pluriel) sur <hi rend="u">et</hi>.</note></l>
+            <l><seg corresp="qe">qe</seg> era pescaire ; e per son sen e per son trobar<note xml:id="qe" type="term"><hi rend="u">q</hi> surmonté d’un tilde est développé <hi rend="u">qe</hi>, les formes développées «  qe  » étant plus nombreuses que les formes déloppées «  que  » F. Zufferey, <hi rend="i">op. cit</hi>., p. 45 : «  on peut relever que le copiste de <hi rend="i">A</hi> parait préférer q è qu  ».</note></l>
+            <l>poiet en gran pretz <seg corresp="et">et</seg> en gran honor, tant<note xml:id="et" type="term">La résolution de l’abréviation doit se faire en tenant compte que la coordination est notée <hi rend="u">e</hi> devant un mot commençant par une consonne -voir <hi rend="u">e saup</hi> è la première ligne- mais <hi rend="u">et</hi> devant un mot commençant par une voyelle -voir et aqui è la dernièe ligne de la <hi rend="i">vida</hi>-.</note></l>
+            <l><seg corresp="qel">qe<hi rend="sup">.</hi>l</seg> dalfins d’Alvernge lo tenc per son<note xml:id="qel" type="term">qe<hi rend="sup">.</hi>l dalfins = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">qe.</hi></note></l>
+            <l>cavallier <seg corresp="el">e.l</seg> vestic e l’armet ab se lonc<note xml:id="el" type="term">e<hi rend="sup">.</hi>l vestic e l’armet = enclise de <hi rend="u">lo</hi> (pronom personnel régime direct faible masculin singulier de personne 3) sur <hi rend="u">et</hi> : si le pronom précède un verbe commençant par une voyelle, on privilégie l’élision par proclise sur l’enclise.</note></l>
+            <l>temps <seg corresp="eil">e<hi rend="sup">.</hi>il</seg> donet terra e renda. E tuich<note xml:id="eil" type="term">e<hi rend="sup">.</hi>il donet = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">et</hi>.</note></l>
+            <l>li baron <seg corresp="eil2">e<hi rend="sup">.</hi>il</seg> prince li fasiant trop grand<note xml:id="eil2" type="term">e<hi rend="sup">.</hi>il prince = enclise de <hi rend="u">li</hi> (article défini sujet masculin pluriel) sur <hi rend="u">et</hi>.</note></l>
             <l>honor. Lonc temps ac de grans bonas</l>
             <l>aventuras mas mout li camieron pois</l>
             <l>las bonas aventuras e vengron li las</l>
             <l>malas qez el perdet los amics e las ami-</l>
-            <l> -gas <seg corresp="el2">e<hi rend="sup">.</hi>l</seg><note xml:id="el2">e<hi rend="sup">.</hi>l pretz e l’onor e l’aver = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">et</hi> ; si l’article précède un mot commençant par une voyelle, on privilégie l’élision par proclise sur l’enclise.</note></l>
+            <l> -gas <seg corresp="el2">e<hi rend="sup">.</hi>l</seg><note xml:id="el2" type="term">e<hi rend="sup">.</hi>l pretz e l’onor e l’aver = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">et</hi> ; si l’article précède un mot commençant par une voyelle, on privilégie l’élision par proclise sur l’enclise.</note></l>
             <l>pretz e l’onor e l’aver e pois el se ren-</l>
             <l> det en l’orden de Cistel e lai moric. Et aqui</l>
             <l>son escriutas de las soas canssos.</l>
@@ -307,61 +307,61 @@
             <l><hi rend="b">T</hi>ot l’an mi ten</l>
             <l>Amors d’aital fai-</l>
             <l>-so / cum estai cel</l>
-            <l>q’<seg corresp="al">a<hi rend="sup">.</hi>l</seg> mal dond s’a- <note xml:id="al"><hi rend="sup">.</hi>l = enclise de <hi rend="u">lo</hi> (article féminin masculin singulier) sur <hi rend="u">a</hi></note></l>
+            <l>q’<seg corresp="al">a<hi rend="sup">.</hi>l</seg> mal dond s’a- <note xml:id="al" type="term"><hi rend="sup">.</hi>l = enclise de <hi rend="u">lo</hi> (article féminin masculin singulier) sur <hi rend="u">a</hi></note></l>
             <l>-dormis / e morria</l>
             <l>dormen, tant es</l>
             <l>conquis, / en breu</l>
             <l>d’ora, entro c’om lo ressida ;/ atressi m’es</l>
-            <l>tals dolors demedida / <seg corresp="qe2">qe<hi rend="sup">.</hi>m</seg> <seg corresp="don">don</seg>’Amors <note xml:id="qe2">qe<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> (pronom personnel régime direct faible masculin singulier de personne 1) sur <hi rend="u">qe</hi></note><note xml:id="don">don’amors = élision de a final post-tonique de <hi rend="u">dona</hi> (personne 3 de l’indicatif présent de <hi rend="u">donar</hi>) devant un mot commençant par une voyelle</note></l>
-            <l>que sol <seg corresp="nom">no<hi rend="sup">.</hi>m</seg> sai <seg corresp="nim">ni<hi rend="sup">.</hi>m</seg> sen, / e cuich mo-<note xml:id="nim">ni<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">ni</hi></note><note xml:id="nom">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> (pronom personnel régime direct faible masculin singulier de personne 1) sur <hi rend="u">non</hi></note></l>
+            <l>tals dolors demedida / <seg corresp="qe2">qe<hi rend="sup">.</hi>m</seg> <seg corresp="don">don</seg>’Amors <note xml:id="qe2" type="term">qe<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> (pronom personnel régime direct faible masculin singulier de personne 1) sur <hi rend="u">qe</hi></note><note xml:id="don" type="term">don’amors = élision de a final post-tonique de <hi rend="u">dona</hi> (personne 3 de l’indicatif présent de <hi rend="u">donar</hi>) devant un mot commençant par une voyelle</note></l>
+            <l>que sol <seg corresp="nom">no<hi rend="sup">.</hi>m</seg> sai <seg corresp="nim">ni<hi rend="sup">.</hi>m</seg> sen, / e cuich mo-<note xml:id="nim" type="term">ni<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">ni</hi></note><note xml:id="nom" type="term">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> (pronom personnel régime direct faible masculin singulier de personne 1) sur <hi rend="u">non</hi></note></l>
             <l> -rir ab aqest marrimen, / tro qe m’esfortz</l>
-            <l>de far una chansso / <seg corresp="qem">qe<hi rend="sup">.</hi>m</seg> resside d’aqest <note xml:id="qem"><hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">qe</hi></note></l>
+            <l>de far una chansso / <seg corresp="qem">qe<hi rend="sup">.</hi>m</seg> resside d’aqest <note xml:id="qem" type="term"><hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">qe</hi></note></l>
             <l>tormen on fo.</l>
             <l/>
             <l><hi rend="b">B</hi>en fetz Amors l’usatge del larro / qand</l>
-            <l>encontra cellui d’estraing pays / <seg corresp="eil3">e<hi rend="sup">.</hi>il</seg>fai <note xml:id="eil3">e<hi rend="sup">.</hi>il fai = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">et</hi></note></l>
+            <l>encontra cellui d’estraing pays / <seg corresp="eil3">e<hi rend="sup">.</hi>il</seg>fai <note xml:id="eil3" type="term">e<hi rend="sup">.</hi>il fai = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">et</hi></note></l>
             <l>creire c’aillors es sos camis, / tro qu’el li</l>
             <l>ditz : «  Bels amics, tu mi guida  » / et enaissi</l>
-            <l>es mainta gens trahida / qe <seg corresp="lail">lai<hi rend="sup">.</hi>l</seg> mena <note xml:id="lail">lai<hi rend="sup">.</hi>l mena = enclise de <hi rend="u">lo</hi> (pronom personnel régime direct faible masculin singulier de personne 3) sur <hi rend="u">lai</hi></note></l>
-            <l>on puois lo lia <seg corresp="el3">e<hi rend="sup">.</hi>l</seg> pren ; / et eu puosc dir <note xml:id="el3">e<hi rend="sup">.</hi>l pren = enclise de <hi rend="u">lo</hi> (pronom personnel régime direct faible masculin singulier de personne 3) sur <hi rend="u">et</hi></note></l>
+            <l>es mainta gens trahida / qe <seg corresp="lail">lai<hi rend="sup">.</hi>l</seg> mena <note xml:id="lail" type="term">lai<hi rend="sup">.</hi>l mena = enclise de <hi rend="u">lo</hi> (pronom personnel régime direct faible masculin singulier de personne 3) sur <hi rend="u">lai</hi></note></l>
+            <l>on puois lo lia <seg corresp="el3">e<hi rend="sup">.</hi>l</seg> pren ; / et eu puosc dir <note xml:id="el3" type="term">e<hi rend="sup">.</hi>l pren = enclise de <hi rend="u">lo</hi> (pronom personnel régime direct faible masculin singulier de personne 3) sur <hi rend="u">et</hi></note></l>
             <l>atressi veramen / qez eu segei Amor</l>
-            <l>tant <seg corresp="coil">co<hi rend="sup">.</hi>il</seg> saup bo, / tant mi menet tro [colonne b] <note xml:id="coil">co<hi rend="sup">.</hi>il saup = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">com</hi>.</note></l>
+            <l>tant <seg corresp="coil">co<hi rend="sup">.</hi>il</seg> saup bo, / tant mi menet tro [colonne b] <note xml:id="coil" type="term">co<hi rend="sup">.</hi>il saup = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">com</hi>.</note></l>
             <l>m’ac en sa preiso.</l>
             <l/>
-            <l><hi rend="b">E</hi> <seg corresp="tem">te<hi rend="sup">.</hi>m</seg> lai pres on non trob rezensso / <note xml:id="tem">te<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">ten</hi> (personne 3 de l’indicatif présent de <hi rend="u">tener</hi>)</note></l>
+            <l><hi rend="b">E</hi> <seg corresp="tem">te<hi rend="sup">.</hi>m</seg> lai pres on non trob rezensso / <note xml:id="tem" type="term">te<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">ten</hi> (personne 3 de l’indicatif présent de <hi rend="u">tener</hi>)</note></l>
             <l>mas de ma mort c’aissi lor abellis / en-</l>
             <l>-tre midonz et Amors cui sui fis : / lor platz</l>
             <l>ma mortz e lor es abellida, / mas eu sui</l>
             <l>cel que merce no lor crida / plus cum</l>
             <l>fai cel q’es liuratz a tormen / que sap</l>
-            <l>que plus <seg corresp="noil">no<hi rend="sup">.</hi>il</seg> valria nien / clamar <note xml:id="noil">no<hi rend="sup">.</hi>il = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">non</hi></note></l>
+            <l>que plus <seg corresp="noil">no<hi rend="sup">.</hi>il</seg> valria nien / clamar <note xml:id="noil" type="term">no<hi rend="sup">.</hi>il = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">non</hi></note></l>
             <l>merce, aia tort o razo : / per q’eu m’en lais</l>
             <l>qe mot non lor en so.</l>
             <l/>
             <l><hi rend="b">P</hi>ero non sai cal me fassa o cal no /</l>
-            <l>pois per mon dan m’engana <seg corresp="em">e<hi rend="sup">.</hi>m</seg> trahis / Am- <note xml:id="em">e<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">et</hi></note></l>
+            <l>pois per mon dan m’engana <seg corresp="em">e<hi rend="sup">.</hi>m</seg> trahis / Am- <note xml:id="em" type="term">e<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">et</hi></note></l>
             <l>-ors vas cui estau totz temps aclis / al</l>
-            <l>sieu plazer c’aitals fo m’escarida ; / e<seg corresp="ten"> ten-</seg><note xml:id="ten">tengr’o = élision de a final post-tonique de <hi rend="u">tengra</hi> (personne 1 du conditionnel II de <hi rend="u">tener</hi>) devant un mot commençant par une voyelle</note></l>
-            <l>-gr’o trop a paraula grazida / sol <seg corresp="nom2">no<hi rend="sup">.</hi></seg>m<hi rend="sup"><note type="footnote">sol no<hi rend="sup">.</hi>m. La leçon est partagée avec le chansonnier <hi rend="i">B</hi>. Tous les autres manuscrits ont <hi rend="u">si no<hi rend="sup">.</hi>m</hi> qui est meilleur, <hi rend="u">si</hi> étant nécessaire pour la construction de la phrase («  je considérerais cela si il ne me montrait »)</note></hi><note xml:id="nom2">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">non</hi></note></l>
+            <l>sieu plazer c’aitals fo m’escarida ; / e<seg corresp="ten"> ten-</seg><note xml:id="ten" type="term">tengr’o = élision de a final post-tonique de <hi rend="u">tengra</hi> (personne 1 du conditionnel II de <hi rend="u">tener</hi>) devant un mot commençant par une voyelle</note></l>
+            <l>-gr’o trop a paraula grazida / sol <seg corresp="nom2">no<hi rend="sup">.</hi></seg>m<hi rend="sup"><note type="footnote">sol no<hi rend="sup">.</hi>m. La leçon est partagée avec le chansonnier <hi rend="i">B</hi>. Tous les autres manuscrits ont <hi rend="u">si no<hi rend="sup">.</hi>m</hi> qui est meilleur, <hi rend="u">si</hi> étant nécessaire pour la construction de la phrase («  je considérerais cela si il ne me montrait »)</note></hi><note xml:id="nom2" type="term">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">non</hi></note></l>
             <l>mostres tant brau chaptenemen / mas</l>
-            <l><seg corresp="sill">sill s’aunis</seg> <seg corresp="pel">pe<hi rend="sup">.</hi>l</seg> mieu dechazemen / ben<note xml:id="sill">sill s’aunis. La leçon est partagée par les chansonniers <hi rend="i">B D G Q</hi>. Les autres manuscrits ont <hi rend="u">se aunis</hi>. <hi rend="u">Sill</hi> est une forme de démonstratif sujet pluriel, on peut défendre la leçon du manuscrit en corrigeant <hi rend="u">sill</hi> en <hi rend="u">sell</hi>, quoiqu’il offre la forme <hi rend="u">cel</hi> dans la troisième strophe </note><note xml:id="pel">pe<hi rend="sup">.</hi>l mieu = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">per</hi></note></l>
+            <l><seg corresp="sill">sill s’aunis</seg> <seg corresp="pel">pe<hi rend="sup">.</hi>l</seg> mieu dechazemen / ben<note xml:id="sill" type="term">sill s’aunis. La leçon est partagée par les chansonniers <hi rend="i">B D G Q</hi>. Les autres manuscrits ont <hi rend="u">se aunis</hi>. <hi rend="u">Sill</hi> est une forme de démonstratif sujet pluriel, on peut défendre la leçon du manuscrit en corrigeant <hi rend="u">sill</hi> en <hi rend="u">sell</hi>, quoiqu’il offre la forme <hi rend="u">cel</hi> dans la troisième strophe </note><note xml:id="pel" type="term">pe<hi rend="sup">.</hi>l mieu = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">per</hi></note></l>
             <l>fai semblan qe m’aia cor fello / qe per mon</l>
             <l>dan non tem far mespreiso.</l>
             <l/>
             <l><hi rend="b">E</hi> fatz esfortz s’ab ira joi mi do / mas en</l>
-            <l><seg corresp="aisso">aisso<hi rend="sup">.</hi>m</seg> conort e m’afortis / <seg corresp="contra">contra.l</seg> de- <note xml:id="aisso">aisso<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">aisso</hi></note><note xml:id="contra">contra.l = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">contra</hi></note></l>
+            <l><seg corresp="aisso">aisso<hi rend="sup">.</hi>m</seg> conort e m’afortis / <seg corresp="contra">contra.l</seg> de- <note xml:id="aisso" type="term">aisso<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">aisso</hi></note><note xml:id="contra" type="term">contra.l = enclise de <hi rend="u">lo</hi> (article défini masculin singulier) sur <hi rend="u">contra</hi></note></l>
             <l>-sir en c’Amors m’a assis, / aissi cum cel</l>
-            <l>c’a <seg corresp="bataill">bataill’aramida</seg>, / qe sap de plan sa <note xml:id="bataill">bataill’aramida = élision de a final post-tonique de <hi rend="u">batailla</hi> devant un mot commençant par une voyelle</note></l>
+            <l>c’a <seg corresp="bataill">bataill’aramida</seg>, / qe sap de plan sa <note xml:id="bataill" type="term">bataill’aramida = élision de a final post-tonique de <hi rend="u">batailla</hi> devant un mot commençant par une voyelle</note></l>
             <l>razos es delida / qand es en cort on hom</l>
-            <l>dreich <seg corresp="noill">no<hi rend="sup">.</hi>ill</seg> consen, / et ab tot so <seg corresp="sis">si<hi rend="sup">.</hi>s</seg><note xml:id="noill">no<hi rend="sup">.</hi>ill = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">non</hi></note><note xml:id="sis">si<hi rend="sup">.</hi>s = enclise de <hi rend="u">si</hi> (pronom personnel réflèchi faible masculin singulier de personne 3) sur <hi rend="u">si.</hi></note></l>
+            <l>dreich <seg corresp="noill">no<hi rend="sup">.</hi>ill</seg> consen, / et ab tot so <seg corresp="sis">si<hi rend="sup">.</hi>s</seg><note xml:id="noill" type="term">no<hi rend="sup">.</hi>ill = enclise de <hi rend="u">li</hi> (pronom personnel régime indirect faible masculin singulier de personne 3) sur <hi rend="u">non</hi></note><note xml:id="sis" type="term">si<hi rend="sup">.</hi>s = enclise de <hi rend="u">si</hi> (pronom personnel réflèchi faible masculin singulier de personne 3) sur <hi rend="u">si.</hi></note></l>
             <l>combat eissamen / mi combat eu en</l>
-            <l>cort on<seg corresp="no"> no<hi rend="sup">.</hi>m</seg> ten pro / qe Amors m’a for- <note xml:id="no">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">non</hi></note></l>
+            <l>cort on<seg corresp="no"> no<hi rend="sup">.</hi>m</seg> ten pro / qe Amors m’a for- <note xml:id="no" type="term">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">non</hi></note></l>
             <l>-jutgat non sai co.</l>
             <l/>
             <l><hi rend="b">A</hi>i Bel Esper pros dompna issernida / tant</l>
             <l>grans dreitz es si d’Amor mal mi pren /</l>
             <l>car anc de vos mi parti, las, dolen, / per cel</l>
-            <l>una qe ja <seg corresp="nom3">no<hi rend="sup">.</hi>m</seg> tenra pro / anz m’aucira <note xml:id="nom3">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">non</hi></note></l>
+            <l>una qe ja <seg corresp="nom3">no<hi rend="sup">.</hi>m</seg> tenra pro / anz m’aucira <note xml:id="nom3" type="term">no<hi rend="sup">.</hi>m = enclise de <hi rend="u">mi</hi> sur <hi rend="u">non</hi></note></l>
             <l>en sa doussa preiso.</l>
           </div>
         </div>

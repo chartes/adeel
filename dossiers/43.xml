@@ -133,20 +133,20 @@
       <div class="speech">
         <head>Partie du discours</head>
         <p>
-          <seg>Petrus de Ferrariis, miles domini nostri Franc’ et Navarre regis ejusque senescallus Xanctonensis et Engolismensis,<note>Suscription.</note></seg>
-          <seg>discreto viro Guillelmo Amblardi, thesaurario regio Xanctonensi vel ejus locum tenenti,<note>Adresse.</note></seg>
-          <seg>salutem.<note>Salut.</note></seg>
-          <seg>Patentes litteras regias recepimus in hec verba :<note>Début de l?exposé de l?acte du sénéchal, qui inclut tout l?acte inséré.</note></seg>
-          <seg>“ Philippus, Dei gratia Francorum et Navarre rex,<note>Acte inséré : suscription.</note></seg>
-          <seg>senescallo Xanctonensi aut ejus locum tenenti,<note>Acte inséré : adresse.</note></seg>
-          <seg>salutem.<note>Acte inséré : salut.</note></seg>
-          <seg>Alias vobis mandavimus et iterato (precipiente districte mandamus) precipiendo districte mandamus quatinus castrum nostrum de Ruppella faciatis reparacione necessaria quam cicius reparari,<note>Acte inséré : dispositif.</note></seg>
-          <seg>et nos gentibus nostris presentibus [damus] in mandatis quatinus quicquid pro reparacione predicta vos ponere contigerit in vestris compotis allocent et de vestra recepta deducant ;<note>Acte inséré : clause de décharge.</note></seg>
-          <seg>scituri quod, si ob vestram negligenciam dictum castrum per deffectum reparacionis contigerit deteriorari, nos ipsum castrum vestris faciemus sumptibus reparari.<note>Acte inséré : clause pénale.</note></seg>
-          <seg>Nolumus tamen quod (si) aliqua nova edificia faciatis ibidem.<note>Acte inséré : ajout au dispositif.</note></seg>
-          <seg>Datum apud Lochias, die XIIII maii, anno Domini M° CCC° vicesimo primo. ”<note>Acte inséré : date de lieu et de temps.</note></seg>
-          <seg>Quarum auctoritate litterarum castrum regium de Ruppella faciatis reparacione necessaria reparari juxta continentiam et tenorem litterarum predictarum, sine aliquibus novis edificiis ibidem faciendo, prout in dictis litteris videbitis contineri.<note>Dispositif.</note></seg>
-          <seg>Datum Ruppelle, die dominica post festum Beati Martini yemalis, anno Domini M° CCC° vicesimo primo.<note>Date de lieu et de temps.</note></seg>
+          <seg>Petrus de Ferrariis, miles domini nostri Franc’ et Navarre regis ejusque senescallus Xanctonensis et Engolismensis,<note ana="suscription">Suscription.</note></seg>
+          <seg>discreto viro Guillelmo Amblardi, thesaurario regio Xanctonensi vel ejus locum tenenti,<note ana="adresse">Adresse.</note></seg>
+          <seg>salutem.<note ana="salut">Salut.</note></seg>
+          <seg>Patentes litteras regias recepimus in hec verba :<note ana="expose">Début de l’exposé de l’acte du sénéchal, qui inclut tout l’acte inséré.</note></seg>
+          <seg>“ Philippus, Dei gratia Francorum et Navarre rex,<note ana="suscription">Acte inséré : suscription.</note></seg>
+          <seg>senescallo Xanctonensi aut ejus locum tenenti,<note ana="adresse">Acte inséré : adresse.</note></seg>
+          <seg>salutem.<note ana="salut">Acte inséré : salut.</note></seg>
+          <seg>Alias vobis mandavimus et iterato (precipiente districte mandamus) precipiendo districte mandamus quatinus castrum nostrum de Ruppella faciatis reparacione necessaria quam cicius reparari,<note ana="dispositif">Acte inséré : dispositif.</note></seg>
+          <seg>et nos gentibus nostris presentibus [damus] in mandatis quatinus quicquid pro reparacione predicta vos ponere contigerit in vestris compotis allocent et de vestra recepta deducant ;<note ana="clause_decharge">Acte inséré : clause de décharge.</note></seg>
+          <seg>scituri quod, si ob vestram negligenciam dictum castrum per deffectum reparacionis contigerit deteriorari, nos ipsum castrum vestris faciemus sumptibus reparari.<note ana="clause_penale">Acte inséré : clause pénale.</note></seg>
+          <seg>Nolumus tamen quod (si) aliqua nova edificia faciatis ibidem.<note ana="dispositif">Acte inséré : ajout au dispositif.</note></seg>
+          <seg>Datum apud Lochias, die XIIII maii, anno Domini M° CCC° vicesimo primo. ”<note ana="date">Acte inséré : date de lieu et de temps.</note></seg>
+          <seg>Quarum auctoritate litterarum castrum regium de Ruppella faciatis reparacione necessaria reparari juxta continentiam et tenorem litterarum predictarum, sine aliquibus novis edificiis ibidem faciendo, prout in dictis litteris videbitis contineri.<note ana="dispositif">Dispositif.</note></seg>
+          <seg>Datum Ruppelle, die dominica post festum Beati Martini yemalis, anno Domini M° CCC° vicesimo primo.<note ana="date">Date de lieu et de temps.</note></seg>
         </p>
       </div>
       <div type="diplomatic">
