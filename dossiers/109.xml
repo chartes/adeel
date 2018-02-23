@@ -212,21 +212,10 @@
         <div>
           <head>Bibliographie</head>
           <listBibl>
-            <bibl>
-              <author>C<hi rend="sc">OLIN</hi> (Cécile)</author>, <title>Pratiques et réalités d’un quartier de police dans le première moitié du XVIII<hi rend="sup">e</hi> siècle : l’espace Saint-Eustache et le commissaire Pierre Regnard le jeune (1712-1751)</title>, dans <title>Cahiers du Crepif</title>, <date when="1992">1992</date>, <biblScope type="vol">t. 28</biblScope>, <biblScope type="pp">p. 119-130</biblScope>. </bibl>
-            <bibl>
-              <author>K<hi rend="sc">APLAN</hi> (Steven L.)</author>,
-              <title>Note sur les commissaires de police de Paris au XVIII<hi rend="sup">e</hi> siècle</title>, dans <title>Revue d’histoire moderne et contemporaine</title>,
-              <date when="1981">1981</date>, <biblScope type="vol">t. XXVIII-1</biblScope>, <biblScope type="pp">p. 669-686</biblScope>. </bibl>
-            <bibl>
-              <author>D<hi rend="sc">ESCIMON</hi> (Robert)</author>,
-              <title>Les auxiliaires de justice du Châtelet de Paris : aperçus sur l’économie du monde des offices ministériels (XVI<hi rend="sup">e</hi>-XVIII<hi rend="sup">e</hi> siècles) </title>, dans <title>Entre Justice et justiciables. Les auxiliaires de la justice du Moyen Age au XX<hi rend="sup">e</hi> siècle</title>, <editor>Claire D<hi rend="sc">OLAN</hi></editor>,
-              <pubPlace>Sainte-Foy (Québec)</pubPlace>, <publisher>Presses univ. de Laval</publisher>, <date when="2005">2005</date>,
-              <biblScope type="pp">p. 301-325</biblScope>. </bibl>
-            <bibl>
-              <author>E<hi rend="sc">L</hi> G<hi rend="sc">HOUL</hi> (Fayçal)</author>, <title>La police parisienne dans la seconde moitié du XVIII<hi rend="sup">e</hi> siècle (1760-1785)</title>, <pubPlace>Tunis</pubPlace>,
-              <publisher>Université de Tunis, Faculté des sciences humaines et sociales</publisher>, <date when="1995">1995</date>,
-              <biblScope type="vol">2 vol., t. I</biblScope>, <biblScope type="pp">p. 285-297</biblScope>. </bibl>
+            <bibl>COLIN (Cécile), <title>Pratiques et réalités d’un quartier de police dans le première moitié du XVIII<hi rend="sup">e</hi> siècle : l’espace Saint-Eustache et le commissaire Pierre Regnard le jeune (1712-1751)</title>, dans <title>Cahiers du Crepif</title>, 1992, t. 28, p. 119-130.</bibl>
+            <bibl>KAPLAN (Steven L.), <title>Note sur les commissaires de police de Paris au XVIII<hi rend="sup">e</hi> siècle</title>, dans <title>Revue d’histoire moderne et contemporaine</title>, 1981, t. XXVIII-1, p. 669-686.</bibl>
+            <bibl>DESCIMON (Robert), <title>Les auxiliaires de justice du Châtelet de Paris : aperçus sur l’économie du monde des offices ministériels (XVI<hi rend="sup">e</hi>-XVIII<hi rend="sup">e</hi> siècles) </title>, dans <title>Entre Justice et justiciables. Les auxiliaires de la justice du Moyen Age au XX<hi rend="sup">e</hi> siècle</title>, Claire DOLAN, Sainte-Foy (Québec), Presses univ. de Laval, 2005, p. 301-325.</bibl>
+            <bibl>EL GHOUL (Fayçal), <title>La police parisienne dans la seconde moitié du XVIII<hi rend="sup">e</hi> siècle (1760-1785)</title>, Tunis, Université de Tunis, Faculté des sciences humaines et sociales, 1995, 2 vol., t. I, p. 285-297.</bibl>
           </listBibl>
         </div>
       </div>

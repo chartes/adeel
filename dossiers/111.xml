@@ -141,10 +141,10 @@
         <div>
           <head>Bibliographie</head>
           <listBibl>
-            <bibl><author>B<hi rend="sc">REJON</hi> (Jacques)</author>, <title>André Tiraqueau (1488-1558)</title>, <pubPlace>Paris</pubPlace>, <publisher>Sirey</publisher>, <date when="1937">1937</date>, <biblScope type="pp">407 p</biblScope>.</bibl>
-            <bibl><author>D<hi rend="sc">UPONT</hi>-F<hi rend="sc">ERRIER</hi> (Gustave)</author>, <title>Les officiers royaux des baillages et sénéchaussées et les institutions monarchiques locales en France à la fin du moyen-âge</title>, <pubPlace>Paris</pubPlace>, <publisher>lib. Emile Bouillon</publisher>, <date when="1902">1902</date>, <biblScope type="pp">p. 422-423</biblScope>.</bibl>
-            <bibl><author>D<hi rend="sc">UPONT</hi>-F<hi rend="sc">ERRIER</hi> (Gustave)</author>, <title>Gallia regia ou état des officiers royaux des bailliages et des sénéchaussées de 1328 à 1515</title>, <pubPlace>Paris</pubPlace>, <publisher>Imprimerie nationale</publisher>, <biblScope type="vol">t. IV</biblScope>, <date when="1954">1954</date>, <biblScope type="pp">p. 502-503</biblScope>.</bibl>
-            <bibl><author>I<hi rend="sc">MBERT</hi> (Jean)</author>, <title>La practique judiciaire civile et criminelle receüe et observée par tout le royaume de France, composée par M. Jean Imbert, lieutenant criminel au siège royal de Fontenay-le-Comte</title>, <pubPlace>Paris</pubPlace>, <publisher>Louis Feugé</publisher>, <date when="1627">1627 (éd. originale latine 1541)</date>.</bibl>
+            <bibl>BREJON (Jacques), <title>André Tiraqueau (1488-1558)</title>, Paris, Sirey, 1937, 407 p.</bibl>
+            <bibl>DUPONT-FERRIER (Gustave), <title>Les officiers royaux des baillages et sénéchaussées et les institutions monarchiques locales en France à la fin du moyen-âge</title>, Paris, lib. Emile Bouillon, 1902, p. 422-423.</bibl>
+            <bibl>DUPONT-FERRIER (Gustave), <title>Gallia regia ou état des officiers royaux des bailliages et des sénéchaussées de 1328 à 1515</title>, Paris, Imprimerie nationale, t. IV, 1954, p. 502-503.</bibl>
+            <bibl>IMBERT (Jean), <title>La practique judiciaire civile et criminelle receüe et observée par tout le royaume de France, composée par M. Jean Imbert, lieutenant criminel au siège royal de Fontenay-le-Comte</title>, Paris, Louis Feugé, 1627 (éd. originale latine 1541).</bibl>
           </listBibl>
         </div>
       </div>

@@ -134,13 +134,13 @@
         <div>
           <head>Bibliographie complémentaire</head>
           <listBibl>
-            <bibl><author>A<hi rend="sc">UBERT</hi> (Félix)</author>, <title>Recherches sur l’organisation du parlement de Paris au XVI<hi rend="sup">e</hi> siècle (1515-1589)</title>, <pubPlace>Paris</pubPlace>, <publisher>Sirey</publisher>, <date when="1912">1912</date>. </bibl>
-            <bibl><author>L<hi rend="sc">APEYRE</hi> (André) et S<hi rend="sc">CHEURER</hi> (Remy)</author>, <title>Les notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>, <pubPlace>Paris</pubPlace>, <publisher>Bibl. nat. de France</publisher>, <date when="1978">1978</date>. </bibl>
-            <bibl><author>L<hi rend="sc">AURAIN</hi>[-P<hi rend="sc">ORTEMER</hi>] (Madeleine) </author>, <title>Les Grands Jours du parlement de Paris de l’avènement de François Ier à la mort d’Henri II</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses (…)</title>, <pubPlace>Paris</pubPlace>, <date when="1940">1940</date>, <biblScope type="pp">p. 71-79</biblScope>. </bibl>
-            <bibl><author>L<hi rend="sc">E</hi> L<hi rend="sc">ABOUREUR</hi> (Claude)</author>, <title>Les masures de l’Ile-Barbe</title>, <editor>Marie-Claude Guigue et Georges Guige</editor>, <pubPlace>Lyon</pubPlace>, <publisher>Vitte et Perrussel</publisher>, <date when="1887">1887</date>. </bibl>
-            <bibl><author>L<hi rend="sc">IGNEREUX</hi> (Yann)</author>, <title>Lyon et le roi. De la « bonne ville » à l’absolutisme municipal (1594-1654)</title>, <pubPlace>Seyssel</pubPlace>, <publisher>Champ Vallon</publisher>, <date when="2003">2003</date>, <biblScope type="pp">p. 92-113</biblScope>. </bibl>
-            <bibl><author>R<hi rend="sc">IVERIEUX</hi> D<hi rend="sc">E</hi> V<hi rend="sc">ARAX</hi> (vicomte Paul de)</author>, <title>Généalogie de la maison de Sainte-Colombe</title>, <pubPlace>Lyon</pubPlace>, <publisher>Imprimerie générale</publisher>, <date when="1881">1881</date>, <biblScope type="pp">p. 156-157</biblScope>. </bibl>
-            <bibl><author>V<hi rend="sc">IGNON</hi> (Joseph)</author>, <title>Valorges. Petit fief sans justice</title>, <pubPlace>Sain-Just la Pendue</pubPlace>, <publisher>imp. Chirat</publisher>, <date when="1977">1977</date>, <biblScope type="pp">p. 23-25</biblScope>. </bibl>
+            <bibl>AUBERT (Félix), <title>Recherches sur l’organisation du parlement de Paris au XVI<hi rend="sup">e</hi> siècle (1515-1589)</title>, Paris, Sirey, 1912.</bibl>
+            <bibl>LAPEYRE (André) et SCHEURER (Remy), <title>Les notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>, Paris, Bibl. nat. de France, 1978.</bibl>
+            <bibl>LAURAIN[-PORTEMER] (Madeleine) , <title>Les Grands Jours du parlement de Paris de l’avènement de François Ier à la mort d’Henri II</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses (…)</title>, Paris, 1940, p. 71-79.</bibl>
+            <bibl>LE LABOUREUR (Claude), <title>Les masures de l’Ile-Barbe</title>, Marie-Claude Guigue et Georges Guige, Lyon, Vitte et Perrussel, 1887.</bibl>
+            <bibl>LIGNEREUX (Yann), <title>Lyon et le roi. De la « bonne ville » à l’absolutisme municipal (1594-1654)</title>, Seyssel, Champ Vallon, 2003, p. 92-113.</bibl>
+            <bibl>RIVERIEUX DE VARAX (vicomte Paul de), <title>Généalogie de la maison de Sainte-Colombe</title>, Lyon, Imprimerie générale, 1881, p. 156-157.</bibl>
+            <bibl>VIGNON (Joseph), <title>Valorges. Petit fief sans justice</title>, Sain-Just la Pendue, imp. Chirat, 1977, p. 23-25.</bibl>
           </listBibl>
         </div>
       </div>

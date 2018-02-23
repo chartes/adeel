@@ -107,12 +107,8 @@
           <head>Bibliographie complémentaire</head>
           <div>
             <listBibl>
-              <bibl><author>A<hi rend="sc">SHTA</hi> (Emmanuelle)</author>,
-                <title>Les trésoriers généraux de la généralité de Paris (1577-1643)</title>, thèse inédite de l’École nationale des Chartes, résumée dans
-                <title>Positions des thèses des élèves de l’École nationale des chartes</title>, <pubPlace>Paris</pubPlace>, <date when="1999">1999</date>, <biblScope type="pp">p. 25-31</biblScope>. </bibl>
-              <bibl>
-                <author>D<hi rend="sc">ELAUME</hi> (Geneviève)</author>,
-                <title>Le bureau des finances de la généralité de Paris</title>, <pubPlace>Paris</pubPlace>, <publisher>éd Cujas</publisher>, <date when="1966">1966</date>, <biblScope type="pp">270 p</biblScope>. </bibl>
+              <bibl>ASHTA (Emmanuelle), <title>Les trésoriers généraux de la généralité de Paris (1577-1643)</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses des élèves de l’École nationale des chartes</title>, Paris, 1999, p. 25-31.</bibl>
+              <bibl>DELAUME (Geneviève), <title>Le bureau des finances de la généralité de Paris</title>, Paris, éd Cujas, 1966, 270 p.</bibl>
             </listBibl>
           </div>
         </div>

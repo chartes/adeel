@@ -86,7 +86,8 @@ div[@type="facsimile"]
 
 **enrichissements sémantiques**
 * citations inline (`«`,`»`) (`tei:quote`=> `html:q`)
-* mention bibliographique (`bibl` => )
+* mention bibliographique (`bibl` => ?)
+* titre (`tei:title` => `html:cite`)
 * entités nommées
   * personne (`tei:persName/@ref` => )
   * lieu (`tei:placeName/@ref` => )

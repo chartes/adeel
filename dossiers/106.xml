@@ -137,30 +137,11 @@
           <head>Bibliographie</head>
           <div>
             <listBibl>
-              <bibl>
-                <author>C<hi rend="sc">OUSIN</hi> (Mathieu)</author>,
-                <title>« Les conférences historiques des conseillers de ville au xviiie siècle »</title>, <title>Bulletin de la Fédération des sociétés historiques de Paris</title>
-                <date when="1883">1883</date>
-                <biblScope type="vol">12</biblScope>, <biblScope type="pp">p.170-176</biblScope>
-              </bibl>
-              <bibl>
-                <author>C<hi rend="sc">ROQ</hi>(Laurence)</author>,
-                <title>« La municipalité parisienne à l’épreuve des absolutismes : démantèlement d’une structure politique et création d’une administration (1660-1789) »</title>, <title>Le prince, la ville et le bourgeois (xive-xviiie siècles)</title>, <editor>Laurence Croq éd.</editor>,
-                <pubPlace>Paris</pubPlace>, <publisher>Nolin</publisher>,
-                <date when="2004">2004</date>, <biblScope type="pp">p. 175-201</biblScope>. </bibl>
-              <bibl>
-                <author>F<hi rend="sc">RANKLIN</hi> (Alfred)</author>,
-                <title> Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc...</title>,
-                <pubPlace>Paris</pubPlace>, <publisher>Imprimerie nationale</publisher>, <biblScope type="vol">t. III</biblScope>,
-                <date when="1873">1873</date>
-                <biblScope type="pp">p. 181-300</biblScope>. </bibl>
-              <bibl>
-                <author>J<hi rend="sc">UNGES</hi>(Catherine)</author>,
-                <title>Les échevins parisiens au xviiie siècle</title>,
-                <title> thèse inédite de l’École des chartes
-                </title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>
-                <date when="1996">1996</date>, <biblScope type="pp">p. 163-170</biblScope>. </bibl>
-              <bibl><author>S<hi rend="sc">URIREY</hi>D<hi rend="sc">E</hi>S<hi rend="sc">AINT</hi>-R<hi rend="sc">EMY</hi>(Henry de)</author>, <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, <date>1969</date>, <biblScope type="vol">(14-2)</biblScope>, <biblScope type="pp">p. 47-62</biblScope>.</bibl>
+              <bibl>COUSIN (Mathieu), <title>« Les conférences historiques des conseillers de ville au XVIIIe siècle »</title>, <title>Bulletin de la Fédération des sociétés historiques de Paris</title>, 1883 12, p.170-176.</bibl>
+              <bibl>CROQ (Laurence),<title>« La municipalité parisienne à l’épreuve des absolutismes : démantèlement d’une structure politique et création d’une administration (1660-1789) »</title>, <title>Le prince, la ville et le bourgeois (xive-xviiie siècles)</title>, Laurence Croq éd., Paris, Nolin, 2004, p. 175-201.</bibl>
+              <bibl>FRANKLIN (Alfred), <title> Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc...</title>, Paris, Imprimerie nationale, t. III, 1873, p. 181-300.</bibl>
+              <bibl>JUNGES (Catherine), <title>Les échevins parisiens au xviiie siècle</title>, <title> thèse inédite de l’École des chartes</title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>, 1996, p. 163-170.</bibl>
+              <bibl>SURIREY DE SAINT-REMY (Henry de), <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, 1969, (14-2), p. 47-62.</bibl>
             </listBibl>
           </div>
         </div>

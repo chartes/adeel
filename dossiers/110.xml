@@ -105,19 +105,10 @@
           <head>Bibliographie</head>
           <div>
             <listBibl>
-              <bibl>
-                <author>C<hi rend="sc">ASTELLUCCIO</hi> (Stéphane)</author>,
-                <title>Le garde-meuble de la couronne et ses intendants du XVI<hi rend="sup">e</hi> au XVIII<hi rend="sup">e</hi> siècle</title>,
-                <pubPlace>Paris</pubPlace>, <publisher>éd. CTHS</publisher>, <date when="2004">2004</date>, <biblScope type="pp">333 p</biblScope>. </bibl>
-              <bibl>
-                <author>H<hi rend="sc">AYEM</hi> (Fernand)</author>, <title>Un tailleur d’Henri IV. Barthélemy de Laffemas</title>, <pubPlace>Paris</pubPlace>, <publisher>Librairie Guillaumin</publisher>, <date when="1905">1905</date>, extrait de la <title>Revue du commerce, de l’industrie et de la banque</title>, <biblScope type="pp">35 p</biblScope>. </bibl>
-              <bibl>
-                <author>L<hi rend="sc">E</hi> P<hi rend="sc">ERSON</hi> (Xavier)</author>, <title>Histoire de Sébastien Le Pelletier. Prêtre ligueur et maître de grammaire des enfants de chœur de la cathédrale de Chartres pendant les guerres de la Ligue (1579-1592)</title>,
-                <pubPlace>Genève</pubPlace>, <publisher>Droz</publisher>, <date when="2006">2006</date>, <biblScope type="pp">336 p., p. 245 et 290</biblScope>. </bibl>
-              <bibl>
-                <author>V<hi rend="sc">ALOIS</hi> (Noël)</author>, <title>Inventaire des arrêts du conseil d’Etat. Règne de Henri IV</title>, <biblScope type="vol">t. I</biblScope>,
-                <pubPlace>Paris</pubPlace>, <publisher>Imprimerie nationale</publisher>, <date when="1886">1886</date>, part.
-                <biblScope type="pp"> p. 262</biblScope>, <biblScope type="part">n°3964</biblScope> et <biblScope type="pp">p. 340</biblScope>, <biblScope type="part">n<hi rend="sup">°</hi>5145</biblScope>. </bibl>
+              <bibl>CASTELLUCCIO (Stéphane), <title>Le garde-meuble de la couronne et ses intendants du XVI<hi rend="sup">e</hi> au XVIII<hi rend="sup">e</hi> siècle</title>, Paris, éd. CTHS, 2004, 333 p.</bibl>
+              <bibl>HAYEM (Fernand), <title>Un tailleur d’Henri IV. Barthélemy de Laffemas</title>, Paris, Librairie Guillaumin, 1905, extrait de la <title>Revue du commerce, de l’industrie et de la banque</title>, 35 p.</bibl>
+              <bibl>LE PERSON (Xavier), <title>Histoire de Sébastien Le Pelletier. Prêtre ligueur et maître de grammaire des enfants de chœur de la cathédrale de Chartres pendant les guerres de la Ligue (1579-1592)</title>, Genève, Droz, 2006, 336 p., p. 245 et 290.</bibl>
+              <bibl>VALOIS (Noël), <title>Inventaire des arrêts du conseil d’Etat. Règne de Henri IV</title>, t. I, Paris, Imprimerie nationale, 1886, part. p. 262, n°3964 et p. 340, n° 5145.</bibl>
             </listBibl>
           </div>
         </div>

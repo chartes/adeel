@@ -98,13 +98,8 @@
         <div>
           <head>Bibliographie</head>
           <listBibl>
-            <bibl>
-              <author>D<hi rend="sc">URBEC</hi> (Joseph-Antoine)</author>,
-              <title>L’activité des Six Corps</title>, dans <title>Bulletin de la chambre de commerce de Paris</title>,
-              <date when="1954-05">mai 1954</date>, <biblScope type="pp">p. 337-362</biblScope>. </bibl>
-            <bibl>
-              <author>L<hi rend="sc">E</hi> M<hi rend="sc">ARESQUIER</hi>- K<hi rend="sc">ESTELOOT</hi> (Yvonne-Hélène)</author>, <title>Les officiers municipaux de la ville de Paris au XV<hi rend="sup">e</hi> siècle</title>, <pubPlace>Paris</pubPlace>,
-              <publisher>Commission des travaux historiques de la ville de Paris</publisher>, <date when="1997">1997</date>, <biblScope type="pp">431 p</biblScope>. </bibl>
+            <bibl>DURBEC (Joseph-Antoine), <title>L’activité des Six Corps</title>, dans <title>Bulletin de la chambre de commerce de Paris</title>, mai 1954, p. 337-362.</bibl>
+            <bibl>LE MARESQUIER- KESTELOOT (Yvonne-Hélène), <title>Les officiers municipaux de la ville de Paris au XV<hi rend="sup">e</hi> siècle</title>, Paris, Commission des travaux historiques de la ville de Paris, 1997, 431 p.</bibl>
           </listBibl>
         </div>
       </div>

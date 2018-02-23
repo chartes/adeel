@@ -113,10 +113,10 @@
         <div>
           <head>Bibliographie</head>
           <listBibl>
-            <bibl><author>DESCIMON (Robert)</author>, <title>La vénalité des offices comme dette publique sous l’Ancien Régime français. Le bien commun au pays des intérêts privés</title>, <title>La dette publique dans l’histoire</title>, <pubPlace>Paris</pubPlace>, <publisher>Comité pour l’hist. économique et financière de la France</publisher>, <date when="2006">2006</date>, <biblScope type="pp">p. 177-242</biblScope>.</bibl>
-            <bibl><author>HURT (John J.)</author>, <title xml:lang="en">Louis XIV and the <foreign xml:lang="fr">Parlements</foreign>. The Assertion of Royal Authority</title>, <publisher>Manchester UP</publisher>, <pubPlace>Manchester-New York</pubPlace>, <date when="2002">2002</date>. </bibl>
-            <bibl><author>POPOFF (Michel)</author>, <title>Prospographie des gens du parlement de Paris</title>, <pubPlace>Paris</pubPlace>, <publisher>Références</publisher>, <date when="1996">1996</date>, <biblScope type="pp">p. 746</biblScope> <biblScope type="part">notice n°1832</biblScope>. </bibl>
-            <bibl><author>SCHAPIRA (Nicolas)</author>, <title>Un professionnel des lettres au XVII<hi rend="sup">e</hi> siècle. Valentin Conrart : une histoire sociale</title>, <pubPlace>Seyssel</pubPlace>, <publisher>Champ Vallon</publisher>, <date when="2003">2003</date>, <biblScope type="pp">p. 392</biblScope>. </bibl>
+            <bibl>DESCIMON (Robert), <title>La vénalité des offices comme dette publique sous l’Ancien Régime français. Le bien commun au pays des intérêts privés</title>, <title>La dette publique dans l’histoire</title>, Paris, Comité pour l’hist. économique et financière de la France, 2006, p. 177-242.</bibl>
+            <bibl>HURT (John J.), <title>Louis XIV and the Parlements. The Assertion of Royal Authority</title>, Manchester UP, Manchester-New York, 2002.</bibl>
+            <bibl>POPOFF (Michel), <title>Prospographie des gens du parlement de Paris</title>, Paris, Références, 1996, p. 746 notice n°1832.</bibl>
+            <bibl>SCHAPIRA (Nicolas), <title>Un professionnel des lettres au XVII<hi rend="sup">e</hi> siècle. Valentin Conrart : une histoire sociale</title>, Seyssel, Champ Vallon, 2003, p. 392.</bibl>
           </listBibl>
         </div>
       </div>

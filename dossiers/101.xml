@@ -244,14 +244,9 @@
         <div>
           <head>Pour approfondir</head>
           <listBibl>
-            <bibl>
-              <author>Aubert (R.)</author>, « Grégoire de Rimini », dans
-              <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, <biblScope type="vol">22</biblScope>, 1988, col. 28-31 (<hi rend="b">notice avec bibliographie</hi>). </bibl>
-            <bibl>
-              <author>Grassi (O.)</author>, « La questione della teologia come scienza in Gregorio da Rimini », dans <title>Rivista di filosofia neoscolastica</title>, <biblScope type="vol">68</biblScope>, 1976, <biblScope type="pp">p. 610-644</biblScope> (<hi rend="b">sur la question soulevée dans le prologue</hi>). </bibl>
-            <bibl>
-              <editor>Trapp (A. D.) et Marcolino (V.) éd.</editor>,
-              <title>Gregorii Ariminensis OESA lectura super primum et secundum Sententiarum</title>, <biblScope type="vol">t. 1</biblScope>, Berlin – New York, 1981 (<hi rend="b">édition critique du texte et présentation de la tradition manuscrite</hi>). </bibl>
+            <bibl>Aubert (R.), « Grégoire de Rimini », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, 22, 1988, col. 28-31 (<hi rend="b">notice avec bibliographie</hi>).</bibl>
+            <bibl>Grassi (O.), « La questione della teologia come scienza in Gregorio da Rimini », dans <title>Rivista di filosofia neoscolastica</title>, 68, 1976, p. 610-644 (<hi rend="b">sur la question soulevée dans le prologue</hi>).</bibl>
+            <bibl>Trapp (A. D.) et Marcolino (V.) éd., <title>Gregorii Ariminensis OESA lectura super primum et secundum Sententiarum</title>, t. 1, Berlin – New York, 1981 (<hi rend="b">édition critique du texte et présentation de la tradition manuscrite</hi>).</bibl>
           </listBibl>
         </div>
       </div>

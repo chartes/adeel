@@ -83,28 +83,15 @@
         <div>
           <head>Bibliographie complémentaire</head>
           <listBibl>
-            <bibl>
-              <title>Mémoires de Marie Dubois, sieur de Lestourmière et du Poirier, gentilhomme servant du roi, valet de chambre de Louis XIII et de Louis XIV (1647-1676)</title>,
-              <editor>Louis de G<hi rend="sc">RANDMAISON</hi></editor>,
-              <pubPlace>Vendôme</pubPlace>, <publisher>Société archéologique, scientifique et littéraire du Vendômois</publisher>, <date when="1936">1936</date>, <biblScope type="pp">547 p</biblScope>. </bibl>
-            <bibl>
-              <author>B<hi rend="sc">AUTIER</hi> (Robert-Henri)</author>
-              <title>Les notaires et secrétaires du roi des origines au milieu du XVI<hi rend="sup">e</hi> siècle</title>, dans <editor>L<hi rend="sc">APEYRE</hi> (André) et S<hi rend="sc">CHEURER</hi> (Remy)
-              </editor>, <title>Les Notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>,
-              <pubPlace>Paris</pubPlace>, <biblScope>p. IX-XLIV</biblScope>. </bibl>
-            <bibl>
-              <author>D<hi rend="sc">UBOST</hi> (Jean-François)</author>, <title>La France italienne, XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> siècle</title>, <pubPlace>Paris</pubPlace>,
-              <publisher>Aubier, Histoires</publisher>, <date when="1997">1997</date>, <biblScope>524 p</biblScope>. </bibl>
-            <bibl>
-              <author>D<hi rend="sc">URRANDE</hi> (Marguerite)</author>, <title>Aspects du clientélisme monarchique sous François I<hi rend="sup">er</hi> (1515-1547)</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses des élèves de l’École nationale des Chartes</title>, <date when="2006">2006</date>. </bibl>
-            <bibl><author>H<hi rend="sc">AMON</hi> (Philippe)</author>, <title>« Messieurs des finances ». Les grands officiers de finance dans la France de la Renaissance</title>, <pubPlace>Paris</pubPlace>, <publisher>Comité pour l’histoire économique et financière de la France</publisher>, <date when="1999">1999</date>, <biblScope type="pp">506 p</biblScope>. </bibl>
-            <bibl><author>H<hi rend="sc">AMON</hi> (Philippe)</author>, <title>L’argent du roi. Les finances sous François I<hi rend="sup">er</hi></title>, <pubPlace>Paris</pubPlace>,
-              <publisher>Comité pour l’histoire économique et financière de la France</publisher>, <date when="1994">1994</date>, <biblScope type="pp">609 p</biblScope>. </bibl>
-            <bibl><author>L<hi rend="sc">E</hi> C<hi rend="sc">LECH</hi>- C<hi rend="sc">HARTON</hi> (Sylvie)</author>, <title>Les notaires et secrétaires du roi et la commande artistique officielle : service du roi, des grands et de la ville</title>, <title>Bibliothèque de l’École des Chartes</title>, <date when="1988">1988</date>, <biblScope type="vol">t. 146</biblScope>,
-              <biblScope type="pp">p. 307-335</biblScope>. </bibl>
-            <bibl><author>M<hi rend="sc">ICHAUD</hi> (Hélène)</author>, <title>La grande Chancellerie et les écritures royales au XVI<hi rend="sup">e</hi> siècle </title>, <pubPlace>Paris</pubPlace>,
-              <publisher>PUF</publisher>, <date when="1967">1967</date>, (<title>Mémoires et documents publiés par la Société de l’École des Chartes</title>, <biblScope type="vol">17</biblScope>), <biblScope type="pp">420 p</biblScope>. </bibl>
-            <bibl><author>P<hi rend="sc">ICOT</hi> (Émile)</author>, <title>Les Italiens en France au XVI<hi rend="sup">e</hi> siècle</title>, <pubPlace>Bordeaux</pubPlace>, <date when="1918">1918</date>. </bibl>
+            <bibl><title>Mémoires de Marie Dubois, sieur de Lestourmière et du Poirier, gentilhomme servant du roi, valet de chambre de Louis XIII et de Louis XIV (1647-1676)</title>, Louis de GRANDMAISON, Vendôme, Société archéologique, scientifique et littéraire du Vendômois, 1936, 547 p.</bibl>
+            <bibl>BAUTIER (Robert-Henri), <title>Les notaires et secrétaires du roi des origines au milieu du XVI<hi rend="sup">e</hi> siècle</title>, dans LAPEYRE (André) et SCHEURER (Remy), <title>Les Notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>, Paris, p. IX-XLIV.</bibl>
+            <bibl>DUBOST (Jean-François), <title>La France italienne, XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> siècle</title>, Paris, Aubier, Histoires, 1997, 524 p.</bibl>
+            <bibl>DURRANDE (Marguerite), <title>Aspects du clientélisme monarchique sous François I<hi rend="sup">er</hi> (1515-1547)</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses des élèves de l’École nationale des Chartes</title>, 2006.</bibl>
+            <bibl>HAMON (Philippe), <title>« Messieurs des finances ». Les grands officiers de finance dans la France de la Renaissance</title>, Paris, Comité pour l’histoire économique et financière de la France, 1999, 506 p.</bibl>
+            <bibl>HAMON (Philippe), <title>L’argent du roi. Les finances sous François I<hi rend="sup">er</hi></title>, Paris, Comité pour l’histoire économique et financière de la France, 1994, 609 p.</bibl>
+            <bibl>LE CLECH- CHARTON (Sylvie), <title>Les notaires et secrétaires du roi et la commande artistique officielle : service du roi, des grands et de la ville</title>, <title>Bibliothèque de l’École des Chartes</title>, 1988, t. 146, p. 307-335.</bibl>
+            <bibl>MICHAUD (Hélène), <title>La grande Chancellerie et les écritures royales au XVI<hi rend="sup">e</hi> siècle </title>, Paris, PUF, 1967, (<title>Mémoires et documents publiés par la Société de l’École des Chartes</title>, 17), 420 p.</bibl>
+            <bibl>PICOT (Émile), <title>Les Italiens en France au XVI<hi rend="sup">e</hi> siècle</title>, Bordeaux, 1918.</bibl>
           </listBibl> 
         </div>
       </div> 

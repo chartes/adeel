@@ -136,19 +136,9 @@
           <head>Bibliographie</head>
           <div>
             <listBibl>
-              <bibl>
-                <author>F<hi rend="sc">OLLAIN</hi> (Antoine)</author>,
-                <title>Les juridictions subalternes, sièges et ressorts des bailliages et vicomtés en Normandie sous l’Ancien Régime</title>, <title>Annales de Normandie</title>,
-                <date when="1997">1997</date>
-                <biblScope type="vol">(47-3)</biblScope>, <biblScope type="pp">p. 211-226</biblScope>. </bibl>
-              <bibl>
-                <author>D<hi rend="sc">UPONT</hi>-F<hi rend="sc">ERRIER</hi> (Gustave)</author>, <title>Les officiers royaux des bailliages et sénéchaussées et les institutions monarchiques locales en France à la fin du Moyen Âge</title>, <pubPlace>Paris</pubPlace>,
-                <publisher>Bouillon</publisher>, <date when="1902">1902</date>,
-                <biblScope type="pp">1043 p</biblScope>. </bibl>
-              <bibl>
-                <author>D<hi rend="sc">ROUAULT</hi> (Jean)</author>, <title>Les vicomtés en Normandie au XVIII<hi rend="sup">e</hi> siècle</title>, <pubPlace>Caen</pubPlace>,
-                <publisher>Université de Caen, Faculté de droit</publisher>,
-                <date when="1924">1924</date>, <biblScope type="pp">216 p</biblScope>. </bibl>
+              <bibl>FOLLAIN (Antoine), <title>Les juridictions subalternes, sièges et ressorts des bailliages et vicomtés en Normandie sous l’Ancien Régime</title>, <title>Annales de Normandie</title>, 1997 (47-3), p. 211-226.</bibl>
+              <bibl>DUPONT-FERRIER (Gustave), <title>Les officiers royaux des bailliages et sénéchaussées et les institutions monarchiques locales en France à la fin du Moyen Âge</title>, Paris, Bouillon, 1902, 1043 p.</bibl>
+              <bibl>DROUAULT (Jean), <title>Les vicomtés en Normandie au XVIII<hi rend="sup">e</hi> siècle</title>, Caen, Université de Caen, Faculté de droit, 1924, 216 p.</bibl>
             </listBibl>
           </div>
         </div>

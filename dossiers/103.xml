@@ -166,19 +166,12 @@
           <head>Pour approfondir</head>
           <div>
             <listBibl>
-              <bibl>
-                <author>Dondaine (A.)</author>, « Le dominicain français Jean de Mailly et la Légende dorée », dans <title>Archives d’histoire dominicaine</title>, <biblScope type="vol">t. 1</biblScope>, 1946, <biblScope type="pp">p. 53-102</biblScope>. </bibl>
-              <bibl>
-                <author>Id.</author>, <title>Jean de Mailly, O.P., Abrégé des gestes et miracles des saints</title>, 1947 (Bibliothèque d’histoire dominicaine, <biblScope type="vol">1</biblScope>), Paris. </bibl>
-              <bibl>
-                <author>Duval (A.)</author>, « Jean de Mailly », dans
-                <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, <biblScope type="vol">t. 27</biblScope>, 1998-2000, col. 247-248. </bibl>
-              <bibl>
-                <author>Philippart (G.)</author>, <hi rend="i">Les légendiers latins et autres manuscrits hagiographiques</hi>, Turnhout, 1977 (<title>Typologie des sources du Moyen Âge occidental</title>, <biblScope type="vol">24-25</biblScope>). </bibl>
-              <bibl>
-                <author>Saxer (V.)</author>, « Note sur l’origine d’un manuscrit de l’Abbreviatio de Jean de Mailly : Paris, Mazarine 1731 », dans
-                <title>Analecta Bollandiana</title>, <biblScope type="vol">94</biblScope>, 1976, <biblScope type="pp">p. 155-159</biblScope>.
-              </bibl>
+              <bibl>Dondaine (A.), « Le dominicain français Jean de Mailly et la Légende dorée », dans <title>Archives d’histoire dominicaine</title>, t. 1, 1946, p. 53-102.</bibl>
+              <bibl>Id., <title>Jean de Mailly, O.P., Abrégé des gestes et miracles des saints</title>, 1947 (Bibliothèque d’histoire dominicaine, 1), Paris.</bibl>
+              <bibl>Duval (A.), « Jean de Mailly », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, t. 27, 1998-2000, col. 247-248.</bibl>
+              <bibl>Philippart (G.), <hi rend="i">Les légendiers latins et autres manuscrits hagiographiques</hi>, Turnhout, 1977 (<title>Typologie des sources du Moyen Âge occidental</title>, 24-25).</bibl>
+              <bibl>Saxer (V.), « Note sur l’origine d’un manuscrit de l’Abbreviatio de Jean de Mailly : Paris, Mazarine 1731 », dans <title>Analecta Bollandiana</title>, 94, 1976, p. 155-159.
+             </bibl>
             </listBibl>
           </div>
         </div>
