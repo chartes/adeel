@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import copy
 from xml.etree.ElementTree import tostring
 import re
 import os
@@ -65,7 +66,7 @@ def stringify_children(node):
             chain(*((tounicode(child, with_tail=False), child.tail) for child in node.getchildren())),
             (node.tail,)) if chunk)
     s = s.replace(' xmlns="http://www.tei-c.org/ns/1.0"', '')
-    return re.sub('\s+', ' ', s)
+    return re.sub('\s+', ' ', s).rstrip()
 
 p = re.compile("<[^>]+>((.|\s)*)<\/[^>]+>")
 def get_tag_xml_content(node):
@@ -85,7 +86,7 @@ def get_text_format(div):
 
 def extract_terms(e):
     global note_id
-    #e = rootify(e)
+
     terms = []
     hasTerms = False
     for term in e.xpath("//ti:term", namespaces=NS_TI):
@@ -155,7 +156,7 @@ def insert_transcription(dossier):
         stmts = [
             get_insert_stmt("transcription",
                             "transcription_id,doc_id,user_ref,content",
-                            "{0}01,{1},'{2}','{3}'".format(dossier["id"], dossier["id"],USERNAME,content)
+                            "{0},{1},'{2}','{3}'".format(dossier["id"], dossier["id"],USERNAME,content)
                             )
         ]
     return stmts
@@ -167,7 +168,7 @@ def insert_translation(dossier):
         stmts = [
             get_insert_stmt("translation",
                             "translation_id,doc_id,user_ref,content",
-                            "{0}01,{1},'{2}','{3}'".format(dossier["id"], dossier["id"],USERNAME,content)
+                            "{0},{1},'{2}','{3}'".format(dossier["id"], dossier["id"],USERNAME,content)
                             )
         ]
     return stmts
@@ -295,21 +296,12 @@ for f in filenames:
     transcriptions = doc.xpath(XPATH_TI_TRANSCRIPTION, namespaces=NS_TI)
     if len(transcriptions) > 0:
         tf =  get_text_format(transcriptions[0])
-        #print(f, "verses: {0}, head: {1}, p:{2}".format(len(tf["verses"]), len(tf["head"]), len(tf["p"])))
-
         if tf["has_verses"]: cnt_trancription_has_verses += 1
         if tf["has_head"]:  cnt_trancription_has_head += 1
         if tf["has_p"]:  cnt_trancription_has_p += 1
-
-        #creation d'une note preliminaire à la transcription
-        #for h in tf["head"]:
-        #    dossiers[f]["notes"].append({
-        #        "content": clean_entities(get_tag_xml_content(h)), "ptr_start":None, "ptr_end":None
-        #    })
-
-        #transcription
+        ##transcription
         for i, v in enumerate(tf["verses"]):
-            extract = extract_terms(v)
+            extract = extract_terms(copy.deepcopy(v))
             #extracted_verse = get_tag_xml_content(v)
             if len(extract) == 2:
                 verse, terms = extract
@@ -325,21 +317,12 @@ for f in filenames:
     translations = doc.xpath(XPATH_TI_TRANSLATION, namespaces=NS_TI)
     if len(translations) > 0:
         tf = get_text_format(translations[0])
-        # print(f, "verses: {0}, head: {1}, p:{2}".format(len(tf["verses"]), len(tf["head"]), len(tf["p"])))
-
         if tf["has_verses"]: cnt_translation_has_verses += 1
         if tf["has_head"]: cnt_translation_has_head += 1
         if tf["has_p"]: cnt_translation_has_p += 1
-
-        # creation d'une note preliminaire à la transcription
-        #for h in tf["head"]:
-        #    dossiers[f]["notes"].append({
-        #        "content": clean_entities(get_tag_xml_content(h)), "ptr_start": None, "ptr_end": None
-        #    })
-
         #translation
         for i, v in enumerate(tf["verses"]):
-            extract = extract_terms(v)
+            extract = extract_terms(copy.deepcopy(v))
             #extracted_verse = get_tag_xml_content(v)
             if len(extract) == 2:
                 verse, terms = extract
