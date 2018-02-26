@@ -99,13 +99,13 @@
           <seg ana="salut">salut.<note type="speech">Salut</note></seg>
           <seg ana="notification">Savoir faisons que<note type="speech">Notification</note></seg>
           <seg ana="date">au jour d’uy, quinzieme jour de novembre l’an mil IIIICC IIIIXX et sept,<note type="speech">Date initiale</note></seg>
-          <seg ana="vidisuscription">« Willermus comes Pontuvii,<note type="speech">Début de l’acte vidimé Suscription</note></seg>
-          <seg ana="vidiadresse">servientibus et forestariis suis de Almenechis,<note type="speech">Adresse collective</note></seg>
+          <seg ana="suscription">« Willermus comes Pontuvii,<note type="speech">Début de l’acte vidimé Suscription</note></seg>
+          <seg ana="adresse">servientibus et forestariis suis de Almenechis,<note type="speech">Adresse collective</note></seg>
           <seg ana="vidisalut">Salut<note type="speech">Salut</note></seg>
-          <seg ana="vidinotification">Scitote quia<note type="speech">Notification</note></seg>
-          <seg ana="vidiexpose">concessi canonicis Sancte Barbare locum de Salta Cocheria pro amore Dei et salute anime mee et antecessorum meorum et filiorum, et herbagium et pasnagium et omnem consuetudinem solutam et liberam.<note type="speech">Exposé</note></seg>
-          <seg ana="vididispo">Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.<note type="speech">Dispositif</note></seg>
-          <seg ana="vididate">Apud Almeneschas.<note type="speech">Date de lieu</note></seg>
+          <seg ana="notification">Scitote quia<note type="speech">Notification</note></seg>
+          <seg ana="expose">concessi canonicis Sancte Barbare locum de Salta Cocheria pro amore Dei et salute anime mee et antecessorum meorum et filiorum, et herbagium et pasnagium et omnem consuetudinem solutam et liberam.<note type="speech">Exposé</note></seg>
+          <seg ana="dispositif">Quare mando et precipio vobis quatenus res eorumdem canonicorum sicut meas custodiatis et manuteneatis, ne ullam inde querellam audiam.<note type="speech">Dispositif</note></seg>
+          <seg ana="date">Apud Almeneschas.<note type="speech">Date de lieu</note></seg>
           <seg ana="viditemoin">Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.<note type="speech">Liste de témoins</note></seg>
           <seg ana="vidisalut">Valete. »<note type="speech">Salut final</note></seg>
           <seg ana="clause_corroboration">En tesmoing de ce, nous, a la relacion desdits tabellions, avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.<note type="speech">Retour au vidimus : corroboration (allusion non expliquée à plusieurs sceaux concurrents)</note></seg>
