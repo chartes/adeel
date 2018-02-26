@@ -1,62 +1,41 @@
-# TODO (in `body`)
-* 5070 l
-* 4848 seg
-* 2058 hi
-* 1662 lb
-* 1626 term
-* 15743 ex
-* 1353 p
-*  975 div
-*  525 head
-*  504 note
-*  186 item
-*  162 add
-*  114 title
-*   <strike>95 biblScope</strike>
-*   89 bibl
-*   <strike>80 author</strike>
-*   78 figure
-*   69 foreign
-*   <strike>53 date</strike>
-*   51 list
-*   <strike>42 pubPlace</strike>
-*   <strike>39 em</strike>
-*   <strike>36 publisher</strike>
-*   34 figDesc
-*   <strike>26 strong</strike>
-*   24 listBibl
-*   <strike>21 sup</strike>
-*   <strike>17 label</strike>
-*    <strike>9 xref</strike>
-*    <strike>8 span</strike>
-*    <strike>7 lg</strike>
-*    <strike>7 i</strike>
-*    <strike>7 editor</strike>
-*    <strike>6 li</strike>
-*    5 cb
-*    <strike>4 biblScop</strike>
-*    <strike>3 space</strike>
-*    <strike>3 series</strike>
-*    <strike>3 q</strike>
-*    2 del
-*    <strike>2 br</strike>
-*    <strike>1 u</strike>
-*    1 quote
-*    <strike>1 graphic</strike>
-*    <strike>1 edition</strike>
-*    <strike>1 blockquote</strike>
-*    <strike>1 a</strike>
-* <strike>commentaires</strike>
+# `tei:text/tei:body`
+1. `l` (5082)
+* `seg` (4818)
+* `hi` (2138)
+  * `[@rend="i"]` (italique, 900)
+  * `[@rend="b"]` (gras, 456)
+  * `[@rend="sup"]` (exposant, 431)
+  * `[@rend="sc"]` (petites caps, 214)
+  * `[@rend="u"]` (sous-ligné, 99)
+  * `[@rend="color"]` (couleur, 55)
+* `lb` (1645)
+* `term` (1624)
+* `ex` (15739)
+* `p` (1326)
+*  `div` (972)
+*  `head` (519)
+*  `note` (503)
+*  `item` (288)
+*  `add` (161)
+*  `title` (114)
+*   `list` (79)
+*   `figDesc` (36)
+*   `figure` (34)
+*    `quote` (5)
+*    `cb` (4)
+*    `del` (2)
+*    `ref` (1)
 
 # entités
-Penser à transformer `&quot;` au chargement en base.
-
-On conserve
+On conserve :
 * `&amp;`
 * `&gt;`
 * `&lt;`
 
-# structure `body`
+**NB.** Penser à transformer `&quot;` au chargement en base.
+
+
+# TOC `tei:body`
 
 ```txt
 div[@type="facsimile"]
@@ -72,31 +51,53 @@ div[@type="facsimile"]
 ```
 TODO: revoir la normalisation div diplomatique / commentaire
 
-## Commentaires
 
+# Markup
 
-**enrichissement typographique**
-* italique (`tei:hi[@rend="i"]` => `html:i` | `html:em` AND `html:cite` ?)
-* gras (`tei:hi[@rend="b"]` => `html:b` | `html:strong`)
-* sous-ligné (`tei:hi[@rend="u"]` => `html:u` – déprécié, on remplace par quoi ?)
-* exposant (`tei:hi[@rend="sup"]` => `html:sup`)
-* petites caps (`tei:hi[@rend="sc"]` => `html:span[@class="sc"]`)
+**enrichissement typographique : `hi`**
 
-**enrichissements sémantiques**
-* citations inline (`«`,`»`) (`tei:quote`=> `html:q`)
-* [mention bibliographique, titre](http://html5doctor.com/blockquote-q-cite/) (`tei:title/@ref` => `html:cite/html:a`)
-* entités nommées
-  * personne (`tei:persName/@ref` => )
-  * lieu (`tei:placeName/@ref` => )
-* des liens (`tei:ref[@target]` => `html:a[@href]`)
+|enrichissement|`TEI`|`HTML5`|
+|---|---|---|
+|italique|`hi[@rend="i"]`|`i`|
+|gras|`hi[@rend="b"]`|`strong`|
+|exposant|`hi[@rend="sup"]`|`sup`|
+|petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|
+|sous-ligné|`hi[@rend="u"]`|`u`|
+|couleur|`hi[@style="$color"]`|?|
 
 **structure éditoriale**
-* titres hiérarchiques (`tei:head` => `html:h1`, `html:h2`, `html:h3`…)
-* blocs citation (`tei:quote` => `html:blockquote`)
+
+|enrichissement|`TEI`|`HTML5`|
+|---|---|---|
+|division|`div`|`section`|
+|paragraphe|`p`|`p`|
+|liste|`list`|`ul`|
+|item de liste|`item`|`li`|
+|vers|`l`|`div[@class="l"]`|
+|titre hiérarchique|`head`|`h2`, `h3`, `h4`…|
+|saut de ligne|`lb`|`br`|
+|saut de colonne|`cb`|?|
+|note (point, segment)|`note`|`aside[class="note"]`|
 
 **transcription**
-* développement abréviation (`tei:ex` => `html:span[@class="ex"] | tei:ins` ?)
-* texte supprimé (`tei:del` => `html:del`)
+
+|enrichissement|`TEI`|`HTML5`|
+|---|---|---|
+|développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|
+|texte supprimé|`del`|`del`|
+
+**enrichissements sémantiques**
+
+|enrichissement|`TEI`|`HTML5`|
+|---|---|---|
+|liens|`ref[@target]`|`a[@href]`|
+|citations **inline**|`quote`|`q`|
+|citation **bloc**|`quote`|`blockquote`|
+|[mention bibliographique, titre](http://html5doctor.com/blockquote-q-cite/)|`title/@ref`|`cite/a`|
+|personne|`persName/@ref`|`a[@class="persName"]/@href`|
+|lieu|`placeName/@ref`|`a[@class="placeName"]/@href`|
+
+
 
 
 # partie du discours, typologie
