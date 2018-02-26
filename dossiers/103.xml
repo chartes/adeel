@@ -160,14 +160,13 @@
         <div>
           <head>Pour approfondir</head>
           <div>
-            <listBibl>
-              <bibl>Dondaine (A.), « Le dominicain français Jean de Mailly et la Légende dorée », dans <title>Archives d’histoire dominicaine</title>, t. 1, 1946, p. 53-102.</bibl>
-              <bibl>Id., <title>Jean de Mailly, O.P., Abrégé des gestes et miracles des saints</title>, 1947 (Bibliothèque d’histoire dominicaine, 1), Paris.</bibl>
-              <bibl>Duval (A.), « Jean de Mailly », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, t. 27, 1998-2000, col. 247-248.</bibl>
-              <bibl>Philippart (G.), <hi rend="i">Les légendiers latins et autres manuscrits hagiographiques</hi>, Turnhout, 1977 (<title>Typologie des sources du Moyen Âge occidental</title>, 24-25).</bibl>
-              <bibl>Saxer (V.), « Note sur l’origine d’un manuscrit de l’Abbreviatio de Jean de Mailly : Paris, Mazarine 1731 », dans <title>Analecta Bollandiana</title>, 94, 1976, p. 155-159.
-              </bibl>
-            </listBibl>
+            <list>
+              <item>Dondaine (A.), « Le dominicain français Jean de Mailly et la Légende dorée », dans <title>Archives d’histoire dominicaine</title>, t. 1, 1946, p. 53-102.</item>
+              <item>Id., <title>Jean de Mailly, O.P., Abrégé des gestes et miracles des saints</title>, 1947 (Bibliothèque d’histoire dominicaine, 1), Paris.</item>
+              <item>Duval (A.), « Jean de Mailly », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, t. 27, 1998-2000, col. 247-248.</item>
+              <item>Philippart (G.), <hi rend="i">Les légendiers latins et autres manuscrits hagiographiques</hi>, Turnhout, 1977 (<title>Typologie des sources du Moyen Âge occidental</title>, 24-25).</item>
+              <item>Saxer (V.), « Note sur l’origine d’un manuscrit de l’Abbreviatio de Jean de Mailly : Paris, Mazarine 1731 », dans <title>Analecta Bollandiana</title>, 94, 1976, p. 155-159.</item>
+            </list>
           </div>
         </div>
       </div>

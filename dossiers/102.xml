@@ -186,11 +186,11 @@
         </div>
         <div>
           <head>Pour approfondir</head>
-          <listBibl>
-            <bibl>Delhaye (P.), « Les sermons de Godefroy de Saint-Victor, leur tradition manuscrite », dans <title>Recherches de théologie ancienne et médiévale</title>, t. 21, 1954, p. 194-210.</bibl>
-            <bibl>Gasparri (F.), « Observations paléographiques sur deux manuscrits partiellement autographes de Godefroid de Saint-Victor », dans <title>Scriptorium</title>, t. 36, 1982, p. 43-50.</bibl>
-            <bibl>Ouy (G.), « Manuscrits entièrement ou partiellement autographes de Godefroid de Saint-Victor », dans <title>Scriptorium</title>, t. 36, 1982, p. 29-42.</bibl>
-          </listBibl>
+          <list>
+            <item>Delhaye (P.), « Les sermons de Godefroy de Saint-Victor, leur tradition manuscrite », dans <title>Recherches de théologie ancienne et médiévale</title>, t. 21, 1954, p. 194-210.</item>
+            <item>Gasparri (F.), « Observations paléographiques sur deux manuscrits partiellement autographes de Godefroid de Saint-Victor », dans <title>Scriptorium</title>, t. 36, 1982, p. 43-50.</item>
+            <item>Ouy (G.), « Manuscrits entièrement ou partiellement autographes de Godefroid de Saint-Victor », dans <title>Scriptorium</title>, t. 36, 1982, p. 29-42.</item>
+          </list>
         </div>
       </div>
     </body>

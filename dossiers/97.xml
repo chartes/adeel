@@ -106,9 +106,9 @@
         </div>
         <div>
           <head>Pour approfondir</head>
-          <listBibl>
-            <bibl>MAÎTRE (C.), <title>Graduel de l’abbaye royale de Saint-Denis, début du XI<hi rend="sup">e</hi> siècle. Paris, Bibliothèque Mazarine, ms. 384</title>, Paris, 2005 (<title>Manuscrits notés</title>, III).</bibl>
-          </listBibl>
+          <list>
+            <item>MAÎTRE (C.), <title>Graduel de l’abbaye royale de Saint-Denis, début du XI<hi rend="sup">e</hi> siècle. Paris, Bibliothèque Mazarine, ms. 384</title>, Paris, 2005 (<title>Manuscrits notés</title>, III).</item>
+          </list>
         </div>
       </div>
     </body>

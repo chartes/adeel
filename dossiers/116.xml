@@ -132,15 +132,15 @@
         </div>
         <div>
           <head>Bibliographie complémentaire</head>
-          <listBibl>
-            <bibl>AUBERT (Félix), <title>Recherches sur l’organisation du parlement de Paris au XVI<hi rend="sup">e</hi> siècle (1515-1589)</title>, Paris, Sirey, 1912.</bibl>
-            <bibl>LAPEYRE (André) et SCHEURER (Remy), <title>Les notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>, Paris, Bibl. nat. de France, 1978.</bibl>
-            <bibl>LAURAIN[-PORTEMER] (Madeleine) , <title>Les Grands Jours du parlement de Paris de l’avènement de François Ier à la mort d’Henri II</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses (…)</title>, Paris, 1940, p. 71-79.</bibl>
-            <bibl>LE LABOUREUR (Claude), <title>Les masures de l’Ile-Barbe</title>, Marie-Claude Guigue et Georges Guige, Lyon, Vitte et Perrussel, 1887.</bibl>
-            <bibl>LIGNEREUX (Yann), <title>Lyon et le roi. De la « bonne ville » à l’absolutisme municipal (1594-1654)</title>, Seyssel, Champ Vallon, 2003, p. 92-113.</bibl>
-            <bibl>RIVERIEUX DE VARAX (vicomte Paul de), <title>Généalogie de la maison de Sainte-Colombe</title>, Lyon, Imprimerie générale, 1881, p. 156-157.</bibl>
-            <bibl>VIGNON (Joseph), <title>Valorges. Petit fief sans justice</title>, Sain-Just la Pendue, imp. Chirat, 1977, p. 23-25.</bibl>
-          </listBibl>
+          <list>
+            <item>AUBERT (Félix), <title>Recherches sur l’organisation du parlement de Paris au XVI<hi rend="sup">e</hi> siècle (1515-1589)</title>, Paris, Sirey, 1912.</item>
+            <item>LAPEYRE (André) et SCHEURER (Remy), <title>Les notaires et secrétaires du roi sous les règnes de Louis XI, Charles VII et Louis XII (1461-1515)</title>, Paris, Bibl. nat. de France, 1978.</item>
+            <item>LAURAIN[-PORTEMER] (Madeleine) , <title>Les Grands Jours du parlement de Paris de l’avènement de François Ier à la mort d’Henri II</title>, thèse inédite de l’École nationale des Chartes, résumée dans <title>Positions des thèses (…)</title>, Paris, 1940, p. 71-79.</item>
+            <item>LE LABOUREUR (Claude), <title>Les masures de l’Ile-Barbe</title>, Marie-Claude Guigue et Georges Guige, Lyon, Vitte et Perrussel, 1887.</item>
+            <item>LIGNEREUX (Yann), <title>Lyon et le roi. De la « bonne ville » à l’absolutisme municipal (1594-1654)</title>, Seyssel, Champ Vallon, 2003, p. 92-113.</item>
+            <item>RIVERIEUX DE VARAX (vicomte Paul de), <title>Généalogie de la maison de Sainte-Colombe</title>, Lyon, Imprimerie générale, 1881, p. 156-157.</item>
+            <item>VIGNON (Joseph), <title>Valorges. Petit fief sans justice</title>, Sain-Just la Pendue, imp. Chirat, 1977, p. 23-25.</item>
+          </list>
         </div>
       </div>
       <div type="history">

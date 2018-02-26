@@ -238,11 +238,11 @@
         </div>
         <div>
           <head>Pour approfondir</head>
-          <listBibl>
-            <bibl>Aubert (R.), « Grégoire de Rimini », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, 22, 1988, col. 28-31 (<hi rend="b">notice avec bibliographie</hi>).</bibl>
-            <bibl>Grassi (O.), « La questione della teologia come scienza in Gregorio da Rimini », dans <title>Rivista di filosofia neoscolastica</title>, 68, 1976, p. 610-644 (<hi rend="b">sur la question soulevée dans le prologue</hi>).</bibl>
-            <bibl>Trapp (A. D.) et Marcolino (V.) éd., <title>Gregorii Ariminensis OESA lectura super primum et secundum Sententiarum</title>, t. 1, Berlin – New York, 1981 (<hi rend="b">édition critique du texte et présentation de la tradition manuscrite</hi>).</bibl>
-          </listBibl>
+          <list>
+            <item>Aubert (R.), « Grégoire de Rimini », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, 22, 1988, col. 28-31 (<hi rend="b">notice avec bibliographie</hi>).</item>
+            <item>Grassi (O.), « La questione della teologia come scienza in Gregorio da Rimini », dans <title>Rivista di filosofia neoscolastica</title>, 68, 1976, p. 610-644 (<hi rend="b">sur la question soulevée dans le prologue</hi>).</item>
+            <item>Trapp (A. D.) et Marcolino (V.) éd., <title>Gregorii Ariminensis OESA lectura super primum et secundum Sententiarum</title>, t. 1, Berlin – New York, 1981 (<hi rend="b">édition critique du texte et présentation de la tradition manuscrite</hi>).</item>
+          </list>
         </div>
       </div>
     </body>

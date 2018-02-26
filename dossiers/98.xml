@@ -176,11 +176,11 @@
         </div>
         <div>
           <head>Pour approfondir</head>
-          <listBibl>
-            <bibl>CAPPUYNS (M.), « Cassiodore », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, t. 9, 1939, col. 1349-1408 (<hi rend="b">présentation générale complète</hi>).</bibl>
-            <bibl><title>Cassiodori Senatoris Institutiones</title>, éd. R. A. B. Mynors, Oxford, 1937 (<hi rend="b">édition critique</hi>).</bibl>
-            <bibl>Lehmann (P.), <title>Erforschung des Mittelalters</title>, t. II, Stuttgart, 1959 (<hi rend="b">sur les Institutions et leur influence au Moyen Âge</hi>).</bibl>
-          </listBibl>
+          <list>
+            <item>CAPPUYNS (M.), « Cassiodore », dans <title>Dictionnaire d’histoire et de géographie ecclésiastiques</title>, t. 9, 1939, col. 1349-1408 (<hi rend="b">présentation générale complète</hi>).</item>
+            <item><title>Cassiodori Senatoris Institutiones</title>, éd. R. A. B. Mynors, Oxford, 1937 (<hi rend="b">édition critique</hi>).</item>
+            <item>Lehmann (P.), <title>Erforschung des Mittelalters</title>, t. II, Stuttgart, 1959 (<hi rend="b">sur les Institutions et leur influence au Moyen Âge</hi>).</item>
+          </list>
         </div>
       </div>
     </body>

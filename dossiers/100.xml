@@ -309,10 +309,10 @@
         </div>
         <div>
           <head>Pour approfondir</head>
-          <listBibl>
-            <bibl>Lemoine (M.) introd., trad. et notes, <title>Hugues de Saint-Victor l’art de lire – Didascalicon</title>, Paris, 1991.</bibl>
-            <bibl>Poirel (D.), <title>Hugues de Saint-Victor</title>, Paris, 1998.</bibl>
-          </listBibl>
+          <list>
+            <item>Lemoine (M.) introd., trad. et notes, <title>Hugues de Saint-Victor l’art de lire – Didascalicon</title>, Paris, 1991.</item>
+            <item>Poirel (D.), <title>Hugues de Saint-Victor</title>, Paris, 1998.</item>
+          </list>
         </div>
       </div>
     </body>

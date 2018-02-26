@@ -103,12 +103,12 @@
         <div>
           <head>Bibliographie</head>
           <div>
-            <listBibl>
-              <bibl>CASTELLUCCIO (Stéphane), <title>Le garde-meuble de la couronne et ses intendants du XVI<hi rend="sup">e</hi> au XVIII<hi rend="sup">e</hi> siècle</title>, Paris, éd. CTHS, 2004, 333 p.</bibl>
-              <bibl>HAYEM (Fernand), <title>Un tailleur d’Henri IV. Barthélemy de Laffemas</title>, Paris, Librairie Guillaumin, 1905, extrait de la <title>Revue du commerce, de l’industrie et de la banque</title>, 35 p.</bibl>
-              <bibl>LE PERSON (Xavier), <title>Histoire de Sébastien Le Pelletier. Prêtre ligueur et maître de grammaire des enfants de chœur de la cathédrale de Chartres pendant les guerres de la Ligue (1579-1592)</title>, Genève, Droz, 2006, 336 p., p. 245 et 290.</bibl>
-              <bibl>VALOIS (Noël), <title>Inventaire des arrêts du conseil d’Etat. Règne de Henri IV</title>, t. I, Paris, Imprimerie nationale, 1886, part. p. 262, n°3964 et p. 340, n° 5145.</bibl>
-            </listBibl>
+            <list>
+              <item>CASTELLUCCIO (Stéphane), <title>Le garde-meuble de la couronne et ses intendants du XVI<hi rend="sup">e</hi> au XVIII<hi rend="sup">e</hi> siècle</title>, Paris, éd. CTHS, 2004, 333 p.</item>
+              <item>HAYEM (Fernand), <title>Un tailleur d’Henri IV. Barthélemy de Laffemas</title>, Paris, Librairie Guillaumin, 1905, extrait de la <title>Revue du commerce, de l’industrie et de la banque</title>, 35 p.</item>
+              <item>LE PERSON (Xavier), <title>Histoire de Sébastien Le Pelletier. Prêtre ligueur et maître de grammaire des enfants de chœur de la cathédrale de Chartres pendant les guerres de la Ligue (1579-1592)</title>, Genève, Droz, 2006, 336 p., p. 245 et 290.</item>
+              <item>VALOIS (Noël), <title>Inventaire des arrêts du conseil d’Etat. Règne de Henri IV</title>, t. I, Paris, Imprimerie nationale, 1886, part. p. 262, n°3964 et p. 340, n° 5145.</item>
+            </list>
           </div>
         </div>
       </div>

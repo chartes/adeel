@@ -111,12 +111,12 @@
         </div>
         <div>
           <head>Bibliographie</head>
-          <listBibl>
-            <bibl>DESCIMON (Robert), <title>La vénalité des offices comme dette publique sous l’Ancien Régime français. Le bien commun au pays des intérêts privés</title>, <title>La dette publique dans l’histoire</title>, Paris, Comité pour l’hist. économique et financière de la France, 2006, p. 177-242.</bibl>
-            <bibl>HURT (John J.), <title>Louis XIV and the Parlements. The Assertion of Royal Authority</title>, Manchester UP, Manchester-New York, 2002.</bibl>
-            <bibl>POPOFF (Michel), <title>Prospographie des gens du parlement de Paris</title>, Paris, Références, 1996, p. 746 notice n°1832.</bibl>
-            <bibl>SCHAPIRA (Nicolas), <title>Un professionnel des lettres au XVII<hi rend="sup">e</hi> siècle. Valentin Conrart : une histoire sociale</title>, Seyssel, Champ Vallon, 2003, p. 392.</bibl>
-          </listBibl>
+          <list>
+            <item>DESCIMON (Robert), <title>La vénalité des offices comme dette publique sous l’Ancien Régime français. Le bien commun au pays des intérêts privés</title>, <title>La dette publique dans l’histoire</title>, Paris, Comité pour l’hist. économique et financière de la France, 2006, p. 177-242.</item>
+            <item>HURT (John J.), <title>Louis XIV and the Parlements. The Assertion of Royal Authority</title>, Manchester UP, Manchester-New York, 2002.</item>
+            <item>POPOFF (Michel), <title>Prospographie des gens du parlement de Paris</title>, Paris, Références, 1996, p. 746 notice n°1832.</item>
+            <item>SCHAPIRA (Nicolas), <title>Un professionnel des lettres au XVII<hi rend="sup">e</hi> siècle. Valentin Conrart : une histoire sociale</title>, Seyssel, Champ Vallon, 2003, p. 392.</item>
+          </list>
         </div>
       </div>
       <div type="history">

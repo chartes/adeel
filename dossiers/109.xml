@@ -210,12 +210,12 @@
         </div>
         <div>
           <head>Bibliographie</head>
-          <listBibl>
-            <bibl>COLIN (Cécile), <title>Pratiques et réalités d’un quartier de police dans le première moitié du XVIII<hi rend="sup">e</hi> siècle : l’espace Saint-Eustache et le commissaire Pierre Regnard le jeune (1712-1751)</title>, dans <title>Cahiers du Crepif</title>, 1992, t. 28, p. 119-130.</bibl>
-            <bibl>KAPLAN (Steven L.), <title>Note sur les commissaires de police de Paris au XVIII<hi rend="sup">e</hi> siècle</title>, dans <title>Revue d’histoire moderne et contemporaine</title>, 1981, t. XXVIII-1, p. 669-686.</bibl>
-            <bibl>DESCIMON (Robert), <title>Les auxiliaires de justice du Châtelet de Paris : aperçus sur l’économie du monde des offices ministériels (XVI<hi rend="sup">e</hi>-XVIII<hi rend="sup">e</hi> siècles) </title>, dans <title>Entre Justice et justiciables. Les auxiliaires de la justice du Moyen Age au XX<hi rend="sup">e</hi> siècle</title>, Claire DOLAN, Sainte-Foy (Québec), Presses univ. de Laval, 2005, p. 301-325.</bibl>
-            <bibl>EL GHOUL (Fayçal), <title>La police parisienne dans la seconde moitié du XVIII<hi rend="sup">e</hi> siècle (1760-1785)</title>, Tunis, Université de Tunis, Faculté des sciences humaines et sociales, 1995, 2 vol., t. I, p. 285-297.</bibl>
-          </listBibl>
+          <list>
+            <item>COLIN (Cécile), <title>Pratiques et réalités d’un quartier de police dans le première moitié du XVIII<hi rend="sup">e</hi> siècle : l’espace Saint-Eustache et le commissaire Pierre Regnard le jeune (1712-1751)</title>, dans <title>Cahiers du Crepif</title>, 1992, t. 28, p. 119-130.</item>
+            <item>KAPLAN (Steven L.), <title>Note sur les commissaires de police de Paris au XVIII<hi rend="sup">e</hi> siècle</title>, dans <title>Revue d’histoire moderne et contemporaine</title>, 1981, t. XXVIII-1, p. 669-686.</item>
+            <item>DESCIMON (Robert), <title>Les auxiliaires de justice du Châtelet de Paris : aperçus sur l’économie du monde des offices ministériels (XVI<hi rend="sup">e</hi>-XVIII<hi rend="sup">e</hi> siècles) </title>, dans <title>Entre Justice et justiciables. Les auxiliaires de la justice du Moyen Age au XX<hi rend="sup">e</hi> siècle</title>, Claire DOLAN, Sainte-Foy (Québec), Presses univ. de Laval, 2005, p. 301-325.</item>
+            <item>EL GHOUL (Fayçal), <title>La police parisienne dans la seconde moitié du XVIII<hi rend="sup">e</hi> siècle (1760-1785)</title>, Tunis, Université de Tunis, Faculté des sciences humaines et sociales, 1995, 2 vol., t. I, p. 285-297.</item>
+          </list>
         </div>
       </div>
       <div type="history">

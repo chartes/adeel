@@ -166,13 +166,13 @@
         </div>
         <div>
           <head>Bibliographie complémentaire</head>
-          <listBibl>
-            <bibl>DA VINHA (Mathieu), <title>Les valets des chambre de Louis XIV</title>, Paris, Perrin, 2004, 520 p.</bibl>
-            <bibl>LAVERNY (Sophie de), <title>Les domestiques commensaux des rois de France au XVII<hi rend="sup">e</hi> siècle</title>, Paris, Presses de l’Université Paris-Sorbonne, 2002, 557 p.</bibl>
-            <bibl>MAROTAUX (Vincent), <title>Une curiosité institutionnelle : l’administration du domaine de Versailles sous l’Ancien Régime</title>, dans <title>Bibliothèque de l’École des chartes</title>, t. 143, 1985, p. 275-312.</bibl>
-            <bibl>NEWTON (William Ritchey), <title>L’espace du roi. Le cour de France au château de Versailles, 1682-1789</title>, Paris, Fayard, 2000, 588 p.</bibl>
-            <bibl>NEWTON (William Ritchey), <title>La Petite cour. Service et serviteurs à la cour de Versailles au XVIII<hi rend="sup">e</hi> siècle</title>, Paris, Fayard, 2006, 662 p.</bibl>
-          </listBibl>
+          <list>
+            <item>DA VINHA (Mathieu), <title>Les valets des chambre de Louis XIV</title>, Paris, Perrin, 2004, 520 p.</item>
+            <item>LAVERNY (Sophie de), <title>Les domestiques commensaux des rois de France au XVII<hi rend="sup">e</hi> siècle</title>, Paris, Presses de l’Université Paris-Sorbonne, 2002, 557 p.</item>
+            <item>MAROTAUX (Vincent), <title>Une curiosité institutionnelle : l’administration du domaine de Versailles sous l’Ancien Régime</title>, dans <title>Bibliothèque de l’École des chartes</title>, t. 143, 1985, p. 275-312.</item>
+            <item>NEWTON (William Ritchey), <title>L’espace du roi. Le cour de France au château de Versailles, 1682-1789</title>, Paris, Fayard, 2000, 588 p.</item>
+            <item>NEWTON (William Ritchey), <title>La Petite cour. Service et serviteurs à la cour de Versailles au XVIII<hi rend="sup">e</hi> siècle</title>, Paris, Fayard, 2006, 662 p.</item>
+          </list>
         </div>
       </div>
       <div type="history">

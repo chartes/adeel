@@ -127,13 +127,13 @@
         <div>
           <head>Bibliographie</head>
           <div>
-            <listBibl>
-              <bibl>COUSIN (Mathieu), <title>« Les conférences historiques des conseillers de ville au XVIIIe siècle »</title>, <title>Bulletin de la Fédération des sociétés historiques de Paris</title>, 1883 12, p.170-176.</bibl>
-              <bibl>CROQ (Laurence),<title>« La municipalité parisienne à l’épreuve des absolutismes : démantèlement d’une structure politique et création d’une administration (1660-1789) »</title>, <title>Le prince, la ville et le bourgeois (xive-xviiie siècles)</title>, Laurence Croq éd., Paris, Nolin, 2004, p. 175-201.</bibl>
-              <bibl>FRANKLIN (Alfred), <title> Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc...</title>, Paris, Imprimerie nationale, t. III, 1873, p. 181-300.</bibl>
-              <bibl>JUNGES (Catherine), <title>Les échevins parisiens au xviiie siècle</title>, <title> thèse inédite de l’École des chartes</title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>, 1996, p. 163-170.</bibl>
-              <bibl>SURIREY DE SAINT-REMY (Henry de), <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, 1969, (14-2), p. 47-62.</bibl>
-            </listBibl>
+            <list>
+              <item>COUSIN (Mathieu), <title>« Les conférences historiques des conseillers de ville au XVIIIe siècle »</title>, <title>Bulletin de la Fédération des sociétés historiques de Paris</title>, 1883 12, p.170-176.</item>
+              <item>CROQ (Laurence),<title>« La municipalité parisienne à l’épreuve des absolutismes : démantèlement d’une structure politique et création d’une administration (1660-1789) »</title>, <title>Le prince, la ville et le bourgeois (xive-xviiie siècles)</title>, Laurence Croq éd., Paris, Nolin, 2004, p. 175-201.</item>
+              <item>FRANKLIN (Alfred), <title> Les anciennes bibliothèques de Paris. églises, monastères, collèges, etc...</title>, Paris, Imprimerie nationale, t. III, 1873, p. 181-300.</item>
+              <item>JUNGES (Catherine), <title>Les échevins parisiens au xviiie siècle</title>, <title> thèse inédite de l’École des chartes</title>, 1996, 2 vol, résumée dans <title>Positions des thèses (…) </title>, 1996, p. 163-170.</item>
+              <item>SURIREY DE SAINT-REMY (Henry de), <title>« La Bibliothèque historique de la Ville de Paris »</title>, <title>Bulletin des Bibliothèques de France</title>, 1969, (14-2), p. 47-62.</item>
+            </list>
           </div>
         </div>
       </div>

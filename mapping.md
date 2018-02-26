@@ -84,8 +84,7 @@ TODO: revoir la normalisation div diplomatique / commentaire
 
 **enrichissements sémantiques**
 * citations inline (`«`,`»`) (`tei:quote`=> `html:q`)
-* mention bibliographique (`bibl` => ?)
-* titre (`tei:title` => `html:cite`)
+* [mention bibliographique, titre](http://html5doctor.com/blockquote-q-cite/) (`tei:title/@ref` => `html:cite/html:a`)
 * entités nommées
   * personne (`tei:persName/@ref` => )
   * lieu (`tei:placeName/@ref` => )

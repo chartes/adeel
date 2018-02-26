@@ -210,12 +210,12 @@
         </div>
         <div>
           <head>Pour approfondir</head>
-          <listBibl>
-            <bibl>Bautier (R.-H.), « La place de l’abbaye de Fleury-sur-Loire dans l’historiographie française du IX<hi rend="sup">e</hi> au XII<hi rend="sup">e</hi> siècle », dans <title>Études ligériennes d’histoire et d’archéologie médiévales</title>, dir. R. Louis, Auxerre, 1975, p. 25-33 (le contexte).</bibl>
-            <bibl>Lettinck (N.), « Pour une édition critique de l’<hi rend="i">Historia ecclesiastica</hi> de Hugues de Fleury », dans <title>Revue bénédictine</title>, t. 91, 1981, p. 386-397 (<hi rend="b">étude sur les deux rédactions du texte</hi>).</bibl>
-            <bibl>Vidier (A.), <title>L’historiographie à Saint-Benoît-sur-Loire et les Miracles de saint Benoît</title>, Paris, 1965, p. 76-79 (<hi rend="b">précisions sur la tradition manuscrite</hi>).</bibl>
-            <bibl>Wilmart (A.), « L’Histoire ecclésiastique composée par Hugues de Fleury et ses destinataires », dans <title>Revue bénédictine</title>, t. 50, 1938, p. 293-305 (<hi rend="b">édition des lettres dédicatoires</hi>).</bibl>
-          </listBibl>
+          <list>
+            <item>Bautier (R.-H.), « La place de l’abbaye de Fleury-sur-Loire dans l’historiographie française du IX<hi rend="sup">e</hi> au XII<hi rend="sup">e</hi> siècle », dans <title>Études ligériennes d’histoire et d’archéologie médiévales</title>, dir. R. Louis, Auxerre, 1975, p. 25-33 (le contexte).</item>
+            <item>Lettinck (N.), « Pour une édition critique de l’<hi rend="i">Historia ecclesiastica</hi> de Hugues de Fleury », dans <title>Revue bénédictine</title>, t. 91, 1981, p. 386-397 (<hi rend="b">étude sur les deux rédactions du texte</hi>).</item>
+            <item>Vidier (A.), <title>L’historiographie à Saint-Benoît-sur-Loire et les Miracles de saint Benoît</title>, Paris, 1965, p. 76-79 (<hi rend="b">précisions sur la tradition manuscrite</hi>).</item>
+            <item>Wilmart (A.), « L’Histoire ecclésiastique composée par Hugues de Fleury et ses destinataires », dans <title>Revue bénédictine</title>, t. 50, 1938, p. 293-305 (<hi rend="b">édition des lettres dédicatoires</hi>).</item>
+          </list>
         </div>
       </div>
     </body>

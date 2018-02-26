@@ -140,12 +140,12 @@
         </div>
         <div>
           <head>Bibliographie</head>
-          <listBibl>
-            <bibl>BREJON (Jacques), <title>André Tiraqueau (1488-1558)</title>, Paris, Sirey, 1937, 407 p.</bibl>
-            <bibl>DUPONT-FERRIER (Gustave), <title>Les officiers royaux des baillages et sénéchaussées et les institutions monarchiques locales en France à la fin du moyen-âge</title>, Paris, lib. Emile Bouillon, 1902, p. 422-423.</bibl>
-            <bibl>DUPONT-FERRIER (Gustave), <title>Gallia regia ou état des officiers royaux des bailliages et des sénéchaussées de 1328 à 1515</title>, Paris, Imprimerie nationale, t. IV, 1954, p. 502-503.</bibl>
-            <bibl>IMBERT (Jean), <title>La practique judiciaire civile et criminelle receüe et observée par tout le royaume de France, composée par M. Jean Imbert, lieutenant criminel au siège royal de Fontenay-le-Comte</title>, Paris, Louis Feugé, 1627 (éd. originale latine 1541).</bibl>
-          </listBibl>
+          <list>
+            <item>BREJON (Jacques), <title>André Tiraqueau (1488-1558)</title>, Paris, Sirey, 1937, 407 p.</item>
+            <item>DUPONT-FERRIER (Gustave), <title>Les officiers royaux des baillages et sénéchaussées et les institutions monarchiques locales en France à la fin du moyen-âge</title>, Paris, lib. Emile Bouillon, 1902, p. 422-423.</item>
+            <item>DUPONT-FERRIER (Gustave), <title>Gallia regia ou état des officiers royaux des bailliages et des sénéchaussées de 1328 à 1515</title>, Paris, Imprimerie nationale, t. IV, 1954, p. 502-503.</item>
+            <item>IMBERT (Jean), <title>La practique judiciaire civile et criminelle receüe et observée par tout le royaume de France, composée par M. Jean Imbert, lieutenant criminel au siège royal de Fontenay-le-Comte</title>, Paris, Louis Feugé, 1627 (éd. originale latine 1541).</item>
+          </list>
         </div>
       </div>
       <div type="history">
