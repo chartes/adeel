@@ -1,0 +1,2666 @@
+DELETE FROM note ;
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (0,0,'jpilla','Seine-et-Marne, cant. Lorrez-le-Bocage-Préaux (à égale distance environ de Nemours et Montereau).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1,0,'jpilla','Seine-et-Marne, cant. Montereau-Fault-Yonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (2,0,'jpilla','Droit de couper ou de prendre du bois (lat. lignum).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (3,0,'jpilla','L’année 1202 (a.st.) est, comme il est déjà usuel à la chancellerie royale sous le règne de Philippe Auguste, exprimée dans le style de Pâques ; elle va donc du 14 avril 1202 au 5 avril 1203 (n.st.). De leur côté, les années de règne de Philippe Auguste partent de son sacre, le 1er novembre 1179 (et non, comme ce sera la règle après lui, du jour de la mort du prédécesseur) ; sa 24e année de règne va donc du 1er novembre 1202 au 31 octobre 1203. L’acte est donc compris entre le 1er novembre 1202 et le 5 avril 1203 (n.st.). Par un hasard insigne, on dispose d’une autre version du même acte : elle est datée, plus précisément, de février 1202 (a.st.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (4,0,'jpilla','L’année 1202 (a.st.) est, comme il est déjà usuel à la chancellerie royale sous le règne de Philippe Auguste, exprimée dans le style de Pâques ; elle va donc du 14 avril 1202 au 5 avril 1203 (n.st.). De leur côté, les années de règne de Philippe Auguste partent de son sacre, le 1er novembre 1179 (et non, comme ce sera la règle après lui, du jour de la mort du prédécesseur) ; sa 24e année de règne va donc du 1er novembre 1202 au 31 octobre 1203. L’acte est donc compris entre le 1er novembre 1202 et le 5 avril 1203 (n.st.). Par un hasard insigne, on dispose d’une autre version du même acte : elle est datée, plus précisément, de février 1202 (a.st.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (5,0,'jpilla','La charge de sénéchal a été laissée vacante depuis la mort de Thibaud de Blois en 1191.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (6,0,'jpilla','La charge est traditionnellement détenue par une famille de puissants chevaliers de Senlis, qui prirent le nom de Bouteillers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (7,0,'jpilla','Mathieu comte de Beaumont-sur-Oise.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (8,0,'jpilla','Dreu de Mello.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (9,0,'jpilla','La chancellerie elle aussi a été laissée vacante par Philippe Auguste, depuis 1185. Elle était dirigée par un chef effectif, qui prit rapidement le titre de garde des sceaux, "cil qui porte le scel". Dès la fin du XIIIe siècle, on lui donna par courtoisie (ou il prit par ailleurs) le titre de "chancelier", qui fut bientôt officiellement réintroduit à la chancellerie (alors qu’il restait hors d’usage à la Curie pontificale où la charge avait elle aussi été laissée vacante).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (10,0,'jpilla','L’un des principaux conseillers du roi, frère hospitalier, élu évêque de Senlis en 1213/14. A compter de 1201, son intervention dans l’administration du royaume et plus spécialement à la chancellerie est marquée par cette formule "Donné... par la main de frère Guérin", qui bien sûr ne se rapporte pas à l’exécution matérielle , mais au rôle de chef de la chancellerie (la formule "Data par manum...", introduite à l’imitation évidente des privilèges pontificaux, est devenue dès les années 1110 la formule usuelle de la souscription de chancellerie au bas des actes royaux). Guérin sera d’ailleurs orné du titre de chancelier à la fin de sa vie (1223-1227).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (11,0,'jpilla','Seine-et-Marne, cant. Lorrez-le-Bocage-Préaux (à égale distance environ de Nemours et Montereau).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (12,0,'jpilla','Seine-et-Marne, cant. Montereau-Fault-Yonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (13,0,'jpilla','Droit de couper ou de prendre du bois (lat. lignum).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (14,0,'jpilla','L’année 1202 (a.st.) est, comme il est déjà usuel à la chancellerie royale sous le règne de Philippe Auguste, exprimée dans le style de Pâques ; elle va donc du 14 avril 1202 au 5 avril 1203 (n.st.). De leur côté, les années de règne de Philippe Auguste partent de son sacre, le 1er novembre 1179 (et non, comme ce sera la règle après lui, du jour de la mort du prédécesseur) ; sa 24e année de règne va donc du 1er novembre 1202 au 31 octobre 1203. L’acte est donc compris entre le 1er novembre 1202 et le 5 avril 1203 (n.st.). Par un hasard insigne, on dispose d’une autre version du même acte : elle est datée, plus précisément, de février 1202 (a.st.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (15,0,'jpilla','La charge de sénéchal a été laissée vacante depuis la mort de Thibaud de Blois en 1191.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (16,0,'jpilla','La charge est traditionnellement détenue par une famille de puissants chevaliers de Senlis, qui prirent le nom de Bouteillers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (17,0,'jpilla','Mathieu comte de Beaumont-sur-Oise.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (18,0,'jpilla','Dreu de Mello.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (19,0,'jpilla','La chancellerie elle aussi a été laissée vacante par Philippe Auguste, depuis 1185. Elle était dirigée par un chef effectif, qui prit rapidement le titre de garde des sceaux, "cil qui porte le scel". Dès la fin du XIIIe siècle, on lui donna par courtoisie (ou il prit par ailleurs) le titre de "chancelier", qui fut bientôt officiellement réintroduit à la chancellerie (alors qu’il restait hors d’usage à la Curie pontificale où la charge avait elle aussi été laissée vacante).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (20,0,'jpilla','L’un des principaux conseillers du roi, frère hospitalier, élu évêque de Senlis en 1213/14. A compter de 1201, son intervention dans l’administration du royaume et plus spécialement à la chancellerie est marquée par cette formule "Donné... par la main de frère Guérin", qui bien sûr ne se rapporte pas à l’exécution matérielle , mais au rôle de chef de la chancellerie (la formule "Data par manum...", introduite à l’imitation évidente des privilèges pontificaux, est devenue dès les années 1110 la formule usuelle de la souscription de chancellerie au bas des actes royaux). Guérin sera d’ailleurs orné du titre de chancelier à la fin de sa vie (1223-1227).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,0,11,34);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,1,34,39);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,2,39,51);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,3,51,121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,4,121,152);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,5,152,176);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,6,176,192);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,7,192,199);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,8,199,222);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,9,222,241);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,10,241,265);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,11,265,285);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,12,285,291);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,13,291,314);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,14,314,352);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,15,352,373);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,16,373,391);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,17,391,400);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,18,400,417);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,19,417,447);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,20,447,460);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (21,0,'jpilla','pitanciers : officiers monastiques chargés de l’approvisionnement et de la distribution de la nourriture. A leur office (Pitancerie) est souvent affectée une portion du patrimoine, dont ils ont la gestion.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (22,0,'jpilla','L’abbaye Saint-Germain-des-Prés est encore hors les murs ("delez" ou "lez" = "près de", comme par ex. dans Villeneuve-lès-Avignon).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (23,0,'jpilla','L’abbaye Saint-Germain-des-Prés est encore hors les murs ("delez" ou "lez" = "près de", comme par ex. dans Villeneuve-lès-Avignon).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (24,0,'jpilla','Saint-André-des-Arts.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (25,0,'jpilla','Pierre Bertrand, évêque d’Autun, promu le 20 décembre 1331 cardinal-prêtre du titre de Saint-Clément (dit le cardinal d’Autun). Mort en 1348.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,21,21,36);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,22,36,50);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,23,50,76);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,24,76,110);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,25,110,147);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (26,0,'jpilla','Le roi de France a réuni à la couronne l’Anjou après la mort du roi René en 1480, et le reste des possessions et prétentions angevines (royaume de "Sicile", titre de roi de Jérusalem, Provence) à la mort sans héritier de Charles du Maine le 11 décembre 1481. Le petit-fils de René, René II duc de Lorraine, a attaqué les testaments de René d’Anjou et Charles, réclamant l’héritage au nom de sa mère Yolande, fille de René, en vain : la Provence est définitivement intégrée par le Parlement au royaume de France en octobre 1486. Mais Jeanne de Laval († 1498), seconde épouse de René d’Anjou, a conservé la titulature complète à titre honorifique et l’usufruit de quelques seigneuries, dont Saint-Remy-de-Provence.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (27,0,'jpilla','Le roi de France a réuni à la couronne l’Anjou après la mort du roi René en 1480, et le reste des possessions et prétentions angevines (royaume de "Sicile", titre de roi de Jérusalem, Provence) à la mort sans héritier de Charles du Maine le 11 décembre 1481. Le petit-fils de René, René II duc de Lorraine, a attaqué les testaments de René d’Anjou et Charles, réclamant l’héritage au nom de sa mère Yolande, fille de René, en vain : la Provence est définitivement intégrée par le Parlement au royaume de France en octobre 1486. Mais Jeanne de Laval († 1498), seconde épouse de René d’Anjou, a conservé la titulature complète à titre honorifique et l’usufruit de quelques seigneuries, dont Saint-Remy-de-Provence.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (28,0,'jpilla','L’attache, pratique intensifiée dans les administrations financières au XIVe siècle, consiste à attacher un acte à un autre, souvent par un petit tortil de parchemin, qui peut être lui-même assujetti et validé par un sceau. Dans l’administration royale, elle est spécialement utilisée dans les procédures de contrôle des dépenses et des actes royaux qui les ordonnent : ceux-ci, au-delà d’une certaine somme, doivent être avalisés par les gens des comptes, les généraux des finances..., qui délivrent un mandement d’éxécution, dit "lettres d’attache", auquel est attaché l’acte royal visé. Ici, la fonction de l’attache est banalisée : c’est la simple transmission d’une "pièce jointe".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (29,0,'jpilla','L’attache, pratique intensifiée dans les administrations financières au XIVe siècle, consiste à attacher un acte à un autre, souvent par un petit tortil de parchemin, qui peut être lui-même assujetti et validé par un sceau. Dans l’administration royale, elle est spécialement utilisée dans les procédures de contrôle des dépenses et des actes royaux qui les ordonnent : ceux-ci, au-delà d’une certaine somme, doivent être avalisés par les gens des comptes, les généraux des finances..., qui délivrent un mandement d’éxécution, dit "lettres d’attache", auquel est attaché l’acte royal visé. Ici, la fonction de l’attache est banalisée : c’est la simple transmission d’une "pièce jointe".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (30,0,'jpilla','Expression caractéristique (en occitan per sol et liura) des impositions proportionnelles au patrimoine des contribuables ; elle présuppose en général l’établissement de livres d’estimation de la valeur fiscale de ce patrimoine (estimes, cadastres, nommées...).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (31,0,'jpilla','Au sens d’universitas, "communauté" (l’universitas studiorum n’étant qu’un cas parmi d’autres).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (32,0,'jpilla','Le style de Pâques, introduit en Provence au XIIIe siècle par les princes angevins, est certainement employé ici. Or Pâques tombe en 1487 le 15 avril et en 1488 le 6 avril. Le mandement est donc de la veille de Pâques 1488.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,26,8,130);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,27,130,243);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,28,243,250);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,29,250,356);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,30,356,444);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,31,444,463);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,32,463,511);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (33,0,'jpilla','Juge en matière contentieuse et gracieuse, délégué de l’évêque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (34,0,'jpilla','Oise, cant. Grandvilliers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (35,0,'jpilla','Oise, cant. Mouy.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (36,0,'jpilla','Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (37,0,'jpilla','Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (38,0,'jpilla','Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (39,0,'jpilla','L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (40,0,'jpilla','L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (41,0,'jpilla','Mode de tenure de la terre à part de fruits.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (42,0,'jpilla','Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc « de [deniers] parisis » (au génitif en latin).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (43,0,'jpilla','La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (44,0,'jpilla','Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (45,0,'jpilla','Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (46,0,'jpilla','« Jubilate » est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (47,0,'jpilla','Juge en matière contentieuse et gracieuse, délégué de l’évêque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (48,0,'jpilla','Oise, cant. Grandvilliers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (49,0,'jpilla','Oise, cant. Mouy.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (50,0,'jpilla','Abbaye bénédictine (Oise, cant. Le Coudray-Saint-Germer).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (51,0,'jpilla','Ancien habitat sur la commune de Senantes (Oise, cant. Songeons).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (52,0,'jpilla','Tante maternelle d’après l’étymologie (mater), mais parfois pris comme amita au sens de tante paternelle (voir Du Cange, Glossarium).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (53,0,'jpilla','L’émine (mina) est une mesure de capacité des céréales ; par extension l’éminée est une mesure de superficie (terre recevant en principe une émine de semence).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (54,0,'jpilla','L’expression pourrait fonctionner comme un microtoponyme, mais, suivie d’un génitif (dictorum abbatis...), elle peut être aussi comprise comme la référence à un élément précis du paysage; le metz (forme la plus courante dans la région), mansus, masus, est un ensemble de bâtiments d’exploitation et de terres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (55,0,'jpilla','Mode de tenure de la terre à part de fruits.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (56,0,'jpilla','Les deniers parisis sont la monnaie frappée à Paris, puis l’une des deux grandes monnaies royales (avec le tournois), qui peut être frappée ailleurs ; l’expression ne vise a priori qu’une monnaie de compte ; seuls les deniers sont frappés, les sous et les livres sont donc « de [deniers] parisis » (au génitif en latin).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (57,0,'jpilla','La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (58,0,'jpilla','Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (59,0,'jpilla','"Jubilate" est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,33,2,30);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,34,30,38);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,35,38,70);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,36,70,134);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,37,134,142);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,38,142,166);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,39,166,196);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,40,196,201);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,41,201,213);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,42,213,247);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,43,247,259);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,44,259,282);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,45,282,291);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,46,291,319);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,47,319,366);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,48,366,375);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,49,375,402);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,50,402,421);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,51,421,429);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,52,429,451);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,53,451,475);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,54,475,479);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,55,479,514);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,56,514,552);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,57,552,601);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,58,601,610);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,59,610,631);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (60,0,'jpilla','Meaux, Seine-et-Marne, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (61,0,'jpilla','Féminin de domicellus/ damoiseau, diminutif de domina (« madame »), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (62,0,'jpilla','Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit « Lessart »sur la commune de Marchémoret.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (63,0,'jpilla','Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (64,0,'jpilla','Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis). L’abbaye est au diocèse de Senlis, mais on choisit naturellement l’officialité de Meaux, diocèse de résidence du vendeur.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (65,0,'jpilla','Marchémoret, localité à une douzaine de km au SE de Chaalis (Seine-et-Marne, cant. Dammartin-en-Goële).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (66,0,'jpilla','Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend « (livres) de deniers (tournois) ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (67,0,'jpilla','Le sens technique « classique » des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (68,0,'jpilla','Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (69,0,'jpilla','Meaux, Seine-et-Marne, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (70,0,'jpilla','Féminin de domicellus/ damoiseau, diminutif de domina (« madame »), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (71,0,'jpilla','Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit « Lessart »sur la commune de Marchémoret.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (72,0,'jpilla','Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (73,0,'jpilla','Association habituelle, dans les actes et les sceaux, de l’abbé, chef de la communauté, et de celle-ci, qui doit ratifier sa gestion aux termes du droit canonique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (74,0,'jpilla','Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis). L’abbaye est au diocèse de Senlis, mais on choisit naturellement l’officialité de Meaux, diocèse de résidence du vendeur.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (75,0,'jpilla','Marchémoret, localité à une douzaine de km au SE de Chaalis (Seine-et-Marne, cant. Dammartin-en-Goële).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (76,0,'jpilla','Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend « (livres) de deniers (tournois) ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (77,0,'jpilla','Le sens technique « classique » des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (78,0,'jpilla','Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,60,2,25);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,61,25,57);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,62,57,66);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,63,66,94);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,64,94,111);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,65,111,133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,66,133,159);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,67,159,183);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,68,183,197);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,69,197,227);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,70,227,252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,71,252,260);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,72,260,273);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,73,273,284);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,74,284,307);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,75,307,319);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,76,319,328);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,77,328,348);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,78,348,366);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (79,0,'jpilla','Oissery (Seine-et-Marne, cant. Dammartin-en-Goële). Noter deux graphies différentes, ici «  Osseriacum  », plus bas «  Oisseriacum  ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (80,0,'jpilla','Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu’à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en «  main morte  » : le propriétaire éminent ("censuel") peut s’estimer lésé du fait qu’il n’y aura plus de changement de détenteur, donc plus d’occasion de percevoir de droit de mutation, d’investiture du nouveau détenteur. L’habitude se prend donc de monnayer l’accord du propriétaire éminent pour obtenir son «  abandon en mainmorte  » (ou alors de négocier cet abandon comme un don charitable).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (81,0,'jpilla','Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu’à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en «  main morte  » : le propriétaire éminent ("censuel") peut s’estimer lésé du fait qu’il n’y aura plus de changement de détenteur, donc plus d’occasion de percevoir de droit de mutation, d’investiture du nouveau détenteur. L’habitude se prend donc de monnayer l’accord du propriétaire éminent pour obtenir son «  abandon en mainmorte  » (ou alors de négocier cet abandon comme un don charitable).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (82,0,'jpilla','Au plan du droit canon, les occupants de l’abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (83,0,'jpilla','Au plan du droit canon, les occupants de l’abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (84,0,'jpilla','Chaalis : fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (85,0,'jpilla','La censive ne désigne pas forcément un territoire compact, mais de façon générale, quel que soit son dessin sur le terrain, l’ensemble des terres soumises à la propriété éminente du seigneur censuel.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (86,0,'jpilla','Acy-en-Multien (Oise, cant. Betz). Le chemin d’Acy quitte Oissery vers l’est (actuelle D 99).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (87,0,'jpilla','Saint-Pathus (Seine-et-Marne, cant. Dammartin-en-Goële) est voisin d’Oissery. Guillaume de Saint-Pathus est homonyme et très vraisemblablement parent du franciscain qui, confesseur de la reine Marguerite (1277-1295) puis de sa fille, a mis par écrit une vie et des miracles de saint Louis : on sait que le frère mineur est petit-fils d’un Guillaume des Barres, seigneur d’Oissery († 1243).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (88,0,'jpilla','Le verbe movere/mouvoir, pris absolument et associé à un seigneur, renvoie presque certainement à un rapport féodal.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (89,0,'jpilla','À l’origine frappé à Paris, le parisis est le grand monnayage des rois capétiens, auquel Philippe Auguste ajoute le tournois, avec qui il entre vite dans un rapport fixe (4 d. parisis = 5 d. tournois). L’expression est au génitif pluriel car l’on sous-entend « (livres) de deniers (parisiis) », de même que l’on devrait dire en français « livres de parisis ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (90,0,'jpilla','Oissery (Seine-et-Marne, cant. Dammartin-en-Goële). Noter deux graphies différentes, ici «  Osseriacum  », plus bas «  Oisseriacum  ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (91,0,'jpilla','Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu’à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en «  main morte  » : le propriétaire éminent ("censuel") peut s’estimer lésé du fait qu’il n’y aura plus de changement de détenteur, donc plus d’occasion de percevoir de droit de mutation, d’investiture du nouveau détenteur. L’habitude se prend donc de monnayer l’accord du propriétaire éminent pour obtenir son «  abandon en mainmorte  » (ou alors de négocier cet abandon comme un don charitable).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (92,0,'jpilla','Au plan du droit canon, les occupants de l’abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (93,0,'jpilla','Au plan du droit canon, les occupants de l’abbaye ayant « voix au chapitre » se divisent en un « abbé », chef, et un « convent », communauté qui contrôle la régularité de la gestion abbatiale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (94,0,'jpilla','Chaalis : fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (95,0,'jpilla','La censive ne désigne pas forcément un territoire compact, mais de façon générale, quel que soit son dessin sur le terrain, l’ensemble des terres soumises à la propriété éminente du seigneur censuel.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (96,0,'jpilla','Acy-en-Multien (Oise, cant. Betz). Le chemin d’Acy quitte Oissery vers l’est (actuelle D 99).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (97,0,'jpilla','Le verbe movere/mouvoir, pris absolument et associé à un seigneur, renvoie presque certainement à un rapport féodal.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (98,0,'jpilla','Saint-Pathus (Seine-et-Marne, cant. Dammartin-en-Goële) est voisin d’Oissery. Guillaume de Saint-Pathus est homonyme et très vraisemblablement parent du franciscain qui, confesseur de la reine Marguerite (1277-1295) puis de sa fille, a mis par écrit une vie et des miracles de saint Louis : on sait que le frère mineur est petit-fils d’un Guillaume des Barres, seigneur d’Oissery († 1243).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (99,0,'jpilla','À l’origine frappé à Paris, le parisis est le grand monnayage des rois capétiens, auquel Philippe Auguste ajoute le tournois, avec qui il entre vite dans un rapport fixe (4 d. parisis = 5 d. tournois). L’expression est au génitif pluriel car l’on sous-entend (livres) de deniers (parisiis) », de même que l’on devrait dire en français « livres de parisis ».');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,79,15,24);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,80,24,28);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,81,28,36);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,82,36,52);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,83,52,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,84,74,90);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,85,90,110);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,86,110,135);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,87,135,190);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,88,190,201);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,89,201,236);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,90,236,244);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,91,244,273);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,92,273,279);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,93,279,296);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,94,296,313);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,95,313,321);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,96,321,347);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,97,347,363);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,98,363,407);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,99,407,414);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (100,0,'jpilla','Francorum rex demeure le titre usuel du roi de France en chancellerie (et seulement en chancellerie), quand on dit par ailleurs “roi de France” et rex Francie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (101,0,'jpilla','Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (102,0,'jpilla','Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (103,0,'jpilla','Saint-Jean-des-Vignes, abbaye de chanoines réguliers fondée à Soissons, tête d’une petite congrégation régionale..');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (104,0,'jpilla','Saint-Jean-des-Vignes, abbaye de chanoines réguliers fondée à Soissons, tête d’une petite congrégation régionale..');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (105,0,'jpilla','Notre-Dame de Soissons, abbaye de moniales ; l’appellation est ici précisée pour éviter une confusion avec le chapitre soissonnais de Notre-Dame-des-Vignes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (106,0,'jpilla','Sec-Aulnois, bois sur la commune de Missy-aux-Bois.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (107,0,'jpilla','Missy-aux-Bois, Aisne, cant. Soissons-sud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (108,0,'jpilla','Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (109,0,'jpilla','Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (110,0,'jpilla','Tournois : l’une des deux grandes monnaies royales capétiennes, avec le parisis ; elle a été acquise quand Philippe Auguste a saisi la Touraine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (111,0,'jpilla','L’expression “mettre hors de sa main” désigne l’obligation faite à des institutions ecclésiastiques recueillant des biens grevés d’obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d’une perte de service féodal) d’abandonner leur acquisition… sauf à verser une taxe compensatoire, ce dont elles sont ici exemptées.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (112,0,'jpilla','L’expression “mettre hors de sa main” désigne l’obligation faite à des institutions ecclésiastiques recueillant des biens grevés d’obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d’une perte de service féodal) d’abandonner leur acquisition… sauf à verser une taxe compensatoire, ce dont elles sont ici exemptées.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (113,0,'jpilla','Sommières (Gard, ch.-l. cant.). Saint Louis et ses croisés durent attendre avant de pouvoir embarquer à Aigues-Mortes (Gard, ch.-l. cant.), le 1er juillet 1270. Plusieurs actes royaux sont donnés alentour, dans les deux mois précédents ; on en connaît un autre précisément daté de Sommières le 8 mai (itinéraire du roi, dans Recueil des historiens de la France, t. XXI, p. 423).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (114,0,'jpilla','Francorum rex demeure le titre usuel du roi de France en chancellerie (et seulement en chancellerie), quand on dit par ailleurs “roi de France” et rex Francie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (115,0,'jpilla','Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (116,0,'jpilla','Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (117,0,'jpilla','Saint-Jean-des-Vignes, abbaye de chanoines réguliers fondée à Soissons, tête d’une petite congrégation régionale..');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (118,0,'jpilla','Notre-Dame de Soissons, abbaye de moniales ; l’appellation est ici précisée pour éviter une confusion avec le chapitre soissonnais de Notre-Dame-des-Vignes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (119,0,'jpilla','Notre-Dame de Soissons, abbaye de moniales ; l’appellation est ici précisée pour éviter une confusion avec le chapitre soissonnais de Notre-Dame-des-Vignes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (120,0,'jpilla','Sec-Aulnois, bois sur la commune de Missy-aux-Bois.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (121,0,'jpilla','Missy-aux-Bois, Aisne, cant. Soissons-sud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (122,0,'jpilla','Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (123,0,'jpilla','Le comte de Soissons est alors Jean II, qui a succédé à son père Raoul Ier en 1235. Il accompagna saint Louis à ses deux croisades.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (124,0,'jpilla','Tournois : l’une des deux grandes monnaies royales capétiennes, avec le parisis ; elle a été acquise quand Philippe Auguste a saisi la Touraine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (125,0,'jpilla','L’expression “mettre hors de sa main” désigne l’obligation faite à des institutions ecclésiastiques recueillant des biens grevés d’obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d’une perte de service féodal) d’abandonner leur acquisition… sauf à verser une taxe compensatoire, dont elles sont ici exemptées.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (126,0,'jpilla','Sommières (Gard, ch.-l. cant.). Saint Louis et ses croisés durent attendre avant de pouvoir embarquer à Aigues-Mortes (Gard, ch.-l. cant.), le 1er juillet 1270. Plusieurs actes royaux sont donnés alentour, dans les deux mois précédents ; on en connaît un autre précisément daté de Sommières le 8 mai (itinéraire du roi, dans Recueil des historiens de la France, t. XXI, p. 423).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,100,3,26);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,101,26,48);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,102,48,85);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,103,85,130);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,104,130,140);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,105,140,175);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,106,175,190);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,107,190,209);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,108,209,214);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,109,214,248);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,110,248,273);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,111,273,278);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,112,278,318);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,113,318,344);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,114,344,351);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,115,351,369);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,116,369,410);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,117,410,438);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,118,438,449);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,119,449,487);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,120,487,532);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,121,532,552);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,122,552,560);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,123,560,595);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,124,595,615);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,125,615,655);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,126,655,688);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (127,0,'jpilla','Francorum : dès qu’elle a commencé à employer le français, la chancellerie royale a parlé, comme les contemporains, de "roi de France" ; mais même ensuite elle a maintenu en latin (uniquement dans les actes et sur les légendes des sceaux du roi) l’ancienne formule "rex Francorum" (qui ne veut pas dire autre chose) ; dans tous les autres textes, on dit tout naturellement "rex Francie".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (128,0,'jpilla','La Navarre est venue à Philippe (futur Philippe le Bel) de son mariage avec l’héritière du royaume, Jeanne ; mais il abandonné le titre de "roi de Navarre" à son propre avènement au trône de France. Ses fils sont, au Moyen Âge, les seuls à avoir pris, de 1314 à 1328, le titre de "roi de France et de Navarre". Ce seul trait permet d’attribuer l’acte à Philippe V.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (129,0,'jpilla','Archambaud II comte de Périgord.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (130,0,'jpilla','Philippe IV le Bel, roi de 1285 à 1314.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (131,0,'jpilla','Philippe IV le Bel, roi de 1285 à 1314.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (132,0,'jpilla','Caussade (Tarn-et-Garonne, ch.-l. cant.). La châtellenie a été donnée avec deux autres, en 1304, au comte de Périgord par le roi de France, qui venait de céder au roi d’Angleterre des terres précédemment échangées avec le comte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (133,0,'jpilla','La "souveraineté et ressort", d’empreinte fondamentalement judiciaire, désigne les droits suprêmes que se conserve le roi de France dans les apanages ou les seigneuries aliénées ; le "ressort" lui laisse en particulier le droit de juger en dernier ressort les affaires jugées par le nouveau détenteur des terres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (134,0,'jpilla','Lomagne (région couvrant le nord-est de l’actuel dép. du Gers, ancien diocèse de Lectoure) et Auvillar (Tarn-et-Garonne, ch.-l. de cant.). Les vicomtés avaient été acquises en novembre 1301 par le roi de France au terme d’un échange avec Élie Talleyrand, comte de Périgord.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (135,0,'jpilla','La "chevauchée" peut être aussi bien l’obligation faite de participer à l’ost du seigneur qu’une taxe de remplacement ; le second sens semble plus vraisemblable ici du fait de l’emploi du verbe solvere, "payer".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (136,0,'jpilla','Le procureur du roi est l’un des rouages essentiels des cours royales (centrales comme de bailliage ou de sénéchaussée), où il représente les intérêts du souverain.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (137,0,'jpilla','Le nom de "Brandons" (ou "Bordes") est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l’acte que parce que l’on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l’on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n’a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (138,0,'jpilla','Le nom de "Brandons" (ou "Bordes") est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l’acte que parce que l’on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l’on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n’a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (139,0,'jpilla','Francorum : dès qu’elle a commencé à employer le français, la chancellerie royale a parlé, comme les contemporains, de "roi de France" ; mais même ensuite elle a maintenu en latin (uniquement dans les actes et sur les légendes des sceaux du roi) l’ancienne formule "rex Francorum" (qui ne veut pas dire autre chose) ; dans tous les autres textes, on dit tout naturellement "rex Francie".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (140,0,'jpilla','La Navarre est venue à Philippe (futur Philippe le Bel) de son mariage avec l’héritière du royaume, Jeanne ; mais il abandonné le titre de "roi de Navarre" à son propre avènement au trône de France. Ses fils sont, au Moyen Âge, les seuls à avoir pris, de 1314 à 1328, le titre de "roi de France et de Navarre". Ce seul trait permet d’attribuer l’acte à Philippe V.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (141,0,'jpilla','Archambaud II comte de Périgord.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (142,0,'jpilla','Philippe IV le Bel, roi de 1285 à 1314.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (143,0,'jpilla','Caussade (Tarn-et-Garonne, ch.-l. cant.). La châtellenie a été donnée avec deux autres, en 1304, au comte de Périgord par le roi de France, qui venait de céder au roi d’Angleterre des terres précédemment échangées avec le comte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (144,0,'jpilla','La "souveraineté et ressort", d’empreinte fondamentalement judiciaire, désigne les droits suprêmes que se conserve le roi de France dans les apanages ou les seigneuries aliénées ; le "ressort" lui laisse en particulier le droit de juger en dernier ressort les affaires jugées par le nouveau détenteur des terres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (145,0,'jpilla','Lomagne (région couvrant le nord-est de l’actuel dép. du Gers, ancien diocèse de Lectoure) et Auvillar (Tarn-et-Garonne, ch.-l. de cant.). Les vicomtés avaient été acquises en novembre 1301 par le roi de France au terme d’un échange avec Élie Talleyrand, comte de Périgord.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (146,0,'jpilla','La "chevauchée" peut être aussi bien l’obligation faite de participer à l’ost du seigneur qu’une taxe de remplacement ; le second sens semble plus vraisemblable ici du fait de l’emploi du verbe solvere, "payer".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (147,0,'jpilla','Le procureur du roi est l’un des rouages essentiels des cours royales (centrales comme de bailliage ou de sénéchaussée), où il représente les intérêts du souverain.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (148,0,'jpilla','Le nom de "Brandons" (ou "Bordes") est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l’acte que parce que l’on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l’on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n’a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (149,0,'jpilla','Le nom de "Brandons" (ou "Bordes") est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l’acte que parce que l’on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l’on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n’a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,127,2,23);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,128,23,39);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,129,39,51);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,130,51,87);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,131,87,113);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,132,113,124);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,133,124,158);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,134,158,204);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,135,204,225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,136,225,256);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,137,256,282);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,138,282,372);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,139,372,385);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,140,385,420);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,141,420,430);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,142,430,462);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,143,462,475);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,144,475,508);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,145,508,551);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,146,551,586);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,147,586,610);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,148,610,628);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,149,628,660);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (150,0,'jpilla','Burgoigne : Bel exemple de nom personnel tiré non du sanctoral, de la Bible ou du vieux répertoire germanique, mais d’un nom géographique (localité ou, comme ici, province d’origine = Bourgogne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (151,0,'jpilla','Salins : Auj. Salins-les-Bains (Jura, ch.-l. cant.), qui tire son nom de ses salines, déjà actives et célèbres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (152,0,'jpilla','Est’ : On ne développe pas l’abréviation du nom, dans l’incertitude où l’on est de la forme exacte, même s’il est évident qu’il s’agit de l’un des noms les plus courants dans la Comté : "Estienne", ou plutôt "Esteve", "Estenne", voire "Est(i)ennet", "Estevenin"…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (153,0,'jpilla','Wuill’m : Abréviation laissée en l’état faute de connaître la forme développée exacte ; on peut avoir affaire à une abréviation contractée de "Wuillaume", mais les trois derniers jambages peuvent être aussi bien "in", et ce "Wuill’in" serait "Wuillemin" ou "Wuillermin". La forme utilisée plus bas (Wuill’) ne permet pas de trancher');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (154,0,'jpilla','colunge sux le biez : sans doute Les Coulanges, lieu-dit au sud de Salins, sur le Bief des Roussets, petit cours d’eau.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (155,0,'jpilla','estevenans : estévenants, monnaie de l’archevêque de Besançon (sur une des faces est représenté le bras reliquaire de saint Étienne, patron de la cathédrale, qui donne son nom au monnayage) ; l’expression, parfaitement normale, est à comprendre comme " sous [de deniers] estévenants " (70 sous = 840 deniers = 3 livres et demie).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (156,0,'jpilla','garde : Il faudrait une enquête plus poussée pour déterminer l’origine de cette redevance en espèces, qui complète, de façon assez légère, la redevance proportionnelle en nature (à part de fruits, ici le quart de la vendange). Il est possible qu’elle soit due à raison de la garde des vignobles, assurée par le seigneur censuel.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (157,0,'jpilla','Goyle : Notre-Dame de Goailles (auj. sur la commune de Salins), abbaye d’augustins (dioc. Besançon). L’abbaye est citée ici comme seigneur censuel ; le document peut fort bien être une expédition de l’acte qui lui a été remise à ce titre (seules d’éventuelles notes dorsales, apposées au chartrier de l’abbaye, pourraient confirmer l’hypothèse).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (158,0,'jpilla','nos nos devittons : comprendre " nous nous dévêtons " (nous abandonnons nos droits sur le bien).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (159,0,'jpilla','envittons : symétrique de “devittons” : « [nous] investissons [de nos droits le nouveau détenteur] ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (160,0,'jpilla','Comprendre : serments.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (161,0,'jpilla','seignour : on pouvait hésiter entre plusieurs développements de l’abréviation, mais, à sa dernière occurrence (troisième ligne avant la fin), le scripteur donne la forme développée, que l’on applique aux autres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (162,0,'jpilla','roy de France : Le roi Philippe le Bel avait obtenu au traité de Vincennes (2 mars 1295) l’administration de la Comté de Bourgogne (auj. Franche-Comté), dot de la fille du comte Otton IV, qui devait épouser un fils du roi, le futur Philippe V ; celui-ci gouverna encore la Comté au nom de son épouse. C’est en tant qu’administrateur des possessions du comte que le roi agit ici : la seigneurie comtale de Salins était considérée comme distincte de la Comté.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (163,0,'jpilla','bourg communal : Salins était formée de deux agglomérations (bourgs) aux statuts différents. Le Bourg-Dessous était entièrement aux mains du comte de la Comté (d’où son autre nom de Bourg-le-Comte). Le Bourg-Dessus (ou Bourg-le-Sire), où se trouvait la grande saunerie, avait été partagé en 1267 entre plusieurs héritiers de son seigneur primitif (le comte de la Comté put acquérir une partie de ces droits, mais pas tous), d’où son autre nom de "Bourg communal", c’est-à-dire tenu en commun par plusieurs seigneurs ; les intérêts de ceux-ci étaient gérés par un prévôt commun.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,150,9,49);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,151,49,57);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,152,57,66);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,153,66,109);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,154,109,145);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,155,145,173);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,156,173,185);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,157,185,203);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,158,203,221);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,159,221,230);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,160,230,239);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,161,239,264);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,162,264,288);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,163,288,322);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (164,0,'jpilla','Amaury de Montfort, fils et successeur de Simon de Montfort († 1218). Il cède au roi de France en 1224 ses droits dans le Midi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (165,0,'jpilla','Aymeri, vicomte de Narbonne de 1193 à 1239, habile à monnayer son ralliement à Simon de Montfort et à l’archevêque Arnaud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (166,0,'jpilla','L’expression d’homme lige désigne ici, dans son acception classique, le vassal lié à son seigneur principal par un lien féodal primant sur ses obligations vis-à-vis d’autres seigneurs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (167,0,'jpilla','Traditionnellement identifié avec Lézignan-la-Cèbe (Hérault, cant. Montagnac), près de Pézenas ; pourrait être aussi Lézignan-Corbières (Aude, ch.-l. cant.), sur la route de Carcassonne à Narbonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (168,0,'jpilla','Guy de Montfort, frère de Simon († 1228).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (169,0,'jpilla','La monnaie de Melgueil, auj. Mauguio (Hérault, ch.-l. cant.), est constituée de deniers « melgoriens » ; on parle logiquement de « livres de [deniers] melgoriens ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (170,0,'jpilla','« Aide et conseil » sont les deux grandes obligations liant le vassal à son seigneur ; le terme « faveur », complétant le triptyque, est plus rare.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (171,0,'jpilla','Les cardinaux-prêtres portent explicitement le nom du « titre » (= église paroissiale de Rome) dont ils sont les desservants primitifs (par opposition, on parle simplement de cardinal-diacre « de » telle église, ou du cardinal-évêque « de » tel siège suburbicaire). Bertrand Savelli, neveu du pape Innocent III, cardinal-prêtre du titre des Saints-Jean-et-Paul (1216-1222), était légat pontifical en plusieurs provinces et diocèses du Midi de la France depuis le début de 1217.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (172,0,'jpilla','Les cardinaux-prêtres portent explicitement le nom du « titre » (= église paroissiale de Rome) dont ils sont les desservants primitifs (par opposition, on parle simplement de cardinal-diacre « de » telle église, ou du cardinal-évêque « de » tel siège suburbicaire). Bertrand Savelli, neveu du pape Innocent III, cardinal-prêtre du titre des Saints-Jean-et-Paul (1216-1222), était légat pontifical en plusieurs provinces et diocèses du Midi de la France depuis le début de 1217.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (173,0,'jpilla','Les cardinaux-prêtres portent explicitement le nom du « titre » (= église paroissiale de Rome) dont ils sont les desservants primitifs (par opposition, on parle simplement de cardinal-diacre « de » telle église, ou du cardinal-évêque « de » tel siège suburbicaire). Bertrand Savelli, neveu du pape Innocent III, cardinal-prêtre du titre des Saints-Jean-et-Paul (1216-1222), était légat pontifical en plusieurs provinces et diocèses du Midi de la France depuis le début de 1217.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (174,0,'jpilla','Le quatre des nones de janvier est le 2 janvier. Faute d’étude adéquate, il est difficile de décider si le rédacteur a suivi un usage septentrional (style de Pâques), qui imposerait de convertir le millésime en « 1220 », ou le style de Noël, d’usage normal à Béziers comme à Narbonne (le millésime « 1219 » aurait alors été changé depuis le 25 décembre précédant, et correspondrait donc au millésime 1219 n. st.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (175,0,'jpilla','Le quatre des nones de janvier est le 2 janvier. Faute d’étude adéquate, il est difficile de décider si le rédacteur a suivi un usage septentrional (style de Pâques), qui imposerait de convertir le millésime en « 1220 », ou le style de Noël, d’usage normal à Béziers comme à Narbonne (le millésime « 1219 » aurait alors été changé depuis le 25 décembre précédant, et correspondrait donc au millésime 1219 n. st.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (176,0,'jpilla','Amaury de Montfort, fils et successeur de Simon de Montfort († 1218). Il cède au roi de France en 1224 ses droits dans le Midi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (177,0,'jpilla','Aymeri, vicomte de Narbonne de 1193 à 1239, habile à monnayer son ralliement à Simon de Montfort et à l’archevêque Arnaud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (178,0,'jpilla','Aymeri, vicomte de Narbonne de 1193 à 1239, habile à monnayer son ralliement à Simon de Montfort et à l’archevêque Arnaud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (179,0,'jpilla','L’expression d’homme lige désigne ici, dans son acception classique, le vassal lié à son seigneur principal par un lien féodal primant sur ses obligations vis-à-vis d’autres seigneurs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (180,0,'jpilla','Traditionnellement identifié avec Lézignan-la-Cèbe (Hérault, cant. Montagnac), près de Pézenas ; pourrait être aussi Lézignan-Corbières (Aude, ch.-l. cant.), sur la route de Carcassonne à Narbonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (181,0,'jpilla','Guy de Montfort, frère de Simon († 1228).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (182,0,'jpilla','La monnaie de Melgueil, auj. Mauguio (Hérault, ch.-l. cant.), est constituée de deniers « melgoriens » ; on parle logiquement de « livres de [deniers] melgoriens ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (183,0,'jpilla','« Aide et conseil » sont les deux grandes obligations liant le vassal à son seigneur ; le terme « faveur », complétant le triptyque, est plus rare.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (184,0,'jpilla','Les cardinaux-prêtres portent explicitement le nom du « titre » (= église paroissiale de Rome) dont ils sont les desservants primitifs (par opposition, on parle simplement de cardinal-diacre « de » telle église, ou du cardinal-évêque « de » tel siège suburbicaire). Bertrand Savelli, neveu du pape Innocent III, cardinal-prêtre du titre des Saints-Jean-et-Paul (1216-1222), était légat pontifical en plusieurs provinces et diocèses du Midi de la France depuis le début de 1217.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (185,0,'jpilla','Le quatre des nones de janvier est le 2 janvier. Faute d’étude adéquate, il est difficile de décider si le rédacteur a suivi un usage septentrional (style de Pâques), qui imposerait de convertir le millésime en « 1220 », ou le style de Noël, d’usage normal à Béziers comme à Narbonne (le millésime « 1219 » aurait alors été changé depuis le 25 décembre précédant, et correspondrait donc au millésime 1219 n. st.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (186,0,'jpilla','Le quatre des nones de janvier est le 2 janvier. Faute d’étude adéquate, il est difficile de décider si le rédacteur a suivi un usage septentrional (style de Pâques), qui imposerait de convertir le millésime en « 1220 », ou le style de Noël, d’usage normal à Béziers comme à Narbonne (le millésime « 1219 » aurait alors été changé depuis le 25 décembre précédant, et correspondrait donc au millésime 1219 n. st.).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,164,3,24);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,165,24,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,166,46,55);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,167,55,72);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,168,72,115);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,169,115,150);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,170,150,209);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,171,209,234);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,172,234,335);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,173,335,358);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,174,358,371);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,175,371,401);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,176,401,415);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,177,415,418);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,178,418,452);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,179,452,479);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,180,479,504);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,181,504,517);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,182,517,552);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,183,552,577);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,184,577,627);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,185,627,633);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,186,633,660);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (187,0,'jpilla','Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (188,0,'jpilla','Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (189,0,'jpilla','Abbaye cistercienne créée par le comte de Toulouse Raymond V et l’évêque de Rodez Hugues en 1162. Aveyron, arr. Rodez, cant. Cassagnes-Bégonhès, comm. Calmont.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (190,0,'jpilla','Bertrand II, abbé de Bonnecombe (1200-1203).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (191,0,'jpilla','Aveyron, arr. Rodez, cant. Marcillac-Vallon, comm. Clairvaux-d’Aveyron.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (192,0,'jpilla','Aveyron, arr. Rodez, comm. Pont-de-Salars.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (193,0,'jpilla','Haute-Loire, arr. Brioude, cant. Langeac.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (194,0,'jpilla','Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (195,0,'jpilla','Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (196,0,'jpilla','Abbaye cistercienne créée par le comte de Toulouse Raymond V et l’évêque de Rodez Hugues en 1162. Aveyron, arr. Rodez, cant. Cassagnes-Bégonhès, comm. Calmont.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (197,0,'jpilla','Bertrand II, abbé de Bonnecombe (1200-1203).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (198,0,'jpilla','Aveyron, arr. Rodez, cant. Marcillac-Vallon, comm. Clairvaux-d’Aveyron.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (199,0,'jpilla','Aveyron, arr. Rodez, comm. Pont-de-Salars.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (200,0,'jpilla','Haute-Loire, arr. Brioude, cant. Langeac.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,187,22,26);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,188,26,93);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,189,93,103);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,190,103,118);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,191,118,127);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,192,127,138);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,193,138,161);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,194,161,165);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,195,165,217);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,196,217,231);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,197,231,253);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,198,253,262);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,199,262,300);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,200,300,322);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (201,0,'jpilla','trobar : " Quelque soit l’origine (durement discutée) du mot trobar, il est clair qu’il faut en retenir, outre ce qu’il désigne, l’art des troubadours et ses productions, l’idée de découverte, qu’on retrouve dans la proximité du français trouver.…Par le trobar se dévoile la nature de l’amour, d’où il vient, ce qu’il est, qui l’éprouve, pour qui et la joie. Trouver, trobar, c’est trouver l’ amour, c’est trouver d’amour, trobar d’amor. " (Jacques Roubaud, La fleur inverse. Essai sur l’art formel des troubadours, Paris, 1986, p. 185-186).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (202,0,'jpilla','évêché de Gévaudan : évêché de Mende ; le pays de Gévaudan correspond à peu près à l’actuel département de la Lozère.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (203,0,'jpilla','Lesperon : Ardèche, arr. Largentière, cant. Coucouron.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (204,0,'jpilla','Dauphin d’Auvergne (? - 22 mars 1235) fils de Guillaume le Jeune, comte de Clermont à qui il succéda après 1169 peut-être après 1181-1182.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (205,0,'jpilla','trobar : " Quelque soit l’origine (durement discutée) du mot trobar, il est clair qu’il faut en retenir, outre ce qu’il désigne, l’art des troubadours et ses productions, l’idée de découverte, qu’on retrouve dans la proximité du français trouver.…Par le trobar se dévoile la nature de l’amour, d’où il vient, ce qu’il est, qui l’éprouve, pour qui et la joie. Trouver, trobar, c’est trouver l’ amour, c’est trouver d’amour, trobar d’amor. " (Jacques Roubaud, La fleur inverse. Essai sur l’art formel des troubadours, Paris, 1986, p. 185-186).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (206,0,'jpilla','évêché de Gévaudan : évêché de Mende ; le pays de Gévaudan correspond à peu près à l’actuel département de la Lozère.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (207,0,'jpilla','Lesperon : Ardèche, arr. Largentière, cant. Coucouron.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (208,0,'jpilla','Dauphin d’Auvergne (? - 22 mars 1235) fils de Guillaume le Jeune, comte de Clermont à qui il succéda après 1169 peut-être après 1181-1182.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,201,7,33);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,202,33,66);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,203,66,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,204,74,118);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,205,118,129);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,206,129,153);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,207,153,176);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,208,176,194);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (209,0,'jpilla','Loys : Le futur Louis XI, détenteur du Dauphiné en tant que fils aîné du roi de France, a porté une grande attention à la province, qu’il a en particulier activement administrée après s’être brouillé avec son père en 1446.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (210,0,'jpilla','daulphin de Viennoys : Acquis par le roi de France Philippe VI en 1343, le Dauphiné de Viennois, terre d’Empire, passe dès 1344 au futur Jean II. La règle s’observe jusqu’en 1461 de le confier au fils aîné du roi de France. Le maintien des institutions régionales se marque aussi dans le domaine diplomatique, avec l’usage d’un sceau (le « sceau dauphin ») et d’une chancellerie propres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (211,0,'jpilla','conte de Valentinoys et de Dioys :Éléments complémentaires de la titulature delphinale à compter de 1419, date à laquelle le Valentinois (région de Valence) et une partie du Diois (région de Die) sont rattachés au Dauphiné ; ces terres correspondaient à peu près à la partie de l’actuel département de la Drôme qui ne relevait pas à l’origine du Dauphiné.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (212,0,'jpilla','Granhan : Grignan (Drôme, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (213,0,'jpilla','accort et traictié : L’échange dont il va être question a été conclu le 25 mai (E. Pilot de Thorey, Catalogue des actes du dauphin Louis II…, Grenoble, 1899-1911, n° 455, qui ignore le présent acte).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (214,0,'jpilla','Grillen : Grillon, aujourd’hui dans le Vaucluse (cant. Valréas), est à 5 km au sud-est de Grignan. Le dauphin Louis s’était engagé dès le 13 mai à remettre la seigneurie au pape.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (215,0,'jpilla','a la terre : Comprendre « avec la terre ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (216,0,'jpilla','Marsenne : Marsanne (Drôme, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (217,0,'jpilla','peage de Laine et des empses de Savasse : Leyne (Drôme, cant. Marsanne, comm. Savasse) était un ancien château des comtes de Valentinois ; supprimé au XVIIe siècle, le péage dit « de Leyne et des anses de Savasse » est attesté dès 1207.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (218,0,'jpilla','Hugues de Verdun : Personnage non retrouvé ; mais plus tard une lettre du roi Louis XI (éd. J. Vaesen, t. III, p. 1) cite un « Jeannot de Sainte-Camelle », écuyer d’écurie du roi, implanté à Montpellier. On peut donc identifier ici Verdun avec Verdun-en-Lauragais (Aude, cant. Castelnaudary).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (219,0,'jpilla','Sainte Camelle : Sainte-Camelle (Aude, cant. Salles-sur-l’Hers).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (220,0,'jpilla','Monteil Aymart : Montélimar (Drôme, ch.-l. cant.). On sait d’après les actes que le dauphin Louis y réside au moins du 16 mai au 29 juin 1447.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (221,0,'jpilla','Bochetel : Jean Bochetel, secrétaire (depuis 1439 au moins) et fidèle serviteur du dauphin Louis, apparaît comme contrôleur des finances du Dauphiné en décembre 1447 ; il sert ensuite le roi Louis XI jusqu’à sa mort en 1470.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,209,0,36);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,210,36,58);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,211,58,91);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,212,91,119);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,213,119,181);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,214,181,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,215,189,199);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,216,199,208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,217,208,263);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,218,263,280);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,219,280,320);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,220,320,372);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,221,372,390);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (222,0,'jpilla','M(athildis) comitissa Bolonie : Mahaut de Dammartin, comtesse de Boulogne, avait successivement épousé Philippe Hurepel (bâtard de Philippe Auguste, † 1234, dont naît Jeanne), puis Alphonse de Portugal (neveu par sa mère de Blanche de Castille).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (223,0,'jpilla','Alfonso : Fils du roi de Portugal Afonso II († 1223) et frère cadet du roi alors régnant, Sancho II ; celui-ci déposé en 1245, Alphonse gagnera le Portugal comme régent avant d’y devenir roi en 1248 sous le nom d’Afonso III.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (224,0,'jpilla','parisiensium : Génitif pluriel de rigueur en latin, car denariorum est sous-entendu (mais l’usage s’est perdu en français contemporain, qui parle de « livres parisis » plutôt que de « livres de parisis »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (225,0,'jpilla','libratis : Une « livrée de terre » est une unité abstraite de mesure, qui désigne la capacité de percevoir une livre de revenus annuels assis sur la terre, quel que soit le mode de détention (posséder une terre de ce rapport, détenir une rente de ce montant assise sur une terre, etc.). Il y a naturellement autant de « livrées » que de genre de monnaie, parisis, tournois, etc. ; les textes en ancien français parlent ainsi parfois de « livrée attournois » (= ad turonenses), etc.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (226,0,'jpilla','litteras suas patentes : voir la partie synthèse du commentaire diplomatique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (227,0,'jpilla','M(athildis) comitissa Bolonie : Mahaut de Dammartin, comtesse de Boulogne, avait successivement épousé Philippe Hurepel (bâtard de Philippe Auguste, † 1234, dont naît Jeanne), puis Alphonse de Portugal (neveu par sa mère de Blanche de Castille).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (228,0,'jpilla','Alfonso : Fils du roi de Portugal Afonso II († 1223) et frère cadet du roi alors régnant, Sancho II ; celui-ci déposé en 1245, Alphonse gagnera le Portugal comme régent avant d’y devenir roi en 1248 sous le nom d’Afonso III.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (229,0,'jpilla','parisiensium : Génitif pluriel de rigueur en latin, car denariorum est sous-entendu (mais l’usage s’est perdu en français contemporain, qui parle de « livres parisis » plutôt que de « livres de parisis »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (230,0,'jpilla','libratis : Une « livrée de terre » est une unité abstraite de mesure, qui désigne la capacité de percevoir une livre de revenus annuels assis sur la terre, quel que soit le mode de détention (posséder une terre de ce rapport, détenir une rente de ce montant assise sur une terre, etc.). Il y a naturellement autant de « livrées » que de genre de monnaie, parisis, tournois, etc. ; les textes en ancien français parlent ainsi parfois de « livrée attournois » (= ad turonenses), etc.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (231,0,'jpilla','litteras suas patentes : voir la partie synthèse du commentaire diplomatique.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,222,4,55);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,223,55,83);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,224,83,105);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,225,105,115);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,226,115,151);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,227,151,181);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,228,181,226);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,229,226,266);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,230,266,284);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,231,284,305);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (232,0,'jpilla','VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (233,0,'jpilla','Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (234,0,'jpilla','Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (235,0,'jpilla','conventus : Face à l’abbé, le " convent " est l’ensemble de la communauté monastique ; le droit canon s’attache alors, depuis quelques décennies, à préciser le jeu institutionnel entre les deux instances dans le gouvernement des maisons religieuses, et à poser un pouvoir de contrôle du convent sur la gestion abbatiale. Reconnu comme une personne morale, le convent a désormais un sceau distinct de celui de l’abbé : l’un et l’autre serviront à sceller le présent acte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (236,0,'jpilla','hominem : "Homme", au sens féodal (il s’applique alors, tel quel, aussi bien à des femmes) : vassal qui a fait hommage.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (237,0,'jpilla','pactiones : Du sens générique de " pacte ", " accord ", le terme semble ici tirer celui de " possession ou droit reconnu à la suite d’un accord ". De fait, l’accord passé entre l’abbé de Moissac et Simon de Montfort, ici confirmé (voir commentaire ci-après), avait réglé le partage des dépouilles du comte Raimond VI dans la région de Moissac.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (238,0,'jpilla','habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (239,0,'jpilla','Testibus : voir la partie synthèse du commentaire diplomatique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (240,0,'jpilla','Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (241,0,'jpilla','VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (242,0,'jpilla','VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (243,0,'jpilla','Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (244,0,'jpilla','Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (245,0,'jpilla','conventus : Face à l’abbé, le " convent " est l’ensemble de la communauté monastique ; le droit canon s’attache alors, depuis quelques décennies, à préciser le jeu institutionnel entre les deux instances dans le gouvernement des maisons religieuses, et à poser un pouvoir de contrôle du convent sur la gestion abbatiale. Reconnu comme une personne morale, le convent a désormais un sceau distinct de celui de l’abbé : l’un et l’autre serviront à sceller le présent acte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (246,0,'jpilla','hominem : "Homme", au sens féodal (il s’applique alors, tel quel, aussi bien à des femmes) : vassal qui a fait hommage.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (247,0,'jpilla','pactiones : Du sens générique de " pacte ", " accord ", le terme semble ici tirer celui de " possession ou droit reconnu à la suite d’un accord ". De fait, l’accord passé entre l’abbé de Moissac et Simon de Montfort, ici confirmé (voir commentaire ci-après), avait réglé le partage des dépouilles du comte Raimond VI dans la région de Moissac.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (248,0,'jpilla','habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (249,0,'jpilla','habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (250,0,'jpilla','Testibus : voir la partie synthèse du commentaire diplomatique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (251,0,'jpilla','Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,232,5,48);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,233,48,69);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,234,69,90);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,235,90,147);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,236,147,174);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,237,174,193);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,238,193,248);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,239,248,274);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,240,274,306);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,241,306,310);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,242,310,333);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,243,333,341);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,244,341,382);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,245,382,406);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,246,406,418);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,247,418,457);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,248,457,462);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,249,462,505);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,250,505,526);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,251,526,559);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (252,0,'jpilla','Francorum et Navarre rege : Appliqué ici à Charles IV le Bel (1322-1328), le titre est double, comme il est de règle sous les trois fils de Philippe le Bel, qui héritèrent de leur père la couronne de Navarre. Noter que le rédacteur de l’acte suit les usages de la chancellerie royale, qui maintient en latin le traditionnel Francorum (mais d’autres rédacteurs peuvent employer Francie).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (253,0,'jpilla','Marologio : Marvejols, Lozère, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (254,0,'jpilla','discreto viro : Le titre de courtoisie d’« homme discret », « discrète personne », commence à se répandre ; il faut prendre « discret » au sens étymologique : « plein de discernement », « sage ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (255,0,'jpilla','senescallia Bellicadri et Nemausi : La sénéchaussée de Beaucaire(-Nîmes) est, avec celle de Carcassonne(-Béziers), l’une des deux plus anciennes sénéchaussées capétiennes du Midi, formées en 1229 des terres alors reconnues au roi de France.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (256,0,'jpilla','Larsis : Larcis, Lozère, cant. Marvejols, comm. Antrenas.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (257,0,'jpilla','turonensium : Comme tous les autres noms d’espèces monétaires, l’adjectif substantivé turonensis/-es se rapporte aux seules pièces effectivement monnayées à l’origine, les deniers ; on l’emploie donc invariablement au génitif pluriel quand il s’applique à des livres et/ou à des sous « de [deniers] tournois » ; mais, en français moderne, on a pris l’habitude de ne plus parler en général que de « livres/sous tournois ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (258,0,'jpilla','Gaballitani : Le Gévaudan correspond de près à l’ancien diocèse de Mende et à l’actuel département de la Lozère.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (259,0,'jpilla','Benevento : La localité n’a pu être identifiée, si elle est bien sise en Gévaudan.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (260,0,'jpilla','terre de Petra : L’ancienne seigneurie de Peyre (Lozère, cant. Aumont-Aubrac, comm. Saint-Sauveur-de-Peyre) a laissé de nombreuses traces toponymiques, étirées le long de la route d’Aumont-Aubrac à Marvejols (Sainte-Colombe-, Saint-Léger-de-Peyre…). Le renvoi qui y est ici fait sert sans doute à préciser l’identification de « Larcis-de-Peyre ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (261,0,'jpilla','Helie Bernardi : forme onomastique typique, qui accompagne le nom personnel d’un patronyme au génitif (« fils de » est sous-entendu).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (262,0,'jpilla','formam : Le scribe a par erreur noté deux fois le “m” final (une fois par un tilde, une fois par un “m” renversé en forme de “z”).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (263,0,'jpilla','Francorum et Navarre rege : Appliqué ici à Charles IV le Bel (1322-1328), le titre est double, comme il est de règle sous les trois fils de Philippe le Bel, qui héritèrent de leur père la couronne de Navarre. Noter que le rédacteur de l’acte suit les usages de la chancellerie royale, qui maintient en latin le traditionnel Francorum (mais d’autres rédacteurs peuvent employer Francie).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (264,0,'jpilla','Marologio : Marvejols, Lozère, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (265,0,'jpilla','discreto viro : Le titre de courtoisie d’« homme discret », « discrète personne », commence à se répandre ; il faut prendre « discret » au sens étymologique : « plein de discernement », « sage ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (266,0,'jpilla','senescallia Bellicadri et Nemausi : La sénéchaussée de Beaucaire(-Nîmes) est, avec celle de Carcassonne(-Béziers), l’une des deux plus anciennes sénéchaussées capétiennes du Midi, formées en 1229 des terres alors reconnues au roi de France.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (267,0,'jpilla','Larsis : Larcis, Lozère, cant. Marvejols, comm. Antrenas.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (268,0,'jpilla','turonensium : Comme tous les autres noms d’espèces monétaires, l’adjectif substantivé turonensis/-es se rapporte aux seules pièces effectivement monnayées à l’origine, les deniers ; on l’emploie donc invariablement au génitif pluriel quand il s’applique à des livres et/ou à des sous « de [deniers] tournois » ; mais, en français moderne, on a pris l’habitude de ne plus parler en général que de « livres/sous tournois ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (269,0,'jpilla','Gaballitani : Le Gévaudan correspond de près à l’ancien diocèse de Mende et à l’actuel département de la Lozère.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (270,0,'jpilla','Benevento : La localité n’a pu être identifiée, si elle est bien sise en Gévaudan.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (271,0,'jpilla','terre de Petra : L’ancienne seigneurie de Peyre (Lozère, cant. Aumont-Aubrac, comm. Saint-Sauveur-de-Peyre) a laissé de nombreuses traces toponymiques, étirées le long de la route d’Aumont-Aubrac à Marvejols (Sainte-Colombe-, Saint-Léger-de-Peyre…). Le renvoi qui y est ici fait sert sans doute à préciser l’identification de « Larcis-de-Peyre ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (272,0,'jpilla','Helie Bernardi : forme onomastique typique, qui accompagne le nom personnel d’un patronyme au génitif (« fils de » est sous-entendu).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (273,0,'jpilla','formam : Le scribe a par erreur noté deux fois le “m” final (une fois par un tilde, une fois par un “m” renversé en forme de “z”).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,252,6,50);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,253,50,59);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,254,59,81);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,255,81,144);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,256,144,164);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,257,164,186);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,258,186,204);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,259,204,213);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,260,213,246);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,261,246,269);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,262,269,314);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,263,314,342);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,264,342,363);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,265,363,380);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,266,380,418);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,267,418,428);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,268,428,452);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,269,452,466);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,270,466,480);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,271,480,495);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,272,495,514);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,273,514,545);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (274,0,'jpilla','Morinensis : Thérouanne (à l’origine, cité des Morins), siège d’évêché jusqu’en 1553, date où la ville est rasée avant que le diocèse ne soit partagé entre trois nouveaux sièges (Saint-Omer, Ypres et Boulogne) ; auj. village du Pas-de-Calais, cant. Aire-sur-la-Lys.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (275,0,'jpilla','rege Franc’ : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l’auteur suit l’usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l’expression française correspondante, roi de France). Il s’agit de Philippe VI, monté sur le trône en 1328.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (276,0,'jpilla','Johannis de Hautebruiere : La traduction pose moins de problème que l’identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr’ qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d’anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (277,0,'jpilla','Johannis de Hautebruiere : La traduction pose moins de problème que l’identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr’ qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d’anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (278,0,'jpilla','parisiensium forcium : Comprendre « livres [de deniers] parisis forts », d’où l’emploi impératif (et quasi toujours suivi dans les textes de l’époque) du génitif pluriel. Le qualificatif de « [deniers] forts » (fortes, inforciati…), par opposition aux « [deniers] faibles » (debiles), renvoie de façon générique à une monnaie renforcée (dans son poids et/ou son titre), de plus fort pouvoir libératoire ; il s’agit ici de la “bonne monnaie” émise au début du règne de Philippe VI (mise en circulation à Pâques 1330).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (279,0,'jpilla','Fienles : Fiennes, Pas-de-Calais, cant. Guînes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (280,0,'jpilla','Tingry : Tingry, Pas-de-Calais, cant. Samer.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (281,0,'jpilla','guerra Flandrensi : La “guerre de Flandre” ici visée a vu Philippe VI soutenir le comte Louis Ier contre les échevinages révoltés de Bruges et d’Ypres ; elle a culminé dans la grande victoire royale de Cassel (1328).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (282,0,'jpilla','Morinensis : Thérouanne (à l’origine, cité des Morins), siège d’évêché jusqu’en 1553, date où la ville est rasée avant que le diocèse ne soit partagé entre trois nouveaux sièges (Saint-Omer, Ypres et Boulogne) ; auj. village du Pas-de-Calais, cant. Aire-sur-la-Lys.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (283,0,'jpilla','rege Franc’ : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l’auteur suit l’usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l’expression française correspondante, roi de France). Il s’agit de Philippe VI, monté sur le trône en 1328.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (284,0,'jpilla','rege Franc’ : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l’auteur suit l’usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l’expression française correspondante, roi de France). Il s’agit de Philippe VI, monté sur le trône en 1328.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (285,0,'jpilla','Johannis de Hautebruiere : La traduction pose moins de problème que l’identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr’ qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d’anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (286,0,'jpilla','Johannis de Hautebruiere : La traduction pose moins de problème que l’identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr’ qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d’anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (287,0,'jpilla','parisiensium forcium : Comprendre « livres [de deniers] parisis forts », d’où l’emploi impératif (et quasi toujours suivi dans les textes de l’époque) du génitif pluriel. Le qualificatif de « [deniers] forts » (fortes, inforciati…), par opposition aux « [deniers] faibles » (debiles), renvoie de façon générique à une monnaie renforcée (dans son poids et/ou son titre), de plus fort pouvoir libératoire ; il s’agit ici de la “bonne monnaie” émise au début du règne de Philippe VI (mise en circulation à Pâques 1330).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (288,0,'jpilla','parisiensium forcium : Comprendre « livres [de deniers] parisis forts », d’où l’emploi impératif (et quasi toujours suivi dans les textes de l’époque) du génitif pluriel. Le qualificatif de « [deniers] forts » (fortes, inforciati…), par opposition aux « [deniers] faibles » (debiles), renvoie de façon générique à une monnaie renforcée (dans son poids et/ou son titre), de plus fort pouvoir libératoire ; il s’agit ici de la “bonne monnaie” émise au début du règne de Philippe VI (mise en circulation à Pâques 1330).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (289,0,'jpilla','Fienles : Fiennes, Pas-de-Calais, cant. Guînes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (290,0,'jpilla','Tingry : Tingry, Pas-de-Calais, cant. Samer.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (291,0,'jpilla','guerra Flandrensi : La “guerre de Flandre” ici visée a vu Philippe VI soutenir le comte Louis Ier contre les échevinages révoltés de Bruges et d’Ypres ; elle a culminé dans la grande victoire royale de Cassel (1328).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,274,4,24);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,275,24,37);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,276,37,49);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,277,49,80);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,278,80,118);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,279,118,132);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,280,132,140);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,281,140,168);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,282,168,188);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,283,188,197);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,284,197,220);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,285,220,227);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,286,227,260);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,287,260,268);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,288,268,311);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,289,311,325);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,290,325,331);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,291,331,350);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (292,0,'jpilla','q surmonté d’un tilde est la seule forme que le texte offre pour la conjonction ou le relatif que : si l’on trouve des formes Pasqes (l. 3), chasqe (l.), aqest, l’on trouve en revanche le relatif sous la forme developpée qui. Cette dernière forme peut justifier la transcription que.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (293,0,'jpilla','étal : banx correspond à l’ancien français banc ou banc charnier qui désigne l’étal du boucher. Le latin médiéval dit banca : « Item de quolibet macellario vendente in macello die for pro tota septimana capiuntur pro banca duo denarii »(1309, Dauphiné, cité dans le Glossarium… de Du Cange).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (294,0,'jpilla','Gui Boti : le patronyme Boty, Bouty figure dans les Tables générales des six volumes des registres consulaires [de la ville de Limoges] par M. Émile Hervy, t. VI, 1871, p. 445-578.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (295,0,'jpilla','VI surmonté de ex suscrit (l. 7) représente siex.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (296,0,'jpilla','la Saint-Martial : le 30 juin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (297,0,'jpilla','denerée : l’occitan denairada comme l’ancien français denerée désigne une chose de la valeur d’un denier, une petite quantité de la valeur d’un denier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (298,0,'jpilla','J. Arnaus, M. Arnaus : le patronyme Arnaud, Arnault figure dans les Tables générales des six volumes des registres consulaires [de la ville de Limoges] par M. Émile Hervy, t. VI, 1871, p. 445-578');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (299,0,'jpilla','J. Arnaus, M. Arnaus : le patronyme Arnaud, Arnault figure dans les Tables générales des six volumes des registres consulaires [de la ville de Limoges] par M. Émile Hervy, t. VI, 1871, p. 445-578');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (300,0,'jpilla','étal : banx correspond à l’ancien français banc ou banc charnier qui désigne l’étal du boucher. Le latin médiéval dit banca : « Item de quolibet macellario vendente in macello die for pro tota septimana capiuntur pro banca duo denarii »(1309, Dauphiné, cité dans le Glossarium… de Du Cange).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (301,0,'jpilla','Gui Boti : le patronyme Boty, Bouty figure dans les Tables générales des six volumes des registres consulaires [de la ville de Limoges] par M. Émile Hervy, t. VI, 1871, p. 445-578.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (302,0,'jpilla','la Saint-Jean : le 24 juin.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,292,20,34);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,293,34,58);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,294,58,79);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,295,79,97);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,296,97,121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,297,121,154);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,298,154,183);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,299,183,253);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,300,253,261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,301,261,277);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,302,277,287);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (303,0,'jpilla','Vendeuil, Aisne, cant. Moÿ-de-l’Aisne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (304,0,'jpilla','La " livrée " (librata) est un mode d’évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d’une livre, qu’elle consiste effectivement en terre, ou que l’on prévoie (plus ou moins activement) d’asseoir à terme le revenu sur la possession d’une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées " à parisis ", " attournois " etc.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (305,0,'jpilla','Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (306,0,'jpilla','Péronne, Somme, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (307,0,'jpilla','L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. " pars ").');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (308,0,'jpilla','L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. " pars ").');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (309,0,'jpilla','excantia est l’une de formes du substantif tiré de excadere, " échoir " (Du Cange, s.v. " excancia "). Le dictionnaire de Niermeyer (s.v. " excaduta ") montre bien que cette " échoite " peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la " part de succession échéant à un autre que l’héritier direct ", puis le " retour de fief au seigneur par défaut de succession ou confiscation ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (310,0,'jpilla','jus peut renvoyer à la justice (cf. " ester en droit "), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (311,0,'jpilla','jus peut renvoyer à la justice (cf. " ester en droit "), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (312,0,'jpilla','Vendeuil, Aisne, cant. Moÿ-de-l’Aisne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (313,0,'jpilla','La " livrée " (librata) est un mode d’évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d’une livre, qu’elle consiste effectivement en terre, ou que l’on prévoie (plus ou moins activement) d’asseoir à terme le revenu sur la possession d’une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées " à parisis ", " attournois " etc.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (314,0,'jpilla','Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (315,0,'jpilla','Péronne, Somme, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (316,0,'jpilla','L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. " pars ").');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (317,0,'jpilla','excantia est l’une de formes du substantif tiré de excadere, " échoir " (Du Cange, s.v. " excancia "). Le dictionnaire de Niermeyer (s.v. " excaduta ") montre bien que cette " échoite " peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la " part de succession échéant à un autre que l’héritier direct ", puis le " retour de fief au seigneur par défaut de succession ou confiscation ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (318,0,'jpilla','jus peut renvoyer à la justice (cf. " ester en droit "), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,303,14,35);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,304,35,44);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,305,44,56);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,306,56,77);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,307,77,86);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,308,86,112);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,309,112,138);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,310,138,152);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,311,152,196);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,312,196,208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,313,208,224);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,314,224,270);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,315,270,301);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,316,301,338);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,317,338,392);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,318,392,442);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (319,0,'jpilla','Nicolas d’Ermenonville est déjà attesté comme " receveur de Toulouse " en 1290. Même qualifiées du seul nom de la ville, les fonctions de receveur et de trésorier s’étendent à toute la sénéchaussée ; comme le rattachement direct au nom du roi, cette formulation (qui n’a rien à voir avec une fonction municipale) insiste sur la non-subordination au sénéchal.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (320,0,'jpilla','Guilhem de Pezens (Aude, cant. Alzonne) et ses fils apparaissent dans les comptes conservés du règne de Philippe le Bel pour leur participation quasi professionnelle à de multiples campagnes militaires dans le Midi (Comptes royaux, 1285-1314, éd. R. Fawtier), mais aussi en Flandre, pour l’ost de 1299 (Journaux du Trésor de Philippe IV, éd. J. Viard).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (321,0,'jpilla','Guilhem de Pezens (Aude, cant. Alzonne) et ses fils apparaissent dans les comptes conservés du règne de Philippe le Bel pour leur participation quasi professionnelle à de multiples campagnes militaires dans le Midi (Comptes royaux, 1285-1314, éd. R. Fawtier), mais aussi en Flandre, pour l’ost de 1299 (Journaux du Trésor de Philippe IV, éd. J. Viard).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (322,0,'jpilla','Entre-deux-Mers : région du Bordelais sise entre Garonne et Dordogne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (323,0,'jpilla','La phase active de la campagne de Gascogne s’est déroulée en 1294-1296 : la province, dont le roi de France avait prononcé la commise, fut alors largement conquise ; l’acte renvoie sans doute plutôt à la seconde phase : l’occupation par les troupes françaises, assortie parfois de la dure répression de révoltes, jusqu’au rétablissement en 1303 de la paix avec le roi d’Angleterre, qui recouvra ses fiefs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (324,0,'jpilla','La phase active de la campagne de Gascogne s’est déroulée en 1294-1296 : la province, dont le roi de France avait prononcé la commise, fut alors largement conquise ; l’acte renvoie sans doute plutôt à la seconde phase : l’occupation par les troupes françaises, assortie parfois de la dure répression de révoltes, jusqu’au rétablissement en 1303 de la paix avec le roi d’Angleterre, qui recouvra ses fiefs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (325,0,'jpilla','Operibus : L’acte reprend ici l’appellation technique de l’un des grands chapitres de dépenses des comptes royaux, les " oeuvres " ; elle recouvre en grande partie les travaux d’édification et réparation d’édifices et ouvrages, mais s’étend aussi à leur entretien et fourniture.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (326,0,'jpilla','Cadillac, Gironde, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (327,0,'jpilla','Blain ou Blaise Loup, sénéchal d’Albigeois et de Toulouse, est qualifié d’" ancien sénéchal de Toulouse " dès le 19 février 1304. Il joua un rôle essentiel lors de la conquête et de l’occupation de la Gascogne, comme " capitaine ", supervisant les opérations.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (328,0,'jpilla','Le calcul du trésorier est juste... à 3 deniers près, au bénéfice des caisses publiques. La dette totale est en effet de (1970 £ 13 s. 11 d. + 354 £ =) 2324 £ 13 s. 11 d. Défalcation faite du premier versement (1162 £ 6 s. 10 d.), resteraient donc à payer 1162 £ 7 s. 1 d. Autre façon de présenter les choses, la moitié exacte de la somme due était de 1162 £ 6 s. 11 d. obole (obole = 1/2 d.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (329,0,'jpilla','Le millésime ne peut être exprimé que dans le style (capétien) de Pâques ; la conversion 1304 (nouveau style) cadre d’ailleurs avec la titulature de l’ancien sénéchal de Toulouse, qui était encore en fonctions au tout début 1304.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (330,0,'jpilla','Le millésime ne peut être exprimé que dans le style (capétien) de Pâques ; la conversion 1304 (nouveau style) cadre d’ailleurs avec la titulature de l’ancien sénéchal de Toulouse, qui était encore en fonctions au tout début 1304.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (331,0,'jpilla','Nicolas d’Ermenonville est déjà attesté comme " receveur de Toulouse " en 1290. Même qualifiées du seul nom de la ville, les fonctions de receveur et de trésorier s’étendent à toute la sénéchaussée ; comme le rattachement direct au nom du roi, cette formulation (qui n’a rien à voir avec une fonction municipale) insiste sur la non-subordination au sénéchal.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (332,0,'jpilla','Guilhem de Pezens (Aude, cant. Alzonne) et ses fils apparaissent dans les comptes conservés du règne de Philippe le Bel pour leur participation quasi professionnelle à de multiples campagnes militaires dans le Midi (Comptes royaux, 1285-1314, éd. R. Fawtier), mais aussi en Flandre, pour l’ost de 1299 (Journaux du Trésor de Philippe IV, éd. J. Viard).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (333,0,'jpilla','Entre-deux-Mers : région du Bordelais sise entre Garonne et Dordogne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (334,0,'jpilla','La phase active de la campagne de Gascogne s’est déroulée en 1294-1296 : la province, dont le roi de France avait prononcé la commise, fut alors largement conquise ; l’acte renvoie sans doute plutôt à la seconde phase : l’occupation par les troupes françaises, assortie parfois de la dure répression de révoltes, jusqu’au rétablissement en 1303 de la paix avec le roi d’Angleterre, qui recouvra ses fiefs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (335,0,'jpilla','Operibus : L’acte reprend ici l’appellation technique de l’un des grands chapitres de dépenses des comptes royaux, les " oeuvres " ; elle recouvre en grande partie les travaux d’édification et réparation d’édifices et ouvrages, mais s’étend aussi à leur entretien et fourniture.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (336,0,'jpilla','Cadillac, Gironde, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (337,0,'jpilla','Blain ou Blaise Loup, sénéchal d’Albigeois et de Toulouse, est qualifié d’" ancien sénéchal de Toulouse " dès le 19 février 1304. Il joua un rôle essentiel lors de la conquête et de l’occupation de la Gascogne, comme " capitaine ", supervisant les opérations.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (338,0,'jpilla','Le calcul du trésorier est juste...  à 3 deniers près, au bénéfice des caisses publiques. La dette totale est en effet de (1970 £ 13 s. 11 d. + 354 £ =) 2324 £ 13 s. 11 d. Défalcation faite du premier versement (1162 £ 6 s. 10 d.), resteraient donc à payer 1162 £ 7 s. 1 d. Autre façon de présenter les choses, la moitié exacte de la somme due était de 1162 £ 6 s. 11 d. obole (obole = 1/2 d.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (339,0,'jpilla','Le millésime ne peut être exprimé que dans le style (capétien) de Pâques ; la conversion 1304 (nouveau style) cadre d’ailleurs avec la titulature de l’ancien sénéchal de Toulouse, qui était encore en fonctions au tout début 1304.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,319,3,28);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,320,28,50);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,321,50,76);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,322,76,111);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,323,111,120);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,324,120,141);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,325,141,168);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,326,168,180);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,327,180,214);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,328,214,246);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,329,246,273);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,330,273,302);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,331,302,325);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,332,325,351);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,333,351,394);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,334,394,422);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,335,422,444);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,336,444,480);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,337,480,509);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,338,509,563);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,339,563,586);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (340,0,'jpilla','Le diocèse de Verdun était divisé en quatre archidiaconés : d Argonne, de Woëvre, de La Rivière et de la Princerie ( archidiaconus primus = major), qui englobait la cité elle-même et était le plus élevé en dignité.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (341,0,'jpilla','Verdun (Meuse, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (342,0,'jpilla',' "Fiable" (= à qui l’on accorde foi) est spécialement utilisé pour caractériser des notaires-jurés d’officialité.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (343,0,'jpilla','Les Grandes-Armoises (Ardennes, cant. Le Chesne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (344,0,'jpilla','Le titre d’" écuyer " orne couramment à l’époque un rejeton de la noblesse non encore armé chevalier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (345,0,'jpilla','reires : le mot est sûrement à rapprocher du " reise " attesté en Lorraine au XIIIe siècle, et du " res " rencontré à Verdun à l’époque moderne comme mesure des grains, et eux-mêmes parents de la " rase " qui en diverses provinces désignait une mesure rase (et non comble).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (346,0,'jpilla','croueies forme lorraine du mot " corvee ", " croee " etc. (lat. croada), terre que le seigneur fait cultiver par des corvéables, d’où parfois clos, ou encore terre cultivée tout court.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (347,0,'jpilla','Gouraincourt (Meuse, cant. Spincourt) : localité à 25 km au nord-est de Verdun, en Barrois non mouvant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (348,0,'jpilla','Briey (Meuthe-et-Moselle, ch.-l. arr.). Jean des Armoises est attesté en 1333 comme châtelain de Briey.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (349,0,'jpilla','Jubécourt (Meuse, comm. et cant. Clermont-en-Argonne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (350,0,'jpilla','Manheulles (Meuse, cant. Fresne-en-Woëvre).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (351,0,'jpilla','Blanzée (Meuse, cant. Étain).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (352,0,'jpilla','En 1317, la Saint-Nicolas d’hiver (fêtée le 6 décembre) tombe un mardi ; le samedi qui suit est donc le 10 décembre 1317.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (353,0,'jpilla','Le diocèse de Verdun était divisé en quatre archidiaconés :  Argonne, de Woëvre, de La Rivière et  de la Princerie ( archidiaconus primus = major), qui englobait la cité elle-même et était le plus élevé en dignité.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (354,0,'jpilla','Verdun (Meuse, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (355,0,'jpilla',' "Fiable" (= à qui l’on accorde foi) est spécialement utilisé pour caractériser des notaires-jurés d’officialité.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (356,0,'jpilla','Les Grandes-Armoises (Ardennes, cant. Le Chesne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (357,0,'jpilla','Le titre d’" écuyer " orne couramment à l’époque un rejeton de la noblesse non encore armé chevalier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (358,0,'jpilla','reires : le mot est sûrement à rapprocher du " reise " attesté en Lorraine au XIIIe siècle, et du " res " rencontré à Verdun à l’époque moderne comme mesure des grains, et eux-mêmes parents de la " rase " qui en diverses provinces désignait une mesure rase (et non comble).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (359,0,'jpilla','croueies forme lorraine du mot " corvee ", " croee " etc. (lat. croada), terre que le seigneur fait cultiver par des corvéables, d’où parfois clos, ou encore terre cultivée tout court.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (360,0,'jpilla','Gouraincourt (Meuse, cant. Spincourt) : localité à 25 km au nord-est de Verdun, en Barrois non mouvant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (361,0,'jpilla','Briey (Meuthe-et-Moselle, ch.-l. arr.). Jean des Armoises est attesté en 1333 comme châtelain de Briey.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (362,0,'jpilla','Jubécourt (Meuse, comm. et cant. Clermont-en-Argonne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (363,0,'jpilla','Manheulles (Meuse, cant. Fresne-en-Woëvre).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (364,0,'jpilla','Blanzée (Meuse, cant. Étain).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (365,0,'jpilla','En 1317, la Saint-Nicolas d’hiver (fêtée le 6 décembre) tombe un mardi ; le samedi qui suit est donc le 10 décembre 1317.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,340,42,84);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,341,84,99);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,342,99,116);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,343,116,127);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,344,127,161);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,345,161,206);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,346,206,217);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,347,217,240);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,348,240,258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,349,258,272);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,350,272,294);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,351,294,310);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,352,310,327);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,353,327,361);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,354,361,376);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,355,376,402);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,356,402,412);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,357,412,457);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,358,457,509);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,359,509,529);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,360,529,543);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,361,543,557);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,362,557,578);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,363,578,605);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,364,605,613);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,365,613,643);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (366,0,'jpilla','Les " gens des comptes " ou, comme dit le roi, les " gens de nos comptes " (lat. gentes compotorum) ont gardé leur appellation primitive même après l’institutionnalisation de la chambre des comptes, qu’ils ont peuplée en 1320 ; leur compétence, d’abord étendue à toutes les finances, s’était réduite au contrôle des comptes et de la gestion du domaine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (367,0,'jpilla','Alors que s’étaient distingués généraux des finances (officiers créés en 1356 pour centraliser les aides) et trésoriers (apparus en 1295 pour organiser les mouvements de fonds et veiller, avec les gens des comptes, à la gestion du domaine), la réformation de l’administration en 1418, sous influence bourguignonne, vint confier aux mêmes agents centraux (generaulz), à la fois permanents (gouverneurs) et temporaires (commissaires), toutes les finances, ordinaires et extraordinaires, dans tout le royaume et non dans des circonscriptions territoriales (tant en Langue d’oïl comme en Langue d’oc).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (368,0,'jpilla','Rouages essentiels dans l’administration du bailliage ou de la sénéchaussée, le receveur centralise la gestion financière tandis que le procureur représente les intérêts du roi à la cour du bailli ou du sénéchal. Épaulant ce dernier, ces deux officiers échappent toutefois à sa tutelle pour être directement rattachés au roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (369,0,'jpilla','L’acte de Charles VI ici visé est daté du 8 août 1418 (École des chartes, f.-s. AF 252).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (370,0,'jpilla','Le comté de Charolais était alors traditionnellement attribué au fils aîné du duc de Bourgogne. Le personnage ici concerné est Philippe de Bourgogne, fils de Jean sans Peur ; né en 1396, il succédera à son père en 1419.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (371,0,'jpilla','Michelle, fille de Charles VI (+ 1422).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (372,0,'jpilla','Péronne, Somme, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (373,0,'jpilla','Roye, Somme, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (374,0,'jpilla','Montdidier, Somme, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (375,0,'jpilla','" domaine et aides " sont deux appellations génériques recouvrant les revenus ordinaires et l’" extraordinaire ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (376,0,'jpilla','" domaine et aides " sont deux appellations génériques recouvrant les revenus ordinaires et l’" extraordinaire ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (377,0,'jpilla','Les " estoremens " recouvrent une vaste gamme de biens meubles, tant les meubles au sens moderne que les fourrures, draps, etc.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (378,0,'jpilla','Le mariage a été conclu... en 1406. Aux délais en fait très communs apportés au versement de la dot se joignent ici les alternances de faveur et de défaveur du duc de Bourgogne. C’est, de fait, après s’être saisi des châtellenies (entre juin 1417 et juin 1418) et avoir regagné son influence à la cour que le duc imposa cet arrangement, qui ne faisait en réalité que légitimer sa conquête.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (379,0,'jpilla','La longue énumération des " fiefs " [fiefs-rentes, mais aussi pensions et rentes à des particuliers] et " aumônes " [rentes aumônées à des maisons religieuses et établissements d’assistance mais aussi à des serviteurs âgés ou à leurs veuves], des " gages d’officiers ", des " réparations " [entretien des bâtiments et ouvrages royaux] et " autres charges " n’est pas laissée au hasard : elle reprend les principales rubriques des comptabilités ordinaires des circonscriptions royales.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (380,0,'jpilla','Greffier de la Chambre des comptes, notaire et secrétaire du roi, Jean Le Bègue exerça de 1407 à sa mort en 1456. Sa signature a souvent été lue à tort " Lexque ", " Lergue " ou " Leeque ", mais il faut y distinguer à la fois "Le" et "B" : le "L" est conjoint avec la première partie du "B", et le "e" est enclavé dans sa panse inférieure. Le paraphe qui suit est typique des signatures de notaires et secrétaires du roi.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,366,4,29);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,367,29,104);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,368,104,134);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,369,134,168);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,370,168,191);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,371,191,203);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,372,203,215);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,373,215,220);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,374,220,234);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,375,234,242);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,376,242,262);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,377,262,312);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,378,312,340);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,379,340,390);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,380,390,399);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (381,0,'jpilla','Le qualificatif de  vénérables frères  est réservé par le pape, évêque de Rome, aux autres évêques ; toutes les autres personnes citées sont des  fils  (mais, attention, la formule stéréotypée  de consilio fratrum nostrorum  peut accompagner la mention d’une décision prise en consistoire et donc désigner les cardinaux).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (382,0,'jpilla','La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (383,0,'jpilla','La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (384,0,'jpilla','La rue aux Portes débouchait sur les anciens termes romains de Paris (emplacement actuel de l’Hôtel de Cluny).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (385,0,'jpilla','Le qualificatif de  vénérables frères  est réservé par le pape, évêque de Rome, aux autres évêques ; toutes les autres personnes citées sont des  fils  (mais, attention, la formule stéréotypée  de consilio fratrum nostrorum  peut accompagner la mention d’une décision prise en consistoire et donc désigner les cardinaux).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (386,0,'jpilla','La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (387,0,'jpilla','La rue aux Portes débouchait sur les anciens termes romains de Paris (emplacement actuel de l’Hôtel de Cluny).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,381,10,34);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,382,34,51);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,383,51,93);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,384,93,124);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,385,124,175);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,386,175,201);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,387,201,244);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (388,0,'jpilla','discretus vir : Titre de courtoisie, mot à mot " homme qui a du discernement " (donc, par défaut, qui n’est pas noble, nobilis vir).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (389,0,'jpilla','discretus vir : Titre de courtoisie, mot à mot " homme qui a du discernement " (donc, par défaut, qui n’est pas noble, nobilis vir).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (390,0,'jpilla','magister : Le titre de " maître " peut renvoyer à plusieurs réalités de qualification professionnelle ; il est ici très vraisemblablement lié à la détention d’un grade obtenu dans une école de droit.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (391,0,'jpilla','Bartholomei : Patronyme au génitif singulier : Arnaud [fils/descendant] de Barthélemy ; la forme latine donne dans le Midi des patronymes comme Barthomieu ou Bartholomé (on a choisi arbitrairement la première dans la traduction).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (392,0,'jpilla','jurisperitus : Qualificatif savant, d’empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (393,0,'jpilla','exibitorem : Incise signifiant que le procureur aura à exhiber sa procuration. L’expression lator presentium, " porteur des présentes [lettres] ", sera ensuite plus fréquente.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (394,0,'jpilla','Bitterim : On pourrait aussi développer " Bitterras " : les deux formes Bitteris, -is (sg.) et Biterre, -arum (pl., d’où Bitterris> " [à] Béziers ") sont attestées dans les textes médiévaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (395,0,'jpilla','P. : Pierre de Montbrun, archevêque de Narbonne de 1272 à 1286.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (396,0,'jpilla','prelati : Le terme de " prélat " (" placé au dessus ") semble désigner ici de façon assez vague le groupe de tous ceux qui ont des responsabilités, un pouvoir de gestion et de juridiction au sein des diocèses : archidiacres, doyens de chrétienté, supérieurs de maisons religieuses. Le terme de " pères " est plus lâche encore, qui désigne tous les participants du concile (" pères conciliaires "). La double expression semble indiquer que ce concile provincial ne réunissait que le haut de la hiérarchie, à la différence des conciles diocésains qui en principe regroupent aussi tous les curés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (397,0,'jpilla','nos : Le graveur de la lithographie a dessiné " nus ", mais la forme est si étrange qu’il faut sans doute rétablir " nos ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (398,0,'jpilla','date : En 1277, la Pentecôte tombe le dimanche 16 mai ; l’acte est donc du mercredi 19 mai 1277.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (399,0,'jpilla','discretus vir : Titre de courtoisie, mot à mot " homme qui a du discernement " (donc, par défaut, qui n’est pas noble, nobilis vir).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (400,0,'jpilla','magister : Le titre de " maître " peut renvoyer à plusieurs réalités de qualification professionnelle ; il est ici très vraisemblablement lié à la détention d’un grade obtenu dans une école de droit.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (401,0,'jpilla','Bartholomei : Patronyme au génitif singulier : Arnaud [fils/descendant] de Barthélemy ; la forme latine donne dans le Midi des patronymes comme Barthomieu ou Bartholomé (on a choisi arbitrairement la première dans la traduction).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (402,0,'jpilla','jurisperitus : Qualificatif savant, d’empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (403,0,'jpilla','exibitorem : Incise signifiant que le procureur aura à exhiber sa procuration. L’expression lator presentium, " porteur des présentes [lettres] ", sera ensuite plus fréquente.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (404,0,'jpilla','Bitterim : On pourrait aussi développer " Bitterras " : les deux formes Bitteris, -is (sg.) et Biterre, -arum (pl., d’où Bitterris> " [à] Béziers ") sont attestées dans les textes médiévaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (405,0,'jpilla','P. : Pierre de Montbrun, archevêque de Narbonne de 1272 à 1286.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (406,0,'jpilla','prelati : Le terme de " prélat " (" placé au dessus ") semble désigner ici de façon assez vague le groupe de tous ceux qui ont des responsabilités, un pouvoir de gestion et de juridiction au sein des diocèses : archidiacres, doyens de chrétienté, supérieurs de maisons religieuses. Le terme de " pères " est plus lâche encore, qui désigne tous les participants du concile (" pères conciliaires "). La double expression semble indiquer que ce concile provincial ne réunissait que le haut de la hiérarchie, à la différence des conciles diocésains qui en principe regroupent aussi tous les curés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (407,0,'jpilla','date : En 1277, la Pentecôte tombe le dimanche 16 mai ; l’acte est donc du mercredi 19 mai 1277.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,388,3,22);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,389,22,37);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,390,37,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,391,74,86);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,392,86,128);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,393,128,153);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,394,153,183);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,395,183,188);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,396,188,204);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,397,204,209);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,398,209,221);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,399,221,238);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,400,238,252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,401,252,264);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,402,264,273);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,403,273,284);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,404,284,320);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,405,320,348);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,406,348,400);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,407,400,433);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (408,0,'jpilla','Pierre de Ferrières fut sénéchal de Saintonge de 1321 à 1324, après avoir été sénéchal de Rouergue.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (409,0,'jpilla','La titulature du roi dans ses actes et sur ses sceaux est toujours, par tradition, rex Francorum ; les contemporains transposent plus volontiers la formule vernaculaire en rex Francie ; les actes de l’administration royale hésitent entre les deux formes, quand elles ne sont pas abrégées. - Les fils de Philippe le Bel, de 1314 à 1328, ont pris régulièrement le titre complémentaire de roi de Navarre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (410,0,'jpilla','L’Angoumois, acquis par le roi en 1303, ne constitua une sénéchaussée indépendante de la Saintonge qu’à compter des années 1330. Plus bas, le roi ne qualifie le sénéchal que de sénéchal de Saintonge parce que l’action visée ne concerne que cette circonscription.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (411,0,'jpilla','Le qualificatif de discretus vir dit le discernement, la sagesse, donc par défaut la non-noblesse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (412,0,'jpilla','Guillaume Amblard fut trésorier royal de Saintonge de 1321 à 1324. Il faisait aussi à l’époque office de receveur de la sénéchaussée. Noter surtout que cet important adjoint du sénéchal est directement rattaché au roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (413,0,'jpilla','On a transcrit " regias " et non " regis ", car dans ce dernier cas, on attendrait plutôt une tournure du type " domini nostri regis " : on parle de " lettres patentes royaux ", comme plus bas de " château royal ". Noter au passage que la formule toute faite " lettres royaux " renvoie d’une part au latin (plur. litterae = une lettre, un acte, a.fr. " unes lettres ") et d’autre part à l’ancien français (royaus vient de regales peut être aussi bien féminin que masculin).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (414,0,'jpilla','Philippe V le Long, roi de France de 1316 à 1322.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (415,0,'jpilla','Comprendre, selon l’expression plus courante, " aux gens de nos comptes ", " aux gens qui peuplent présentement notre chambre des comptes ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (416,0,'jpilla','" Allouer " signifie " placer " une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (417,0,'jpilla','Loches (Indre-et-Loire, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (418,0,'jpilla','La Saint-Martin d’hiver, où l’on commémore l’inhumation du saint à Tours, est célébrée le 11 novembre. En 1321, elle tombe un mercredi ; l’acte est donc du dimanche 15 novembre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (419,0,'jpilla','Pierre de Ferrières fut sénéchal de Saintonge de 1321 à 1324, après avoir été sénéchal de Rouergue.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (420,0,'jpilla','La titulature du roi dans ses actes et sur ses sceaux est toujours, par tradition, rex Francorum ; les contemporains transposent plus volontiers la formule vernaculaire en rex Francie ; les actes de l’administration royale hésitent entre les deux formes, quand elles ne sont pas abrégées. - Les fils de Philippe le Bel, de 1314 à 1328, ont pris régulièrement le titre complémentaire de roi de Navarre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (421,0,'jpilla','L’Angoumois, acquis par le roi en 1303, ne constitua une sénéchaussée indépendante de la Saintonge qu’à compter des années 1330. Plus bas, le roi ne qualifie le sénéchal que de sénéchal de Saintonge parce que l’action visée ne concerne que cette circonscription.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (422,0,'jpilla','Le qualificatif de discretus vir dit le discernement, la sagesse, donc par défaut la non-noblesse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (423,0,'jpilla','Guillaume Amblard fut trésorier royal de Saintonge de 1321 à 1324. Il faisait aussi à l’époque office de receveur de la sénéchaussée. Noter surtout que cet important adjoint du sénéchal est directement rattaché au roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (424,0,'jpilla','On a transcrit " regias " et non " regis ", car dans ce dernier cas, on attendrait plutôt une tournure du type " domini nostri regis " : on parle de " lettres patentes royaux ", comme plus bas de " château royal ". Noter au passage que la formule toute faite " lettres royaux " renvoie d’une part au latin (plur. litterae = une lettre, un acte, a.fr. " unes lettres ") et d’autre part à l’ancien français (royaus vient de regales peut être aussi bien féminin que masculin).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (425,0,'jpilla','Philippe V le Long, roi de France de 1316 à 1322.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (426,0,'jpilla','Comprendre, selon l’expression plus courante, " aux gens de nos comptes ", " aux gens qui peuplent présentement notre chambre des comptes ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (427,0,'jpilla','Comprendre, selon l’expression plus courante, " aux gens de nos comptes ", " aux gens qui peuplent présentement notre chambre des comptes ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (428,0,'jpilla','" Allouer " signifie " placer " une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (429,0,'jpilla','Loches (Indre-et-Loire, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (430,0,'jpilla','La Saint-Martin d’hiver, où l’on commémore l’inhumation du saint à Tours, est célébrée le 11 novembre. En 1321, elle tombe un mercredi ; l’acte est donc du dimanche 15 novembre.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,408,0,33);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,409,33,63);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,410,63,86);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,411,86,107);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,412,107,121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,413,121,155);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,414,155,181);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,415,181,258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,416,258,267);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,417,267,285);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,418,285,334);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,419,334,385);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,420,385,427);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,421,427,440);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,422,440,457);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,423,457,485);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,424,485,507);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,425,507,557);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,426,557,565);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,427,565,576);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,428,576,612);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,429,612,619);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,430,619,665);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (431,0,'jpilla','Issu du grand lignage génois Fieschi, Innocent IV a été élu pape le 25 juin 1243, et consacré le 28 juin 1243.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (432,0,'jpilla','La chancellerie apostolique réserve le terme de « frères » aux évêques (mais la mention d’une décision prise « de consilio fratrum nostrorum » renvoie aux cardinaux) ; tous les autres destinataires et bénéficiaires sont des « fils », presque toujours « chers » (« très chers » pour les souverains).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (433,0,'jpilla','La lettre est adressée impersonnellement au roi de France, ce que soulignent les deux points qui précèdent le nom. Il s’agit, daprès la date, de Louis IX.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (434,0,'jpilla','La lettre est adressée impersonnellement au roi de France, ce que soulignent les deux points qui précèdent le nom. Il sagit, d’après la date, de Louis IX.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (435,0,'jpilla','Beaucaire (Gard, ch.-l. cant.) : l’une des deux sénéchaussées royales du Midi depuis les acquisitions territoriales de la royauté, sanctionnées en 1229.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (436,0,'jpilla','L’identification des marchands génois est inégalement assurée. Les Spinola sont célèbres et San Ginesio est une paroisse de la ville. De rapides recherches n’ont fourni aucun résultat pour Johannes Dalmatii et seulement un hypothétique rapprochement du nom mutilé du troisième marchand avec celui de la famille Stancone.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (437,0,'jpilla','Lagny-sur-Marne (Seine-et-Marne, ch.-l. cant.) était lune des quatre villes accueillant le cycle annuel des six foires de Champagne. La foire y était ouverte le jour des Saints-Innocents puis, à compter du XIIIe siècle, le 2 janvier ; close le lundi avant la mi-carême, elle durait donc, selon les années, de sept à onze semaines. Les marchands italiens y étaient particulièrement nombreux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (438,0,'jpilla','Issu du grand lignage génois Fieschi, Innocent IV a été élu pape le 25 juin 1243, et consacré le 28 juin 1243.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (439,0,'jpilla','La chancellerie apostolique réserve le terme de « frères » aux évêques (mais la mention dune décision prise « de consilio fratrum nostrorum » renvoie aux cardinaux) ; tous les autres destinataires et bénéficiaires sont des « fils », presque toujours « chers » (« très chers » pour les souverains).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (440,0,'jpilla','La lettre est adressée impersonnellement au roi de France, ce que soulignent les deux points qui précèdent le nom. Il sagit, d’après la date, de Louis IX.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (441,0,'jpilla','Beaucaire (Gard, ch.-l. cant.) : l’une des deux sénéchaussées royales du Midi depuis les acquisitions territoriales de la royauté, sanctionnées en 1229.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (442,0,'jpilla','L’identification des marchands génois est inégalement assurée. Les Spinola sont célèbres et San Ginesio est une paroisse de la ville. De rapides recherches n’ont fourni aucun résultat pour Johannes Dalmatii et seulement un hypothétique rapprochement du nom mutilé du troisième marchand avec celui de la famille Stancone.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (443,0,'jpilla','Lagny-sur-Marne (Seine-et-Marne, ch.-l. cant.) était lune des quatre villes accueillant le cycle annuel des six foires de Champagne. La foire y était ouverte le jour des Saints-Innocents puis, à compter du XIIIe siècle, le 2 janvier ; close le lundi avant la mi-carême, elle durait donc, selon les années, de sept à onze semaines. Les marchands italiens y étaient particulièrement nombreux.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,431,0,14);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,432,14,24);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,433,24,28);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,434,28,49);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,435,49,75);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,436,75,98);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,437,98,133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,438,133,174);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,439,174,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,440,189,224);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,441,224,262);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,442,262,306);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,443,306,312);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (444,0,'jpilla','Renneville, siège de la commanderie de Saint-Étienne de Renneville (auj. Ferme de la Commanderie), sur la commune de Sainte-Colombe-la-Campagne, renommée en 1969 Sainte-Colombe-la-Commanderie (Eure, cant. Évreux-nord).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (445,0,'jpilla','La masura est une tenure ; noter qu’ici sa localisation laisse supposer qu’elle forme un ensemble compact.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (446,0,'jpilla','com est une forme de cum fréquente dans les textes normands.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (447,0,'jpilla','Gaunel : nom d’un quartier du finage qui n’a pu être retrouvé sur la carte I.G.N. au 1:50000.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (448,0,'jpilla','La via domini regis (appellation spécifique d’une route publique) désigne ici la grande voie qui menait de Caen à Paris (et plus localement de Lisieux à Évreux) et dont l’actuelle N. 13 a grossièrement repris le tracé au XVIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (449,0,'jpilla','Le cortillagium est un petit courtil, une petite pièce de terre, généralement en jardin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (450,0,'jpilla','Combon (Eure, cant. Beaumont-le-Roger), 4 km à l’ouest de Sainte-Colombe-la-Commanderie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (451,0,'jpilla','Les tournois, à l’origine deniers de Tours, sont devenus, aux côtés des parisis, l’un des grands monnayages capétien depuis la conquête des dominations plantagenet par Philippe Auguste. Comme seuls les denier sont frappés, on parle, au moins en latin, de " livres de [deniers] tournois ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (452,0,'jpilla','indemnis renvoie à l’idée de dommage (damnum), dont on est exempt (" indemne ") ou non responsable. Ici appliqué à la personne du vendeur et de ses héritiers, il peut être mis en rapport avec les formules d’autres actes, qui insistent plus clairement sur le fait qu’avoir transféré la concession, en dédommagement, sur un nouveau bien ne supprime en rien les obligations d’abord faites sur le bien d’origine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (453,0,'jpilla','Renneville, siège de la commanderie de Saint-Étienne de Renneville (auj. Ferme de la Commanderie), sur la commune de Sainte-Colombe-la-Campagne, renommée en 1969 Sainte-Colombe-la-Commanderie (Eure, cant. Évreux-nord).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (454,0,'jpilla','La masura est une tenure ; noter qu’ici sa localisation laisse supposer qu’elle forme un ensemble compact.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (455,0,'jpilla','L’herbergamentum  est la tenure ou partie de tenure comportant l’habitation.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (456,0,'jpilla','Gaunel : nom d’un quartier du finage qui n’a pu être retrouvé sur la carte I.G.N. au 1:50000.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (457,0,'jpilla','La via domini regis (appellation spécifique d’une route publique) désigne ici la grande voie qui menait de Caen à Paris (et plus localement de Lisieux à Évreux) et dont l’actuelle N. 13 a grossièrement repris le tracé au XVIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (458,0,'jpilla','La via domini regis (appellation spécifique d’une route publique) désigne ici la grande voie qui menait de Caen à Paris (et plus localement de Lisieux à Évreux) et dont l’actuelle N. 13 a grossièrement repris le tracé au XVIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (459,0,'jpilla','Le cortillagium est un petit courtil, une petite pièce de terre, généralement en jardin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (460,0,'jpilla','Combon (Eure, cant. Beaumont-le-Roger), 4 km à l’ouest de Sainte-Colombe-la-Commanderie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (461,0,'jpilla','Les tournois, à l’origine deniers de Tours, sont devenus, aux côtés des parisis, l’un des grands monnayages capétien depuis la conquête des dominations plantagenet par Philippe Auguste. Comme seuls les denier sont frappés, on parle, au moins en latin, de " livres de [deniers] tournois ".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (462,0,'jpilla','indemnis renvoie à l’idée de dommage (damnum), dont on est exempt (" indemne ") ou non responsable. Ici appliqué à la personne du vendeur et de ses héritiers, il peut être mis en rapport avec les formules d’autres actes, qui insistent plus clairement sur le fait qu’avoir transféré la concession, en dédommagement, sur un nouveau bien ne supprime en rien les obligations d’abord faites sur le bien d’origine.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,444,4,20);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,445,20,37);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,446,37,54);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,447,54,64);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,448,64,97);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,449,97,122);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,450,122,149);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,451,149,178);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,452,178,193);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,453,193,219);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,454,219,238);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,455,238,257);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,456,257,298);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,457,298,325);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,458,325,368);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,459,368,395);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,460,395,416);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,461,416,457);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,462,457,477);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (463,0,'jpilla','Robert II dit le Sage, petit-fils de Charles Ier d’Anjou (+ 1285), roi de 1309 à 1343.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (464,0,'jpilla','Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d’Antioche en 1277. Depuis la chute d’Acre en 1291, le royaume n’avait plus de base territoriale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (465,0,'jpilla','Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l’Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l’invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l’habitude de les appeler « rois de Naples ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (466,0,'jpilla','Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (467,0,'jpilla','La principauté de Capoue avait été unie au royaume de Sicile en 1156 ; même remarque que pour la Pouille.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (468,0,'jpilla','Charles Ier était devenu comte de Provence du chef de son épouse Béatrice, héritière du comté, en 1245/1246.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (469,0,'jpilla','La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s’il était loin de contrôler toute la région.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (470,0,'jpilla','Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l’administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s’occupait des affaires financières et percevait les droits comtaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (471,0,'jpilla','Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l’administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s’occupait des affaires financières et percevait les droits comtaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (472,0,'jpilla','Tarascon, Bouches-du-Rhône, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (473,0,'jpilla','L’adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d’un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (474,0,'jpilla','L’acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n’ayant pas le statut de civitas épiscopale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (475,0,'jpilla','Les deux droits sont le droit civil (ou « romain ») et le droit canon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (476,0,'jpilla','Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (477,0,'jpilla','L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (478,0,'jpilla','Portée au verso de la queue, le mot semble avoir été écrit avant scellement, comme une sorte de visa : « [Le] sceau [peut être apposé] ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (479,0,'jpilla','Robert II dit le Sage, petit-fils de Charles Ier d’Anjou (+ 1285), roi de 1309 à 1343.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (480,0,'jpilla','Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d’Antioche en 1277. Depuis la chute d’Acre en 1291, le royaume n’avait plus de base territoriale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (481,0,'jpilla','Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l’Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l’invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l’habitude de les appeler « rois de Naples ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (482,0,'jpilla','Le duché de Pouille avait été uni au royaume de Sicile par le roi Roger (+ 1154) ; le souvenir de cette union subsistait depuis lors dans la titulature royale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (483,0,'jpilla','La principauté de Capoue avait été unie au royaume de Sicile en 1156 ; même remarque que pour la Pouille.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (484,0,'jpilla','Charles Ier était devenu comte de Provence du chef de son épouse Béatrice, héritière du comté, en 1245/1246.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (485,0,'jpilla','Le comte de Provence Raimond-Bérenger V (1217-1245) avait hérité de sa mère le comté de Forcalquier ; le souvenir de cette union demeura ensuite dans la titulature comtale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (486,0,'jpilla','La pénétration des Angevins en Piémont avait commencé dès 1258 ; elle fut relancée par Charles II (+ 1309), qui prit le titre de « comte de Piémont », même s’il était loin de contrôler toute la région.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (487,0,'jpilla','Viguier, juge et clavaire sont les trois principaux officiers locaux du comté de Provence. Le viguier assurait l’administration de base (Tarascon était chef-lieu de viguerie depuis 1256) ; il était assisté par un juge, compétent au civil et au criminel en première instance, et par un clavaire, qui s’occupait des affaires financières et percevait les droits comtaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (488,0,'jpilla','Tarascon, Bouches-du-Rhône, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (489,0,'jpilla','L’adverbe est à prendre au sens figuré ; le décret comtal, explicitement cité plus bas et conservé par ailleurs, était vieux d’un mois environ (25 juillet 1320). Sa teneur est ici résumée : il accordait aux habitants de Tarascon le libre transport des blés, légumes et victuailles en tout genre, réserve faite du cas où le prix du setier de blé viendrait à dépasser 5 sous.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (490,0,'jpilla','L’acception de castrum est complexe et riche : elle désigne, indépendamment de la taille, une agglomération fortifiée n’ayant pas le statut de civitas épiscopale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (491,0,'jpilla','Les deux droits sont le droit civil (ou « romain ») et le droit canon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (492,0,'jpilla','Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (493,0,'jpilla','L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (494,0,'jpilla','Portée au verso de la queue, le mot semble avoir été écrit avant scellement, comme une sorte de visa : « [Le] sceau [peut être apposé] ».');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,463,0,16);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,464,16,44);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,465,44,61);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,466,61,68);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,467,68,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,468,74,93);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,469,93,124);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,470,124,151);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,471,151,160);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,472,160,179);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,473,179,191);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,474,191,210);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,475,210,245);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,476,245,270);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,477,270,298);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,478,298,305);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,479,305,340);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,480,340,356);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,481,356,376);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,482,376,383);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,483,383,399);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,484,399,411);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,485,411,429);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,486,429,441);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,487,441,470);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,488,470,483);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,489,483,525);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,490,525,548);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,491,548,560);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,492,560,586);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,493,586,597);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,494,597,603);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (495,0,'jpilla','L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (496,0,'jpilla','Le titre de " maître " renvoie sans doute ici à la détention d’un grade universitaire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (497,0,'jpilla','Pontiacq, Pyrénées-Atlantiques, cant. Montaner.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (498,0,'jpilla','Comme les autres monnayages, le tournois n’est d’abord frappé que sous la forme de denier ; unités de mesure, les livres et les sous sont donc " de deniers tournois ", d’où l’emploi du génitif.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (499,0,'jpilla','Le titre de " discrète personne " (= qui a du discernement) était de courtoisie ; par défaut il désignait une personne qui n’était ni noble ni graduée d’université.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (500,0,'jpilla','La Bigorre (pays de Tarbes) fut saisie par le roi de France en 1292 au titre de la succession de la comtesse Pétronille, morte en 1251 et auteur de testaments  contradictoires. Réunie au domaine royal en 1322, la Bigorre dépendait auparavant du roi de Navarre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (501,0,'jpilla','En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de " roi de Navarre " (1314-1328).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (502,0,'jpilla','En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de " roi de Navarre " (1314-1328).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (503,0,'jpilla','Les " enchères " (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des " fermes ") était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (504,0,'jpilla','Annonciation : 25 mars.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (505,0,'jpilla','Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (506,0,'jpilla','L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (507,0,'jpilla','Le titre de " maître " renvoie sans doute ici à la détention d’un grade universitaire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (508,0,'jpilla','Pontiacq, Pyrénées-Atlantiques, cant. Montaner.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (509,0,'jpilla','Comme les autres monnayages, le tournois n’est d’abord frappé que sous la forme de denier ; unités de mesure, les livres et les sous sont donc " de deniers tournois ", d’où l’emploi du génitif.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (510,0,'jpilla','Le titre de " discrète personne " (= qui a du discernement) était de courtoisie ; par défaut il désignait une personne qui n’était ni noble ni graduée d’université.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (511,0,'jpilla','La Bigorre (pays de Tarbes) fut saisie par le roi de France en 1292 au titre de la succession de la comtesse Pétronille, morte en 1251 et auteur de testaments  contradictoires. Réunie au domaine royal en 1322, la Bigorre dépendait auparavant du roi de Navarre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (512,0,'jpilla','En latin, le roi de France est qualifié de rex Francorum dans la suscription de ses propres actes et de rex Francie par ses contemporains ; les actes produits par l’administration royale et autour d’elle varient dans leur usage. Les trois fils de Philippe le Bel y ont joint le titre de " roi de Navarre " (1314-1328).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (513,0,'jpilla','Les " enchères " (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des " fermes ") était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (514,0,'jpilla','Annonciation : 25 mars.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (515,0,'jpilla','Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,495,19,30);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,496,30,47);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,497,47,60);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,498,60,83);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,499,83,98);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,500,98,107);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,501,107,125);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,502,125,144);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,503,144,153);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,504,153,196);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,505,196,217);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,506,217,261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,507,261,267);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,508,267,288);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,509,288,303);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,510,303,335);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,511,335,365);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,512,365,394);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,513,394,436);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,514,436,465);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,515,465,488);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (516,0,'jpilla','L’ordinal n’est donné que par la bulle de plomb. En l’absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (517,0,'jpilla','Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l’évêque Guillaume d’Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l’usage aux frères, dits « Mathurins ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (518,0,'jpilla','L’ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d’Islam.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (519,0,'jpilla','L’ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d’Islam.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (520,0,'jpilla','Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l’acte est du 23 mars 1344.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (521,0,'jpilla','Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l’époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (522,0,'jpilla','L’ordinal n’est donné que par la bulle de plomb. En l’absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (523,0,'jpilla','Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l’évêque Guillaume d’Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l’usage aux frères, dits « Mathurins ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (524,0,'jpilla','L’ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d’Islam.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (525,0,'jpilla','Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l’acte est du 23 mars 1344.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (526,0,'jpilla','Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l’époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,516,0,10);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,517,10,34);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,518,34,48);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,519,48,83);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,520,83,96);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,521,96,112);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,522,112,153);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,523,153,170);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,524,170,202);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,525,202,234);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,526,234,251);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (527,0,'jpilla','Jean de Dainville sera sous le règne de Charles V un conseiller influent, maître d’hôtel du roi. Il appartient à un lignage chevaleresque picard bien représenté dans l’Université et au Parlement.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (528,0,'jpilla','Longchamps (Eure, cant. Étrépagny).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (529,0,'jpilla','Lyons-la-Forêt (Eure, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (530,0,'jpilla','" Mettre au delivre " : remettre, accorder la libre jouissance, alors qu’un obtacle a surgi ou pourrait surgir.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (531,0,'jpilla','Cette lettre ne peut avoir été écrite par Jean II le Bon que durant sa  première captivité à Londres (mai 1357-juin 1360), à la suite de la défaite de l’armée française à Poitiers en 1356, puisque son second séjour à Londres n’a duré que du 3 janvier au 8 avril 1364, date de sa mort. On peut donc proposer la date du 19 juillet 1357, 1358 ou 1359.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,527,4,23);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,528,23,48);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,529,48,96);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,530,96,114);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,531,114,129);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (532,0,'jpilla','Guillaume de Passavant, évêque du Mans (1143-1187).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (533,0,'jpilla','Gorron, Mayenne, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (534,0,'jpilla','La Méhélée (Mayenne, cant. Ernée, comm. Montenay).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (535,0,'jpilla','L’Ernée, affluent de la Mayenne, a aussi donné son nom à la ville d’Ernée (Mayenne, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (536,0,'jpilla','Savigny (Manche, cant. Le Teilleul). À l’origine, ermitage (diocèse d’Avranches) fondé par Vital, régularisé en une abbaye intégrée à l’ordre cistercien en 1147.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (537,0,'jpilla','La pitance est une distribution alimentaire faite aux membres d’une communauté. Le contexte renvoie ici à la fondation d’un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (538,0,'jpilla','La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d’une somme en échange d’un don, dont ni le montant ni le processus, manifestation d’amour mutuel, n’ont à voir avec une "vente".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (539,0,'jpilla','Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (540,0,'jpilla','Guillaume de Passavant, évêque du Mans (1143-1187).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (541,0,'jpilla','Gorron, Mayenne, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (542,0,'jpilla','La Méhélée (Mayenne, cant. Ernée, comm. Montenay).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (543,0,'jpilla','L’Ernée, affluent de la Mayenne, a aussi donné son nom à la ville d’Ernée (Mayenne, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (544,0,'jpilla','Savigny (Manche, cant. Le Teilleul). À l’origine, ermitage (diocèse d’Avranches) fondé par Vital, régularisé en une abbaye intégrée à l’ordre cistercien en 1147.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (545,0,'jpilla','La pitance est une distribution alimentaire faite aux membres d’une communauté. Le contexte renvoie ici à la fondation d’un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (546,0,'jpilla','La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d’une somme en échange d’un don, dont ni le montant ni le processus, manifestation d’amour mutuel, n’ont à voir avec une "vente".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (547,0,'jpilla','Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,532,0,22);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,533,22,30);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,534,30,57);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,535,57,65);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,536,65,78);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,537,78,95);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,538,95,103);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,539,103,118);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,540,118,159);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,541,159,197);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,542,197,213);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,543,213,234);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,544,234,251);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,545,251,267);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,546,267,277);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,547,277,310);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (548,0,'jpilla','Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (549,0,'jpilla','Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (550,0,'jpilla','Saint-Père-en-Vallée à Chartres, abbaye bénédictine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (551,0,'jpilla','Henri Ier Beauclerc, l’un des fils de Guillaume le Conquérant, roi d’Angleterre (1100-1135) et duc de Normandie depuis 1106, dont la succession a été revendiquée par Geoffroy Plantagenet, qui avait épousé sa fille Mathilde, puis par leur fils Henri II.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (552,0,'jpilla','Moulins-la-Marche (Orne, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (553,0,'jpilla','Bonsmoulins (Orne, cant. Moulins-la-Marche).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (554,0,'jpilla','Les Planches (Orne, cant. Le Merlerault) était le siège du prieuré de Notre-Dame des Planches, dépendance de Saint-Père de Chartres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (555,0,'jpilla','Rotrou de Warwick, évêque d’Évreux (1139-1164), puis archevêque de Rouen jusqu’à sa mort en 1183, fut un proche du roi, pour qui il remplit de nombreuses missions et dont il fut en 1182 exécuteur testamentaire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (556,0,'jpilla','Hamelin, frère naturel d’Henri II, avait épousé en 1164 Isabelle, fille de Guillaume III comte de Waren et de Surrey. Il resta fidèle au roi lors du grand soulèvement de 1173.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (557,0,'jpilla','Robert de Leicester peut être Robert II de Beaumont, comte de Leicester et justicier d’Angleterre, ou bien Robert III, qui succéda à son père en 1168 ; il devint en 1173 chef de file des barons révoltés et vit ses biens confisqués ; il revint en grâce en 1177.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (558,0,'jpilla','Richard de Hommet, issu d’un lignage de fidèles des ducs de Normandie, fut connétable de Normandie jusqu’en 1178.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (559,0,'jpilla','Guillaume de Caineto, proche d’Henri II, cité dans les rouleaux des comptes royaux jusqu’en 1175.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (560,0,'jpilla','Guillaume fils d’Hamon, cité dans les rouleaux de comptes royaux jusqu’en 1176, prit part en 1166 à la campagne de Bretagne et fut probablement gouverneur de la partie annexée de cette province.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (561,0,'jpilla','Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (562,0,'jpilla','Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (563,0,'jpilla','Verneuil-sur-Avre, Eure, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (564,0,'jpilla','Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (565,0,'jpilla','Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (566,0,'jpilla','Saint-Père-en-Vallée à Chartres, abbaye bénédictine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (567,0,'jpilla','Saint-Père-en-Vallée à Chartres, abbaye bénédictine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (568,0,'jpilla','Henri Ier Beauclerc, l’un des fils de Guillaume le Conquérant, roi d’Angleterre (1100-1135) et duc de Normandie depuis 1106, dont la succession a été revendiquée par Geoffroy Plantagenet, qui avait épousé sa fille Mathilde, puis par leur fils Henri II.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (569,0,'jpilla','Moulins-la-Marche (Orne, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (570,0,'jpilla','Bonsmoulins (Orne, cant. Moulins-la-Marche).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (571,0,'jpilla','Les Planches (Orne, cant. Le Merlerault) était le siège du prieuré de Notre-Dame des Planches, dépendance de Saint-Père de Chartres.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (572,0,'jpilla','Rotrou de Warwick, évêque d’Évreux (1139-1164), puis archevêque de Rouen jusqu’à sa mort en 1183, fut un proche du roi, pour qui il remplit de nombreuses missions et dont il fut en 1182 exécuteur testamentaire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (573,0,'jpilla','Hamelin, frère naturel d’Henri II, avait épousé en 1164 Isabelle, fille de Guillaume III comte de Waren et de Surrey. Il resta fidèle au roi lors du grand soulèvement de 1173.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (574,0,'jpilla','Robert de Leicester peut être Robert II de Beaumont, comte de Leicester et justicier d’Angleterre, ou bien Robert III, qui succéda à son père en 1168 ; il devint en 1173 chef de file des barons révoltés et vit ses biens confisqués ; il revint en grâce en 1177.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (575,0,'jpilla','Richard de Hommet, issu d’un lignage de fidèles des ducs de Normandie, fut connétable de Normandie jusqu’en 1178.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (576,0,'jpilla','Guillaume de Caineto, proche d’Henri II, cité dans les rouleaux des comptes royaux jusqu’en 1175.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (577,0,'jpilla','Guillaume fils d’Hamon, cité dans les rouleaux de comptes royaux jusqu’en 1176, prit part en 1166 à la campagne de Bretagne et fut probablement gouverneur de la partie annexée de cette province.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (578,0,'jpilla','Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (579,0,'jpilla','Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (580,0,'jpilla','Verneuil-sur-Avre, Eure, ch.-l. cant.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,548,0,22);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,549,22,40);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,550,40,91);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,551,91,107);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,552,107,118);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,553,118,128);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,554,128,139);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,555,139,163);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,556,163,180);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,557,180,196);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,558,196,219);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,559,219,236);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,560,236,257);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,561,257,284);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,562,284,315);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,563,315,334);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,564,334,347);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,565,347,358);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,566,358,372);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,567,372,394);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,568,394,405);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,569,405,418);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,570,418,441);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,571,441,450);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,572,450,467);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,573,467,480);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,574,480,495);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,575,495,505);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,576,505,526);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,577,526,549);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,578,549,569);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,579,569,589);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,580,589,599);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (581,0,'jpilla','Louis VII, roi de France de 1137 à 1180, duc d’Aquitaine du chef de son épouse Aliénor de 1137 à 1152.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (582,0,'jpilla','Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (583,0,'jpilla','Adelende la Gente, l’une des quelques laïques non nobles parmi les mieux connus de l’entourage royal. Épouse d’Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l’entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (584,0,'jpilla','Les Champeaux, dont le nom indique l’origine rustique, sont le lieu des futures Halles, dont les bâtiments fixes ne sont pas encore construits, et qui seront intégrés au territoire urbain lors de l’édification de l’enceinte de Philippe Auguste.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (585,0,'jpilla','Hôte : nom générique ici donné au tenancier, occupant de la maison.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (586,0,'jpilla','Formule stéréotypée d’annonce des souscriptions (factices) des grands officiers. L’ordre de souscription ici suivi s’est imposé dans les années 1120.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (587,0,'jpilla','Raoul de Vermandois, cousin germain de Louis VI, sénéchal de France de 1131 à sa mort en 1152, avec diverses vacances entre ces deux dates. Le sénéchal n’était pas responsable que de l’armée royale, mais encore de la justice et de la gestion domaniale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (588,0,'jpilla','Guillaume « le Bouteiller » de Senlis, déjà en fonction sous Louis VI, reste en fonction jusqu’au départ en croisade le 9 juin 1147. Sa famille, formée de riches chevaliers urbains, occupe la fonction de bouteiller depuis 1112 au moins et finit par en tirer son patronyme. Comme son nom l’indique, le bouteiller est spécialement chargé de l’approvisionnement de la cour en vin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (589,0,'jpilla','Hugues le Borgne, connétable de 1118 à 1138. Le connétable, aux fonctions assez modestes jusqu’à la vacance du dapiférat, dirige les écuries royales, les maréchaux et les palefreniers, s’occupant donc des aspects matériels de l’organisation militaire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (590,0,'jpilla','Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l’amène à garder le trésor comme la personne du roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (591,0,'jpilla','La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s’impose à compter des années 1112/1113 ; elle n’est guère plus qu’un décalque de la formule de «grande date» des actes pontificaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (592,0,'jpilla','Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu’en 1140. Il a été, avec plus de suite, chancelier de l’église cathédrale de Paris de 1124 à sa mort en 1156/1157.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (593,0,'jpilla','Louis VII, roi de France de 1137 à 1180, duc d’Aquitaine du chef de son épouse Aliénor de 1137 à 1152.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (594,0,'jpilla','Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (595,0,'jpilla','Adelende la Gente, l’une des quelques laïques non nobles parmi les mieux connus de l’entourage royal. Épouse d’Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l’entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (596,0,'jpilla','Les Champeaux, dont le nom indique l’origine rustique, sont le lieu des futures Halles, dont les bâtiments fixes ne sont pas encore construits, et qui seront intégrés au territoire urbain lors de l’édification de l’enceinte de Philippe Auguste.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (597,0,'jpilla','Hôte : nom générique ici donné au tenancier, occupant de la maison.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (598,0,'jpilla','Formule stéréotypée d’annonce des souscriptions (factices) des grands officiers. L’ordre de souscription ici suivi s’est imposé dans les années 1120.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (599,0,'jpilla','Formule stéréotypée d’annonce des souscriptions (factices) des grands officiers. L’ordre de souscription ici suivi s’est imposé dans les années 1120.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (600,0,'jpilla','Raoul de Vermandois, cousin germain de Louis VI, sénéchal de France de 1131 à sa mort en 1152, avec diverses vacances entre ces deux dates. Le sénéchal n’était pas responsable que de l’armée royale, mais encore de la justice et de la gestion domaniale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (601,0,'jpilla','Guillaume «le Bouteiller» de Senlis, déjà en fonction sous Louis VI, reste en fonction jusqu’au départ en croisade le 9 juin 1147. Sa famille, formée de riches chevaliers urbains, occupe la fonction de bouteiller depuis 1112 au moins et finit par en tirer son patronyme. Comme son nom l’indique, le bouteiller est spécialement chargé de l’approvisionnement de la cour en vin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (602,0,'jpilla','Hugues le Borgne, connétable de 1118 à 1138. Le connétable, aux fonctions assez modestes jusqu’à la vacance du dapiférat, dirige les écuries royales, les maréchaux et les palefreniers, s’occupant donc des aspects matériels de l’organisation militaire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (603,0,'jpilla','Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l’amène à garder le trésor comme la personne du roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (604,0,'jpilla','La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s’impose à compter des années 1112/1113 ; elle n’est guère plus qu’un décalque de la formule de «grande date» des actes pontificaux.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (605,0,'jpilla','Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu’en 1140. Il a été, avec plus de suite, chancelier de l’église cathédrale de Paris de 1124 à sa mort en 1156/1157.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,581,34,47);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,582,47,64);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,583,64,75);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,584,75,93);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,585,93,116);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,586,116,162);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,587,162,176);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,588,176,184);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,589,184,206);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,590,206,225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,591,225,244);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,592,244,252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,593,252,296);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,594,296,310);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,595,310,345);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,596,345,385);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,597,385,425);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,598,425,434);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,599,434,471);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,600,471,500);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,601,500,510);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,602,510,529);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,603,529,546);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,604,546,566);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,605,566,586);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (606,0,'jpilla','Le "fief presbytéral" désigne ce dont le prêtre de paroisse est investi pour vivre, le "manse presbytéral" des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (607,0,'jpilla','Le "fief presbytéral" désigne ce dont le prêtre de paroisse est investi pour vivre, le "manse presbytéral" des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (608,0,'jpilla','Adémar, évêque d’Angoulême (1076-1101).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (609,0,'jpilla','Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l’École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l’initiale de "saint", car c’est la personne même de celui-ci qui est invoquée comme patron.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (610,0,'jpilla','Archambaud : prieur de Saint-Maixent de 1096 à 1104 environ.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (611,0,'jpilla','Romans (Deux-Sèvres, cant. Saint-Maixent-l’École).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (612,0,'jpilla','La restitution "David", usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de "Guido Davit".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (613,0,'jpilla','La Garnache (Vendée, cant. Challans).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (614,0,'jpilla','Dans un large sud-ouest, des courroies (nouées par les parties et/ou des témoins privilégiés) servaient traditionnellement d’objet symbolique de passation des contrats.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (615,0,'jpilla','Garnier, abbé de Saint-Maixent de 1093 à 1106.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (616,0,'jpilla','La " société " permet d’associer un fidèle aux bienfaits spirituels de la communauté de prière.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (617,0,'jpilla','Adam, abbé de Saint-Maixent de 1087 à 1091.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (618,0,'jpilla','Urbain II, pape de 1088 à 1099.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (619,0,'jpilla','Philippe Ier, roi de France de 1060 à 1108.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (620,0,'jpilla','Guillaume le Jeune, VIIe comte de Poitou et IXe duc d’Aquitaine de 1086/1087 à 1127.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (621,0,'jpilla','Pierre II, évêque de Poitiers de 1087 à 1115.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (622,0,'jpilla','Le "fief presbytéral" désigne ce dont le prêtre de paroisse est investi pour vivre, le "manse presbytéral" des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (623,0,'jpilla','Adémar, évêque d’Angoulême (1076-1101).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (624,0,'jpilla','Saint-Maixent :  abbaye bénédictine, anc. dioc. de Poitiers (auj. Saint-Maixent-l’École, Deux-Sèvres, ch.-l. cant.). On transcrit le nom avec une minuscule à l’initiale de "saint", car c’est la personne même de celui-ci qui est invoquée comme patron.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (625,0,'jpilla','Archambaud : prieur de Saint-Maixent de 1096 à 1104 environ.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (626,0,'jpilla','Romans (Deux-Sèvres, cant. Saint-Maixent-l’École).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (627,0,'jpilla','La restitution "David", usuelle, est confirmée par un autre acte du chartrier de Saint-Maixent, où le personnage apparaît sous le nom de "Guido Davit".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (628,0,'jpilla','La Garnache (Vendée, cant. Challans).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (629,0,'jpilla','Dans un large sud-ouest, des courroies (nouées par les parties et/ou des témoins privilégiés) servaient traditionnellement d’objet symbolique de passation des contrats.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (630,0,'jpilla','Garnier, abbé de Saint-Maixent de 1093 à 1106.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (631,0,'jpilla','La " société " permet d’associer un fidèle aux bienfaits spirituels de la communauté de prière.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (632,0,'jpilla','Adam, abbé de Saint-Maixent de 1087 à 1091.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (633,0,'jpilla','Urbain II, pape de 1088 à 1099.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (634,0,'jpilla','Philippe Ier, roi de France de 1060 à 1108.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (635,0,'jpilla','Guillaume le Jeune, VIIe comte de Poitou et IXe duc d’Aquitaine de 1086/1087 à 1127.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (636,0,'jpilla','Pierre II, évêque de Poitiers de 1087 à 1115.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,606,8,13);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,607,13,80);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,608,80,87);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,609,87,107);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,610,107,120);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,611,120,151);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,612,151,194);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,613,194,231);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,614,231,250);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,615,250,258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,616,258,300);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,617,300,308);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,618,308,327);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,619,327,342);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,620,342,367);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,621,367,392);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,622,392,416);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,623,416,440);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,624,440,469);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,625,469,488);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,626,488,516);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,627,516,546);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,628,546,584);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,629,584,603);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,630,603,647);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,631,647,673);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,632,673,711);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,633,711,741);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,634,741,759);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,635,759,793);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,636,793,834);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (637,0,'jpilla','Aix-en-Diois (Drôme, cant. Die).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (638,0,'jpilla','Châtillon-en-Diois (Drôme, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (639,0,'jpilla','Berthaud ou Bertaud, chartreuse (Hautes-Alpes, cant. Gap-Campagne, comm. Rabou).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (640,0,'jpilla','Le terme de "fief franc" (ou "fief honoré") désigne un fief échappant aux redevances caractéristiques de tenures qui prirent vite le nom de fiefs sans avoir grand chose à voir avec la féodalité au sens usuel (et honorable) du terme.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (641,0,'jpilla','Montmaur (Hautes-Alpes, cant. Veynes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (642,0,'jpilla','La Cluse (Hautes-Alpes, cant. Saint-Étienne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (643,0,'jpilla','La condamine est l’équivalent de la couture des régions septentrionales, et désigne une grande pièce de terre cultivée en faire-valoir direct.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (644,0,'jpilla','Le Labéoux, devenu auj. « la Béoux », torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (645,0,'jpilla','Mons Albanus : Les Pennes (Hautes-Alpes, cant. Veynes, comm. Montmaur), autrefois Mons al ben.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (646,0,'jpilla','Rocha : La Roche-des-Arnauds (Hautes-Alpes, cant. Gap-Campagne), siège d’une commanderie templière.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (647,0,'jpilla','Jarjayes (Hautes-Alpes, cant. Tallard).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (648,0,'jpilla','La Piarre (Hautes-Alpes, cant. Serres).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (649,0,'jpilla','Aix-en-Diois (Drôme, cant. Die).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (650,0,'jpilla','Châtillon-en-Diois (Drôme, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (651,0,'jpilla','Berthaud ou Bertaud, chartreuse (Hautes-Alpes, cant. Gap-Campagne, comm. Rabou).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (652,0,'jpilla','Le terme de "fief franc" (ou "fief honoré") désigne un fief échappant aux redevances caractéristiques de tenures qui prirent vite le nom de fiefs sans avoir grand chose à voir avec la féodalité au sens usuel (et honorable) du terme.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (653,0,'jpilla','Montmaur (Hautes-Alpes, cant. Veynes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (654,0,'jpilla','La Cluse (Hautes-Alpes, cant. Saint-Étienne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (655,0,'jpilla','La condamine est l’équivalent de la couture des régions septentrionales, et désigne une grande pièce de terre cultivée en faire-valoir direct.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (656,0,'jpilla','Le Labéoux, devenu auj. « la Béoux », torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (657,0,'jpilla','Mons Albanus : Les Pennes (Hautes-Alpes, cant. Veynes, comm. Montmaur), autrefois Mons al ben.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (658,0,'jpilla','Rocha : La Roche-des-Arnauds (Hautes-Alpes, cant. Gap-Campagne), siège d’une commanderie templière.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (659,0,'jpilla','Jarjayes (Hautes-Alpes, cant. Tallard).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (660,0,'jpilla','La Piarre (Hautes-Alpes, cant. Serres).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,637,3,10);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,638,10,23);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,639,23,40);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,640,40,73);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,641,73,85);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,642,85,91);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,643,91,102);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,644,102,109);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,645,109,122);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,646,122,133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,647,133,141);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,648,141,162);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,649,162,181);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,650,181,191);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,651,191,204);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,652,204,261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,653,261,269);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,654,269,306);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,655,306,318);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,656,318,369);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,657,369,389);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,658,389,398);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,659,398,449);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,660,449,477);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (661,0,'jpilla','Le texte offre des formes d’article féminin "li" qui alternent avec des formes "la".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (662,0,'jpilla','Les formes de pronom personnel sujet de personne 3  féminin relevées dans ce texte sont majoritairement "illi" (l. 22) mais on trouve aussi "illh" (voir aussi l. 6).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (663,0,'jpilla','Après "son",  une lettre "i" de remplissage de fin de ligne a été exponctuée par le scribe puis barrée d’un trait de plume.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (664,0,'jpilla','Le scribe, sur cette page, utilise "e" coordonnant devant un mot commençant par une consonne et l’abréviation "7" devant un mot commençant par une voyelle. Ailleurs dans le manuscrit il lui arrive d’utiliser "e" devant un mot commençant par une voyelle (f. 25 "e en caritat") et "7" devant un mot commençant par une consonne (f. 27v "7 par aisso"). Nous résolvons donc l’abréviation "7" par "e".');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,661,23,29);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,662,29,41);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,663,41,44);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,664,44,86);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (665,0,'jpilla','"no.l" = enclise de "lo" (pronom personnel régime direct faible, masculin singulier de personne 3) sur "non".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (666,0,'jpilla','"no.s" = enclise de "se" (pronom réfléchi singulier de personne 3) sur "non".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (667,0,'jpilla','"esperonan" = le manuscrit porte "esponan" qui ne peut correspondre à aucune forme attestée ; le sens ainsi que le compte des syllabes du vers autorisent à corriger "esperonan", en se fondant sur la leçon du manuscrit B. La « faute » "esponan" pour "esperonan" s’explique facilement en postulant à un stade antérieur de la tradition l’omission du signe abréviatif sous le « p » qui permet de noter "per".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (668,0,'jpilla','"s’el" = "se en" + "lo" : enclise de "lo" (article défini régime masculin) sur la préposition "en" et élision par proclise du « e » de "se" (pronom réflèchi singulier de personne 3).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (669,0,'jpilla','"levat" = Si on attend bien le participe passé "anat" dans la subordonnée temporelle (« et quand il a avancé un peu »), on attendrait dans la principale un infinitif "levar" dépendant de "ausi" (« il entend s’élever un cri ») et non un participe passé "levat" (« il entend un cri qui a été élevé »). Voir la même situation syntaxique aux vers 804-805 : « Es en aitant el a ausit / luin de se levar un tabust. » C. Brunel a résolu le problème en proposant à la place de ces deux vers la leçon du manuscrit B : « A cant ac anat un petit / denant ausi levar un crit ». Nous conservons la leçon du manuscrit A qui n’est cependant guère satisfaisante.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (670,0,'jpilla','fuecs = fuec qui est la forme réguliérement employée par le copiste pour « feu », ne convient pas pour le sens. C. Brunel propose fustz « bois » qui provient du manuscrit B, leçon qui est confirmée quelques vers plus loin par A, aux vers 806-807 : « Qe ferre e asier e fust / meno tal bruit e tal torment ». Nous adoptons la correction de Brunel.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (671,0,'jpilla','"Jairfres" = malgré la graphie "Jairfres" (comparer avec la forme "Jaufre" au 9e vers de la colonne de droite), il faut comprendre "Jaufres" et corriger le texte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (672,0,'jpilla','"qui es" = la réduction "es" = "etz" (ind. présent 5 de "esser") est attestée par la pratique de l’auteur (C. Brunel, op. cit., t. I, p. LXIII).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (673,0,'jpilla','"ora.us" = enclise de "vos" (pronom personnel régime de personne 5) sur "ora".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (674,0,'jpilla','"no.us" = enclise de "vos" (pronom personnel régime de personne 5) sur "non".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (675,0,'jpilla','"es" = haplologie de "e" coordonnant et de "es" (C. Brunel, op. cit., t. I, p. LVIII, § 10).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (676,0,'jpilla','"si combatio" = C. Brunel (op. cit., t. I, p. LXX, § 35) signale, parmi les caractéristiques de la langue du scribe, l’alternance de formes de personnel réfléchi en « -e » et en « -i ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (677,0,'jpilla','Le sens du vers pose problème : une traduction mot à mot donnerait : « car personne n’entend ni ne voit. » C. Brunel a remplacé "negus" du manuscrit A par "negun" du manuscrit B , ce qui fournit un sens correct « car il n’entend ni ne voit personne », correction que nous adoptons. C. Brunel signale d’autre part, parmi les caractéristiques de la langue du scribe (op. cit., t. I, p. LXIX, § 31) des finales en « -m » pour « -n », ce qui justifie la forme "num" pour "nun".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (678,0,'jpilla','"troba.l" = enclise de "lo" (pronom personnel régime de personne 3) sur "troba".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (679,0,'jpilla','Le vers est omis dans le manuscrit A ; il est indispensable au sens et à la construction de la phrase. Il est donc rétabli d’après la leçon du manuscrit B.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (680,0,'jpilla','"es" = "es" (pour la coordination "e" ou "et") est attesté par la pratique du scribe de A même devant consonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (681,0,'jpilla','La rime "mot" /"sanglotz" ne convient pas. C. Brunel  a résolu le problème en corrigeant "mot" en "motz" en s’appuyant sur la leçon du manuscrit B. Nous proposons de corriger "II sanglotz" en "un sanglot", le passage de un ("I") à deux ("II") pouvant avoir eu lieu lors d’une étape de la tradition manuscrite. On obtient alors une rime correcte "mot" / "sanglot" et pour la locution "sonar mot", une construction avec un singulier plus conforme aux habitudes syntaxiques de l’auteur : voir par exemple au v. 2673 : « Obri ! e om nul sona mot », ou au v. 3427 : « E Jaufre no a mot sonat ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (682,0,'jpilla','El rei d’Aragò i la data del Jaufre, dans ’Cultura Neolatina’, t. 57, 1997, p. 199-207.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (683,0,'jpilla','Restes codicològiques del més antic manuscrit de Jaufré amb algunes consideracions sobre aquesta novella provençal, dans ’Boletin de la Real Academia de Buenas Letras de Barcelona’, t. 46, 1997-1998, p. 9-22.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,665,22,52);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,666,52,97);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,667,97,108);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,668,108,129);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,669,129,134);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,670,134,148);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,671,148,179);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,672,179,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,673,189,226);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,674,226,271);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,675,271,289);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,676,289,301);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,677,301,323);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,678,323,366);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,679,366,391);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,680,391,405);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,681,405,412);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,682,412,640);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,683,640,813);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (684,0,'jpilla','Châtillon-Guyotte (Doubs, cant. Roulans).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (685,0,'jpilla','Saint-Paul de Besançon, abbaye de bénédictins, fondée vers 624, chanoines réguliers depuis 1044.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (686,0,'jpilla','Saint-Paul de Besançon, abbaye de bénédictins, fondée vers 624, chanoines réguliers depuis 1044.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (687,0,'jpilla','Les deniers viennois (de Vienne sur le Rhône) irriguent un large sud-est de la France actuelle, au point ici de concurrencer toute allusion à la monnaie archiépiscopale de Besançon (deniers estévenants).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (688,0,'jpilla','Burgille (Doubs, cant. Audeux).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (689,0,'jpilla','Le Valdahon (Doubs, cant. Vercel-Villedieu-le-Camp).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (690,0,'jpilla','Bellevaux (Haute-Saône, cant. Rioz, comm. Cirey), abbaye de cisterciens, fille de Morimond, fondée en 1120, anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (691,0,'jpilla','En droit féodal, l’homme lige est un vassal attaché par un lien, sinon exclusif, du moins l’emportant sur les liens contractés envers d’autres seigneurs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (692,0,'jpilla','Liébaud II de Beaufremont (Vosges, cant. Neufchâteau), maréchal de Bourgogne, fils de Pierre de Beaufremont et d’Agnès de Vergy, mort en 1303.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (693,0,'jpilla','Liébaud II de Beaufremont (Vosges, cant. Neufchâteau), maréchal de Bourgogne, fils de Pierre de Beaufremont et d’Agnès de Vergy, mort en 1303.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (694,0,'jpilla','Peut-être Marchaux (Doubs, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (695,0,'jpilla','Peut-être Rigney (Doubs, cant. Marchaux).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (696,0,'jpilla','Nancray (Doubs, cant. Roulans).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (697,0,'jpilla','Jean Ier de Sauvigney (v. 1263-1304), abbé de Saint-Paul.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (698,0,'jpilla','Hugues de Montferrand-le-Château (Doubs, cant. Boussières), chevalier, seigneur de Thoraise (Doubs, cant. Boussières), fils d’Eudes de Montferrand et Thoraise, et de Marguerite de Vare.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (699,0,'jpilla','Hugues de Montferrand-le-Château (Doubs, cant. Boussières), chevalier, seigneur de Thoraise (Doubs, cant. Boussières), fils d’Eudes de Montferrand et Thoraise, et de Marguerite de Vare.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (700,0,'jpilla','Rougemont (Doubs, ch.-l. cant.), doyenné de l’anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (701,0,'jpilla','Rougemont (Doubs, ch.-l. cant.), doyenné de l’anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (702,0,'jpilla','Eudes de Rougemont, archevêque de Besançon de 1269 à 1301.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (703,0,'jpilla','Dole (Jura, ch.-l. arr.), siège d’un prieuré clunisien, anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (704,0,'jpilla','Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l’année. La double mention, complétée de l’indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L’acte est donc du 24 juillet.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (705,0,'jpilla','Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l’année. La double mention, complétée de l’indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L’acte est donc du 24 juillet.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (706,0,'jpilla','Châtillon-Guyotte (Doubs, cant. Roulans).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (707,0,'jpilla','Saint-Paul de Besançon, abbaye de bénédictins, fondée vers 624, chanoines réguliers depuis 1044.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (708,0,'jpilla','Saint-Paul de Besançon, abbaye de bénédictins, fondée vers 624, chanoines réguliers depuis 1044.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (709,0,'jpilla','Les deniers viennois (de Vienne sur le Rhône) irriguent un large sud-est de la France actuelle, au point ici de concurrencer toute allusion à la monnaie archiépiscopale de Besançon (deniers estévenants).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (710,0,'jpilla','Burgille (Doubs, cant. Audeux).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (711,0,'jpilla','Le Valdahon (Doubs, cant. Vercel-Villedieu-le-Camp).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (712,0,'jpilla','Bellevaux (Haute-Saône, cant. Rioz, comm. Cirey), abbaye de cisterciens, fille de Morimond, fondée en 1120, anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (713,0,'jpilla','En droit féodal, l’homme lige est un vassal attaché par un lien, sinon exclusif, du moins l’emportant sur les liens contractés envers d’autres seigneurs.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (714,0,'jpilla','Liébaud II de Beaufremont (Vosges, cant. Neufchâteau), maréchal de Bourgogne, fils de Pierre de Beaufremont et d’Agnès de Vergy, mort en 1303.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (715,0,'jpilla','Peut-être Marchaux (Doubs, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (716,0,'jpilla','Peut-être Rigney (Doubs, cant. Marchaux).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (717,0,'jpilla','Nancray (Doubs, cant. Roulans).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (718,0,'jpilla','Jean Ier de Sauvigney (v. 1263-1304), abbé de Saint-Paul.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (719,0,'jpilla','Hugues de Montferrand-le-Château (Doubs, cant. Boussières), chevalier, seigneur de Thoraise (Doubs, cant. Boussières), fils d’Eudes de Montferrand et Thoraise, et de Marguerite de Vare.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (720,0,'jpilla','Hugues de Montferrand-le-Château (Doubs, cant. Boussières), chevalier, seigneur de Thoraise (Doubs, cant. Boussières), fils d’Eudes de Montferrand et Thoraise, et de Marguerite de Vare.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (721,0,'jpilla','Rougemont (Doubs, ch.-l. cant.), doyenné de l’anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (722,0,'jpilla','Eudes de Rougemont, archevêque de Besançon de 1269 à 1301.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (723,0,'jpilla','Dole (Jura, ch.-l. arr.), siège d’un prieuré clunisien, anc. dioc. de Besançon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (724,0,'jpilla','Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l’année. La double mention, complétée de l’indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L’acte est donc du 24 juillet.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (725,0,'jpilla','Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l’année. La double mention, complétée de l’indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L’acte est donc du 24 juillet.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,684,1,13);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,685,13,38);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,686,38,59);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,687,59,104);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,688,104,125);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,689,125,144);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,690,144,163);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,691,163,173);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,692,173,185);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,693,185,209);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,694,209,240);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,695,240,268);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,696,268,289);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,697,289,322);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,698,322,342);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,699,342,374);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,700,374,380);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,701,380,396);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,702,396,411);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,703,411,423);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,704,423,846);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,705,846,935);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,706,935,950);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,707,950,956);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,708,956,984);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,709,984,1019);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,710,1019,1053);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,711,1053,1085);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,712,1085,1116);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,713,1116,1133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,714,1133,1160);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,715,1160,1192);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,716,1192,1209);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,717,1209,1233);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,718,1233,1246);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,719,1246,1256);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,720,1256,1282);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,721,1282,1292);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,722,1292,1324);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,723,1324,1332);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,724,1332,1338);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,725,1338,1371);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (726,0,'jpilla','Pierre de Monbrun, archevêque de Narbonne de 1272 à 1286.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (727,0,'jpilla','Saint-Pons-de-Thomières (Hérault, ch.-l. cant. ; abbaye de bénédictins, anc. dioc. de Narbonne ) ; son abbé est alors Raimond (1276 à 1309/1311).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (728,0,'jpilla','Quarante (Hérault, cant. Capestang ; abbaye de chanoines réguliers, anc. dioc. de Narbonne) ; son abbé est alors Bernard (1272-av. 1283).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (729,0,'jpilla','Caunes (Caunes-Minervois, cant. Peyriac-Minervois ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Pierre (...1239-1285).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (730,0,'jpilla','Saint-Polycarpe (Aude, cant. Saint-Hilaire ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Bernard (1252/1255-1282).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (731,0,'jpilla','Sanctus Anianus : ancien nom de Saint-Chinian (Hérault, ch.-l. cant. ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Raimond (1251-1289...).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (732,0,'jpilla','Joucou (Aude, cant. Belcaire ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Arnaud (apr. 1263-av. 1310 ).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (733,0,'jpilla','Un concile s’est tenu à Bourges en septembre 1276 sous la présidence du légat pontifical Simon, cardinal-prêtre du titre de Sainte-Cécile, qui réunit seize articles protestant contre les empiètements commis dans le royaume de France contre les libertés de l’Église.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (734,0,'jpilla','L’expression «  ex abundanti  » se trouve dans la Vulgate, où elle renvoie à l’idée de superflu (Luc 21,4), ou d’inutile (2 Cor. 9,1, «  Ex abundanti est mihi scribere vobis  »). Il s’agit ici d’une coquetterie littéraire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (735,0,'jpilla','Soit avant le 24 juin prochain (Nativité de saint Jean, fête principale), ce qui laisse douze jours aller-retour.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (736,0,'jpilla','Capestang (Hérault, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (737,0,'jpilla','En 1277, la Saint-Barnabé (11 juin) tombe un vendredi ; la lettre est donc du 12 juin 1277.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (738,0,'jpilla','Mention typique, à compter du XIIIe siècle, à la fin de lettres circulant par porteur entre plusieurs destinataires. On pouvait aussi demander à ceux-ci d’apposer leur sceau en guise d’accusé de réception («  Reddite litteras sigillatas  »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (739,0,'jpilla','Pierre de Monbrun, archevêque de Narbonne de 1272 à 1286.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (740,0,'jpilla','Saint-Pons-de-Thomières (Hérault, ch.-l. cant. ; abbaye de bénédictins, anc. dioc. de Narbonne ) ; son abbé est alors Raimond (1276 à 1309/1311).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (741,0,'jpilla','Quarante (Hérault, cant. Capestang ; abbaye de chanoines réguliers, anc. dioc. de Narbonne) ; son abbé est alors Bernard (1272-av. 1283).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (742,0,'jpilla','Caunes (Caunes-Minervois, cant. Peyriac-Minervois ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Pierre (...1239-1285).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (743,0,'jpilla','Saint-Polycarpe (Aude, cant. Saint-Hilaire ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Bernard (1252/1255-1282).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (744,0,'jpilla','Sanctus Anianus : ancien nom de Saint-Chinian (Hérault, ch.-l. cant. ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Raimond (1251-1289...).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (745,0,'jpilla','Joucou (Aude, cant. Belcaire ; abbaye de bénédictins, anc. dioc. de Narbonne) ; son abbé est alors Arnaud (apr. 1263-av. 1310 ).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (746,0,'jpilla','Un concile s’est tenu à Bourges en septembre 1276 sous la présidence du légat pontifical Simon, cardinal-prêtre du titre de Sainte-Cécile, qui réunit seize articles protestant contre les empiètements commis dans le royaume de France contre les libertés de l’Église.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (747,0,'jpilla','L’expression «  ex abundanti  » se trouve dans la Vulgate, où elle renvoie à l’idée de superflu (Luc 21,4), ou d’inutile (2 Cor. 9,1, «  Ex abundanti est mihi scribere vobis  »). Il s’agit ici d’une coquetterie littéraire.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (748,0,'jpilla','Soit avant le 24 juin prochain (Nativité de saint Jean, fête principale), ce qui laisse douze jours aller-retour.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (749,0,'jpilla','Capestang (Hérault, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (750,0,'jpilla','En 1277, la Saint-Barnabé (11 juin) tombe un vendredi ; la lettre est donc du 12 juin 1277.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (751,0,'jpilla','Mention typique, à compter du XIIIe siècle, à la fin de lettres circulant par porteur entre plusieurs destinataires. On pouvait aussi demander à ceux-ci d’apposer leur sceau en guise d’accusé de réception («  Reddite litteras sigillatas  »).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,726,0,42);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,727,42,102);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,728,102,121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,729,121,133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,730,133,155);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,731,155,172);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,732,172,199);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,733,199,264);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,734,264,283);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,735,283,358);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,736,358,376);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,737,376,422);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,738,422,458);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,739,458,597);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,740,597,628);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,741,628,644);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,742,644,659);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,743,659,683);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,744,683,703);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,745,703,940);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,746,940,1497);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,747,1497,1805);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,748,1805,1844);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,749,1844,1858);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,750,1858,1962);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,751,1962,1996);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (752,0,'jpilla','Goailles (Jura, comm. Salins), abbaye d’augustins dédiée à Notre-Dame (dioc. Besançon).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (753,0,'jpilla','Le terme de "cens" s’applique ici à une redevance annuelle payée à partir de ce moment, assise sur un bien immeuble, et en échange d’un versement ponctuel (ici au taux très normal de 12 pour 1). Il s’agit à l’évidence de ce que la langue d’aujourd’hui nomme une "rente".');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (754,0,'jpilla','Comprendre «  (em)portant (incluant) loux (droit de lods), loy (pouvoir légal) et seigneurie  ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (755,0,'jpilla','Salins-les-Bains (Jura, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (756,0,'jpilla','Avesches (Jura, comm. Salins).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (757,0,'jpilla','La fête de la Naissance de la Vierge est célébrée le 8 septembre («  Notre Dame septembresche  »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (758,0,'jpilla','La fête de la Naissance de la Vierge est célébrée le 8 septembre («  Notre Dame septembresche  »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (759,0,'jpilla','Les estévenants, monnaie de l’archevêque de Besançon, tirent leur nom du bras reliquaire de saint Étienne qui y était représenté.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (760,0,'jpilla','Le roi de France Philippe le Bel exerçait alors, de façon assez énergique, le bail de la Comté. Les institutions comtoises fonctionnent donc en son nom.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (761,0,'jpilla','Le nom est graphié «  Walguet  » dans l’autre acte de 1296 présenté sur le site ; on pourrait aussi transcrire «  Walgnet  » ou, plus vraisemblablement, «  Wargnet  ».');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,752,42,58);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,753,58,64);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,754,64,107);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,755,107,120);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,756,120,144);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,757,144,172);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,758,172,232);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,759,232,257);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,760,257,287);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,761,287,308);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (762,0,'jpilla','L’indiction 2e correspond bien à la plus grande partie de l’année 1304.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (763,0,'jpilla','Geoffroy de Lincel, évêque de Gap de 1289 à 1314.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (764,0,'jpilla','Gap (Hautes-Alpes, ch.-l. dép.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (765,0,'jpilla','Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (766,0,'jpilla','Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (767,0,'jpilla','La procuration est un droit de gîte, acquitté en nature et/ou en espèces, dû à l’évêque ou à son représentant lorsqu’il parcourt le diocèse dans l’exercice de ses fonctions (ici pour une visite pastorale).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (768,0,'jpilla','Martin Lunel, prieur de Durbon en 1296-1299 et à nouveau quelques mois en 1304.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (769,0,'jpilla','Durbon : chartreuse au diocèse de Gap (comm. Saint-Julien-en-Beauchêne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (770,0,'jpilla','Le signe d’insertion # a été placé après coup par le scribe, qui a inscrit en fin d’acte, sur la dernière ligne, un passage omis, à insérer ici.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (771,0,'jpilla','Le terme de "préjudice" n’est pas choisi au hasard ; il renvoie aux "lettres de non-préjudice", courantes depuis la fin du XIIIe siècle et qui précisent qu’une mesure ponctuelle ayant pu empiéter sur les droits du destinataire ne saurait créer un précédent qui lui ferait tort.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (772,0,'jpilla','Le Labéoux, devenu auj. «  la Béoux  », torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (773,0,'jpilla','Brunsel (comm. Montmaur).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (774,0,'jpilla','Qualificatif savant, d’empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (775,0,'jpilla','L’indiction 2e correspond bien à la plus grande partie de l’année 1304.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (776,0,'jpilla','Geoffroy de Lincel, évêque de Gap de 1289 à 1314.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (777,0,'jpilla','Gap (Hautes-Alpes, ch.-l. dép.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (778,0,'jpilla','Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (779,0,'jpilla','Saint-Julien-en-Beauchêne (Hautes-Alpes, cant. Aspres-sur-Buëch).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (780,0,'jpilla','La procuration est un droit de gîte, acquitté en nature et/ou en espèces, dû à l’évêque ou à son représentant lorsqu’il parcourt le diocèse dans l’exercice de ses fonctions (ici pour une visite pastorale).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (781,0,'jpilla','Martin Lunel, prieur de Durbon en 1296-1299 et à nouveau quelques mois en 1304.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (782,0,'jpilla','Durbon : chartreuse au diocèse de Gap (comm. Saint-Julien-en-Beauchêne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (783,0,'jpilla','Le terme de "préjudice" n’est pas choisi au hasard ; il renvoie aux "lettres de non-préjudice", courantes depuis la fin du XIIIe siècle et qui précisent qu’une mesure ponctuelle ayant pu empiéter sur les droits du destinataire ne saurait créer un précédent qui lui ferait tort.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (784,0,'jpilla','Le Labéoux, devenu auj. «  la Béoux  », torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (785,0,'jpilla','Brunsel (comm. Montmaur).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (786,0,'jpilla','Qualificatif savant, d’empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,762,32,84);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,763,84,101);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,764,101,133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,765,133,158);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,766,158,180);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,767,180,203);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,768,203,232);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,769,232,246);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,770,246,248);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,771,248,263);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,772,263,275);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,773,275,309);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,774,309,342);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,775,342,361);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,776,361,383);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,777,383,422);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,778,422,438);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,779,438,495);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,780,495,511);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,781,511,525);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,782,525,571);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,783,571,619);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,784,619,647);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,785,647,704);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,786,704,724);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (787,0,'jpilla','Les "tournois petits" sont des deniers tournois "tout court", deniers d’origine, ainsi dénommés lorsque l’on veut ôter tout rique de confusion avec les doubles tournois et les gros tournois.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (788,0,'jpilla','Villefranche-de-Rouergue, Aveyron, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (789,0,'jpilla','Villeneuve, Aveyron, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (790,0,'jpilla','Cette double expression, non encore figée, désigne les taxes perçues par le roi au titre des "francs-fiefs et nouveaux acquêts", soit (a) des fiefs nobles acquis par des non-nobles, et (b) des biens tombés en mainmorte ecclésiastique. Ces impositions royales étaient présentées comme compensatoires des pertes de (a) service armé, (b) droits de mutation, que (a) le non-noble n’allait pas rendre, (b) le propriétaire ecclésiastique institutionnel n’aurait plus jamais à verser. Elles étaient levées après de minutieuses enquêtes faites sur les mouvements de patrimoine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (791,0,'jpilla','Pierre de La Palud, seigneur de Varambon (Ain, cant. Pont-d’Ain), attesté comme sénéchal de Toulouse et d’Albigeois de 1338 à 1342, fut nommé en août 1339 aux fonctions de lieutenant du roi en Languedoc, avec le titre de " capitaine et gouverneur général " ; à compter d’août 1340, il exerça cette charge conjointement à d’autres délégués du roi (Gallia regia, t. III, n° 13660-13661, et t. V, n° 21389).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (792,0,'jpilla','Le mot "taxatas" signifie qu’un montant, un taux a été fixé, et en même temps attribué par un supérieur (la famille étymologique a donné en français ausssi bien "taxe" que "taux").');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (793,0,'jpilla','D’après le contexte, la "taxatio"semble désigner ici l’acte par lequel les commissaires délégués en Rouergue ont fixé le montant dû au notaire, en se référant au taux d’indemnité journalière fixé dans un acte du capitaine-gouverneur.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (794,0,'jpilla','Les "tournois petits" sont des deniers tournois "tout court", deniers d’origine, ainsi dénommés lorsque l’on veut ôter tout rique de confusion avec les doubles tournois et les gros tournois.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (795,0,'jpilla','Villefranche-de-Rouergue, Aveyron, ch.-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (796,0,'jpilla','Villeneuve, Aveyron, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (797,0,'jpilla','Cette double expression, non encore figée, désigne les taxes perçues par le roi au titre des "francs-fiefs et nouveaux acquêts", soit (a) des fiefs nobles acquis par des non-nobles, et (b) des biens tombés en mainmorte ecclésiastique. Ces impositions royales étaient présentées comme compensatoires des pertes de (a) service armé, (b) droits de mutation, que (a) le non-noble n’allait pas rendre, (b) le propriétaire ecclésiastique institutionnel n’aurait plus jamais à verser. Elles étaient levées après de minutieuses enquêtes faites sur les mouvements de patrimoine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (798,0,'jpilla','Pierre de La Palud, seigneur de Varambon (Ain, cant. Pont-d’Ain), attesté comme sénéchal de Toulouse et d’Albigeois de 1338 à 1342, fut nommé en août 1339 aux fonctions de lieutenant du roi en Languedoc, avec le titre de " capitaine et gouverneur général " ; à compter d’août 1340, il exerça cette charge conjointement à d’autres délégués du roi (Gallia regia, t. III, n° 13660-13661, et t. V, n° 21389).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (799,0,'jpilla','Le mot "taxatas" signifie qu’un montant, un taux a été fixé, et en même temps attribué par un supérieur (la famille étymologique a donné en français ausssi bien "taxe" que "taux").');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (800,0,'jpilla','D’après le contexte, la "taxatio"semble désigner ici l’acte par lequel les commissaires délégués en Rouergue ont fixé le montant dû au notaire, en se référant au taux d’indemnité journalière fixé dans un acte du capitaine-gouverneur.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,787,3,68);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,788,68,89);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,789,89,112);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,790,112,131);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,791,131,161);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,792,161,190);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,793,190,217);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,794,217,390);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,795,390,425);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,796,425,451);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,797,451,617);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,798,617,811);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,799,811,982);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,800,982,1238);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (801,0,'jpilla','Nunyo Sanche (Nunó Sanç en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin germain de Blanche de Castille, était issu d’une branche cadette des comtes de Barcelone. Il était vassal du roi d’Aragon pour le Roussillon, le Conflent, la Cerdagne et le Vallespir.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (802,0,'jpilla','Jacques (Jaume) Ier le Conquérant, roi d’Aragon (1213-1276), reprit les Baléares (1229-1235) et Valence (1238) sur les Sarrazins.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (803,0,'jpilla','Lorsque Jacques Ier, en 1228, proposa à ses vassaux d’aller reconquérir les Baléares, il fut décidé que les conquêtes seraient partagées entre les vainqueurs, qui les tiendraient en fief du roi, par l’entremise d’une commission où siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de la ville de Majorque, tombée le 31 décembre 1229. C’est apparemment sur ces possessions urbaines (si importantes qu’il laissa un bailli pour les administrer) que porte l’acte, qui permet au roi d’Aragon d’affermir son contrôle sur les possessions de son cousin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (804,0,'jpilla','Castello d’Empuries ou plutôt Castello de la Plana, si l’on admet que le roi Jacques Ier, qui séjournait alors dans la région de Valence, n’aurait pas manqué d’assister à un acte aussi important, argument qui se heurte au fait que le roi n’est pas cité parmi les témoins, alors que certains de ses proches y sont.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (805,0,'jpilla','G. et Bernardus de Pavo rappellent le nom de Bernat de Pau (localité catalane, Alt Empordà), vassal de Nunyo, qui obtint un fief à Majorque en 1229, et de Guillem de Pau, mentionné à deux reprises en 1243 et 1265.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (806,0,'jpilla','Le nom est peut-être à rapprocher de celui de la famille d’Olcet (un certain Bernard Olcet est mentionné en 1243), ou plutôt d’un F. Salzet/Solzet qui souscrit d’autres actes de Nunyo.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (807,0,'jpilla','Rotllan Lain ou Lainez est fréquemment attesté comme témoin à la cour de Jacques Ier. Peut-être avec Arnaud de Verneto constituait-il l’« ambassade » envoyée par ce dernier à son cousin pour lui demander l’acte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (808,0,'jpilla','Garsia Reboster (sobriquet signifiant à l’origine « intendant pour les vivres et provisions ») apparaît ailleurs dans l’entourage de Nunyo.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (809,0,'jpilla','Il existe plusieurs famille de Verneto (et au moins deux localités du nom de Vernet, en Conflent et près de Perpignan). Arnau de Vernet, d’après la fréquence des mentions dans les actes du roi, semble faire partie de l’entourage de Jacques Ier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (810,0,'jpilla','Joan Royz est peut-être apparenté à Cascalla Royz, « noble baron de Castille » d’après B. Alart, et qui est mentionné avec Arnau de Vernet à Majorque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (811,0,'jpilla','Ramon Carles est un scribe souvent cité de Nunyo Sanche : il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en 1241. Il était aussi notaire public de Perpignan.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (812,0,'jpilla','Maître Joan, notaire, est responsable de la mise en forme des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu un moment sans activité entre 1237 et 1240.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (813,0,'jpilla','Nunyo Sanche (Nunó Sanç en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin germain de Blanche de Castille, était issu d’une branche cadette des comtes de Barcelone. Il était vassal du roi d’Aragon pour le Roussillon, le Conflent, la Cerdagne et le Vallespir.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (814,0,'jpilla','Jacques (Jaume) Ier le Conquérant, roi d’Aragon (1213-1276), reprit les Baléares (1229-1235) et  Valence (1238) sur les Sarrazins.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (815,0,'jpilla','Lorsque Jacques Ier, en 1228, proposa à ses vassaux d’aller reconquérir les Baléares, il fut décidé que les conquêtes seraient partagées entre les vainqueurs, qui les tiendraient en fief du roi, par l’entremise d’une commission où siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de la ville de Majorque, tombée le 31 décembre 1229. C’est apparemment sur ces possessions urbaines (si importantes qu’il laissa un bailli pour les administrer) que porte l’acte, qui permet au roi d’Aragon d’affermir son contrôle sur les possessions de son cousin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (816,0,'jpilla','Castello d’Empuries ou plutôt Castello de la Plana, si l’on admet que le roi Jacques Ier, qui séjournait alors dans la région de Valence, n’aurait pas manqué d’assister à un acte aussi important, argument qui se heurte au fait que le roi n’est pas cité parmi les témoins, alors que certains de ses proches y sont.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (817,0,'jpilla','G. et Bernardus de Pavo rappellent le nom de Bernat de Pau (localité catalane, Alt Empordà), vassal de Nunyo, qui obtint un fief à Majorque en 1229, et de Guillem de Pau, mentionné à deux reprises en 1243 et 1265.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (818,0,'jpilla','Le nom est peut-être à rapprocher de celui de la famille d’Olcet (un certain Bernard Olcet est mentionné en 1243), ou plutôt d’un F. Salzet/Solzet qui souscrit d’autres actes de Nunyo.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (819,0,'jpilla','Rotllan Lain ou Lainez est fréquemment attesté comme témoin à la cour de Jacques Ier. Peut-être avec Arnaud de Verneto constituait-il l’« ambassade » envoyée par ce dernier à son cousin pour lui demander l’acte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (820,0,'jpilla','Garsia Reboster (sobriquet signifiant à l’origine « intendant pour les vivres et provisions ») apparaît ailleurs dans l’entourage de Nunyo.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (821,0,'jpilla','Il existe plusieurs famille de Verneto (et au moins deux localités du nom de Vernet, en Conflent et près de Perpignan). Arnau de Vernet, d’après la fréquence des mentions dans les actes du roi, semble faire partie de l’entourage de Jacques Ier.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (822,0,'jpilla','Joan Royz est peut-être apparenté à Cascalla Royz, « noble baron de Castille » d’après B. Alart, et qui est mentionné avec Arnau de Vernet à Majorque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (823,0,'jpilla','Ramon Carles est un scribe souvent cité de Nunyo Sanche : il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en 1241. Il était aussi notaire public de Perpignan.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (824,0,'jpilla','Maître Joan, notaire, est responsable de la mise en forme des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu un moment sans activité entre 1237 et 1240.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,801,32,57);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,802,57,108);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,803,108,141);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,804,141,195);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,805,195,216);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,806,216,224);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,807,224,239);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,808,239,256);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,809,256,278);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,810,278,312);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,811,312,369);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,812,369,386);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,813,386,420);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,814,420,488);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,815,488,524);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,816,524,599);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,817,599,615);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,818,615,622);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,819,622,635);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,820,635,660);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,821,660,667);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,822,667,694);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,823,694,755);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,824,755,827);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (825,0,'jpilla','Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (826,0,'jpilla','Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (827,0,'jpilla','Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (828,0,'jpilla','Fort probablement, l’amphithéâtre romain des arènes de Nîmes, fortifié, siège du pouvoir vicomtal.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (829,0,'jpilla','Bernis (Gard, cant. Vauvert).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (830,0,'jpilla','Enclise pour “o vos” (“le château vous enlevait ou vous en enlevait [une partie]”).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (831,0,'jpilla','Sans doute Brouzet-lès-Quissac (Gard, cant. Quissac).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (832,0,'jpilla','Vézénobres (dép. Gard, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (833,0,'jpilla','Sans doute La Calmette (Gard, cant. Saint-Chaptes).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (834,0,'jpilla','Langlade (Gard, cant. Sommières).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (835,0,'jpilla','Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (836,0,'jpilla','Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (837,0,'jpilla','Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (838,0,'jpilla','Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (839,0,'jpilla','Fort probablement, l’amphithéâtre romain des arènes de Nîmes, fortifié, siège du pouvoir vicomtal.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (840,0,'jpilla','Bernis (Gard, cant. Vauvert).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (841,0,'jpilla','Sans doute Brouzet-lès-Quissac (Gard, cant. Quissac).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (842,0,'jpilla','Vézénobres (dép. Gard, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (843,0,'jpilla','Calmis');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (844,0,'jpilla','Langlade (Gard, cant. Sommières).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (845,0,'jpilla','Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,825,40,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,826,46,68);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,827,68,82);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,828,82,88);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,829,88,94);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,830,94,108);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,831,108,116);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,832,116,148);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,833,148,187);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,834,187,195);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,835,195,207);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,836,207,213);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,837,213,236);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,838,236,249);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,839,249,256);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,840,256,262);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,841,262,270);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,842,270,303);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,843,303,361);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,844,361,370);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,845,370,380);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (846,0,'jpilla','Orne, ch.-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (847,0,'jpilla','Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (848,0,'jpilla','Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (849,0,'jpilla','Almenêches, Orne, cant. Mortré.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (850,0,'jpilla','Sainte-Barbe-en-Auge, prieuré d’augustins à Écajeul (Calvados, cant. Mézidon-Canon, comm. Le Mesnil-Mauger).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (851,0,'jpilla','La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (852,0,'jpilla','Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (853,0,'jpilla','Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (854,0,'jpilla','Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (855,0,'jpilla','Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (856,0,'jpilla','Almenêches, Orne, cant. Mortré.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (857,0,'jpilla','Sainte-Barbe-en-Auge, prieuré d’augustins à Écajeul (Calvados, cant. Mézidon-Canon, comm. Le Mesnil-Mauger).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (858,0,'jpilla','La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (859,0,'jpilla','Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (860,0,'jpilla','Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,846,61,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,847,74,116);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,848,116,136);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,849,136,156);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,850,156,180);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,851,180,194);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,852,194,214);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,853,214,259);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,854,259,306);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,855,306,319);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,856,319,337);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,857,337,362);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,858,362,372);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,859,372,390);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,860,390,437);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (861,0,'jpilla','Elne (Pyrénées-Orientales, ch-l. cant.). Le diocèse couvrait le comté primitif de Roussillon, mais aussi le Conflent et une partie de la Cerdagne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (862,0,'jpilla','Mailloles, auj. dans la banlieue de Perpignan ; le nom évoque des terrains nouvellement plantés de vignes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (863,0,'jpilla','« Facta est carta » est l’incipit traditionnel de la date (« Datum est ») des chartes catalanes et plus largement ibériques  de même que « datum » a donné le mot “date”, « facta » a donné en castillan “fecha”.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (864,0,'jpilla','Louis VI, roi de France (1108-1137). La concordance avec l’année 1116 implique que le rédacteur prend comme point de départ du règne, et sans erreur, la mort du roi Philippe Ier (29 juillet 1108), voire le sacre de Louis VI (3 août 1108), terme usuel à la chancellerie royale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (865,0,'jpilla','Le laudamentum/lods est fondamentalement une confirmation (souvent payante), donné par le seigneur à une aliénation ; le versement qui sanctionne l’accord (donc l’engagement) du censitaire est ici un droit d’entrée, assez élevé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (866,0,'jpilla','Elne (Pyrénées-Orientales, ch-l. cant.). Le diocèse couvrait le comté primitif de Roussillon, mais aussi le Conflent et une partie de la Cerdagne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (867,0,'jpilla','Mailloles, auj. dans la banlieue de Perpignan ; le nom évoque des terrains nouvellement plantés de vignes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (868,0,'jpilla',' Facta est carta » est l’incipit traditionnel de la date (« Datum est ») des chartes catalanes et plus largement ibériques, où, de même que « datum » a donné le mot “date”, « facta » a donné en castillan “fecha”.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (869,0,'jpilla','Louis VI, roi de France (1108-1137). La concordance avec l’année 1116 implique que le rédacteur prend comme point de départ du règne, et sans erreur, la mort du roi Philippe Ier (29 juillet 1108), voire le sacre de Louis VI (3 août 1108), terme usuel à la chancellerie royale.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (870,0,'jpilla','Le laudamentum/lods est fondamentalement une confirmation (souvent payante), donné par le seigneur à une aliénation ; le versement qui sanctionne l’accord (donc l’engagement) du censitaire est ici un droit d’entrée, assez élevé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (871,0,'jpilla','Le laudamentum/lods est fondamentalement une confirmation (souvent payante), donné par le seigneur à une aliénation ; le versement qui sanctionne l’accord (donc l’engagement) du censitaire est ici un droit d’entrée, assez élevé.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,861,83,112);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,862,112,147);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,863,147,194);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,864,194,240);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,865,240,251);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,866,251,273);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,867,273,310);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,868,310,386);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,869,386,453);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,870,453,473);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,871,473,477);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (872,0,'jpilla','Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d’une campagne contre Pépin II d’Aquitaine, qu’il a mis en déroute.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (873,0,'jpilla','Avallon, Yonne, ch-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (874,0,'jpilla','Dornecy, Nièvre, cant. Clamecy.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (875,0,'jpilla','L’archichancelier Louis, fils du comte du Maine et d’une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu’à son décès au début de 867.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (876,0,'jpilla','Castillon-la-Bataille, Gironde, ch-l. cant.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (877,0,'jpilla','Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d’une campagne contre Pépin II d’Aquitaine, qu’il a mis en déroute.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (878,0,'jpilla','Avallon, Yonne, ch-l. arr.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (879,0,'jpilla','Dornecy, Nièvre, cant. Clamecy.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (880,0,'jpilla','L’archichancelier Louis, fils du comte du Maine et d’une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu’à son décès au début de 867.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (881,0,'jpilla','Castillon-la-Bataille, Gironde, ch-l. cant.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,872,44,67);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,873,67,85);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,874,85,160);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,875,160,181);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,876,181,247);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,877,247,280);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,878,280,297);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,879,297,374);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,880,374,391);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,881,391,463);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (882,0,'jpilla','Bertrade de Montfort, épouse en premières noces de Foulque IV le Réchin, comte d’Anjou, puis en secondes noces  du roi Philippe Ier. Elle meurt à la fin de 1115 ou au début de 1116.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (883,0,'jpilla','Philippe Ier, roi de France de 1060 à 1108, a d’abord épousé Berthe de Hollande (dont il a eu son successeur, le futur Louis VI). Après avoir répudié celle-ci, il a enlevé Bertrade en 1092, ce qui lui vaut d’être excommunié en 1095. Il est définitivement absous en 1104, même si Bertrade demeure à ses côtés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (884,0,'jpilla','Foulque V, fils de Foulque IV le Réchin et de Bertrade de Montfort ; né en 1092, il passe en Terre Sainte en 1129, devient roi de Jérusalem en 1131, meurt en 1144.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (885,0,'jpilla','Marmoutier, aux portes de Tours (comm. Sainte-Radegonde), a été réformée par Cluny vers 982 et dès lors solidement rattachée à l’observance bénédictine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (886,0,'jpilla','La « forêt » (forestis) est fondamentalement un espace soustrait aux modes usuels d’exploitation ; il peut s’y trouver des bois, mais aussi bien des landes, des marécages, des cours d’eau… La différence est en principe nette avec le « bois », couvert d’arbres (boscum, silva). Pourtant les trois termes se trouvent employés successivement dans l’acte, où le rédacteur semble surtout vouloir varier l’expression.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (887,0,'jpilla','La forêt des Plantes (ailleurs « de Splente », ici relatinisée à contresens) occupait, à l’ouest et à l’est de Tours la langue de terre comprise entre Loire et Cher avant le confluent des deux cours d’eau.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (888,0,'jpilla','Ce don du comte serait de 1110.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (889,0,'jpilla','« Finem » peut simplement renvoyer à la fin, à la limite, mais peut-être plus précisément à la limite matérialisée, par un fossé, des bornes ou d’autres repères.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (890,0,'jpilla','« Dos » à l’époque peut renvoyer aussi bien à la dot qu’au douaire et c’est le contexte qui impose la traduction. Le douaire constitué par le roi à Bertrade en Touraine, largement pris sur le patrimoine de Saint-Martin de Tours, nous est bien connu pour avoir été disputé, la présente donation exceptée, à la mort de Bertrade, entre Saint-Martin et Fontevraud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (891,0,'jpilla','Louis VI le Gros, fils de Philippe Ier et de Berthe de Hollande ; né en 1077, roi en 1108, mort en 1137.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (892,0,'jpilla','Cet « achat » au beau-fils d’une pièce du douaire, en principe constitué de façon irrévocable, en dit long sur la maléabilité des pratiques de contrôle du douaire par le lignage du mari.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (893,0,'jpilla','Guillaume, abbé de Marmoutier de 1104 à 1124.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (894,0,'jpilla','Fontcher, prieuré de Marmoutier au diocèse de Tours (Indre-et-Loire, cant. Ballan-Miré, comm. Villandry).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (895,0,'jpilla','Le contenu exact du forestage est difficile à saisir. Dans la mesure où le don principal porte sur la forêt elle-même, on voit mal qu’il puisse s’agir d’un droit d’usage (coupe, paisson…), que la propriété emporte. Il s’agit peut-être plutôt de droits fiscaux et/ou judiciaires réaffirmés sur d’autres usagers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (896,0,'jpilla','Bertrade de Montfort, épouse en premières noces de Foulque IV le Réchin, comte d’Anjou, puis en secondes noces  du roi Philippe Ier. Elle meurt à la fin de 1115 ou au début de 1116.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (897,0,'jpilla','Philippe Ier, roi de France de 1060 à 1108, a d’abord épousé Berthe de Hollande (dont il a eu son successeur, le futur Louis VI). Après avoir répudié celle-ci, il a enlevé Bertrade en 1092, ce qui lui vaut d’être excommunié en 1095. Il est définitivement absous en 1104, même si Bertrade demeure à ses côtés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (898,0,'jpilla','Foulque V, fils de Foulque IV le Réchin et de Bertrade de Montfort ; né en 1092, il passe en Terre Sainte en 1129, devient roi de Jérusalem en 1131, meurt en 1144.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (899,0,'jpilla','Marmoutier, aux portes de Tours (comm. Sainte-Radegonde), a été réformée par Cluny vers 982 et dès lors solidement rattachée à l’observance bénédictine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (900,0,'jpilla','La « forêt » (forestis) est fondamentalement un espace soustrait aux modes usuels d’exploitation ; il peut s’y trouver des bois, mais aussi bien des landes, des marécages, des cours d’eau… La différence est en principe nette avec le « bois », couvert d’arbres (boscum, silva). Pourtant les trois termes se trouvent employés successivement dans l’acte, où le rédacteur semble surtout vouloir varier l’expression.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (901,0,'jpilla','La forêt des Plantes (ailleurs « de Splente », ici relatinisée à contresens) occupait, à l’ouest et à l’est de Tours la langue de terre comprise entre Loire et Cher avant le confluent des deux cours d’eau.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (902,0,'jpilla','Ce don du comte serait de 1110.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (903,0,'jpilla','« Finem » peut simplement renvoyer à la fin, à la limite, mais peut-être plus précisément à la limite matérialisée, par un fossé, des bornes ou d’autres repères.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (904,0,'jpilla','« Dos » à l’époque peut renvoyer aussi bien à la dot qu’au douaire et c’est le contexte qui impose la traduction. Le douaire constitué par le roi à Bertrade en Touraine, largement pris sur le patrimoine de Saint-Martin de Tours, nous est bien connu pour avoir été disputé, la présente donation exceptée, à la mort de Bertrade, entre Saint-Martin et Fontevraud.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (905,0,'jpilla','Louis VI le Gros, fils de Philippe Ier et de Berthe de Hollande ; né en 1077, roi en 1108, mort en 1137.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (906,0,'jpilla','Cet « achat » au beau-fils d’une pièce du douaire, en principe constitué de façon irrévocable, en dit long sur la maléabilité des pratiques de contrôle du douaire par le lignage du mari.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (907,0,'jpilla','Guillaume, abbé de Marmoutier de 1104 à 1124.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (908,0,'jpilla','Fontcher, prieuré de Marmoutier au diocèse de Tours (Indre-et-Loire, cant. Ballan-Miré, comm. Villandry).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (909,0,'jpilla','Le contenu exact du forestage est difficile à saisir. Dans la mesure où le don principal porte sur la forêt elle-même, on voit mal qu’il puisse s’agir d’un droit d’usage (coupe, paisson…), que la propriété emporte. Il s’agit peut-être plutôt de droits fiscaux et/ou judiciaires réaffirmés sur d’autres usagers.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,882,78,95);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,883,95,103);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,884,103,149);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,885,149,167);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,886,167,188);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,887,188,231);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,888,231,263);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,889,263,292);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,890,292,330);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,891,330,350);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,892,350,375);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,893,375,412);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,894,412,434);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,895,434,472);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,896,472,492);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,897,492,527);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,898,527,559);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,899,559,635);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,900,635,655);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,901,655,671);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,902,671,692);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,903,692,781);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,904,781,824);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,905,824,844);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,906,844,896);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,907,896,916);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,908,916,977);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,909,977,1023);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (910,0,'jpilla','Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (911,0,'jpilla','Eustache II, successeur de l’abbé Lambert (1190-1211).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (912,0,'jpilla','Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (913,0,'jpilla','Presbitero. Par une extension de sens encore fréquente aujourd’hui, le terme de « prêtre » renvoie ici à l’évidence au prêtre en charge de la paroisse, « curé » au regard du droit canon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (914,0,'jpilla','Gamaches (Somme, ch.-l. cant., anc. diocèse d’Amiens, d’où l’intervention de l’ordinaire du lieu), abritait un prieuré de l’abbaye Saint-Germer-de-Fly, dédié à Saint-Pierre-Saint-Paul (devenu église paroissiale à la Révolution). Les moines avaient le droit de patronage (ou de « présentation ») de l’église paroissiale du lieu : ils choisissaient le curé, qui était ensuite investi par l’évêque d’Amiens.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (915,0,'jpilla','Le cantuarium est l’ensemble des droits perçus à l’occasion des messes chantées. Le contexte nous incite à comprendre plus largement dans le sens d’un terme plus fréquent, l’autelage, revenus du service assuré par le desservant, incluant même les revenus de la dîme. Le contexte aide aussi à comprendre qu’il s’agit ici du partage entre le patron de la cure et le curé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (916,0,'jpilla','Bladii. Comprendre « bladi ». Le « bladum » (les « bleds » en français ancien) peut ou non inclure l’avoine, mais se révèle toujours plus large que le « blé » contemporain (froment) ; il désigne fondamentalement les céréales panifiables.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (917,0,'jpilla','Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (918,0,'jpilla','Saint-Nicolas était alors l’église paroissiale de Gamaches.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (919,0,'jpilla','Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (920,0,'jpilla','Eu (Seine-Maritime, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (921,0,'jpilla','Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (922,0,'jpilla','Eustache II, successeur de l’abbé Lambert (1190-1211).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (923,0,'jpilla','Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (924,0,'jpilla','Presbitero. Par une extension de sens encore fréquente aujourd’hui, le terme de « prêtre » renvoie ici à l’évidence au prêtre en charge de la paroisse, « curé » au regard du droit canon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (925,0,'jpilla','Gamaches (Somme, ch.-l. cant., anc. diocèse d’Amiens, d’où l’intervention de l’ordinaire du lieu), abritait un prieuré de l’abbaye Saint-Germer-de-Fly, dédié à Saint-Pierre-Saint-Paul (devenu église paroissiale à la Révolution). Les moines avaient le droit de patronage (ou de « présentation ») de l’église paroissiale du lieu : ils choisissaient le curé, qui était ensuite investi par l’évêque d’Amiens.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (926,0,'jpilla','Le cantuarium est l’ensemble des droits perçus à l’occasion des messes chantées. Le contexte nous incite à comprendre plus largement dans le sens d’un terme plus fréquent, l’autelage, revenus du service assuré par le desservant, incluant même les revenus de la dîme. Le contexte aide aussi à comprendre qu’il s’agit ici du partage entre le patron de la cure et le curé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (927,0,'jpilla','Bladii. Comprendre « bladi ». Le « bladum » (les « bleds » en français ancien) peut ou non inclure l’avoine, mais se révèle toujours plus large que le « blé » contemporain (froment) ; il désigne fondamentalement les céréales panifiables.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (928,0,'jpilla','Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (929,0,'jpilla','Purification de la Vierge, ou Chandeleur (2 février), fête associée à la lumière, donc à une profusion de luminaires.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (930,0,'jpilla','Saint-Nicolas était alors l’église paroissiale de Gamaches.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (931,0,'jpilla','Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (932,0,'jpilla','Eu (Seine-Maritime, ch.-l. cant.).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,910,0,89);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,911,89,111);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,912,111,137);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,913,137,151);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,914,151,188);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,915,188,200);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,916,200,223);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,917,223,269);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,918,269,289);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,919,289,340);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,920,340,409);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,921,409,490);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,922,490,500);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,923,500,510);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,924,510,520);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,925,520,581);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,926,581,609);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,927,609,666);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,928,666,688);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,929,688,776);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,930,776,861);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,931,861,911);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,932,911,933);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (933,0,'jpilla','Les officiaux sont surtout connus comme des délégués de la justice de l’évêque. Mais des archidiacres, des doyens de chapitres cathédraux, des abbés exempts eurent aussi des officiaux, qui exerçaient leur justice contentieuse et gracieuse, et furent surtout actifs au XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (934,0,'jpilla','Ottobono Fieschi, représentant de la célèbre famille génoise, neveu du pape Innocent IV, et bon exemple de ces dignitaires italiens introduits au royaume de France au XIIIe siècle. Créé cardinal par son oncle en 1244, il fut pape à peine plus d’un mois en 1276, sous le nom d’Adrien V. Chanoine du chapitre cathédral de Reims, chancelier de 1243 à 1250, il perdit cet office à cette date et fut promu en échange, par collation apostolique, archidiacre de Reims. En 1254, il s’était violemment opposé à l’archevêque et s’était fait reconnaître la juridiction spirituelle dans son archidiaconé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (935,0,'jpilla','Les archidiacres, proches collaborateurs de l’évêque dans la gestion du diocèse, dont ils surveillaient une portion, étaient en nombre variable selon les diocèses. Il y en avait, au XIIIe siècle, deux dans le diocèse de Reims, dits de Reims (ou de la chrétienté, ou grand archidiacre) et de Champagne. Collaborateurs très proches des évêques du XIIe siècle, ils entrèrent souvent en conflit avec lui, au siècle suivant, dans l’exercice de leur juridiction.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (936,0,'jpilla','Le dimanche de la Trinité est le premier dimanche après la Pentecôte (un moment où l’on est sûr que le millésime a été changé), ce qui correspond en 1255 au 23 mai. Comme la troisième férie désigne le mardi (les féries sont décomptées à partir du dimanche), on est donc le 25 mai 1255.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (937,0,'jpilla','Le dimanche de la Trinité est le premier dimanche après la Pentecôte (un moment où l’on est sûr que le millésime a été changé), ce qui correspond en 1255 au 23 mai. Comme la troisième férie désigne le mardi (les féries sont décomptées à partir du dimanche), on est donc le 25 mai 1255.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (938,0,'jpilla','Thomas de Beaumetz, archevêque de Reims de 1251 à 1263. Banni de Reims au début de 1235 pour son zèle excessif dans la défense des libertés ecclésiastiques, il dut faire face pendant son épiscopat aux difficultés causées par le chapitre cathédral et l’archidiacre Ottobono (1254), les bourgeois de sa cité (1258), l’abbé de Saint-Remi de Reims (1259).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (939,0,'jpilla','Les doyens de chrétienté, ou archiprêtres, formaient un échelon important du contrôle diocésain, entre les paroisses et les archidiacres et évêque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (940,0,'jpilla','Les doyens de chrétienté, ou archiprêtres, formaient un échelon important du contrôle diocésain, entre les paroisses et les archidiacres et évêque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (941,0,'jpilla','Tout indique que le « prêtre » désigne ici le curé de paroisse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (942,0,'jpilla','<e> On ne voit absolument pas que la préposition “e(x)” convienne au sens. Le “e” pourrait à la rigueur procéder d’une influence de la langue vernaculaire (“échevins”) sur le terme latin usuel (escabinis). L’hypothèse, qui se heurte déjà à la grande régularité morphologique du document, est en outre contredite par le “S” majuscule de “Scabinis”. Nous ne voyons pas d’autre hypothèse que celle de l’amorce d’un mot, tracée par erreur et non supprimée.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (943,0,'jpilla','« Cantate » est l’introït (chant d’ouverture de la messe) du quatrième dimanche après Pâques, le 25 avril en 1255. La cinquième férie indiquant un jeudi, le mandement de l’archevêque est du 29 avril 1255.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (944,0,'jpilla','Expression typique des lettres circulaires, qui doivent être remises au porteur au cours de sa tournée, parfois munies d’un sceau (« Reddite litteras sigillatas »), pour témoigner que le destinataire en a bien pris connaissance.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (945,0,'jpilla','Les officiaux sont surtout connus comme des délégués de la justice de l’évêque. Mais des archidiacres, des doyens de chapitres cathédraux, des abbés exempts eurent aussi des officiaux, qui exerçaient leur justice contentieuse et gracieuse, et furent surtout actifs au XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (946,0,'jpilla','Ottobono Fieschi, représentant de la célèbre famille génoise, neveu du pape Innocent IV, et bon exemple de ces dignitaires italiens introduits au royaume de France au XIIIe siècle. Créé cardinal par son oncle en 1244, il fut pape à peine plus d’un mois en 1276, sous le nom d’Adrien V. Chanoine du chapitre cathédral de Reims, chancelier de 1243 à 1250, il perdit cet office à cette date et fut promu en échange, par collation apostolique, archidiacre de Reims. En 1254, il s’était violemment opposé à l’archevêque et s’était fait reconnaître la juridiction spirituelle dans son archidiaconé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (947,0,'jpilla','Les archidiacres, proches collaborateurs de l’évêque dans la gestion du diocèse, dont ils surveillaient une portion, étaient en nombre variable selon les diocèses. Il y en avait, au XIIIe siècle, deux dans le diocèse de Reims, dits de Reims (ou de la chrétienté, ou grand archidiacre) et de Champagne. Collaborateurs très proches des évêques du XIIe siècle, ils entrèrent souvent en conflit avec lui, au siècle suivant, dans l’exercice de leur juridiction.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (948,0,'jpilla','Le dimanche de la Trinité est le premier dimanche après la Pentecôte (un moment où l’on est sûr que le millésime a été changé), ce qui correspond en 1255 au 23 mai. Comme la troisième férie désigne le mardi (les féries sont décomptées à partir du dimanche), on est donc le 25 mai 1255.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (949,0,'jpilla','Thomas de Beaumetz, archevêque de Reims de 1251 à 1263. Banni de Reims au début de 1235 pour son zèle excessif dans la défense des libertés ecclésiastiques, il dut faire face pendant son épiscopat aux difficultés causées par le chapitre cathédral et l’archidiacre Ottobono (1254), les bourgeois de sa cité (1258), l’abbé de Saint-Remi de Reims (1259).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (950,0,'jpilla','Les doyens de chrétienté, ou archiprêtres, formaient un échelon important du contrôle diocésain, entre les paroisses et les archidiacres et évêque.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (951,0,'jpilla','Tout indique que le « prêtre » désigne ici le curé de paroisse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (952,0,'jpilla','« Cantate » est l’introït (chant d’ouverture de la messe) du quatrième dimanche après Pâques, le 25 avril en 1255. La cinquième férie indiquant un jeudi, le mandement de l’archevêque est du 29 avril 1255.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (953,0,'jpilla','« Cantate » est l’introït (chant d’ouverture de la messe) du quatrième dimanche après Pâques, le 25 avril en 1255. La cinquième férie indiquant un jeudi, le mandement de l’archevêque est du 29 avril 1255.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (954,0,'jpilla','Expression typique des lettres circulaires, qui doivent être remises au porteur au cours de sa tournée, parfois munies d’un sceau (« Reddite litteras sigillatas »), pour témoigner que le destinataire en a bien pris connaissance.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,933,71,87);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,934,87,140);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,935,140,217);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,936,217,222);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,937,222,272);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,938,272,300);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,939,300,315);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,940,315,326);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,941,326,402);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,942,402,429);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,943,429,478);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,944,478,546);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,945,546,554);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,946,554,596);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,947,596,678);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,948,678,750);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,949,750,772);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,950,772,796);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,951,796,858);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,952,858,879);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,953,879,915);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,954,915,967);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (955,0,'jpilla','Les maîtres des requêtes du parlement de Paris (installé au palais de la Cité) formaient une chambre à part, qui recevait les requêtes des plaideurs et statuait sur la validité des causes et leur issue procédurale. Depuis une ordonnance de 1364, ils jugeaient aussi des causes de certains privilégiés, ce qui doit s’appliquer au cas présent. Les « requêtes du palais » ne sont pas à confondre avec les « requêtes de l’Hôtel », qui examinaient les suppliques présentées au roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (956,0,'jpilla','Corbeil (auj. Corbeil-Essonnes, Essonne, ch.-l. cant.) était le siège d’une châtellenie relevant de la vicomté de Paris, qui était soumise au prévôt de Paris, siégeant au Châtelet. Le Châtelet n’intervient ici que pour une action de police, l’affaire montant aussitôt au parlement.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (957,0,'jpilla','Noter que la femme est totalement transparente du point de vue anthroponymique.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (958,0,'jpilla','Le mot “rente” (lat. redditus) peut désigner plus que notre actuelle “rente” : il peut certes s’agir d’une rente constituée sur la maison, mais aussi bien d’une redevance, par exemple d’un cens.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,955,66,89);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,956,89,128);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,957,128,206);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,958,206,216);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (959,0,'jpilla','Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (960,0,'jpilla','Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (961,0,'jpilla','Hugues de Semur, abbé de Cluny de 1049 à 1109.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (962,0,'jpilla','Cluny L’expansion de Cluny dans la péninsule ibérique connaît un succès décisif sous l’abbé Hugues de Semur, dont le roi Alphonse VI a épousé en secondes noces une nièce. La donation d’Urraka se place dans une tradition familiale, renforcée par les liens entretenus par son époux Raimond de Bourgogne avec l’abbé Hugues.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (963,0,'jpilla','Pombeiro, abbaye dédiée à Saint-Vincent (diocèse Lugo).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (964,0,'jpilla','Raimond (vers 1070-1107), comte d’Amous, de Bourgogne, de Coimbra et de Galice. Fils de Guillaume Ier le Grand, comte de Bourgogne et de Mâcon, époux d’Urraka et père d’Alphonse VII de Castille.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (965,0,'jpilla','1147 de l’ère d’Espagne = 1109 de l’ère de l’Incarnation.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (966,0,'jpilla','Constance (1046-1092), fille de Robert Ier de Bourgogne, a épousé successivement Hugues II de Chalon puis Alphonse VI de León-Castille, dont elle a Urraka.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (967,0,'jpilla','Diego Gelmírez (vers 1060-1140), chancelier et conseiller privilégié de Raimond de Bourgogne, accède en 1098/1100 au siège épiscopal de Compostelle, capitale de la Galice (devenu archevêché en 1120/1121) ; il est le deuxième Diego du nom à occuper la fonction, d’où le qualificatif de « secundus ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (968,0,'jpilla','confirmat Le mot est systématiquement abrégé dans les actes, et l’on pourrait aussi bien lire confirmans ou confirmo ; les éditeurs espagnols s’en tiennent souvent à « conf. ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (969,0,'jpilla','Mauricio Burdinho, peut-être originaire de Bourgogne, a été successivement archidiacre de Tolède, évêque de Coimbra (en 1099), puis archevêque de Braga (à compter du début 1109). Envoyé comme légat auprès de l’empereur Henri V, il fut créé par ce dernier antipape sous le nom de Grégoire VIII (8 mars 1114-avril 1121).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (970,0,'jpilla','Diego Velasco, évêque d’Orense (siège suffragant de Saint-Jacques de Compostelle) de 1102 à 1132, participa au concile de Palencia et à trois conciles à Saint-Jacques de Compostelle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (971,0,'jpilla','Celanova, abbaye bénédictine (diocèse Orense).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (972,0,'jpilla','Urraka Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (973,0,'jpilla','Alphonse VI Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (974,0,'jpilla','Hugues Hugues de Semur, abbé de Cluny de 1049 à 1109.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (975,0,'jpilla','Cluny L’expansion de Cluny dans la péninsule ibérique connaît un succès décisif sous l’abbé Hugues de Semur, dont le roi Alphonse VI a épousé en secondes noces une nièce. La donation d’Urraka se place dans une tradition familiale, renforcée par les liens entretenus par son époux Raimond de Bourgogne avec l’abbé Hugues.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (976,0,'jpilla','Pombeiro, abbaye dédiée à Saint-Vincent (diocèse Lugo).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (977,0,'jpilla','Raimond (vers 1070-1107), comte d’Amous, de Bourgogne, de Coimbra et de Galice. Fils de Guillaume Ier le Grand, comte de Bourgogne et de Mâcon, époux d’Urraka et père d’Alphonse VII de Castille.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (978,0,'jpilla','1147 de l’ère d’Espagne = 1109 de l’ère de l’Incarnation.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (979,0,'jpilla','Constance (1046-1092), fille de Robert Ier de Bourgogne, a épousé successivement Hugues II de Chalon puis Alphonse VI de León-Castille, dont elle a Urraka.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (980,0,'jpilla','Diego Gelmírez (vers 1060-1140), chancelier et conseiller privilégié de Raimond de Bourgogne, accède en 1098/1100 au siège épiscopal de Compostelle, capitale de la Galice (devenu archevêché en 1120/1121) ; il est le deuxième Diego du nom à occuper la fonction, d’où le qualificatif de « secundus ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (981,0,'jpilla','confirmat Le mot est systématiquement abrégé dans les actes, et l’on pourrait aussi bien lire confirmans ou confirmo ; les éditeurs espagnols s’en tiennent souvent à « conf. ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (982,0,'jpilla','Mauricio Burdinho, peut-être originaire de Bourgogne, a été successivement archidiacre de Tolède, évêque de Coimbra (en 1099), puis archevêque de Braga (à compter du début 1109). Envoyé comme légat auprès de l’empereur Henri V, il fut créé par ce dernier antipape sous le nom de Grégoire VIII (8 mars 1114-avril 1121).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (983,0,'jpilla','Diego Velasco, évêque d’Orense (siège suffragant de Saint-Jacques de Compostelle) de 1102 à 1132, participa au concile de Palencia et à trois conciles à Saint-Jacques de Compostelle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (984,0,'jpilla','Celanova, abbaye bénédictine (diocèse Orense).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,959,0,20);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,960,20,44);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,961,44,69);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,962,69,87);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,963,87,101);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,964,101,146);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,965,146,261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,966,261,329);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,967,329,409);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,968,409,419);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,969,419,466);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,970,466,509);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,971,509,530);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,972,530,560);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,973,560,571);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,974,571,602);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,975,602,614);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,976,614,696);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,977,696,764);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,978,764,811);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,979,811,859);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,980,859,942);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,981,942,951);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,982,951,996);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,983,996,1038);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,984,1038,1057);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (985,0,'jpilla','Les « catteux » (latin capitalia) sont des biens individuels principalement mobiliers. Le terme est synonyme de meubles et s’oppose à heritage ou erve qui désignent dans les textes le patrimoine immobilier. Ces deux catégories de biens sont très différenciées par le droit coutumier qui, par exemple, définit des règles successorales distinctes pour chacune.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (986,0,'jpilla','Les rentes à vie sont l’un des investissements favoris de la bourgeoisie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (987,0,'jpilla','Les rentes à vie sont l’un des investissements favoris de la bourgeoisie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (988,0,'jpilla','Le « mariage » (maritagium) peut désigner le douaire ou la dotation des époux : les biens sont définis comme la part de l’héritage paternel devant constituer cette dotation au jour du mariage.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (989,0,'jpilla','Sans doute Angre (Belgique, Hainaut, arr. Mons).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,985,1,12);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,986,12,20);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,987,20,107);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,988,107,156);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,989,156,192);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (990,0,'jpilla','Raymond de Felgar, dominicain, évêque de Toulouse de 1232 à 1270.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (991,0,'jpilla','Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (992,0,'jpilla','Sicard Alaman, issu d’une modeste famille seigneuriale d’Albigeois, a été un fidèle et lieutenant puissant de Raymond VII, puis d’Alphonse de Poitiers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (993,0,'jpilla','Amédée [IV], comte de Savoie de 1232 à sa mort en 1253, duc d’Aoste et duc de Chablais à partir de 1238. Le titre marquisal est porté par le lignage depuis le XIe siècle, mais lui-même ne put s’emparer de Turin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (994,0,'jpilla','Le redoublement du mot « benignitas », employé métaphoriquement pour désigner les destinataires, est à l’évidence une bourde du scribe qui, par persévération, a ainsi sauté un autre substantif (comme, simple hypothèse, « prudentia »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (995,0,'jpilla','Le redoublement du mot « benignitas », employé métaphoriquement pour désigner les destinataires, est à l’évidence une bourde du scribe qui, par persévération, a ainsi sauté un autre substantif (comme, simple hypothèse, « prudentia »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (996,0,'jpilla','Le monastère de Hautecombe (bénédictins, puis cisterciens) se trouvait sur la montagne de Cessens, sur la rive gauche du lac du Bourget ; depuis sa fondation, il entretenait des liens très étroits avec les comtes de Savoie ; Amédée IV y fut enseveli.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (997,0,'jpilla','Raymond [VII], dit Raymond le Jeune, comte de Toulouse à partir de 1222, est mort à Millau le 27 septembre 1249.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (998,0,'jpilla','Cécile des Baux, fille de Baral des Baux, vicomte de Marseille, partisan de l’empereur et depuis 1230 du comte de Toulouse. Baral avait épousé une nièce de Raymond VII, Sibile d’Anduze : nous qualiferions Cécile de petite-nièce de Raymond VII. Le qualificatif de sœur ne figurait pas quant à lui au contrat de mariage.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (999,0,'jpilla','Le 29 septembre. Par sa position dans l’année, la fête constitue un fréquent terme de paiement comme de reddition de compte.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1000,0,'jpilla','Raymond de Felgar, dominicain, évêque de Toulouse de 1232 à 1270.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1001,0,'jpilla','Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1002,0,'jpilla','Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1003,0,'jpilla','Sicard Alaman, issu d’une modeste famille seigneuriale d’Albigeois, a été un fidèle et lieutenant puissant de Raymond VII, puis d’Alphonse de Poitiers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1004,0,'jpilla','Amédée [IV], comte de Savoie de 1232 à sa mort en 1253, duc d’Aoste et duc de Chablais à partir de 1238. Le titre marquisal est porté par le lignage depuis le XIe siècle, mais lui-même ne put s’emparer de Turin.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1005,0,'jpilla','Le redoublement du mot « benignitas », employé métaphoriquement pour désigner les destinataires, est à l’évidence une bourde du scribe qui, par persévération, a ainsi sauté un autre substantif (comme, simple hypothèse, « prudentia »).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1006,0,'jpilla','Le monastère de Hautecombe (bénédictins, puis cisterciens) se trouvait sur la montagne de Cessens, sur la rive gauche du lac du Bourget ; depuis sa fondation, il entretenait des liens très étroits avec les comtes de Savoie ; Amédée IV y fut enseveli.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1007,0,'jpilla','Raymond [VII], dit Raymond le Jeune, comte de Toulouse à partir de 1222, est mort à Millau le 27 septembre 1249.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1008,0,'jpilla','Cécile des Baux, fille de Baral des Baux, vicomte de Marseille, partisan de l’empereur et depuis 1230 du comte de Toulouse. Baral avait épousé une nièce de Raymond VII, Sibile d’Anduze : nous qualiferions Cécile de petite-nièce de Raymond VII. Le qualificatif de sœur ne figurait pas quant à lui au contrat de mariage.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1009,0,'jpilla','Le 29 septembre. Par sa position dans l’année, la fête constitue un fréquent terme de paiement comme de reddition de compte.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,990,54,85);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,991,85,122);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,992,122,140);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,993,140,196);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,994,196,206);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,995,206,289);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,996,289,356);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,997,356,407);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,998,407,442);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,999,442,503);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1000,503,547);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1001,547,575);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1002,575,597);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1003,597,612);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1004,612,656);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1005,656,723);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1006,723,797);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1007,797,858);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1008,858,934);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,1009,934,1021);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1010,0,'jpilla','Louis XI, roi de France (1461-1483).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1011,0,'jpilla','Ham (Somme, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1012,0,'jpilla','Péronne (Somme, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1013,0,'jpilla','Charles le Téméraire, duc de Bourgogne (1467-1477).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1014,0,'jpilla','Les Quatre Membres du comté sont Gand, Ypres, Bruges et le Franc de Bruges.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1015,0,'jpilla','Le relèvement en cas d’appel est une procédure par laquelle le Parlement se déclare compétent et accepte l’appel qui lui est adressé.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1016,0,'jpilla','Jean de La Loère, important secrétaire des rois Charles VII et Louis XI, encore attesté le 19 août 1478. Il avait accompagné le roi à Péronne, et c’est lui qui y établit l’acte dit « traité de Péronne » et ses lettres d’exécution.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1017,0,'jpilla','Gilbert Brunat était lui aussi notaire et secrétaire du roi, mais attaché au greffe du Parlement de Paris. Il résigna sa charge en faveur de son fils en 1478.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1010,0,80);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1011,80,86);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1012,86,132);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1013,132,160);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1014,160,186);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1015,186,241);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1016,241,256);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1017,256,266);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1018,0,'jpilla','Le doyen de chrétienté ou archiprêtre était à la tête d’un groupe de paroisses. Cette subdivision de base du diocèse joue un rôle très important à compter du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1019,0,'jpilla','Verberie (Oise, cant. Pont-Sainte-Maxence), n’est plus au XVIe siècle chef-lieu de doyenné, mais dépend alors de celui de Béthisy (diocèse Soissons).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1020,0,'jpilla','Compiègne (Oise, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1021,0,'jpilla','Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis), 18 km SSW de Verberie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1022,0,'jpilla','Huleux (Oise, cant. Crépy-en-Valois, comm. Néry), 6 km SSE de Verberie. C’est la localisation de ce bien, plus que celle des parties, qui semble expliquer le recours au doyen de chrétienté de Verberie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1023,0,'jpilla','Il existe plusieurs Fresnoy dans l’Oise ; la proximité des autres lieux identifiés impose de choisir Grandfresnoy (Oise, cant. Estrées-Saint-Denis), 12 km SW de Compiègne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1024,0,'jpilla','Sacy-le-Petit (Oise, cant. Liancourt, 2 km SW de Grandfresnoy) reçoit déjà son surnom dans deux actes de 1162.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1025,0,'jpilla','La foi corporelle est une promesse faite en touchant physisquement un objet consacré.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1026,0,'jpilla','Le doyen de chrétienté ou archiprêtre était à la tête d’un groupe de paroisses. Cette subdivision de base du diocèse joue un rôle très important à compter du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1027,0,'jpilla','Verberie (Oise, cant. Pont-Sainte-Maxence), n’est plus au XVIe siècle chef-lieu de doyenné, mais dépend alors de celui de Béthisy (diocèse Soissons).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1028,0,'jpilla','Compiègne (Oise, ch.-l. arr.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1029,0,'jpilla','Chaalis, abbaye cistercienne, fille de Pontigny, fondée en 1136 (Oise, cant. Nanteuil-le-Haudouin, comm. Fontaine-Chaalis), 18 km SSW de Verberie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1030,0,'jpilla','Huleux (Oise, cant. Crépy-en-Valois, comm. Néry), 6 km SSE de Verberie. C’est la localisation de ce bien, plus que celle des parties, qui semble expliquer le recours au doyen de chrétienté de Verberie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1031,0,'jpilla','Il existe plusieurs Fresnoy dans l’Oise ; la proximité des autres lieux identifiés impose de choisir Grandfresnoy (Oise, cant. Estrées-Saint-Denis), 12 km SW de Compiègne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1032,0,'jpilla','Sacy-le-Petit (Oise, cant. Liancourt, 2 km SW de Grandfresnoy) reçoit déjà son surnom dans deux actes de 1162.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1033,0,'jpilla','La foi corporelle est une promesse faite en touchant physisquement un objet consacré.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1018,11,38);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1019,38,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1020,74,127);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1021,127,190);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1022,190,228);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1023,228,261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1024,261,327);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1025,327,385);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1026,385,408);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1027,408,455);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1028,455,512);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1029,512,574);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1030,574,581);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1031,581,598);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1032,598,684);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1033,684,710);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1034,0,'jpilla','En 1276, le bailli de Cotentin est Chrétien le Chambellan (1274-1286), originaire du diocèse de Bayeux et vicomte de Caen en 1269. Mais son nom n’est pas donné : il agit ex officio, comme le ferait un official.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1035,0,'jpilla','Mortain (Manche, ch.-l. cant.), 36 km E d’Avranches. L’expression vise le couvent dit « des Blanches » (Albae dominae), moniales installées en 1105 par le comte de Mortain puis affiliées à l’ordre cistercien.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1036,0,'jpilla','tournois, l’une des deux grandes monnaies royales, à l’origine frappée à Tours, et saisie par Philippe Auguste avec les possessions plantagenet.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1037,0,'jpilla','Célébrée le 29 septembre, la Saint-Michel est particulièrement fêtée en Normandie, où elle constitue un terme de paiement très fréquent. La précision du mois distingue la fête d’autres, Apparition (8 mai), et surtout Dédicace de l’église du Mont-Saint-Michel (16 novembre).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1038,0,'jpilla','Célébrée le 29 septembre, la Saint-Michel est particulièrement fêtée en Normandie, où elle constitue un terme de paiement très fréquent. La précision du mois distingue la fête d’autres, Apparition (8 mai), et surtout Dédicace de l’église du Mont-Saint-Michel (16 novembre).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1039,0,'jpilla','s’arme = son âme.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1040,0,'jpilla','porseer = posséder (lat. possidere).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1041,0,'jpilla','Chalandrey (Manche, cant. et comm. Isigny-le-Buat), 20 km WSW de Mortain.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1042,0,'jpilla','À comprendre sans doute au sens large (lat. jus), “droit” : “en un autre lieu convenable où le prieur et les moniales estimeront pouvoir exercer [sans perte] leur droit à percevoir ladite rente”.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1043,0,'jpilla','Représentant, procureur, qui doit présenter des lettres de procuration.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1044,0,'jpilla','Vite repérables, vite démontées, indispensables, les parties en fer de la machinerie du moulin sont souvent citées comme proies des malfaiteurs ou comme gages. Le “fer du moulin” ou “grand fer” désignait l’axe de la lanterne qui transmettait le mouvement aux meules ; le “petit fer” pourrait être le tourillon supportant l’arbre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1045,0,'jpilla','Sur le modèle de la clause de réserve usuelle dans l’acte royal, l’acte du bailli déclare que l’acte ne pourra en rien porter atteinte aux droits du roi ou d’un tiers.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1046,0,'jpilla','Le bailli royal ne peut que suivre, à cette date, le style de Pâques. L’acte est délivré en carême, donc avant Pâques : le millésime 1275 (a.st.) doit être converti en 1276 (n.st.). Cette année-là, Pâques tombe le 5 avril, et la mi-carême (placée au Moyen Âge au 4e dimanche de carême) le 15 mars. Nous sommes donc le mardi 17 mars 1276 (n.st.).');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1034,69,91);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1035,91,113);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1036,113,176);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1037,176,188);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1038,188,276);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1039,276,296);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1040,296,368);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1041,368,419);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1042,419,488);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1043,488,537);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1044,537,624);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1045,624,644);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1046,644,652);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1047,0,'jpilla','Guy du Més est attesté comme prévôt de Paris (plus exactement comme « garde de la prévôté », ne tenant pas la prévôté à ferme), représentant direct du pouvoir royal dans la ville et alentour, entre 1277 et 1281.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1048,0,'jpilla','Robert II le Pieux, associé au trône le 25 décembre 987, seul roi au décès de Hugues Capet le 24 octobre 996.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1049,0,'jpilla','Le copiste de 1279 a souvent lu à tort « eciam » l’abréviation « et » de l’original de 999, que l’on rend ici avec un sens affaibli ou comme une simple conjonction.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1050,0,'jpilla','Ermenfroi, connu comme vassal du comte Bouchard II, mort après 1006.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1051,0,'jpilla','Évry (Essonne, ch.-l. dép.). L’original de 999 donne « Ayvreum ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1052,0,'jpilla','Corbeil-Essonnes (Essone, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1053,0,'jpilla','La « voirie » (on parle plus bas des voyers) recouvre fondamentalement les droits de police et de justice, tout ce qui touche le maintien de l’ordre ; elle sous-entend aussi l’idée de délégation (le vicarius est à l’origine un subordonné du comte).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1054,0,'jpilla','L’avouerie semble viser ici à la fois l’exclusion de toute intervention d’un puissant laïque agissant comme avoué du monastère, et l’ensemble des droits qu’il exerce et lève à cette occasion.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1055,0,'jpilla','L’abbaye des Fossés (Saint-Maur-des-Fossés, Val-de-Marne, ch.-l. cant.), abbaye bénédictine fondé en 638, a été réformée par Maïeul de Cluny en 988 à la demande de Hugues Capet. Elle a accueilli en 868 les reliques de saint Maur, dont elle finit par prendre le nom.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1056,0,'jpilla','Hésitant sur un « G » majuscule qui lui était étranger, le copiste de 1279 a rendu par « Zelo » le nom franc « Gelo/Geilo ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1057,0,'jpilla','Lisses (Essonne, cant. Évry-Sud).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1058,0,'jpilla','Bouchard « le Vénérable », fidèle du roi de France, comte de Vendôme, de Corbeil, de Melun et de Paris de 959 à 1007, avoué de Saint-Maur-des-Fossés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1059,0,'jpilla','Peinant à lire et comprendre le « precluenti[s] » à la fois alambiqué et fautif de l’original, le copiste a simplifié la leçon (c’est une illustration du principe philologique de la lectio difficilior : les copistes préfèrant des mots plus simples, la leçon plus complexe a plus de chance d’être bonne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1060,0,'jpilla','Renaud, fils du comte Bouchard, chancelier du roi à partir de 989, évêque de Paris à partir de 991.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1061,0,'jpilla','Adélaïde, sœur du duc d’Aquitaine Guillaume IV, épouse de Hugues Capet, encore attestée en 1003.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1062,0,'jpilla','Adélaïde, sœur du duc d’Aquitaine Guillaume IV, épouse de Hugues Capet, encore attestée en 1003.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1063,0,'jpilla','Francon, chancelier du roi jusqu’en 1018, évêque de Paris de 1020 à 1030.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1064,0,'jpilla','Guy du Més est attesté comme prévôt de Paris (plus exactement comme « garde de la prévôté », ne tenant pas la prévôté à ferme), représentant direct du pouvoir royal dans la ville et alentour, entre 1277 et 1281.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1065,0,'jpilla','Robert II le Pieux, associé au trône le 25 décembre 987, seul roi au décès de Hugues Capet le 24 octobre 996.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1066,0,'jpilla','Le copiste de 1279 a souvent lu à tort « eciam » l’abréviation « et » de l’original de 999, que l’on rend ici avec un sens affaibli ou comme une simple conjonction.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1067,0,'jpilla','Ermenfroi, connu comme vassal du comte Bouchard II, mort après 1006.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1068,0,'jpilla','Évry (Essonne, ch.-l. dép.). L’original de 999 donne « Ayvreum ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1069,0,'jpilla','Corbeil-Essonnes (Essone, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1070,0,'jpilla','La « voirie » (on parle plus bas des voyers) recouvre fondamentalement les droits de police et de justice, tout ce qui touche le maintien de l’ordre ; elle sous-entend aussi l’idée de délégation (le vicarius est à l’origine un subordonné du comte).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1071,0,'jpilla','L’avouerie semble viser ici à la fois l’exclusion de toute intervention d’un puissant laïque agissant comme avoué du monastère, et l’ensemble des droits qu’il exerce et lève à cette occasion.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1072,0,'jpilla','L’abbaye des Fossés (Saint-Maur-des-Fossés, Val-de-Marne, ch.-l. cant.), abbaye bénédictine fondé en 638, a été réformée par Maïeul de Cluny en 988 à la demande de Hugues Capet. Elle a accueilli en 868 les reliques de saint Maur, dont elle finit par prendre le nom.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1073,0,'jpilla','Hésitant sur un « G » majuscule qui lui était étranger, le copiste de 1279 a rendu par « Zelo » le nom franc « Gelo/Geilo ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1074,0,'jpilla','Lisses (Essonne, cant. Évry-Sud).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1075,0,'jpilla','Bouchard « le Vénérable », fidèle du roi de France, comte de Vendôme, de Corbeil, de Melun et de Paris de 959 à 1007, avoué de Saint-Maur-des-Fossés.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1076,0,'jpilla','Renaud, fils du comte Bouchard, chancelier du roi à partir de 989, évêque de Paris à partir de 991.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1077,0,'jpilla','Peinant à lire et comprendre le « precluenti[s] » à la fois alambiqué et fautif de l’original, le copiste a simplifié la leçon (c’est une illustration du principe philologique de la lectio difficilior : les copistes préfèrant des mots plus simples, la leçon plus complexe a plus de chance d’être bonne).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1078,0,'jpilla','Adélaïde, sœur du duc d’Aquitaine Guillaume IV, épouse de Hugues Capet, encore attestée en 1003.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1079,0,'jpilla','Berthe, veuve d’Eudes I de Blois et deuxième épouse de Robert le Pieux. Les époux sont alors sous le coup de l’anathème pontifical pour union illicite.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1080,0,'jpilla','Francon, chancelier du roi jusqu’en 1018, évêque de Paris de 1020 à 1030.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1047,39,88);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1048,88,125);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1049,125,163);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1050,163,225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1051,225,244);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1052,244,252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1053,252,266);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1054,266,290);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1055,290,369);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1056,369,382);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1057,382,405);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1058,405,446);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1059,446,456);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1060,456,519);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1061,519,549);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1062,549,574);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1063,574,580);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1064,580,633);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1065,633,681);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1066,681,708);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1067,708,769);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1068,769,808);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1069,808,835);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1070,835,845);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1071,845,903);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1072,903,926);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1073,926,935);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1074,935,951);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1075,951,969);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1076,969,980);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1077,980,1055);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1078,1055,1070);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1079,1070,1143);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1080,1143,1191);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1081,0,'jpilla','Michel est attesté comme doyen du chapitre cathédral de Paris de 1191 à 1194 ou 1195. Le doyen occupait, à la cathédrale de Paris, le premier rang (ce pouvait être ailleurs un autre dignitaire, par exemple le prévôt). Élu par les chanoines, il dirigeait le chapitre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1082,0,'jpilla','Hilduin fut chancelier de l’église de Paris autour de 1180-1193 ; il est sans doute à confondre avec l’auteur homonyme d’ouvrages d’exégèse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1083,0,'jpilla','Le chancelier conservait le sceau du chapitre et supervisait, comme ici, la rédaction de ses actes, mais à Paris faisait aussi fonction d’écolâtre ; à ce titre, il dirigeait l’école capitulaire et, après la naissance de l’Université de Paris, continua à délivrer (mais automatiquement) la licence.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1084,0,'jpilla','Anciens thermes gallo-romains, près de l’hôtel de l’abbé de Cluny (actuel Musée du Moyen Âge).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1085,0,'jpilla','L’église Saint-Benoît-le-Bétourné était consacrée à la Trinité. Elle s’élevait tout près de l’actuel carrefour de la rue des Écoles et de la rue Saint-Jacques, sur l’emplacement des bâtiments contemporains de la Sorbonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1086,0,'jpilla','Saint-Remi : il s’agit très probablement de la fête principale (translation en l’occurrence), le 1er octobre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1087,0,'jpilla','Le chantre (ou préchantre) était chargé de la célébration et en premier lieu du chant et de l’enseignement du chant. À Paris, il contesta souvent la préséance au doyen.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1088,0,'jpilla','Assomption de la Vierge : le 15 août.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1089,0,'jpilla','signum. Les souscriptions (factices) sont énoncées dans l’ordre hiérarchique : prêtres, diacres, sous-diacres, pueri (clercs n’ayant reçu que les ordres mineurs) ; les prêtres simples chanoines sont précédés des dignitaires (il y en avait 8 à Paris, sur un total de 51 chanoines), énumérés dans l’ordre de préséance (seul ici le pénitencier est absent, puisque le chancelier est cité plus bas).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1090,0,'jpilla','Les archidiacres, bras droits de l’évêque dans l’administration du diocèse, sont aussi intégrés au chapitre, comme dignitaires. Il y en avait trois dans le diocèse de Paris, comme souvent désignés du nom de leur circonscription : de Paris, de Josas, de Brie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1091,0,'jpilla','Le sous-chantre secondait le chantre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1092,0,'jpilla','Michel est attesté comme doyen du chapitre cathédral de Paris de 1191 à 1194 ou 1195. Le doyen occupait, à la cathédrale de Paris, le premier rang (ce pouvait être ailleurs un autre dignitaire, par exemple le prévôt). Élu par les chanoines, il dirigeait le chapitre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1093,0,'jpilla','Hilduin fut chancelier de l’église de Paris autour de 1180-1193 ; il est sans doute à confondre avec l’auteur homonyme d’ouvrages d’exégèse.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1094,0,'jpilla','Le chancelier conservait le sceau du chapitre et supervisait, comme ici, la rédaction de ses actes, mais à Paris faisait aussi fonction d’écolâtre ; à ce titre, il dirigeait l’école capitulaire et, après la naissance de l’Université de Paris, continua à délivrer (mais automatiquement) la licence.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1095,0,'jpilla','Anciens thermes gallo-romains, près de l’hôtel de l’abbé de Cluny (actuel Musée du Moyen Âge).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1096,0,'jpilla','L’église Saint-Benoît-le-Bétourné était consacrée à la Trinité. Elle s’élevait tout près de l’actuel carrefour de la rue des Écoles et de la rue Saint-Jacques, sur l’emplacement des bâtiments contemporains de la Sorbonne.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1097,0,'jpilla','Saint-Remi : il s’agit très probablement de la fête principale (translation en l’occurrence), le 1er octobre.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1098,0,'jpilla','Le chantre (ou préchantre) était chargé de la célébration et en premier lieu du chant et de l’enseignement du chant. À Paris, il contesta souvent la préséance au doyen.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1099,0,'jpilla','Assomption de la Vierge : le 15 août.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1100,0,'jpilla','signum. Les souscriptions (factices) sont énoncées dans l’ordre hiérarchique : prêtres, diacres, sous-diacres, pueri (clercs n’ayant reçu que les ordres mineurs) ; les prêtres simples chanoines sont précédés des dignitaires (il y en avait 8 à Paris, sur un total de 51 chanoines), énumérés dans l’ordre de préséance (seul ici le pénitencier est absent, puisque le chancelier est cité plus bas).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1101,0,'jpilla','Les archidiacres, bras droits de l’évêque dans l’administration du diocèse, sont aussi intégrés au chapitre, comme dignitaires. Il y en avait trois dans le diocèse de Paris, comme souvent désignés du nom de leur circonscription : de Paris, de Josas, de Brie.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1102,0,'jpilla','Le sous-chantre secondait le chantre.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1081,51,100);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1082,100,122);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1083,122,145);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1084,145,225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1085,225,252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1086,252,347);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1087,347,410);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1088,410,458);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1089,458,500);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1090,500,590);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1091,590,617);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1092,617,648);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1093,648,664);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1094,664,719);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1095,719,732);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1096,732,744);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1097,744,804);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1098,804,830);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1099,830,886);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1100,886,928);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1101,928,962);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1102,962,975);
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1103,0,'jpilla','Henri II Plantagenêt (mort en 1189), comte d’Anjou et duc de Normandie par son père Geoffroy V Plantagenêt (mort en 1151), duc d’Aquitaine en 1152 par son mariage avec Aliénor, fille de Guillaume X d’Aquitaine, et roi d’Angleterre en 1154.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1104,0,'jpilla','Le Loroux (Maine-et-Loire, cant. Longué-Jumelles, comm. Vernantes, 18 km de Saumur), abbaye cistercienne fondée en 1121 par le comte d’Anjou Foulque V.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1105,0,'jpilla','Locus désigne tout type de maison religieuse, avec une connotation de simplicité, voire de modestie, d’absence d’institutionnalité. Repris par les cisterciens, le « lieu » devient « abbaye ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1106,0,'jpilla','Beaugerais (Indre-et-Loire, cant. Montrésor, comm. Loché-sur-Indrois), à une quinzaine de km de Tours. Le site était occupé depuis quelque temps par un ermitage (d’où le terme de locus et la mention de biens déjà donnés) officiellement attesté dès 1153.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1107,0,'jpilla','Le boscus n’est pas tant ici l’espace boisé que l’espace inculte, mis en opposition aux terres exploitées ; l’opposition médiévale entre bosc et plain, comme le dit l’ancien français, poursuit l’opposition antique entre saltus et ager.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1108,0,'jpilla','L’exemption de taxes ne porte donc pas sur les biens destinés à la vente, ni sur ceux que les moines transporteraient pour autrui.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1109,0,'jpilla','Loches (Indre-et-Loire, ch.-l. arr.), importante forteresse du comte d’Anjou, abritait une abbaye, restaurée en 1104 comme prieuré de l’abbaye de Beaulieu-lès-Loches.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1110,0,'jpilla','Le Dorat (Haute-Vienne, ch.-l. cant.), abbaye bénédictine puis augustine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1111,0,'jpilla','Frère Roger est un personnage assez important de la cour de Henri II. D’après les Gesta regis Henrici Secundi, « vers le 2 juin 1177, Henri II étant à Winchester, choisit pour être aumônier de sa maison (…) un frère du Temple, du nom de Roger ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1112,0,'jpilla','Étienne de Tours, attesté comme sénéchal d’Anjou de 1172 à 1188, avait été chambrier du roi, et depuis 1163 garde du donjon de Chinon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1113,0,'jpilla','Guillaume d’Ostillie semble être préposé au service de la chambre du roi ; il appartient en tous cas comme les précédents à un cercle assez proche du souverain. On a mention d’un autre Guillaume d’Ostillie, visiblement de la même famille, évêque d’Avranches au début du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1114,0,'jpilla','Montbazon (Indre-et-Loire, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1115,0,'jpilla','Beaulieu-lès-Loches (Indre-et-Loire, cant. Loches), siège d’une abbaye bénédictine fondée par le comte d’Anjou.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1116,0,'jpilla','Henri II Plantagenêt (mort en 1189), comte d’Anjou et duc de Normandie par son père Geoffroy V Plantagenêt (mort en 1151), duc d’Aquitaine en 1152 par son mariage avec Aliénor, fille de Guillaume X d’Aquitaine, et roi d’Angleterre en 1154.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1117,0,'jpilla','Le Loroux (Maine-et-Loire, cant. Longué-Jumelles, comm. Vernantes, 18 km de Saumur), abbaye cistercienne fondée en 1121 par le comte d’Anjou Foulque V.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1118,0,'jpilla','Locus désigne tout type de maison religieuse, avec une connotation de simplicité, voire de modestie, d’absence d’institutionnalité. Repris par les cisterciens, le « lieu » devient « abbaye ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1119,0,'jpilla','Beaugerais (Indre-et-Loire, cant. Montrésor, comm. Loché-sur-Indrois), à une quinzaine de km de Tours. Le site était occupé depuis quelque temps par un ermitage (d’où le terme de locus et la mention de biens déjà donnés) officiellement attesté dès 1153.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1120,0,'jpilla','Le boscus n’est pas tant ici l’espace boisé que l’espace inculte, mis en opposition aux terres exploitées ; l’opposition médiévale entre bosc et plain, comme le dit l’ancien français, poursuit l’opposition antique entre saltus et ager.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1121,0,'jpilla','L’exemption de taxes ne porte donc pas sur les biens destinés à la vente, ni sur ceux que les moines transporteraient pour autrui.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1122,0,'jpilla','Loches (Indre-et-Loire, ch.-l. arr.), importante forteresse du comte d’Anjou, abritait une abbaye, restaurée en 1104 comme prieuré de l’abbaye de Beaulieu-lès-Loches.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1123,0,'jpilla','Le Dorat (Haute-Vienne, ch.-l. cant.), abbaye bénédictine puis augustine.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1124,0,'jpilla','Frère Roger est un personnage assez important de la cour de Henri II. D’après les Gesta regis Henrici Secundi, « vers le 2 juin 1177, Henri II étant à Winchester, choisit pour être aumônier de sa maison (…) un frère du Temple, du nom de Roger ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1125,0,'jpilla','Étienne de Tours, attesté comme sénéchal d’Anjou de 1172 à 1188, avait été chambrier du roi, et depuis 1163 garde du donjon de Chinon.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1126,0,'jpilla','Guillaume d’Ostillie semble être préposé au service de la chambre du roi ; il appartient en tous cas comme les précédents à un cercle assez proche du souverain. On a mention d’un autre Guillaume d’Ostillie, visiblement de la même famille, évêque d’Avranches au début du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1127,0,'jpilla','Montbazon (Indre-et-Loire, ch.-l. cant.).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1128,0,'jpilla','Beaulieu-lès-Loches (Indre-et-Loire, cant. Loches), siège d’une abbaye bénédictine fondée par le comte d’Anjou.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1103,0,76);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1104,76,84);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1105,84,93);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1106,93,128);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1107,128,177);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1108,177,211);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1109,211,239);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1110,239,255);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1111,255,279);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1112,279,336);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1113,336,356);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1114,356,375);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1115,375,402);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1116,402,486);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1117,486,496);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1118,496,504);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1119,504,555);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1120,555,585);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1121,585,608);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1122,608,634);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1123,634,647);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1124,647,666);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1125,666,713);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1126,713,732);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1127,732,759);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1128,759,779);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1129,0,'jpilla','D’après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1130,0,'jpilla','Pyrénées-Orientales, cant. Rivesaltes.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1131,0,'jpilla','D’après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1132,0,'jpilla','Pyrénées-Orientales, cant. Rivesaltes.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1129,4,30);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1130,30,73);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1131,73,99);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1132,99,140);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1133,0,'jpilla','Le « convent » (qui a donné « couvent ») est l’ensemble des moines ou  moniales d’un monastère, en opposition/complémentarité à l’abbé ou abbesse  (ils ont vite deux sceaux différents) ; le droit canonique impose à l’abbé ou abbesse  de s’assurer du consentement du convent dans les actes de gestion.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1134,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1135,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1136,0,'jpilla','Tch. Olomouc (all. Olmütz), cité de Moravie (Rép. tchèque).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1137,0,'jpilla','Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1138,0,'jpilla','Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1139,0,'jpilla','Brno (all. Brünn), capitale de la Moravie (Rép. tchèque). Le vocable de « bourg »  (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle,  mais dénonce aussi que la ville n’est pas une civitas épiscopale  (un évêché n’y sera installé qu’en 1777).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1140,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1141,0,'jpilla','L’expression est à prendre  en son sens étymologique : une partie convenable, adaptée. Les patrons ayant eu tendance à sans  cesse la réduire, la « portion congrue » en est venue à désigner l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1142,0,'jpilla','L’expression est à prendre en son sens étymologique :  une partie convenable, adaptée. Les patrons ayant eu tendance à  sans cesse la réduire, la « portion congrue » en est venue à désigner  l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1143,0,'jpilla','Appel condensé de la clause prohibitive, d’une formulation développée telle que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis  infringere vel ei ausu temerario contraire ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1144,0,'jpilla','L’année de pontificat est calculée à partir du jour de la consécration du  pape (le 20 décembre 1254 pour Alexandre IV) ; la septième année de pontificat  devait couvrir la période [20 décembre 1260-19 décembre 1261], mais a été interrompue  par le décès du pape le 25 mai 1261 ; la fourchette est précisée par le jour, exprimé à la  mode antique, 5 cal. février = (31+2-5) janvier, 28 janvier 1261.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1145,0,'jpilla','Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1146,0,'jpilla','Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1147,0,'jpilla','Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est  ici encore question d’un prédécesseur de l’évêque alors en fonction, la  mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1148,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1149,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1150,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1151,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1152,0,'jpilla','Le « convent » (qui a donné « couvent ») est l’ensemble des moines ou  moniales d’un monastère, en opposition/complémentarité à l’abbé ou abbesse  (ils ont vite deux sceaux différents) ; le droit canonique impose à l’abbé ou abbesse de s’assurer du consentement du convent dans les actes de gestion.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1153,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1154,0,'jpilla','Tch. Olomouc (all. Olmütz), cité de Moravie (Rép. tchèque).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1155,0,'jpilla','Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1156,0,'jpilla','La correction portée au registre indique in extremis que l’évêque concerné était l’un des prédécesseurs de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1157,0,'jpilla','Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1158,0,'jpilla','Brno (all. Brünn), capitale de la Moravie (Rép. tchèque).  Le vocable de « bourg » (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle,  mais dénonce aussi que la ville n’est pas une civitas épiscopale (un évêché n’y sera installé qu’en 1777).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1159,0,'jpilla','L’expression est à prendre en son sens étymologique : une partie convenable, adaptée.  Les patrons ayant eu tendance à sans cesse la réduire, la « portion congrue » en est venue à  désigner l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1160,0,'jpilla','L’expression est à prendre en son sens étymologique : une partie convenable, adaptée.  Les patrons ayant eu tendance à sans cesse la réduire, la « portion congrue »  en est venue à désigner l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1161,0,'jpilla','Appel condensé de la clause prohibitive, d’une formulation développée telle  que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis infringere vel ei ausu temerario contraire ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1162,0,'jpilla','L’année de pontificat est calculée à partir du jour de la consécration du  pape (le 20 décembre 1254 pour Alexandre IV) ; la septième année de  pontificat devait couvrir la période [20 décembre 1260-19 décembre 1261],  mais a été interrompue par le décès du pape le 25 mai 1261 ; la fourchette  est précisée par le jour, exprimé à la mode antique, 5 cal. février = (31+2-5)  janvier, 28 janvier 1261.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1163,0,'jpilla','Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1164,0,'jpilla','Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est  ici encore question d’un prédécesseur de l’évêque alors en fonction, la mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1165,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
+------------------------------------------
+--========================================
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1133,14,36);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1134,36,67);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1135,67,95);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1136,95,120);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1137,120,150);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1138,150,191);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1139,191,218);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1140,218,243);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1141,243,250);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1142,250,261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1143,261,307);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1144,307,321);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1145,321,325);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1146,325,342);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1147,342,394);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1148,394,418);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1149,418,439);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1150,439,459);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1151,459,529);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1152,529,553);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1153,553,592);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1154,592,666);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1155,666,730);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1156,730,749);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1157,749,777);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1158,777,800);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1159,800,807);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1160,807,893);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1161,893,928);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1162,928,942);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1163,942,974);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1164,974,1002);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1165,1002,1053);
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------

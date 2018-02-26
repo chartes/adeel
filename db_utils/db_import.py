@@ -6,12 +6,27 @@ import pprint
 import lxml.etree as ET
 from itertools import chain
 
+
+
 """
 CONSTS
 """
 ROOT="/Users/mrgecko/Documents/Dev/Data/adele/dossiers"
 NS_TI={"ti":"http://www.tei-c.org/ns/1.0"}
 USERNAME="jpilla"
+
+
+NOTE_TYPES={
+    "INLINE" : 0
+}
+
+"""
+GLOBAL
+"""
+note_id = 0
+translation_id = 0
+transcription_id = 0
+
 
 """
 XPATH
@@ -36,11 +51,21 @@ get_image_id = lambda id: "http://193.48.42.68/loris/adele/dossiers/{0}.jpg/full
 get_insert_stmt = lambda table,fields,values: "INSERT INTO {0} ({1}) VALUES ({2});".format(table, fields, values)
 get_delete_stmt = lambda table,where_clause="": "DELETE FROM {0} {1};".format(table, where_clause)
 
-
 clean_entities = lambda s : s.replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<")
 nullIfNone = lambda v, callback=None : "null" if v is None else callback(v) if callback is not None else v
 escapeQuotes = lambda s : s.replace('"', '\\"')
 
+
+def stringify_children(node):
+    from lxml.etree import tounicode
+    from itertools import chain
+    s = ''.join(
+        chunk for chunk in chain(
+            (node.text,),
+            chain(*((tounicode(child, with_tail=False), child.tail) for child in node.getchildren())),
+            (node.tail,)) if chunk)
+    s = s.replace(' xmlns="http://www.tei-c.org/ns/1.0"', '')
+    return re.sub('\s+', ' ', s)
 
 p = re.compile("<[^>]+>((.|\s)*)<\/[^>]+>")
 def get_tag_xml_content(node):
@@ -56,6 +81,41 @@ def get_text_format(div):
         "head": head, "has_head" : len(head) > 0,
         "p": p, "has_p" : len(p) > 0
     }
+
+
+def extract_terms(e):
+    global note_id
+    #e = rootify(e)
+    terms = []
+    hasTerms = False
+    for term in e.xpath("//ti:term", namespaces=NS_TI):
+        term_content = stringify_children(term)
+
+        if e.text is None:
+            ptr_start = 0
+        else:
+            ptr_start = len(e.text)
+        ptr_end = ptr_start + len(term_content)
+
+        terms.append({"content": term.get("n"),
+                      "id": note_id,
+                      "type_id": NOTE_TYPES["INLINE"],
+                      "ptr_start": ptr_start, "ptr_end": ptr_end})
+        note_id += 1
+
+        if e.text is None:
+            e.text = term_content
+        else:
+            e.text += term_content
+        term.getparent().remove(term)
+        hasTerms = True
+
+    if not hasTerms and e.text is None:
+        return ()
+    else:
+        return (stringify_children(e), terms)
+
+
 
 
 """
@@ -91,11 +151,11 @@ def insert_image(dossier):
 def insert_transcription(dossier):
     stmts = []
     if len(dossier["transcription"]) > 0:
-        content = " ".join(dossier["transcription"])
+        content = "".join(dossier["transcription"])
         stmts = [
             get_insert_stmt("transcription",
-                            "doc_id,user_ref,content",
-                            "{0},'{1}','{2}'".format(dossier["id"],USERNAME,content)
+                            "transcription_id,doc_id,user_ref,content",
+                            "{0}01,{1},'{2}','{3}'".format(dossier["id"], dossier["id"],USERNAME,content)
                             )
         ]
     return stmts
@@ -103,13 +163,53 @@ def insert_transcription(dossier):
 def insert_translation(dossier):
     stmts = []
     if len(dossier["translation"]) > 0:
-        content = " ".join(dossier["translation"])
+        content = "".join(dossier["translation"])
         stmts = [
             get_insert_stmt("translation",
-                            "doc_id,user_ref,content",
-                            "{0},'{1}','{2}'".format(dossier["id"],USERNAME,content)
+                            "translation_id,doc_id,user_ref,content",
+                            "{0}01,{1},'{2}','{3}'".format(dossier["id"], dossier["id"],USERNAME,content)
                             )
         ]
+    return stmts
+
+def insert_note(note):
+    stmts = [
+        get_insert_stmt("note",
+                        "note_id,note_type_id,user_ref,content",
+                        "{0},{1},'{2}','{3}'".format(note["id"], note["type_id"], USERNAME, note["content"]))
+    ]
+    return stmts
+
+def insert_note_types():
+    stmts = [
+        get_insert_stmt("note_type",
+                        "note_type_id,note_type_label",
+                        "{0},'{1}'".format(id, label)
+                        )
+        for label, id in NOTE_TYPES.items()
+    ]
+    return stmts
+
+def insert_transcription_has_note(dossier):
+    stmts = [
+        get_insert_stmt("transcriptionHasNote",
+                        "transcription_id,note_id,ptr_start,ptr_end",
+                        "{0},{1},{2},{3}".format(dossier["transcription_id"], note["id"],
+                                                 note["ptr_start"], note["ptr_end"])
+                        )
+        for note in dossier["transcription_notes"]
+    ]
+    return stmts
+
+def insert_translation_has_note(dossier):
+    stmts = [
+        get_insert_stmt("translationHasNote",
+                        "translation_id,note_id,ptr_start,ptr_end",
+                        "{0},{1},{2},{3}".format(dossier["translation_id"], note["id"],
+                                                 note["ptr_start"], note["ptr_end"])
+                        )
+        for note in dossier["translation_notes"]
+    ]
     return stmts
 
 """
@@ -138,7 +238,7 @@ filenames = [f for f in os.listdir(ROOT) if f.endswith(".xml")]
 filenames.sort()
 
 for f in filenames:
-
+    print(f)
     """
     Initialisation des dossiers
     """
@@ -148,10 +248,16 @@ for f in filenames:
         "manifest_url": get_manifest_url(id),
         "img_id": get_image_id(id),
         "image_zone" : [],
-        "notes" : [],
+        "transcription_notes" : [],
+        "translation_notes": [],
         "transcription" : [],
-        "translation" : []
+        "transcription_id": transcription_id,
+        "translation" : [],
+        "translation_id": translation_id
     }
+
+    transcription_id += 1
+    translation_id += 1
 
     """
     tables image & image_zone
@@ -161,8 +267,6 @@ for f in filenames:
     except:
         cnt_file_parsing_error += 1
         break
-
-    #print(f)
 
     facsim_coord_tr = doc.xpath(XPATH_TI_FACSIM_COORDS_TRANSCRIPTION, namespaces=NS_TI)
     facsim_note_tr = doc.xpath(XPATH_TI_FACSIM_ANNO_TRANSCRIPTION, namespaces=NS_TI)
@@ -193,24 +297,24 @@ for f in filenames:
         tf =  get_text_format(transcriptions[0])
         #print(f, "verses: {0}, head: {1}, p:{2}".format(len(tf["verses"]), len(tf["head"]), len(tf["p"])))
 
-        if tf["has_verses"]:
-            cnt_trancription_has_verses += 1
-        if tf["has_head"]:
-            cnt_trancription_has_head += 1
-        if tf["has_p"]:
-            cnt_trancription_has_p += 1
+        if tf["has_verses"]: cnt_trancription_has_verses += 1
+        if tf["has_head"]:  cnt_trancription_has_head += 1
+        if tf["has_p"]:  cnt_trancription_has_p += 1
 
         #creation d'une note preliminaire à la transcription
-        for h in tf["head"]:
-            dossiers[f]["notes"].append({
-                "content": clean_entities(get_tag_xml_content(h)), "ptr_start":None, "ptr_end":None
-            })
+        #for h in tf["head"]:
+        #    dossiers[f]["notes"].append({
+        #        "content": clean_entities(get_tag_xml_content(h)), "ptr_start":None, "ptr_end":None
+        #    })
 
         #transcription
         for i, v in enumerate(tf["verses"]):
-            extracted_verse = get_tag_xml_content(v)
-            if extracted_verse is not None:
-                dossiers[f]["transcription"].append(extracted_verse)
+            extract = extract_terms(v)
+            #extracted_verse = get_tag_xml_content(v)
+            if len(extract) == 2:
+                verse, terms = extract
+                dossiers[f]["transcription"].append(clean_entities(verse))
+                dossiers[f]["transcription_notes"] += terms
             else:
                 #cas des vereses auto fermants <l/>
                 dossiers[f]["transcription"].append("<br/>")
@@ -223,32 +327,27 @@ for f in filenames:
         tf = get_text_format(translations[0])
         # print(f, "verses: {0}, head: {1}, p:{2}".format(len(tf["verses"]), len(tf["head"]), len(tf["p"])))
 
-        if tf["has_verses"]:
-            cnt_translation_has_verses += 1
-        if tf["has_head"]:
-            cnt_translation_has_head += 1
-        if tf["has_p"]:
-            cnt_translation_has_p += 1
+        if tf["has_verses"]: cnt_translation_has_verses += 1
+        if tf["has_head"]: cnt_translation_has_head += 1
+        if tf["has_p"]: cnt_translation_has_p += 1
 
         # creation d'une note preliminaire à la transcription
-        for h in tf["head"]:
-            dossiers[f]["notes"].append({
-                "content": clean_entities(get_tag_xml_content(h)), "ptr_start": None, "ptr_end": None
-            })
+        #for h in tf["head"]:
+        #    dossiers[f]["notes"].append({
+        #        "content": clean_entities(get_tag_xml_content(h)), "ptr_start": None, "ptr_end": None
+        #    })
 
         #translation
         for i, v in enumerate(tf["verses"]):
-            extracted_verse = get_tag_xml_content(v)
-            if extracted_verse is not None:
-                dossiers[f]["translation"].append(extracted_verse)
+            extract = extract_terms(v)
+            #extracted_verse = get_tag_xml_content(v)
+            if len(extract) == 2:
+                verse, terms = extract
+                dossiers[f]["translation"].append(clean_entities(verse))
+                dossiers[f]["translation_notes"] += terms
             else:
                 #cas des vereses auto fermants <l/>
                 dossiers[f]["translation"].append("<br/>")
-
-
-for t in dossiers["23.xml"]["transcription"]:
-    print(t)
-    print("***")
 
 
 
@@ -274,10 +373,20 @@ print("=" * 80)
 print("SQL statements written to 'insert_statements.sql'")
 with open('insert_img_stmts.sql', 'w+') as f_img,\
      open('insert_transcription_stmts.sql', 'w+') as f_transcription,\
-     open('insert_translation_stmts.sql', 'w+') as f_translation:
+     open('insert_translation_stmts.sql', 'w+') as f_translation,\
+     open('insert_types_stmts.sql', 'w+') as f_types,\
+     open('insert_notes_stmts.sql', 'w+') as f_notes:
 
     f_img.write(get_delete_stmt("image_zone") + "\n")
     f_img.write(get_delete_stmt("image") + "\n")
+
+    f_transcription.write(get_delete_stmt("transcription") + "\n")
+    f_translation.write(get_delete_stmt("translation") + "\n")
+    f_types.write(get_delete_stmt("note_type") + "\n")
+    f_notes.write(get_delete_stmt("note") + "\n")
+
+
+
     add_sql_comment(f_img, '#')
 
     for dossier in dossiers.values():
@@ -300,3 +409,22 @@ with open('insert_img_stmts.sql', 'w+') as f_img,\
         for t in insert_translation(dossier):
             f_translation.write(t + "\n")
 
+        #table note
+        for note in dossier["transcription_notes"]:
+            for t in insert_note(note):
+                f_notes.write(t + "\n")
+        add_sql_comment(f_notes, '-')
+        for note in dossier["translation_notes"]:
+            for t in insert_note(note):
+                f_notes.write(t + "\n")
+
+        add_sql_comment(f_notes, '=')
+        for hasNote in insert_transcription_has_note(dossier):
+            f_notes.write(hasNote + "\n")
+        add_sql_comment(f_notes, '-')
+        for hasNote in insert_translation_has_note(dossier):
+            f_notes.write(hasNote + "\n")
+
+    #note types
+    for t in insert_note_types():
+        f_types.write(t + "\n")
