@@ -18,7 +18,7 @@ USERNAME="jpilla"
 
 
 NOTE_TYPES={
-  "INLINE" : 0
+  "TERM" : 0
 }
 
 """
@@ -41,6 +41,8 @@ XPATH_TI_FACSIM_ANNO_FIGDESC="//ti:figDesc//ti:seg"
 XPATH_TI_TRANSCRIPTION="//ti:div[@type='transcription']"
 XPATH_TI_TRANSLATION="//ti:div[@type='translation']"
 
+XPATH_TI_ARGUMENT="//ti:div[@type='regeste']/ti:p"
+
 
 
 """
@@ -50,6 +52,7 @@ get_manifest_url = lambda id: "http://193.48.42.68/adele/iiif/manifests/man{0}.j
 get_image_id = lambda id: "http://193.48.42.68/loris/adele/dossiers/{0}.jpg/full/full/0/default.jpg".format(id)
 
 get_insert_stmt = lambda table,fields,values: "INSERT INTO {0} ({1}) VALUES ({2});".format(table, fields, values)
+get_update_stmt = lambda table,values,where_clause="": "UPDATE {0} SET {1} {2};".format(table, values, where_clause)
 get_delete_stmt = lambda table,where_clause="": "DELETE FROM {0} {1};".format(table, where_clause)
 
 clean_entities = lambda s: s.replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<")
@@ -90,31 +93,15 @@ def remove_nodes(node, xpath_expr, ns=NS_TI):
 
 def extract_terms(e):
     global note_id
-
-    es_orig = stringify_children(e)
     es = stringify_children(e)
     terms = []
 
     for term in e.xpath("//ti:term", namespaces=NS_TI):
-        #term_content = stringify_children(term)
-
-        #last_ptr = terms[-1]["ptr_start"] if len(terms) > 0 else 0
-        #ptr_start = es[last_ptr::].index("<term ")
-
-        #ptr_end = ptr_start + len(term_content)
-        #es = es[ptr_end::]
-
         terms.append({"content": term.get("n"),
                       "id": note_id,
-                      "type_id": NOTE_TYPES["INLINE"]
+                      "type_id": NOTE_TYPES["TERM"]
                       })
         note_id += 1
-
-        #term.getparent().remove(term)
-
-        #es = es[ptr_end::]
-
-    #es = re.sub("</?term[^>]*>", repl='', string=es_orig)
     return (es, terms)
 
 
@@ -151,8 +138,8 @@ def insert_image(dossier):
 def insert_transcription(dossier):
     stmts = []
     if len(dossier["transcription"]) > 0:
-        content = " ".join(dossier["transcription"])
-
+        content = "".join(dossier["transcription"])
+        #create note ptrs
         idx=0
         while content.find("<term") > -1:
             ptr_start = content.find("<term")
@@ -174,8 +161,8 @@ def insert_transcription(dossier):
 def insert_translation(dossier):
     stmts = []
     if len(dossier["translation"]) > 0:
-        content = " ".join(dossier["translation"])
-
+        content = "".join(dossier["translation"])
+        # create note ptrs
         idx=0
         while content.find("<term") > -1:
             ptr_start = content.find("<term")
@@ -224,13 +211,28 @@ def insert_transcription_has_note(dossier):
     return stmts
 
 def insert_translation_has_note(dossier):
+
+    #ids  = [d["id"] for d in dossier["transcription_notes"]]
+    #for i, id in enumerate(ids):
+    #    dossier["translation_notes"][i]["id"] = id
+
     stmts = [
         get_insert_stmt("translationHasNote",
                         "translation_id,note_id,ptr_start,ptr_end",
-                        "{0},{1},{2},{3}".format(dossier["translation_id"], note["id"],
+                        "{0},{1},{2},{3}".format(dossier["translation_id"],
+                                                 note["id"],
                                                  note["ptr_start"], note["ptr_end"])
                         )
         for note in dossier["translation_notes"]
+    ]
+    return stmts
+
+def update_argument(dossier):
+    argument = "null" if dossier["argument"] is None else "'{0}'".format(clean_entities(dossier["argument"]))
+    stmts = [
+        get_update_stmt("document",
+                        "argument={0}".format(argument),
+                        "WHERE doc_id={0}".format(dossier["id"]))
     ]
     return stmts
 
@@ -267,6 +269,7 @@ for f in filenames:
     id = f.split(".")[0]
     dossiers[f] = {
         "id": id,
+        "argument": None,
         "manifest_url": get_manifest_url(id),
         "img_id": get_image_id(id),
         "image_zone" : [],
@@ -290,6 +293,16 @@ for f in filenames:
     except:
         cnt_file_parsing_error += 1
         break
+
+    """
+    regeste
+    """
+    regeste = doc.xpath(XPATH_TI_ARGUMENT, namespaces=NS_TI)
+    if len(regeste) == 0:
+        #raise ValueError("document {0} has no argument".format(f))
+        pass
+    else:
+        dossiers[f]["argument"] = "<p>{0}</p>".format(stringify_children(regeste[0]))
 
     """
     For the time being we just skipp <add> tags 
@@ -332,11 +345,11 @@ for f in filenames:
             #extracted_verse = get_tag_xml_content(v)
             verse, terms = extract
             if len(verse.strip()) > 0:
-                dossiers[f]["transcription"].append(clean_entities(verse))
+                dossiers[f]["transcription"].append("<l>{0}</l>".format(clean_entities(verse)))
                 dossiers[f]["transcription_notes"] += terms
             else:
                 #cas des vereses auto fermants <l/>
-                dossiers[f]["transcription"].append("<br/>")
+                dossiers[f]["transcription"].append("<lb/>")
 
     """
     tables translation & note & translationHasNote
@@ -353,11 +366,11 @@ for f in filenames:
             #extracted_verse = get_tag_xml_content(v)
             verse, terms = extract
             if len(verse.strip()) > 0:
-                dossiers[f]["translation"].append(clean_entities(verse))
+                dossiers[f]["translation"].append("<l>{0}</l>".format(clean_entities(verse)))
                 dossiers[f]["translation_notes"] += terms
             else:
                 #cas des vereses auto fermants <l/>
-                dossiers[f]["translation"].append("<br/>")
+                dossiers[f]["translation"].append("<lb/>")
 
 
 
@@ -381,7 +394,8 @@ add_sql_comment = lambda f, c="=": f.write("--" + c * 40 + "\n")
 
 print("=" * 80)
 print("SQL statements written to 'insert_statements.sql'")
-with open('insert_img_stmts.sql', 'w+') as f_img,\
+with open('update_document_stmts.sql', 'w+') as f_document,\
+     open('insert_img_stmts.sql', 'w+') as f_img,\
      open('insert_transcription_stmts.sql', 'w+') as f_transcription,\
      open('insert_translation_stmts.sql', 'w+') as f_translation,\
      open('insert_types_stmts.sql', 'w+') as f_types,\
@@ -400,6 +414,11 @@ with open('insert_img_stmts.sql', 'w+') as f_img,\
     add_sql_comment(f_img, '#')
 
     for dossier in dossiers.values():
+
+        #table_document
+        for a in update_argument(dossier):
+            f_document.write(a + "\n")
+
         #table image
         for i in insert_image(dossier):
             f_img.write(i + "\n")
