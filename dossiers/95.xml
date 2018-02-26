@@ -224,11 +224,10 @@
           <l>Latran, le 3 des calendes de février, l’an septième.</l>
         </div>
         <div type="regeste">
-          <head>1261, 28 janvier. – Rome, palais du Latran.</head>
-          <p>Le pape [Alexandre IV] confirme à l’abbaye cistercienne de Mariental à Oslavany l’église Saint-Jacques du château de Brno, sur laquelle feu Premislas, roi de Bohême, leur avait donné son droit de patronage, avec l’accord, notifié par lettres patentes scellées, de l’évêque d’Olmutz, qui n’avait pas consulté son chapitre : l’église, se trouvant vacante, a été incorporée à l’abbaye, qui doit réserver une portion congrue des revenus à l’entretien du vicaire, au paiement des taxes épiscopales et aux charges courantes. N.B. : L’acte est recensé
-            <ex>non sans erreurs</ex> dans <hi rend="i">Les registres d’Alexandre <hi rend="sc">IV</hi></hi>, t. III, fasc. <hi rend="sc">VII</hi>, par Auguste Coulon, Paris, 1953, n° 3234, p. 136.</p>
-          <head> 1261, 30 janvier. – Rome, palais du Latran.</head>
-          <p>Le pape [Alexandre IV] confirme à l’abbaye cistercienne de Himmelpforten l’église Saint-Pierre du château de Brno, sur laquelle feu Venceslas, roi de Bohême, leur avait donné son droit de patronage, avec l’accord, notifié par lettres patentes scellées, de l’évêque d’Olmutz, qui n’avait pas consulté son chapitre : l’église, au départ ou au décès du curé en fonction, serait incorporée à l’abbaye, qui doit réserver une portion congrue des revenus à l’entretien du vicaire, au paiement des taxes épiscopales et aux charges courantes. N.B. : L’acte est recensé <ex>non sans erreurs</ex> dans Les registres d’Alexandre IV, t. III, fasc. VII, par Auguste Coulon, Paris, 1953, n° 3235, p. 136.</p>
+          <list>
+            <item><hi rend="b">1261, 28 janvier. – Rome, palais du Latran.</hi> Le pape [Alexandre IV] confirme à l’abbaye cistercienne de Mariental à Oslavany l’église Saint-Jacques du château de Brno, sur laquelle feu Premislas, roi de Bohême, leur avait donné son droit de patronage, avec l’accord, notifié par lettres patentes scellées, de l’évêque d’Olmutz, qui n’avait pas consulté son chapitre : l’église, se trouvant vacante, a été incorporée à l’abbaye, qui doit réserver une portion congrue des revenus à l’entretien du vicaire, au paiement des taxes épiscopales et aux charges courantes. N.B. : L’acte est recensé (non sans erreurs) dans <hi rend="i">Les registres d’Alexandre <hi rend="sc">IV</hi></hi>, t. III, fasc. <hi rend="sc">VII</hi>, par Auguste Coulon, Paris, 1953, n° 3234, p. 136.</item>
+            <item><hi rend="b">1261, 30 janvier. – Rome, palais du Latran.</hi> Le pape [Alexandre IV] confirme à l’abbaye cistercienne de Himmelpforten l’église Saint-Pierre du château de Brno, sur laquelle feu Venceslas, roi de Bohême, leur avait donné son droit de patronage, avec l’accord, notifié par lettres patentes scellées, de l’évêque d’Olmutz, qui n’avait pas consulté son chapitre : l’église, au départ ou au décès du curé en fonction, serait incorporée à l’abbaye, qui doit réserver une portion congrue des revenus à l’entretien du vicaire, au paiement des taxes épiscopales et aux charges courantes. N.B. : L’acte est recensé (non sans erreurs) dans Les registres d’Alexandre IV, t. III, fasc. VII, par Auguste Coulon, Paris, 1953, n° 3235, p. 136.</item>
+          </list>
         </div>
       </div>
       <div type="speech">
@@ -248,7 +247,7 @@
         <div>
           <head>Caractères externes</head>
           <figure rend="95/faxexterne.jpg"/>
-          <p>
+          <figDesc>
             <seg rend="41,82,32">La lettre initiale du texte (« d ») est mise en attente dans une colonne spéciale ; ces indications sont destinées à un enlumineur ou rubricateur, qui n’a jamais passé son pinceau…</seg>
             <seg rend="377,49,410,48,466,42,516,42,579,42,629,42,683,42,736,46,759,49,766,56,767,65,768,82,718,87,630,90,576,94,482,89,415,87,356,74">Espace laissé libre pour un rubricateur qui n’est jamais venu inscrire la rubrique (au sens étymologique : à l’encre rouge) du texte.</seg>
             <seg rend="792,17,827,7,864,3,890,2,921,9,953,18,975,44,982,84,963,111,933,114,905,119,859,122,816,116,790,109,772,87,769,67,771,49,778,35">Adresse de la lettre, devant servir de rubrique, inscrite dans la marge, dans l’attente d’une rubrication finalement non réalisée.</seg>
@@ -257,7 +256,7 @@
             <seg rend="811,149,817,134,860,124,891,123,908,128,919,124,941,134,953,145,945,152,928,164,893,165,853,165,819,151,828,131">Addition en marge, précédée d’un signe d’insertion.</seg>
             <seg rend="829,175,21">Autre signe d’insertion.</seg>
             <seg rend="707,341,45">Abréviation sévère d’une formule courante.</seg>
-          </p>
+          </figDesc>
           <p>La présentation générale de la page est soignée, et la copie est attentive à reporter des corrections (dont le contenu semble dénoncer moins des bévues du copiste que des repentirs du rédacteur des actes), mais l’ornementation minimale prévue (traitement spécial de l’initiale, apport d’une rubrique) n’a finalement pas été portée. L’écriture est claire et régulière ; le souci de lisibilité est signalé par l’usage de points pour différencier les « i » et « j » dès qu’une confusion serait possible. C’est visiblement le même scribe qui a rédigé l’ensemble de la page, même si les trois actes dont on peut ici lire la date sont séparés par un mois (acte supérieur : 25 février, actes ici transcrits : 28 et 30 janvier).</p>
         </div>
         <div>

@@ -5,7 +5,6 @@
       <titleStmt>
         <title>1763, mai. Acte royal ([Versailles]). 1763, mai. [Versailles]. Ordre du roi ([Versailles]). Le confort du courtisan : ordres royaux pour le logement à Marly. </title>
         <author>Nicolas Lyon-Caen, archiviste paléographe, agrégé d’histoire, ATER à l’École, avec la collaboration d’Olivier Poncet</author>
-        <author/>
         <respStmt>
           <resp>document encodé par</resp>
           <name>Monnin, Alexandre (doctorant à Paris I, vacataire de recherche à l’École nationale des Chartes)</name>
@@ -152,8 +151,7 @@
           <seg ana="requete"> Si les femmes de chambre de mesdames qui logent hors du château seront chauffées et éclairées.<note type="speech">Requête</note>></seg>
           <seg ana="ordre"> Oui, en observant la règle la plus exacte. (paraphe)<note type="speech">Ordre</note></seg>
           <seg ana="requete"> Si on donnera une bougie blanche par jour au supérieur des cordeliers de Noisy.<note type="speech">Requête</note></seg>
-          <seg ana="ordre"> Oui. Non, une demie.
-            <ex>paraphe</ex><note type="speech">Ordre</note></seg>
+          <seg ana="ordre"> Oui. Non, une demie.<note type="speech">Ordre</note></seg>
           <seg ana="requete"> Et si on donnera une bougie par jour au vicaire de la paroisse qui dessert la chapelle du commun.<note type="speech">Requête</note>></seg>
           <seg ana="ordre"> Non, mais la valeur en argent. (paraphe)<note type="speech">Ordre</note></seg>
           <seg ana="ordre"> Le roy chauffe et éclaire les conseillers d’État à leur pied-à-terre qui est au 5 au commun. (paraphe)<note type="speech">Ordre</note></seg>

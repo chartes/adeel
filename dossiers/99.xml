@@ -163,18 +163,16 @@
         <head>Commentaire paléographique</head>
         <div>
           <head>Aspect général</head>
-          <figure rend="99/fax.jpg"/>
-          <p>L’écriture est une minuscule caroline tardive d’aspect soigné, où une « gothicisation » limitée se manifeste par deux tendances : <list>
+          <p>L’écriture est une minuscule caroline tardive d’aspect soigné, où une « gothicisation » limitée se manifeste par deux tendances :
+            <list>
             <item>l’aspect brisé des courbes, ou plutôt le contraste marqué par une plume large entre les pleins et des déliés (notamment dans le haut des jambages de <hi rend="b">n</hi> et <hi rend="b">m</hi>, ou la langue du <hi rend="b">r</hi>) ;</item>
             <item>l’agrandissement de l’œil des lettres, par rapport à la hauteur des hastes (en revanche, guère de resserrement horizontal ici).</item>
-          </list>
-          </p>
+          </list></p>
           <p>Le texte et la glose sont apparemment de la même main, mais la glose, d’un tracé simplifié pour s’adapter au module réduit, est plus nettement brisée et les jambages sont en général marqués, en haut et en bas, par des filets proportionnellement plus développés, qui annoncent le traitement uniforme des extrémités des traits dans l’écriture gothique. De même dans <hi rend="b">g</hi> : le trait qui tend à fermer la boucle inférieure, faiblement visible dans le texte, est bien marqué dans la glose.</p>
           <p>Le haut des hastes est renforcé par un trait supplémentaire, empattement triangulaire qui tend à s’ouvrir en fourche : ce détail, ici plutôt accidentel, est devenu dans d’autres écritures une variété « normale ».</p>
         </div>
         <div>
           <head>Formes individuelles à remarquer</head>
-          <figure rend="99/fax.jpg"/>
           <p>Dans certaines lettres, la glose présente aussi, comme souvent, des formes particulières qu’on retrouvera ensuite comme norme graphique dans l’écriture gothique :<list>
             <item><hi rend="b">d</hi> : droit dans le texte (trois traits), mais oncial dans la glose (incliné, en deux traits).</item>
             <item><hi rend="b">r</hi> : après un <hi rend="b">o</hi>, prend la forme ronde (semblable à <hi rend="b">2</hi>) dans la glose seule.</item>
@@ -186,7 +184,6 @@
         </div>
         <div>
           <head>Abréviations</head>
-          <figure rend="99/fax.jpg"/>
           <p>Au reste le système abréviatif est à peine moins développé dans le texte que dans la glose. La page présente un large échantillon des signes et principes en usage : tildes pour nasales, suspensions (dans la glose) et nombreuses contractions, notamment dans les <hi rend="i">nomina sacra</hi> et autres mots du registre religieux ; lettres suscrites ; terminaisons -<hi rend="b">b(us)</hi> et -<hi rend="b">or(um)</hi> ; signes conventionnels pour <hi rend="b">con-</hi>, <hi rend="b">-us</hi> ; etc.</p>
           <p>On notera plus spécialement : <list>
             <item><hi rend="b">enim</hi> dans la forme qui avait été répandue par l’écriture insulaire (<hi rend="i">N</hi> capital semblable à un petit <hi rend="i">H</hi>) ;</item>
@@ -200,7 +197,6 @@
         </div>
         <div>
           <head>Structuration</head>
-          <figure rend="99/fax.jpg"/>
           <p>Les mots sont rigoureusement séparés, y compris les prépositions et conjonctions. Dans les gloses comme dans le texte, la ponctuation est simple : le point à mi-hauteur (<hi rend="i">punctus</hi>) sert à distinguer les propositions dans la phrase ; il précède aussi toujours la conjonction <hi rend="b">et</hi>. Associé à une majuscule, il marque le début d’une nouvelle phrase.</p>
           <p>Le feuillet de dimensions moyennes (240 x 160 mm) illustre un jalon important dans l’évolution de la mise en page, entre la page à longues lignes de l’époque carolingienne et les formats rigoureusement compartimentés du XIII<hi rend="i">e</hi> siècle. Selon un modèle attesté par les manuscrits dès le premier quart du XII<hi rend="i">e</hi> siècle, la page est ici divisée par une réglure à la pointe sèche en trois colonnes de largeur inégale (50 mm, 60 mm et 25 mm de gauche à droite) et isolées par deux colonnettes (5 mm de largeur). La colonne centrale (175 x 60 mm) sert à copier le texte biblique dans une écriture de gros module. Des initiales en rouge permettent d’y distinguer les unités textuelles par ordre décroissant dans la page : <hi rend="b">P</hi> (55 mm de hauteur), <hi rend="b">C</hi> (13 mm), <hi rend="b">S</hi> (5 mm). Un titre rubriqué (c’est-à-dire à l’encre rouge) annonce le début de l’épître. Le texte y est copié de manière espacée, pour permettre d’y insérer des gloses sur la réglure.</p>
           <p>Les gloses interlinéaires, brèves, sont situées au-dessus des mots qu’elles expliquent et distinguées les unes des autres par des signes de paragraphe. Les gloses marginales, généralement les plus longues, sont aussi mises en valeur par des signes de paragraphe, parfois surdéveloppés et ornés, et suivent la réglure. Il n’existe pas ici de signe de renvoi entre le texte biblique et les gloses marginales : c’est la disposition de celles-ci sur la page qui permet de s’y reporter. S’ajoutent à cette disposition préétablie des corrections occasionnelles, ici dans l’interligne de la première glose marginale (<hi rend="b">sincere</hi>), et dans la marge de fond (intérieure) pour le texte biblique, en gros module, avec un signe de renvoi sous forme de trois points après le mot <hi rend="b">nostro</hi>.</p>

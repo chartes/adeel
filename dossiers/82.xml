@@ -122,16 +122,15 @@
         <head>Commentaire diplomatique</head>
         <div>
           <head>Caractères externes</head> 
-          <figure rend="82/faxexterne.jpg">
-            <p>
-              <seg rend="148,118,147,51,158,40,230,41,234,49,235,120,224,129,183,129,147,117,148,116,148,109">Ligature <hi rend="i">ct</hi> allongée</seg>
-              <seg rend="401,73,420,65,428,72,427,109,426,132,415,138,404,133,403,104,401,77">Virgule surmontée de deux points, de même fonction que les trois points "épigraphiques" qui viennent en clôture d’un passage en lettres allongés</seg>
-              <seg rend="436,156,445,134,464,132,476,131,496,159,493,176,474,177,444,177,436,159">Ligature <hi rend="i">st</hi> allongée</seg>
-              <seg rend="517,231,515,222,534,213,544,217,545,231,533,240,517,237">Tilde en forme de 8 ouvert</seg>
-              <seg rend="713,283,714,270,716,263,727,261,732,266,731,281,723,283">Abréviation <hi rend="i">–ur</hi></seg>
-              <seg rend="741,442,741,440,741,428,753,413,764,415,775,424,773,445,757,445">Neuf tironien (<hi rend="i">–us</hi>)</seg>
-            </p> 
-          </figure>
+          <figure rend="82/faxexterne.jpg"/>
+          <figDesc>
+            <seg rend="148,118,147,51,158,40,230,41,234,49,235,120,224,129,183,129,147,117,148,116,148,109">Ligature <hi rend="i">ct</hi> allongée</seg>
+            <seg rend="401,73,420,65,428,72,427,109,426,132,415,138,404,133,403,104,401,77">Virgule surmontée de deux points, de même fonction que les trois points "épigraphiques" qui viennent en clôture d’un passage en lettres allongés</seg>
+            <seg rend="436,156,445,134,464,132,476,131,496,159,493,176,474,177,444,177,436,159">Ligature <hi rend="i">st</hi> allongée</seg>
+            <seg rend="517,231,515,222,534,213,544,217,545,231,533,240,517,237">Tilde en forme de 8 ouvert</seg>
+            <seg rend="713,283,714,270,716,263,727,261,732,266,731,281,723,283">Abréviation <hi rend="i">–ur</hi></seg>
+            <seg rend="741,442,741,440,741,428,753,413,764,415,775,424,773,445,757,445">Neuf tironien (<hi rend="i">–us</hi>)</seg>
+          </figDesc> 
           <p>Le caractère très soigné de l’acte est évident et vient souligner son caractère solennel et perpétuel. L’initiale ornée, les lettres allongées, la régularité du tracé des lettres et de l’interlignage, le grossissement de certaines capitales en initiale (<hi rend="i">Ego</hi> l. 1, <hi rend="i">Notum</hi> l. 2, <hi rend="i">Ne</hi> l. 8, <hi rend="i">Signum</hi> l. 11), l’allongement de certaines ligatures (qui aident aussi à respecter la justification en fin de ligne, comme <hi rend="i">Actum</hi> l. 10) concourent uniment à cet effet.</p>
           <p>On peut trouver la même raison, mais aussi le souci de faciliter la lecture, à d’autres traits : la richesse du système des tildes, de trois types (abréviations par suspension, marque usuelle des passifs en <hi rend="i">ur</hi> l. 5, et enfin une sorte de neuf tironien plus ou moins enrichi, comme pour le –<hi rend="i">us</hi> de <hi rend="i">aliquatenus</hi> l. 9) ; la rareté des abréviations, essentiellement limitées aux abréviations les plus courantes (sur les <hi rend="i">p</hi>, les terminaisons en –<hi rend="i">us</hi> et en –<hi rend="i">um</hi>, le <hi rend="i">quod</hi>) : dans l’eschatocole, le mot <hi rend="i">signum</hi> qui annonce chacune des dix-sept souscriptions est écrit en toutes lettres et non pas abrégé en S barré comme c’est le cas le plus fréquent à l’époque.</p>
           <p>La ponctuation est abondante ; les différentes longueurs des pauses sont très nettement marquées (l. 5, 6, 11 pour ne prendre que quelques exemples).</p>

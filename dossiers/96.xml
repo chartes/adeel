@@ -112,7 +112,6 @@
         <head>Commentaire paléographique</head>
         <div>
           <head>Aspect général</head>
-          <figure rend="96/faxmini.jpg"/>
           <p>Dans cette calligraphie très soignée, la rigueur et la densité typiques de l’écriture gothique sont tempérées par un tracé non véritablement rectiligne et anguleux, mais ordonné en un jeu de subtiles courbes et contre-courbes, agrémenté de légers filets ornementaux. On peut y observer les caractéristiques habituelles de l’<hi rend="b">écriture gothique</hi> : <lb/>
             <list>
               <item><hi rend="b">plume large et angle d’écriture oblique</hi>, d’où résulte un contraste très marqué entre pleins (dominants), et déliés, donc un aspect brisé ; </item>
@@ -127,30 +126,25 @@
         </div>
         <div>
           <head>Formes individuelles à remarquer</head>
-          <figure rend="96/faxmini.jpg"/>
-          <p>
-            <list>
-              <item><hi rend="i">a</hi> est généralement bâti sur deux traits verticaux et divisé par un trait horizontal, forme apparue à la fin du XIII<hi rend="sup">e</hi> siècle (<hi rend="i">a</hi> « boîte », angl. « box-a », allem. « Kasten-a »). Seuls les <hi rend="i">a</hi> isolés ou bien (avec des hésitations) à l’initiale maintiennent le <hi rend="i">ductus</hi> plus ancien : panse, dos, crosse fermée sous forme de filet. </item>
-              <item><hi rend="i">f</hi> et <hi rend="i">s droit</hi> posés sur la ligne avec un pied analogue à celui du <hi rend="i">l</hi> ; s droit porte un petit trait à gauche à mi-hauteur ; <hi rend="i">s</hi> en fin de mot est de type capital ;</item>
-              <item><hi rend="i">t</hi> avec traverse peu débordante à gauche, et tête débordante en haut (contrairement à la forme des siècles précédents, caractérisée par sa traverse large) ; </item>
-              <item>hastes fourches : la pointe de gauche, initialement un filet, tend rapidement à devenir moins soigné, prenant la forme d’un plein ; </item>
-              <item>pied des lettres : brisé de manière plus ou moins homogène à la première ligne, qui se rapproche par ce détail caractéristique du type le plus formel, dit <hi rend="i">textus quadratus</hi> ; ensuite plus simple, en crochet, établissant le degré calligraphique général au niveau d’un <hi rend="i"> textus rotundus</hi> soigné ; </item>
-              <item>couple <hi rend="i">ll</hi> avec large filet en tête, en guise d’empattement commun ; </item>
-              <item>abréviation <hi rend="i">con</hi>- en forme de <hi rend="i">2</hi> ; </item>
-              <item>abréviation <hi rend="i">et</hi> traversée par un filet ; </item>
-              <item>tilde bref et arqué ; </item>
-              <item>trait d’union en fin de ligne, long et oblique. </item>
-            </list>
-          </p>
+          <list>
+            <item><hi rend="i">a</hi> est généralement bâti sur deux traits verticaux et divisé par un trait horizontal, forme apparue à la fin du XIII<hi rend="sup">e</hi> siècle (<hi rend="i">a</hi> « boîte », angl. « box-a », allem. « Kasten-a »). Seuls les <hi rend="i">a</hi> isolés ou bien (avec des hésitations) à l’initiale maintiennent le <hi rend="i">ductus</hi> plus ancien : panse, dos, crosse fermée sous forme de filet. </item>
+            <item><hi rend="i">f</hi> et <hi rend="i">s droit</hi> posés sur la ligne avec un pied analogue à celui du <hi rend="i">l</hi> ; s droit porte un petit trait à gauche à mi-hauteur ; <hi rend="i">s</hi> en fin de mot est de type capital ;</item>
+            <item><hi rend="i">t</hi> avec traverse peu débordante à gauche, et tête débordante en haut (contrairement à la forme des siècles précédents, caractérisée par sa traverse large) ; </item>
+            <item>hastes fourches : la pointe de gauche, initialement un filet, tend rapidement à devenir moins soigné, prenant la forme d’un plein ; </item>
+            <item>pied des lettres : brisé de manière plus ou moins homogène à la première ligne, qui se rapproche par ce détail caractéristique du type le plus formel, dit <hi rend="i">textus quadratus</hi> ; ensuite plus simple, en crochet, établissant le degré calligraphique général au niveau d’un <hi rend="i"> textus rotundus</hi> soigné ; </item>
+            <item>couple <hi rend="i">ll</hi> avec large filet en tête, en guise d’empattement commun ; </item>
+            <item>abréviation <hi rend="i">con</hi>- en forme de <hi rend="i">2</hi> ; </item>
+            <item>abréviation <hi rend="i">et</hi> traversée par un filet ; </item>
+            <item>tilde bref et arqué ; </item>
+            <item>trait d’union en fin de ligne, long et oblique. </item>
+          </list>
         </div>
         <div>
           <head>Abréviations</head>
-          <figure rend="96/faxmini.jpg"/>
           <p>Le système abréviatif ne présente guère de particularités : <hi rend="i">nomina sacra</hi> et autres contractions banales, <hi rend="b">or(ati)onibus</hi>, <hi rend="b">p(rese)ntabat</hi>, <hi rend="b">m(ate)r</hi>, <hi rend="b"> s(ecundu)m</hi>… ; tildes pour nasales ; les différentes abréviations sur <hi rend="b">p</hi> ; lettres suscrites ; terminaisons -<hi rend="b">b(us)</hi> et -<hi rend="b">or(um)</hi> ; signes conventionnels pour <hi rend="b">con</hi>-, -<hi rend="b">us</hi>, -<hi rend="b">ur</hi>, et note tironienne pour <hi rend="b">et</hi>. Sa densité varie assez fortement en fonction de son utilisation pour optimiser la mise en page.</p>
         </div>
         <div>
           <head>Structuration</head>
-          <figure rend="96/faxmini.jpg"/>
           <p>Sur ce feuillet de dimensions moyennes (265 x 185 mm), la réglure, tracée à l’encre, délimite cinq colonnes distinctes : une justification de 175 x 110 mm pour le texte (écrit en une seule colonne, à mi-hauteur entre les lignes), et d’autres pour les éléments accessoires ; noter en particulier comment les antennes de l’initiale respectent la colonne de droite. La suite du manuscrit est réglée pour un texte sur deux colonnes.</p>
           <p>La séparation des mots est désormais régulière ; y compris, ici (sauf exception), pour les prépositions et la conjonction <hi rend="b">et</hi>. La ponctuation se limite à un point (<hi rend="b">punctus</hi>) utilisé seul ou en combinaison avec une majuscule, selon qu’il sépare des propositions et autres groupes de mots incomplets, ou des phrases entières (il importera donc d’éviter d’utiliser un point devant toute majuscule utilisée seulement pour distinguer un nom propre).</p>
           <p>La préface, entièrement rubriquée, est également mise en valeur par une initiale « puzzle » ou « émanchée » et filigranée à l’encre bleue et rouge (45 mm de hauteur).</p>
