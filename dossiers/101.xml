@@ -17,12 +17,7 @@
         <date when="2008">février 2008</date>
       </publicationStmt>
       <sourceDesc>
-        <msDesc>
-          <msIdentifier>
-            <settlement>Paris</settlement>
-            <repository>Bibliothèque Mazarine</repository>
-          </msIdentifier>
-        </msDesc>
+        <bibl>Paris, Bibliothèque Mazarine</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
