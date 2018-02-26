@@ -1,7 +1,9 @@
 DELETE FROM note ;
-------------------------------------------
 --========================================
 ------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (0,0,'jpilla','Seine-et-Marne, cant. Lorrez-le-Bocage-Préaux (à égale distance environ de Nemours et Montereau).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1,0,'jpilla','Seine-et-Marne, cant. Montereau-Fault-Yonne.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (2,0,'jpilla','Droit de couper ou de prendre du bois (lat. lignum).');
@@ -24,102 +26,124 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (17,0,'jpilla','
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (18,0,'jpilla','Dreu de Mello.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (19,0,'jpilla','La chancellerie elle aussi a été laissée vacante par Philippe Auguste, depuis 1185. Elle était dirigée par un chef effectif, qui prit rapidement le titre de garde des sceaux, "cil qui porte le scel". Dès la fin du XIIIe siècle, on lui donna par courtoisie (ou il prit par ailleurs) le titre de "chancelier", qui fut bientôt officiellement réintroduit à la chancellerie (alors qu’il restait hors d’usage à la Curie pontificale où la charge avait elle aussi été laissée vacante).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (20,0,'jpilla','L’un des principaux conseillers du roi, frère hospitalier, élu évêque de Senlis en 1213/14. A compter de 1201, son intervention dans l’administration du royaume et plus spécialement à la chancellerie est marquée par cette formule "Donné... par la main de frère Guérin", qui bien sûr ne se rapporte pas à l’exécution matérielle , mais au rôle de chef de la chancellerie (la formule "Data par manum...", introduite à l’imitation évidente des privilèges pontificaux, est devenue dès les années 1110 la formule usuelle de la souscription de chancellerie au bas des actes royaux). Guérin sera d’ailleurs orné du titre de chancelier à la fin de sa vie (1223-1227).');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,0,217,225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,1,298,303);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,2,339,347);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,3,1436,1506);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,4,1507,1515);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,5,1628,1652);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,6,1669,1681);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,7,1685,1692);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,8,1707,1715);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,9,1742,1761);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,10,1781,1805);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,11,144,149);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,12,196,202);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,13,226,233);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,14,1074,1112);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,15,1195,1216);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,16,1238,1250);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,17,1256,1265);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,18,1283,1287);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,19,1313,1343);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,20,1359,1372);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,0,13,36);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,1,14,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,2,0,12);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,3,0,69);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,4,0,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,5,2,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,6,16,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,7,31,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,8,14,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,9,5,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (1,10,1,25);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,11,14,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,12,31,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,13,23,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,14,0,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,15,30,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,16,21,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,17,38,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,18,17,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,19,6,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (1,20,15,28);
-------------------------------------------
---========================================
-------------------------------------------
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (21,0,'jpilla','pitanciers : officiers monastiques chargés de l’approvisionnement et de la distribution de la nourriture. A leur office (Pitancerie) est souvent affectée une portion du patrimoine, dont ils ont la gestion.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (22,0,'jpilla','L’abbaye Saint-Germain-des-Prés est encore hors les murs ("delez" ou "lez" = "près de", comme par ex. dans Villeneuve-lès-Avignon).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (23,0,'jpilla','L’abbaye Saint-Germain-des-Prés est encore hors les murs ("delez" ou "lez" = "près de", comme par ex. dans Villeneuve-lès-Avignon).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (24,0,'jpilla','Saint-André-des-Arts.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (25,0,'jpilla','Pierre Bertrand, évêque d’Autun, promu le 20 décembre 1331 cardinal-prêtre du titre de Saint-Clément (dit le cardinal d’Autun). Mort en 1348.');
 ------------------------------------------
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,21,123,134);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,22,138,152);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,23,153,169);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,24,385,404);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,25,1001,1016);
+------------------------------------------
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,21,0,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,22,14,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,23,0,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,24,16,50);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (21,25,0,37);
+------------------------------------------
 ------------------------------------------
 ------------------------------------------
 --========================================
-------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (26,0,'jpilla','Le roi de France a réuni à la couronne l’Anjou après la mort du roi René en 1480, et le reste des possessions et prétentions angevines (royaume de "Sicile", titre de roi de Jérusalem, Provence) à la mort sans héritier de Charles du Maine le 11 décembre 1481. Le petit-fils de René, René II duc de Lorraine, a attaqué les testaments de René d’Anjou et Charles, réclamant l’héritage au nom de sa mère Yolande, fille de René, en vain : la Provence est définitivement intégrée par le Parlement au royaume de France en octobre 1486. Mais Jeanne de Laval († 1498), seconde épouse de René d’Anjou, a conservé la titulature complète à titre honorifique et l’usufruit de quelques seigneuries, dont Saint-Remy-de-Provence.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (27,0,'jpilla','Le roi de France a réuni à la couronne l’Anjou après la mort du roi René en 1480, et le reste des possessions et prétentions angevines (royaume de "Sicile", titre de roi de Jérusalem, Provence) à la mort sans héritier de Charles du Maine le 11 décembre 1481. Le petit-fils de René, René II duc de Lorraine, a attaqué les testaments de René d’Anjou et Charles, réclamant l’héritage au nom de sa mère Yolande, fille de René, en vain : la Provence est définitivement intégrée par le Parlement au royaume de France en octobre 1486. Mais Jeanne de Laval († 1498), seconde épouse de René d’Anjou, a conservé la titulature complète à titre honorifique et l’usufruit de quelques seigneuries, dont Saint-Remy-de-Provence.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (28,0,'jpilla','L’attache, pratique intensifiée dans les administrations financières au XIVe siècle, consiste à attacher un acte à un autre, souvent par un petit tortil de parchemin, qui peut être lui-même assujetti et validé par un sceau. Dans l’administration royale, elle est spécialement utilisée dans les procédures de contrôle des dépenses et des actes royaux qui les ordonnent : ceux-ci, au-delà d’une certaine somme, doivent être avalisés par les gens des comptes, les généraux des finances..., qui délivrent un mandement d’éxécution, dit "lettres d’attache", auquel est attaché l’acte royal visé. Ici, la fonction de l’attache est banalisée : c’est la simple transmission d’une "pièce jointe".');
@@ -128,21 +152,24 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (30,0,'jpilla','
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (31,0,'jpilla','Au sens d’universitas, "communauté" (l’universitas studiorum n’étant qu’un cas parmi d’autres).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (32,0,'jpilla','Le style de Pâques, introduit en Provence au XIIIe siècle par les princes angevins, est certainement employé ici. Or Pâques tombe en 1487 le 15 avril et en 1488 le 6 avril. Le mandement est donc de la veille de Pâques 1488.');
 ------------------------------------------
---========================================
+------------------------------------------
 INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,26,8,130);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,27,0,113);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,28,12,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,29,0,106);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,30,0,88);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,31,87,106);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,32,0,48);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,27,131,208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,28,360,367);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,29,368,393);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,30,786,802);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,31,962,981);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (23,32,1330,1377);
+------------------------------------------
+--========================================
+------------------------------------------
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
 ------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (33,0,'jpilla','Juge en matière contentieuse et gracieuse, délégué de l’évêque.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (34,0,'jpilla','Oise, cant. Grandvilliers.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (35,0,'jpilla','Oise, cant. Mouy.');
@@ -171,35 +198,36 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (56,0,'jpilla','
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (57,0,'jpilla','La foi corporelle indique que le serment a impliqué un contact corporel avec un objet lui-même en rapport avec le sacré (évangiles, croix, reliques...)');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (58,0,'jpilla','Attention aux millésimes exprimés en ancien style ; vu la région et la période, il y a de grandes chances que le style utilisé soit ou Pâques ou l’Annonciation florentine ; tout doute est ici levé par la date du jour, postérieur à Pâques: on est bien en 1248 nouveau style.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (59,0,'jpilla','"Jubilate" est l’introït du troisième dimanche après Pâques (Cappelli, éd. 1978, p. 116 ; Giry, p. 267) ; le millésime ne correspondrait pas au nôtre qu’en cas d’usage du style pisan, totalement exclu ici. C’est donc sous l’année 1248 (n.st.) qu’il faut chercher dans les outils modernes la concordance du quantième, du mois et du jour de la semaine. D’après Cappelli, en 1248 Pâques tombe le 19 avril (p. 262) ; une année où Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 92), l’acte est donc du 11 mai 1248. D’après Giry, 1248 a pour lettres dominicales ED (p. 197) ; pour une telle année (calendrier D) où en outre Pâques tombe le 19 avril, le dimanche de Jubilate tombe le 10 mai (p. 237), l’acte est donc du 11 mai 1248.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,33,4,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,34,10,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,35,17,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,36,7,71);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,37,19,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,38,26,50);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,39,13,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,40,42,47);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,41,14,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,42,20,54);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,43,0,12);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,44,1,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,45,23,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,46,31,59);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,47,4,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,48,15,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,49,23,50);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,50,33,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,51,13,20);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,52,20,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,53,23,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,54,46,50);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,55,18,53);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,56,14,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,57,0,49);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,58,17,25);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,59,25,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,33,89,108);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,34,337,341);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,35,345,376);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,36,601,665);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,37,777,783);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,38,785,794);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,39,823,828);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,40,853,858);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,41,1010,1021);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,42,1049,1069);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,43,1343,1353);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,44,2776,2786);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,45,2799,2803);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (26,46,2808,2835);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,47,51,61);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,48,166,170);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,49,175,186);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,50,342,361);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,51,430,436);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,52,438,454);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,53,484,491);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,54,508,512);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,55,583,591);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,56,639,654);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,57,837,847);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,58,1712,1716);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (26,59,1721,1741);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (60,0,'jpilla','Meaux, Seine-et-Marne, ch.-l. arr.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (61,0,'jpilla','Féminin de domicellus/ damoiseau, diminutif de domina (« madame »), titre de courtoisie dont l’usage se codifie à l’époque, à l’adresse des femmes de la petite noblesse.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (62,0,'jpilla','Plusieurs identifications possibles en raison de la fréquence du nom, mais il existe un hameau dit « Lessart »sur la commune de Marchémoret.');
@@ -220,27 +248,28 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (75,0,'jpilla','
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (76,0,'jpilla','Monnaie tournois, à l’origine frappée à Tours ; l’un des deux grands monnayages royaux après la conquête de la Touraine par Philippe Auguste. L’expression est au génitif pluriel car l’on sous-entend « (livres) de deniers (tournois) ».');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (77,0,'jpilla','Le sens technique « classique » des deux termes est maintenant bien fixé (dotalicium = douaire constitué par le mari, dos = dot apportée par l’épouse).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (78,0,'jpilla','Bouleurs (Seine-et-Marne, cant. Crécy-la-Chapelle).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,60,9,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,61,11,43);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,62,21,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,63,1,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,64,3,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,65,4,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,66,1,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,67,1,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,68,8,22);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,69,29,59);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,70,6,30);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,71,30,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,72,29,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,73,0,10);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,74,10,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,75,25,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,76,28,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,77,28,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,78,21,39);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,60,124,142);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,61,256,265);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,62,332,340);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,63,426,454);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,64,458,468);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,65,609,621);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,66,747,767);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,67,1289,1309);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (27,68,1570,1578);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,69,76,81);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,70,162,172);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,71,187,194);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,72,304,317);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,73,318,325);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,74,329,336);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,75,418,429);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,76,499,507);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,77,880,900);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (27,78,1045,1053);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (79,0,'jpilla','Oissery (Seine-et-Marne, cant. Dammartin-en-Goële). Noter deux graphies différentes, ici «  Osseriacum  », plus bas «  Oisseriacum  ».');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (80,0,'jpilla','Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu’à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en «  main morte  » : le propriétaire éminent ("censuel") peut s’estimer lésé du fait qu’il n’y aura plus de changement de détenteur, donc plus d’occasion de percevoir de droit de mutation, d’investiture du nouveau détenteur. L’habitude se prend donc de monnayer l’accord du propriétaire éminent pour obtenir son «  abandon en mainmorte  » (ou alors de négocier cet abandon comme un don charitable).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (81,0,'jpilla','Les allusions à la mainmorte se multiplient au cours du XIIIe siècle, jusqu’à ce que le roi de France en fasse un impôt. Recueillis par une personne morale (en particulier tout type de maison ecclésiastique), les biens tenus à cens tombent en «  main morte  » : le propriétaire éminent ("censuel") peut s’estimer lésé du fait qu’il n’y aura plus de changement de détenteur, donc plus d’occasion de percevoir de droit de mutation, d’investiture du nouveau détenteur. L’habitude se prend donc de monnayer l’accord du propriétaire éminent pour obtenir son «  abandon en mainmorte  » (ou alors de négocier cet abandon comme un don charitable).');
@@ -263,29 +292,30 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (96,0,'jpilla','
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (97,0,'jpilla','Le verbe movere/mouvoir, pris absolument et associé à un seigneur, renvoie presque certainement à un rapport féodal.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (98,0,'jpilla','Saint-Pathus (Seine-et-Marne, cant. Dammartin-en-Goële) est voisin d’Oissery. Guillaume de Saint-Pathus est homonyme et très vraisemblablement parent du franciscain qui, confesseur de la reine Marguerite (1277-1295) puis de sa fille, a mis par écrit une vie et des miracles de saint Louis : on sait que le frère mineur est petit-fils d’un Guillaume des Barres, seigneur d’Oissery († 1243).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (99,0,'jpilla','À l’origine frappé à Paris, le parisis est le grand monnayage des rois capétiens, auquel Philippe Auguste ajoute le tournois, avec qui il entre vite dans un rapport fixe (4 d. parisis = 5 d. tournois). L’expression est au génitif pluriel car l’on sous-entend (livres) de deniers (parisiis) », de même que l’on devrait dire en français « livres de parisis ».');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,79,15,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,80,0,4);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,81,0,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,82,8,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,83,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,84,21,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,85,11,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,86,0,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,87,6,60);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,88,2,13);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,89,2,37);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,90,26,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,91,3,31);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,92,31,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,93,0,16);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,94,16,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,95,28,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,96,10,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,97,24,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,98,0,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,99,29,36);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,79,38,47);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,80,197,201);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,81,202,208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,82,256,272);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,83,273,294);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,84,295,305);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,85,499,506);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,86,1035,1051);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,87,1459,1514);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,88,1548,1554);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (28,89,2509,2530);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,90,26,33);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,91,163,172);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,92,192,198);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,93,199,212);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,94,216,223);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,95,340,347);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,96,655,658);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,97,909,914);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,98,926,951);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (28,99,1571,1578);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (100,0,'jpilla','Francorum rex demeure le titre usuel du roi de France en chancellerie (et seulement en chancellerie), quand on dit par ailleurs “roi de France” et rex Francie.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (101,0,'jpilla','Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (102,0,'jpilla','Raoul de Soissons, chevalier, doit être très probablement confondu avec le personnage homonyme, attesté de 1233 à 1272, frère du comte de Soissons Jean II.');
@@ -314,35 +344,36 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (123,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (124,0,'jpilla','Tournois : l’une des deux grandes monnaies royales capétiennes, avec le parisis ; elle a été acquise quand Philippe Auguste a saisi la Touraine.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (125,0,'jpilla','L’expression “mettre hors de sa main” désigne l’obligation faite à des institutions ecclésiastiques recueillant des biens grevés d’obligations (censuelles ou féodales) envers un tiers (ici, en dernier ressort, le roi qui pourrait arguer d’une perte de service féodal) d’abandonner leur acquisition… sauf à verser une taxe compensatoire, dont elles sont ici exemptées.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (126,0,'jpilla','Sommières (Gard, ch.-l. cant.). Saint Louis et ses croisés durent attendre avant de pouvoir embarquer à Aigues-Mortes (Gard, ch.-l. cant.), le 1er juillet 1270. Plusieurs actes royaux sont donnés alentour, dans les deux mois précédents ; on en connaît un autre précisément daté de Sommières le 8 mai (itinéraire du roi, dans Recueil des historiens de la France, t. XXI, p. 423).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,100,3,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,101,1,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,102,0,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,103,7,52);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,104,0,9);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,105,9,44);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,106,10,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,107,18,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,108,8,13);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,109,0,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,110,5,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,111,27,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,112,0,40);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,113,0,26);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,114,35,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,115,18,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,116,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,117,0,27);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,118,27,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,119,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,120,0,45);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,121,10,30);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,122,23,31);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,123,0,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,124,18,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,125,0,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,126,7,40);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,100,40,58);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,101,217,239);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,102,240,265);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,103,400,445);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,104,446,452);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,105,456,488);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,106,627,639);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,107,881,889);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,108,1030,1035);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,109,1036,1058);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,110,1147,1167);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,111,1788,1793);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,112,1794,1821);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (29,113,2129,2147);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,114,35,41);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,115,103,121);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,116,122,131);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,117,239,260);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,118,267,278);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,119,279,291);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,120,363,374);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,121,539,544);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,122,623,631);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,123,632,640);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,124,686,694);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,125,1018,1042);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (29,126,1236,1245);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (127,0,'jpilla','Francorum : dès qu’elle a commencé à employer le français, la chancellerie royale a parlé, comme les contemporains, de "roi de France" ; mais même ensuite elle a maintenu en latin (uniquement dans les actes et sur les légendes des sceaux du roi) l’ancienne formule "rex Francorum" (qui ne veut pas dire autre chose) ; dans tous les autres textes, on dit tout naturellement "rex Francie".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (128,0,'jpilla','La Navarre est venue à Philippe (futur Philippe le Bel) de son mariage avec l’héritière du royaume, Jeanne ; mais il abandonné le titre de "roi de Navarre" à son propre avènement au trône de France. Ses fils sont, au Moyen Âge, les seuls à avoir pris, de 1314 à 1328, le titre de "roi de France et de Navarre". Ce seul trait permet d’attribuer l’acte à Philippe V.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (129,0,'jpilla','Archambaud II comte de Périgord.');
@@ -367,31 +398,32 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (146,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (147,0,'jpilla','Le procureur du roi est l’un des rouages essentiels des cours royales (centrales comme de bailliage ou de sénéchaussée), où il représente les intérêts du souverain.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (148,0,'jpilla','Le nom de "Brandons" (ou "Bordes") est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l’acte que parce que l’on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l’on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n’a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (149,0,'jpilla','Le nom de "Brandons" (ou "Bordes") est donné au premier dimanche de Carême (et parfois à toute la semaine qui suit). On ne peut dater avec certitude l’acte que parce que l’on sait que la chancellerie royale suit alors (depuis un siècle au moins) le style de Pâques. Puisque l’on en est après les Brandons, donc en Carême, donc avant Pâques, la chancellerie n’a pas encore changé le millésime ; celui-ci doit donc être converti en 1317 (nouveau style). En cette année, Pâques tombe le 3 avril, les Brandons le dimanche 20 février, et le lundi suivant le 21 février.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,127,2,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,128,0,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,129,3,15);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,130,0,36);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,131,0,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,132,22,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,133,1,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,134,0,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,135,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,136,1,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,137,3,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,138,0,90);
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,127,40,58);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,128,62,69);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,129,246,258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,130,387,423);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,131,424,450);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,132,532,540);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,133,902,936);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,134,1042,1076);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,135,1186,1205);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,136,1841,1870);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,137,2306,2332);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (30,138,2333,2423);
 ------------------------------------------
 INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,139,31,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,140,6,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,141,19,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,142,0,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,143,30,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,144,0,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,145,0,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,146,0,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,147,25,49);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,148,26,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,149,0,32);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,140,51,58);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,141,141,151);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,142,226,258);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,143,333,341);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,144,570,599);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,145,633,654);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,146,768,778);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,147,1091,1100);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,148,1379,1397);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (30,149,1398,1406);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (150,0,'jpilla','Burgoigne : Bel exemple de nom personnel tiré non du sanctoral, de la Bible ou du vieux répertoire germanique, mais d’un nom géographique (localité ou, comme ici, province d’origine = Bourgogne).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (151,0,'jpilla','Salins : Auj. Salins-les-Bains (Jura, ch.-l. cant.), qui tire son nom de ses salines, déjà actives et célèbres.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (152,0,'jpilla','Est’ : On ne développe pas l’abréviation du nom, dans l’incertitude où l’on est de la forme exacte, même s’il est évident qu’il s’agit de l’un des noms les plus courants dans la Comté : "Estienne", ou plutôt "Esteve", "Estenne", voire "Est(i)ennet", "Estevenin"…');
@@ -407,22 +439,23 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (161,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (162,0,'jpilla','roy de France : Le roi Philippe le Bel avait obtenu au traité de Vincennes (2 mars 1295) l’administration de la Comté de Bourgogne (auj. Franche-Comté), dot de la fille du comte Otton IV, qui devait épouser un fils du roi, le futur Philippe V ; celui-ci gouverna encore la Comté au nom de son épouse. C’est en tant qu’administrateur des possessions du comte que le roi agit ici : la seigneurie comtale de Salins était considérée comme distincte de la Comté.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (163,0,'jpilla','bourg communal : Salins était formée de deux agglomérations (bourgs) aux statuts différents. Le Bourg-Dessous était entièrement aux mains du comte de la Comté (d’où son autre nom de Bourg-le-Comte). Le Bourg-Dessus (ou Bourg-le-Sire), où se trouvait la grande saunerie, avait été partagé en 1267 entre plusieurs héritiers de son seigneur primitif (le comte de la Comté put acquérir une partie de ces droits, mais pas tous), d’où son autre nom de "Bourg communal", c’est-à-dire tenu en commun par plusieurs seigneurs ; les intérêts de ceux-ci étaient gérés par un prévôt commun.');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,150,9,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,151,48,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,152,55,64);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,153,38,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,154,18,54);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,155,40,68);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,156,34,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,157,10,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,158,27,44);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,159,44,53);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,160,18,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,161,27,51);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,162,51,75);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,163,1,35);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,150,9,18);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,151,49,55);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,152,57,61);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,153,223,230);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,154,334,356);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,155,591,610);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,156,820,825);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,157,843,848);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,158,861,878);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,159,909,918);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,160,1198,1207);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,161,1688,1705);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,162,1713,1726);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (31,163,2214,2237);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (164,0,'jpilla','Amaury de Montfort, fils et successeur de Simon de Montfort († 1218). Il cède au roi de France en 1224 ses droits dans le Midi.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (165,0,'jpilla','Aymeri, vicomte de Narbonne de 1193 à 1239, habile à monnayer son ralliement à Simon de Montfort et à l’archevêque Arnaud.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (166,0,'jpilla','L’expression d’homme lige désigne ici, dans son acception classique, le vassal lié à son seigneur principal par un lien féodal primant sur ses obligations vis-à-vis d’autres seigneurs.');
@@ -447,31 +480,32 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (183,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (184,0,'jpilla','Les cardinaux-prêtres portent explicitement le nom du « titre » (= église paroissiale de Rome) dont ils sont les desservants primitifs (par opposition, on parle simplement de cardinal-diacre « de » telle église, ou du cardinal-évêque « de » tel siège suburbicaire). Bertrand Savelli, neveu du pape Innocent III, cardinal-prêtre du titre des Saints-Jean-et-Paul (1216-1222), était légat pontifical en plusieurs provinces et diocèses du Midi de la France depuis le début de 1217.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (185,0,'jpilla','Le quatre des nones de janvier est le 2 janvier. Faute d’étude adéquate, il est difficile de décider si le rédacteur a suivi un usage septentrional (style de Pâques), qui imposerait de convertir le millésime en « 1220 », ou le style de Noël, d’usage normal à Béziers comme à Narbonne (le millésime « 1219 » aurait alors été changé depuis le 25 décembre précédant, et correspondrait donc au millésime 1219 n. st.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (186,0,'jpilla','Le quatre des nones de janvier est le 2 janvier. Faute d’étude adéquate, il est difficile de décider si le rédacteur a suivi un usage septentrional (style de Pâques), qui imposerait de convertir le millésime en « 1220 », ou le style de Noël, d’usage normal à Béziers comme à Narbonne (le millésime « 1219 » aurait alors été changé depuis le 25 décembre précédant, et correspondrait donc au millésime 1219 n. st.).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,164,12,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,165,1,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,166,4,13);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,167,0,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,168,17,60);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,169,13,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,170,0,58);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,171,5,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,172,0,100);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,173,0,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,174,6,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,175,0,29);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,176,27,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,177,37,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,178,0,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,179,16,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,180,11,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,181,17,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,182,3,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,183,15,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,184,0,49);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,185,33,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,186,0,26);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,164,93,111);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,165,336,358);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,166,422,427);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,167,654,663);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,168,696,739);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,169,858,889);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,170,1520,1579);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,171,3381,3406);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,172,3407,3508);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,173,3509,3528);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,174,4195,4208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (32,175,4209,4238);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,176,61,67);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,177,190,193);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,178,194,201);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,179,245,249);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,180,360,368);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,181,403,416);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,182,505,515);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,183,842,867);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,184,1873,1922);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,185,2284,2290);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (32,186,2291,2317);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (187,0,'jpilla','Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (188,0,'jpilla','Hugues II (1136-1208) succède à son père Hugues Ier, comte de Rodez, vers 1156. En mai 1195, il associe au pouvoir son fils aîné Hugues III, qui devient ainsi comte à côté de son père. Après la mort de Hugues III en 1196, c’est le cinquième fils du vieux comte qui est à son tour associé, Guillem. Hugues II étant mort sans postérité en 1196, son père, qui a survécu, nomme à sa place Guillaume, son cinquième fils, comte de Rodez de 1196 à 1208.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (189,0,'jpilla','Abbaye cistercienne créée par le comte de Toulouse Raymond V et l’évêque de Rodez Hugues en 1162. Aveyron, arr. Rodez, cant. Cassagnes-Bégonhès, comm. Calmont.');
@@ -487,25 +521,27 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (197,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (198,0,'jpilla','Aveyron, arr. Rodez, cant. Marcillac-Vallon, comm. Clairvaux-d’Aveyron.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (199,0,'jpilla','Aveyron, arr. Rodez, comm. Pont-de-Salars.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (200,0,'jpilla','Haute-Loire, arr. Brioude, cant. Langeac.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,187,54,58);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,188,59,121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,189,912,921);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,190,938,952);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,191,1294,1299);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,192,1474,1482);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,193,1603,1609);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,194,48,52);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,195,53,100);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,196,672,682);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,197,686,701);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,198,997,1002);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,199,1148,1157);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,200,1260,1266);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,187,22,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,188,0,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,189,1,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,190,10,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,191,0,9);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,192,1,12);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (33,193,29,52);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,194,48,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,195,0,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,196,16,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,197,29,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,198,42,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,199,13,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (33,200,29,51);
+------------------------------------------
 ------------------------------------------
 --========================================
-------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (201,0,'jpilla','trobar : " Quelque soit l’origine (durement discutée) du mot trobar, il est clair qu’il faut en retenir, outre ce qu’il désigne, l’art des troubadours et ses productions, l’idée de découverte, qu’on retrouve dans la proximité du français trouver.…Par le trobar se dévoile la nature de l’amour, d’où il vient, ce qu’il est, qui l’éprouve, pour qui et la joie. Trouver, trobar, c’est trouver l’ amour, c’est trouver d’amour, trobar d’amor. " (Jacques Roubaud, La fleur inverse. Essai sur l’art formel des troubadours, Paris, 1986, p. 185-186).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (202,0,'jpilla','évêché de Gévaudan : évêché de Mende ; le pays de Gévaudan correspond à peu près à l’actuel département de la Lozère.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (203,0,'jpilla','Lesperon : Ardèche, arr. Largentière, cant. Coucouron.');
@@ -515,16 +551,17 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (205,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (206,0,'jpilla','évêché de Gévaudan : évêché de Mende ; le pays de Gévaudan correspond à peu près à l’actuel département de la Lozère.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (207,0,'jpilla','Lesperon : Ardèche, arr. Largentière, cant. Coucouron.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (208,0,'jpilla','Dauphin d’Auvergne (? - 22 mars 1235) fils de Guillaume le Jeune, comte de Clermont à qui il succéda après 1169 peut-être après 1181-1182.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,201,29,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,202,11,44);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,203,0,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,204,10,54);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,205,39,50);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,206,34,58);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,207,25,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,208,47,65);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,201,43,49);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,202,81,100);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,203,131,139);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (35,204,294,312);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,205,53,64);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,206,99,117);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,207,149,157);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (35,208,322,340);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (209,0,'jpilla','Loys : Le futur Louis XI, détenteur du Dauphiné en tant que fils aîné du roi de France, a porté une grande attention à la province, qu’il a en particulier activement administrée après s’être brouillé avec son père en 1446.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (210,0,'jpilla','daulphin de Viennoys : Acquis par le roi de France Philippe VI en 1343, le Dauphiné de Viennois, terre d’Empire, passe dès 1344 au futur Jean II. La règle s’observe jusqu’en 1461 de le confier au fils aîné du roi de France. Le maintien des institutions régionales se marque aussi dans le domaine diplomatique, avec l’usage d’un sceau (le « sceau dauphin ») et d’une chancellerie propres.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (211,0,'jpilla','conte de Valentinoys et de Dioys :Éléments complémentaires de la titulature delphinale à compter de 1419, date à laquelle le Valentinois (région de Valence) et une partie du Diois (région de Die) sont rattachés au Dauphiné ; ces terres correspondaient à peu près à la partie de l’actuel département de la Drôme qui ne relevait pas à l’origine du Dauphiné.');
@@ -539,21 +576,22 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (219,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (220,0,'jpilla','Monteil Aymart : Montélimar (Drôme, ch.-l. cant.). On sait d’après les actes que le dauphin Louis y réside au moins du 16 mai au 29 juin 1447.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (221,0,'jpilla','Bochetel : Jean Bochetel, secrétaire (depuis 1439 au moins) et fidèle serviteur du dauphin Louis, apparaît comme contrôleur des finances du Dauphiné en décembre 1447 ; il sert ensuite le roi Louis XI jusqu’à sa mort en 1470.');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,209,0,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,210,35,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,211,56,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,212,21,49);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,213,12,74);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,214,62,69);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,215,69,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,216,0,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,217,0,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,218,20,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,219,12,52);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,220,9,61);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,221,10,28);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,209,0,4);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,210,36,56);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,211,58,90);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,212,167,174);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,213,208,226);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,214,345,352);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,215,353,363);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,216,390,398);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,217,424,463);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,218,862,878);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,219,892,915);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,220,1544,1558);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (36,221,1686,1694);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (222,0,'jpilla','M(athildis) comitissa Bolonie : Mahaut de Dammartin, comtesse de Boulogne, avait successivement épousé Philippe Hurepel (bâtard de Philippe Auguste, † 1234, dont naît Jeanne), puis Alphonse de Portugal (neveu par sa mère de Blanche de Castille).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (223,0,'jpilla','Alfonso : Fils du roi de Portugal Afonso II († 1223) et frère cadet du roi alors régnant, Sancho II ; celui-ci déposé en 1245, Alphonse gagnera le Portugal comme régent avant d’y devenir roi en 1248 sous le nom d’Afonso III.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (224,0,'jpilla','parisiensium : Génitif pluriel de rigueur en latin, car denariorum est sous-entendu (mais l’usage s’est perdu en français contemporain, qui parle de « livres parisis » plutôt que de « livres de parisis »).');
@@ -565,18 +603,19 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (228,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (229,0,'jpilla','parisiensium : Génitif pluriel de rigueur en latin, car denariorum est sous-entendu (mais l’usage s’est perdu en français contemporain, qui parle de « livres parisis » plutôt que de « livres de parisis »).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (230,0,'jpilla','libratis : Une « livrée de terre » est une unité abstraite de mesure, qui désigne la capacité de percevoir une livre de revenus annuels assis sur la terre, quel que soit le mode de détention (posséder une terre de ce rapport, détenir une rente de ce montant assise sur une terre, etc.). Il y a naturellement autant de « livrées » que de genre de monnaie, parisis, tournois, etc. ; les textes en ancien français parlent ainsi parfois de « livrée attournois » (= ad turonenses), etc.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (231,0,'jpilla','litteras suas patentes : voir la partie synthèse du commentaire diplomatique.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,222,0,51);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,223,8,36);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,224,6,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,225,5,15);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,226,2,38);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,227,9,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,228,0,45);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,229,0,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,230,24,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,231,22,43);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,222,69,114);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,223,243,250);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,224,361,382);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,225,777,785);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (37,226,3463,3494);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,227,47,77);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,228,179,187);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,229,263,270);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,230,491,498);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (37,231,1941,1961);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (232,0,'jpilla','VI° kalendas octobris : La conversion des jours décomptés, de façon régressive, par rapport aux calendes (premier jour) du mois suivant s’obtient par la formule [nombre de jours du mois précédent] + 2 - [nombre exprimé]. Donc, le 6 des calendes d’octobre est le (30 septembre + 2 - 6 =) 26 septembre.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (233,0,'jpilla','Moysiacensis : Moissac (Tarn-et-Garonne, ch.-l. cant.), abbaye réformée par Cluny au XIe siècle.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (234,0,'jpilla','Amalricus : Amaury de Montfort prend dans le Midi la succession de son père Simon, mort le 25 juin 1218, avant de céder ses droits au roi de France.');
@@ -598,28 +637,29 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (248,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (249,0,'jpilla','habebat vel habere debebat : Cette expression, usuelle mais qui n’a rien de gratuit, désigne d’abord les droits exercés de fait, puis ceux qui, pour n’être pas exercés (parce qu’ils sont inconnus, ou empêchés), n’en sont pas moins susceptibles d’être un jour exercés.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (250,0,'jpilla','Testibus : voir la partie synthèse du commentaire diplomatique.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (251,0,'jpilla','Falqueto : Seul bourgeois à être désigné par un simple nom personnel ; mais la ponctuation de l’original permet de l’individualiser parmi les témoins qui l’entourent.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,232,8,51);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,233,1,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,234,5,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,235,0,57);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,236,2,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,237,0,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,238,0,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,239,5,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,240,10,42);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,241,36,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,242,0,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,243,29,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,244,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,245,14,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,246,30,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,247,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,248,38,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,249,0,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,250,18,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,251,13,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,232,177,216);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,233,270,291);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,234,483,501);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,235,855,882);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,236,950,975);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,237,1356,1374);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,238,1440,1493);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,239,3254,3271);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (38,240,3750,3767);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,241,75,79);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,242,80,102);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,243,149,156);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,244,236,244);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,245,491,498);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,246,546,551);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,247,731,737);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,248,770,775);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,249,776,791);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,250,1884,1891);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (38,251,2322,2329);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (252,0,'jpilla','Francorum et Navarre rege : Appliqué ici à Charles IV le Bel (1322-1328), le titre est double, comme il est de règle sous les trois fils de Philippe le Bel, qui héritèrent de leur père la couronne de Navarre. Noter que le rédacteur de l’acte suit les usages de la chancellerie royale, qui maintient en latin le traditionnel Francorum (mais d’autres rédacteurs peuvent employer Francie).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (253,0,'jpilla','Marologio : Marvejols, Lozère, ch.-l. cant.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (254,0,'jpilla','discreto viro : Le titre de courtoisie d’« homme discret », « discrète personne », commence à se répandre ; il faut prendre « discret » au sens étymologique : « plein de discernement », « sage ».');
@@ -643,30 +683,31 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (270,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (271,0,'jpilla','terre de Petra : L’ancienne seigneurie de Peyre (Lozère, cant. Aumont-Aubrac, comm. Saint-Sauveur-de-Peyre) a laissé de nombreuses traces toponymiques, étirées le long de la route d’Aumont-Aubrac à Marvejols (Sainte-Colombe-, Saint-Léger-de-Peyre…). Le renvoi qui y est ici fait sert sans doute à préciser l’identification de « Larcis-de-Peyre ».');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (272,0,'jpilla','Helie Bernardi : forme onomastique typique, qui accompagne le nom personnel d’un patronyme au génitif (« fils de » est sous-entendu).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (273,0,'jpilla','formam : Le scribe a par erreur noté deux fois le “m” final (une fois par un tilde, une fois par un “m” renversé en forme de “z”).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,252,0,44);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,253,21,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,254,2,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,255,0,63);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,256,9,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,257,1,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,258,2,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,259,1,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,260,7,40);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,261,6,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,262,0,45);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,263,24,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,264,21,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,265,18,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,266,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,267,28,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,268,19,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,269,19,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,270,24,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,271,25,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,272,29,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,273,3,34);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,252,99,133);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,253,177,186);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,254,236,258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,255,296,356);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,256,468,474);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,257,564,584);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,258,671,682);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,259,895,904);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,260,1024,1038);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,261,1628,1642);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (39,262,1914,1929);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,263,107,134);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,264,157,166);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,265,197,214);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,266,254,291);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,267,364,370);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,268,394,402);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,269,483,491);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,270,598,606);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,271,716,730);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,272,1064,1077);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (39,273,1305,1310);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (274,0,'jpilla','Morinensis : Thérouanne (à l’origine, cité des Morins), siège d’évêché jusqu’en 1553, date où la ville est rasée avant que le diocèse ne soit partagé entre trois nouveaux sièges (Saint-Omer, Ypres et Boulogne) ; auj. village du Pas-de-Calais, cant. Aire-sur-la-Lys.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (275,0,'jpilla','rege Franc’ : La titulature latine, ici abrégée, pourrait être restituée aussi bien rex Francorum (si l’auteur suit l’usage de la chancellerie royale) que rex Francie (qui traduit “naturellement” l’expression française correspondante, roi de France). Il s’agit de Philippe VI, monté sur le trône en 1328.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (276,0,'jpilla','Johannis de Hautebruiere : La traduction pose moins de problème que l’identification. Le personnage peut être sans doute confondu avec le Johannes de Altabr’ qui apparaît comme comptable royal (mais pas davantage qualifié) dans un compte perdu de 1334 (Charles-Victor Langlois, Inventaire d’anciens comptes royaux dressés par Robert Mignon sous le règne de Philippe de Valois, Paris, 1899, append. II, p. 376, n° XXXII).');
@@ -686,26 +727,27 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (288,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (289,0,'jpilla','Fienles : Fiennes, Pas-de-Calais, cant. Guînes.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (290,0,'jpilla','Tingry : Tingry, Pas-de-Calais, cant. Samer.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (291,0,'jpilla','guerra Flandrensi : La “guerre de Flandre” ici visée a vu Philippe VI soutenir le comte Louis Ier contre les échevinages révoltés de Bruges et d’Ypres ; elle a culminé dans la grande victoire royale de Cassel (1328).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,274,8,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,275,4,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,276,17,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,277,0,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,278,0,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,279,14,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,280,27,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,281,9,37);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,282,27,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,283,35,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,284,0,22);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,285,22,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,286,0,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,287,32,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,288,0,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,289,28,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,290,41,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,291,9,28);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,274,84,103);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,275,495,506);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,276,535,547);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,277,548,560);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,278,580,600);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,279,892,899);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,280,906,912);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (40,281,945,971);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,282,65,75);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,283,371,380);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,284,381,387);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,285,404,411);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,286,412,424);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,287,445,452);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,288,454,467);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,289,696,703);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,290,710,716);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (40,291,726,743);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (292,0,'jpilla','q surmonté d’un tilde est la seule forme que le texte offre pour la conjonction ou le relatif que : si l’on trouve des formes Pasqes (l. 3), chasqe (l.), aqest, l’on trouve en revanche le relatif sous la forme developpée qui. Cette dernière forme peut justifier la transcription que.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (293,0,'jpilla','étal : banx correspond à l’ancien français banc ou banc charnier qui désigne l’étal du boucher. Le latin médiéval dit banca : « Item de quolibet macellario vendente in macello die for pro tota septimana capiuntur pro banca duo denarii »(1309, Dauphiné, cité dans le Glossarium… de Du Cange).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (294,0,'jpilla','Gui Boti : le patronyme Boty, Bouty figure dans les Tables générales des six volumes des registres consulaires [de la ville de Limoges] par M. Émile Hervy, t. VI, 1871, p. 445-578.');
@@ -718,19 +760,20 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (299,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (300,0,'jpilla','étal : banx correspond à l’ancien français banc ou banc charnier qui désigne l’étal du boucher. Le latin médiéval dit banca : « Item de quolibet macellario vendente in macello die for pro tota septimana capiuntur pro banca duo denarii »(1309, Dauphiné, cité dans le Glossarium… de Du Cange).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (301,0,'jpilla','Gui Boti : le patronyme Boty, Bouty figure dans les Tables générales des six volumes des registres consulaires [de la ville de Limoges] par M. Émile Hervy, t. VI, 1871, p. 445-578.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (302,0,'jpilla','la Saint-Jean : le 24 juin.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,292,20,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,293,14,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,294,37,58);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,295,47,65);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,296,3,26);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,297,26,59);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,298,21,50);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,299,0,70);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,300,34,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,301,41,57);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,302,45,55);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,292,20,32);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,293,286,290);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,294,310,319);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (41,295,443,445);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,296,71,84);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,297,95,103);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,298,150,179);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,299,180,196);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,300,285,289);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,301,293,301);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (41,302,499,509);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (303,0,'jpilla','Vendeuil, Aisne, cant. Moÿ-de-l’Aisne.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (304,0,'jpilla','La " livrée " (librata) est un mode d’évaluation des revenus immobiliers. Une livrée de terre équivaut à une terre rapportant un profit d’une livre, qu’elle consiste effectivement en terre, ou que l’on prévoie (plus ou moins activement) d’asseoir à terme le revenu sur la possession d’une terre. Comme il y a des livres de parisis, de tournois etc., il y a des livrées " à parisis ", " attournois " etc.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (305,0,'jpilla','Pouilly-sur-Serre, Aisne, cant. Crécy-sur-Serre.');
@@ -748,24 +791,25 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (315,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (316,0,'jpilla','L’expression pars terre désigne spécifiquement l’héritage, la part d’héritage (plutôt) immeuble recueillie de ses parents (Du Cange, s.v. " pars ").');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (317,0,'jpilla','excantia est l’une de formes du substantif tiré de excadere, " échoir " (Du Cange, s.v. " excancia "). Le dictionnaire de Niermeyer (s.v. " excaduta ") montre bien que cette " échoite " peut prendre selon le contexte des sens précis diversifiés, dont deux sont ici successivement révélés (l. 3 et l. 7) : la " part de succession échéant à un autre que l’héritier direct ", puis le " retour de fief au seigneur par défaut de succession ou confiscation ".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (318,0,'jpilla','jus peut renvoyer à la justice (cf. " ester en droit "), lex à la cour de justice ; la formulation serait alors plutôt redondante. On ne voit précisément quels sens plus précis et complémentaires, voire antagonistes, donner aux deux mots (lex aux modes de preuve traditionnels, par opposition à jus).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,303,14,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,304,0,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,305,19,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,306,24,45);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,307,8,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,308,0,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,309,25,51);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,310,7,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,311,0,44);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,312,35,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,313,36,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,314,10,56);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,315,19,50);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,316,14,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,317,2,56);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,318,0,50);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,303,59,67);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,304,188,196);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,305,280,291);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,306,435,453);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,307,619,628);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,308,629,634);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,309,655,663);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,310,1400,1414);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (42,311,1415,1454);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,312,35,43);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,313,145,152);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,314,231,238);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,315,355,362);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,316,454,472);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,317,494,501);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (42,318,997,1028);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (319,0,'jpilla','Nicolas d’Ermenonville est déjà attesté comme " receveur de Toulouse " en 1290. Même qualifiées du seul nom de la ville, les fonctions de receveur et de trésorier s’étendent à toute la sénéchaussée ; comme le rattachement direct au nom du roi, cette formulation (qui n’a rien à voir avec une fonction municipale) insiste sur la non-subordination au sénéchal.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (320,0,'jpilla','Guilhem de Pezens (Aude, cant. Alzonne) et ses fils apparaissent dans les comptes conservés du règne de Philippe le Bel pour leur participation quasi professionnelle à de multiples campagnes militaires dans le Midi (Comptes royaux, 1285-1314, éd. R. Fawtier), mais aussi en Flandre, pour l’ost de 1299 (Journaux du Trésor de Philippe IV, éd. J. Viard).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (321,0,'jpilla','Guilhem de Pezens (Aude, cant. Alzonne) et ses fils apparaissent dans les comptes conservés du règne de Philippe le Bel pour leur participation quasi professionnelle à de multiples campagnes militaires dans le Midi (Comptes royaux, 1285-1314, éd. R. Fawtier), mais aussi en Flandre, pour l’ost de 1299 (Journaux du Trésor de Philippe IV, éd. J. Viard).');
@@ -788,29 +832,30 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (336,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (337,0,'jpilla','Blain ou Blaise Loup, sénéchal d’Albigeois et de Toulouse, est qualifié d’" ancien sénéchal de Toulouse " dès le 19 février 1304. Il joua un rôle essentiel lors de la conquête et de l’occupation de la Gascogne, comme " capitaine ", supervisant les opérations.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (338,0,'jpilla','Le calcul du trésorier est juste...  à 3 deniers près, au bénéfice des caisses publiques. La dette totale est en effet de (1970 £ 13 s. 11 d. + 354 £ =) 2324 £ 13 s. 11 d. Défalcation faite du premier versement (1162 £ 6 s. 10 d.), resteraient donc à payer 1162 £ 7 s. 1 d. Autre façon de présenter les choses, la moitié exacte de la somme due était de 1162 £ 6 s. 11 d. obole (obole = 1/2 d.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (339,0,'jpilla','Le millésime ne peut être exprimé que dans le style (capétien) de Pâques ; la conversion 1304 (nouveau style) cadre d’ailleurs avec la titulature de l’ancien sénéchal de Toulouse, qui était encore en fonctions au tout début 1304.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,319,3,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,320,16,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,321,0,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,322,23,58);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,323,20,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,324,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,325,1,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,326,10,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,327,0,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,328,0,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,329,4,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,330,0,29);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,331,23,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,332,28,54);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,333,11,54);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,334,25,53);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,335,0,21);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,336,21,57);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,337,22,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,338,0,54);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,339,0,23);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,319,54,78);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,320,289,311);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,321,312,321);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,322,417,441);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,323,527,536);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,324,537,555);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,325,675,692);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,326,713,722);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,327,762,774);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,328,1149,1169);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,329,1487,1514);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (43,330,1515,1543);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,331,23,45);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,332,189,206);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,333,283,298);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,334,352,367);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,335,439,446);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,336,461,469);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,337,520,531);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,338,826,843);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (43,339,1045,1067);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (340,0,'jpilla','Le diocèse de Verdun était divisé en quatre archidiaconés : d Argonne, de Woëvre, de La Rivière et de la Princerie ( archidiaconus primus = major), qui englobait la cité elle-même et était le plus élevé en dignité.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (341,0,'jpilla','Verdun (Meuse, ch.-l. arr.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (342,0,'jpilla',' "Fiable" (= à qui l’on accorde foi) est spécialement utilisé pour caractériser des notaires-jurés d’officialité.');
@@ -838,37 +883,39 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (362,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (363,0,'jpilla','Manheulles (Meuse, cant. Fresne-en-Woëvre).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (364,0,'jpilla','Blanzée (Meuse, cant. Étain).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (365,0,'jpilla','En 1317, la Saint-Nicolas d’hiver (fêtée le 6 décembre) tombe un mardi ; le samedi qui suit est donc le 10 décembre 1317.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,340,43,69);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,341,85,91);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,342,268,275);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,343,446,455);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,344,457,466);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,345,720,726);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,346,825,833);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,347,837,858);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,348,966,971);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,349,1187,1197);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,350,1230,1238);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,351,1252,1258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,352,1582,1596);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,353,50,68);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,354,84,90);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,355,242,252);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,356,379,387);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,357,389,395);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,358,609,614);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,359,691,708);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,360,712,724);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,361,828,833);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,362,1035,1044);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,363,1070,1080);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,364,1097,1104);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,365,1360,1373);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,340,0,41);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,341,41,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,342,34,51);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,343,4,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,344,14,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,345,7,52);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,346,9,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,347,0,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,348,19,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,349,27,41);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,350,11,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,351,32,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (44,352,4,21);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,353,0,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,354,33,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,355,29,55);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,356,0,9);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,357,9,54);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,358,0,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,359,29,49);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,360,0,14);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,361,42,56);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,362,31,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,363,13,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,364,39,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (44,365,25,55);
+------------------------------------------
 ------------------------------------------
 --========================================
-------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (366,0,'jpilla','Les " gens des comptes " ou, comme dit le roi, les " gens de nos comptes " (lat. gentes compotorum) ont gardé leur appellation primitive même après l’institutionnalisation de la chambre des comptes, qu’ils ont peuplée en 1320 ; leur compétence, d’abord étendue à toutes les finances, s’était réduite au contrôle des comptes et de la gestion du domaine.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (367,0,'jpilla','Alors que s’étaient distingués généraux des finances (officiers créés en 1356 pour centraliser les aides) et trésoriers (apparus en 1295 pour organiser les mouvements de fonds et veiller, avec les gens des comptes, à la gestion du domaine), la réformation de l’administration en 1418, sous influence bourguignonne, vint confier aux mêmes agents centraux (generaulz), à la fois permanents (gouverneurs) et temporaires (commissaires), toutes les finances, ordinaires et extraordinaires, dans tout le royaume et non dans des circonscriptions territoriales (tant en Langue d’oïl comme en Langue d’oc).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (368,0,'jpilla','Rouages essentiels dans l’administration du bailliage ou de la sénéchaussée, le receveur centralise la gestion financière tandis que le procureur représente les intérêts du roi à la cour du bailli ou du sénéchal. Épaulant ce dernier, ces deux officiers échappent toutefois à sa tutelle pour être directement rattachés au roi.');
@@ -885,23 +932,24 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (378,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (379,0,'jpilla','La longue énumération des " fiefs " [fiefs-rentes, mais aussi pensions et rentes à des particuliers] et " aumônes " [rentes aumônées à des maisons religieuses et établissements d’assistance mais aussi à des serviteurs âgés ou à leurs veuves], des " gages d’officiers ", des " réparations " [entretien des bâtiments et ouvrages royaux] et " autres charges " n’est pas laissée au hasard : elle reprend les principales rubriques des comptabilités ordinaires des circonscriptions royales.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (380,0,'jpilla','Greffier de la Chambre des comptes, notaire et secrétaire du roi, Jean Le Bègue exerça de 1407 à sa mort en 1456. Sa signature a souvent été lue à tort " Lexque ", " Lergue " ou " Leeque ", mais il faut y distinguer à la fois "Le" et "B" : le "L" est conjoint avec la première partie du "B", et le "e" est enclavé dans sa panse inférieure. Le paraphe qui suit est typique des signatures de notaires et secrétaires du roi.');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,366,4,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,367,7,82);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,368,29,59);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,369,26,60);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,370,6,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,371,28,40);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,372,27,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,373,38,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,374,42,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,375,31,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,376,0,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,377,3,53);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,378,3,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,379,6,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,380,0,9);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,366,4,20);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,367,77,132);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,368,283,304);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,369,379,403);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,370,631,641);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,371,654,663);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,372,761,768);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,373,773,777);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,374,790,798);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,375,970,978);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,376,979,996);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,377,1280,1290);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,378,1369,1393);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,379,2082,2108);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (46,380,2423,2431);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (381,0,'jpilla','Le qualificatif de  vénérables frères  est réservé par le pape, évêque de Rome, aux autres évêques ; toutes les autres personnes citées sont des  fils  (mais, attention, la formule stéréotypée  de consilio fratrum nostrorum  peut accompagner la mention d’une décision prise en consistoire et donc désigner les cardinaux).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (382,0,'jpilla','La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (383,0,'jpilla','La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257.');
@@ -910,15 +958,16 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (384,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (385,0,'jpilla','Le qualificatif de  vénérables frères  est réservé par le pape, évêque de Rome, aux autres évêques ; toutes les autres personnes citées sont des  fils  (mais, attention, la formule stéréotypée  de consilio fratrum nostrorum  peut accompagner la mention d’une décision prise en consistoire et donc désigner les cardinaux).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (386,0,'jpilla','La longue périphrase qui suit est la désignation quasi officielle, dans les lettres pontificales, de ce qui deviendra le  collège de Sorbon/Sorbonne , après la mort de son fondateur, Robert de Sorbon. Celui-ci, originaire du village de Sorbon dans les Ardennes (cant. Rethel), chanoine de Paris et clerc du roi, proviseur du collège, est alors bien vivant. La fondation a ouvert ses portes en 1257.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (387,0,'jpilla','La rue aux Portes débouchait sur les anciens termes romains de Paris (emplacement actuel de l’Hôtel de Cluny).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,381,0,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,382,32,49);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,383,0,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,384,6,37);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (47,385,0,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (47,386,22,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (47,387,8,51);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,381,57,74);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,382,224,241);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,383,242,250);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (47,384,335,349);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (47,385,52,75);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (47,386,219,234);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (47,387,358,372);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (388,0,'jpilla','discretus vir : Titre de courtoisie, mot à mot " homme qui a du discernement " (donc, par défaut, qui n’est pas noble, nobilis vir).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (389,0,'jpilla','discretus vir : Titre de courtoisie, mot à mot " homme qui a du discernement " (donc, par défaut, qui n’est pas noble, nobilis vir).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (390,0,'jpilla','magister : Le titre de " maître " peut renvoyer à plusieurs réalités de qualification professionnelle ; il est ici très vraisemblablement lié à la détention d’un grade obtenu dans une école de droit.');
@@ -940,28 +989,29 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (404,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (405,0,'jpilla','P. : Pierre de Montbrun, archevêque de Narbonne de 1272 à 1286.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (406,0,'jpilla','prelati : Le terme de " prélat " (" placé au dessus ") semble désigner ici de façon assez vague le groupe de tous ceux qui ont des responsabilités, un pouvoir de gestion et de juridiction au sein des diocèses : archidiacres, doyens de chrétienté, supérieurs de maisons religieuses. Le terme de " pères " est plus lâche encore, qui désigne tous les participants du concile (" pères conciliaires "). La double expression semble indiquer que ce concile provincial ne réunissait que le haut de la hiérarchie, à la différence des conciles diocésains qui en principe regroupent aussi tous les curés.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (407,0,'jpilla','date : En 1277, la Pentecôte tombe le dimanche 16 mai ; l’acte est donc du mercredi 19 mai 1277.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,388,2,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,389,0,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,390,14,50);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,391,50,62);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,392,0,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,393,0,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,394,2,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,395,3,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,396,8,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,397,3,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,398,4,16);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,399,29,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,400,0,13);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,401,13,24);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,402,24,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,403,32,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,404,11,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,405,12,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,406,0,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,407,0,33);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,388,444,463);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,389,464,478);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,390,479,506);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,391,516,527);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,392,529,568);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,393,620,630);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,394,821,935);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,395,1050,1052);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,396,1428,1444);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,397,2020,2023);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (48,398,2313,2324);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,399,222,239);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,400,240,246);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,401,254,264);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,402,266,273);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,403,275,283);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,404,395,498);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,405,540,542);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,406,769,776);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (48,407,1214,1223);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (408,0,'jpilla','Pierre de Ferrières fut sénéchal de Saintonge de 1321 à 1324, après avoir été sénéchal de Rouergue.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (409,0,'jpilla','La titulature du roi dans ses actes et sur ses sceaux est toujours, par tradition, rex Francorum ; les contemporains transposent plus volontiers la formule vernaculaire en rex Francie ; les actes de l’administration royale hésitent entre les deux formes, quand elles ne sont pas abrégées. - Les fils de Philippe le Bel, de 1314 à 1328, ont pris régulièrement le titre complémentaire de roi de Navarre.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (410,0,'jpilla','L’Angoumois, acquis par le roi en 1303, ne constitua une sénéchaussée indépendante de la Saintonge qu’à compter des années 1330. Plus bas, le roi ne qualifie le sénéchal que de sénéchal de Saintonge parce que l’action visée ne concerne que cette circonscription.');
@@ -986,34 +1036,36 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (427,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (428,0,'jpilla','" Allouer " signifie " placer " une dépense dans la ligne comptable, autrement dit autoriser sa présence, et par là même la ratifier comme venant en déduction des recettes. L’expression renvoie aux temps où c’étaient les clercs du roi, et non les comptables jugés, qui élaboraient les comptes écrits sur déclaration de ces derniers.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (429,0,'jpilla','Loches (Indre-et-Loire, ch.-l. arr.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (430,0,'jpilla','La Saint-Martin d’hiver, où l’on commémore l’inhumation du saint à Tours, est célébrée le 11 novembre. En 1321, elle tombe un mercredi ; l’acte est donc du dimanche 15 novembre.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,408,0,28);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,409,77,103);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,410,191,213);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,411,215,230);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,412,260,271);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,413,431,446);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,414,489,507);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,415,1014,1078);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,416,1276,1284);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,417,1723,1730);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,418,2367,2415);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,419,0,19);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,420,56,79);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,421,114,123);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,422,127,144);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,423,164,174);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,424,258,264);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,425,289,297);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,426,600,608);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,427,609,617);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,428,620,627);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,429,995,1001);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,430,1374,1394);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,408,0,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,409,0,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,410,7,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,411,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,412,21,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,413,6,40);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,414,2,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,415,4,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,416,9,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,417,28,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (49,418,1,50);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,419,0,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,420,4,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,421,15,27);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,422,27,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,423,19,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,424,17,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,425,2,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,426,38,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,427,0,11);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,428,11,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,429,44,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (49,430,0,46);
+------------------------------------------
 ------------------------------------------
 --========================================
-------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (431,0,'jpilla','Issu du grand lignage génois Fieschi, Innocent IV a été élu pape le 25 juin 1243, et consacré le 28 juin 1243.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (432,0,'jpilla','La chancellerie apostolique réserve le terme de « frères » aux évêques (mais la mention d’une décision prise « de consilio fratrum nostrorum » renvoie aux cardinaux) ; tous les autres destinataires et bénéficiaires sont des « fils », presque toujours « chers » (« très chers » pour les souverains).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (433,0,'jpilla','La lettre est adressée impersonnellement au roi de France, ce que soulignent les deux points qui précèdent le nom. Il s’agit, daprès la date, de Louis IX.');
@@ -1028,21 +1080,22 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (440,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (441,0,'jpilla','Beaucaire (Gard, ch.-l. cant.) : l’une des deux sénéchaussées royales du Midi depuis les acquisitions territoriales de la royauté, sanctionnées en 1229.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (442,0,'jpilla','L’identification des marchands génois est inégalement assurée. Les Spinola sont célèbres et San Ginesio est une paroisse de la ville. De rapides recherches n’ont fourni aucun résultat pour Johannes Dalmatii et seulement un hypothétique rapprochement du nom mutilé du troisième marchand avec celui de la famille Stancone.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (443,0,'jpilla','Lagny-sur-Marne (Seine-et-Marne, ch.-l. cant.) était lune des quatre villes accueillant le cycle annuel des six foires de Champagne. La foire y était ouverte le jour des Saints-Innocents puis, à compter du XIIIe siècle, le 2 janvier ; close le lundi avant la mi-carême, elle durait donc, selon les années, de sept à onze semaines. Les marchands italiens y étaient particulièrement nombreux.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,431,0,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,432,6,15);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,433,15,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,434,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,435,12,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,436,6,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,437,28,63);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,438,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,439,29,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,440,11,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,441,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,442,0,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,443,0,6);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,431,0,11);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,432,101,106);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,433,111,115);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,434,116,123);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,435,808,819);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,436,971,989);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (51,437,994,1016);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,438,0,8);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,439,71,75);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,440,98,111);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,441,767,776);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,442,928,945);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (51,443,1014,1019);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (444,0,'jpilla','Renneville, siège de la commanderie de Saint-Étienne de Renneville (auj. Ferme de la Commanderie), sur la commune de Sainte-Colombe-la-Campagne, renommée en 1969 Sainte-Colombe-la-Commanderie (Eure, cant. Évreux-nord).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (445,0,'jpilla','La masura est une tenure ; noter qu’ici sa localisation laisse supposer qu’elle forme un ensemble compact.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (446,0,'jpilla','com est une forme de cum fréquente dans les textes normands.');
@@ -1063,27 +1116,28 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (459,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (460,0,'jpilla','Combon (Eure, cant. Beaumont-le-Roger), 4 km à l’ouest de Sainte-Colombe-la-Commanderie.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (461,0,'jpilla','Les tournois, à l’origine deniers de Tours, sont devenus, aux côtés des parisis, l’un des grands monnayages capétien depuis la conquête des dominations plantagenet par Philippe Auguste. Comme seuls les denier sont frappés, on parle, au moins en latin, de " livres de [deniers] tournois ".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (462,0,'jpilla','indemnis renvoie à l’idée de dommage (damnum), dont on est exempt (" indemne ") ou non responsable. Ici appliqué à la personne du vendeur et de ses héritiers, il peut être mis en rapport avec les formules d’autres actes, qui insistent plus clairement sur le fait qu’avoir transféré la concession, en dédommagement, sur un nouveau bien ne supprime en rien les obligations d’abord faites sur le bien d’origine.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,444,1,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,445,1,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,446,17,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,447,1,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,448,0,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,449,0,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,450,4,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,451,3,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,452,0,15);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,453,17,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,454,4,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,455,23,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,456,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,457,17,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,458,0,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,459,19,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,460,20,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,461,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,462,19,39);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,444,427,436);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,445,483,499);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,446,500,512);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,447,580,586);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,448,683,709);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,449,744,765);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,450,895,919);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,451,1034,1054);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (52,452,2236,2246);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,453,262,272);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,454,293,299);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,455,312,323);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,456,332,338);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,457,391,418);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,458,419,422);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,459,482,495);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,460,530,536);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,461,587,595);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (52,462,1262,1282);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (463,0,'jpilla','Robert II dit le Sage, petit-fils de Charles Ier d’Anjou (+ 1285), roi de 1309 à 1343.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (464,0,'jpilla','Le titre de roi de Jérusalem est pris par les membres de la dynastie angevine depuis que Charles Ier a acheté les prétentions de Marie d’Antioche en 1277. Depuis la chute d’Acre en 1291, le royaume n’avait plus de base territoriale.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (465,0,'jpilla','Le « royaume de Sicile » couvrait la Sicile insulaire et le sud de l’Italie continentale, unies sous la domination des Normands puis des Staufen. Charles Ier en avait été investi par la papauté en 1265. En 1282, les Vêpres et l’invasion aragonaise avaient très vite chassé les Angevins de la Sicile insulaire ; les historiens ont pris l’habitude de les appeler « rois de Naples ».');
@@ -1117,40 +1171,41 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (491,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (492,0,'jpilla','Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (493,0,'jpilla','L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (494,0,'jpilla','Portée au verso de la queue, le mot semble avoir été écrit avant scellement, comme une sorte de visa : « [Le] sceau [peut être apposé] ».');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,463,0,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,464,16,43);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,465,0,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,466,16,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,467,0,6);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,468,0,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,469,0,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,470,30,57);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,471,0,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,472,8,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,473,0,12);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,474,0,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,475,9,44);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,476,13,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,477,0,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,478,27,34);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,479,0,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,480,0,15);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,481,15,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,482,34,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,483,19,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,484,0,11);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,485,11,28);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,486,28,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,487,0,28);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,488,28,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,489,0,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,490,10,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,491,23,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,492,14,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,493,13,24);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,494,27,33);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,463,0,8);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,464,34,61);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,465,74,81);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,466,91,97);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,467,122,127);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,468,129,147);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,469,185,204);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,470,216,243);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,471,244,252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,472,253,263);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,473,363,369);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,474,450,456);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,475,2219,2252);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,476,2308,2321);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,477,2503,2523);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (53,478,2609,2615);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,479,0,6);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,480,36,45);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,481,52,58);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,482,72,79);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,483,99,105);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,484,116,124);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,485,128,139);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,486,146,153);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,487,159,184);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,488,188,196);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,489,246,250);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,490,299,306);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,491,1512,1523);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,492,1539,1551);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,493,1644,1653);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (53,494,1749,1754);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (495,0,'jpilla','L’Estellou, Hautes-Pyrénées, cant. Tarbes, comm. Vielle-Adour.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (496,0,'jpilla','Le titre de " maître " renvoie sans doute ici à la détention d’un grade universitaire.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (497,0,'jpilla','Pontiacq, Pyrénées-Atlantiques, cant. Montaner.');
@@ -1173,29 +1228,30 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (512,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (513,0,'jpilla','Les " enchères " (incherie) sont l’une des rubriques courantes du chapitre des dépenses dans les comptabilités de sénéchaussées méridionales de l’époque. Elles renvoient au fait que, lors de l’affermage de diverses sources de revenus ordinaires du domaine royal, on procédait d’abord à une mise aux enchères, puis à une surenchère, laissée ouverte durant quelques semaines. Une partie du surplus dégagé par la surenchère (recette royale, enregistrée à la section des " fermes ") était versée, à titre de dédommagement, à l’enchérisseur primitif ainsi débouté (dépense royale).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (514,0,'jpilla','Annonciation : 25 mars.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (515,0,'jpilla','Comprendre 1322 (nouv. st.), puisque la Bigorre suivait le style de l’Annonciation florentine.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,495,0,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,496,16,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,497,1,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,498,22,45);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,499,1,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,500,0,9);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,501,9,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,502,0,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,503,19,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,504,24,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,505,13,34);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,506,0,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,507,29,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,508,13,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,509,26,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,510,5,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,511,13,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,512,7,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,513,0,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,514,12,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,515,17,40);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,495,59,65);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,496,148,165);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,497,187,195);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,498,403,423);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,499,452,465);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,500,505,512);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,501,551,569);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,502,570,577);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,503,614,623);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,504,1730,1771);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (54,505,1815,1827);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,506,35,45);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,507,109,115);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,508,129,137);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,509,266,274);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,510,287,304);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,511,333,340);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,512,371,391);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,513,401,409);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,514,1056,1068);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (54,515,1103,1107);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (516,0,'jpilla','L’ordinal n’est donné que par la bulle de plomb. En l’absence de celle-ci, il faudrait croiser itinéraire pontifical, traits paléographiques et diplomatiques, données historiques enfin pour attribuer la lettre à Clément VI.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (517,0,'jpilla','Les Trinitaires ont été introduits à Paris en 1229, date à laquelle l’évêque Guillaume d’Auvergne leur confia un hôpital en ruine, près des Thermes ; la chapelle en était dédiée à saint Mathurin, dont le nom fut pris par le couvent, puis attribué par l’usage aux frères, dits « Mathurins ».');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (518,0,'jpilla','L’ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d’Islam.');
@@ -1208,35 +1264,38 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (523,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (524,0,'jpilla','L’ordre des Trinitaires (ordo sancte Trinitatis et captivorum/pro redemptione captivorum) a vu ses bases jetées par Jean de Matha vers 1195. Il était voué à la charité et tout spécialement au rachat des captifs chrétiens en terre d’Islam.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (525,0,'jpilla','Clément VI a été consacré le 19 mai 1342. La deuxième année de son pontificat courant du 19 mai 1343 au 18 mai 1344, l’acte est du 23 mars 1344.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (526,0,'jpilla','Mention hors-teneur indiquant le responsable du grossoiement de la lettre ; les deux personnages apparaissent régulièrement sur les lettres de l’époque ; la mention signale que le second a dû se substituer, pour une raison inconnue, au premier, qui avait été chargé du travail par la chancellerie.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,516,0,7);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,517,106,121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,518,144,158);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,519,159,169);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,520,1420,1432);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,521,1554,1557);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,522,0,7);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,523,111,125);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,524,141,167);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,525,1318,1329);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,526,1451,1455);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,516,0,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,517,0,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,518,24,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,519,0,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,520,14,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (55,521,28,44);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,522,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,523,20,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,524,12,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,525,11,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (55,526,27,44);
+------------------------------------------
 ------------------------------------------
 --========================================
-------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (527,0,'jpilla','Jean de Dainville sera sous le règne de Charles V un conseiller influent, maître d’hôtel du roi. Il appartient à un lignage chevaleresque picard bien représenté dans l’Université et au Parlement.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (528,0,'jpilla','Longchamps (Eure, cant. Étrépagny).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (529,0,'jpilla','Lyons-la-Forêt (Eure, ch.-l. cant.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (530,0,'jpilla','" Mettre au delivre " : remettre, accorder la libre jouissance, alors qu’un obtacle a surgi ou pourrait surgir.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (531,0,'jpilla','Cette lettre ne peut avoir été écrite par Jean II le Bon que durant sa  première captivité à Londres (mai 1357-juin 1360), à la suite de la défaite de l’armée française à Poitiers en 1356, puisque son second séjour à Londres n’a duré que du 3 janvier au 8 avril 1364, date de sa mort. On peut donc proposer la date du 19 juillet 1357, 1358 ou 1359.');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,527,12,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,528,8,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,529,32,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,530,62,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,531,8,23);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,527,109,127);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,528,192,200);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,529,217,222);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,530,631,648);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (57,531,1186,1193);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (532,0,'jpilla','Guillaume de Passavant, évêque du Mans (1143-1187).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (533,0,'jpilla','Gorron, Mayenne, ch.-l. cant.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (534,0,'jpilla','La Méhélée (Mayenne, cant. Ernée, comm. Montenay).');
@@ -1254,24 +1313,25 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (544,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (545,0,'jpilla','La pitance est une distribution alimentaire faite aux membres d’une communauté. Le contexte renvoie ici à la fondation d’un service anniversaire, auquel les revenus de la terre donnée sont en tout ou en partie affectés.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (546,0,'jpilla','La charité, souvent citée dans un tel contexte, et surtout chez les cisterciens et prémontrés, renvoie au versement d’une somme en échange d’un don, dont ni le montant ni le processus, manifestation d’amour mutuel, n’ont à voir avec une "vente".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (547,0,'jpilla','Nicolas, doyen du chapitre cathédral Saint-Julien du Mans de 1180 à 1214, date à laquelle il devient évêque du Mans.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,532,0,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,533,3,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,534,12,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,535,38,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,536,9,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,537,21,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,538,0,8);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,539,0,15);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,540,0,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,541,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,542,22,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,543,2,22);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,544,22,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,545,23,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,546,27,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,547,8,41);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,532,0,19);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,533,290,296);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,534,439,450);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,535,466,473);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,536,484,493);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,537,497,506);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,538,1071,1079);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (58,539,1991,2000);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,540,0,9);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,541,218,224);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,542,359,369);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,543,378,383);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,544,399,406);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,545,516,523);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,546,752,759);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (58,547,1302,1309);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (548,0,'jpilla','Henri II Plantagenet arrache de haute lutte la succession de la dynastie normande d’Angleterre fondée par Guillaume le Conquérant, dont il descend par sa mère. Comte d’Anjou, il est reconnu comme duc de Normandie en 1151, duc d’Aquitaine en 1152, roi d’Angleterre en 1154. Il meurt en 1189.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (549,0,'jpilla','Ce n’est que sous Jean sans Terre que les ethniques seront remplacés dans la titulature des rois anglais par les noms de pays (Anglie, Normannie, etc.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (550,0,'jpilla','Saint-Père-en-Vallée à Chartres, abbaye bénédictine.');
@@ -1306,41 +1366,42 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (577,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (578,0,'jpilla','Guillaume de Courcy (Calvados, cant. Morteaux-Couliboeuf), sénéchal de Normandie, assista en 1164 au concile de Clarendon.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (579,0,'jpilla','Renaud de Courtenay, peut-être descendant du roi capétien Philippe Ier.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (580,0,'jpilla','Verneuil-sur-Avre, Eure, ch.-l. cant.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,548,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,549,21,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,550,0,51);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,551,2,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,552,0,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,553,10,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,554,3,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,555,0,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,556,6,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,557,0,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,558,0,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,559,6,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,560,12,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,561,3,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,562,0,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,563,2,21);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,564,0,13);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,548,0,17);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,549,22,39);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,550,328,379);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,551,748,764);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,552,1108,1118);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,553,1131,1141);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,554,1181,1189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,555,1209,1225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,556,1272,1289);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,557,1318,1334);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,558,1377,1393);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,559,1439,1456);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,560,1469,1486);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,561,1520,1537);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,562,1548,1566);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (59,563,1637,1655);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,564,0,5);
 INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,565,13,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,566,10,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,567,0,22);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,568,13,24);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,569,11,24);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,570,0,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,571,14,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,572,8,25);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,573,10,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,574,10,25);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,575,11,21);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,576,0,21);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,577,0,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,578,0,20);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,579,0,20);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,580,9,18);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,566,167,180);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,567,181,189);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,568,403,408);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,569,670,677);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,570,684,695);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,571,722,730);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,572,740,746);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,573,768,775);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,574,792,798);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,575,819,826);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,576,849,858);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,577,871,880);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,578,895,904);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,579,916,922);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (59,580,971,979);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (581,0,'jpilla','Louis VII, roi de France de 1137 à 1180, duc d’Aquitaine du chef de son épouse Aliénor de 1137 à 1152.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (582,0,'jpilla','Adélaïde de Maurienne, épouse du roi Louis VI depuis 1115, mère de Louis VII, morte en 1154.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (583,0,'jpilla','Adelende la Gente, l’une des quelques laïques non nobles parmi les mieux connus de l’entourage royal. Épouse d’Obizon, médecin de Louis VI, dont elle est séparée par jugement royal quand celui-ci entre dans les ordres (il sera chanoine de Notre-Dame et de Saint-Victor), elle appartient sans doute à l’entourage de la reine Adélaïde. Sa fille homonyme est aussi connue par quelques actes.');
@@ -1367,33 +1428,34 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (602,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (603,0,'jpilla','Le chambrier Hugues, déjà en fonction sous Louis VI, disparaît des actes avant le 2 avril 1138. Il dirige la «chambre», ce qui l’amène à garder le trésor comme la personne du roi.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (604,0,'jpilla','La formule de «délivrance par la main» du chancelier apparaît dans les diplômes royaux à compter de 1108 et s’impose à compter des années 1112/1113 ; elle n’est guère plus qu’un décalque de la formule de «grande date» des actes pontificaux.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (605,0,'jpilla','Algrin a déjà été chancelier sous Louis VI, en 1127-1128 sans le titre, en 1132, puis à la fin du règne, et le demeure jusqu’en 1140. Il a été, avec plus de suite, chancelier de l’église cathédrale de Paris de 1124 à sa mort en 1156/1157.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,581,4,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,582,0,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,583,16,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,584,0,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,585,0,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,586,1,47);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,587,5,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,588,10,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,589,5,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,590,1,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,591,5,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,592,23,30);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,593,0,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,594,28,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,595,3,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,596,0,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,597,0,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,598,33,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,599,0,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,600,9,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,601,25,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,602,21,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,603,9,26);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,604,0,20);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,605,20,40);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,581,39,49);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,582,357,366);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,583,543,552);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,584,690,699);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,585,1208,1227);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,586,2341,2387);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,587,2489,2496);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,588,2590,2598);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,589,2637,2644);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,590,2676,2683);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,591,2707,2725);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (60,592,2726,2733);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,593,39,44);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,594,238,246);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,595,339,347);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,596,461,470);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,597,502,508);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,598,1519,1528);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,599,1529,1544);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,600,1613,1618);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,601,1668,1677);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,602,1700,1706);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,603,1729,1735);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,604,1753,1770);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (60,605,1773,1779);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (606,0,'jpilla','Le "fief presbytéral" désigne ce dont le prêtre de paroisse est investi pour vivre, le "manse presbytéral" des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (607,0,'jpilla','Le "fief presbytéral" désigne ce dont le prêtre de paroisse est investi pour vivre, le "manse presbytéral" des temps carolingiens, soit la dotation de l’église (ici à la disposition d’un patron laïque, qui finit par s’en défaire) ; dans certains textes, l’expression englobe les revenus perçus par le prêtre dans l’exercice des ses fonctions (part des offrandes, etc.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (608,0,'jpilla','Adémar, évêque d’Angoulême (1076-1101).');
@@ -1426,39 +1488,40 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (633,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (634,0,'jpilla','Philippe Ier, roi de France de 1060 à 1108.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (635,0,'jpilla','Guillaume le Jeune, VIIe comte de Poitou et IXe duc d’Aquitaine de 1086/1087 à 1127.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (636,0,'jpilla','Pierre II, évêque de Poitiers de 1087 à 1115.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,606,5,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,607,0,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,608,17,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,609,1,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,610,16,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,611,0,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,612,0,43);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,613,0,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,614,4,23);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,615,9,17);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,616,7,49);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,617,3,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,618,7,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,619,10,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,620,14,39);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,621,14,39);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,622,21,45);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,623,19,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,624,15,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,625,24,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,626,15,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,627,14,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,628,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,629,24,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,630,0,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,631,18,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,632,0,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,633,14,44);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,634,16,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,635,8,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,636,0,41);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,606,184,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,607,190,239);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,608,302,309);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,609,490,507);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,610,706,717);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,611,759,779);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,612,902,916);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,613,1174,1183);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,614,1372,1387);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,615,1580,1588);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,616,1744,1786);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,617,2452,2455);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,618,2647,2654);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,619,2747,2757);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,620,2777,2795);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (61,621,2817,2822);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,622,164,182);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,623,255,261);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,624,386,393);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,625,525,535);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,626,560,566);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,627,645,650);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,628,853,864);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,629,996,1015);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,630,1233,1240);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,631,1296,1319);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,632,1784,1788);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,633,1906,1912);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,634,1998,2006);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,635,2025,2034);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (61,636,2060,2066);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (637,0,'jpilla','Aix-en-Diois (Drôme, cant. Die).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (638,0,'jpilla','Châtillon-en-Diois (Drôme, ch.-l. cant.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (639,0,'jpilla','Berthaud ou Bertaud, chartreuse (Hautes-Alpes, cant. Gap-Campagne, comm. Rabou).');
@@ -1484,43 +1547,45 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (657,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (658,0,'jpilla','Rocha : La Roche-des-Arnauds (Hautes-Alpes, cant. Gap-Campagne), siège d’une commanderie templière.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (659,0,'jpilla','Jarjayes (Hautes-Alpes, cant. Tallard).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (660,0,'jpilla','La Piarre (Hautes-Alpes, cant. Serres).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,637,13,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,638,20,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,639,7,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,640,3,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,641,10,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,642,21,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,643,1,12);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,644,0,6);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,645,9,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,646,4,15);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,647,3,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,648,1,22);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,649,19,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,650,37,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,651,33,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,652,3,60);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,653,44,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,654,16,53);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,655,36,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,656,0,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,657,29,49);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,658,43,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,659,0,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,660,22,50);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,637,185,190);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,638,220,232);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,639,447,464);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,640,741,773);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,641,1197,1208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,642,1256,1261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,643,1345,1354);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,644,1470,1476);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,645,1972,1984);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,646,2345,2350);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,647,2469,2476);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (62,648,2573,2587);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,649,119,124);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,650,138,147);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,651,281,289);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,652,446,456);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,653,701,709);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,654,726,734);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,655,800,809);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,656,841,846);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,657,1155,1161);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,658,1412,1420);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,659,1487,1495);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (62,660,1561,1570);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (661,0,'jpilla','Le texte offre des formes d’article féminin "li" qui alternent avec des formes "la".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (662,0,'jpilla','Les formes de pronom personnel sujet de personne 3  féminin relevées dans ce texte sont majoritairement "illi" (l. 22) mais on trouve aussi "illh" (voir aussi l. 6).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (663,0,'jpilla','Après "son",  une lettre "i" de remplissage de fin de ligne a été exponctuée par le scribe puis barrée d’un trait de plume.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (664,0,'jpilla','Le scribe, sur cette page, utilise "e" coordonnant devant un mot commençant par une consonne et l’abréviation "7" devant un mot commençant par une voyelle. Ailleurs dans le manuscrit il lui arrive d’utiliser "e" devant un mot commençant par une voyelle (f. 25 "e en caritat") et "7" devant un mot commençant par une consonne (f. 27v "7 par aisso"). Nous résolvons donc l’abréviation "7" par "e".');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,661,23,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,662,22,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,663,32,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,664,5,47);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,661,23,25);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,662,127,131);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,663,304,307);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (63,664,313,324);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (665,0,'jpilla','"no.l" = enclise de "lo" (pronom personnel régime direct faible, masculin singulier de personne 3) sur "non".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (666,0,'jpilla','"no.s" = enclise de "se" (pronom réfléchi singulier de personne 3) sur "non".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (667,0,'jpilla','"esperonan" = le manuscrit porte "esponan" qui ne peut correspondre à aucune forme attestée ; le sens ainsi que le compte des syllabes du vers autorisent à corriger "esperonan", en se fondant sur la leçon du manuscrit B. La « faute » "esponan" pour "esperonan" s’explique facilement en postulant à un stade antérieur de la tradition l’omission du signe abréviatif sous le « p » qui permet de noter "per".');
@@ -1539,34 +1604,38 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (679,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (680,0,'jpilla','"es" = "es" (pour la coordination "e" ou "et") est attesté par la pratique du scribe de A même devant consonne.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (681,0,'jpilla','La rime "mot" /"sanglotz" ne convient pas. C. Brunel  a résolu le problème en corrigeant "mot" en "motz" en s’appuyant sur la leçon du manuscrit B. Nous proposons de corriger "II sanglotz" en "un sanglot", le passage de un ("I") à deux ("II") pouvant avoir eu lieu lors d’une étape de la tradition manuscrite. On obtient alors une rime correcte "mot" / "sanglot" et pour la locution "sonar mot", une construction avec un singulier plus conforme aux habitudes syntaxiques de l’auteur : voir par exemple au v. 2673 : « Obri ! e om nul sona mot », ou au v. 3427 : « E Jaufre no a mot sonat ».');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,665,22,52);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,666,3,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,667,13,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,668,6,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,669,17,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,670,13,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,671,0,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,672,18,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,673,11,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,674,10,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,675,8,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,676,17,29);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,677,3,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,678,2,45);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,679,0,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,680,16,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,681,20,27);
 ------------------------------------------
-------------------------------------------
---========================================
-------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,665,22,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,666,82,106);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,667,307,318);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,668,496,500);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,669,725,730);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,670,782,786);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,671,821,828);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,672,901,903);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,673,923,949);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,674,971,996);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,675,1174,1176);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,676,1262,1264);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,677,1278,1283);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,678,1430,1457);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,679,1591,1616);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,680,1633,1635);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (64,681,1668,1675);
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
+------------------------------------------
 --========================================
 ------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (682,0,'jpilla','Châtillon-Guyotte (Doubs, cant. Roulans).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (683,0,'jpilla','Saint-Paul de Besançon, abbaye de bénédictins, fondée vers 624, chanoines réguliers depuis 1044.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (684,0,'jpilla','Saint-Paul de Besançon, abbaye de bénédictins, fondée vers 624, chanoines réguliers depuis 1044.');
@@ -1610,50 +1679,51 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (720,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (721,0,'jpilla','Dole (Jura, ch.-l. arr.), siège d’un prieuré clunisien, anc. dioc. de Besançon.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (722,0,'jpilla','Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l’année. La double mention, complétée de l’indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L’acte est donc du 24 juillet.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (723,0,'jpilla','Il existe plusieurs saints Jacques et plusieurs Christophe, parfois fêtés plusieurs fois dans l’année. La double mention, complétée de l’indication du mois, prouve que le scribe a voulu éviter toute ambiguïté : le jour visé est le 25 juillet, fête principale de saint Jacques le Majeur. L’acte est donc du 24 juillet.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,682,6,18);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,683,3,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,684,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,685,0,45);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,686,1,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,687,9,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,688,16,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,689,0,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,690,16,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,691,0,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,692,7,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,693,14,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,694,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,695,0,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,696,1,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,697,0,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,698,2,7);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,699,0,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,700,20,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,701,1,13);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,702,3,426);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,703,426,512);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,704,21,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,705,31,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,706,0,28);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,707,0,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,708,0,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,709,0,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,710,0,31);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,711,10,27);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,712,0,27);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,713,0,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,714,12,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,715,12,36);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,716,21,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,717,21,30);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,718,0,26);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,719,18,28);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,720,0,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,721,26,34);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,722,27,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,723,0,33);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,682,120,131);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,683,481,506);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,684,507,512);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,685,616,654);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,686,1031,1048);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,687,1169,1180);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,688,1638,1649);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,689,2338,2343);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,690,2657,2669);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,691,2670,2691);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,692,3215,3231);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,693,3278,3283);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,694,3307,3323);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,695,4571,4597);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,696,4822,4842);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,697,4843,4874);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,698,4970,4976);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,699,4977,4991);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,700,5366,5380);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,701,5958,5962);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,702,6156,6543);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (68,703,6185,6244);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,704,52,61);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,705,235,241);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,706,242,246);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,707,308,316);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,708,479,487);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,709,547,555);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,710,749,758);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,711,1104,1108);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,712,1298,1320);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,713,1619,1627);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,714,1664,1670);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,715,1694,1701);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,716,2382,2386);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,717,2483,2493);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,718,2494,2505);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,719,2539,2548);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,720,2771,2776);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,721,3070,3074);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,722,3169,3175);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (68,723,3176,3208);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (724,0,'jpilla','Pierre de Monbrun, archevêque de Narbonne de 1272 à 1286.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (725,0,'jpilla','Saint-Pons-de-Thomières (Hérault, ch.-l. cant. ; abbaye de bénédictins, anc. dioc. de Narbonne ) ; son abbé est alors Raimond (1276 à 1309/1311).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (726,0,'jpilla','Quarante (Hérault, cant. Capestang ; abbaye de chanoines réguliers, anc. dioc. de Narbonne) ; son abbé est alors Bernard (1272-av. 1283).');
@@ -1681,34 +1751,35 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (746,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (747,0,'jpilla','Capestang (Hérault, ch.-l. cant.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (748,0,'jpilla','En 1277, la Saint-Barnabé (11 juin) tombe un vendredi ; la lettre est donc du 12 juin 1277.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (749,0,'jpilla','Mention typique, à compter du XIIIe siècle, à la fin de lettres circulant par porteur entre plusieurs destinataires. On pouvait aussi demander à ceux-ci d’apposer leur sceau en guise d’accusé de réception («  Reddite litteras sigillatas  »).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,724,0,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,725,42,101);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,726,101,119);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,727,119,130);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,728,130,151);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,729,151,167);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,730,167,194);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,731,194,259);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,732,259,278);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,733,278,353);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,734,353,370);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,735,370,416);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,736,416,452);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,737,0,139);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,738,139,169);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,739,169,184);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,740,184,198);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,741,198,221);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,742,221,240);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,743,240,476);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,744,476,1032);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,745,1032,1339);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,746,1339,1377);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,747,1377,1390);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,748,1390,1493);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,749,1493,1527);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,724,0,6);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,725,118,170);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,726,178,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,727,197,203);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,728,209,225);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,729,231,244);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,730,248,268);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,731,490,519);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,732,1277,1290);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,733,1794,1850);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,734,1933,1945);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,735,1951,1994);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (69,736,2111,2136);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,737,0,6);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,738,139,162);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,739,170,178);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,740,186,192);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,741,201,216);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,742,225,238);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,743,245,251);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,744,482,500);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,745,1039,1049);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,746,1347,1376);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,747,1386,1395);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,748,1400,1436);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (69,749,1504,1522);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (750,0,'jpilla','Goailles (Jura, comm. Salins), abbaye d’augustins dédiée à Notre-Dame (dioc. Besançon).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (751,0,'jpilla','Le terme de "cens" s’applique ici à une redevance annuelle payée à partir de ce moment, assise sur un bien immeuble, et en échange d’un versement ponctuel (ici au taux très normal de 12 pour 1). Il s’agit à l’évidence de ce que la langue d’aujourd’hui nomme une "rente".');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (752,0,'jpilla','Comprendre «  (em)portant (incluant) loux (droit de lods), loy (pouvoir légal) et seigneurie  ».');
@@ -1720,18 +1791,19 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (757,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (758,0,'jpilla','Le roi de France Philippe le Bel exerçait alors, de façon assez énergique, le bail de la Comté. Les institutions comtoises fonctionnent donc en son nom.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (759,0,'jpilla','Le nom est graphié «  Walguet  » dans l’autre acte de 1296 présenté sur le site ; on pourrait aussi transcrire «  Walgnet  » ou, plus vraisemblablement, «  Wargnet  ».');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,750,20,36);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,751,47,52);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,752,52,95);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,753,0,13);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,754,16,40);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,755,0,28);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,756,0,60);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,757,60,85);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,758,9,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,759,2,23);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,750,207,212);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,751,408,412);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,752,414,452);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,753,482,488);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,754,719,726);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,755,1190,1218);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,756,1219,1221);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,757,1309,1328);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,758,2545,2567);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (70,759,3235,3242);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (760,0,'jpilla','L’indiction 2e correspond bien à la plus grande partie de l’année 1304.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (761,0,'jpilla','Geoffroy de Lincel, évêque de Gap de 1289 à 1314.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (762,0,'jpilla','Gap (Hautes-Alpes, ch.-l. dép.).');
@@ -1758,33 +1830,34 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (781,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (782,0,'jpilla','Le Labéoux, devenu auj. «  la Béoux  », torrent, affluent du Petit Buëch, traversant les communes de La Cluse, Montmaur et Veynes (Hautes-Alpes).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (783,0,'jpilla','Brunsel (comm. Montmaur).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (784,0,'jpilla','Qualificatif savant, d’empreinte romaine, des praticiens du droit, passés par les écoles, mais en principe sans le doctorat.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,760,11,63);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,761,3,20);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,762,2,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,763,1,25);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,764,0,22);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,765,7,30);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,766,4,33);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,767,0,14);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,768,1,2);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,769,0,15);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,770,3,15);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,771,12,45);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,772,0,33);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,773,37,56);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,774,36,58);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,775,18,57);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,776,36,52);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,777,0,57);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,778,46,62);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,779,50,64);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,780,16,62);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,781,15,63);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,782,23,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,783,0,57);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,784,41,61);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,760,100,145);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,761,273,282);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,762,323,343);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,763,439,464);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,764,465,485);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,765,642,664);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,766,704,712);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,767,734,741);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,768,3651,3652);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,769,3653,3664);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,770,3887,3893);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,771,3912,3922);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (71,772,4027,4057);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,773,91,109);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,774,205,213);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,775,246,249);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,776,322,338);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,777,339,348);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,778,443,454);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,779,510,516);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,780,541,547);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,781,2596,2605);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,782,2856,2861);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,783,2885,2892);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (71,784,2984,2991);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (785,0,'jpilla','Les "tournois petits" sont des deniers tournois "tout court", deniers d’origine, ainsi dénommés lorsque l’on veut ôter tout rique de confusion avec les doubles tournois et les gros tournois.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (786,0,'jpilla','Villefranche-de-Rouergue, Aveyron, ch.-l. arr.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (787,0,'jpilla','Villeneuve, Aveyron, ch.-l. cant.');
@@ -1800,22 +1873,23 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (795,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (796,0,'jpilla','Pierre de La Palud, seigneur de Varambon (Ain, cant. Pont-d’Ain), attesté comme sénéchal de Toulouse et d’Albigeois de 1338 à 1342, fut nommé en août 1339 aux fonctions de lieutenant du roi en Languedoc, avec le titre de " capitaine et gouverneur général " ; à compter d’août 1340, il exerça cette charge conjointement à d’autres délégués du roi (Gallia regia, t. III, n° 13660-13661, et t. V, n° 21389).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (797,0,'jpilla','Le mot "taxatas" signifie qu’un montant, un taux a été fixé, et en même temps attribué par un supérieur (la famille étymologique a donné en français ausssi bien "taxe" que "taux").');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (798,0,'jpilla','D’après le contexte, la "taxatio"semble désigner ici l’acte par lequel les commissaires délégués en Rouergue ont fixé le montant dû au notaire, en se référant au taux d’indemnité journalière fixé dans un acte du capitaine-gouverneur.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,785,3,68);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,786,68,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,787,89,112);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,788,112,131);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,789,131,161);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,790,161,190);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,791,190,217);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,792,31,203);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,793,203,237);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,794,237,262);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,795,262,427);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,796,427,621);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,797,621,791);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,798,791,1047);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,785,346,393);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,786,652,665);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,787,692,702);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,788,715,732);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,789,1435,1460);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,790,2022,2038);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (72,791,2172,2199);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,792,235,250);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,793,408,420);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,794,443,453);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,795,469,476);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,796,876,894);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,797,1070,1076);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (72,798,1241,1249);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (799,0,'jpilla','Nunyo Sanche (Nunó Sanç en catalan), seigneur de Roussillon (1213 ?-1241/1242), cousin germain de Blanche de Castille, était issu d’une branche cadette des comtes de Barcelone. Il était vassal du roi d’Aragon pour le Roussillon, le Conflent, la Cerdagne et le Vallespir.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (800,0,'jpilla','Jacques (Jaume) Ier le Conquérant, roi d’Aragon (1213-1276), reprit les Baléares (1229-1235) et Valence (1238) sur les Sarrazins.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (801,0,'jpilla','Lorsque Jacques Ier, en 1228, proposa à ses vassaux d’aller reconquérir les Baléares, il fut décidé que les conquêtes seraient partagées entre les vainqueurs, qui les tiendraient en fief du roi, par l’entremise d’une commission où siégeait Nunyo Sanche. Lui-même obtint entre autres une partie de la ville de Majorque, tombée le 31 décembre 1229. C’est apparemment sur ces possessions urbaines (si importantes qu’il laissa un bailli pour les administrer) que porte l’acte, qui permet au roi d’Aragon d’affermir son contrôle sur les possessions de son cousin.');
@@ -1841,32 +1915,33 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (819,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (820,0,'jpilla','Joan Royz est peut-être apparenté à Cascalla Royz, « noble baron de Castille » d’après B. Alart, et qui est mentionné avec Arnau de Vernet à Majorque.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (821,0,'jpilla','Ramon Carles est un scribe souvent cité de Nunyo Sanche : il apparaît dès 1237 et c’est lui qui écrit le  testament de Nunyo en 1241. Il était aussi notaire public de Perpignan.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (822,0,'jpilla','Maître Joan, notaire, est responsable de la mise en forme des actes de Nunyo Sanche dès 1233 ; il semble toutefois avoir connu un moment sans activité entre 1237 et 1240.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,799,32,57);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,800,7,58);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,801,21,54);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,802,11,65);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,803,30,50);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,804,50,57);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,805,57,72);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,806,18,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,807,34,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,808,0,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,809,0,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,810,56,73);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,811,35,69);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,812,9,77);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,813,27,63);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,814,8,83);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,815,29,45);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,816,45,51);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,817,51,64);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,818,15,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,819,40,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,820,0,27);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,821,0,61);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,822,0,72);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,799,32,45);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,800,184,190);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,801,391,402);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,802,663,674);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,803,789,793);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,804,810,816);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,805,818,832);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,806,852,867);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,807,869,890);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,808,892,905);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,809,927,943);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (73,810,984,1001);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,811,35,47);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,812,218,225);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,813,465,473);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,814,828,836);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,815,974,977);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,816,990,995);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,817,997,1009);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,818,1026,1041);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,819,1051,1057);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,820,1059,1068);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,821,1087,1099);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (73,822,1149,1160);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (823,0,'jpilla','Sauve (dép. Gard, ch.-l. cant.). Noter qu’Éléazar est aussi désigné par une filiation maternelle, ce qui est fréquent dans ce genre de documents.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (824,0,'jpilla','Sœur de Guillaume VII, seigneur de Montpellier, elle est depuis 1145 attestée comme épouse de Bernard V Aton. Mère du futur Bernard VI Aton.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (825,0,'jpilla','Bernard V Aton, frère de Raimond Trencavel, vicomte de Béziers, est lui-même vicomte de Nîmes et (à partir de 1150) d’Agde. Il meurt en 1159.');
@@ -1889,29 +1964,30 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (840,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (841,0,'jpilla','Calmis');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (842,0,'jpilla','Langlade (Gard, cant. Sommières).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (843,0,'jpilla','Clarensac (dép. Gard, cant. Saint-Mamert-du-Gard).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,823,40,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,824,25,47);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,825,20,34);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,826,47,53);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,827,35,41);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,828,58,72);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,829,38,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,830,26,58);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,831,12,50);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,832,50,58);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,833,52,64);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,834,40,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,835,25,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,836,20,33);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,837,52,59);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,838,61,67);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,839,40,48);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,840,29,62);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,841,14,71);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,842,71,80);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,843,54,64);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,823,40,45);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,824,72,94);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,825,115,128);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,826,177,182);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,827,265,271);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,828,444,447);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,829,863,870);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,830,898,908);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,831,1062,1068);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,832,1101,1108);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (74,833,1162,1173);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,834,40,45);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,835,72,95);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,836,116,128);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,837,182,188);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,838,309,315);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,839,933,940);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,840,971,981);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,841,1149,1160);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,842,1207,1215);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (74,843,1271,1280);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (844,0,'jpilla','Orne, ch.-l. cant.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (845,0,'jpilla','Guillaume II Talvas comte de Ponthieu, a pris possession des domaines normands hérités de son père Robert de Bellême en 1119. Il meurt en 1171 après avoir cédé le Ponthieu à son fils Guy II, mais en ayant gardé ses terres normandes et le titre comtal, ce qui fixe le terminus ad quem de l’acte. Le terminus a quo peut être cherché du côté de la dédicace du prieuré de Sainte-Barbe par l’évêque de Sées, le 29 mai 1157.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (846,0,'jpilla','Au sens anglo-normand, les forestiers ne sont pas seulement chargés des espaces boisés, mais de toutes les terres (essentiellement mais pas exclusivement non cultivées) mises hors de l’usage commun au profit du seigneur.');
@@ -1928,23 +2004,24 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (855,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (856,0,'jpilla','La Cochère, Orne, cant. Exmes. Le qualificatif Salta encore accolé au toponyme renvoie à un espace sauvage (saltus), exploité pour la cueillette, le pâturage (herbagium), la paisson des porcs (pasnagium).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (857,0,'jpilla','Robertus de Nulleio/Nullaio est un témoin fréquent des chartes du comte Guillaume.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (858,0,'jpilla','Paganus de Mesdavid/Mesdavi/Mesdavit/Mansodavid apparaît souvent dans les chartes du comte Guillaume.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,844,60,73);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,845,2,43);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,846,43,62);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,847,62,82);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,848,32,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,849,55,69);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,850,49,69);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,851,21,66);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,852,0,46);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,853,46,59);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,854,59,77);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,855,41,65);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,856,65,75);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,857,52,70);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,858,18,65);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,844,122,127);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,845,624,633);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,846,666,677);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,847,686,696);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,848,739,753);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,849,763,777);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,850,1102,1121);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (75,851,1144,1164);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,852,0,9);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,853,47,57);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,854,60,70);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,855,120,132);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,856,145,155);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,857,570,587);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (75,858,607,625);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (859,0,'jpilla','Elne (Pyrénées-Orientales, ch-l. cant.). Le diocèse couvrait le comté primitif de Roussillon, mais aussi le Conflent et une partie de la Cerdagne.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (860,0,'jpilla','Mailloles, auj. dans la banlieue de Perpignan ; le nom évoque des terrains nouvellement plantés de vignes.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (861,0,'jpilla','« Facta est carta » est l’incipit traditionnel de la date (« Datum est ») des chartes catalanes et plus largement ibériques  de même que « datum » a donné le mot “date”, « facta » a donné en castillan “fecha”.');
@@ -1957,19 +2034,20 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (866,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (867,0,'jpilla','Louis VI, roi de France (1108-1137). La concordance avec l’année 1116 implique que le rédacteur prend comme point de départ du règne, et sans erreur, la mort du roi Philippe Ier (29 juillet 1108), voire le sacre de Louis VI (3 août 1108), terme usuel à la chancellerie royale.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (868,0,'jpilla','Le laudamentum/lods est fondamentalement une confirmation (souvent payante), donné par le seigneur à une aliénation ; le versement qui sanctionne l’accord (donc l’engagement) du censitaire est ici un droit d’entrée, assez élevé.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (869,0,'jpilla','Le laudamentum/lods est fondamentalement une confirmation (souvent payante), donné par le seigneur à une aliénation ; le versement qui sanctionne l’accord (donc l’engagement) du censitaire est ici un droit d’entrée, assez élevé.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,859,28,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,860,56,91);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,861,0,47);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,862,10,55);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,863,55,66);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,864,32,53);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,865,53,90);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,866,19,95);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,867,4,70);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,868,70,89);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,869,89,93);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,859,283,292);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,860,312,321);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,861,1055,1060);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,862,1237,1244);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (76,863,1283,1294);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,864,318,322);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,865,367,376);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,866,1250,1255);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,867,1375,1380);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,868,1442,1457);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (76,869,1462,1466);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (870,0,'jpilla','Charles II le Chauve. Dernier fils de Louis le Pieux, le roi a depuis juin 841 conforté contre son demi-frère Lothaire la base de son pouvoir en Francie occidentale, grâce à une alliance avec son autre demi-frère Louis. On le saisit ici au retour d’une campagne contre Pépin II d’Aquitaine, qu’il a mis en déroute.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (871,0,'jpilla','Avallon, Yonne, ch-l. arr.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (872,0,'jpilla','Dornecy, Nièvre, cant. Clamecy.');
@@ -1981,21 +2059,23 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (876,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (877,0,'jpilla','Dornecy, Nièvre, cant. Clamecy.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (878,0,'jpilla','L’archichancelier Louis, fils du comte du Maine et d’une fille de Charlemagne, fut nommé par son cousin germain Charles vers 839-840 et demeura en fonctions jusqu’à son décès au début de 867.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (879,0,'jpilla','Castillon-la-Bataille, Gironde, ch-l. cant.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,870,44,51);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,871,652,660);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,872,681,691);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,873,1557,1566);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,874,1672,1683);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,875,43,50);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,876,671,678);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,877,720,727);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,878,1666,1671);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,879,1834,1843);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,870,44,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,871,55,73);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,872,10,85);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,873,27,48);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (77,874,6,72);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,875,43,76);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,876,68,84);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,877,8,85);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,878,32,49);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (77,879,7,79);
+------------------------------------------
 ------------------------------------------
 --========================================
-------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (880,0,'jpilla','Bertrade de Montfort, épouse en premières noces de Foulque IV le Réchin, comte d’Anjou, puis en secondes noces  du roi Philippe Ier. Elle meurt à la fin de 1115 ou au début de 1116.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (881,0,'jpilla','Philippe Ier, roi de France de 1060 à 1108, a d’abord épousé Berthe de Hollande (dont il a eu son successeur, le futur Louis VI). Après avoir répudié celle-ci, il a enlevé Bertrade en 1092, ce qui lui vaut d’être excommunié en 1095. Il est définitivement absous en 1104, même si Bertrade demeure à ses côtés.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (882,0,'jpilla','Foulque V, fils de Foulque IV le Réchin et de Bertrade de Montfort ; né en 1092, il passe en Terre Sainte en 1129, devient roi de Jérusalem en 1131, meurt en 1144.');
@@ -2025,36 +2105,37 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (904,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (905,0,'jpilla','Guillaume, abbé de Marmoutier de 1104 à 1124.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (906,0,'jpilla','Fontcher, prieuré de Marmoutier au diocèse de Tours (Indre-et-Loire, cant. Ballan-Miré, comm. Villandry).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (907,0,'jpilla','Le contenu exact du forestage est difficile à saisir. Dans la mesure où le don principal porte sur la forêt elle-même, on voit mal qu’il puisse s’agir d’un droit d’usage (coupe, paisson…), que la propriété emporte. Il s’agit peut-être plutôt de droits fiscaux et/ou judiciaires réaffirmés sur d’autres usagers.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,880,63,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,881,79,87);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,882,30,76);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,883,67,85);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,884,27,47);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,885,47,90);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,886,57,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,887,60,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,888,0,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,889,37,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,890,56,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,891,21,57);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,892,57,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,893,0,38);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,894,0,19);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,895,19,53);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,896,53,85);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,897,10,86);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,898,56,75);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,899,75,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,900,66,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,901,0,89);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,902,48,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,903,16,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,904,35,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,905,65,85);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,906,32,93);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,907,0,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,880,142,150);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,881,159,167);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,882,198,206);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,883,312,330);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,884,441,449);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,885,462,471);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,886,563,570);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,887,656,661);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,888,776,780);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,889,814,822);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,890,834,840);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,891,1050,1058);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,892,1087,1099);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (79,893,1615,1626);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,894,181,189);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,895,201,209);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,896,236,243);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,897,367,377);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,898,500,505);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,899,520,529);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,900,603,609);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,901,717,721);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,902,855,862);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,903,915,920);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,904,935,942);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,905,1144,1153);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,906,1197,1205);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (79,907,1778,1787);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (908,0,'jpilla','Thibaud III d’Heilly, évêque d’Amiens de 1169 à 1204.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (909,0,'jpilla','Eustache II, successeur de l’abbé Lambert (1190-1211).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (910,0,'jpilla','Abbaye bénédictine de Saint-Germer-de-Fly (Oise, cant. Le-Coudray-Saint-Germer, anc. dioc. de Beauvais). Fondée au VIIe siècle, réformée en 1036, elle était richement possessionnée en Normandie et en Picardie.');
@@ -2079,31 +2160,32 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (927,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (928,0,'jpilla','Saint-Nicolas était alors l’église paroissiale de Gamaches.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (929,0,'jpilla','Abbeville (Somme, ch.-l. arr.). Germer (noter le reflet de la dévotion régionale) est sans doute doyen du chapitre Saint-Vulfran d’Abbeville, plutôt que doyen de chrétienté du lieu.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (930,0,'jpilla','Eu (Seine-Maritime, ch.-l. cant.).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,908,0,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,909,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,910,21,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,911,46,59);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,912,59,96);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,913,72,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,914,62,85);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,915,41,87);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,916,68,88);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,917,32,83);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,918,12,81);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,919,0,81);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,920,78,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,921,8,17);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,922,17,26);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,923,26,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,924,60,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,925,34,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,926,65,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,927,0,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,928,9,94);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,929,16,66);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,930,66,88);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,908,0,12);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,909,173,184);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,910,195,217);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,911,221,231);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,912,235,243);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,913,345,354);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,914,499,505);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,915,830,857);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,916,945,960);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,917,1355,1367);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (80,918,1419,1423);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,919,0,7);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,920,160,170);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,921,179,182);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,922,189,195);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,923,199,207);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,924,321,329);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,925,471,477);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,926,865,887);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,927,888,893);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,928,986,999);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,929,1428,1437);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (80,930,1478,1480);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (931,0,'jpilla','Les officiaux sont surtout connus comme des délégués de la justice de l’évêque. Mais des archidiacres, des doyens de chapitres cathédraux, des abbés exempts eurent aussi des officiaux, qui exerçaient leur justice contentieuse et gracieuse, et furent surtout actifs au XIIIe siècle.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (932,0,'jpilla','Ottobono Fieschi, représentant de la célèbre famille génoise, neveu du pape Innocent IV, et bon exemple de ces dignitaires italiens introduits au royaume de France au XIIIe siècle. Créé cardinal par son oncle en 1244, il fut pape à peine plus d’un mois en 1276, sous le nom d’Adrien V. Chanoine du chapitre cathédral de Reims, chancelier de 1243 à 1250, il perdit cet office à cette date et fut promu en échange, par collation apostolique, archidiacre de Reims. En 1254, il s’était violemment opposé à l’archevêque et s’était fait reconnaître la juridiction spirituelle dans son archidiaconé.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (933,0,'jpilla','Les archidiacres, proches collaborateurs de l’évêque dans la gestion du diocèse, dont ils surveillaient une portion, étaient en nombre variable selon les diocèses. Il y en avait, au XIIIe siècle, deux dans le diocèse de Reims, dits de Reims (ou de la chrétienté, ou grand archidiacre) et de Champagne. Collaborateurs très proches des évêques du XIIe siècle, ils entrèrent souvent en conflit avec lui, au siècle suivant, dans l’exercice de leur juridiction.');
@@ -2127,41 +2209,43 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (949,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (950,0,'jpilla','« Cantate » est l’introït (chant d’ouverture de la messe) du quatrième dimanche après Pâques, le 25 avril en 1255. La cinquième férie indiquant un jeudi, le mandement de l’archevêque est du 29 avril 1255.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (951,0,'jpilla','« Cantate » est l’introït (chant d’ouverture de la messe) du quatrième dimanche après Pâques, le 25 avril en 1255. La cinquième férie indiquant un jeudi, le mandement de l’archevêque est du 29 avril 1255.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (952,0,'jpilla','Expression typique des lettres circulaires, qui doivent être remises au porteur au cours de sa tournée, parfois munies d’un sceau (« Reddite litteras sigillatas »), pour témoigner que le destinataire en a bien pris connaissance.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,931,71,87);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,932,24,77);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,933,0,76);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,934,76,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,935,0,49);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,936,49,77);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,937,74,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,938,0,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,939,10,86);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,940,60,87);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,941,30,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,942,0,68);
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,931,71,81);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,932,112,120);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,933,166,178);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,934,243,248);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,935,249,271);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,936,299,306);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,937,440,455);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,938,456,463);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,939,467,478);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,940,775,1399);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,941,2056,2105);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (81,942,2106,2122);
 ------------------------------------------
 INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,943,76,84);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,944,41,83);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,945,0,82);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,946,0,71);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,947,71,93);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,948,0,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,949,23,85);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,950,68,89);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,951,0,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,952,35,87);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,944,126,134);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,945,169,180);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,946,252,284);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,947,324,332);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,948,484,504);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,949,508,515);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,950,1631,1652);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,951,1653,1688);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (81,952,1689,1708);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (953,0,'jpilla','Les maîtres des requêtes du parlement de Paris (installé au palais de la Cité) formaient une chambre à part, qui recevait les requêtes des plaideurs et statuait sur la validité des causes et leur issue procédurale. Depuis une ordonnance de 1364, ils jugeaient aussi des causes de certains privilégiés, ce qui doit s’appliquer au cas présent. Les « requêtes du palais » ne sont pas à confondre avec les « requêtes de l’Hôtel », qui examinaient les suppliques présentées au roi.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (954,0,'jpilla','Corbeil (auj. Corbeil-Essonnes, Essonne, ch.-l. cant.) était le siège d’une châtellenie relevant de la vicomté de Paris, qui était soumise au prévôt de Paris, siégeant au Châtelet. Le Châtelet n’intervient ici que pour une action de police, l’affaire montant aussitôt au parlement.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (955,0,'jpilla','Noter que la femme est totalement transparente du point de vue anthroponymique.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (956,0,'jpilla','Le mot “rente” (lat. redditus) peut désigner plus que notre actuelle “rente” : il peut certes s’agir d’une rente constituée sur la maison, mais aussi bien d’une redevance, par exemple d’un cens.');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,953,66,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,954,44,83);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,955,3,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,956,84,94);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,953,66,75);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,954,872,880);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,955,1008,1013);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (82,956,1345,1350);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (957,0,'jpilla','Urraka, reine de Castille et de León (1081-1126). Fille d’Alphonse VI, elle épouse en 1087 Raimond de Bourgogne dont elle a un fils, le futur Alphonse VII. Veuve en 1107, elle se remarie avec Alphonse Ier, roi d’Aragon et de Navarre. Après l’annulation de ce mariage par le pape Pascal II en 1114, elle combat son fils puis s’efface en 1122.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (958,0,'jpilla','Alphonse VI (vers 1042-1109), roi de León et de Castille. Fils de Ferdinand Ier, il reçoit le León et les Asturies lors du partage avec ses deux frères, mais il est dépossédé en 1068 par son frère Sanche III, roi de Castille. Après l’assassinat de ce dernier en 1072, il reprend ses terres, puis arrache la Galice à son frère Garcia en 1073. En 1078, il s’octroie le titre d’empereur de toute l’Espagne, titre qui fait bon marché de l’existence autonome du royaume d’Aragon, et qui alterne avec celui de roi.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (959,0,'jpilla','Hugues de Semur, abbé de Cluny de 1049 à 1109.');
@@ -2189,47 +2273,49 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (979,0,'jpilla',
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (980,0,'jpilla','Mauricio Burdinho, peut-être originaire de Bourgogne, a été successivement archidiacre de Tolède, évêque de Coimbra (en 1099), puis archevêque de Braga (à compter du début 1109). Envoyé comme légat auprès de l’empereur Henri V, il fut créé par ce dernier antipape sous le nom de Grégoire VIII (8 mars 1114-avril 1121).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (981,0,'jpilla','Diego Velasco, évêque d’Orense (siège suffragant de Saint-Jacques de Compostelle) de 1102 à 1132, participa au concile de Palencia et à trois conciles à Saint-Jacques de Compostelle.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (982,0,'jpilla','Celanova, abbaye bénédictine (diocèse Orense).');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,957,0,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,958,19,43);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,959,36,60);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,960,60,78);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,961,66,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,962,35,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,963,29,144);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,964,18,86);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,965,0,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,966,0,10);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,967,0,47);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,968,0,43);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,969,13,34);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,970,0,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,971,29,40);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,972,46,76);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,973,76,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,974,3,85);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,975,18,86);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,976,45,92);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,977,42,90);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,978,0,83);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,979,9,18);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,980,0,45);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,981,0,42);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,982,16,35);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,957,69,75);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,958,89,97);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,959,150,155);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,960,175,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,961,513,523);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,962,738,746);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,963,1381,1466);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,964,1602,1612);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,965,1720,1727);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,966,1801,1810);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,967,1812,1821);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,968,1860,1867);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (83,969,1917,1927);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,970,72,78);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,971,102,110);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,972,160,166);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,973,191,196);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,974,558,566);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,975,749,756);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,976,1509,1522);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,977,1698,1707);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,978,1807,1812);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,979,1900,1908);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,980,1910,1918);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,981,1956,1961);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (83,982,2015,2023);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (983,0,'jpilla','Les « catteux » (latin capitalia) sont des biens individuels principalement mobiliers. Le terme est synonyme de meubles et s’oppose à heritage ou erve qui désignent dans les textes le patrimoine immobilier. Ces deux catégories de biens sont très différenciées par le droit coutumier qui, par exemple, définit des règles successorales distinctes pour chacune.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (984,0,'jpilla','Les rentes à vie sont l’un des investissements favoris de la bourgeoisie.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (985,0,'jpilla','Les rentes à vie sont l’un des investissements favoris de la bourgeoisie.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (986,0,'jpilla','Le « mariage » (maritagium) peut désigner le douaire ou la dotation des époux : les biens sont définis comme la part de l’héritage paternel devant constituer cette dotation au jour du mariage.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (987,0,'jpilla','Sans doute Angre (Belgique, Hainaut, arr. Mons).');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,983,69,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,984,79,87);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,985,0,87);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,986,0,49);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,987,49,85);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,983,495,502);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,984,506,514);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,985,515,520);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,986,603,623);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (84,987,652,659);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (988,0,'jpilla','Raymond de Felgar, dominicain, évêque de Toulouse de 1232 à 1270.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (989,0,'jpilla','Raymond Gaucelm, seigneur de Lunel (Hérault, ch.-l. cant.), par ailleurs connu comme troubadour, avait été sénéchal du Venaissin pour le comte de Toulouse.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (990,0,'jpilla','Sicard Alaman, issu d’une modeste famille seigneuriale d’Albigeois, a été un fidèle et lieutenant puissant de Raymond VII, puis d’Alphonse de Poitiers.');
@@ -2251,28 +2337,29 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1004,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1005,0,'jpilla','Raymond [VII], dit Raymond le Jeune, comte de Toulouse à partir de 1222, est mort à Millau le 27 septembre 1249.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1006,0,'jpilla','Cécile des Baux, fille de Baral des Baux, vicomte de Marseille, partisan de l’empereur et depuis 1230 du comte de Toulouse. Baral avait épousé une nièce de Raymond VII, Sibile d’Anduze : nous qualiferions Cécile de petite-nièce de Raymond VII. Le qualificatif de sœur ne figurait pas quant à lui au contrat de mariage.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1007,0,'jpilla','Le 29 septembre. Par sa position dans l’année, la fête constitue un fréquent terme de paiement comme de reddition de compte.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,988,54,85);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,989,42,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,990,7,24);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,991,24,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,992,74,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,993,0,83);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,994,11,78);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,995,30,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,996,48,83);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,997,26,87);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,998,43,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,999,55,83);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1000,0,21);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1001,21,35);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1002,35,79);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1003,24,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1004,10,84);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1005,20,81);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1006,6,82);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1007,0,87);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,988,54,72);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,989,128,161);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,990,173,189);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,991,191,214);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,992,322,332);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,993,333,349);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,994,428,438);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,995,619,635);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,996,719,732);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (85,997,1135,1157);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,998,43,61);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,999,143,171);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1000,172,177);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1001,194,207);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1002,209,232);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1003,371,401);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1004,538,548);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1005,722,739);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1006,878,890);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (85,1007,1297,1309);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1008,0,'jpilla','Louis XI, roi de France (1461-1483).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1009,0,'jpilla','Ham (Somme, ch.-l. cant.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1010,0,'jpilla','Péronne (Somme, ch.-l. arr.).');
@@ -2282,16 +2369,17 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1013,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1014,0,'jpilla','Jean de La Loère, important secrétaire des rois Charles VII et Louis XI, encore attesté le 19 août 1478. Il avait accompagné le roi à Péronne, et c’est lui qui y établit l’acte dit « traité de Péronne » et ses lettres d’exécution.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1015,0,'jpilla','Gilbert Brunat était lui aussi notaire et secrétaire du roi, mais attaché au greffe du Parlement de Paris. Il résigna sa charge en faveur de son fils en 1478.');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1008,0,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1009,78,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1010,37,83);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1011,52,80);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1012,53,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1013,24,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1014,1,16);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1015,0,10);
 ------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1008,0,4);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1009,159,162);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1010,203,210);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1011,302,319);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1012,641,667);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1013,969,995);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1014,2592,2606);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (86,1015,2887,2896);
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1016,0,'jpilla','Le doyen de chrétienté ou archiprêtre était à la tête d’un groupe de paroisses. Cette subdivision de base du diocèse joue un rôle très important à compter du XIIIe siècle.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1017,0,'jpilla','Verberie (Oise, cant. Pont-Sainte-Maxence), n’est plus au XVIe siècle chef-lieu de doyenné, mais dépend alors de celui de Béthisy (diocèse Soissons).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1018,0,'jpilla','Compiègne (Oise, ch.-l. arr.).');
@@ -2309,24 +2397,25 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1028,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1029,0,'jpilla','Il existe plusieurs Fresnoy dans l’Oise ; la proximité des autres lieux identifiés impose de choisir Grandfresnoy (Oise, cant. Estrées-Saint-Denis), 12 km SW de Compiègne.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1030,0,'jpilla','Sacy-le-Petit (Oise, cant. Liancourt, 2 km SW de Grandfresnoy) reçoit déjà son surnom dans deux actes de 1162.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1031,0,'jpilla','La foi corporelle est une promesse faite en touchant physisquement un objet consacré.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1016,11,37);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1017,37,73);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1018,24,77);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1019,19,82);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1020,51,89);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1021,0,32);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1022,32,98);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1023,21,79);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1024,9,31);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1025,31,78);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1026,21,78);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1027,23,85);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1028,75,82);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1029,61,78);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1030,0,86);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1031,60,86);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1016,11,34);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1017,38,46);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1018,183,192);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1019,256,266);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1020,404,428);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1021,831,855);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1022,864,879);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (87,1023,1104,1114);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1024,9,28);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1025,32,40);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1026,191,200);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1027,272,279);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1028,410,416);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1029,825,837);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1030,843,856);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (87,1031,1076,1090);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1032,0,'jpilla','En 1276, le bailli de Cotentin est Chrétien le Chambellan (1274-1286), originaire du diocèse de Bayeux et vicomte de Caen en 1269. Mais son nom n’est pas donné : il agit ex officio, comme le ferait un official.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1033,0,'jpilla','Mortain (Manche, ch.-l. cant.), 36 km E d’Avranches. L’expression vise le couvent dit « des Blanches » (Albae dominae), moniales installées en 1105 par le comte de Mortain puis affiliées à l’ordre cistercien.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1034,0,'jpilla','tournois, l’une des deux grandes monnaies royales, à l’origine frappée à Tours, et saisie par Philippe Auguste avec les possessions plantagenet.');
@@ -2341,27 +2430,30 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1042,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1043,0,'jpilla','Sur le modèle de la clause de réserve usuelle dans l’acte royal, l’acte du bailli déclare que l’acte ne pourra en rien porter atteinte aux droits du roi ou d’un tiers.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1044,0,'jpilla','Le bailli royal ne peut que suivre, à cette date, le style de Pâques. L’acte est délivré en carême, donc avant Pâques : le millésime 1275 (a.st.) doit être converti en 1276 (n.st.). Cette année-là, Pâques tombe le 5 avril, et la mi-carême (placée au Moyen Âge au 4e dimanche de carême) le 15 mars. Nous sommes donc le mardi 17 mars 1276 (n.st.).');
 ------------------------------------------
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1032,69,91);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1033,70,92);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1034,16,78);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1035,78,90);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1036,0,88);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1037,0,19);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1038,19,91);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1039,40,91);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1040,23,92);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1041,39,88);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1042,9,96);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1043,74,94);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1044,21,29);
 ------------------------------------------
-------------------------------------------
---========================================
-------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1032,69,77);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1033,250,258);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1034,289,296);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1035,352,364);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1036,365,376);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1037,454,460);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1038,474,481);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1039,587,597);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1040,751,759);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1041,951,963);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1042,1010,1013);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1043,1443,1456);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (88,1044,1581,1588);
 ------------------------------------------
 --========================================
 ------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1045,0,'jpilla','Guy du Més est attesté comme prévôt de Paris (plus exactement comme « garde de la prévôté », ne tenant pas la prévôté à ferme), représentant direct du pouvoir royal dans la ville et alentour, entre 1277 et 1281.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1046,0,'jpilla','Robert II le Pieux, associé au trône le 25 décembre 987, seul roi au décès de Hugues Capet le 24 octobre 996.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1047,0,'jpilla','Le copiste de 1279 a souvent lu à tort « eciam » l’abréviation « et » de l’original de 999, que l’on rend ici avec un sens affaibli ou comme une simple conjonction.');
@@ -2397,42 +2489,43 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1075,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1076,0,'jpilla','Adélaïde, sœur du duc d’Aquitaine Guillaume IV, épouse de Hugues Capet, encore attestée en 1003.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1077,0,'jpilla','Berthe, veuve d’Eudes I de Blois et deuxième épouse de Robert le Pieux. Les époux sont alors sous le coup de l’anathème pontifical pour union illicite.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1078,0,'jpilla','Francon, chancelier du roi jusqu’en 1018, évêque de Paris de 1020 à 1030.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1045,39,88);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1046,44,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1047,41,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1048,14,76);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1049,49,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1050,67,75);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1051,47,60);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1052,60,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1053,0,79);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1054,71,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1055,58,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1056,43,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1057,12,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1058,21,84);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1059,28,57);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1060,57,82);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1061,83,89);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1062,37,90);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1063,43,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1064,59,86);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1065,17,78);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1066,51,90);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1067,3,29);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1068,29,38);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1069,38,96);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1070,68,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1071,82,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1072,29,45);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1073,69,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1074,5,15);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1075,15,90);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1076,73,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1077,20,93);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1078,11,59);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1045,39,49);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1046,273,281);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1047,604,614);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1048,657,668);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1049,856,863);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1050,875,883);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1051,931,938);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1052,945,956);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1053,1055,1065);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1054,1377,1384);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1055,1617,1623);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1056,1684,1693);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1057,1738,1747);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1058,1748,1756);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1059,1931,1939);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1060,1961,1966);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (91,1061,2838,2844);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1062,37,47);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1063,238,244);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1064,612,615);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1065,657,666);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1066,949,953);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1067,992,999);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1068,1019,1025);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1069,1029,1039);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1070,1156,1162);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1071,1520,1526);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1072,1708,1714);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1073,1794,1802);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1074,1818,1824);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1075,1829,1835);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1076,1978,1986);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1077,2014,2020);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (91,1078,2992,2999);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1079,0,'jpilla','Michel est attesté comme doyen du chapitre cathédral de Paris de 1191 à 1194 ou 1195. Le doyen occupait, à la cathédrale de Paris, le premier rang (ce pouvait être ailleurs un autre dignitaire, par exemple le prévôt). Élu par les chanoines, il dirigeait le chapitre.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1080,0,'jpilla','Hilduin fut chancelier de l’église de Paris autour de 1180-1193 ; il est sans doute à confondre avec l’auteur homonyme d’ouvrages d’exégèse.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1081,0,'jpilla','Le chancelier conservait le sceau du chapitre et supervisait, comme ici, la rédaction de ses actes, mais à Paris faisait aussi fonction d’écolâtre ; à ce titre, il dirigeait l’école capitulaire et, après la naissance de l’Université de Paris, continua à délivrer (mais automatiquement) la licence.');
@@ -2456,30 +2549,31 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1097,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1098,0,'jpilla','signum. Les souscriptions (factices) sont énoncées dans l’ordre hiérarchique : prêtres, diacres, sous-diacres, pueri (clercs n’ayant reçu que les ordres mineurs) ; les prêtres simples chanoines sont précédés des dignitaires (il y en avait 8 à Paris, sur un total de 51 chanoines), énumérés dans l’ordre de préséance (seul ici le pénitencier est absent, puisque le chancelier est cité plus bas).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1099,0,'jpilla','Les archidiacres, bras droits de l’évêque dans l’administration du diocèse, sont aussi intégrés au chapitre, comme dignitaires. Il y en avait trois dans le diocèse de Paris, comme souvent désignés du nom de leur circonscription : de Paris, de Josas, de Brie.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1100,0,'jpilla','Le sous-chantre secondait le chantre.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1079,51,100);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1080,73,94);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1081,94,117);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1082,39,119);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1083,0,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1084,26,121);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1085,60,123);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1086,68,116);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1087,68,110);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1088,27,116);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1089,116,143);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1090,52,83);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1091,17,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1092,32,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1093,75,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1094,81,93);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1095,19,79);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1096,62,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1097,28,84);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1098,46,88);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1099,46,80);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1100,70,83);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1079,51,66);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1080,174,183);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1081,196,208);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1082,259,265);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1083,600,616);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1084,627,641);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1085,783,794);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1086,915,938);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1087,1259,1265);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1088,1329,1341);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (92,1089,1419,1430);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1090,52,65);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1091,190,204);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1092,206,216);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1093,337,344);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1094,618,630);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1095,650,660);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1096,773,783);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1097,921,945);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1098,1296,1308);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1099,1385,1396);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (92,1100,1490,1502);
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1101,0,'jpilla','Henri II Plantagenêt (mort en 1189), comte d’Anjou et duc de Normandie par son père Geoffroy V Plantagenêt (mort en 1151), duc d’Aquitaine en 1152 par son mariage avec Aliénor, fille de Guillaume X d’Aquitaine, et roi d’Angleterre en 1154.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1102,0,'jpilla','Le Loroux (Maine-et-Loire, cant. Longué-Jumelles, comm. Vernantes, 18 km de Saumur), abbaye cistercienne fondée en 1121 par le comte d’Anjou Foulque V.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1103,0,'jpilla','Locus désigne tout type de maison religieuse, avec une connotation de simplicité, voire de modestie, d’absence d’institutionnalité. Repris par les cisterciens, le « lieu » devient « abbaye ».');
@@ -2507,156 +2601,159 @@ INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1123,0,'jpilla'
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1124,0,'jpilla','Guillaume d’Ostillie semble être préposé au service de la chambre du roi ; il appartient en tous cas comme les précédents à un cercle assez proche du souverain. On a mention d’un autre Guillaume d’Ostillie, visiblement de la même famille, évêque d’Avranches au début du XIIIe siècle.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1125,0,'jpilla','Montbazon (Indre-et-Loire, ch.-l. cant.).');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1126,0,'jpilla','Beaulieu-lès-Loches (Indre-et-Loire, cant. Loches), siège d’une abbaye bénédictine fondée par le comte d’Anjou.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1101,0,8);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1102,373,381);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1103,381,386);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1104,390,399);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1105,915,920);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1106,1352,1366);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1107,1475,1482);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1108,1503,1510);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1109,1519,1525);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1110,1544,1563);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1111,1601,1608);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1112,1621,1630);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1113,1658,1670);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1114,0,5);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1115,378,384);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1116,388,392);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1117,396,406);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1118,960,975);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1119,1416,1429);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1120,1545,1551);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1121,1571,1576);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1122,1584,1589);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1123,1604,1620);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1124,1651,1659);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1125,1670,1679);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1126,1707,1726);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1101,0,76);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1102,30,38);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1103,38,46);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1104,46,81);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1105,46,95);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1106,41,75);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1107,0,27);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1108,27,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1109,42,66);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1110,0,56);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1111,56,75);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1112,75,94);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (93,1113,17,44);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1114,0,84);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1115,14,23);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1116,23,30);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1117,30,81);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1118,61,91);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1119,66,89);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1120,0,25);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1121,25,37);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1122,37,56);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1123,0,47);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1124,47,65);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1125,65,92);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (93,1126,9,29);
-------------------------------------------
---========================================
-------------------------------------------
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
+------------------------------------------
 --========================================
 ------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1127,0,'jpilla','D’après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1128,0,'jpilla','Pyrénées-Orientales, cant. Rivesaltes.');
 ------------------------------------------
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1129,0,'jpilla','D’après la localisation de Saint-Hippolyte, sans doute Vernet, comm. Perpignan.');
 INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1130,0,'jpilla','Pyrénées-Orientales, cant. Rivesaltes.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1127,125,132);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1128,438,470);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (100,1129,57,63);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (100,1130,213,228);
 --========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1127,9,35);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (100,1128,0,43);
 ------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (100,1129,17,43);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (100,1130,0,41);
-------------------------------------------
---========================================
-------------------------------------------
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
---========================================
-------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1131,0,'jpilla','Le « convent » (qui a donné « couvent ») est l’ensemble des moines ou  moniales d’un monastère, en opposition/complémentarité à l’abbé ou abbesse  (ils ont vite deux sceaux différents) ; le droit canonique impose à l’abbé ou abbesse  de s’assurer du consentement du convent dans les actes de gestion.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1132,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1133,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1134,0,'jpilla','Tch. Olomouc (all. Olmütz), cité de Moravie (Rép. tchèque).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1135,0,'jpilla','Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1136,0,'jpilla','Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1137,0,'jpilla','Brno (all. Brünn), capitale de la Moravie (Rép. tchèque). Le vocable de « bourg »  (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle,  mais dénonce aussi que la ville n’est pas une civitas épiscopale  (un évêché n’y sera installé qu’en 1777).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1138,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1139,0,'jpilla','L’expression est à prendre  en son sens étymologique : une partie convenable, adaptée. Les patrons ayant eu tendance à sans  cesse la réduire, la « portion congrue » en est venue à désigner l’inverse, une portion insuffisante…');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1140,0,'jpilla','L’expression est à prendre en son sens étymologique :  une partie convenable, adaptée. Les patrons ayant eu tendance à  sans cesse la réduire, la « portion congrue » en est venue à désigner  l’inverse, une portion insuffisante…');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1141,0,'jpilla','Appel condensé de la clause prohibitive, d’une formulation développée telle que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis  infringere vel ei ausu temerario contraire ».');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1142,0,'jpilla','L’année de pontificat est calculée à partir du jour de la consécration du  pape (le 20 décembre 1254 pour Alexandre IV) ; la septième année de pontificat  devait couvrir la période [20 décembre 1260-19 décembre 1261], mais a été interrompue  par le décès du pape le 25 mai 1261 ; la fourchette est précisée par le jour, exprimé à la  mode antique, 5 cal. février = (31+2-5) janvier, 28 janvier 1261.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1143,0,'jpilla','Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1144,0,'jpilla','Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1145,0,'jpilla','Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est  ici encore question d’un prédécesseur de l’évêque alors en fonction, la  mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1146,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1147,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1148,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1149,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
-------------------------------------------
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1150,0,'jpilla','Le « convent » (qui a donné « couvent ») est l’ensemble des moines ou  moniales d’un monastère, en opposition/complémentarité à l’abbé ou abbesse  (ils ont vite deux sceaux différents) ; le droit canonique impose à l’abbé ou abbesse de s’assurer du consentement du convent dans les actes de gestion.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1151,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1152,0,'jpilla','Tch. Olomouc (all. Olmütz), cité de Moravie (Rép. tchèque).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1153,0,'jpilla','Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1154,0,'jpilla','La correction portée au registre indique in extremis que l’évêque concerné était l’un des prédécesseurs de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1155,0,'jpilla','Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1156,0,'jpilla','Brno (all. Brünn), capitale de la Moravie (Rép. tchèque).  Le vocable de « bourg » (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle,  mais dénonce aussi que la ville n’est pas une civitas épiscopale (un évêché n’y sera installé qu’en 1777).');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1157,0,'jpilla','L’expression est à prendre en son sens étymologique : une partie convenable, adaptée.  Les patrons ayant eu tendance à sans cesse la réduire, la « portion congrue » en est venue à  désigner l’inverse, une portion insuffisante…');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1158,0,'jpilla','L’expression est à prendre en son sens étymologique : une partie convenable, adaptée.  Les patrons ayant eu tendance à sans cesse la réduire, la « portion congrue »  en est venue à désigner l’inverse, une portion insuffisante…');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1159,0,'jpilla','Appel condensé de la clause prohibitive, d’une formulation développée telle  que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis infringere vel ei ausu temerario contraire ».');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1160,0,'jpilla','L’année de pontificat est calculée à partir du jour de la consécration du  pape (le 20 décembre 1254 pour Alexandre IV) ; la septième année de  pontificat devait couvrir la période [20 décembre 1260-19 décembre 1261],  mais a été interrompue par le décès du pape le 25 mai 1261 ; la fourchette  est précisée par le jour, exprimé à la mode antique, 5 cal. février = (31+2-5)  janvier, 28 janvier 1261.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1161,0,'jpilla','Abbaye cistercienne de Himmelpforten à Předclášteři/Tischnowitz, 25 km NW de Brno.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1162,0,'jpilla','Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est  ici encore question d’un prédécesseur de l’évêque alors en fonction, la mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245.');
-INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1163,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
---========================================
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1131,14,36);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1132,36,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1133,67,95);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1134,95,120);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1135,1,31);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1136,0,40);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1137,40,67);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1138,1,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1139,4,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1140,0,11);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1141,0,45);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1142,13,26);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1143,0,4);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1144,4,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1145,0,52);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1146,52,76);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1147,0,21);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1148,22,42);
-INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1149,0,70);
-------------------------------------------
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1150,18,41);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1151,41,80);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1152,10,84);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1153,0,63);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1154,13,31);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1155,37,64);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1156,64,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1157,80,87);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1158,0,86);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1159,29,63);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1160,25,39);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1161,0,32);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1162,62,90);
-INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1163,9,59);
-------------------------------------------
---========================================
 ------------------------------------------
 ------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
+------------------------------------------
 --========================================
 ------------------------------------------
 ------------------------------------------
+------------------------------------------
 --========================================
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1131,0,'jpilla','Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1132,0,'jpilla','Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1133,0,'jpilla','Brno (all. Brünn), capitale de la Moravie (Rép. tchèque). Le vocable de « bourg »  (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle,  mais dénonce aussi que la ville n’est pas une civitas épiscopale  (un évêché n’y sera installé qu’en 1777).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1134,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1135,0,'jpilla','L’expression est à prendre  en son sens étymologique : une partie convenable, adaptée. Les patrons ayant eu tendance à sans  cesse la réduire, la « portion congrue » en est venue à désigner l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1136,0,'jpilla','L’expression est à prendre en son sens étymologique :  une partie convenable, adaptée. Les patrons ayant eu tendance à  sans cesse la réduire, la « portion congrue » en est venue à désigner  l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1137,0,'jpilla','Appel condensé de la clause prohibitive, d’une formulation développée telle que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis  infringere vel ei ausu temerario contraire ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1138,0,'jpilla','L’année de pontificat est calculée à partir du jour de la consécration du  pape (le 20 décembre 1254 pour Alexandre IV) ; la septième année de pontificat  devait couvrir la période [20 décembre 1260-19 décembre 1261], mais a été interrompue  par le décès du pape le 25 mai 1261 ; la fourchette est précisée par le jour, exprimé à la  mode antique, 5 cal. février = (31+2-5) janvier, 28 janvier 1261.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1139,0,'jpilla','Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est  ici encore question d’un prédécesseur de l’évêque alors en fonction, la  mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1140,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1141,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1142,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1143,0,'jpilla','La correction portée au registre  indique in extremis que l’évêque concerné était l’un des prédécesseurs  de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+------------------------------------------
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1144,0,'jpilla','Le « convent » (qui a donné « couvent ») est l’ensemble des moines ou  moniales d’un monastère, en opposition/complémentarité à l’abbé ou abbesse  (ils ont vite deux sceaux différents) ; le droit canonique impose à l’abbé ou abbesse de s’assurer du consentement du convent dans les actes de gestion.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1145,0,'jpilla','Abbaye cistercienne de Mariental à Oslavany/Oslawan, 25 km WSW de Brno.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1146,0,'jpilla','Tch. Olomouc (all. Olmütz), cité de Moravie (Rép. tchèque).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1147,0,'jpilla','Premislav II (alias Ottokar I), roi de Bohême en 1192-1193 et 1197-1230.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1148,0,'jpilla','La correction portée au registre indique in extremis que l’évêque concerné était l’un des prédécesseurs de l’évêque alors en fonction, Bruno de Holstein (1245-1281).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1149,0,'jpilla','Saint-Jacques, église située au nord du château de Brno, dans un quartier nouveau du XIIIe siècle.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1150,0,'jpilla','Brno (all. Brünn), capitale de la Moravie (Rép. tchèque).  Le vocable de « bourg » (all. Burg)  rappelle l’origine castrale du lieu, attesté à partir de la fin du XIe siècle,  mais dénonce aussi que la ville n’est pas une civitas épiscopale (un évêché n’y sera installé qu’en 1777).');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1151,0,'jpilla','L’expression est à prendre en son sens étymologique : une partie convenable, adaptée.  Les patrons ayant eu tendance à sans cesse la réduire, la « portion congrue » en est venue à  désigner l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1152,0,'jpilla','L’expression est à prendre en son sens étymologique : une partie convenable, adaptée.  Les patrons ayant eu tendance à sans cesse la réduire, la « portion congrue »  en est venue à désigner l’inverse, une portion insuffisante…');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1153,0,'jpilla','Appel condensé de la clause prohibitive, d’une formulation développée telle  que « Nulli ergo omnino hominum liceat hanc paginam nostre confirmationis infringere vel ei ausu temerario contraire ».');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1154,0,'jpilla','L’année de pontificat est calculée à partir du jour de la consécration du  pape (le 20 décembre 1254 pour Alexandre IV) ; la septième année de  pontificat devait couvrir la période [20 décembre 1260-19 décembre 1261],  mais a été interrompue par le décès du pape le 25 mai 1261 ; la fourchette  est précisée par le jour, exprimé à la mode antique, 5 cal. février = (31+2-5)  janvier, 28 janvier 1261.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1155,0,'jpilla','Venceslas (all. Wenzel) III, roi de Bohême en 1228-1253. Comme il est  ici encore question d’un prédécesseur de l’évêque alors en fonction, la mesure est antérieure à l’élection de l’évêque Bruno de Holstein en 1245.');
+INSERT INTO note (note_id,note_type_id,user_ref,content) VALUES (1156,0,'jpilla','Saint-Pierre, église paroissiale de Brno, construite dès le XIIe siècle.');
+------------------------------------------
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1131,264,283);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1132,345,376);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1133,386,403);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1134,522,542);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1135,1359,1366);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1136,1367,1375);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1137,2072,2117);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1138,2248,2261);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1139,2412,2431);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1140,2493,2517);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1141,2518,2524);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1142,2702,2722);
+INSERT INTO transcriptionHasNote (transcription_id,note_id,ptr_start,ptr_end) VALUES (106,1143,2723,2741);
+------------------------------------------
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1144,18,26);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1145,42,62);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1146,92,98);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1147,347,356);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1148,458,475);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1149,514,527);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1150,542,546);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1151,850,857);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1152,858,865);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1153,1504,1539);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1154,1609,1622);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1155,1720,1729);
+INSERT INTO translationHasNote (translation_id,note_id,ptr_start,ptr_end) VALUES (106,1156,1864,1876);
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
+------------------------------------------
+--========================================
+------------------------------------------
+------------------------------------------
 ------------------------------------------

@@ -18,7 +18,7 @@ USERNAME="jpilla"
 
 
 NOTE_TYPES={
-    "INLINE" : 0
+  "INLINE" : 0
 }
 
 """
@@ -52,9 +52,9 @@ get_image_id = lambda id: "http://193.48.42.68/loris/adele/dossiers/{0}.jpg/full
 get_insert_stmt = lambda table,fields,values: "INSERT INTO {0} ({1}) VALUES ({2});".format(table, fields, values)
 get_delete_stmt = lambda table,where_clause="": "DELETE FROM {0} {1};".format(table, where_clause)
 
-clean_entities = lambda s : s.replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<")
+clean_entities = lambda s: s.replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<")
 nullIfNone = lambda v, callback=None : "null" if v is None else callback(v) if callback is not None else v
-escapeQuotes = lambda s : s.replace('"', '\\"')
+escapeQuotes = lambda s: s.replace('"', '\\"')
 
 
 def stringify_children(node):
@@ -83,40 +83,39 @@ def get_text_format(div):
         "p": p, "has_p" : len(p) > 0
     }
 
+def remove_nodes(node, xpath_expr, ns=NS_TI):
+    for child in node.xpath(xpath_expr, namespaces=ns):
+        child.getparent().remove(child)
+    return node
 
 def extract_terms(e):
     global note_id
 
+    es_orig = stringify_children(e)
+    es = stringify_children(e)
     terms = []
-    hasTerms = False
-    for term in e.xpath("//ti:term", namespaces=NS_TI):
-        term_content = stringify_children(term)
 
-        if e.text is None:
-            ptr_start = 0
-        else:
-            ptr_start = len(e.text)
-        ptr_end = ptr_start + len(term_content)
+    for term in e.xpath("//ti:term", namespaces=NS_TI):
+        #term_content = stringify_children(term)
+
+        #last_ptr = terms[-1]["ptr_start"] if len(terms) > 0 else 0
+        #ptr_start = es[last_ptr::].index("<term ")
+
+        #ptr_end = ptr_start + len(term_content)
+        #es = es[ptr_end::]
 
         terms.append({"content": term.get("n"),
                       "id": note_id,
-                      "type_id": NOTE_TYPES["INLINE"],
-                      "ptr_start": ptr_start, "ptr_end": ptr_end})
+                      "type_id": NOTE_TYPES["INLINE"]
+                      })
         note_id += 1
 
-        if e.text is None:
-            e.text = term_content
-        else:
-            e.text += term_content
-        term.getparent().remove(term)
-        hasTerms = True
+        #term.getparent().remove(term)
 
-    if not hasTerms and e.text is None:
-        return ()
-    else:
-        return (stringify_children(e), terms)
+        #es = es[ptr_end::]
 
-
+    #es = re.sub("</?term[^>]*>", repl='', string=es_orig)
+    return (es, terms)
 
 
 """
@@ -152,7 +151,18 @@ def insert_image(dossier):
 def insert_transcription(dossier):
     stmts = []
     if len(dossier["transcription"]) > 0:
-        content = "".join(dossier["transcription"])
+        content = " ".join(dossier["transcription"])
+
+        idx=0
+        while content.find("<term") > -1:
+            ptr_start = content.find("<term")
+            content = re.sub("<term[^>]*>", repl='', string=content, count=1)
+            ptr_end = content.find("</term")
+            content = re.sub("</term[^>]*>", repl='', string=content, count=1)
+            dossier["transcription_notes"][idx]["ptr_start"] = ptr_start
+            dossier["transcription_notes"][idx]["ptr_end"] = ptr_end
+            idx += 1
+
         stmts = [
             get_insert_stmt("transcription",
                             "transcription_id,doc_id,user_ref,content",
@@ -164,7 +174,18 @@ def insert_transcription(dossier):
 def insert_translation(dossier):
     stmts = []
     if len(dossier["translation"]) > 0:
-        content = "".join(dossier["translation"])
+        content = " ".join(dossier["translation"])
+
+        idx=0
+        while content.find("<term") > -1:
+            ptr_start = content.find("<term")
+            content = re.sub("<term[^>]*>", repl='', string=content, count=1)
+            ptr_end = content.find("</term")
+            content = re.sub("</term[^>]*>", repl='', string=content, count=1)
+            dossier["translation_notes"][idx]["ptr_start"] = ptr_start
+            dossier["translation_notes"][idx]["ptr_end"] = ptr_end
+            idx += 1
+
         stmts = [
             get_insert_stmt("translation",
                             "translation_id,doc_id,user_ref,content",
@@ -260,6 +281,7 @@ for f in filenames:
     transcription_id += 1
     translation_id += 1
 
+
     """
     tables image & image_zone
     """
@@ -268,6 +290,11 @@ for f in filenames:
     except:
         cnt_file_parsing_error += 1
         break
+
+    """
+    For the time being we just skipp <add> tags 
+    """
+    doc = remove_nodes(doc, "//ti:add", NS_TI)
 
     facsim_coord_tr = doc.xpath(XPATH_TI_FACSIM_COORDS_TRANSCRIPTION, namespaces=NS_TI)
     facsim_note_tr = doc.xpath(XPATH_TI_FACSIM_ANNO_TRANSCRIPTION, namespaces=NS_TI)
@@ -303,8 +330,8 @@ for f in filenames:
         for i, v in enumerate(tf["verses"]):
             extract = extract_terms(copy.deepcopy(v))
             #extracted_verse = get_tag_xml_content(v)
-            if len(extract) == 2:
-                verse, terms = extract
+            verse, terms = extract
+            if len(verse.strip()) > 0:
                 dossiers[f]["transcription"].append(clean_entities(verse))
                 dossiers[f]["transcription_notes"] += terms
             else:
@@ -324,8 +351,8 @@ for f in filenames:
         for i, v in enumerate(tf["verses"]):
             extract = extract_terms(copy.deepcopy(v))
             #extracted_verse = get_tag_xml_content(v)
-            if len(extract) == 2:
-                verse, terms = extract
+            verse, terms = extract
+            if len(verse.strip()) > 0:
                 dossiers[f]["translation"].append(clean_entities(verse))
                 dossiers[f]["translation_notes"] += terms
             else:
@@ -392,6 +419,7 @@ with open('insert_img_stmts.sql', 'w+') as f_img,\
         for t in insert_translation(dossier):
             f_translation.write(t + "\n")
 
+        add_sql_comment(f_notes, '=')
         #table note
         for note in dossier["transcription_notes"]:
             for t in insert_note(note):
@@ -401,7 +429,7 @@ with open('insert_img_stmts.sql', 'w+') as f_img,\
             for t in insert_note(note):
                 f_notes.write(t + "\n")
 
-        add_sql_comment(f_notes, '=')
+        add_sql_comment(f_notes, '-')
         for hasNote in insert_transcription_has_note(dossier):
             f_notes.write(hasNote + "\n")
         add_sql_comment(f_notes, '-')
