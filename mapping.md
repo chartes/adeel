@@ -249,7 +249,7 @@ http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 *  1 clause_decharge
 *  1 annonce
 
-# Mapping
+# Mapping (output TEI)
 | description | card. | db | xpath |
 |---|---|---:|---|
 |titre| 1! | `document.title` | `/TEI/teiHeader/fileDesc/titleStmt/title` |
@@ -276,23 +276,4 @@ http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 |cote(s) du document dans la collection des facsim| 1? | `document.pressmark_enc` | `/TEI/teiHeader/fileDesc/sourceDesc/bibl` |
 ||  | `` | `` |
 |Commentaire diplomatique| 1? | `commentary.content` | `/TEI/text/front/div[@type="diplomatic"]` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
-||  | `` | `` |
 ||  | `` | `` |

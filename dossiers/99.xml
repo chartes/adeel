@@ -98,7 +98,7 @@
           <seg facs="#zone-9" rend="251,536,472,560">Paulus Ap<ex>osto</ex>l<ex>u</ex>s J<ex>es</ex>u</seg>
           <add place="interlinear"><seg facs="#interlineaire-3" rend="386,558,457,575">q<ex>uod</ex> n<ex>on</ex> pseudo</seg></add>
           <add place="interlinear"><seg facs="#interlineaire-4" rend="497,545,596,572">q<ex>ui</ex> <ex>est</ex> vir magne auct<ex>oritatis</ex></seg></add>
-          <seg facs="#zone-10" rend="340,569,565,592"> <ex>Christ</ex>i p<ex>er</ex> voluntate<ex>m</ex> D<ex>e</ex>i <ex>et</ex> Timo-</seg>
+          <seg facs="#zone-10" rend="340,569,565,592"><ex>Christ</ex>i p<ex>er</ex> voluntate<ex>m</ex> D<ex>e</ex>i <ex>et</ex> Timo-</seg>
           <add place="interlinear"><seg facs="#interlineaire-5" rend="501,590,597,606">majorib<ex>us</ex> <ex>et</ex> minorib<ex>us</ex></seg>
           </add><seg facs="#zone-11" rend="340,601,556,620">-theus fr<ex>ater</ex> his qui sunt Colosis</seg>
           <add place="interlinear"><seg facs="#interlineaire-6" rend="421,618,511,635">p<ex>er</ex> gr<ex>ati</ex>am <ex>Christ</ex>i n<ex>on</ex> vi legis</seg></add>
@@ -107,7 +107,7 @@
           <add place="interlinear"><seg facs="#interlineaire-7" rend="350,685,459,702">q<ex>uia</ex> D<ex>eu</ex>s et Pat<ex>er</ex> pot<ex>est</ex> et vult</seg></add>
           <add place="interlinear"><seg facs="#interlineaire-8" rend="478,681,550,701">p<ex>er</ex> que<ex>m</ex> vob<ex>is</ex> o<ex>mn</ex>ia</seg></add>
           <seg facs="#zone-14" rend="307,698,550,720">agim<ex>us</ex> D<ex>e</ex>o Patri d<ex>omi</ex>ni n<ex>ost</ex>ri J<ex>es</ex>u <ex>Christ</ex>i</seg>
-          <add place="interlinear"><seg facs="#interlineaire-9" rend="306,716,342,736"> <ex>etiam</ex></seg></add>
+          <add place="interlinear"><seg facs="#interlineaire-9" rend="306,716,342,736"><ex>etiam</ex></seg></add>
           <add place="interlinear"><seg facs="#interlineaire-10" rend="410,713,474,733">ut crescatis</seg></add>
           <add place="interlinear"><seg facs="#interlineaire-11" rend="472,714,552,734">ecce un<ex>de</ex> gr<ex>ati</ex>as agit</seg></add>
           <seg facs="#zone-15" rend="306,728,567,753">semp<ex>er</ex> p<ex>ro</ex> vobis orantes, audientes</seg>

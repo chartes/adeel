@@ -138,7 +138,7 @@
           <seg ana="clause">fidem coram nobis prestantes corporalem predicti Ricardus, Aya ejus uxor et Eufemia eorum filia, non vi nec metu ad hoc inducte sed mera et spontanea voluntate sua, ut asserebant, quod ipsi decetero ratione cujuscumque juris, et maxime dicta Aya ratione dotis, in terra redicta vendita per se vel per alium nichil reclamabunt vel facient reclamari,<note type="speech">Clause de promesse</note></seg>
           <seg ana="clause_garantie">sed super eadem terra vendita dictis abbati et conventui contra omnes legitimam portabunt garandiam ;<note type="speech">Clause de garantie</note></seg>
           <seg ana="clause_renonciation">renuntiantes in hoc facto, fide data, excepcioni non numerate et non recepte pecunie et omnibus aliis excepcionibus et juris auxilio tam canonici quam civilis quod sibi contra presens instrumentum posset prodesse et dictis abbati et conventui prodesse [sic]<note type="speech">Clause de renonciation</note></seg>
-          <seg ana="corroboration">In cujus rei testimonium, presentes litteras sigillo curie Belvacensis fecimus communiri.<note type="speech">Corroboration probatoire avec annonce du sceau</note></seg>
+          <seg ana="clause_corroboration">In cujus rei testimonium, presentes litteras sigillo curie Belvacensis fecimus communiri.<note type="speech">Corroboration probatoire avec annonce du sceau</note></seg>
           <seg ana="date">Actum anno Domini M° CC° XL° octavo, die lune post Jubilate.<note type="speech">Date de temps.</note></seg>
         </p>
       </div>

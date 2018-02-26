@@ -89,9 +89,9 @@
             <seg ana="suscription">De par le roy.<note type="speech">Suscription</note></seg>
             <seg ana="adresse">Il est ordonné et très expressement enjoint aux prevost des marchans et eschevins de la ville de Paris<note type="speech">Adresse</note></seg>
             <seg ana="dispositif">en faisant faire la reveue d’ordonner aux quarteniers de faire roolle des lacquais capables de porter armes qui se trouveront dans les maisons et charger les maistres de les envoyer sur le boullevar pour s’enrooller à peine aux maistres de cinq cens livres d’amende et des gallaires contre les lacquais. Et à cette fin Sad. Majesté veut et entend qu’il soit depputté deux conseillers de ville pour en faire l’enroollement et que le payement en soit faict par les bourgeois.<note type="speech">Dispositif</note></seg>
-            <seg ana="mention_publication"> et que la presente ordonnance soit leue et publiée à son de trompe et cry public à ce que personne n’en pretende cause d’ignorance.<note type="speech">Mention de publication</note></seg>
+            <seg ana="mention_publication">et que la presente ordonnance soit leue et publiée à son de trompe et cry public à ce que personne n’en pretende cause d’ignorance.<note type="speech">Mention de publication</note></seg>
             <seg ana="date">Faict à Paris le VI<hi rend="sup">e</hi> jour d’aoust 1636.<note type="speech">Date</note></seg>
-            <seg ana="signature">L<hi rend="sc">OUIS</hi><note type="speech">Signature</note></seg>
+            <seg ana="suscription">L<hi rend="sc">OUIS</hi><note type="speech">Signature</note></seg>
             <seg ana="contreseing"><hi rend="sc">DE</hi> L<hi rend="sc">OMENIE</hi> (paraphe).<note type="speech">Contreseing du secrétaire d’Etat de la Maison du roi</note></seg>
           </p>
         </div>

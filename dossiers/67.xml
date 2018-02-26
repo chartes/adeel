@@ -108,10 +108,10 @@
           <seg ana="vididate">Apud Almeneschas.<note type="speech">Date de lieu</note></seg>
           <seg ana="viditemoin">Testes : Philippus capellanus, Robertus de Nulleio, Henricus de Logiis, Paganus de Mesodavid et multi alii.<note type="speech">Liste de témoins</note></seg>
           <seg ana="vidisalut">Valete. »<note type="speech">Salut final</note></seg>
-          <seg ana="corroboration">En tesmoing de ce, nous, a la relacion desdits tabellions, avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.<note type="speech">Retour au vidimus : corroboration (allusion non expliquée à plusieurs sceaux concurrents)</note></seg>
+          <seg ana="clause_corroboration">En tesmoing de ce, nous, a la relacion desdits tabellions, avons mys a cest present vidimus ou transcript l’un des seaulx dessusdits.<note type="speech">Retour au vidimus : corroboration (allusion non expliquée à plusieurs sceaux concurrents)</note></seg>
           <seg ana="date">Ce fut faict en l’an et jour dessusdits.<note type="speech">Date finale</note></seg>
           <seg ana="collation">Collacion faicte.<note type="speech">Mention de collation par laquelle les tabellions attestent avoir revu leur copie en la collationnant à l’original</note> </seg>
-          <seg ana="signature">(Signé :) Gaudin, Bouton.<note type="speech">Signature des tabellions</note></seg> 
+          <seg ana="suscription">(Signé :) Gaudin, Bouton.<note type="speech">Signature des tabellions</note></seg> 
         </p>
       </div>
       <div type="diplomatic">

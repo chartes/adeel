@@ -45,7 +45,7 @@
           <seg rend="551,291,1348,317">Voulons à cette fin que le fonds desd. gages soit fait dans nos</seg>
           <seg rend="16,320,319,343">estats en la maniere acoutumée.</seg>
           <seg rend="325,320,1349,346">Si donnons en mandement à nos amez et feaux con<ex>seill</ex>ers les gens tenant nos cour de parlement et</seg>
-          <seg rend="13,350,1157,378"> chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.</seg>
+          <seg rend="13,350,1157,378">chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.</seg>
           <seg rend="1164,353,1347,382">Car tel est n<ex>ot</ex>re</seg>
           <seg rend="13,383,946,411">plaisir. Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre n<ex>ot</ex>re seel à cesd. p<ex>rese</ex>ntes.</seg>
           <seg rend="955,387,1347,418">Donné à Versailles au mois de may</seg>
@@ -90,16 +90,16 @@
             <seg ana="dispositif">>À ces causes et autres à ce nous mouvant, nous avons de nouveau créé et erigé, creons et erigeons par ces presentes signées de notre main un office de conseiller lay en notred. cour de parlement pour, par celuy qui en sera bien et deuement pourveu, en faire l’exercice et jouir des mesmes honneurs, prerogatives, preeminences, gages, droits, privileges, immunitez, et autres avantages dont jouissent nos autres conseillers en notred. cour. Voulons à cette fin que le fonds desd. gages soit fait dans nos estats en la maniere acoutumée.<note type="speech">Dispositif</note></seg>
             <seg ana="injonctive">Si donnons en mandement à nos amez et feaux conseillers les gens tenant nos cour de parlement et chambre des comptes à Paris que ces presentes ils ayent à faire lire, publier et registrer et icelles executer selon leur forme et teneur.<note type="speech">Clause injonctive</note></seg>
             <seg ana="intentionnelle">Car tel est notre plaisir.<note type="speech">Clause intentionnelle</note></seg>
-            <seg ana="corroboration"> Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre notre seel à cesd. presentes.<note type="speech">Clause de corroboration</note></seg>
+            <seg ana="clause_corroboration">Et afin que ce soit chose ferme et stable à toujours, nous avons fait mettre notre seel à cesd. presentes.<note type="speech">Clause de corroboration</note></seg>
             <seg ana="date">Donné à Versailles au mois de may l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.<note type="speech">Date</note></seg>
-            <seg ana="signature">L<hi rend="sc">OUIS</hi><note type="speech">Signature du roi</note></seg>
+            <seg ana="suscription">L<hi rend="sc">OUIS</hi><note type="speech">Signature du roi</note></seg>
             <seg ana="jussio">par le roy<lb/><note type="speech">Mention de jussio</note></seg>
             <seg ana="contreseing">P<hi rend="sc">HELYPEAUX</hi> (paraphe)<note type="speech">Contreseing du secrétaire d’État</note></seg>
             <seg ana="visa">visa B<hi rend="sc">OUCHERAT</hi><note type="speech">Visa et signature du chancelier</note></seg>
             <seg ana="mention_enregistrement">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note type="speech">Mention d’enregistrement</note></seg>
-            <seg ana="signature">G<hi rend="sc">AMART</hi>, nihil (paraphe)<note type="speech">Signature du greffier de la Chambre des comptes</note></seg>
+            <seg ana="suscription">G<hi rend="sc">AMART</hi>, nihil (paraphe)<note type="speech">Signature du greffier de la Chambre des comptes</note></seg>
             <seg ana="mention_enregistrement">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note type="speech">Mention d’enregistrement</note></seg>
-            <seg ana="signature">D<hi rend="sc">ONGOIS</hi> (paraphe)<note type="speech">Signature du greffier du Parlement</note></seg>
+            <seg ana="suscription">D<hi rend="sc">ONGOIS</hi> (paraphe)<note type="speech">Signature du greffier du Parlement</note></seg>
           </p>
         </div>
       </div>
