@@ -31,45 +31,31 @@
   <text>
     <body>
       <div type="facsimile">
-        <div>
-          <p>
-            <seg rend="28,51,554,56,554,152,25,146">Johannes, Dei gr<ex>ati</ex>a rex Angl<ex>ie</ex>, d<ex>omi</ex>n<ex>u</ex>s Hyb<ex>er</ex>nie,</seg>
-            <seg rend="559,60,1070,77,1069,172,747,159,558,149">dux Norm<ex>annie</ex>, Aquit<ex>annie</ex> <ex>et</ex> com<ex>es</ex> Andeg<ex>avie</ex>, archiep<ex>iscop</ex>is,</seg>
-            <lb/>
-            <seg rend="25,152,489,159,489,209,329,209,42,205,41,152,41,153">ep<ex>iscop</ex>is, abb<ex>at</ex>ib<ex>us</ex>, comit<ex>ibus</ex>, baron<ex>ibus</ex>, justic<ex>iiis</ex>, vicecom<ex>itibus</ex></seg>
-            <seg rend="493,160,1080,171,1079,227,492,210"><ex> et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis <ex>et</ex> fidelib<ex>us</ex> suis Norm<ex>anie</ex>, <ex>et</ex> nomi<ex>n</ex>atim majori,</seg>
-            <lb/>
-            <seg rend="36,214,555,221,552,273,42,266,44,213">vic<ex>ecomiti</ex> <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis suis Rothomag<ex>ensibus</ex>, sal<ex>u</ex>t<ex>em</ex>.</seg>
-            <seg rend="560,222,1098,230,1097,285,557,271">Sciatis nos concessisse <ex>et</ex> hac presenti carta nost<ex>r</ex>a confirmasse</seg>
-            <lb/>
-            <seg rend="34,276,535,290,536,338,37,321">Bonis ho<ex>min</ex>ib<ex>us</ex> Grandi Montis fundacione<ex>m</ex> domus</seg>
-            <seg rend="542,280,1098,297,1100,358,540,334">q<ex>u</ex>am pat<ex>er</ex> nost<ex>er</ex> H<ex>enricus</ex> bone memorie in d<ex>omi</ex>nico suo juxta Rhoto-</seg>
-            <lb/>
-            <seg rend="33,329,738,349,734,405,41,381">-mag<ex>um</ex> fecit, <ex>et</ex> donatione<ex>m</ex> q<ex>u</ex>am idem p<ex>ate</ex>r nost<ex>er</ex> eis fecit ad victualia sua,</seg>
-            <seg rend="742,350,741,404,1099,421,1091,365">scil<ex>i</ex>c<ex>et</ex> ducentas lib<ex>r</ex>as andeg<ex>avensium</ex> reci-</seg>
-            <lb/>
-            <seg rend="40,389,538,402,537,455,35,449">-piendas annuati<ex>m</ex> de vicecomitatu Rothomagen<ex>si</ex>,</seg>
-            <seg rend="544,404,1098,426,1094,478,543,454">videlicet cent<ex>um</ex> libras ad Pascha et cent<ex>um</ex> ad fest<ex>um</ex> S<ex>an</ex>c<ex>t</ex>i</seg>
-            <lb/>
-            <seg rend="46,451,523,462,522,511,38,497">Michael<ex>is</ex>. Quare volum<ex>us</ex> <ex>et</ex> firmit<ex>er</ex> precipim<ex>us</ex></seg>
-            <seg rend="527,463,1086,483,1084,529,527,510">quod ip<ex>s</ex>i eas h<ex>abe</ex>ant in lib<ex>er</ex>am <ex>et</ex> p<ex>er</ex>petuam elemosina<ex>m</ex> <ex>et</ex> singul<ex>is</ex></seg>
-            <lb/>
-            <seg rend="34,507,660,521,657,565,34,553">annis ad pred<ex>i</ex>c<ex>t</ex>os t<ex>er</ex>mi<ex>n</ex>os eas in pred<ex>i</ex>c<ex>t</ex>o vicecomitatu recipiant,</seg>
-            <seg rend="666,522,1098,540,1095,585,664,563">sicut in carta d<ex>omi</ex>ni H<ex>enrici</ex> p<ex>at</ex>ris n<ex>ost</ex>ri <ex>con</ex>tinet<ex>ur</ex>.</seg>
-            <lb/>
-            <seg rend="37,557,440,566,443,617,37,609">Hiis test<ex>ibus</ex> R<ex>ogerio</ex> ep<ex>iscop</ex>o S<ex>an</ex>c<ex>t</ex>i Andree,</seg>
-            <seg rend="445,565,1094,580,1097,636,448,617">Will<ex>elm</ex>o Lunge Espee com<ex>ite</ex> Saresb’, Will<ex>elm</ex>o com<ex>ite</ex> Arundell’, Hug<ex>one</ex></seg>
-            <lb/>
-            <seg rend="39,617,493,628,490,678,41,667">de Gornaco, Rog<ex>erio</ex> constab<ex>u</ex>lario Cest’,</seg>
-            <seg rend="499,626,1083,644,1088,699,500,676">Will<ex>elm</ex>o de Cantilupo, Petro de Stok’. Dat<ex>um</ex> p<ex>er</ex> man<ex>us</ex></seg>
-            <lb/>
-            <seg rend="37,676,568,680,569,739,35,730">Symon<ex>is</ex> archid<ex>iaconi</ex> Wellen<ex>sis</ex> <ex>et</ex> Joh<ex>ann</ex>is de Gra[…],</seg>
-            <seg rend="577,682,1081,705,1075,751,577,738">apud Chynon<ex>em</ex>, XXVI die septembris, anno</seg>
-            <lb/>
-            <seg rend="48,739,46,784,874,805,875,797,1069,802,1071,752,449,735">regni nostri primo.</seg>
-            <lb/>
-          </p>
-        </div>
+        <p>
+          <seg rend="28,51,554,56,554,152,25,146">Johannes, Dei gr<ex>ati</ex>a rex Angl<ex>ie</ex>, d<ex>omi</ex>n<ex>u</ex>s Hyb<ex>er</ex>nie,</seg>
+          <seg rend="559,60,1070,77,1069,172,747,159,558,149">dux Norm<ex>annie</ex>, Aquit<ex>annie</ex> <ex>et</ex> com<ex>es</ex> Andeg<ex>avie</ex>, archiep<ex>iscop</ex>is,</seg>
+          <seg rend="25,152,489,159,489,209,329,209,42,205,41,152,41,153">ep<ex>iscop</ex>is, abb<ex>at</ex>ib<ex>us</ex>, comit<ex>ibus</ex>, baron<ex>ibus</ex>, justic<ex>iiis</ex>, vicecom<ex>itibus</ex></seg>
+          <seg rend="493,160,1080,171,1079,227,492,210"><ex> et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis <ex>et</ex> fidelib<ex>us</ex> suis Norm<ex>anie</ex>, <ex>et</ex> nomi<ex>n</ex>atim majori,</seg>
+          <seg rend="36,214,555,221,552,273,42,266,44,213">vic<ex>ecomiti</ex> <ex>et</ex> om<ex>n</ex>ib<ex>us</ex> ballivis suis Rothomag<ex>ensibus</ex>, sal<ex>u</ex>t<ex>em</ex>.</seg>
+          <seg rend="560,222,1098,230,1097,285,557,271">Sciatis nos concessisse <ex>et</ex> hac presenti carta nost<ex>r</ex>a confirmasse</seg>
+          <seg rend="34,276,535,290,536,338,37,321">Bonis ho<ex>min</ex>ib<ex>us</ex> Grandi Montis fundacione<ex>m</ex> domus</seg>
+          <seg rend="542,280,1098,297,1100,358,540,334">q<ex>u</ex>am pat<ex>er</ex> nost<ex>er</ex> H<ex>enricus</ex> bone memorie in d<ex>omi</ex>nico suo juxta Rhoto-</seg>
+          <seg rend="33,329,738,349,734,405,41,381">-mag<ex>um</ex> fecit, <ex>et</ex> donatione<ex>m</ex> q<ex>u</ex>am idem p<ex>ate</ex>r nost<ex>er</ex> eis fecit ad victualia sua,</seg>
+          <seg rend="742,350,741,404,1099,421,1091,365">scil<ex>i</ex>c<ex>et</ex> ducentas lib<ex>r</ex>as andeg<ex>avensium</ex> reci-</seg>
+          <seg rend="40,389,538,402,537,455,35,449">-piendas annuati<ex>m</ex> de vicecomitatu Rothomagen<ex>si</ex>,</seg>
+          <seg rend="544,404,1098,426,1094,478,543,454">videlicet cent<ex>um</ex> libras ad Pascha et cent<ex>um</ex> ad fest<ex>um</ex> S<ex>an</ex>c<ex>t</ex>i</seg>
+          <seg rend="46,451,523,462,522,511,38,497">Michael<ex>is</ex>. Quare volum<ex>us</ex> <ex>et</ex> firmit<ex>er</ex> precipim<ex>us</ex></seg>
+          <seg rend="527,463,1086,483,1084,529,527,510">quod ip<ex>s</ex>i eas h<ex>abe</ex>ant in lib<ex>er</ex>am <ex>et</ex> p<ex>er</ex>petuam elemosina<ex>m</ex> <ex>et</ex> singul<ex>is</ex></seg>
+          <seg rend="34,507,660,521,657,565,34,553">annis ad pred<ex>i</ex>c<ex>t</ex>os t<ex>er</ex>mi<ex>n</ex>os eas in pred<ex>i</ex>c<ex>t</ex>o vicecomitatu recipiant,</seg>
+          <seg rend="666,522,1098,540,1095,585,664,563">sicut in carta d<ex>omi</ex>ni H<ex>enrici</ex> p<ex>at</ex>ris n<ex>ost</ex>ri <ex>con</ex>tinet<ex>ur</ex>.</seg>
+          <seg rend="37,557,440,566,443,617,37,609">Hiis test<ex>ibus</ex> R<ex>ogerio</ex> ep<ex>iscop</ex>o S<ex>an</ex>c<ex>t</ex>i Andree,</seg>
+          <seg rend="445,565,1094,580,1097,636,448,617">Will<ex>elm</ex>o Lunge Espee com<ex>ite</ex> Saresb’, Will<ex>elm</ex>o com<ex>ite</ex> Arundell’, Hug<ex>one</ex></seg>
+          <seg rend="39,617,493,628,490,678,41,667">de Gornaco, Rog<ex>erio</ex> constab<ex>u</ex>lario Cest’,</seg>
+          <seg rend="499,626,1083,644,1088,699,500,676">Will<ex>elm</ex>o de Cantilupo, Petro de Stok’. Dat<ex>um</ex> p<ex>er</ex> man<ex>us</ex></seg>
+          <seg rend="37,676,568,680,569,739,35,730">Symon<ex>is</ex> archid<ex>iaconi</ex> Wellen<ex>sis</ex> <ex>et</ex> Joh<ex>ann</ex>is de Gra[…],</seg>
+          <seg rend="577,682,1081,705,1075,751,577,738">apud Chynon<ex>em</ex>, XXVI die septembris, anno</seg>
+          <seg rend="48,739,46,784,874,805,875,797,1069,802,1071,752,449,735">regni nostri primo.</seg>
+        </p>
       </div>
       <div type="text">
         <div type="transcription">
@@ -77,8 +63,7 @@
             <term n="Jean sans Terre, roi d’Angleterre à la suite de son frère Richard Cœur-de-Lion (mort le 6 avril 1199), de 1199 à 1216.">Johannes</term>, Dei gratia <term n="Rompant avec la tradition suivie par ses prédécesseurs, Jean sans Terre use des noms de pays et non plus des ethniques dans sa                              titulature (rex Anglie pour rex Anglorum etc.) ; comme pour ses prédécesseurs, les mots ne sont jamais développés dans les actes,                              mais le sont sur les sceaux du roi.">rex Anglie</term>, <term n="Le titre de seigneur d’Irlande, qu’il portait avant son avènement, a été conservé                                  par Jean dans sa titulature royale.">dominus Hybernie</term>, dux Normannie, Aquitannie et <lb/>comes Andegavie, archiepiscopis, episcopis, abbatibus, comitibus, baronibus, justiciis, <lb/>vicecomitibus et omnibus ballivis et fidelibus suis Normanie, et nominatim <term n="Le maire de Rouen, flanqué de pairs et de jurés, représentait la ville,                              dotée de franchises, face au duc-roi, qui conservait sur elle des pouvoirs étendus : il est caractéristique de voir ici le maire incorporé                              à une liste d’officiers royaux.">majori</term>, <lb/>
             <term n="Les vicomtés étaient un rouage essentiel de l’administration de la Normandie, mais les charges étaient souvent prises à ferme (ainsi à Rouen par des bourgeois) ; les baillis sont d’institution plus récente.">vicecomiti et omnibus ballivis</term> suis Rothomagensibus, salutem. Sciatis nos concessisse et <lb/>hac presenti carta nostra confirmasse <term n="Surnom habituel des ermites de Grandmont (Haute-Vienne, cant. Ambazac, comm. Saint-Sylvestre) : développé à partir de l’ermitage                              fondé par Étienne de Muret (mort en 1124), le lieu rayonna et devint la tête d’un ordre qui comptait quelque soixante-dix maisons dès 1170.">Bonis hominibus</term> Grandi Montis fundacionem <lb/>
             <term n="Prieuré grandmontain de Notre-Dame du Parc.">domus</term> quam pater noster <term n="Henri II Plantagenêt, duc de Normandie en 1151, roi d’Angleterre en 1154, est mort en 1189.">Henricus</term> bone memorie in dominico suo juxta Rhotomagum <lb/>fecit, et donationem quam idem pater noster eis fecit ad victualia sua, scilicet ducentas
-            <lb/>libras andegavensium recipiendas annuatim de vicecomitatu Rothomagensi, videlicet <lb/>centum libras ad Pascha et centum ad festum <term n="Terme très fréquent de paiement en Normandie, le 29 septembre.">Sancti Michaelis</term>. Quare volumus et firmiter <lb/>precipimus quod ipsi eas habeant in liberam et perpetuam elemosinam et singulis annis ad <lb/>predictos terminos eas in predicto vicecomitatu recipiant, sicut in carta domini Henrici <lb/>patris nostri continetur. Hiis testibus <term n="Roger, évêque de Saint-Andrews en Écosse (1189-1202).">Rogerio</term> episcopo Sancti Andree, <term n="Guillaume Longue-Épée, fils illégitime du roi Henri II, comte de Salisbury (Wiltshire) dont il avait épousé                              l’héritière vers 1196 (mort en 1226).">Willelmo</term>
-            <foreign xml:lang="frm">Lunge <lb/>Espee</foreign> comite <term n="Les graphies des toponymes sont sujettes à de multiples variantes dans les actes anglais, qui les abrègent volontiers. À l’exemple des éditeurs anglais, nous ne les restituons pas.">Saresb’</term>, <term n="Guillaume [III] d’Aubigny, comte d’Arundel (West Sussex) de 1193 à 1221.">Willelmo</term> comite Arundell’, Hugone de Gornaco, <term n="Roger de Lacy, connétable de Chester, baron de l’entourage royal.">Rogerio</term>
+            <lb/>libras andegavensium recipiendas annuatim de vicecomitatu Rothomagensi, videlicet <lb/>centum libras ad Pascha et centum ad festum <term n="Terme très fréquent de paiement en Normandie, le 29 septembre.">Sancti Michaelis</term>. Quare volumus et firmiter <lb/>precipimus quod ipsi eas habeant in liberam et perpetuam elemosinam et singulis annis ad <lb/>predictos terminos eas in predicto vicecomitatu recipiant, sicut in carta domini Henrici <lb/>patris nostri continetur. Hiis testibus <term n="Roger, évêque de Saint-Andrews en Écosse (1189-1202).">Rogerio</term> episcopo Sancti Andree, <term n="Guillaume Longue-Épée, fils illégitime du roi Henri II, comte de Salisbury (Wiltshire) dont il avait épousé                              l’héritière vers 1196 (mort en 1226).">Willelmo</term> Lunge <lb/>Espee comite <term n="Les graphies des toponymes sont sujettes à de multiples variantes dans les actes anglais, qui les abrègent volontiers. À l’exemple des éditeurs anglais, nous ne les restituons pas.">Saresb’</term>, <term n="Guillaume [III] d’Aubigny, comte d’Arundel (West Sussex) de 1193 à 1221.">Willelmo</term> comite Arundell’, Hugone de Gornaco, <term n="Roger de Lacy, connétable de Chester, baron de l’entourage royal.">Rogerio</term>
             <lb/>constabulario Cest’, <term n="Guillaume de Cantilupe, membre assidu de l’entourage de Jean avant même son accession au trône.">Willelmo</term> de Cantilupo, <term n="Pierre de Stoke-on-Trent (Staffordshire), sénéchal du roi                             Jean.">Petro</term> de Stok’. Datum per manus <term n="Simon archidiacre de Wells (Somerset).">Symonis</term>
             <lb/>archidiaconi Wellensis et <term n="Jean de Gray, chancelier de Jean avant son accession au trône, puis membre de la chancellerie royale.">Johannis</term> de Gra[…], apud <term n="Chinon (Indre-et-Loire, ch.-l. arr.).">Chynonem</term>, XXVI die septembris, <lb/>anno regni nostri <term n="L’année de règne part du couronnement de Jean, le 27 mai 1199. Elle ne figure au bas des actes royaux anglais que depuis le                              règne de son frère et prédécesseur Richard (sans doute à l’imitation des lettres pontificales),  et sert aussi à                              ordonner les différentes séries de registres qui commencent alors à se multiplier.">primo</term>.</p>
         </div>

@@ -31,36 +31,34 @@
   <text>
     <body>
       <div type="facsimile">
-        <div>
-          <p>
-            <seg rend="22,73,58,72,50,366,23,367"><ex>Chrismon</ex></seg>
-            <seg rend="64,70,520,61,520,95,63,102">In nomine D<ex>omi</ex>ni. DAIMBERTUS archiep<ex>iscopu</ex>s.</seg>
-            <seg rend="55,107,571,95,574,127,55,136">Notu<ex>m</ex> esse volum<ex>us</ex> om<ex>n</ex>ib<ex>us</ex> Chr<ex>ist</ex>i fidelib<ex>us</ex> q<ex>u</ex>ia, cu<ex>m</ex> in gremio</seg>
-            <seg rend="56,141,581,132,581,157,309,160,60,167">s<ex>an</ex>c<ex>t</ex>æ Matris aeccl<ex>esi</ex>æ sacru<ex>m</ex> cælebrarem<ex>us</ex> c<ex>on</ex>ventu<ex>m</ex>, venit in</seg>
-            <seg rend="59,174,309,166,579,163,576,192,303,194,65,199">p<ex>re</ex>sentia<ex>m</ex> n<ex>ost</ex>ram abbas S<ex>an</ex>c<ex>t</ex>i Germani de Prato Parisiensis</seg>
-            <seg rend="63,207,291,198,587,195,587,224,307,225,61,232">æccl<ex>esi</ex>æ, dep<ex>re</ex>cans ut ei altare de Absedo villa, q<ex>uo</ex>d est in pa-</seg>
-            <seg rend="61,238,312,229,580,231,582,257,302,257,59,265">-go Senonensi, in honore s<ex>an</ex>c<ex>t</ex>i Germani <ex>et</ex> s<ex>an</ex>c<ex>t</ex>i Vincentii,</seg>
-            <seg rend="57,273,312,259,590,263,593,286,296,288,56,296">q<ex>uo</ex>d ad p<ex>er</ex>sona<ex>m</ex> vicarii esse solebat, in censu<ex>m</ex> mittere dignare-</seg>
-            <seg rend="54,301,311,291,595,293,591,320,301,320,54,323">-m<ex>ur</ex>. Nos itaq<ex>ue</ex>, peticioni ej<ex>us</ex> assensu<ex>m</ex> dantes, concedim<ex>us</ex> ei eo te-</seg>
-            <seg rend="53,330,309,325,598,327,594,354,297,352,52,356">-nore ut sing<ex>u</ex>lis annis in festivitate s<ex>an</ex>c<ex>t</ex>i Remigii k<ex>a</ex>l<ex>endas</ex> octob<ex>ris</ex></seg>
-            <seg rend="37,363,320,355,597,363,599,383,293,384,40,388">de censu XX sol<ex>idi</ex> nob<ex>is</ex> solvant<ex>ur</ex>, salva debita obœdientia <ex>et</ex> cir-</seg>
-            <seg rend="32,395,323,388,599,391,599,417,295,416,33,420">-cadis atq<ex>ue</ex> synodis necnon <ex>et</ex> debitis justiciis n<ex>ost</ex>ris. Q<ex>uo</ex>d si negle-</seg>
-            <seg rend="33,428,308,421,603,423,597,452,295,450,32,456">-xerit, legem inde faciat <ex>et</ex> non p<ex>er</ex>dat. Et ut hoc firmu<ex>m</ex> p<ex>er</ex>mane-</seg>
-            <seg rend="28,465,311,455,597,457,591,486,265,483,30,486">-at, manu n<ex>ost</ex>ra subt<ex>er</ex> firmavim<ex>us</ex> synodoq<ex>ue</ex> firmandu<ex>m</ex> tradidim<ex>us</ex>.</seg>
-            <seg rend="25,496,310,488,543,491,539,520,33,526">Actu<ex>m</ex> felicit<ex>er</ex> in eccl<ex>esi</ex>a S<ex>an</ex>c<ex>t</ex>i Stephani publicæ.</seg>
-            <seg rend="34,558,492,549,492,584,36,592">DAIMBERT<ex>US</ex>, D<ex>e</ex>i miseratione archiep<ex>iscopu</ex>s.</seg>
-            <seg rend="34,624,596,610,596,648,311,645,33,652">Ansellus archidiacon<ex>us</ex>. Stephan<ex>us</ex> archidiacon<ex>us</ex>. Girar-</seg>
-            <seg rend="30,658,319,650,578,653,584,679,30,689">-d<ex>us</ex> archid<ex>iaconus</ex>. Tetbaud<ex>us</ex> archid<ex>iaconus</ex>. Hilduin<ex>us</ex> archidiacon<ex>us</ex>.</seg>
-            <seg rend="31,721,597,707,597,741,290,746,40,752">Hugo archipr<ex>es</ex>b<ex>iter</ex>. Harduin<ex>us</ex> archipr<ex>es</ex>b<ex>iter</ex>. Bauduin<ex>us</ex> archipr<ex>es</ex>b<ex>iter</ex>.</seg>
-            <seg rend="33,759,482,748,484,774,37,783">Gislehard<ex>us</ex> archipr<ex>es</ex>b<ex>iter</ex>. Isembard<ex>us</ex> archipr<ex>es</ex>b<ex>ite</ex>r.</seg>
-            <seg rend="37,792,304,781,598,781,598,809,302,808,43,815">Rotb<ex>er</ex>t<ex>us</ex> archipr<ex>esbiter</ex>. Goffrid<ex>us</ex> archipr<ex>esbiter</ex>. Joh<ex>ann</ex>es archipr<ex>esbiter</ex>.Goffri-</seg>
-            <seg rend="39,820,325,814,581,816,574,840,35,840">-dus archipr<ex>esbiter</ex>. Tetbaudus archipr<ex>esbiter</ex>. Leonius archipr<ex>es</ex>b<ex>iter</ex>.</seg>
-            <seg rend="35,848,275,843,275,877,39,875">Rodulfus archipr<ex>es</ex>b<ex>ite</ex>r.</seg>
-            <seg rend="36,979,596,971,597,1009,31,1009">Data mense septembri, regnante LUDOVICO rege anno</seg>
-            <seg rend="40,1014,108,1016,104,1043,39,1036">II.</seg>
-            <seg rend="43,1158,428,1156,428,1202,32,1200">Girard<ex>us</ex> cancellarius scripsit.</seg>
-          </p>
-        </div>
+        <p>
+          <seg rend="22,73,58,72,50,366,23,367"><ex>Chrismon</ex></seg>
+          <seg rend="64,70,520,61,520,95,63,102">In nomine D<ex>omi</ex>ni. DAIMBERTUS archiep<ex>iscopu</ex>s.</seg>
+          <seg rend="55,107,571,95,574,127,55,136">Notu<ex>m</ex> esse volum<ex>us</ex> om<ex>n</ex>ib<ex>us</ex> Chr<ex>ist</ex>i fidelib<ex>us</ex> q<ex>u</ex>ia, cu<ex>m</ex> in gremio</seg>
+          <seg rend="56,141,581,132,581,157,309,160,60,167">s<ex>an</ex>c<ex>t</ex>æ Matris aeccl<ex>esi</ex>æ sacru<ex>m</ex> cælebrarem<ex>us</ex> c<ex>on</ex>ventu<ex>m</ex>, venit in</seg>
+          <seg rend="59,174,309,166,579,163,576,192,303,194,65,199">p<ex>re</ex>sentia<ex>m</ex> n<ex>ost</ex>ram abbas S<ex>an</ex>c<ex>t</ex>i Germani de Prato Parisiensis</seg>
+          <seg rend="63,207,291,198,587,195,587,224,307,225,61,232">æccl<ex>esi</ex>æ, dep<ex>re</ex>cans ut ei altare de Absedo villa, q<ex>uo</ex>d est in pa-</seg>
+          <seg rend="61,238,312,229,580,231,582,257,302,257,59,265">-go Senonensi, in honore s<ex>an</ex>c<ex>t</ex>i Germani <ex>et</ex> s<ex>an</ex>c<ex>t</ex>i Vincentii,</seg>
+          <seg rend="57,273,312,259,590,263,593,286,296,288,56,296">q<ex>uo</ex>d ad p<ex>er</ex>sona<ex>m</ex> vicarii esse solebat, in censu<ex>m</ex> mittere dignare-</seg>
+          <seg rend="54,301,311,291,595,293,591,320,301,320,54,323">-m<ex>ur</ex>. Nos itaq<ex>ue</ex>, peticioni ej<ex>us</ex> assensu<ex>m</ex> dantes, concedim<ex>us</ex> ei eo te-</seg>
+          <seg rend="53,330,309,325,598,327,594,354,297,352,52,356">-nore ut sing<ex>u</ex>lis annis in festivitate s<ex>an</ex>c<ex>t</ex>i Remigii k<ex>a</ex>l<ex>endas</ex> octob<ex>ris</ex></seg>
+          <seg rend="37,363,320,355,597,363,599,383,293,384,40,388">de censu XX sol<ex>idi</ex> nob<ex>is</ex> solvant<ex>ur</ex>, salva debita obœdientia <ex>et</ex> cir-</seg>
+          <seg rend="32,395,323,388,599,391,599,417,295,416,33,420">-cadis atq<ex>ue</ex> synodis necnon <ex>et</ex> debitis justiciis n<ex>ost</ex>ris. Q<ex>uo</ex>d si negle-</seg>
+          <seg rend="33,428,308,421,603,423,597,452,295,450,32,456">-xerit, legem inde faciat <ex>et</ex> non p<ex>er</ex>dat. Et ut hoc firmu<ex>m</ex> p<ex>er</ex>mane-</seg>
+          <seg rend="28,465,311,455,597,457,591,486,265,483,30,486">-at, manu n<ex>ost</ex>ra subt<ex>er</ex> firmavim<ex>us</ex> synodoq<ex>ue</ex> firmandu<ex>m</ex> tradidim<ex>us</ex>.</seg>
+          <seg rend="25,496,310,488,543,491,539,520,33,526">Actu<ex>m</ex> felicit<ex>er</ex> in eccl<ex>esi</ex>a S<ex>an</ex>c<ex>t</ex>i Stephani publicæ.</seg>
+          <seg rend="34,558,492,549,492,584,36,592">DAIMBERT<ex>US</ex>, D<ex>e</ex>i miseratione archiep<ex>iscopu</ex>s.</seg>
+          <seg rend="34,624,596,610,596,648,311,645,33,652">Ansellus archidiacon<ex>us</ex>. Stephan<ex>us</ex> archidiacon<ex>us</ex>. Girar-</seg>
+          <seg rend="30,658,319,650,578,653,584,679,30,689">-d<ex>us</ex> archid<ex>iaconus</ex>. Tetbaud<ex>us</ex> archid<ex>iaconus</ex>. Hilduin<ex>us</ex> archidiacon<ex>us</ex>.</seg>
+          <seg rend="31,721,597,707,597,741,290,746,40,752">Hugo archipr<ex>es</ex>b<ex>iter</ex>. Harduin<ex>us</ex> archipr<ex>es</ex>b<ex>iter</ex>. Bauduin<ex>us</ex> archipr<ex>es</ex>b<ex>iter</ex>.</seg>
+          <seg rend="33,759,482,748,484,774,37,783">Gislehard<ex>us</ex> archipr<ex>es</ex>b<ex>iter</ex>. Isembard<ex>us</ex> archipr<ex>es</ex>b<ex>ite</ex>r.</seg>
+          <seg rend="37,792,304,781,598,781,598,809,302,808,43,815">Rotb<ex>er</ex>t<ex>us</ex> archipr<ex>esbiter</ex>. Goffrid<ex>us</ex> archipr<ex>esbiter</ex>. Joh<ex>ann</ex>es archipr<ex>esbiter</ex>.Goffri-</seg>
+          <seg rend="39,820,325,814,581,816,574,840,35,840">-dus archipr<ex>esbiter</ex>. Tetbaudus archipr<ex>esbiter</ex>. Leonius archipr<ex>es</ex>b<ex>iter</ex>.</seg>
+          <seg rend="35,848,275,843,275,877,39,875">Rodulfus archipr<ex>es</ex>b<ex>ite</ex>r.</seg>
+          <seg rend="36,979,596,971,597,1009,31,1009">Data mense septembri, regnante LUDOVICO rege anno</seg>
+          <seg rend="40,1014,108,1016,104,1043,39,1036">II.</seg>
+          <seg rend="43,1158,428,1156,428,1202,32,1200">Girard<ex>us</ex> cancellarius scripsit.</seg>
+        </p>
       </div>
       <div type="text">
         <div type="transcription">

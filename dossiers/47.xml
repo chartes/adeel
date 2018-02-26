@@ -17,7 +17,6 @@
     <profileDesc> </profileDesc>
   </teiHeader>
   <text>
-    <front> </front>
     <body>
       <div type="facsimile">
         <p>
@@ -44,10 +43,10 @@
           <seg rend="376,282,375,302,1177,308,1179,288">uti prefata n<ex>ost</ex>ra gr<ex>aci</ex>a nullatenus p<ex>er</ex>mittatis <ex>con</ex>tra huj<ex>us</ex>mo<ex>d</ex>i decreti n<ex>ost</ex>ri mente<ex>m</ex> <ex>et</ex> serie<ex>m</ex></seg>
           <seg rend="1181,291,1608,312">et p<ex>re</ex>sentis n<ex>ost</ex>re pagine jussione<ex>m</ex>. Dat<ex>um</ex> Avi-</seg>
           <seg rend="565,319,564,341,412,330,175,349,53,348,51,331,186,334,415,316">-nion<ex>e</ex> p<ex>er</ex> magistrum Matheu<ex>m</ex> Filmarinum de Neapoli,</seg>
-          <seg rend="566,316,567,335,787,340,991,340,1188,349,1188,333,946,322,787,326">utri<ex>us</ex>q<ex>ue</ex> juris p<ex>ro</ex>fessore<ex>m</ex>, locum tenente<ex>m</ex> <term n="Le protonotaire, depuis l’époque des rois normands, était au sens strict le premier des notaires (le terme et l’institution sont d’empreinte byzantine) ; sous l’autorité du chancelier, il avait la haute main sur la rédaction et l’établissement des actes.">prothonotarii</term> regni Sicil<ex>ie</ex>,</seg>
+          <seg rend="566,316,567,335,787,340,991,340,1188,349,1188,333,946,322,787,326">utri<ex>us</ex>q<ex>ue</ex> juris p<ex>ro</ex>fessore<ex>m</ex>, locum tenente<ex>m</ex> prothonotarii regni Sicil<ex>ie</ex>,</seg>
           <seg rend="1203,333,1601,352">dil<ex>e</ex>ctum consiliariu<ex>m</ex>, familiare<ex>m</ex> <ex>et</ex> fidelem</seg>
           <seg rend="54,370,56,388,242,380,444,373,528,374,528,358,323,360">n<ex>ost</ex>r<ex>u</ex>m, anno Domini M° CCCXX°, die XXIIII° augusti,</seg>
-          <seg rend="539,360,539,376,624,378,806,379,805,364">IIIe <term n="L’indiction indique le rang d’une année dans un cycle de quinze ans ; le premier cycle est parti du 1er septembre 312, mais les styles de changement de l’indiction ont varié (1er ou 24 septembre, 25 décembre), le royaume de Sicile restant fidèle au 1er septembre observé aussi à Byzance. Elle concorde avec les autres données chronologiques ici exprimées.">ind<ex>ictionis</ex></term>, regnor<ex>um</ex> nostror<ex>um</ex> a<ex>n</ex>no XII°.</seg>
+          <seg rend="539,360,539,376,624,378,806,379,805,364">IIIe ind<ex>ictionis</ex>, regnor<ex>um</ex> nostror<ex>um</ex> a<ex>n</ex>no XII°.</seg>
         </p>
       </div>
       <div type="text">
