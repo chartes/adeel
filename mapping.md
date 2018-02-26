@@ -168,62 +168,28 @@ http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 |`clause_renonciation`|renonciations à diverses exceptions prévues par la loi [droit romain ou canonique] ou par la coutume, et qui permettraient de faire annuler l'acte après coup, de faire traîner un procès intenté pour non-respect de l'acte, etc.|
 |`clause_consentement`|mentionnent le consentement donné par des parents ou alliés : laudatio parentum, par un seigneur...|
 |`date`|date de temps.|
+|`todo`|à normaliser par OGJ|
 
-
-## reprise
-* 52 date
-* 39 suscription
-* 38 dispositif
-* 26 corroboration
-* 24 notification
-* 24 expose
-* 22 adresse
-* 20 salut
-* 19 signature
-* 10 invocation
-*  9 souscription
-*  7 ordre
+## reprise => devienne `todo`
 *  6 requete
-*  5 preambule
 *  5 liste
-*  5 clause
 *  4 temoins
-*  4 notification_universelle
-*  4 clause_intentionnelle
+*  5 clause
 *  3 mention_enregistrement
 *  3 mention
-*  3 jussio
 *  3 date_lieu
-*  3 clause_promesse
-*  3 clause_injonctive
 *  3 analyse
-*  3 adresse_universelle
 *  2 vidisalut
 *  2 vide
-*  2 renonciation
 *  2 recognition
-*  2 promesse
-*  2 obligation
 *  2 monogramme
 *  2 corps
 *  2 contreseing
 *  2 coeur
-*  2 clause_reserve
-*  2 clause_prohibitive
-*  2 clause_penale
-*  2 clause_obligation
-*  2 clause_garantie
 *  2 clause_finale
-*  2 clause_corroboration
 *  2 apprecation
 *  1 visa
 *  1 viditemoin
-*  1 vidisuscription
-*  1 vidinotification
-*  1 vidiexpose
-*  1 vididispo
-*  1 vididate
-*  1 vidiadresse
 *  1 substitut
 *  1 signatures
 *  1 seing
@@ -235,17 +201,9 @@ http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 *  1 mention_commandement
 *  1 mention_attestation
 *  1 mention_adventice
-*  1 laudatio
-*  1 intentionnelle
-*  1 injonctive
-*  1 garantie
-*  1 exposé
 *  1 description
-*  1 date_temps
 *  1 complements
 *  1 collation
-*  1 clause_soumission
-*  1 clause_renonciation
 *  1 clause_decharge
 *  1 annonce
 
