@@ -49,6 +49,20 @@ div[@type="facsimile"]
 [@type="history"]
 [@type="paleography"]
 ```
+
+```txt
+div[@type="facsimile"]
+[@type="text"]
+  [@type="transcription"]
+  [@type="translation"]
+  [@type="regeste"]
+[@type="speech"]
+[@type="comments"]
+  [@type="diplomatic"]
+  [@type="history"]
+  [@type="paleography"]
+  [@type="commentaire"] (unspecified)
+```
 TODO: revoir la normalisation div diplomatique / commentaire
 
 
@@ -97,145 +111,64 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |personne|`persName/@ref`|`a[@class="persName"]/@href`|
 |lieu|`placeName/@ref`|`a[@class="placeName"]/@href`|
 
+# Images
 
+## Serveur IIIF:
+* http://193.48.42.68/loris/adele/dossiers/95.jpg/full/full/0/default.jpg
+* http://193.48.42.68/loris/adele/dossiers/95.jpg/info.json
+* http://193.48.42.68/adele/iiif/manifests/
+* http://193.48.42.68/adele/iiif/manifests/man95.json
 
+## Leaflet
+* http://193.48.42.68/Leaflet-IIIF/examples/annotations.html
+* http://193.48.42.68/Leaflet-IIIF/examples/iiif-annotations.js
+
+## Scenario
+1. On soumet une liste de manisfestes (un manifeste par dossier).
+1. Un dossier est créé pour chaque manifeste listé.
+1. On transcrit à côté de l’image affichée dans Leaflet
+1. On crée les zones du facsimilé en utilisant l’outil d’annotation de Leaflet
+1. L’interface doit permettre d’établir la correspondance de ces zones avec des portions de la transcription.
+1. (Caractères externes) On annote éventuellement l’image (certains détails) en utilisant Leaflet. On stocke en base l’onnotation inscrite dans l’objet JS à la saisie Leaflet (cf démo).
+
+Travail Leaflet :
+1. Afficher les zones et les annotations asssociées
+1. Implémenter un bouton pour afficher / cacher les annotations à l’affichage (dossier en consultation).
+1. Configurer un éditeur pour l’enrichissement typographique des annotations (italique, exposant, gras) : utiliser Quill comme éditeur de nos annotations dans leaflet ?
+1. Créer des services : stocker en base le contenu de l’objet JS géré par Leaflet (create, update, delete)
 
 # partie du discours, typologie
 
-## état
-* 1 Clause_decharge => clause_decharge
-* 1 Date => date
-* 1 Dispositif => dispositif
-* 1 Exposé => expose
-* 1 Liste_temoins => temoins
-* 1 Nom_signature => signature
-* 22 adresse
-* 3 adresse_universelle
-* 3 analyse => ???????
-* 1 annonce => ???????
-* 2 apprecation => ???????
-* 4 clause
-* 1 clause_comm  => clause
-* 2 clause_corroboration
-* 2 clause_finale
-* 2 clause_garantie
-* 3 clause_injonctive
-* 4 clause_intentionnelle
-* 2 clause_obligation
-* 1 clause_penale
-* 1 clause_prohi => clause_prohibitive
-* 1 clause_prohibitive
-* 3 clause_promesse
-* 1 clause_pénale => clause_penale
-* 1 clause_renonciation
-* 2 clause_reserve
-* 1 clause_soumission
-* 2 coeur => ???????
-* 1 collation
-* 1 complements
-* 2 contreseing
-* 2 corps
-* 1 corrobo => corroboration
-* 23 corroboration
-* 1 corroboration_2 => corroboration
-* 1 corroboration_probatoire => corroboration
-* 34 date
-* 3 date_1 => date
-* 3 date_2 => date
-* 1 date_de_temps => date
-* 3 date_finale => date
-* 2 date_initiale => date
-* 3 date_lieu
-* 5 date_temps => date
-* 1 datefin => date
-* 1 description
-* 1 dispo => dispositif
-* 34 dispositif
-* 1 dispositif_promesse => dispositif
-* 1 dispositif_suite => dispositif
-* 15 expose
-* 1 expose_1 => expose
-* 1 expose_2 => expose
-* 1 expose_dispositif => expose
-* 6 exposé => expose
-* 1 garantie
-* 1 injonctive
-* 1 intentionnelle
-* 4 invocation
-* 2 invocation_figurée => invocation
-* 4 invocation_verbale
-* 3 jussio
-* 1 laudatio
-* 5 liste
-* 2 liste_de_témoins => temoins
-* 3 mention
-* 1 mention_adventice
-* 1 mention_attestation
-* 1 mention_commandement
-* 1 mention_copie
-* 1 mention_delegation
-* 1 mention_enregistrement
-* 1 mention_enregistrement_1 => mention_enregistrement
-* 1 mention_enregistrement_2 => mention_enregistrement
-* 1 mention_publication
-* 1 minute
-* 2 monogramme
-* 1 nom_signature => signature
-* 3 notif => notification
-* 18 notification
-* 1 notification_1 => notification
-* 1 notification_2 => notification
-* 1 notification_secondaire => notification
-* 4 notification_universelle
-* 2 obligation
-* 1 ordre
-* 1 ordre_1 => ordre
-* 1 ordre_2 => ordre
-* 1 ordre_3 => ordre
-* 1 ordre_4 => ordre
-* 1 ordre_5 => ordre
-* 1 ordre_6 => ordre
-* 5 preambule
-* 1 promesse
-* 1 promesseparents => promesse
-* 2 recognition
-* 1 reference_minute
-* 2 renonciation
-* 1 requete_1 => requete
-* 1 requete_2 => requete
-* 1 requete_3 => requete
-* 1 requete_4 => requete
-* 1 requete_5 => requete
-* 1 requete_6 => requete
-* 20 salut
-* 1 seing
-* 1 sign => signature
-* 12 signature
-* 1 signature_greffier => signature
-* 1 signature_parlement => signature
-* 3 signatures => signature
-* 5 souscription
-* 1 souscription_auteur => souscription
-* 1 souscription_royale => souscription
-* 1 souscription_rédacteur => souscription
-* 1 souscription_témoins => souscription
-* 1 substitut
-* 1 suscriptio => suscription
-* 35 suscription
-* 1 suscription_2 => suscription
-* 1 suscription_depersonnalisee => suscription
-* 1 suscritpion => suscription
-* 1 temoins
-* 2 vide
-* 1 vidiadresse
-* 1 vididate
-* 1 vididispo
-* 1 vidiexpose
-* 1 vidinotification
-* 2 vidisalut
-* 1 vidisuscription
-* 1 viditemoin
-* 1 visa
+## Proposition OGJ
+http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
+
+|label|définition|
+|-----|----------|
+|`invocation`|(verbale = en toutes lettres, ou figurée = sous forme de signe graphique) : place l'acte sous le patronage d'une personne divine.|
+|`suscription`|décline l'identité de l'auteur de l'acte : nom personnel ± pronom personnel ± titre ± formule de dévotion (« par la grâce de Dieu » etc.), dite plus justement formule « de légitimation » par les diplomatistes allemands (cf. « évêque par la grâce du Saint-Siège »).|
+|`adresse`|décline l'identité du destinataire (pas forcément le bénéficiaire) de l'acte/lettre. Peut être individuelle, collective, universelle.|
+|`salut`|de règle quand il y a une adresse. En l'absence d'adresse, rien (ce qui dénote des rapports très tendus) ou formule de perpétuité (p. ex. « ad perpetuam rei memoriam »).|
+|`preambule`|ensemble de considérations générales, à valeur universelle, détachées du contexte particulier, qui motivent et légitiment l'acte.|
+|`notification`|formule-outil qui déclare la volonté de porter à la connaissance des lecteurs/auditeurs de l'acte.|
+|`expose`|exposé logico-chronologique des circonstances qui ont amené la prise de décision.|
+|`dispositif`|cœur de l'acte, dévoile et explicite la décision, l'action juridique.|
+|`clause_tradition`|description des cérémonies d'investiture, de déguerpissement...|
+|`clause_jussio`|mention de l'ordre donné d'écrire l'acte (plutôt dans les actes royaux/princiers).|
+|`clause_rogatio`|symétrique, mention de l'ordre reçu d'écrire l'acte (plutôt dans les actes privés).|
+|`clause_stipulatio`|clause (« cum stipulatione subnexa » etc.) qui renvoie au droit romain antique et (à l'origine) indique que les parties ont échangé formellement leurs consentements.|
+|`clause_corroboration`|annonce des moyens de validation finaux (peut être perpétuelle ; probatoire si elle inclut un mention du type « In cujus rei testimonium »).|
+|`clause_intentionnelle`|exprime que l'acte traduit la volonté de l'auteur : « car ainsi le voulons »...|
+|`clause_injonctive`|ordre donné aux agents d'appliquer l'acte : « Si donnons en mandement... ».|
+|`clause_prohibitive`|inverse de la précédente : interdiction de mettre empêchement ou retard à l'application de l'acte.|
+|`clause_derogative`|l'auteur déroge aux règles qui pourraient contrarier l'application de l'acte : « Nonobstant ordonnances...... a ce contraires ».|
+|`clause_reserve`|inverse de la précédente, l'auteur affirmant que l'acte ne saurait empiéter sur les droits déjà acquis : « sauf en autres choses notre droit, et l'autrui [= le droit d'autrui] en toutes ».|
+|`clause_penale`|prononce à l'avance une condamnation séculière), clause comminatoire (prononce à l'avance une condamnation spirituelle).|
+|`clause_promesse`|l'auteur de l'action s'engage à respecter l'acte, par serment ou autre.|
+|`clause_obligation`|de garantie, de soumission à juridiction (apportent le moyen de faire respecter la promesse : en s'obligeant soi et son corps, ses biens et ses héritiers ; en donnant des garants, ou pleiges, ou en constituant une garantie sur d'autres biens ; en se soumettant d'avance à un tribunal précis).|
+|`clause_renonciation`|renonciations à diverses exceptions prévues par la loi [droit romain ou canonique] ou par la coutume, et qui permettraient de faire annuler l'acte après coup, de faire traîner un procès intenté pour non-respect de l'acte, etc.|
+|`clause_consentement`|mentionnent le consentement donné par des parents ou alliés : laudatio parentum, par un seigneur...|
+|`date`|date de temps.|
+
 
 ## reprise
 * 52 date
