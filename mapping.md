@@ -1,41 +1,23 @@
-# `tei:text/tei:body`
-* `l` (5082)
-* `seg` (4818)
-* `hi` (2138)
-  * `[@rend="i"]` (italique, 900)
-  * `[@rend="b"]` (gras, 456)
-  * `[@rend="sup"]` (exposant, 431)
-  * `[@rend="sc"]` (petites caps, 214)
-  * `[@rend="u"]` (sous-ligné, 99)
-  * `[@rend="color"]` (couleur, 55)
-* `lb` (1645)
-* `term` (1624)
-* `ex` (15739)
-* `p` (1326)
-*  `div` (972)
-*  `head` (519)
-*  `note` (503)
-*  `item` (288)
-*  `add` (161)
-*  `title` (114)
-*   `list` (79)
-*   `figDesc` (36)
-*   `figure` (34)
-*    `quote` (5)
-*    `cb` (4)
-*    `del` (2)
-*    `ref` (1)
+# Lib
+## Python
+* Flask : http://flask.pocoo.org/
 
-# entités
-On conserve :
-* `&amp;`
-* `&gt;`
-* `&lt;`
+## IIIF
+* leaflet : https://github.com/mejackreed/Leaflet-IIIF
+* leaflet (+ annotation) : https://bl.ocks.org/mejackreed
+* iiifviewer : https://github.com/klokantech/iiifviewer
 
-**NB.** Penser à transformer `&quot;` au chargement en base.
+## Editeur
+* Quill : https://quilljs.com/docs/quickstart/
+* Ace (XML) : https://ace.c9.io/
+* ProseMirror : https://prosemirror.net/
+
+## CSS + JavaScript
+* Bulma : https://bulma.io/documentation/overview/start/
+* Vue.js : https://vuejs.org/
 
 
-# TOC `tei:body`
+# Structure (TOC) des dossiers – à revoir
 
 ```txt
 div[@type="facsimile"]
@@ -66,7 +48,35 @@ div[@type="facsimile"]
 TODO: revoir la normalisation div diplomatique / commentaire
 
 
-# Markup
+# Markup des contenus textuels
+
+## Effectifs
+* `l` (5082)
+* `seg` (4818)
+* `hi` (2138)
+  * `[@rend="i"]` (italique, 900)
+  * `[@rend="b"]` (gras, 456)
+  * `[@rend="sup"]` (exposant, 431)
+  * `[@rend="sc"]` (petites caps, 214)
+  * `[@rend="u"]` (sous-ligné, 99)
+  * `[@rend="color"]` (couleur, 55)
+* `lb` (1645)
+* `term` (1624)
+* `ex` (15739)
+* `p` (1326)
+*  `div` (972)
+*  `head` (519)
+*  `note` (503)
+*  `item` (288)
+*  `add` (161)
+*  `title` (114)
+*   `list` (79)
+*   `figDesc` (36)
+*   `figure` (34)
+*    `quote` (5)
+*    `cb` (4)
+*    `del` (2)
+*    `ref` (1)
 
 ## Structure éditoriale
 
@@ -98,7 +108,7 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
 |développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|transcription|
-|texte supprimé|`del`|`del`|transcription|
+|texte supprimé|`del`|`del`|transcription, traduction|
 |liens|`ref[@target]`|`a[@href]`|commentaire|
 |citations **inline**|`quote`|`q`|commentaire|
 |citation **bloc**|`quote`|`blockquote`|commentaire|
@@ -106,34 +116,16 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |personne|`persName/@ref`|`a[@class="persName"]/@href`|transcription, traduction, commentaire|
 |lieu|`placeName/@ref`|`a[@class="placeName"]/@href`|transcription, traduction, commentaire|
 
+# Entités
+On conserve :
+* `&amp;`
+* `&gt;`
+* `&lt;`
 
-# Images
+**NB.** Penser à transformer `&quot;` au chargement en base.
 
-## Serveur IIIF:
-* http://193.48.42.68/loris/adele/dossiers/95.jpg/full/full/0/default.jpg
-* http://193.48.42.68/loris/adele/dossiers/95.jpg/info.json
-* http://193.48.42.68/adele/iiif/manifests/
-* http://193.48.42.68/adele/iiif/manifests/man95.json
 
-## Leaflet
-* http://193.48.42.68/Leaflet-IIIF/examples/annotations.html
-* http://193.48.42.68/Leaflet-IIIF/examples/iiif-annotations.js
-
-## Scenario
-1. On soumet une liste de manisfestes (un manifeste par dossier).
-1. Un dossier est créé pour chaque manifeste listé.
-1. On transcrit à côté de l’image affichée dans Leaflet
-1. On crée les zones du facsimilé en utilisant l’outil d’annotation de Leaflet
-1. L’interface doit permettre d’établir la correspondance de ces zones avec des portions de la transcription.
-1. (Caractères externes) On annote éventuellement l’image (certains détails) en utilisant Leaflet. On stocke en base l’onnotation inscrite dans l’objet JS à la saisie Leaflet (cf démo).
-
-Travail Leaflet :
-1. Afficher les zones et les annotations asssociées
-1. Implémenter un bouton pour afficher / cacher les annotations à l’affichage (dossier en consultation).
-1. Configurer un éditeur pour l’enrichissement typographique des annotations (italique, exposant, gras) : utiliser Quill comme éditeur de nos annotations dans leaflet ?
-1. Créer des services : stocker en base le contenu de l’objet JS géré par Leaflet (create, update, delete)
-
-# partie du discours, typologie
+# Parties du discours, typologie
 
 ## Proposition OGJ
 http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
@@ -202,6 +194,34 @@ http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 *  1 collation
 *  1 clause_decharge
 *  1 annonce
+
+
+# Images
+
+## Serveur IIIF:
+* http://193.48.42.68/loris/adele/dossiers/95.jpg/full/full/0/default.jpg
+* http://193.48.42.68/loris/adele/dossiers/95.jpg/info.json
+* http://193.48.42.68/adele/iiif/manifests/
+* http://193.48.42.68/adele/iiif/manifests/man95.json
+
+## Leaflet
+* http://193.48.42.68/Leaflet-IIIF/examples/annotations.html
+* http://193.48.42.68/Leaflet-IIIF/examples/iiif-annotations.js
+
+## Scenario
+1. On soumet une liste de manisfestes (un manifeste par dossier).
+1. Un dossier est créé pour chaque manifeste listé.
+1. On transcrit à côté de l’image affichée dans Leaflet
+1. On crée les zones du facsimilé en utilisant l’outil d’annotation de Leaflet
+1. L’interface doit permettre d’établir la correspondance de ces zones avec des portions de la transcription.
+1. (Caractères externes) On annote éventuellement l’image (certains détails) en utilisant Leaflet. On stocke en base l’onnotation inscrite dans l’objet JS à la saisie Leaflet (cf démo).
+
+Travail Leaflet :
+1. Afficher les zones et les annotations asssociées
+1. Implémenter un bouton pour afficher / cacher les annotations à l’affichage (dossier en consultation).
+1. Configurer un éditeur pour l’enrichissement typographique des annotations (italique, exposant, gras) : utiliser Quill comme éditeur de nos annotations dans leaflet ?
+1. Créer des services : stocker en base le contenu de l’objet JS géré par Leaflet (create, update, delete)
+
 
 # Mapping (output TEI)
 | description | card. | db | xpath |
