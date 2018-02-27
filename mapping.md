@@ -68,17 +68,6 @@ TODO: revoir la normalisation div diplomatique / commentaire
 
 # Markup
 
-## Enrichissement typographique : `hi`
-
-|enrichissement|`TEI`|`HTML5`|éditeur(s)|
-|--------------|-----|-------|------|
-|italique|`hi[@rend="i"]`|`i`|transcription, traduction, commentaire|
-|gras|`hi[@rend="b"]`|`strong`|transcription, traduction, commentaire|
-|exposant|`hi[@rend="sup"]`|`sup`|transcription, traduction, commentaire|
-|petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|transcription, traduction, commentaire|
-|sous-ligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
-|couleur|`hi[@style="$color"]`|?|transcription, traduction, commentaire|
-
 ## Structure éditoriale
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
@@ -93,17 +82,23 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |saut de colonne|`cb`|?|transcription, traduction, commentaire|
 |note (point, segment)|`note`|`aside[class="note"]`|transcription, traduction, commentaire|
 
-## Transcription
+## Enrichissement typographique : `hi`
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
-|développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|transcription|
-|texte supprimé|`del`|`del`|transcription|
+|italique|`hi[@rend="i"]`|`i`|transcription, traduction, commentaire|
+|gras|`hi[@rend="b"]`|`strong`|transcription, traduction, commentaire|
+|exposant|`hi[@rend="sup"]`|`sup`|transcription, traduction, commentaire|
+|petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|transcription, traduction, commentaire|
+|sous-ligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
+|couleur|`hi[@style="$color"]`|?|transcription, traduction, commentaire|
 
 ## Enrichissements sémantiques
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
+|développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|transcription|
+|texte supprimé|`del`|`del`|transcription|
 |liens|`ref[@target]`|`a[@href]`|commentaire|
 |citations **inline**|`quote`|`q`|commentaire|
 |citation **bloc**|`quote`|`blockquote`|commentaire|
