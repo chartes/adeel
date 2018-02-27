@@ -160,43 +160,6 @@ http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 
 Étiquettes à normaliser (`todo`) avec OGJ dans 34 fichiers : 10, 18, 20, 22, 24, 31, 33, 34, 35, 39, 43, 46, 49, 51, 52, 53, 55, 58, 67, 69, 77, 78, 80, 82, 83, 105, 106, 107, 108, 109, 110, 114, 116, 117 – en remplacement essentiellement d’hapax.
 
-## reprise => devienne `todo`
-*  6 requete
-*  5 liste
-*  4 temoins
-*  5 clause
-*  3 mention_enregistrement
-*  3 mention
-*  3 date_lieu
-*  3 analyse
-*  2 vidisalut
-*  2 vide
-*  2 recognition
-*  2 monogramme
-*  2 corps
-*  2 contreseing
-*  2 coeur
-*  2 clause_finale
-*  2 apprecation
-*  1 visa
-*  1 viditemoin
-*  1 substitut
-*  1 signatures
-*  1 seing
-*  1 reference_minute
-*  1 minute
-*  1 mention_publication
-*  1 mention_delegation
-*  1 mention_copie
-*  1 mention_commandement
-*  1 mention_attestation
-*  1 mention_adventice
-*  1 description
-*  1 complements
-*  1 collation
-*  1 clause_decharge
-*  1 annonce
-
 
 # Images
 
