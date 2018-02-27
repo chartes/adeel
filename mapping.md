@@ -68,7 +68,7 @@ TODO: revoir la normalisation div diplomatique / commentaire
 
 # Markup
 
-**enrichissement typographique : `hi`**
+## Enrichissement typographique : `hi`
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
@@ -79,7 +79,7 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |sous-ligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
 |couleur|`hi[@style="$color"]`|?|transcription, traduction, commentaire|
 
-**structure éditoriale**
+## Structure éditoriale
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
@@ -93,14 +93,14 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |saut de colonne|`cb`|?|transcription, traduction, commentaire|
 |note (point, segment)|`note`|`aside[class="note"]`|transcription, traduction, commentaire|
 
-**transcription**
+## Transcription
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
 |développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|transcription|
 |texte supprimé|`del`|`del`|transcription|
 
-**enrichissements sémantiques**
+## Enrichissements sémantiques
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
@@ -110,6 +110,7 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |[mention bibliographique, titre](http://html5doctor.com/blockquote-q-cite/)|`title/@ref`|`cite/a`|commentaire|
 |personne|`persName/@ref`|`a[@class="persName"]/@href`|transcription, traduction, commentaire|
 |lieu|`placeName/@ref`|`a[@class="placeName"]/@href`|transcription, traduction, commentaire|
+
 
 # Images
 
