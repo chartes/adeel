@@ -70,46 +70,46 @@ TODO: revoir la normalisation div diplomatique / commentaire
 
 **enrichissement typographique : `hi`**
 
-|enrichissement|`TEI`|`HTML5`|
-|---|---|---|
-|italique|`hi[@rend="i"]`|`i`|
-|gras|`hi[@rend="b"]`|`strong`|
-|exposant|`hi[@rend="sup"]`|`sup`|
-|petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|
-|sous-ligné|`hi[@rend="u"]`|`u`|
-|couleur|`hi[@style="$color"]`|?|
+|enrichissement|`TEI`|`HTML5`|éditeur(s)|
+|--------------|-----|-------|------|
+|italique|`hi[@rend="i"]`|`i`|transcription, traduction, commentaire|
+|gras|`hi[@rend="b"]`|`strong`|transcription, traduction, commentaire|
+|exposant|`hi[@rend="sup"]`|`sup`|transcription, traduction, commentaire|
+|petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|transcription, traduction, commentaire|
+|sous-ligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
+|couleur|`hi[@style="$color"]`|?|transcription, traduction, commentaire|
 
 **structure éditoriale**
 
-|enrichissement|`TEI`|`HTML5`|
-|---|---|---|
-|division|`div`|`section`|
-|paragraphe|`p`|`p`|
-|liste|`list`|`ul`|
-|item de liste|`item`|`li`|
-|vers|`l`|`div[@class="l"]`|
-|titre hiérarchique|`head`|`h2`, `h3`, `h4`…|
-|saut de ligne|`lb`|`br`|
-|saut de colonne|`cb`|?|
-|note (point, segment)|`note`|`aside[class="note"]`|
+|enrichissement|`TEI`|`HTML5`|éditeur(s)|
+|--------------|-----|-------|------|
+|division|`div`|`section`|commentaire|
+|titre hiérarchique|`head`|`h2`, `h3`, `h4`…|commentaire|
+|paragraphe|`p`|`p`|transcription, traduction, commentaire|
+|liste|`list`|`ul`|commentaire|
+|item de liste|`item`|`li`|commentaire|
+|vers|`l`|`div[@class="l"]`|transcription, traduction, commentaire|
+|saut de ligne|`lb`|`br`|transcription, traduction, commentaire|
+|saut de colonne|`cb`|?|transcription, traduction, commentaire|
+|note (point, segment)|`note`|`aside[class="note"]`|transcription, traduction, commentaire|
 
 **transcription**
 
-|enrichissement|`TEI`|`HTML5`|
-|---|---|---|
-|développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|
-|texte supprimé|`del`|`del`|
+|enrichissement|`TEI`|`HTML5`|éditeur(s)|
+|--------------|-----|-------|------|
+|développement abréviation|`ex`|`span[@class="ex"]`, `ins` ?|transcription|
+|texte supprimé|`del`|`del`|transcription|
 
 **enrichissements sémantiques**
 
-|enrichissement|`TEI`|`HTML5`|
-|---|---|---|
-|liens|`ref[@target]`|`a[@href]`|
-|citations **inline**|`quote`|`q`|
-|citation **bloc**|`quote`|`blockquote`|
-|[mention bibliographique, titre](http://html5doctor.com/blockquote-q-cite/)|`title/@ref`|`cite/a`|
-|personne|`persName/@ref`|`a[@class="persName"]/@href`|
-|lieu|`placeName/@ref`|`a[@class="placeName"]/@href`|
+|enrichissement|`TEI`|`HTML5`|éditeur(s)|
+|--------------|-----|-------|------|
+|liens|`ref[@target]`|`a[@href]`|commentaire|
+|citations **inline**|`quote`|`q`|commentaire|
+|citation **bloc**|`quote`|`blockquote`|commentaire|
+|[mention bibliographique, titre](http://html5doctor.com/blockquote-q-cite/)|`title/@ref`|`cite/a`|commentaire|
+|personne|`persName/@ref`|`a[@class="persName"]/@href`|transcription, traduction, commentaire|
+|lieu|`placeName/@ref`|`a[@class="placeName"]/@href`|transcription, traduction, commentaire|
 
 # Images
 
