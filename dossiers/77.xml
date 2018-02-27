@@ -121,10 +121,10 @@
           <seg ana="clause_intentionnelle">Car ainsi nous plaist il et voulons estre fait.<note type="speech">Clause intentionnelle</note></seg>
           <seg ana="clause_corroboration">En tesmoing de ce, nous avons fait mettre nostre seel a cesdictes presentes.<note type="speech">Corroboration probatoire</note></seg>
           <seg ana="date">Donné audit lieu de Peronne, le quatorzeiesme jour d’octobre, l’an de grace mil CCCC soixante et huit, et de nostre regne le huitiesme.<note type="speech">Date de lieu et de temps</note></seg>
-          <seg ana="mention_commandement">Par le roy en son conseil.<note type="speech">Mention de commandement</note></seg>
+          <seg ana="todo">Par le roy en son conseil.<note type="speech">Mention de commandement</note></seg>
           <seg ana="suscription">De La Loere.<note type="speech">Signature (avec paraphe) du notaire et secrétaire responsable de l’expédition</note></seg>
-          <seg ana="mention_enregistrement"><hi rend="i">Lecta, publicata et registrata, presente et consentiente procuratore generali regis, Parisius, in parlame(n)to, secunda die martii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>.</hi> — Brunat.<note type="speech">Mention d’enregistrement au parlement de Paris, et signature d’un greffier du parlement</note></seg>
-          <seg ana="mention_adventice">Appellacions de Flandre <hi rend="i">obbmisso medio</hi>.<note type="speech">Mention adventice postérieure, sans valeur juridique, sans doute d’archivage</note></seg>
+          <seg ana="todo"><hi rend="i">Lecta, publicata et registrata, presente et consentiente procuratore generali regis, Parisius, in parlame(n)to, secunda die martii milesimo CCCC<hi rend="sup">mo</hi> LXVIII<hi rend="sup">o</hi>.</hi> — Brunat.<note type="speech">Mention d’enregistrement au parlement de Paris, et signature d’un greffier du parlement</note></seg>
+          <seg ana="todo">Appellacions de Flandre <hi rend="i">obbmisso medio</hi>.<note type="speech">Mention adventice postérieure, sans valeur juridique, sans doute d’archivage</note></seg>
         </p>
       </div>
       <div type="diplomatic">

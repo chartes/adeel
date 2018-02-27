@@ -125,10 +125,10 @@
             <seg ana="dispositif">concedimus eidem fideli nostro, Roclino nomine, ad proprium quasdam res juris nostri sitas in comitatu Avalense, in villa nuncupata Dornetiaco, id est mansa viginti duo, sine ecclesia, cum mancipiis, terris, vineis, silvis, pratis abjacentiis, aquis aquarumve discursibus vel quantumcumque ad predictos mansos aspicere videtur. Has res cum omni integritate memorato predictoque fideli nostro Roclino ad proprium per hanc nostre actoritatis conscriptionem concedimus et de nostro jure in jus hac potestatem illius sollemni donatione transferimus, ita videlicet ut quicquid ab hodierna die et tempore exinde pro sua utilitate ac commoditate jure proprietario facere voluerit, liberam et firmissimam in omnibus habeat potestatem faciendi.<note type="speech">Dispositif</note></seg>
             <seg ana="clause_corroboration">Et ut hæc nostræ largitionis atque donationis auctoritas perpetuam obtineat firmitatem, eam manus nostræ propriæ subterfirmavimus et anuli nostri inpressione sigillari decrevimus.<note type="speech">Corroboration</note></seg>
             <seg ana="suscription">Signum Karoli (<hi rend="i">monogramme</hi>) gloriosissimi regis.<note type="speech">Souscription royale</note></seg>
-            <seg ana="recognition">Deormarus notarius advicem Hludovici recognovit.<note type="speech">Récogntition de chancellerie</note></seg>
+            <seg ana="todo">Deormarus notarius advicem Hludovici recognovit.<note type="speech">Récogntition de chancellerie</note></seg>
             <seg ana="date">Data pridie kalendas septembris, indictione V, anno III regnante Karolo glorioso rege.<note type="speech">Date de temps</note></seg>
-            <seg ana="date_lieu">Actum Castellione super fluvium Dornonia.<note type="speech">Date de lieu</note></seg>
-            <seg ana="apprecation">In Dei nomine feliciter. Amen.<note type="speech">Apprécation</note></seg>
+            <seg ana="todo">Actum Castellione super fluvium Dornonia.<note type="speech">Date de lieu</note></seg>
+            <seg ana="todo">In Dei nomine feliciter. Amen.<note type="speech">Apprécation</note></seg>
           </p>
       </div>
       <div type="diplomatic">

@@ -94,11 +94,11 @@
             <seg ana="date">Donné à Versailles au mois de may l’an de grace mil six cent quatre-vingt-dix-huit et de notre regne le cinquante cinquième.<note type="speech">Date</note></seg>
             <seg ana="suscription">L<hi rend="sc">OUIS</hi><note type="speech">Signature du roi</note></seg>
             <seg ana="clause_jussio">par le roy<lb/><note type="speech">Mention de jussio</note></seg>
-            <seg ana="contreseing">P<hi rend="sc">HELYPEAUX</hi> (paraphe)<note type="speech">Contreseing du secrétaire d’État</note></seg>
-            <seg ana="visa">visa B<hi rend="sc">OUCHERAT</hi><note type="speech">Visa et signature du chancelier</note></seg>
-            <seg ana="mention_enregistrement">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note type="speech">Mention d’enregistrement</note></seg>
+            <seg ana="todo">P<hi rend="sc">HELYPEAUX</hi> (paraphe)<note type="speech">Contreseing du secrétaire d’État</note></seg>
+            <seg ana="todo">visa B<hi rend="sc">OUCHERAT</hi><note type="speech">Visa et signature du chancelier</note></seg>
+            <seg ana="todo">Registrées en la Chambre des comptes, ouy et ce requerant le procureur general du roy, pour estre executtées selon leur forme et teneur, les bureaux assemblez le vingt-sixième may M VIc quatre-vingt-dix-huit.<note type="speech">Mention d’enregistrement</note></seg>
             <seg ana="suscription">G<hi rend="sc">AMART</hi>, nihil (paraphe)<note type="speech">Signature du greffier de la Chambre des comptes</note></seg>
-            <seg ana="mention_enregistrement">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note type="speech">Mention d’enregistrement</note></seg>
+            <seg ana="todo">Registré ouy et ce requerant le procureur general du roy pour estre executé selon sa forme et teneur suivant l’arrest de ce jour. À Paris en sa cour le le quatorze may M VIc quatre-vingt-dix-huit.<note type="speech">Mention d’enregistrement</note></seg>
             <seg ana="suscription">D<hi rend="sc">ONGOIS</hi> (paraphe)<note type="speech">Signature du greffier du Parlement</note></seg>
           </p>
         </div>

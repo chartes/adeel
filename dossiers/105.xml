@@ -141,18 +141,18 @@
         <head>Parties du discours</head>
         <p>
           <seg ana="date">Mai 1763.<note type="speech">Date</note></seg>
-          <seg ana="analyse">Ordre du roi. (paraphe)<note type="speech">Analyse</note></seg>
-          <seg ana="requete">Le sieur Luthier demande si l’on éclairera et chauffera le château de Marly le voyage prochain comme dans les voyages ordinaires.<note type="speech">Requête</note></seg>
+          <seg ana="todo">Ordre du roi. (paraphe)<note type="speech">Analyse</note></seg>
+          <seg ana="todo">Le sieur Luthier demande si l’on éclairera et chauffera le château de Marly le voyage prochain comme dans les voyages ordinaires.<note type="speech">Requête</note></seg>
           <seg ana="clause_injonctive">Le pavillon du roy comme à l’ordinaire, mais l’on ne donnera de bois d’arrivée à personne. (paraphe)<note type="speech">Ordre</note></seg>
-          <seg ana="requete">Si le concierge, les garçons du garde-meuble, les sieurs Boucheman et Lemoine, les garçons du château, l’orloger, le garçon des chiens et les porteurs seront chauffés et éclairés.<note type="speech">Requête</note></seg>
+          <seg ana="todo">Si le concierge, les garçons du garde-meuble, les sieurs Boucheman et Lemoine, les garçons du château, l’orloger, le garçon des chiens et les porteurs seront chauffés et éclairés.<note type="speech">Requête</note></seg>
           <seg ana="clause_injonctive">Le voyage étant comme celui de Versailles, l’on n’est obligé à rien, mais on peut leur donner quelque secours en bois et lumières ; m<hi rend="sup">rs</hi> Bouceman et Lemoine, oui sûrement. (paraphe)<note type="speech">Ordre</note></seg>
-          <seg ana="requete">Si on éclairera les salles des gardes de Votre Majesté, des gardes de la Porte et des Cent Suisses.<note type="speech">Requête</note></seg>
+          <seg ana="todo">Si on éclairera les salles des gardes de Votre Majesté, des gardes de la Porte et des Cent Suisses.<note type="speech">Requête</note></seg>
           <seg ana="clause_injonctive">Oui, sans doute. (paraphe)<note type="speech">Ordre</note></seg>
-          <seg ana="requete">Si les femmes de chambre de mesdames qui logent hors du château seront chauffées et éclairées.<note type="speech">Requête</note>></seg>
+          <seg ana="todo">Si les femmes de chambre de mesdames qui logent hors du château seront chauffées et éclairées.<note type="speech">Requête</note>></seg>
           <seg ana="clause_injonctive">Oui, en observant la règle la plus exacte. (paraphe)<note type="speech">Ordre</note></seg>
-          <seg ana="requete">Si on donnera une bougie blanche par jour au supérieur des cordeliers de Noisy.<note type="speech">Requête</note></seg>
+          <seg ana="todo">Si on donnera une bougie blanche par jour au supérieur des cordeliers de Noisy.<note type="speech">Requête</note></seg>
           <seg ana="clause_injonctive">Oui. Non, une demie.<note type="speech">Ordre</note></seg>
-          <seg ana="requete">Et si on donnera une bougie par jour au vicaire de la paroisse qui dessert la chapelle du commun.<note type="speech">Requête</note>></seg>
+          <seg ana="todo">Et si on donnera une bougie par jour au vicaire de la paroisse qui dessert la chapelle du commun.<note type="speech">Requête</note>></seg>
           <seg ana="clause_injonctive">Non, mais la valeur en argent. (paraphe)<note type="speech">Ordre</note></seg>
           <seg ana="clause_injonctive">Le roy chauffe et éclaire les conseillers d’État à leur pied-à-terre qui est au 5 au commun. (paraphe)<note type="speech">Ordre</note></seg>
           <seg ana="suscription">NOAILLES.<note type="speech">Signature</note></seg>

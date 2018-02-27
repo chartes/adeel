@@ -130,33 +130,35 @@ On conserve :
 ## Proposition OGJ
 http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
 
-|label|définition|
-|-----|----------|
-|`invocation`|(verbale = en toutes lettres, ou figurée = sous forme de signe graphique) : place l'acte sous le patronage d'une personne divine.|
-|`suscription`|décline l'identité de l'auteur de l'acte : nom personnel ± pronom personnel ± titre ± formule de dévotion (« par la grâce de Dieu » etc.), dite plus justement formule « de légitimation » par les diplomatistes allemands (cf. « évêque par la grâce du Saint-Siège »).|
-|`adresse`|décline l'identité du destinataire (pas forcément le bénéficiaire) de l'acte/lettre. Peut être individuelle, collective, universelle.|
-|`salut`|de règle quand il y a une adresse. En l'absence d'adresse, rien (ce qui dénote des rapports très tendus) ou formule de perpétuité (p. ex. « ad perpetuam rei memoriam »).|
-|`preambule`|ensemble de considérations générales, à valeur universelle, détachées du contexte particulier, qui motivent et légitiment l'acte.|
-|`notification`|formule-outil qui déclare la volonté de porter à la connaissance des lecteurs/auditeurs de l'acte.|
-|`expose`|exposé logico-chronologique des circonstances qui ont amené la prise de décision.|
-|`dispositif`|cœur de l'acte, dévoile et explicite la décision, l'action juridique.|
-|`clause_tradition`|description des cérémonies d'investiture, de déguerpissement...|
-|`clause_jussio`|mention de l'ordre donné d'écrire l'acte (plutôt dans les actes royaux/princiers).|
-|`clause_rogatio`|symétrique, mention de l'ordre reçu d'écrire l'acte (plutôt dans les actes privés).|
-|`clause_stipulatio`|clause (« cum stipulatione subnexa » etc.) qui renvoie au droit romain antique et (à l'origine) indique que les parties ont échangé formellement leurs consentements.|
-|`clause_corroboration`|annonce des moyens de validation finaux (peut être perpétuelle ; probatoire si elle inclut un mention du type « In cujus rei testimonium »).|
-|`clause_intentionnelle`|exprime que l'acte traduit la volonté de l'auteur : « car ainsi le voulons »...|
-|`clause_injonctive`|ordre donné aux agents d'appliquer l'acte : « Si donnons en mandement... ».|
-|`clause_prohibitive`|inverse de la précédente : interdiction de mettre empêchement ou retard à l'application de l'acte.|
-|`clause_derogative`|l'auteur déroge aux règles qui pourraient contrarier l'application de l'acte : « Nonobstant ordonnances...... a ce contraires ».|
-|`clause_reserve`|inverse de la précédente, l'auteur affirmant que l'acte ne saurait empiéter sur les droits déjà acquis : « sauf en autres choses notre droit, et l'autrui [= le droit d'autrui] en toutes ».|
-|`clause_penale`|prononce à l'avance une condamnation séculière), clause comminatoire (prononce à l'avance une condamnation spirituelle).|
-|`clause_promesse`|l'auteur de l'action s'engage à respecter l'acte, par serment ou autre.|
-|`clause_obligation`|de garantie, de soumission à juridiction (apportent le moyen de faire respecter la promesse : en s'obligeant soi et son corps, ses biens et ses héritiers ; en donnant des garants, ou pleiges, ou en constituant une garantie sur d'autres biens ; en se soumettant d'avance à un tribunal précis).|
-|`clause_renonciation`|renonciations à diverses exceptions prévues par la loi [droit romain ou canonique] ou par la coutume, et qui permettraient de faire annuler l'acte après coup, de faire traîner un procès intenté pour non-respect de l'acte, etc.|
-|`clause_consentement`|mentionnent le consentement donné par des parents ou alliés : laudatio parentum, par un seigneur...|
-|`date`|date de temps.|
-|`todo`|à normaliser par OGJ|
+|label|occs|définition|
+|-----|----|----------|
+|`invocation`|10|(verbale = en toutes lettres, ou figurée = sous forme de signe graphique) : place l'acte sous le patronage d'une personne divine.|
+|`suscription`|73|décline l'identité de l'auteur de l'acte : nom personnel ± pronom personnel ± titre ± formule de dévotion (« par la grâce de Dieu » etc.), dite plus justement formule « de légitimation » par les diplomatistes allemands (cf. « évêque par la grâce du Saint-Siège »).|
+|`adresse`|30|décline l'identité du destinataire (pas forcément le bénéficiaire) de l'acte/lettre. Peut être individuelle, collective, universelle.|
+|`salut`|24|de règle quand il y a une adresse. En l'absence d'adresse, rien (ce qui dénote des rapports très tendus) ou formule de perpétuité (p. ex. « ad perpetuam rei memoriam »).|
+|`preambule`|6|ensemble de considérations générales, à valeur universelle, détachées du contexte particulier, qui motivent et légitiment l'acte.|
+|`notification`|29|formule-outil qui déclare la volonté de porter à la connaissance des lecteurs/auditeurs de l'acte.|
+|`expose`|29|exposé logico-chronologique des circonstances qui ont amené la prise de décision.|
+|`dispositif`|44|cœur de l'acte, dévoile et explicite la décision, l'action juridique.|
+|`clause_tradition`|0|description des cérémonies d'investiture, de déguerpissement...|
+|`clause_jussio`|3|mention de l'ordre donné d'écrire l'acte (plutôt dans les actes royaux/princiers).|
+|`clause_rogatio`|0|symétrique, mention de l'ordre reçu d'écrire l'acte (plutôt dans les actes privés).|
+|`clause_stipulatio`|0|clause (« cum stipulatione subnexa » etc.) qui renvoie au droit romain antique et (à l'origine) indique que les parties ont échangé formellement leurs consentements.|
+|`clause_corroboration`|28|annonce des moyens de validation finaux (peut être perpétuelle ; probatoire si elle inclut un mention du type « In cujus rei testimonium »).|
+|`clause_intentionnelle`|5|exprime que l'acte traduit la volonté de l'auteur : « car ainsi le voulons »...|
+|`clause_injonctive`|11|ordre donné aux agents d'appliquer l'acte : « Si donnons en mandement... ».|
+|`clause_prohibitive`|2|inverse de la précédente : interdiction de mettre empêchement ou retard à l'application de l'acte.|
+|`clause_derogative`|0|l'auteur déroge aux règles qui pourraient contrarier l'application de l'acte : « Nonobstant ordonnances...... a ce contraires ».|
+|`clause_reserve`|2|inverse de la précédente, l'auteur affirmant que l'acte ne saurait empiéter sur les droits déjà acquis : « sauf en autres choses notre droit, et l'autrui [= le droit d'autrui] en toutes ».|
+|`clause_penale`|3|prononce à l'avance une condamnation séculière), clause comminatoire (prononce à l'avance une condamnation spirituelle).|
+|`clause_promesse`|5|l'auteur de l'action s'engage à respecter l'acte, par serment ou autre.|
+|`clause_obligation`|8|de garantie, de soumission à juridiction (apportent le moyen de faire respecter la promesse : en s'obligeant soi et son corps, ses biens et ses héritiers ; en donnant des garants, ou pleiges, ou en constituant une garantie sur d'autres biens ; en se soumettant d'avance à un tribunal précis).|
+|`clause_renonciation`|3|renonciations à diverses exceptions prévues par la loi [droit romain ou canonique] ou par la coutume, et qui permettraient de faire annuler l'acte après coup, de faire traîner un procès intenté pour non-respect de l'acte, etc.|
+|`clause_consentement`|1|mentionnent le consentement donné par des parents ou alliés : laudatio parentum, par un seigneur...|
+|`date`|58|date de temps.|
+|`todo`|68|à normaliser par OGJ|
+
+Étiquettes à normaliser (`todo`) avec OGJ dans 34 fichiers : 10, 18, 20, 22, 24, 31, 33, 34, 35, 39, 43, 46, 49, 51, 52, 53, 55, 58, 67, 69, 77, 78, 80, 82, 83, 105, 106, 107, 108, 109, 110, 114, 116, 117 – en remplacement essentiellement d’hapax.
 
 ## reprise => devienne `todo`
 *  6 requete

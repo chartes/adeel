@@ -190,7 +190,7 @@
       <div type="speech">
         <head>Parties du discours</head>
         <p>
-          <seg ana="analyse">Procès-verbal à l’occasion du feu qu’on croyoit estre dans le petit cabinet de monsieur le lieutenant criminel au Châtelet. 1<hi rend="sup">er</hi> avril 1744.<note type="speech">Analyse</note></seg>
+          <seg ana="todo">Procès-verbal à l’occasion du feu qu’on croyoit estre dans le petit cabinet de monsieur le lieutenant criminel au Châtelet. 1<hi rend="sup">er</hi> avril 1744.<note type="speech">Analyse</note></seg>
           <seg ana="adresse">M. le procureur du roy.<note type="speech">Adresse</note></seg>
           <seg ana="date">L’an mil sept cent quarante-quatre, le mercredy premier jour d’avril sur les dix heures et demie du soir,<note type="speech">Date de temps</note></seg>
           <seg ana="suscription">nous, André Le Guay de Prémontval, conseiller du roy commissaire au Châtelet de Paris, ancien préposé pour la police au quartier de Saint-Jacques-de-la-Boucherie dont dépend le Grand Châtelet,<note type="speech">Suscription</note></seg>
