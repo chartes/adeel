@@ -100,8 +100,8 @@ TODO: revoir la normalisation div diplomatique / commentaire
 |gras|`hi[@rend="b"]`|`strong`|transcription, traduction, commentaire|
 |exposant|`hi[@rend="sup"]`|`sup`|transcription, traduction, commentaire|
 |petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|transcription, traduction, commentaire|
-|sous-ligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
-|couleur|`hi[@style="$color"]`|?|transcription, traduction, commentaire|
+|souligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
+|couleur|`hi[@style="$color"]`|?|commentaire|
 
 ## Enrichissements sémantiques
 
@@ -128,7 +128,8 @@ On conserve :
 # Parties du discours, typologie
 
 ## Proposition OGJ
-http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7
+http://theleme.enc.sorbonne.fr/cours/diplomatique#index_7  
+http://www.cei.lmu.de/VID/
 
 |label|occs|définition|
 |-----|----|----------|
