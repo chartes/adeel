@@ -99,11 +99,11 @@ TODO: revoir la normalisation div diplomatique / commentaire
 
 |enrichissement|`TEI`|`HTML5`|éditeur(s)|
 |--------------|-----|-------|------|
-|italique|`hi[@rend="i"]`|`i`|transcription, traduction, commentaire|
-|gras|`hi[@rend="b"]`|`strong`|transcription, traduction, commentaire|
-|exposant|`hi[@rend="sup"]`|`sup`|transcription, traduction, commentaire|
+|italique|`hi[@rend="i"]`|`i`|transcription, traduction, commentaire, annotation facsimile|
+|gras|`hi[@rend="b"]`|`strong`|transcription, traduction, commentaire, annotation facsimile|
+|exposant|`hi[@rend="sup"]`|`sup`|transcription, traduction, commentaire, annotation facsimile|
 |petites caps|`hi[@rend="sc"]`|`span[@class="sc"]`|transcription, traduction, commentaire|
-|souligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire|
+|souligné|`hi[@rend="u"]`|`u`|transcription, traduction, commentaire, annotation facsimile|
 |couleur|`hi[@style="$color"]`|?|commentaire|
 
 ## Enrichissements sémantiques
