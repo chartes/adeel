@@ -1,6 +1,9 @@
 # Lib
 ## Python
 * Flask : http://flask.pocoo.org/
+* Flask-SQLAlchemy : http://flask-sqlalchemy.pocoo.org/2.3/
+* Flask-User v0.6 : http://flask-user.readthedocs.io/en/v0.6/
+
 
 ## IIIF
 * leaflet : https://github.com/mejackreed/Leaflet-IIIF
