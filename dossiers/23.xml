@@ -171,13 +171,13 @@
           <head>Caractères externes</head>
           <figure rend="23/faxexternes.jpg"/>
           <figDesc>
-            <seg type="rect" rend="50,21,76,53">Souci décoratif.</seg>
-            <seg type="rect" rend="276,32,314,54">Souci décoratif.</seg>
-            <seg type="rect" rend="439,71,469,93">Marquage des coupures de mot en fin de ligne.</seg>		                    
-            <seg type="rect" rend="288,115,314,131">i pointé par un trait oblique appuyé.</seg>
             <seg type="rect" rend="441,115,470,135">Marquage des coupures de mot en fin de ligne.</seg>
+            <seg type="rect" rend="439,71,469,93">Marquage des coupures de mot en fin de ligne.</seg>
             <seg type="rect" rend="167,411,479,432">Trait interdisant un ajout.</seg>
             <seg type="rect" rend="215,441,268,495">Double queue de parchemin.</seg>
+            <seg type="rect" rend="288,115,314,131">i pointé par un trait oblique appuyé.</seg>
+            <seg type="rect" rend="276,32,314,54">Souci décoratif.</seg>
+            <seg type="rect" rend="50,21,76,53">Souci décoratif.</seg>
           </figDesc>
           <p>Comme pour les traits rédactionnels, on comparera utilement le document  avec un autre dossier disponible sur le site, l’acte  de l’officialité de Meaux de 1251. A dix années d’écart  seulement, ils concernent la même zone (Marchémoret est à 4 km d’Oissery)  et impliquent le même bénéficiaire, l’abbaye cistercienne  de Chaalis.</p>
           <p>Au plan des caractères externes, les traits sont largement partagés  (sauf que les coupures de mot en fin de ligne réapparaissent ici).  Mais cet acte-ci, à l’écriture moins cursive, se distingue aussi  par un discret supplément d’application, de souci décoratif :  si le repli supportant la double queue est assez modeste, le scripteur ménage  une marge assez bien justifiée non seulement à gauche, mais encore  à droite. La majuscule initiale, certaines lettres finales (en particulier  le <hi rend="i">s</hi>, ligne 1) renforcent ce trait. En bref, on donne un peu  plus de lustre à un acte qui, différence essentielle, n’est pas scellé  (toujours sur double queue) d’un sceau institutionnel, mais du sceau personnel  d’un membre de la bonne société locale.</p>		                

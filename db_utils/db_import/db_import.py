@@ -7,12 +7,22 @@ import pprint
 import lxml.etree as ET
 from itertools import chain
 
+from sqlalchemy import create_engine
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import create_session
 
+from db_utils.db_import.alignment import delete_insert_alignment_transcription_translation
+
+
+def name_for_collection_relationship(base, local_cls, referred_cls,constraint):
+    disc = '_'.join(col.name for col in constraint.columns)
+    return referred_cls.__name__.lower() + '_' + disc + "_collection"
 
 """
 CONSTS
 """
 ROOT="/Users/mrgecko/Documents/Dev/Data/adele/dossiers"
+DEST="../sql"
 NS_TI={"ti":"http://www.tei-c.org/ns/1.0"}
 USERNAME="jpilla"
 
@@ -28,6 +38,10 @@ note_id = 0
 translation_id = 0
 transcription_id = 0
 
+Base = automap_base()
+engine = create_engine("sqlite:////Users/mrgecko/Documents/Dev/Data/adele/adele.sqlite")
+Base.prepare(engine, reflect=True, name_for_collection_relationship=name_for_collection_relationship)
+session = create_session(bind=engine)
 
 """
 XPATH
@@ -58,6 +72,12 @@ get_delete_stmt = lambda table,where_clause="": "DELETE FROM {0} {1};".format(ta
 clean_entities = lambda s: s.replace("&amp;", "&").replace("&gt;", ">").replace("&lt;", "<")
 nullIfNone = lambda v, callback=None : "null" if v is None else callback(v) if callback is not None else v
 escapeQuotes = lambda s: s.replace('"', '\\"')
+
+def get_rid_of_notes(content):
+    while content.find("<term") > -1:
+        content = re.sub("<term[^>]*>", repl='', string=content, count=1)
+        content = re.sub("</term[^>]*>", repl='', string=content, count=1)
+    return content
 
 
 def stringify_children(node):
@@ -201,7 +221,7 @@ def insert_note_types():
 
 def insert_transcription_has_note(dossier):
     stmts = [
-        get_insert_stmt("transcriptionHasNote",
+        get_insert_stmt("transcription_has_note",
                         "transcription_id,note_id,ptr_start,ptr_end",
                         "{0},{1},{2},{3}".format(dossier["transcription_id"], note["id"],
                                                  note["ptr_start"], note["ptr_end"])
@@ -217,7 +237,7 @@ def insert_translation_has_note(dossier):
     #    dossier["translation_notes"][i]["id"] = id
 
     stmts = [
-        get_insert_stmt("translationHasNote",
+        get_insert_stmt("translation_has_note",
                         "translation_id,note_id,ptr_start,ptr_end",
                         "{0},{1},{2},{3}".format(dossier["translation_id"],
                                                  note["id"],
@@ -235,6 +255,20 @@ def update_argument(dossier):
                         "WHERE doc_id={0}".format(dossier["id"]))
     ]
     return stmts
+
+def insert_alignemnt_transcription_translation(session, id1, id2, p1, p2, p3, p4):
+    #print(id1, id2, p1, p2, p3, p4)
+    altr = Base.metadata.tables["alignment_translation"].insert()
+    ins = altr.values(translation_id=id1,
+                      transcription_id=id2,
+                      ptr_transcription_start=p1,
+                      ptr_transcription_end=p2,
+                      ptr_translation_start=p3,
+                      ptr_translation_end=p4,
+    )
+    ins.compile()
+    res = session.execute(ins)
+    return res
 
 """
 validity checks
@@ -258,7 +292,7 @@ processing
 =====================================
 """
 dossiers = {}
-filenames = [f for f in os.listdir(ROOT) if f.endswith(".xml")]
+filenames = [f for f in os.listdir(ROOT) if f.endswith("20.xml")]
 filenames.sort()
 
 for f in filenames:
@@ -278,7 +312,9 @@ for f in filenames:
         "transcription" : [],
         "transcription_id": transcription_id,
         "translation" : [],
-        "translation_id": translation_id
+        "translation_id": translation_id,
+        "alignment_transcription_ptrs" : [],
+        "alignment_translation_ptrs": [],
     }
 
     transcription_id += 1
@@ -330,6 +366,7 @@ for f in filenames:
         except ValueError:
             facsim_coords_error.append((f, coords_figdesc))
 
+
     """
     tables transcription & note & transcriptionHasNote
     """
@@ -339,17 +376,29 @@ for f in filenames:
         if tf["has_verses"]: cnt_trancription_has_verses += 1
         if tf["has_head"]:  cnt_trancription_has_head += 1
         if tf["has_p"]:  cnt_trancription_has_p += 1
+
+        char_index = 1
         ##transcription
         for i, v in enumerate(tf["verses"]):
             extract = extract_terms(copy.deepcopy(v))
             #extracted_verse = get_tag_xml_content(v)
             verse, terms = extract
+            verse = clean_entities(verse)
             if len(verse.strip()) > 0:
-                dossiers[f]["transcription"].append("<l>{0}</l>".format(clean_entities(verse)))
+                #dossiers[f]["transcription"].append("<l>{0}</l>".format(verse))
+                dossiers[f]["transcription"].append(verse)
                 dossiers[f]["transcription_notes"] += terms
+                #print(len(get_rid_of_notes(verse)))
+                verse_wo_notes = get_rid_of_notes(verse)
+                dossiers[f]["alignment_transcription_ptrs"].append(
+                    (char_index, char_index+len(verse_wo_notes))
+                )
+                char_index += len(verse_wo_notes)
             else:
-                #cas des vereses auto fermants <l/>
-                dossiers[f]["transcription"].append("<lb/>")
+                #cas des verses auto fermants <l/>
+                #dossiers[f]["transcription"].append("<lb/>")
+                pass
+
 
     """
     tables translation & note & translationHasNote
@@ -360,18 +409,43 @@ for f in filenames:
         if tf["has_verses"]: cnt_translation_has_verses += 1
         if tf["has_head"]: cnt_translation_has_head += 1
         if tf["has_p"]: cnt_translation_has_p += 1
+
+        char_index = 1
         #translation
         for i, v in enumerate(tf["verses"]):
             extract = extract_terms(copy.deepcopy(v))
             #extracted_verse = get_tag_xml_content(v)
             verse, terms = extract
+            verse = clean_entities(verse)
             if len(verse.strip()) > 0:
-                dossiers[f]["translation"].append("<l>{0}</l>".format(clean_entities(verse)))
+                #dossiers[f]["translation"].append("<l>{0}</l>".format(verse))
+                dossiers[f]["translation"].append(verse)
                 dossiers[f]["translation_notes"] += terms
+
+                verse_wo_notes = get_rid_of_notes(verse)
+                dossiers[f]["alignment_translation_ptrs"].append(
+                    (char_index, char_index+len(verse_wo_notes))
+                )
+                char_index += len(verse_wo_notes)
             else:
                 #cas des vereses auto fermants <l/>
-                dossiers[f]["translation"].append("<lb/>")
+                #dossiers[f]["translation"].append("<lb/>")
+                pass
 
+
+        # update the db with the alignment data
+        if tf["has_verses"]:
+
+            id1 = id
+            id2 = id
+            session.execute("DELETE FROM alignment_translation "
+                            "WHERE translation_id={0} and transcription_id={1};".format(id1, id2))
+
+            for i, ((p1, p2), (p3, p4)) in enumerate(zip(dossiers[f]["alignment_transcription_ptrs"],
+                dossiers[f]["alignment_translation_ptrs"])):
+                insert_alignemnt_transcription_translation(session, id1, id2, p1, p2, p3, p4)
+
+            print("--- with verses ", f, id1, id2)
 
 
 """
@@ -394,12 +468,12 @@ add_sql_comment = lambda f, c="=": f.write("--" + c * 40 + "\n")
 
 print("=" * 80)
 print("SQL statements written to 'insert_statements.sql'")
-with open('update_document_stmts.sql', 'w+') as f_document,\
-     open('insert_img_stmts.sql', 'w+') as f_img,\
-     open('insert_transcription_stmts.sql', 'w+') as f_transcription,\
-     open('insert_translation_stmts.sql', 'w+') as f_translation,\
-     open('insert_types_stmts.sql', 'w+') as f_types,\
-     open('insert_notes_stmts.sql', 'w+') as f_notes:
+with open('{0}/update_document_stmts.sql'.format(DEST), 'w+') as f_document,\
+     open('{0}/insert_img_stmts.sql'.format(DEST), 'w+') as f_img,\
+     open('{0}/insert_transcription_stmts.sql'.format(DEST), 'w+') as f_transcription,\
+     open('{0}/insert_translation_stmts.sql'.format(DEST), 'w+') as f_translation,\
+     open('{0}/insert_types_stmts.sql'.format(DEST), 'w+') as f_types,\
+     open('{0}/insert_notes_stmts.sql'.format(DEST), 'w+') as f_notes:
 
     f_img.write(get_delete_stmt("image_zone") + "\n")
     f_img.write(get_delete_stmt("image") + "\n")
