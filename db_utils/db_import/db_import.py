@@ -1,18 +1,14 @@
 # -*- coding: utf-8 -*-
 import copy
-from xml.etree.ElementTree import tostring
+import itertools
 import re
 import os
 import pprint
 import lxml.etree as ET
-from itertools import chain
 
 from sqlalchemy import create_engine
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import create_session
-
-from db_utils.db_import.alignment import delete_insert_alignment_transcription_translation
-
 
 def name_for_collection_relationship(base, local_cls, referred_cls,constraint):
     disc = '_'.join(col.name for col in constraint.columns)
@@ -81,8 +77,9 @@ def get_rid_of_notes(content):
 
 
 def stringify_children(node):
-    from lxml.etree import tounicode
+    import lxml.etree as ET
     from itertools import chain
+    from lxml.etree import tounicode
     s = ''.join(
         chunk for chunk in chain(
             (node.text,),
@@ -292,7 +289,7 @@ processing
 =====================================
 """
 dossiers = {}
-filenames = [f for f in os.listdir(ROOT) if f.endswith("20.xml")]
+filenames = [f for f in os.listdir(ROOT) if f.endswith(".xml")]
 filenames.sort()
 
 for f in filenames:
@@ -396,6 +393,9 @@ for f in filenames:
                 char_index += len(verse_wo_notes)
             else:
                 #cas des verses auto fermants <l/>
+                dossiers[f]["alignment_transcription_ptrs"].append(
+                    (char_index, char_index)
+                )
                 #dossiers[f]["transcription"].append("<lb/>")
                 pass
 
@@ -428,10 +428,12 @@ for f in filenames:
                 )
                 char_index += len(verse_wo_notes)
             else:
+                dossiers[f]["alignment_translation_ptrs"].append(
+                    (char_index, char_index)
+                )
                 #cas des vereses auto fermants <l/>
                 #dossiers[f]["translation"].append("<lb/>")
                 pass
-
 
         # update the db with the alignment data
         if tf["has_verses"]:
@@ -441,8 +443,10 @@ for f in filenames:
             session.execute("DELETE FROM alignment_translation "
                             "WHERE translation_id={0} and transcription_id={1};".format(id1, id2))
 
-            for i, ((p1, p2), (p3, p4)) in enumerate(zip(dossiers[f]["alignment_transcription_ptrs"],
-                dossiers[f]["alignment_translation_ptrs"])):
+            for ((p1, p2), (p3, p4)) in itertools.zip_longest(
+                    dossiers[f]["alignment_transcription_ptrs"],
+                    dossiers[f]["alignment_translation_ptrs"],
+                    fillvalue=("null", "null")):
                 insert_alignemnt_transcription_translation(session, id1, id2, p1, p2, p3, p4)
 
             print("--- with verses ", f, id1, id2)
