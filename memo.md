@@ -127,6 +127,69 @@ On conserve :
 
 **NB.** Penser à transformer `&quot;` au chargement en base.
 
+# Type de document ou auteur
+Choix multiple ; liste initiale, plus exhaustive que les cas déjà rencontrés.  
+Une documentation (éventuellement un lien vers le [VID](http://www.cei.lmu.de/VID/)) serait souhaitable.
+
+|label|définition|VID|
+|-----|----------|---|
+|Pape|||
+|Légat|||
+|Concile|||
+|Évêque|||
+|Chapitre cathédral|||
+|Abbé, maison religieuse|||
+|Autre ecclésiastique|||
+|Souverain|||
+|Prince, comte|||
+|Administration centrale|||
+|Administration locale|||
+|Seigneur|||
+|Municipalité|||
+|Notariats traditionnels|||
+|Notices|||
+|Actes privéssous le sceau et/ou la signature de l’auteur|||
+|Actes privéssous le/les sceaux d’autorités locales|||
+|Notaire public|||
+|Juridiction gracieuse ecclésiastique|||
+|Juridiction gracieuse laïque|||
+|Juridiction gracieuse municipale|||
+|Documents de gestion domaniale|||
+|Inventaires de biens et de trésors|||
+|Documents féodaux|||
+|Documents comptables, financiers et fiscaux|||
+|Documents propres à la production, aux échanges, au travail|||
+|Documents militaires|||
+|Documents propres à la diplomatie et aux relations extérieures|||
+|Documents judiciaires|||
+|Documents propres à l’enseignement|||
+|Documents propres à l’assistance|||
+|Documents propres aux archives ecclésiastiques|||
+|Documents propres aux archives royales et princières|||
+|Documents propres aux archives municipales|||
+|Documents propres aux archives seigneuriales et de particuliers|||
+
+# Modes de tradition
+Choix multiple ; liste initiale, plus exhaustive que les cas déjà rencontrés.  
+Une documentation (éventuellement un lien vers le [VID](http://www.cei.lmu.de/VID/)) serait souhaitable.
+
+|label|documentation|VID|
+|-----|-------------|---|
+|Original|||
+|Original multiple|||
+|Pancarte|||
+|Copie informe|||
+|Copie figurée|||
+|Copie authentique|||
+|Traduction|||
+|Cartulaire|||
+|Inventaire d’archives|||
+|Supplique et pétition|||
+|Formulaire|||
+|Minute et brouillon|||
+|Registre de notaire et de tabellion|||
+|Registre de chancellerie|||
+|Faux|||
 
 # Parties du discours, typologie
 
