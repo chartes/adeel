@@ -43,7 +43,7 @@
                 "on": "http://193.48.42.68/loris/adele/dossiers/20/canvas/f1"
             }],
             "otherContent": [{
-                "@id": "http://localhost:5001/dossiers/1/list/f1",
+                "@id": "http://localhost:5001/api/1/document/20/annotations/list",
                 "@type": "sc:AnnotationList"
             }]
         }]
