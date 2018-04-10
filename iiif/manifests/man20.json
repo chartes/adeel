@@ -44,11 +44,11 @@
             }],
             "otherContent": [
                 {
-                    "@id": "http://localhost:5001/api/1.0/documents/20/annotations/list",
+                    "@id": "http://corpus.enc.sorbonne.fr/adele/api/1.0/documents/20/annotations/list",
                     "@type": "sc:AnnotationList"
                 },
                 {
-                    "@id": "http://localhost:5001/api/1.0/documents/20/transcriptions/list",
+                    "@id": "http://corpus.enc.sorbonne.fr/adele/api/1.0/documents/20/transcriptions/list",
                     "@type": "sc:AnnotationList"
                 }
             ]
