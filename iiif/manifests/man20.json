@@ -44,11 +44,11 @@
             }],
             "otherContent": [
                 {
-                    "@id": "http://dev.chartes.psl.eu/adele/api/1.0/documents/20/annotations/list",
+                    "@id": "http://localhost:5000/adele/api/1.0/documents/20/annotations/list/f1",
                     "@type": "sc:AnnotationList"
                 },
                 {
-                    "@id": "http://dev.chartes.psl.eu/adele/api/1.0/documents/20/transcriptions/list",
+                    "@id": "http://localhost:5000/adele/api/1.0/documents/20/transcriptions/list/f1",
                     "@type": "sc:AnnotationList"
                 }
             ]
